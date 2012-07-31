@@ -1,0 +1,407 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.5.7 Nov 2009
+\ProjectPath C:\My Toolbox Projects\Nkonya\Settings\Toolbox Project.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstCorpus Text
+\WordLstLimitCount
+\WordLstMaxCount 10
+\ConcordanceCorpus Text
+\ConcordanceSearch sæmpl̩
+\ConcordanceSearchType 3
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput Concordance.db
+\+Corpus Free translation
+\FilesList C:\My Toolbox Projects\Nkonya\Texts.txt
+\lng English
+\WordMarkers \ft
+\BookMarker \ref
+\WordIndex C:\My Toolbox Projects\Nkonya\Freetran.wi
+\WordListOutput wordlistft.db
+\-Corpus
+\+Corpus Text
+\FilesList C:\My Toolbox Projects\Nkonya\Texts.txt
+\lng vernacular
+\WordMarkers \tx
+\BookMarker \ref
+\WordIndex C:\My Toolbox Projects\Nkonya\Text.wi
+\WordListOutput wordlist.db
+\-Corpus
+\-CorpusSet
+\WarnDocClose
+\NoAutoWrap
+\LangCtrlHeight 24
+\DontValidateOnEdit
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain normal -1 -1 -1 -1 50 39 1440 851
+\+dblst 
+
+\+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
+\+wndlst 
+\+wnd 
+\placement min 480 669 -1 -1 0 0 1186 446
+\z 1
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 150
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty
+\NoFieldEntry_White
+\+brf 
+\mkr lx
+\width 181
+\-brf
+\+brf 
+\mkr ps
+\width 181
+\-brf
+\+brf 
+\mkr ge
+\width 784
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey hm
+\-ind
+\+rec 
+\fldPriKey Amen
+\fldSecKey
+\-rec
+\+keySearch 
+\fldPri ka
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\Parsing Dictionary.txt
+\+wndlst 
+\+wnd 
+\placement normal 320 669 -8 -28 30 30 1216 476
+\z 3
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 156
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 198
+\-brf
+\+brf 
+\mkr u
+\width 955
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey hm
+\-ind
+\+rec 
+\fldPriKey Katsʋn
+\fldSecKey
+\-rec
+\+keySearch 
+\fldPri ka
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri ɛ́ɛ
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 7
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
+\+wndlst 
+\+wnd 
+\placement normal 960 669 -8 -28 484 26 1294 685
+\z 5
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 150
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 166
+\-brf
+\+brf 
+\mkr ps
+\width 611
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey hm
+\-ind
+\+rec 
+\fldPriKey wie
+\fldSecKey
+\-rec
+\+keySearch 
+\fldPri ka
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri hɔ gyi
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\+wnd 
+\placement normal 800 669 -8 -28 817 -6 1360 657
+\z 2
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 150
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 162
+\-brf
+\+brf 
+\mkr ps
+\width 162
+\-brf
+\+brf 
+\mkr ge
+\width 179
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey hm
+\-ind
+\+rec 
+\fldPriKey ka
+\fldSecKey
+\-rec
+\+keySearch 
+\fldPri GEN.9:13
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri hɩɛ nsʋ
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 4
+\CaretLineScroll 4
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\Keyterms Dictionary.txt
+\+wndlst 
+\+wnd 
+\placement min 160 669 -1 -1 120 120 1306 566
+\z 0
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 341
+\-brf
+\+brf 
+\mkr ps
+\width 812
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey hm
+\-ind
+\+rec 
+\fldPriKey ɔnɔ́klɩ́
+\fldSecKey
+\-rec
+\+keySearch 
+\fldPri ka
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri ɩsʋbɩtɩ́ ogyá ánɩ́ ɩtamaduntɔ
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\Texts.txt
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -1 -1 161 161 1301 625
+\z 4
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr ref
+\width 1114
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey ref
+\srtPriKey English
+\-ind
+\+rec 
+\fldPriKey 2
+\-rec
+\+keySearch 
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 2
+\CaretLineScroll 2
+\CaretChar 40
+\-wnd
+\-wndlst
+\-db
+
+\-dblst
+\+Find 
+\Field lx
+\match_char e
+\+ftxlst 
+\+ftx 
+\text ɔsrɩ
+\lng vernacular
+\-ftx
+\+ftx 
+\text abɩn
+\lng vernacular
+\-ftx
+\+ftx 
+\text Ɔha-gyi-ɔha
+\lng vernacular
+\-ftx
+\+ftx 
+\text ha-gyi-ɔha
+\lng vernacular
+\-ftx
+\+ftx 
+\text á
+\lng vernacular
+\-ftx
+\+ftx 
+\text é
+\lng vernacular
+\-ftx
+\+ftx 
+\text ɛ́
+\lng vernacular
+\-ftx
+\+ftx 
+\text í
+\lng vernacular
+\-ftx
+\+ftx 
+\text ɩ́
+\lng vernacular
+\-ftx
+\+ftx 
+\text ó
+\lng vernacular
+\-ftx
+\+ftx 
+\text ɔ́
+\lng vernacular
+\-ftx
+\+ftx 
+\text ú
+\lng vernacular
+\-ftx
+\+ftx 
+\text ʋ́
+\lng vernacular
+\-ftx
+\+ftx 
+\text funu-wa
+\lng vernacular
+\-ftx
+\+ftx 
+\text tama
+\lng vernacular
+\-ftx
+\+ftx 
+\text fʋ tɔ
+\lng vernacular
+\-ftx
+\+ftx 
+\text fʋ tɛ
+\lng vernacular
+\-ftx
+\+ftx 
+\text fʋ tama
+\lng vernacular
+\-ftx
+\+ftx 
+\text aklanbi
+\lng vernacular
+\-ftx
+\-ftxlst
+\Replace fʋtama
+\-Find
+\AmbigBoxLeft 14
+\AmbigBoxTop 406
+\-ShProjectSettings

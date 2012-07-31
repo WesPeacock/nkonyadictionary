@@ -1,0 +1,32 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.5.7 Nov 2009
+\ProjectPath C:\My Toolbox Projects\Nkonya\ToolboxMDFFields.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstMaxCount 100
+\ConcordanceSearchType 0
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput lookup.db
+\-CorpusSet
+\LangCtrlHeight 24
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain normal -1 -1 -1 -1 0 0 800 610
+\+dblst 
+
+\-dblst
+\+Find 
+\match_char p
+\+ftxlst 
+\-ftxlst
+\-Find
+\AmbigBoxLeft 0
+\AmbigBoxTop 20
+\-ShProjectSettings
