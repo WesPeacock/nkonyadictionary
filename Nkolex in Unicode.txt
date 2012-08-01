@@ -42,7 +42,7 @@
 \nt a proverb
 \kinds subtypes of head entry
 \np tone frame
-\a Alternate form of lx
+\va Alternate form of lx
 \rkey unique_record_key
 \dt 10/Jan/2012
 
@@ -374,7 +374,7 @@
 \ps n
 \ge rib
 \de
-\awl 0080
+\rf SIL-AWL:0080
 \rkey 8173ed98-33c3-46e6-bc66-0785c5ab0213
 \dt 12/Jan/2012
 
@@ -386,7 +386,7 @@
 \np abɩntɔ nɩ
 \xv Bapʋ ɔdayi amʋ wɔ ɔprakuo amʋ abɩntɔ.
 \xe They have pierce the knife into the stomach of the pig.
-\awl 0035
+\rf SIL-AWL:0035
 \rkey 91f80eef-c3a4-4bf9-9622-130148bbe364
 \dt 20/Sep/2005
 
@@ -853,7 +853,7 @@
 \lx afɩnɩ
 \ph afɪnɪ
 \ps Q
-\a fɩnɩ
+\va fɩnɩ
 \ge how_much
 \np LLL (H)
 \np L-LL#H
@@ -1033,7 +1033,7 @@
 \xv Nɩ fʋdɛ sigarɛtɩ nun a, fʋ afʋfʋ teyinta. Fʋtɔkɔsɩ wu.
 \xe If you are smoking cigarette, your lungs spoils and you die quickly.
 \rf Stewart List:0062
-\awl 0085
+\rf SIL-AWL:0085
 \rkey 6ba83b5e-db45-475d-aca4-96f152f87592
 \dt 23/Jul/2012
 
@@ -1771,7 +1771,7 @@
 \np akpʋn nɩ
 \xv Olinkantɩ lafa wa akpʋn amʋtɔ, sʋ lawa ɔkɩta.
 \xe Bile has burst on the liver so it has made it bitter.
-\awl 0083
+\rf SIL-AWL:0083
 \rkey f0ab4f84-234e-4df4-b413-e607da35b07f
 \dt 05/Jul/2012
 
@@ -1783,7 +1783,7 @@
 \np akpʋmanta nɩ
 \xv Akpʋn-manta mʋ́a akpʋn fɛ́ɛ́ bʋ alɛ ha nyebi.
 \xe Gall bladder and liver are all good for children.
-\awl 0087
+\rf SIL-AWL:0087
 \rkey cf624adb-5eeb-4ae3-9105-9ff0e0a99850
 \dt 03/Apr/2012
 
@@ -2057,7 +2057,7 @@
 \lx aloo
 \ph alóː
 \ps ADV
-\a loo
+\va loo
 \ge or
 \np LHH (H)
 \np L_HH#H
@@ -2209,7 +2209,7 @@
 
 \lx ana
 \ph ana
-\a na
+\va na
 \ps NUM
 \ge four
 \np LL H
@@ -2305,7 +2305,7 @@
 
 \lx anɩ
 \ph anɪ
-\a anɩ-
+\va anɩ-
 \ps PRO
 \ge we/us
 \np LL (H)
@@ -2334,7 +2334,7 @@
 
 \lx ánɩ́
 \ph ánɪ́
-\a -á
+\va -á
 \ps CNJ
 \ge that
 \np HH (H)
@@ -2418,7 +2418,7 @@
 \xv Nɩ owi ta a, mɩ ansibi tamawun atɔ wanklaan.
 \xe When it is dark, I can't see well.
 
-\awl 0006
+\rf SIL-AWL:0006
 \rkey a6f31397-1ba7-4997-97c9-6e8a7201a921
 \dt 23/Jul/2012
 
@@ -2506,7 +2506,7 @@
 \xv Kebi bɔbwɛ amʋ ansɩkukusʋ-imi amʋ labʋla dʋbi
 \xe The eyebrow of the small child is too bushy
 
-\awl 0007
+\rf SIL-AWL:0007
 \rkey 84b36401-fdfe-4fd7-a020-3d0ee49be173
 \dt 10/Jan/2012
 
@@ -2553,7 +2553,7 @@
 \rf Tape:1-1-520
 \cf Ansɩtɔ dɛ mʋ bi.  Eng:He is feeling dizzy
 \rf Stewart List:0008
-\awl 0005
+\rf SIL-AWL:0005
 \rkey fc8d12e8-8d45-404a-8ea8-1ac1c948a8af
 \dt 10/Jan/2012
 
@@ -2618,8 +2618,8 @@
 \lx anyɔ
 \ph aɲɔ
 \ps NUM
-\a nyɔ
-\a nyɔ
+\va nyɔ
+\va nyɔ
 \ge two
 \np LL (H)
 \np L-L#H
@@ -2751,8 +2751,8 @@
 
 \lx asa
 \ph asa
-\a sa
-\a sa
+\va sa
+\va sa
 \ps NUM
 \ge three
 \np LL (H)
@@ -3001,7 +3001,7 @@
 \lx asɩ
 \ph asɪ
 \ps POST
-\a -asɩ
+\va -asɩ
 \ge around; down; under; begin
 \np LL (H)
 \np L-L#H
@@ -3367,8 +3367,8 @@
 \ph atɔ́
 \ps n
 \ge things
-\a atɔ-
-\a ato-
+\va atɔ-
+\va ato-
 \np LH
 \np L-Hʔ#H
 \de things; something
@@ -3673,7 +3673,7 @@
 \xe Some pregnant women salivate a lot.
 \rf Tape:1-2-112
 \rf Stewart List:0046
-\awl 0093
+\rf SIL-AWL:0093
 \rkey efb158f3-9bf3-4046-be9b-cb202c7749a4
 \dt 16/Jul/2012
 
@@ -3873,7 +3873,7 @@
 \ge bone_marrow
 \de marrow
 
-\awl 0075
+\rf SIL-AWL:0075
 \rkey cea559a9-0cae-43cf-85c2-42e71596c673
 \dt 10/Jan/2012
 
@@ -3897,7 +3897,7 @@
 \de
 \xv Oyin amʋ awʋlɩ bʋ ɔnlɩn dʋbɩ
 \xe The skin of the man is too hard
-\awl 0002
+\rf SIL-AWL:0002
 \rkey 3388e870-8b41-4177-8b73-f0496a351143
 \dt 14/May/2012
 
@@ -3952,7 +3952,7 @@
 \ps n
 \ge semen
 \de semen
-\awl 0100
+\rf SIL-AWL:0100
 \rkey c7a1a1e4-07d5-4653-9845-15d247042ea5
 \dt 14/May/2012
 
@@ -4016,7 +4016,7 @@
 \lx ba
 \ph báʔ
 \ps v
-\a ba_
+\va ba_
 \ge split
 \np H
 \np Hʔ
@@ -4301,7 +4301,7 @@
 \lx bɛ-
 \ph bɛ-
 \ps AUX
-\a be-
+\va be-
 \ge come_to
 \np L
 \de come in order to
@@ -4316,9 +4316,9 @@
 
 \lx bɛ́-
 \ph bɛ́-
-\a bé-
-\a bɔ́-
-\a bó-
+\va bé-
+\va bɔ́-
+\va bó-
 \ps TAM
 \ge FUT
 \np H
@@ -4691,7 +4691,7 @@
 \lx bɩ
 \ph bɪ́
 \ps vt
-\a bɩɩ
+\va bɩɩ
 \ge know
 \np H
 \de 1) come to know 2) recognize
@@ -4711,7 +4711,7 @@
 \lx bɩ
 \ph bɪ́
 \ps n
-\a -bɩ
+\va -bɩ
 \ge time
 \de time of occurance
 \rkey 999a4caa-70ff-4a74-9c50-b3ac0c41b743
@@ -4727,7 +4727,7 @@
 
 \lx bɩn
 \ph bɪ̃ʔ
-\a bɩɩn
+\va bɩɩn
 \ps vt
 \ge sew
 \np L
@@ -4835,8 +4835,8 @@
 \lx bɩtɩa
 \ph bɪtɪ́a
 \ps vt
-\a bɩtɩ
-\a bɩtɩ
+\va bɩtɩ
+\va bɩtɩ
 \ge pull
 \np HHL
 \de pull so that it follows
@@ -4851,7 +4851,7 @@
 
 \lx bla
 \ph bla
-\a blaa
+\va blaa
 \ps v
 \ge tell
 \np L
@@ -5316,7 +5316,7 @@
 \lx brɛ
 \ph brɛ́
 \ps n
-\a bre
+\va bre
 \ge time
 \np LH
 \np L-H#H
@@ -5609,7 +5609,7 @@
 
 \lx bʋ
 \ph bʊ
-\a bʋʋ
+\va bʋʋ
 \ge is; are; has
 \np L
 \de 1) exists 2) to have
@@ -5828,7 +5828,7 @@
 
 \lx bʋta
 \ph bʊtá
-\a ɩbʋta
+\va ɩbʋta
 \ge boulder
 \np LLH
 \np L-LH#H
@@ -6363,12 +6363,12 @@
 \ge CONT
 \np L
 \np L
-\a dɛ-
-\a de-
-\a dɛ-
-\a de-
-\a de
-\a de
+\va dɛ-
+\va de-
+\va dɛ-
+\va de-
+\va de
+\va de
 \de continuous aspect
 \np Ɔdɛ (tɔkʋ).
 \ps TAM
@@ -6416,7 +6416,7 @@
 
 \lx dɛhɛn
 \ph dɛhɛ̃
-\a ɔdɛhɛn
+\va ɔdɛhɛn
 \ge elder
 \np LL
 \de elder sibling
@@ -6684,7 +6684,7 @@
 
 \lx dodoodo
 \ph dodoːdo
-\a dodo
+\va dodo
 \ge already
 \np LL
 \np LL
@@ -6994,7 +6994,7 @@
 
 \lx dʋn
 \ph dʊ̃ʔ
-\a dʋʋn
+\va dʋʋn
 \ge more_than
 \np LL
 \np L-L
@@ -7120,8 +7120,8 @@
 
 \lx ɛkɛ
 \ph ɛkɛ
-\a -kɛ
-\a -kɛ
+\va -kɛ
+\va -kɛ
 \ge day
 \np LL
 \de day
@@ -8050,8 +8050,8 @@
 
 \lx fʋ
 \ph fʊ
-\a fʋ-
-\a fʋ-
+\va fʋ-
+\va fʋ-
 \ge 2S
 \np L
 \de you (singular)
@@ -8075,7 +8075,7 @@
 \xe take breath; take a walk outside; have a breath of fresh air
 \nq is this fʋ or fu?
 \rf Stewart List:2038
-\awl 0092
+\rf SIL-AWL:0092
 \rkey d7bdc16a-f6b6-4b61-83a8-1b8b036c1b85
 \dt 10/Jan/2012
 
@@ -8422,7 +8422,7 @@
 \ge small_of_back
 \de
 \ps n
-\awl 0043
+\rf SIL-AWL:0043
 \rkey 5a5cad9e-7ae5-406a-8bb6-b2524bb65463
 \dt 10/Jan/2012
 
@@ -8465,7 +8465,7 @@
 
 \lx gya
 \ph ʤa
-\a gyaa
+\va gyaa
 \sn 1
 \ge sack
 \sn 2
@@ -9122,7 +9122,7 @@
 
 \lx ha
 \ph há
-\a haa
+\va haa
 \ge give
 \np L
 \de give
@@ -9395,7 +9395,7 @@
 
 \lx hɔ
 \ph hɔ
-\a hɔɔ
+\va hɔɔ
 \ge accept; buy; take; save; burn
 \np H?
 \de 1) buy; take. 2) burn
@@ -9454,7 +9454,7 @@
 
 \lx hʋlɩ
 \ph hʊlɪ́
-\a hʋlɩɩ
+\va hʋlɩɩ
 \ge lose
 \de lose irretrievably;
 \ps v
@@ -9667,7 +9667,7 @@
 
 \lx idu
 \ph idú
-\a du
+\va du
 \ge ten
 \np LH
 \np L-Hʔ#H
@@ -9770,7 +9770,7 @@
 
 \lx ifuli
 \ph ifuli
-\a fuli
+\va fuli
 \ge corpse; ghost
 \np LHL
 \np L-HLʔ#L
@@ -9954,7 +9954,7 @@
 
 \lx ikweba
 \ph ikwebá
-\a kweba
+\va kweba
 \ge nine
 \np LLH
 \np L-LHʔ#H
@@ -9977,7 +9977,7 @@
 \xe The old man's beard has become gray.
 \rf Tape:2-2-405
 \rf Stewart List:0030
-\awl 0028
+\rf SIL-AWL:0028
 \rkey e8cb4f64-685a-456b-b411-75b561a3beb3
 \dt 14/May/2012
 
@@ -10000,7 +10000,7 @@
 \ge nasal mucus
 \de
 \ps n
-\awl 0095
+\rf SIL-AWL:0095
 \rkey 5e6d9ec2-38b6-4129-81b5-f2bcbed97dc2
 \dt 18/Oct/2005
 
@@ -10015,7 +10015,7 @@
 \xe A cat's fur is pleasant to touch because it is smooth.
 \rf Tape:2-2-413
 \rf Stewart List:0025
-\awl 0027
+\rf SIL-AWL:0027
 \rkey 7af5629e-2bd0-4fad-9b4d-3b5527137a86
 \dt 16/Jul/2012
 
@@ -10108,7 +10108,7 @@
 
 \lx ipu
 \ph ipu
-\a pu
+\va pu
 \ge stomach
 \np LL
 \np L-L#H
@@ -10411,7 +10411,7 @@
 \rf Stewart List:0026
 \xv Awú lofuli, ɩbʋ ɔlɩn kpekple.
 \xe Bones are white and very strong.
-\awl 0074
+\rf SIL-AWL:0074
 \rkey ba3fb7c9-4684-40d4-8628-04e6203cae1b
 \dt 23/Jul/2012
 
@@ -10420,7 +10420,7 @@
 \ge bone marrow
 \de
 \ps n
-\awl 0075
+\rf SIL-AWL:0075
 \rkey 679294a0-4aac-4db1-b72f-660423944a08
 \dt 23/Jul/2012
 
@@ -10456,7 +10456,7 @@
 \nt proverb
 \cf iyie-ɔlɛpʋ Eng:fisherman
 \rf Stewart List:0028
-\awl 0089
+\rf SIL-AWL:0089
 \rkey 243c8594-bd03-4d3f-965d-1911f5455571
 \dt 05/Jul/2012
 
@@ -10489,7 +10489,7 @@
 
 \lx ɩ-
 \ph ɪ-
-\a i-
+\va i-
 \ge it
 \np L
 \de 3rd person inanimate pronoun
@@ -10499,7 +10499,7 @@
 
 \lx ɩ-
 \ph ɪ-
-\a i-
+\va i-
 \ge NOM
 \np L(H)_ʔ
 \de nominalizer; changes a verb to a noun
@@ -10512,7 +10512,7 @@
 
 \lx ɩ- -la
 \ph ɪ__la
-\a -la
+\va -la
 \ge activity; things
 \np H
 \de an activity/things that will result in the occurance of the infixed verb
@@ -10604,7 +10604,7 @@
 \xe If you work hard with your arm your shoulder will pain you.
 \rf Tape:2-2-508
 \nq check kinkin on the tape
-\awl 0052
+\rf SIL-AWL:0052
 \rkey f68ec834-96cd-42bf-bb4e-0f842540b2fd
 \dt 05/Jul/2012
 
@@ -10721,7 +10721,7 @@
 
 \lx ɩbɩ
 \ph ɪbɪ
-\a bɩ
+\va bɩ
 \ge hand; arm
 \np LL
 \np L-Lʔ#L
@@ -10731,7 +10731,7 @@
 \xe Akwasua's hand is longer than Mansa's.
 \rf Tape:2-2-514
 \rf Stewart List:0002
-\awl 0054
+\rf SIL-AWL:0054
 \rkey 888e52d2-e550-45ff-9de5-1838e9aa603f
 \dt 20/Sep/2005
 
@@ -10758,8 +10758,8 @@
 \xv Pʋ fʋ bɩtata da akwɛ amʋ kʋklʋ.
 \xe Hit the drum hard with your palm.
 \rf Tape:2-2-520
-\awl 0056
-\awl 0058
+\rf SIL-AWL:0056
+\rf SIL-AWL:0058
 \rkey b491069f-66d0-4d29-8edd-9420cd7e0ec3
 \dt 05/Jul/2012
 
@@ -10813,7 +10813,7 @@
 \ps n
 \xv Mʋ bɔ́tɔ kpɩ wahɛ.
 \xe His neck is short.
-\awl 0023
+\rf SIL-AWL:0023
 \rkey fbf1e1ed-3329-4ed4-ac3d-f01e3f76f851
 \dt 02/Apr/2012
 
@@ -11012,7 +11012,7 @@
 
 \lx ɩfɩtaa
 \ph ɪfɪtâː
-\a fɩtaa
+\va fɩtaa
 \ge leaf
 \np LH
 \np LHʔ#L
@@ -11242,7 +11242,7 @@
 
 \lx ɩklʋn
 \ph ɪklʊ̃ʔ
-\a klʋn
+\va klʋn
 \ge door
 \np LL
 \np L-Lʔ#L
@@ -11261,7 +11261,7 @@
 
 \lx ɩklʋn
 \ph ɪklʊ̃
-\a klʋn
+\va klʋn
 \ge heart
 \np L
 \de heart
@@ -11279,7 +11279,7 @@
 \rpht repentance
 \rph klʋn-lwii
 \rpht comfort
-\awl 0082
+\rf SIL-AWL:0082
 \rkey ddf316f7-2990-4ba7-9752-6c6947888e54
 \dt 16/Jul/2012
 
@@ -11404,7 +11404,7 @@
 
 \lx ɩkʋ
 \ph ɪkʊ
-\a kʋ
+\va kʋ
 \ge some; certain
 \np L
 \de some, a certain thing
@@ -11438,8 +11438,8 @@
 
 \lx ɩkʋlɛ
 \ph ɪkʊlɛ
-\a kʋlɛ
-\a ɔkʋlɛ
+\va kʋlɛ
+\va ɔkʋlɛ
 \ge one
 \np LLL
 \np L-LLʔ#L
@@ -11715,7 +11715,7 @@
 
 \lx ɩnʋ
 \ph ɪnʊ
-\a nʋ
+\va nʋ
 \ge there
 \np LL
 \de there; at that time
@@ -11754,7 +11754,7 @@
 
 \lx ɩnwɛ
 \ph ɪ̃wɛ̃
-\a nwɛ
+\va nwɛ
 \ge mercy
 \np LLL
 \np L-LL#H
@@ -12043,7 +12043,7 @@
 \xv Baka ɔbwɩ amʋ sʋ pʋ hɩɛ mʋ nsʋ.
 \xe They have cut the animal's ear to mark it.
 \rf Tape:3-1-176
-\awl 0013
+\rf SIL-AWL:0013
 \rf Stewart List:0009
 \xv ha asʋ
 \xe proclaim innocent
@@ -12095,7 +12095,7 @@
 \ge earwax
 \de
 \ps n
-\awl 0096
+\rf SIL-AWL:0096
 \rkey dbef7632-e378-433e-b67d-1703605a1725
 \dt 02/Jan/2012
 
@@ -12296,8 +12296,8 @@
 \xe Punch him.
 \rf Tape:7-2-533
 \rf Stewart List:0095
-\awl 0057
-\awl 0061
+\rf SIL-AWL:0057
+\rf SIL-AWL:0061
 \rkey e4965d5f-30a4-49db-8c31-058af728ce6b
 \dt 15/Sep/2005
 
@@ -12344,7 +12344,7 @@
 
 \lx ɩwɩ
 \ph ɪwɪ
-\a wɩ
+\va wɩ
 \ge self; about; REFLEX
 \np LL
 \np L-Lʔ#H
@@ -12370,7 +12370,7 @@
 \ps n
 \xv Oyin anfɩ ɩwɩ-imi lofulu fɛ tɔkʋtɔkʋ
 \xe This man's body hair's is as white as something
-\awl 0029
+\rf SIL-AWL:0029
 \rkey 0de8e502-e99f-43c3-8269-a0fdeb03ffe4
 \dt 16/Jul/2012
 
@@ -12905,7 +12905,7 @@
 \nq why is there an a on the end of mlɩ?
 \rf Tape:3-1-435
 \rf Stewart List:0017
-\awl 0033
+\rf SIL-AWL:0033
 \rkey 6fab112b-ea93-42d0-839e-9a7247ace09b
 \dt 05/Jul/2012
 
@@ -13424,7 +13424,7 @@
 
 \lx kinkiinkin
 \ph kĩ́kĩ́ːkĩ́
-\a kinkin
+\va kinkin
 \ge seriously; firmly
 \np HHH
 \np HHH#H
@@ -13469,7 +13469,7 @@
 
 \lx kɩ
 \ph kɪ
-\a kɩɩ
+\va kɩɩ
 \ge look
 \np L
 \np Lʔ
@@ -14045,7 +14045,7 @@
 \xv Atɔ lada mɩ klɛɛtɔ, sʋ mmɛtswɩ mɩ ɩbɩ wanklaan.
 \xe I have a boil in my armpit so I can't swing my arm well.
 \rf Tape:3-2-225
-\awl 0051
+\rf SIL-AWL:0051
 \rkey 9259f6cd-8094-4adf-b47e-b82e1d0dfd2a
 \dt 10/Jan/2012
 
@@ -14148,7 +14148,7 @@
 
 \lx klun
 \ph klũʔ
-\a kluun
+\va kluun
 \ge darken
 \np L
 \np L-Hʔ#L
@@ -14213,7 +14213,7 @@
 
 \lx kokoli
 \ph kokóli
-\a koli
+\va koli
 \ge beg
 \de please
 \ps v
@@ -14676,7 +14676,7 @@
 \xv Ayin bʋbʋ akpabi anyɔ.
 \xe Men have two testicles.
 \rf Stewart List:0066
-\awl 0047
+\rf SIL-AWL:0047
 \rkey ea42dfa5-db05-4bcf-83fa-896701f98abe
 \dt 13/Sep/2005
 
@@ -15091,7 +15091,7 @@
 \xe I knelt for a long time so my knee is sore.
 \rf Tape:3-2-499
 \rf Stewart List:0060
-\awl 0066
+\rf SIL-AWL:0066
 \rkey 50687d57-dc3c-4203-b7e4-b8c4585f4906
 \dt 05/Jul/2012
 
@@ -15566,7 +15566,7 @@
 
 \lx kplɩ
 \ph k͡plɪ
-\a kplɩɩ
+\va kplɩɩ
 \ge get_down
 \np LH
 \de get down; alight 2) set a child down from the back
@@ -15834,7 +15834,7 @@
 \ge wink (eye)
 \de
 \ps n
-\awl 0104
+\rf SIL-AWL:0104
 \rkey 31660a10-0d35-49b9-bbc9-ca17606eef3f
 \dt 10/Jan/2012
 
@@ -16509,7 +16509,7 @@
 
 \lx kwasieda
 \ph kwasieda
-\a Kwasieda
+\va Kwasieda
 \ge Sunday
 \np LLLL
 \de Sunday/the first day of the week.
@@ -16657,7 +16657,7 @@
 \xv Falɛ fʋ ɔkwɩɩ-puni tsitsa bia afɩta.
 \xe You have taken out your womb and thrown it away and you have put leaves in (an idiomatic expression for loving other children more than yours)
 
-\awl 0041
+\rf SIL-AWL:0041
 \rkey 40d2500b-b982-4e08-a37f-edadeb966873
 \dt 10/Jan/2012
 
@@ -17057,12 +17057,12 @@
 
 \lx lɛ-
 \ph lɛ-/lɛ́-
-\a le-
-\a le-
-\a lɔ-
-\a lɔ-
-\a lo-
-\a lo-
+\va le-
+\va le-
+\va lɔ-
+\va lɔ-
+\va lo-
+\va lo-
 \ge PAST
 \np L
 \de perfective Tense-Aspect marker; simple past tense marker
@@ -17076,9 +17076,9 @@
 \lx -lɛ-
 \ph -lɛ-
 \ps TAM
-\a -le-
-\a -lɔ-
-\a -lo-
+\va -le-
+\va -lɔ-
+\va -lo-
 \ge COND
 \np L
 \de Tense-Aspect marker in relative clause
@@ -17398,7 +17398,7 @@
 
 \lx ma
 \ph ma
-\a ma-
+\va ma-
 \ge who
 \np L
 \de who;
@@ -17663,7 +17663,7 @@
 \xe I swept up all the chickens'droppings and removed them from the chicken coop.
 \rf Tape:4-2-074
 \rf Stewart List:0048
-\awl 0102
+\rf SIL-AWL:0102
 \rkey b8308e6b-ed4a-4244-bae8-0b5177a5634d
 \dt 03/Apr/2012
 
@@ -17888,12 +17888,12 @@
 
 \lx mɛ-
 \ph mɛ-
-\a me-
-\a me-
-\a mɔ-
-\a mɔ-
-\a mo-
-\a mo-
+\va me-
+\va me-
+\va mɔ-
+\va mɔ-
+\va mo-
+\va mo-
 \ge not
 \np L
 \de negative
@@ -17918,9 +17918,9 @@
 
 \lx mɛɛ-
 \ph mɛ̂ː-
-\a mee-
-\a mɔɔ-
-\a moo-
+\va mee-
+\va mɔɔ-
+\va moo-
 \ge will_not
 \np LH
 \de won't, future neg
@@ -18030,7 +18030,7 @@
 
 \lx mɩ
 \ph mɪ́
-\a mɩ-
+\va mɩ-
 \ge me
 \np L
 \de 1st person singular; I; me; myself;
@@ -18157,7 +18157,7 @@
 
 \lx mlɩ
 \ph mlɪ
-\a mlɩ-
+\va mlɩ-
 \ge you(pl)
 \np L
 \de You (pl)
@@ -18282,8 +18282,8 @@
 
 \lx mɔkʋ
 \ph mɔkʊ́
-\a mɔkʋ-
-\a mɔkʋ-
+\va mɔkʋ-
+\va mɔkʋ-
 \ge not_yet
 \np LHʔ
 \de not yet
@@ -18412,7 +18412,7 @@
 \xv Oyin amʋ imi gyi mpɛsɛ mʋ́ sʋ nyebi bʋtenya mʋ ifu
 \xe The man has got a rasta hair and so children fear him.
 
-\awl 0030
+\rf SIL-AWL:0030
 \rkey e421b5be-606e-40f1-a7b1-b3491702db47
 \dt 20/Sep/2005
 
@@ -18501,7 +18501,7 @@
 \xv Nonu asʋn amʋ a, opuni letsii mɩ.
 \xe I heard the matter and my intestine uprooted me.
 \rf Stewart List:0042
-\awl 0086
+\rf SIL-AWL:0086
 \rkey 9c718731-70a3-4738-be90-72c379fe6e39
 \dt 10/Jan/2012
 
@@ -18575,7 +18575,7 @@
 
 \lx mʋ
 \ph mʊ
-\a mʋ-
+\va mʋ-
 \ge his/her; him/her; he/she
 \np L
 \de 3rd Person singular; Possessive he; him; she;
@@ -18727,7 +18727,7 @@
 
 \lx n-
 \ph n-
-\a m-
+\va m-
 \ge I
 \np L
 \de first person singular Subject
@@ -18780,7 +18780,7 @@
 \xe I stubbed my toe so it is cut.
 \rf Tape:2-1-519
 \nq I think tin should be tɩn
-\awl 0073
+\rf SIL-AWL:0073
 \rkey 2c2f5218-bfa9-46c8-9f7e-a87c6b7f8a26
 \dt 12/Jan/2012
 
@@ -18857,7 +18857,7 @@
 \xv Oyin amʋ natata lɛtɛɩ.
 \xe The man's sole is wide.
 \rf Tape:4-2-553
-\awl 0072
+\rf SIL-AWL:0072
 \rkey b912a93b-8738-488f-92d8-ccf46f465f50
 \dt 14/May/2012
 \xv Pʋ fʋ nantata da bɔɔlɔ amʋ.
@@ -18877,7 +18877,7 @@
 \xv Ɔtsɩ amʋ bʋ anantuo, tsufɛsɛ oyo moni.
 \xe The woman has calves because she is fat.
 \rf Tape:4-2-547
-\awl 0068
+\rf SIL-AWL:0068
 \rkey 5391b6ea-3f45-4186-b102-24e2766db45d
 \dt 16/Jul/2012
 
@@ -19214,7 +19214,7 @@
 
 \lx ngya
 \ph nʤa
-\a gya
+\va gya
 \ge since
 \ge now
 \np LL
@@ -19385,7 +19385,7 @@
 \xe They put babies over their shoulders.
 \rf Tape:5-1-177
 \rf Stewart List:0016
-\awl 0031
+\rf SIL-AWL:0031
 \ths words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
 \rkey 44f0cf05-dcc1-41d0-b472-78547b5ca5b2
 \dt 13/Sep/2005
@@ -19398,7 +19398,7 @@
 \xv Yibi amʋ́ʋ́ lɛlɛ Kwame da amʋsʋ mʋ nkanta-iwu lebia.
 \xe The accident caused Kwame's shoulder blade to break.
 
-\awl 0032
+\rf SIL-AWL:0032
 \rkey c88d13c5-6ea7-43b9-b19d-b6a6d7984ff0
 \dt 10/Jan/2012
 
@@ -19413,7 +19413,7 @@
 \lx nkɛ
 \ph ŋkɛ
 \ge days
-\a nke-
+\va nke-
 \np LL
 \de literally days, but also used of festive days, such as yam festivals, the Guang congress meeting, Christmas, any durbar.
 \pl is the plural of ɔkɛ
@@ -19832,7 +19832,7 @@
 \ge blink
 \de
 \ps n
-\awl 0103
+\rf SIL-AWL:0103
 \rkey f85c6534-26e7-4dcc-9755-30780ee307cc
 \dt 12/Jan/2012
 
@@ -19843,7 +19843,7 @@
 \ps n
 \xv Otsɩbi anfɩ onya nya ɔmɛ pɛ mʋ nsibi-klanbi lafʋli.
 \xe When this girl conceives, her eye white beomes white.
-\awl 0010
+\rf SIL-AWL:0010
 \rkey 8f975956-2918-4211-91b3-1ecbd4714d39
 \dt 12/Jan/2012
 
@@ -19941,7 +19941,7 @@
 
 \lx nta
 \ph ntá
-\a nta-bʋ
+\va nta-bʋ
 \ge drink; wine
 \np LH
 \lc nta
@@ -20184,7 +20184,7 @@
 \nt proverb
 \rf Tape:5-1-426
 \rf Stewart List:0031
-\awl 0097
+\rf SIL-AWL:0097
 \rkey cbbf2af3-a97a-4438-970e-ad7d51fed83f
 \dt 03/Apr/2012
 
@@ -20498,7 +20498,7 @@
 \xe They were cruel to him.
 \rf Tape:5-1-459
 \rf Stewart List:0005
-\awl 0003
+\rf SIL-AWL:0003
 \rkey 015b0b7d-de2c-496a-8aaa-a5ef2f2dbb37
 \dt 12/Sep/2005
 
@@ -20541,7 +20541,7 @@
 \xe Animals smell grass before they eat.
 \rf Tape:5-1-481
 \rf Stewart List:3306
-\awl 0136
+\rf SIL-AWL:0136
 \rkey 89bf5916-6a55-4f44-bd79-44989685ef68
 \dt 03/Apr/2012
 
@@ -20550,7 +20550,7 @@
 \ge skull
 \de skull of head
 \ps n
-\awl 0077
+\rf SIL-AWL:0077
 \rkey d8a2944d-6330-41f2-95d9-8749d9f29c72
 \dt 23/Jan/2012
 
@@ -20582,7 +20582,7 @@
 \xe Kuku is mad.
 \nq shouldn't dʋ be dʋn
 \rf Stewart List:0007
-\awl 0081
+\rf SIL-AWL:0081
 \rkey 078f4148-8d9b-41c8-b7ca-b629e3b1ccef
 \dt 23/Jan/2012
 
@@ -20945,7 +20945,7 @@
 \xv Oyin dɛnhɛn amʋ nyewuutɔ-iyin lakpakpa mʋ́sʋ ɔtamatalɩ wɩ awu.
 \xe The old man's molar tooth is removed and so he can't chew bones.
 
-\awl 0019
+\rf SIL-AWL:0019
 \rkey 025a0c83-2574-49c8-ab64-5fdf06cd7bf4
 \dt 12/Jan/2012
 
@@ -20971,7 +20971,7 @@
 
 \lx nyɔ
 \ph ɲɔ
-\a -nyɔ
+\va -nyɔ
 \ge both
 \np L
 \de both
@@ -21157,7 +21157,7 @@
 
 \lx o
 \ph ó
-\a oo
+\va oo
 \ge Exclam; no
 \np H
 \de Oh! exclamation
@@ -21201,8 +21201,8 @@
 
 \lx obi
 \ph obí
-\a bi
-\a bi
+\va bi
+\va bi
 \ge child
 \np LH
 \np l-Hʔ#H
@@ -21288,7 +21288,7 @@
 \xe If the shoulder is bigger than the thigh it is sick.
 \rf Stewart List:0044
 \rf Stewart List:0067
-\awl 0065
+\rf SIL-AWL:0065
 \rkey 3962fa1c-e753-4f2a-aadd-c9b77cd8b65e
 \dt 23/Jul/2012
 
@@ -21302,7 +21302,7 @@
 \ph mbíã́ntɔ́ 
 \ps n
 \rf Stewart List:0067
-\awl 0065
+\rf SIL-AWL:0065
 \rkey 6908e3da-3643-11e1-a294-0026b9deebff
 \dt 10/Jan/2012
 
@@ -21487,7 +21487,7 @@
 \xe The Pastor has got a beautiful neck.
 \rf Tape:6-2-343
 \rf Stewart List:0015
-\awl 0024
+\rf SIL-AWL:0024
 \rkey de9e5dd3-4735-422c-8c13-d4102086bc06
 \dt 16/Jul/2012
 
@@ -21618,7 +21618,7 @@
 \xv Obugya bʋ ɔnlɩn dʋn ntsu.
 \xe Blood is thicker than water.
 \rf Stewart List:0027
-\awl 0098
+\rf SIL-AWL:0098
 \rkey 6181f1d5-add8-4a71-8d03-066eab8ddcc0
 \dt 03/Apr/2012
 
@@ -21634,7 +21634,7 @@
 \xe Urine is salty (salt is in urine).
 \rf Tape:6-2-328
 \rf Stewart List:0049
-\awl 0101
+\rf SIL-AWL:0101
 \rkey 2959f97f-1db2-4c12-8c4a-f6c7edee6e4e
 \dt 10/Jan/2012
 
@@ -21913,9 +21913,9 @@
 \xv Ndɩn ɔlɔ kpɔnkpɔɔntɩ mʋ́ ofinsʋ.
 \xe I have a big sore on my shin.
 \rf Tape:6-2-433
-\awl oo67
+\rf SIL-AWL:0067
 \rkey 7d94f711-393b-4dd0-b802-c16b4f3df606
-\dt 10/Jan/2012
+\dt 01/Aug/2012
 
 \lx ofobi
 \ph ofobí
@@ -22256,7 +22256,7 @@
 
 \lx ogyama
 \ph oʤama
-\a gyama
+\va gyama
 \ge junior
 \np LLL
 \np L-LLʔ#H
@@ -22677,7 +22677,7 @@
 \xv Kebi amʋ okokonitɔ labwɛ ɔlɔ, sʋ tua mʋ.
 \xe The child's anus has a sore, so give him an enema.
 \rf Tape:6-2-576
-\awl 0045
+\rf SIL-AWL:0045
 \rf Stewart List:0063
 \rkey e6602ed2-79bd-4c15-af67-f6596ef0e19f
 \dt 10/Jan/2012
@@ -22792,7 +22792,7 @@
 \xv Atɔ-osunapʋ amʋ dɛ nyebi amʋ okponkpotɔ atɔ pɩtɩ, tsufɛ bʋdɛtɔɩ dʋbɩ.
 \xe The teacher is whipping the children at their buttocks because they are talking too much.
 \ths
-\awl 0044
+\rf SIL-AWL:0044
 \rkey 5b3a665b-7915-4dbc-9b8e-0c0cd4520994
 \dt 16/Jul/2012
 
@@ -22935,7 +22935,7 @@
 
 \lx okulu
 \ph okúlu
-\a kulu
+\va kulu
 \ge husband
 \np LHL
 \de husband
@@ -23072,7 +23072,7 @@
 \xv Olinkantɩ lafa wa akpʋn amʋtɔ, sʋ lawa ɔkɩta.
 \xe The Bile has burst in the liver so it has become bitter.
 \rf Stewart List:0047
-\awl 0099
+\rf SIL-AWL:0099
 \rkey 94a30cc0-92ec-4783-a4c7-6824a43acd43
 \dt 05/Jul/2012
 
@@ -23161,7 +23161,7 @@
 \ge elbow
 \de
 \ps n
-\awl 0053
+\rf SIL-AWL:0053
 \rkey 189d497e-94c6-4a42-93be-a3cecdb0f79e
 \dt 20/Sep/2005
 
@@ -23190,7 +23190,7 @@
 \xe I have a boil in my throat so I am not able to swallow things.
 \nq needs a better sentence as oboyi would be better in this one.
 \rf Stewart List:0090
-\awl 0026
+\rf SIL-AWL:0026
 \rkey 741b78a4-a8a7-461b-97a3-54d6ab3b29c1
 \dt 16/Jul/2012
 
@@ -23247,7 +23247,7 @@
 \xe Some peoples lips crack in harmattan.
 \xv Mapʋ onopi ɔsʋsʋpʋ tɔɩ kpla mɩ.
 \xe Don't talk to me harshly. (an idiom).
-\awl 0016
+\rf SIL-AWL:0016
 \rkey d9c85e32-0400-4e3a-bbf3-bc4da221bb6d
 \dt 12/Sep/2005
 
@@ -23449,7 +23449,7 @@
 \rf Stewart List:0065
 \xv Opietɔ bʋtɔkwɩɩ nyankpʋsa tsʋn.
 \xe People are born through the vagina.
-\awl 0048
+\rf SIL-AWL:0048
 \rkey 4d79a6eb-c4c7-49f9-b974-f5287a490b02
 \dt 13/Sep/2005
 
@@ -23476,7 +23476,7 @@
 
 \lx opio
 \ph opíó
-\a pio
+\va pio
 \ge brother/sister
 \np LHH
 \np L-HH#H
@@ -23649,7 +23649,7 @@
 \xv Nɩ bɔkwɩɩ nyebi, bʋmɛkɩ amʋ́ opulu wanklaan a, bʋtenya ɔmɛtɔ ɩlɔ.
 \xe If they birth children and don't look after their navel well they will get abdominal illness.
 \rf Stewart List:0068
-\awl 0037
+\rf SIL-AWL:0037
 \rkey 7e35f27c-9edb-438d-9f42-754ad7e89aa1
 \dt 13/Sep/2005
 
@@ -23661,13 +23661,13 @@
 \xv Bʋmɛɛkɩ kebi bɔbwɛ amʋ opulu-ɔfɛ amʋsʋ wanklaan mʋ́sʋ odewu nɩ.
 \xe They did not care for the child's umbilical cord well that is why she is dying.
 
-\awl 0038
+\rf SIL-AWL:0038
 \rkey 54859dd2-2e0d-47a1-b065-f0e6fb44b523
 \dt 16/Jul/2012
 
 \lx opuni
 \ph opúni
-\a puni
+\va puni
 \ge womb; intestines
 \de womb, intestines
 \ps n
@@ -23793,7 +23793,7 @@
 \ths osietɔ
 \xv Gyata amʋ osietɔ gyi lekeleke.
 \xe The lion's waist is very slender.
-\awl 0036
+\rf SIL-AWL:0036
 \rkey 129ae1ef-2204-4750-80f6-6c23ff03dffe
 \dt 10/Jan/2012
 
@@ -23854,7 +23854,7 @@
 \xe The thumb is bigger than the rest of the fingers.
 \ue South:eserebi
 \rf Stewart List:0021
-\awl 0059
+\rf SIL-AWL:0059
 \rkey 27556ad6-c597-438b-95e9-e0f04801ca1f
 \dt 05/Jul/2005
 
@@ -24026,7 +24026,7 @@
 \xv Ɔlɔ dɩn oyin ɔkʋ otebisʋ, mʋ́sʋ ɔlɔwa ntʋkʋta a, omenya anatɩlɛ.
 \xe A certain man has a sore on his ankle, he put on shoes and could not walk well.
 \nq new entry
-\awl 0069
+\rf SIL-AWL:0069
 \rkey f513fd36-d174-422b-8f1c-2b701c224239
 \dt 15/Sep/2005
 
@@ -24163,7 +24163,7 @@
 \xv Nokun mɩ bɩ atɔ a, saa lɛka otsin.
 \xe I cut my hand and unexpectedly cut a blood vessel.
 \rf Stewart List:0070
-\awl 0091
+\rf SIL-AWL:0091
 \rkey 14c39542-8a47-4e80-ad12-db57dcc26670
 \dt 10/Jan/2012
 
@@ -24192,7 +24192,7 @@
 \ge clitoris
 \de
 \ps n
-\awl 0049
+\rf SIL-AWL:0049
 \rkey f4d4513d-cf8e-4720-ad50-e3f662050786
 \dt 10/Jan/2012
 
@@ -24392,8 +24392,8 @@
 
 \lx owie
 \ph owíe
-\a wie
-\a wie
+\va wie
+\va wie
 \ge chief
 \np LHF
 \np L-HFʔ#L
@@ -24418,7 +24418,7 @@
 \rf Tape:8-1-274
 \rf Stewart List:0501
 \rkey e90529bc-97e9-4f91-b2de-b1a0c9147e42
-\dt 03/Apr/2012
+\dt 01/Aug/2012
 
 \lx owikplu
 \ph owik͡plu
@@ -24531,7 +24531,7 @@
 \np LH
 \np L-Hʔ#H
 \de tree; stick
-\a iyi
+\va iyi
 \pl nyi
 \ph ɲyí
 \np same
@@ -24592,7 +24592,7 @@
 
 \lx oyin
 \ph oyĩ
-\a yin
+\va yin
 \ge man
 \np LL
 \np L-L#H
@@ -24615,7 +24615,7 @@
 
 \lx oyín
 \ph oyĩ́
-\a yin
+\va yin
 \ge mother
 \np LH
 \np L-H#H
@@ -24679,7 +24679,7 @@
 
 \lx ɔ-
 \ph ɔ-
-\a o-
+\va o-
 \ge (s)he
 \np H
 \de third Person animate pronoun
@@ -24695,7 +24695,7 @@
 
 \lx ɔ-
 \ph ɔ-
-\a o-
+\va o-
 \ge SG
 \de singular noun class
 \ps nc
@@ -24706,8 +24706,8 @@
 
 \lx ɔ- -ba
 \ph ɔ- -ba
-\a -ba
-\a -ba
+\va -ba
+\va -ba
 \ge mate
 \np LH
 \np L-H#H
@@ -24722,8 +24722,8 @@
 
 \lx ɔ- -kɛ
 \ph ɔ- -kɛ
-\a -kɛ
-\a -kɛ
+\va -kɛ
+\va -kɛ
 \ge day
 \np H_L
 \de day when an activity occurs;
@@ -24735,8 +24735,8 @@
 
 \lx ɔ- -kpa
 \ph ɔ- -k͡pa
-\a -kpa
-\a -kpa
+\va -kpa
+\va -kpa
 \ge place
 \np H_L
 \de place where an activity occurs;
@@ -24815,8 +24815,8 @@
 
 \lx ɔba
 \ph ɔba
-\a ba
-\a ba
+\va ba
+\va ba
 \ge neighbour
 \np LL
 \np L-L#H
@@ -24972,7 +24972,7 @@
 \xv Ɔtsɩ amʋ lɔwa abuto mʋ ɔbɩwɛtɔ.
 \xe The woman put beads on her wrist.
 \rf Tape:5-2-183
-\awl 0055
+\rf SIL-AWL:0055
 \rkey c4610f5a-23fa-4454-9698-f66398903f98
 \dt 15/Sep/2005
 
@@ -25203,7 +25203,7 @@
 \ge breastbone
 \de
 \ps n
-\awl 0078
+\rf SIL-AWL:0078
 \rkey 177c3017-884a-4111-b454-ef51e5f73530
 \dt 20/Sep/2005
 
@@ -25323,7 +25323,7 @@
 \xv Awú amʋʋ́ nadun bwie amʋ bʋ ɔnlɩn dʋbɩ, sʋ mɩ ɔda dɛ mɩ dwiin.
 \xe The bones I have bitten and broke were too strong so my jaw is aching me.
 \rf Tape:5-2-258
-\awl 0021
+\rf SIL-AWL:0021
 \rf Stewart List:0034
 \rkey 4c4cebb5-5061-45e2-8cc2-41547dd926bf
 \dt 12/Sep/2005
@@ -25368,7 +25368,7 @@
 \xe No one can control his tongue.
 \rf Tape:5-2-264
 \rf Stewart List:0014
-\awl 0017
+\rf SIL-AWL:0017
 \rkey abf2f4e5-b307-43d8-89ab-2a4a45dd82ab
 \dt 23/Jul/2012
 
@@ -25488,7 +25488,7 @@
 \xv Oyin anfɩ ɔdawu bʋ swɩ, mʋ pio amʋ ɛ klɛ bʋ alɛ.
 \xe This man's chin is long, his brother also is good.
 \rf Tape:5-2-274
-\awl 0022
+\rf SIL-AWL:0022
 \rf Stewart List:0074
 \rkey e4d11693-de26-44b2-a903-980288f23bc5
 \dt 12/Sep/2005
@@ -25600,7 +25600,7 @@
 
 \lx ɔdɔn
 \ph ɔdɔ̃́ʔ
-\a do
+\va do
 \ge bell
 \np LH
 \de bell
@@ -26052,8 +26052,8 @@
 
 \lx ɔka
 \ph ɔká
-\a ka
-\a ka
+\va ka
+\va ka
 \ge wife
 \np LH
 \de wife
@@ -27092,7 +27092,7 @@
 \rf Tape:6-1-054
 \rf Stewart List:0038
 \rf Stewart List:0957
-\awl 0042
+\rf SIL-AWL:0042
 \rkey f439c94e-b04f-4428-8946-b975b8e7bec0
 \dt 16/Jul/2012
 
@@ -27127,7 +27127,7 @@
 \ge spine; backbone
 \de
 \ps n
-\awl 0079
+\rf SIL-AWL:0079
 \rkey 4597dcb2-b644-4ddd-8f56-e0079c4b1d1e
 \dt 02/Jan/2012
 
@@ -27234,7 +27234,7 @@
 \xe If a child respects his parents it is good, you don't suffer.
 \rf Tape:6-1-101
 \rf Stewart List:0061
-\awl 0025
+\rf SIL-AWL:0025
 \rkey 3cd138f9-5715-493c-b37e-bf0ba1cb3da3
 \dt 23/Jul/2012
 
@@ -27253,7 +27253,7 @@
 \xe conceive
 \cf ɔmɛtɔ Eng:stomach
 \rf Stewart List:2106
-\awl 0039/0040
+\rf SIL-AWL:0039/0040
 \rkey d823cb54-81ee-4ed9-badb-abb06ba1a2f1
 \dt 10/Jan/2012
 
@@ -27432,7 +27432,7 @@
 
 \lx ɔna
 \ph ɔná
-\a na
+\va na
 \ge grandmother; grandchild
 \np LH
 \lc ɔna
@@ -27528,7 +27528,7 @@
 \np Ɔnanku nɩ.
 \xv Ɔlɔ ɩdɩn mɩ ɔnakusʋ, sʋ mmɛtalɩ wa ntʋkʋta.
 \xe There's a sore on my heel, I can't wear shoes.
-\awl 0071
+\rf SIL-AWL:0071
 \rkey ef47712a-b44d-475d-8b35-417de42bfd4f
 \dt 10/Jan/2012
 
@@ -27719,7 +27719,7 @@
 \xv Kwasi ladɩda ha mʋ pɩna mʋ ɔnsɩkɛtɛ
 \xe Kwasi has fallen down and scarred his eyelid.
 
-\awl 0008
+\rf SIL-AWL:0008
 \rkey beb0bc5d-61e0-4ebb-8294-446c9050b546
 \dt 10/Jan/2012
 
@@ -28199,7 +28199,7 @@
 
 \lx ɔsɩ
 \ph ɔsɪ́
-\a sɩ
+\va sɩ
 \ge father
 \np LH
 \np L-H#H
@@ -28375,13 +28375,13 @@
 \ge forehead
 \de
 \ps n
-\awl 0004
+\rf SIL-AWL:0004
 \rkey 11cfddad-8a17-4b11-9738-754bc44f63c5
 \dt 12/Sep/2005
 
 \lx ɔsʋlʋʋ
 \ph ɔsʊlʊ̂ː
-\a ɔsʋlʋ
+\va ɔsʋlʋ
 \ge land
 \np LLHʔ
 \de land; earth
@@ -28800,7 +28800,7 @@
 \ge hip
 \de
 \ps n
-\awl 0064
+\rf SIL-AWL:0064
 \rkey 87b1716c-19f1-4cc9-ae87-6848a5faa43a
 \dt 20/Sep/2005
 
@@ -29046,7 +29046,7 @@
 
 \lx ɔtsra
 \ph ɔʦra
-\a tsra
+\va tsra
 \ge moon; month
 \np LLL
 \de month; moon
@@ -29225,7 +29225,7 @@
 \xv Alawata lɛ ɔwɛ.
 \xe He has coughed up phlegm.
 \rf Tape:6-1-571
-\awl 0094
+\rf SIL-AWL:0094
 \rkey 39560a85-c9c9-43dc-ad43-7734a2bbb7c8
 \dt 23/Sep/2005
 
@@ -29264,7 +29264,7 @@
 \xv Fɛn mmɛ lɛ fʋ ɔwɔntɩtɔ.
 \xe Blow the mucus from your nose.
 \rf Tape:6-1-589
-\awl 0011
+\rf SIL-AWL:0011
 \rf Stewart List:0010
 \rkey 22d8ec71-c513-4ef3-9ec0-b8e6c7bb243c
 \dt 10/Jan/2012
@@ -29277,7 +29277,7 @@
 \xv Mɩ ka ɔwɔntɩ-oyibi bʋ akɩlɛ paa
 \xe My wife's nose bridge is very beautiful
 
-\awl 0012
+\rf SIL-AWL:0012
 \rkey 1cdd89d0-6231-43a0-811c-e8ec102363cb
 \dt 10/Jan/2012
 
@@ -29490,7 +29490,7 @@
 \xe Black people's skin is black, whiteman's also is white.
 \rf Tape:6-2-074
 \rf Stewart List:0006
-\awl 0001
+\rf SIL-AWL:0001
 \rkey f38a06ff-feb9-495f-a157-eabfb9f8305d
 \dt 10/Jan/2012
 
@@ -31281,7 +31281,7 @@
 
 \lx si
 \ph si
-\a sii
+\va sii
 \ge leave; stop
 \np Hʔ
 \de leave
@@ -31648,7 +31648,7 @@
 
 \lx sɩnaa
 \ph sɪnâː
-\a sɩna
+\va sɩna
 \ge visit
 \np ???
 \de
@@ -32088,8 +32088,8 @@
 
 \lx susu
 \ph susu
-\a susuu
-\a susuu
+\va susuu
+\va susuu
 \ge think; measure
 \de 1) measure amt, 2) take a blood pressure 3) think
 \ps v
@@ -32148,7 +32148,7 @@
 
 \lx -sʋ
 \ph -sʊ
-\a sʋ
+\va sʋ
 \ge on
 \np L
 \de on
@@ -32219,7 +32219,7 @@
 
 \lx sʋpaa
 \ph sʊ́paː
-\a sʋpa
+\va sʋpa
 \ge humilate
 \np HL
 \np ɔtɔ sʋpa aha
@@ -32588,7 +32588,7 @@
 
 \lx tama
 \ph tama
-\a tama-
+\va tama-
 \ge NEG_HAB
 \np LL
 \de Negative habitual aspect marker
@@ -32830,7 +32830,7 @@
 
 \lx tɛ
 \ph tɛ
-\a tɛɛ
+\va tɛɛ
 \ge stalk/hunt
 \np L
 \np ɔtɛtɛ
@@ -32847,9 +32847,9 @@
 
 \lx tɛ-
 \ph tɛ-
-\a te-
-\a tɔ-
-\a to-
+\va te-
+\va tɔ-
+\va to-
 \ge HAB
 \np L
 \de Habitual or iterative aspect marker; always
@@ -33260,7 +33260,7 @@
 
 \lx tɩn ɔnɔ
 \ph tɪ̃ʔ ɔnɔ́
-\a tɩn
+\va tɩn
 \ge cut; harvest
 \np L
 \np Lʔ
@@ -33575,7 +33575,7 @@
 
 \lx tɔkʋ
 \ph tɔkʊ
-\a toku
+\va toku
 \ge something
 \np LL
 \ps n
@@ -33696,7 +33696,7 @@
 
 \lx tra
 \ph trá
-\a traa
+\va traa
 \ge again; still
 \np H
 \de again/repeat; still
@@ -34059,7 +34059,7 @@
 \xe When an animal is killed, children like to roast it's kidneys and chew.
 \xv Ɔhagyiɔha bʋ atsebi mʋ ɩwɩtɔ
 \xe Everybody has kidney in him / her.
-\awl 0084
+\rf SIL-AWL:0084
 \rkey 45723895-4820-46eb-9eef-c559476bf190
 \dt 10/Jan/2012
 
@@ -34269,7 +34269,7 @@
 
 \lx tsiatɔ
 \ph ʦiátɔ́
-\a itsiatɔ
+\va itsiatɔ
 \ge behaviour
 \np LLHH
 \np L-LHHʔ#L
@@ -34670,7 +34670,7 @@
 
 \lx tsu
 \ph ʦu
-\a tsuu
+\va tsuu
 \ge pick
 \np H
 \de pick up
@@ -34859,7 +34859,7 @@
 
 \lx tsʋn
 \ph ʦʊ̃ʔ
-\a tsʋʋn
+\va tsʋʋn
 \ge pass
 \np L
 \de pass by
@@ -34980,7 +34980,7 @@
 
 \lx tswɩ
 \ph ʦwɪ
-\a tswɩɩ
+\va tswɩɩ
 \ge put_down; dash; throw; bring out
 \np L
 \np Lʔ
@@ -35172,7 +35172,7 @@
 \xe A horse's male organ is very long.
 \rf Tape:7-2-591
 \rf Stewart List:0064
-\awl 0046
+\rf SIL-AWL:0046
 \rkey ca10f71c-37cc-425f-89bf-a0fd62b8d3c9
 \dt 13/Sep/2005
 
@@ -35813,7 +35813,7 @@
 \xv Mɩ ɔma dɛ mɩ wɔlɩ sʋ kokoli wɔlɩ mʋ́ ha mɩ.
 \xe My back is itching me so please scrach it for me.
 \rf Stewart List:2099
-\awl 0158
+\rf SIL-AWL:0158
 \rkey 20f575cf-2b64-402a-bfa1-d051207e65c8
 \dt 23/Jul/2012
 
@@ -35831,7 +35831,7 @@
 \xv Ɔdɛ awɔlʋ laɩ.
 \xe He is clipping his fingernails.
 \rf Tape:4-1-433
-\awl 0062
+\rf SIL-AWL:0062
 \rkey 00ebc1e7-4486-4739-be98-50a4c27fa048
 \dt 15/Sep/2005
 
@@ -35927,7 +35927,7 @@
 
 \lx wun
 \ph wũʔ
-\a wuun
+\va wuun
 \ge see
 \np L
 \de see
@@ -35949,7 +35949,7 @@
 
 \lx wuna
 \ph wuna
-\a wunaa
+\va wunaa
 \ge immediately
 \np LL
 \de immediately
@@ -36249,7 +36249,7 @@
 
 \lx ya
 \ph ya
-\a yaa
+\va yaa
 \ge send
 \np L
 \de take to
@@ -36329,7 +36329,7 @@
 \xv Kɩaɩ ayabi bʋswɩ dʋn andɔ klɛ.
 \xe Dog's legs are longer than cats'.
 \rf Tape:8-1-469
-\awl 0063
+\rf SIL-AWL:0063
 \rf Stewart List:0023
 \rkey b6ab51af-ee3d-462e-9f29-7fa20d79a589
 \dt 11/Oct/2005
@@ -36465,9 +36465,9 @@
 
 \lx yɛ-
 \ph yɛ́-
-\a ye-
-\a yɔ-
-\a yo
+\va ye-
+\va yɔ-
+\va yo
 \ge go_to
 \np LH
 \de go in order to
@@ -36818,7 +36818,7 @@
 
 \lx yɔ
 \ph yɔ́
-\a yɔɔ
+\va yɔɔ
 \ge go
 \np H
 \de go

@@ -196,9 +196,9 @@
 \-drflst
 \+mrflst 
 \mkr lx
-\mkr a
+\mkr va
 \-mrflst
-\mkrOut u
+\mkrOut mr
 \-triPref
 
 \+triRoot 
@@ -216,9 +216,9 @@
 \-drflst
 \+mrflst 
 \mkr lx
-\mkr a
+\mkr va
 \-mrflst
-\mkrOut u
+\mkrOut mr
 \-triRoot
 \GlossSeparator ;
 \FailMark *

@@ -951,7 +951,14 @@
 \-fil
 
 \+fil MarkerPresent
-\mkr rph
+\mkr awl
+\txt [@]
+\match_char c
+\-fil
+
+\+fil awl
+\mkr awl
+\txt [D]
 \match_char c
 \-fil
 
@@ -972,10 +979,6 @@
 \+drflst 
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
-\mkr lx
-\-drf
-\+drf 
-\File C:\My Toolbox Projects\Nkonya\Dictionary.txt
 \mkr lx
 \-drf
 \+drf 
