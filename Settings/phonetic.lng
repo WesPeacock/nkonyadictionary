@@ -27,7 +27,6 @@ W w
 X x
 Y y
 Z z
-
 \+srtset 
 
 \+srt abcde
@@ -209,12 +208,17 @@ a ɶ ɑ ɒ
 
 \-varset
 \+fnt 
-\Name Arial Unicode MS
+\Name Gentium
 \Size 14
 \charset 00
 \rgbColor 0,0,0
 \-fnt
-\kbdWin32 US
+\kbdWin32 IPA Unicode 5.1(ver 1.2 US) MSK
 \kbdKeyman IPA93 1.0 (FF)
+\+KeyDefs 
+
+
+
+\-KeyDefs
 \UnicodeLang
 \-LanguageEncoding
