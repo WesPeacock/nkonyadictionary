@@ -26,10 +26,7 @@
 \nt part of speech PropN - proper name n - noun e. g. abɛ (palm nut) NOMR - nominalizer suffix PRO - pronoun e. g mɩ (I/me) ADJ - adjective e. g. bʋ alɛ (good) ADV - adverb e. g. INTJ -interjection e. g. ɔyaa (good morning) loc -locative e. g. nana (there) DEIC - non-locative deictic e. g. alɩ TAM - tense aspect marker NUM - number v - verb vi - intrasitive verb vn - non-active verb (stative) PTCL other suffix
 \xv example using the word
 \xe translation of the example
-\idf free translation of the example
 \cf related word Eng:related word gloss
-\rph related phrase
-\rpht related phrase translation
 \nq needs to be checked
 \rf Tape:tape-side-index counter
 \nt The following markers are not as frequently used:
@@ -40,11 +37,10 @@
 \ue South:Southern dialect form
 \ue North:Northern dialect form
 \nt a proverb
-\kinds subtypes of head entry
 \np tone frame
 \va Alternate form of lx
 \rkey unique_record_key
-\dt 10/Jan/2012
+\dt 07/Aug/2012
 
 \lx a
 \ph a
@@ -317,6 +313,16 @@
 \rf Tape:1-1-083
 \rkey c6038451-2107-48b4-8afe-ac334864c904
 \dt 02/Apr/2012
+
+\lx abi-atsulii
+\ps n
+\ge seed mushroom
+\de seed mushroom
+\xv Abi-atsuli tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
+\xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
+\rf Tape:1-2-210
+\th atsulii
+\dt 07/Aug/2012
 
 \lx abielɛ
 \ph abíelɛ
@@ -850,6 +856,17 @@
 \rkey 51c0acb2-b27d-446c-8ad2-b8f4dd169986
 \dt 10/Jan/2012
 
+\lx afio
+\ph afíó
+\ps n
+\ge wide-headed mushroom
+\de wide-headed mushroom
+\xv Afio, mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋswɩ. Ɩtɔwa ɔdwɛ oputsutɔ. Bʋtɛkaka mʋ́ wa oputsutɔ. Ɩtɔkwɛ sinsʋ.
+\xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in an termite mound.
+\rf Tape:1-2-150
+\th atsulii
+\dt 07/Aug/2012
+
 \lx afɩnɩ
 \ph afɪnɪ
 \ps Q
@@ -1013,11 +1030,12 @@
 \np afutuo nɩ
 \xv Ha mʋ afutuo, osi atɔ wi.
 \xe Advise him to stop stealing.
-\ths see ɔfʋ; tɔɩ kpla
+\cf ɔfʋ
+\cf tɔɩ kpla
 \xv afutuo ɔhapʋ
 \xe counsellor
 \rkey 0a19d56e-dd59-4e1e-ba70-aa04e8737204
-\dt 23/Jul/2012
+\dt 02/Aug/2012
 
 \lx afʋfʋ
 \ph afʊfʊ
@@ -1054,13 +1072,13 @@
 \ge scorpion
 \np LHL
 \np L-HF#H
-\de small brown scorpion;
-\np aganɛ nɩ
-\ths N. N nyankpʋ kpie
+\de little brown scorpion, Southern dialect
+\bw Ewe fi:aganɛ
+\cf nyankpʋkpie
 \xv Bamɔ aganɛ amʋ́ʋ́ ɔlɔsʋra kebi amʋ.
 \xe They have killed the scorpion that stung the child.
 \rkey 3be42a3b-cd90-4357-a8fa-33f95a9dc539
-\dt 10/Jan/2012
+\dt 02/Aug/2012
 
 \lx Agbagya
 \ps n
@@ -1181,10 +1199,10 @@
 \xe Those who lived in the olden days, they took tree bark and roofed their houses.
 \xe Those who lived in olden times used tree bark to roof their houses.
 \nt It was used for walls rather than roof -FO
-\ths oyi ɔma (bark)
+\cf oyi ɔma
 \rf Tape:1-1-218
 \rkey 9d58c6bb-5106-48d0-8fb9-e9f6cfdd2cfb
-\dt 05/Jul/2012
+\dt 02/Aug/2012
 
 \lx agyabi
 \ph aʤabi
@@ -1210,9 +1228,9 @@
 \xv Nkunyafɔ bʋtegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋtegyi abitɛpʋ klɛ.
 \xe Nkonyas inherit fathers' possessions, but Ashantis inherit their maternal uncle's.
 \rf Tape:1-1-229
-\ths the Nkonya equivalent is ɩtonya.
+\cf itonya.
 \rkey 8415c346-1888-4b57-9f89-4ae7baebe498
-\dt 05/Jul/2012
+\dt 02/Aug/2012
 
 \lx agyawunu
 \ph aʤawunu
@@ -1232,13 +1250,11 @@
 \np LLLL LLH (H)
 \np L-L-LL-LL-H#H
 \de charcoal burner
-\np agyawunu ɔtɔpʋ nɩ
 \xv Agyawunu ɔtɔpʋ atadɩɛ tebi, tsufɛ agyawunu lebi.
 \xe charcoal burner's attire blackens, because charcoal is black.
-\ths from agyawunu
 \nq new entry
 \rkey ad80b57e-5167-4899-9938-46b03f501fac
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx agyilɛ
 \ph aʤílɛ
@@ -1289,9 +1305,9 @@
 \xe She isn't wanting that nobody he hears their matter, so she advised him in a whisper.
 \xe She didn't want anyone to hear so she whispered her advice.
 \rf Tape:1-1-254
-\ths contrast nklobitɔ (mutter under ones breath)
+\cf nklobitɔ (mutter under ones breath)
 \rkey 9485e94d-5461-4799-aaa1-521933e94cf7
-\dt 03/Apr/2012
+\dt 02/Aug/2012
 
 \lx agyɩndɩ
 \ph aʤɪndɪ
@@ -1366,14 +1382,14 @@
 \xv Bʋdɛ agyʋma yɔ, amʋ́ ndɔtɔ.
 \xe They are working on their farms.
 \rf Tape:2-1-117
-\rph agyʋma-ɔyɔpʋ/ayɔpʋ
+\rph agyʋma-ɔyɔpʋ / ayɔpʋ
 \rpht hired workers
 \cf gyumagyihɛ Eng:work
 \xv Ɔma gyumagyihɛ. mʋ́ sʋ ɔtɛnatɩ ki ahasʋ.
 \xe He has no work. That's why he always roams from house to house.
 \rf Stewart List:1403
 \rkey 90e19d15-b300-4931-8da1-374f1c2f36f8
-\dt 23/Jul/2012
+\dt 07/Aug/2012
 
 \lx agywama
 \ph aʤwama
@@ -1712,10 +1728,12 @@
 \xv Aha botsu ndɔtɔ ba woyitɔ a, bʋtekle akpasatɔ kpɩsa pʋ tswii amʋ́ ɔma.
 \xe When people come back from farm to the house, they like akpasa to lean and straighten their backs.
 \rf Tape:1-1-343
-\ths things to sit on obia (stool), asesegua (carved stool), kantankua (chair with straight back), akpasa (lazy chair reclining chair)
+\th obia
+\cf asesegua
+\cf kantankua
 \rf Stewart List:1180
 \rkey c9c9cc0b-628e-480f-a21f-ff421aeb08f3
-\dt 05/Jul/2012
+\dt 02/Aug/2012
 
 \lx akpekpe
 \ph ak͡pek͡pe
@@ -1977,12 +1995,12 @@
 \np LH (H)
 \np L-H#H
 \de 1) good 2) with an infixed verb, quality of being pleasant or easy to perform. All these verbs occur with bʋ, or ma. E. g. Ɩbʋ akɩlɛ. Ɩma akɩlɛ.
-\ths contrast with yile.
+\cf yile
 \xv Ɩbʋ alɛ
 \xe It is good.
 \rf Tape:1-1-383
 \rkey aceb4b4f-de00-4568-a885-5d467291e62a
-\dt 10/Jan/2012
+\dt 02/Aug/2012
 
 \lx alɩ
 \ph alɪ
@@ -2015,9 +2033,9 @@
 \xe When they teach you to do something, you also should do it the same way.
 \xe You should emulate your teacher.
 \rf Tape:1-1-403
-\ths words dealing with similiarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛn,
+\th words dealing with similiarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛn,
 \rkey 3a5c62b6-02a1-4d2b-9dc7-471e35ef059c
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx alɩa
 \ph alɪá
@@ -2063,9 +2081,10 @@
 \np L_HH#H
 \de or
 \bw Ewe fi:aloo LHH
-\ths aloo (Ewe), anaasɛ (Twi), ntɛ (Nkonya)
+\cf anaasɛ (Twi)
+\cf ntɛ (Nkonya)
 \rkey 4d0771ca-eac4-47fc-a0f9-522bd1a92c76
-\dt 10/Jan/2012
+\dt 02/Aug/2012
 
 \lx amandɩɛ
 \ph amandɪɛ
@@ -2147,9 +2166,8 @@
 \xe Who are these ones (people) coming (towards us)? They are from Tepo.
 \xv Magyi ɔha anfɩ ɔba anfɩ? Mɩ bitɛpʋ nɩ.
 \xe Who is that coming? He is my uncle.
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fɩnɩ (how many times), Ntoi, Ntogyi, Ntogyi so (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rkey 3e367077-73e9-4b1c-b2c9-32c6d4064f60
-\dt 02/Aug/2005
+\dt 02/Aug/2012
 
 \lx amʋ
 \ph amʊ
@@ -2216,10 +2234,9 @@
 \np L-L#H
 \de four
 \np ana nɩ
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \rf Stewart List:1804
 \rkey 0e143b15-4192-418f-909e-81800372b853
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx aná
 \ph aná
@@ -2247,10 +2264,11 @@
 \bw Akan fi:anaasɛ LHH!
 \xv Fɔyɔ Nkran anaasɛ, fétsia woyi tsia natɩ ki awulu?
 \xe Will you go to Accra or you will stay at home and be roaming the town?
-\ths aloo (Ewe), anaasɛ (Twi), Nkonya (ntɛ)
+\cf aloo (Ewe),
+\cf Nkonya (ntɛ)
 \rf Stewart List:1851
 \rkey 105a104b-026e-499f-9bdb-6695d82867f2
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx anamu
 \ph anamu
@@ -2564,10 +2582,9 @@
 \np LL (H)
 \np L-L#H
 \de five
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \rf Stewart List:1805
 \rkey cc552fc4-04c3-4cbc-8cb2-f88c4f5aab2b
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx anulɛ
 \ph anulɛ́
@@ -2625,10 +2642,9 @@
 \np L-L#H
 \de two
 \nt has noun stem agreement
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \rf Stewart List:1802
 \rkey 090fb679-35b6-4b4b-b15e-dde5d1f2b9a4
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx ao
 \ph ao
@@ -2651,9 +2667,9 @@
 \bw Akan fi:apa LH
 \xv Apasʋ anɩtɛfɩta kokoo. Alɩa bʋtɔbwɛ mʋ́ gyisɛ, fókwi nkpabi yi, pʋ ntan dɩnka mʋ́sʋ. Fówun fapʋ fʋ dɩn dɩnka mʋ́sʋ. Asa fɛ́fɩta fʋ kooko amʋ mʋ́sʋ.
 \xe They dry cocoa on a drying frame, This is how they make it. You set up forked sticks and put crossbars on them. Then you put a mat on it before you can dry your cocoa on it.
-\ths see ɩdɩn(drying mat)
+\cf ɩdɩn
 \rkey a25ddde5-8559-4d03-949a-606507106483
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx apɛ
 \ph apɛ́
@@ -2729,11 +2745,10 @@
 \xe Spice grows on its vine, which climbs on a tree. They grind it and put it into the soup. It makes it hot and gives the soup a nice scent.
 \xe Spice grows on a climbing vine. It is ground and put in soup. It adds warmth and fragrance to the soup.
 \rf Tape:1-1-553
-\ths words for pepper: mpulu (red pepper), tɔnsɩ (small hot), apʋsɛ (black)
 \xv Apʋsɛ oputsu bʋ ɔdwɛ.
 \xe Spice soup is sweet.
 \rkey e3d5b41c-6047-4873-814d-3a03eaf20b67
-\dt 05/Jul/2005
+\dt 02/Aug/2012
 
 \lx asa
 \ph asa
@@ -2758,10 +2773,9 @@
 \np LL (H)
 \np L-L#H
 \de three
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \rf Stewart List:1803
 \rkey f838a6d3-5e55-414c-83b7-dff88a35c185
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx asaan
 \ph asã̂ːʔ
@@ -2823,14 +2837,14 @@
 \ge fishing_net
 \np LLL
 \np L-L-L#L
-\de fishing net, used at the waters edge to catch small fish.
+\de fishing net, thrown at the waters edge to catch small fish.
 \bw Ewe fi:asabu LLL
+\cf awʋlɛ
+\cf ɔdadʋwa
 \xv Asawu a, fɔ́tswɩ mʋ́ wa ntsu amʋtɔ, fówun fabɩtɩa mʋ́ lɛ.
 \xe This net, you will throw it into the water and then you pull it out.
-\nq new entry
-\ths fishing nets: asawu(thrown nets), awʋlɛ (set nets), Ndadʋwa (multi-hooked line)
 \rkey 46eb1b68-b17d-47e3-b252-b20b1776ce95
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx asendua
 \ph aséndua
@@ -2840,12 +2854,12 @@
 \np L-HLL#H
 \de cross
 \bw Akan fi:asendua LHLL
-\ths oyi-kpalihɛ (Nkonya), asendua (Twi)
+\cf oyikpalihɛ
 \nq Bɛda mʋ sian asenduasʋ.
 \xv Bɛda mʋ sian asenduasʋ.
 \xe He was nailed on the cross.
 \rkey d1554c5a-3691-49f4-9d05-f60d700b4b02
-\dt 10/Jan/2012
+\dt 02/Aug/2012
 
 \lx asesegua
 \ph aséségúá
@@ -2858,9 +2872,11 @@
 \xv Asesegua gyi obia ánɩ́ awie bʋtekle mʋ́sʋ tsia. Oyi bʋtɔpʋ sre mʋ́.
 \xe Asesegua is a stool that chiefs like to sit on. They carve them out of a tree (section of log)
 \rf Tape:1-1-591
-\ths things to sit on obia (stool), asesegua (carved stool) , kantankua (chair with straight back), akpasa (reclining chair)
+\th obia
+\cf kantankua
+\cf akpasa
 \rkey 79a7748c-88f8-4dae-8cfe-5a136c80f07b
-\dt 05/Jul/2012
+\dt 02/Aug/2012
 
 \lx asiabi
 \ph asiabí
@@ -2886,10 +2902,9 @@
 \np LLL (H)
 \np L-LL#H
 \de six
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \rf Stewart List:1806
 \rkey e22e03af-2875-4211-b67c-14997f20531b
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx asiengbi
 \ph asiẽn͡ɱg͡bi
@@ -2909,10 +2924,9 @@
 \np LLH (H)
 \np L-LL-H#H
 \de seven
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \nq various alternate spellings for seven are around- which is right?
 \rkey 0033f1ff-c788-4d9f-9351-5bc776fcb05b
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx asiɛɩ
 \ph asiɛɪ́
@@ -3244,13 +3258,13 @@
 \np LLLL
 \np L-LLL#H
 \de disobedience lit. asʋtɔ ɔnlɩ inside ear hard
-\ths contrast with ma bu - not respectful
+\cf ma bu
 \xv Kebi ánɩ́ ɔbʋ asʋtɔlɩn a, mʋ akwɩɩpʋ ansɩ tamagyi mʋ wɩ.
 \xe The child that is disobedience, his parents are never happy with him.
 \xe Parents of a disobedient child are never happy with him.
 \nq should this be asʋntɔ ɔnlɩn or is it one word
 \rkey 29c28200-95fa-43ff-aba9-51f7f68659bc
-\dt 23/Jul/2012
+\dt 02/Aug/2012
 
 \lx atadɩɛ
 \ph atadɪɛ
@@ -3332,10 +3346,8 @@
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi; gari, konkonte pʋ́ agbodi mbɔdɩ.
 \xe They take cassava and make many foods. Some of these are, gari, konkonte, and cassava porridge.
 \xe They use cassava to make many foods including gari, konkonte, and cassava porridge.
-\ths words involving plants for food: abɛ (palm nuts), agbodi (cassava), agode (coconut), agude (sweet potato), apʋsɛ (black pepper), atɩkɔ (millet), atse (beans), atsuli (mushrooms), biam (egusi), blɩbɛ (pineapple), blɔdɩ (plantain), ɩka (sugar cane), adɔmpɔ (shea butter), ikpin (garden egg), ɩmɔ (rice), kankaba (orange), kɩtɩba (peanuts), kpoli (maize), kwadu (banana), baflɛ (papaya), mangʋ (mango), mpulu (pepper), ntunkum (soursop), nyambi (yellow fruit), paya (avocado), sapʋrada (onion), tomantosi (tomato), tɔnsɩ (pepper), ɔgywɩyaɩ (lemon)
-\ths prepared food: aboun (stew), akaʋ (cooked in skin), apondo (old fufu), asikre (sugar), awanwan (dried okra), bodobodo (bread), dablun (stew), dɔkʋnʋ (kenke), fɛflɛ (corn porridge), fufu (fufu), gari (dried instant cassava), ikim (cooked blood), konkonte (porridge), koko (porridge), mbɔdɩ (porridge), mpesie (slice), nkontombre (greens), sian (left overs), nyɔmba (mashed yam), odikpini (left-over konkonte)
 \rkey 5ef1a387-d146-4c6e-a9a8-2806c0d22936
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx atohianhɛ
 \ph atohiã́hɛ
@@ -3359,9 +3371,9 @@
 \de teachings
 \xv Nɩ fégyi dɩnka anɩ wie Yesu Kristo atosunahɛsʋ a, ɩtɔwa alɛ ha fʋ nkpa anfɩtɔ.
 \xe If you abide by the teachings of our Lord Jesus Christ, it becomes well with you in this life.
-\ths from suna (teach)
+\cf suna
 \rkey ab7796b9-9394-418f-895c-4e27695eb39d
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx atɔ
 \ph atɔ́
@@ -3429,10 +3441,10 @@
 \np atɔ ɔfɛpʋ nɩ
 \xv Atɔ ɔfɛpʋ amʋ ɔyɔhɔ atɔ ba bɛfɛ.
 \xe The petty trader is gone to buy things in order to come and sell.
-\ths atɔ ɔfɛpʋ (petty trader), bia-ogyipʋ (merchant)
-\ths from fɛ, sell
+\cf bia-ogyipʋ (merchant)
+\cf fɛ (sell)
 \rkey 29e23d12-6129-412c-ade0-9701ce1c79e7
-\dt 05/Jul/2012
+\dt 02/Aug/2012
 
 \lx atɔ ɔlapʋ
 \ph atɔ́ ɔlapʊ́
@@ -3586,6 +3598,17 @@
 \rkey b6cd61df-b39d-409b-9219-ccf5f28a1a82
 \dt 10/Jan/2012
 
+\lx atsuli-bibi
+\ps n
+\ge k.o. mushroom
+\de black mushroom
+\xv Atsuli-bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
+\xe Black mushrooms grow in rotting trees, They are black. You can grind them and put them in soup. Their soup is sweet.
+\nt roots not in the tree but around it. -FO
+\rf Tape:1-2-186
+\th atsulii
+\dt 07/Aug/2012
+
 \lx atsulii
 \ph aʦulîː
 \ps n
@@ -3601,49 +3624,34 @@
 \xv Atsulii gyihɛ amʋ kʋ aná gyi:
 \xe Some kinds of edible mushrooms are:
 \rf Tape:1-2-145
-\kinds afio
 \xv Afio, mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋswɩ. Ɩtɔwa ɔdwɛ oputsutɔ. Bʋtɛkaka mʋ́ wa oputsutɔ. Ɩtɔkwɛ sinsʋ.
 \xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in an termite mound.
 \rf Tape:1-2-150
-
-\kinds Npionkɛntɛ
 \xv Npionkɛntɛ tɔkwɛ ɔbɛ oyi plɔhɛsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi ma swɩ. Fɛtalɩ kpa mʋ́ nwun amʋ kwɛ mʋ́ wa oputsutɔ, si mʋ́ oyi amʋ. Mʋ́ ɛ bʋ ɔdwɛ.
 \xe Npionkɛntɛ sprouts on rotten palm trees. It's head is wide. It's stalk is not long. You can remove the heads and grind them and put them in the soup and leave the stalks. It also is sweet.
 \rf Tape:1-2-171
-
-\kinds Dei-asʋ
-\xv Dei-asʋ tɔkwɛ oyi plɔhɛsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Igyi putuputu, ɩlofuli. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
+\xv Deyi-asʋ tɔkwɛ oyi plɔhɛsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Igyi putuputu, ɩlofuli. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
 \xe Monkey ears grows in rotten trees. You can grind it and put it in soup. It is small and white. It is sweet in palmnut soup.
 \rf Tape:1-2-178
-
-\kinds Atsuli-bibi
 \xv Atsuli-bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe Black mushrooms grow in rotting trees, they are small. You can grind them and put them in soup. Their soup is sweet.
 \nt roots not in the tree but around it. -FO
 \rf Tape:1-2-186
-
-\kinds Mantɛpʋ
 \xv Mantɛpʋ tɔkwɛ ɔsʋlʋsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, mʋ́ ɛ bʋ ɔdwɛ.
 \xe Mantɛpo grows in the ground. You can grind it for soup. It too is sweet.
 \rf Tape:1-2-194
-\nq should be mantɛpʋ?
-\kinds Kikidiki (kikiriki)
 \xv Kikidiki tɔkwɛ ɔsʋlʋsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋ swɩ. Ɩbʋ ɔlɩn, tamɛ afio oyi bʋ swɩ dʋn mʋ́. Bʋtɛkaka mʋ́ wa oputsutɔ.
 \xe Kikidiki grows in the ground. Its head is wide and its stalk is long. It has roots but afio stalk is longer than it. They cut them up for soup.
 \rf Tape:1-2-200
-\nq check this word "ɔlɩn" and its translation
-\kinds Abi-atsuli
 \xv Abi-atsuli tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
 \rf Tape:1-2-210
-
-\kinds Kplokplobi
 \xv Kplokplobi tɔkwɛ oyi plɔhɛsʋ. Ɩbʋ ɔplɩ, bʋtamakwɛ mʋ́. Mʋ́a abɛ oputsu bʋ ɔdwɛ dʋbɩ.
 \xe Kploklobi grows in rotting trees, It is slippery; they never grind it. It is very good with palm nut soup.
 \rf Tape:1-2-217
 \rf Stewart List:0872
 \rkey 565b3aaa-1c7e-4fe2-831a-67027e4e0028
-\dt 23/Jul/2012
+\dt 07/Aug/2012
 
 \lx atsʋnlɛ
 \ph aʦʊ́nlɛ
@@ -3651,7 +3659,7 @@
 \ge passable
 \np LHL
 \de able to be passed or travelled on
-\ths from tsʋn (pass)
+\cf tsʋn
 \xv Anɩ ndɔtɔ ɔkpa bʋ atsʋnlɛ.
 \xe Our farm path is passable.
 \xv Anɩ ndɔtɔ ɔkpa ma atsʋnlɛ, tsufɛsɛ mʋ́sʋ lɛkpakpawie.
@@ -3659,7 +3667,7 @@
 \xv Anɩ ndɔtɔ ɔkpasʋ lɛkpakpawie, mʋ́ sʋ ɩma atsʋnlɛ.
 \xe Our farm path has developed potholes so it is not easily passable.
 \rkey afb422cc-a10e-40c4-a3a0-022eb7ad5cce
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx atsʋnɔ
 \ph aʦʊnɔ́
@@ -3729,11 +3737,10 @@
 \xv Nɩ bʋdɛ atumpa da, ɔhandɛ ɔkʋ dɛtsʋn a, bʋtɛda mʋ adabi pʋ tɩ mʋ.
 \xe If they are beating the talking drums and an elder is passing by, they beat his appelation and call him.
 \rf Tape:1-1-111
-\ths drums: ɩkwɛ/akwɛ (drum/drums), atumpa (Akan talking drums)
-\nq entry incomplete
+\th ɩkwɛ
 \rf Stewart List:1191
 \rkey 643c9caa-baf5-4b43-b24a-0d57f6edc931
-\dt 05/Jul/2012
+\dt 06/Aug/2012
 
 \lx atuu
 \ph atûː
@@ -3757,9 +3764,9 @@
 \xe In the rainy season they chop okra and dry it. This is awanwan. In harmattan they pounded it put it in the soup because okra is not there.
 \nq why ba and not bʋ tɔ
 \rf Tape:1-2-237
-\ths ndawun (fresh okra), awanwan (dried okra)
+\cf ndawun
 \rkey a8a076af-11ef-410e-a92d-8e583c3e0841
-\dt 10/Jan/2012
+\dt 06/Aug/2012
 
 \lx awɛ
 \ph awɛ
@@ -3832,9 +3839,9 @@
 \xv Fɔpʋ awɩtɔlɛ kie fʋ ba atɔ a, ɩbʋ alɛ. Bulu oboyula fʋ, tsufɛ mʋ ɛ ɔtɔpʋ awɩtɔlɛ ha aha fɛ́ɛ́ atɔ.
 \xe If you give generously to your friends it's good. God will bless you because he also always gives to everyone generously.
 \rf Tape:1-2-265
-\ths contrast faan
+\cf faan
 \rkey 31614ee9-cfc8-4cf0-9957-c277705e1c78
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx awulusʋfɔ
 \ph awulusʊfɔ
@@ -3885,10 +3892,12 @@
 \np L-HHʔ#H
 \de fishing net. A weighted fishing net that is put out in the afternoon and brought back in in the mornings.
 \bw Akan fi:awʋ́lɛ́
+\cf asawu
+\cf ɔdadʋwa
 \xv Awʋlɛ mʋ́ fɔpʋ wa ntsutso a, bʋtamalɛ mʋ́ nʋnʋ.
 \xe This net, you put it into the water, you don't take it out at the same time.
 \rkey bfb73d18-8861-476a-9795-17e627673ddf
-\dt 05/Jul/2012
+\dt 02/Aug/2012
 
 \lx awʋlɩ
 \ph awʊlɪ
@@ -4068,10 +4077,17 @@
 \rf Tape:1-2-303
 \xv Bʋtɔpwɛ isín tsia mʋ́tɔ. Bʋtɔkwɛ atɛ.
 \xe They sculpt clay and live in it. They sprout feathers (wings).
-\ths kinds of ants: baba (termites), finfi (ant-small, black, biting), gyawugya (tiny red ant), konya (driver ant), ɔkpan (large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ (crazy ant)
+\cf baba
+\cf damantsu
+\cf finfi
+\cf gyawugya
+\cf konya
+\cf ɔkpan
+\cf ɔtɔntrɔbwɩ
+\cf kɔklɔ
 \rf Stewart List:0811
 \rkey fbdf014b-7673-4f42-bca0-7b0b499a2322
-\dt 03/Apr/2012
+\dt 06/Aug/2012
 
 \lx baflɛ
 \ph baflɛ́
@@ -4129,12 +4145,21 @@
 \np LL
 \de early morning hours before sunrise
 \np Bakɛ nɩ.
-\xv Nɩ ɔkɛ bakɛ fonu batɛ ɔbɔn a, mɩdɛ fʋ pan da.
+\xv Nɩ ɔkɛ bakɛ fonu batɛ ɔbɔn a, mɩdɛ fʋ ɩpan da.
 \xe If tomorrow dawn you should hear a rooster crow I am thanking you.
 \rf Tape:1-2-323
-\ths words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ lakɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), maa nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12-1 a.m. )
+\cf bakɛ
+\cf maa nɩ mɩ nɩ
+\cf ntʋpwɛ
+\cf ntʋpwɛnye
+\cf nyankɩ
+\cf onye
+\cf ɔpa
+\cf ɔpawisʋ
+\cf ɔyɩ lakɛ
+\cf ɔyɩ nsɩnɛ
 \rkey b3a5da09-78da-4761-8305-5c0186262fef
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx balɩ
 \ph bálɪ́
@@ -4226,20 +4251,18 @@
 \np LLLLʔ#L
 \de confusion; fighting tf Basabasa nɩ.
 \np basabasa nɩ
-\ths basaa
+\cf basaa
 \xv Ɔtɩnɛ ánɩ́ olu pʋ́ ɔnsɩpɛ bʋ a, basabasa sɔɔn tetsia nʋ.
 \xe The place that hatred and jealousy is, only confusion is there.
 \xe Where there is hatred and jealousy there will be confusion.
 \rf Tape:1-2-344
 \rkey dc796309-5084-4583-b75d-52612d213ee1
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx batafɔ
-\ph batafɔ
+\ph batafɔʔ(H)
 \ps n
 \ge bush_pig
-\np LLL
-\np L-LLLʔ#H
 \de bush pig
 \np batafɔ nɩ.
 \pl abatafɔ
@@ -4249,7 +4272,7 @@
 \xv Abatafɔ bʋtɛhɩɛ yinta atɔ ndɔtɔ, titriu mankani pʋ agbodi.
 \xe Bush pigs destroys things on farm very much, especially cocoyam and cassava.
 \rkey 29de98f4-0d5f-4c08-8d32-96e54f6c32f7
-\dt 05/Jul/2012
+\dt 06/Aug/2012
 
 \lx batɛ
 \ph batɛ
@@ -4388,7 +4411,7 @@
 \np HL
 \de near
 \np Ɔtɛbɛɩn (tɔkʋ)
-\ths Nkonya equivalent is manta
+\cf manta
 \bw Akan fi:bɛn L
 \xv Ntsu amʋ bʋ bɛɩn anɩ.
 \xe The river is near us.
@@ -4397,7 +4420,7 @@
 \xe The river is near us.
 \xv Ntsu amʋ lɛmanta anɩ.
 \rkey 4c587319-658e-4ce2-8516-5b8f75e2c497
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx bɛlɛtɩ
 \ph bɛ́lɛtɪ
@@ -4445,10 +4468,10 @@
 \xv Nɩ fɛba a, hɔ bɛnsɩ gyi-atɔ pʋ́ bɛnsɩ sʋrahɛ ba mɩ.
 \xe If you will come, buy a food bowl and a carrying basin for me.
 \rf Tape:1-2-394
-\ths blanwɛ
+\cf blanwɛ
 \nq what is the difference between blanwɛ and bɛnsɩ None -FO
 \rkey 17399cae-2caa-436a-a0b7-aeff252d2632
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx bi
 \ph bí
@@ -4504,10 +4527,10 @@
 \rf Stewart List:2802
 \cf biabia Eng:break repetitively
 \xv Olebiabia mʋ́tɔ ha aha amʋ́ʋ́ butsie nʋ amʋ. (Yohanne 6:11)
-\ths words for harvesting: bia/sɩɛtɩ (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn (cut a stalk or head of-plantain, palm nuts), puli (harvest from underground-peanuts), kwi (dig-cassava, yam)
-\ths words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off), flɔɩ:(peel), maɩn: (separate from)
+\nt words for harvesting: bia/sɩɛtɩ (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn (cut a stalk or head of-plantain, palm nuts), puli (harvest from underground-peanuts), kwi (dig-cassava, yam)
+\nt words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off), flɔɩ:(peel), maɩn: (separate from)
 \rkey 6c3c7471-5eed-4dcc-b5bc-fdf3b1319026
-\dt 10/Jan/2012
+\dt 06/Aug/2012
 
 \lx biagyi
 \ph biaʤi
@@ -4806,31 +4829,39 @@
 
 \lx bɩtɩ
 \ph bɪtɪ́
-\ps v
-\ge pull; slither
 \np HH
-\de 1) pull 2) slither - as a snake moves
 \np Ɔtɛbɩtɩ (tɔkʋ).
-\xv Ɩsʋbɩtɩ dɩn fʋsʋ.
-\xe Punishment is on you; it's your own fault.
+\ps v
+\sn 1
+\ge pull
+\de pull (on)
+\lf Idiom = bɩtɩ asʋn
+\le prolong a case
+\an sun
+\an wuta
+\an sunki
+\cf ɩsʋbɩtɩ
+\cf bɩtɩa
 \xv Bɩtɩ ɔfɛ amʋtɔ!
 \xe Pull on the rope.
+\rf Stewart List:2344 - tighten
+\rf Stewart List:2660 - pull
+\sn 2
+\ge slither
+\de slither - as a snake moves
 \xv Ɔdɛ asʋntɔ bɩtɩ.
 \xe He is dragging out a case.
-\rf Stewart List:2344
-\rf Stewart List:2660
-\ths pull: bɩtɩ (pull), kpʋ (pull a thread-gather), pio (pull-out extract), tsii, tsitsii (pull out suddenly), puli (uproot)
-\ths opposite: sun (push-inanimate), wuta /sunki (shove)
+\nt pull: bɩtɩ (pull), kpʋ (pull a thread-gather), pio (pull-out extract), tsii, tsitsii (pull out suddenly), puli (uproot)
 \rkey 3ed5863d-a525-4eed-bafd-51d4bbc61915
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx bɩtɩa
 \ph bɪ́tɪ́a
 \ps v
 \ge drag
-\de
+\de to pull on and move
 \rkey 6c62fc36-b544-4730-8b2d-ed6aff9f494d
-\dt 10/Jan/2012
+\dt 06/Aug/2012
 
 \lx bɩtɩa
 \ph bɪtɪ́a
@@ -4919,10 +4950,9 @@
 \xv Ɔlɛblɩ ánɩ́ ɔbɛ́ba, saa ɔdɛ mɩ mlɛ; sʋ ɔmɛba.
 \xe He said that he would come, unexpectedly he was decieving me so he didn't come.
 \rf Tape:4-2-267
-
-\ths words and phrases that are speech acts: bɛɛ (say), bla (tell), blɩ (speak), kpɛ mblɩ (verbally annoy), oblikpini/tɔɩ kpini (make oblique references to), kpali (sass), tɔɩ (talk), tɔɩ kpla (advise), tɔɩ nklobitɔ (mutter), tu mʋ agyɩna (whisper), tu mʋ ɔfʋ (advise), kla (inform), kla (witness, gossip), tsii (gossip about), yiyi (gossip), fɩtɛ (ask), trɛ (quarrel), tɩ (call), kpoli (call), ha mbuaɩ (answer), tsuda (respond), lɛ mʋ́ ɔnɔ (answer him), kanfʋ (praise), yula (bless), lwɩɩ (curse), sia (insult), mɔsɩ (laugh), su (cry), kʋlɩ (beg), wa ɔtɛ/ɩlʋ (tell a story or sing a song), ha yebi (give a proverb), wa afunu (tell lies), gyi nwɛn (argue), gyi nkɔmbɔ (converse), suan suna (swear), ka ntam (make an oath), sikie (forgive), mlɛ (decieve), lala (nag), bɔ mpaɩ (pray), kasʋ/kpa ɔnɔ bun (shut up)
+\nt From ths: words and phrases that are speech acts: bɛɛ (say), bla (tell), blɩ (speak), kpɛ mblɩ (verbally annoy), oblikpini/tɔɩ kpini (make oblique references to), kpali (sass), tɔɩ (talk), tɔɩ kpla (advise), tɔɩ nklobitɔ (mutter), tu mʋ agyɩna (whisper), tu mʋ ɔfʋ (advise), kla (inform), kla (witness, gossip), tsii (gossip about), yiyi (gossip), fɩtɛ (ask), trɛ (quarrel), tɩ (call), kpoli (call), ha mbuaɩ (answer), tsuda (respond), lɛ mʋ́ ɔnɔ (answer him), kanfʋ (praise), yula (bless), lwɩɩ (curse), sia (insult), mɔsɩ (laugh), su (cry), kʋlɩ (beg), wa ɔtɛ/ɩlʋ (tell a story or sing a song), ha yebi (give a proverb), wa afunu (tell lies), gyi nwɛn (argue), gyi nkɔmbɔ (converse), suan suna (swear), ka ntam (make an oath), sikie (forgive), mlɛ (decieve), lala (nag), bɔ mpaɩ (pray), kasʋ/kpa ɔnɔ bun (shut up)
 \rkey 3f6a4726-8d34-43cd-be48-b8172219c93f
-\dt 17/Jul/2012
+\dt 06/Aug/2012
 
 \lx blɩ
 \ph blɪ
@@ -4938,24 +4968,24 @@
 \xe If the thing is cooked remove it (from fire) and put it down.
 \xe When the thing is cooked take it off the fire.
 \rf Tape:1-2-518
-\ths words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
 \rf Stewart List:2252
+\nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
 \xv blɩ ogya
 \xv be hot
 \rf Stewart List:2289
 \rf Stewart List:2822
 \rkey 270758ca-443b-440f-87b7-c1f878791fb0
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx blɩ ogya
-\ph bl oʤáʔ
+\ph blɪ oʤáʔ
 \ge heat
 \np LL
 \np L-L#H
 \de heat
 \ps n
 \np ogya nɩ
-\ths blɩ ogya, pɩmpɩn, okunku
+\nt blɩ ogya, pɩmpɩn, okunku
 \xv Atɔ amʋ́ʋ́ bʋ ogya amʋ lablɩ ogya dʋbɩ.
 \xe Things that are in a fire have become very hot.
 \xv Owí ɔnɔ bʋ ɔnlɩn dʋbɩ mʋ́ sʋ obu amʋtɔ lablɩ ogya dʋbɩ.
@@ -4964,9 +4994,9 @@
 \xv Fʋ wɩ lablɩ ogya, sʋ owisʋ lakɩta fʋ.
 \xe You have become hot. You have a fever.
 \rf Tape:1-2-521
-\ths words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
+\nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
 \rkey 9b6977f2-70f3-4fb4-bb9d-268a74740d67
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx blɩba
 \ph blɪba
@@ -5532,14 +5562,13 @@
 \rf Tape:2-1-061
 \xv Bun fʋ pa nwun.
 \xe Put on your hat.
-\ths words for dressing: wa (put on: underwear, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on: waist beads, belt, head scarf), bun (cover head with hat), tin (block with-glasses).
-\ths words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
 \rf Stewart List:2094
 \rf Stewart List:2212
 \rf Stewart List:2752
 \rf Stewart List:2770
+\th wa
 \rkey 4b2909c7-6955-45eb-942b-197bb7f28ee1
-\dt 12/Jan/2012
+\dt 06/Aug/2012
 
 \lx bunti
 \ph buntí
@@ -5609,7 +5638,6 @@
 
 \lx bʋ
 \ph bʊ
-\va bʋʋ
 \ge is; are; has
 \np L
 \de 1) exists 2) to have
@@ -5638,10 +5666,9 @@
 \xv Ɩbʋ fʋ atɩlɛ?
 \xv Ɩbʋ fʋ atsulɛ?
 \nq get translations
-\ths also see dɛ for ɩdɛ fʋ constructions
 \rf Stewart List:2498
 \rkey 7c8859d7-d65e-4bfe-9872-fa21be31a885
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx bʋ
 \ph bʊ́
@@ -5717,26 +5744,27 @@
 \lx bʋa
 \ph bʊa
 \ge help
-\ge prepare
 \np LH
 \np LLʔ
-\de 1) help 2)
-\ths Nkonya is tsa
-\np ɔtɔbʋa mʋ
-\ps vt
-\bw Akan fi:bʋa LL
+\de help
 \xv Nobwii pa, bʋa mɩ ayɔ agyʋma kpalobi anfɩ sesei.
 \xe I beg you please help me that we should do this small work now.
 \rf Tape:2-1-134
 \rf Stewart List:3008
+\sn 2
+\ge prepare
+\nt Nkonya is tsa
+\np ɔtɔbʋa mʋ
+\ps vt
+\bw Akan fi:bʋa LL
 \xv Nɔyɔ a, bɔbʋa mankani amʋ akusʋ akusʋ, mʋ́ʋ́ nɔkpa iku kʋlɛ.
 \xe When I went they had set the mankani in piles. And then I collected one pile.
 \rf Stewart List:2968
-\xv Mʋ́ sʋ nɩ bɔkwɩɩ ɔkʋ ndɛ a, ɩlehian ánɩ́ abéfi wɩ bʋbʋa asɩ ha mʋ lowu.
+\xv Mʋ́ sʋ nɩ bɔkwɩɩ ɔkʋ ndɛ a, ɩlehian ánɩ́ abéfi ɩwɩ bʋbʋa asɩ ha mʋ lowu.
 \xe Because of this if someone is born today, it is necessary to begin to prepare ourselves for his death.
 \rf Tape:2-1-140
 \rkey f4d7887c-6890-489f-94c0-21e39890fa57
-\dt 02/Apr/2012
+\dt 06/Aug/2012
 
 \lx bʋalɛ
 \ph bʊalɛ
@@ -5748,12 +5776,16 @@
 
 \lx bʋla
 \ph bʊ́lá
-\ge fill
-\np HH
-\np HH
-\de 1) fill 2) to train a child
-\np Ɩtɔbʋla
 \ps v
+\sn 1
+\ge fill
+\de fill
+\sn 2
+\ge train
+\de to train a child
+\sn 3
+\ge full of weeds
+\de to be vull of weeds (of a farm or garden)
 \xv Ɔlɛyaɩ obi amʋ, tamɛ ɔmɔbʋla mʋ wanklaan.
 \xe He provided for the child but didn't raise him properly
 \nt idiom
@@ -5766,13 +5798,13 @@
 \xv Ɔyɔ ndɛ, tsufɛ ɩfá labʋla wa mʋ kpoli.
 \xe He should go today because his corn is full of weeds.
 \rf Tape:6-2-094
-\ths ɔbɔ (full adj. )
+\cf ɔbɔ
 \rf Stewart List:1704
 \rf Stewart List:2004
 \rf Stewart List:2269
 \rf Stewart List:2488
 \rkey c2165046-0cb1-4b4a-bcf9-cb0965d2a963
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx bʋmblaan
 \ph bʊ́mblã́ː
@@ -5870,27 +5902,27 @@
 \xv Ɔdɛ iye bwa.
 \xe She is frying fish.
 \rf Tape:1-2-568
-\nt minimal tonal pair with bʋa prepare
-\ths words for cooking: nɩna/ dɩnka (general, also boil), bwa (fry, and dry fry), tɔ (roast over coals, bake)
+\np minimal tonal pair with bʋa prepare
+\nt words for cooking: nɩna / dɩnka (general, also boil), bwa (fry, and dry fry), tɔ (roast over coals, bake)
 \rf Stewart List:2807
 \rkey bba4ea1a-3c58-40a8-a5b7-f9a56429f38e
-\dt 12/Oct/2005
+\dt 06/Aug/2012
 
 \lx bwɛ
 \ph bwɛ́
 \ge do
 \ge make
 \np L
-\de do, make, to become
+\de to do;  to make, to become
 \np Ɔtɔbwɛ (tɔkʋ)
 \ps vt
 \xv Nɩ fɔbwɛ atɔ wanklaan a, aha bɛ́kanfʋ fʋ.
 \xe If you have done something well people will praise you.
 \rf Tape:2-1-153
-\ths words used for making: bwɛ: ɔfɛ, nta, abiofobi, atogyihɛ, agywɩɩn, etc; la: oli, isia, ɩká; lʋ: lakpa, blawunu, tati; sre: ɔklʋn, atɔ; gyi: ɩban, mba; da: kakaʋ, kantankpa, atukeekee; dɔ: ndɔ, lɛ: oputsu; yi: obu, ɔka; pwɛ: ɔswɩ, obu
+\nt From ths: words used for making: bwɛ: ɔfɛ, nta, abiofobi, atogyihɛ, agywɩɩn, etc; la: oli, isia, ɩká; lʋ: lakpa, blawunu, tati; sre: ɔklʋn, atɔ; gyi: ɩban, mba; da: kakaʋ, kantankpa, atukeekee; dɔ: ndɔ, lɛ: oputsu; yi: obu, ɔka; pwɛ: ɔswɩ, obu
 \rf Stewart List:2089
 \rkey 2fa84907-e085-41e4-8894-0f5af2e01fcb
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx bwie
 \ph bwie
@@ -5907,32 +5939,37 @@
 \xv Igye bobwie kokoo mɩ ndɔtɔ.
 \xe Yesterday they split cocoa on my farm
 \nq what were they doing, harvesting the coco pods or breaking them open?
-\ths words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ ( break off)
+\nt From ths: words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ ( break off)
 \xv nsibi-bwiehɛ
 \xe blind
 \rf Stewart List:1689
 \rkey fd1dd120-8c21-48c0-acda-70a427249c1b
-\dt 26/Oct/2005
+\dt 06/Aug/2012
 
 \lx bwii
 \ph bwǐː
-\ge open
-\np HH
-\de 1) open; used of eyes 2) remove the cover from something 3) Stand up after bending over
-\np Otobwii (tɔkʋ).
 \ps v
+\sn 1
+\ge open
+\de open (eyes)
 \xv Bwii ansibi afʋkɩ atɔ wanklaan.
 \xe Open your eyes in order to see something well.
 \rf Tape:2-1-159
+\sn 2 
+\ge uncover
+\de remove the cover from something
 \xv Bwii fʋ pa nwun.
-\xe Take off your hat,
-\ths words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
-\rph bwii ɔnɔ - get translation and sentence
-\ths Open your mouth. words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
-\ths words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
+\xe Take off your hat.
 \rf Stewart List:2771
+\sn 3
+\ge stand up
+\de stand up after bending over
+\nt ths: words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
+\nt bwii ɔnɔ - get translation and sentence
+\nt from ths: Open your mouth. words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
+\nt From ths: words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
 \rkey 090a8b06-56d4-4388-aac2-cd2d276d8dea
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx bwiipa
 \ph bwíːpa
@@ -5943,20 +5980,67 @@
 \dt 10/Jan/2012
 
 \lx da
-\ph dá
-\ge touch; hit; render; lie; plant; beat
-\np H
-\de 1) hit; slap 2) render; da ɩpan - thank; da ɔkpʋnʋ - rest 3) Lie; Most frequently a question about how things are at a certain place. 4) plant- yam, cocoyam, peanuts
-\np Ɔtɛda (tɔkʋ).
+\ph dáʔ
 \ps vt
+\sn 1
+\ge hit
+\de to hit
+\ge touch
 \xv Da mʋ!
 \xe Hit him!
 \rf Tape:2-1-169
 \rf Stewart List:2754
-\xv Nɛda fʋ pan.
+\sn 2
+\ge render
+\de to render something
+\xv Nɛda fʋ ɩpan.
 \xe I thank you.
 \rf Tape:2-1-172
 \rf Stewart List:3239
+\xv da ɔkpʋnʋ
+\xe rest
+\xv Da wɩsʋ.
+\xe Be alert/prepared.
+\rf Tape:2-1-181
+\sn 3
+\ge plant
+\de to plant a root vegetable
+\xv da igyo
+\xe plant yam
+\rf Stewart List:2801
+\nt From ths: words for planting: swie (set out/transplant-plantain, cassava, nursed plants) du (plant seeds-corn), da (set out-yam cocoyam, peanuts)
+\xv da kɩtɩba
+\xe plant groundnuts
+\xv da mankani
+\xe plant cocoyam
+\sn 4
+\ge grow
+\de to evince something
+\xv Oyin tamada anyɔpʋ.
+\xe A man never has (grows) breasts.
+\rf Tape:5-1-587
+\sn 5
+\ge touch
+\de to touch something
+\xv pʋ da
+\xe dip
+\rf Stewart List:2679
+\xv da ɔnɔ
+\xe taste
+\rf Stewart List:3308
+\rkey ea78e501-d292-4be8-a332-aabdeefa4e86
+\dt 06/Aug/2012
+
+\lx da
+\ph dáʔ
+\ps vi
+\sn 1
+\ge lie
+\xv Nɛ fɩtɛ Kwaku mbɛɛ, mɩ ɔtɩ amʋ mɛ? Ɔbɛɛ ɩda ɔsʋlʋtɔ.
+\xe I asked Kwaku, "Where is my hoe?" He said it is lying on the ground.
+\rf Tape:2-2-526
+\sn 2
+\ge be fine
 \xv Funaa! Woyi da?
 \xe Hi! How's your household?
 \rf Tape:2-1-174
@@ -5966,33 +6050,22 @@
 \xv Asɔrɩ da?
 \xe How was church?
 \rf Tape:2-1-179
-\xv Da wɩsʋ.
-\xe Be alert/prepared.
-\rf Tape:2-1-181
-\rph da wa
-\rpht to call fetish
-\xv Nada mʋ wa, ha ɔkpɩ ogyi mʋ. (Ogyi mʋ́ ha anɩ)
-\xe I have called fetish on him. (The fetish should judge us).
+\xv Anɩdɛ ɔkpa kʋlɩ. Yoo, ɔkpa da.
+\xe We are asking for the road (taking leave). Response: O.K., The road is there. (You are free to leave.)
+\nt This is the normal formal leave taking. 
+\rkey fa78e501-d292-4be8-a332-aabdeefa4e86
+\dt 06/Aug/2012
+
+\lx da wa
+\ps vt
+\ge call fetsh
+\de to "call fetish" (a combination of asking one of the gods for judgement and placing a curse)
+\xv Nada mʋ wa, ha ɔkpɩ ogyi mʋ. Ogyi mʋ́ ha anɩ.
+\xe I have called fetish on him; having the fetish judge him. He (the fetish) should judge it for us.
 \rf Tape:2-1-183
 \rf Stewart List:3244
-\ths words for planting: swie (set out/transplant-plantain, cassava, nursed plants) du (plant seeds-corn), da (set out-yam cocoyam, peanuts)
-\xv pʋ da
-\xe dip
-\rf Stewart List:2679
-\xv da gyo
-\xe plant yam
-\rf Stewart List:2801
-\xv da ɔnɔ
-\xe taste
-\rf Stewart List:3308
-\np L
-\de lie on the ground
-\ps v
-\xv Nɛ fɩtɛ Kwaku mbɛɛ, mɩ ɔtɩ amʋ mɛ? Ɔbɛɛ ɩda ɔsʋlʋtɔ.
-\xe I asked Kwaku, Where is my hoe. He said, it is lying on the ground.
-\rf Tape:2-2-526
-\rkey ea78e501-d292-4be8-a332-aabdeefa4e86
-\dt 16/Jul/2012
+\rkey fb78e501-d292-4be8-a332-aabdeefa4e86
+\dt 06/Aug/2012
 
 \lx dablun
 \ph dablũ
@@ -6030,10 +6103,10 @@
 \xv Mɩ atadɩɛ labwɛ dada. Ɔkɛ nɔ́hɔ pɔpwɛ.
 \xe My shirt is getting old. Tomorrow I'll buy a new one.
 \rf Tape:2-1-209
-\ths opposite pɔpwɛ
+\an pɔpwɛ
 \rf Stewart List:1666
 \rkey d5e40de1-ad9b-408f-8b7c-6b081f3cbf13
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx dadɩsɛɩn
 \ph dadɪsɛ́ɪ̃́
@@ -6152,10 +6225,17 @@
 \ph adamanʦú
 \np LLLH
 \ps n
+\cf baba
+\cf finfi
+\cf gyawugya
+\cf konya
+\cf ɔkpan
+\cf ɔtɔntrɔbwɩ
+\cf kɔklɔ
 \xv Adamantsu boputa ɔdɔtɔpʋ ɔkʋ mʋ ndɔtɔ olesi ɔlɩɩ ɔdɛ amʋ́ kpakpa.
 \xe Red ants went all over the body of a certain farmer on his farm and he stood up in order to rub them off.
 \rkey aa72ded1-440c-44ae-b810-3353fdce03fe
-\dt 03/Apr/2012
+\dt 06/Aug/2012
 
 \lx damli
 \ph dámlí
@@ -6293,18 +6373,17 @@
 \np LHHH#H
 \de sweet tasting (liguids)
 \np (Atɔ) debidebi nɩ.
-\ps ADJ
-\nt liguids do not have singular and plural
+\ps ADJ\
 \xv Ntɔntrɔbwɩ bʋtekle atɔ debidebi puta.
 \xe Small black ants like gathering on, crawling over sweet things.
-\ths dɛdɛ
+\cf dɛdɛ
 \rf Tape:2-1-274
 \xv Bʋdɛ nta debidebi fɛ biasʋ.
 \xe They are selling sweet drinks (akɔklɔ, liha, minerals) in the market.
 \rf Tape:2-1-277
 \rf Stewart List:1678
 \rkey 028ec534-fce2-4bf2-b32d-7705a2140dd7
-\dt 10/Jan/2012
+\dt 06/Aug/2012
 
 \lx dedua
 \ph dedua
@@ -6338,6 +6417,17 @@
 \rf Stewart List:0618
 \rkey 8d2558fe-c3a2-4e49-86e7-bcab9770a9a6
 \dt 10/Jan/2012
+
+\lx deyi-asʋ
+\ph déi asʊ
+\ps n
+\ge k.o. mushroom
+\de monkey ear musroom
+\xv Deyi-asʋ tɔkwɛ oyi plɔhɛsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Igyi putuputu, ɩlofuli. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
+\xe Monkey ears grows in rotten trees. You can grind it and put it in soup. It is small and white. It is sweet in palmnut soup.
+\rf Tape:1-2-178
+\th atsulii
+\dt 07/Aug/2012
 
 \lx dɛ
 \ph dɛ
@@ -6394,7 +6484,7 @@
 \np (Atɔ)dɛdɛ nɩ.
 \pl adɛdɛ
 \ph adɛdɛ
-\ths synonym debidebi
+\sy debidebi
 \ps ADJ
 \xv Bʋdɛ nta dɛdɛ fɛ biasʋ.
 \xe They are selling sweet (palm) wine in the market.
@@ -6404,7 +6494,7 @@
 \rf Tape:2-1-292
 \rf Stewart List:1678
 \rkey e19ebf7d-17b8-4043-9662-f2436b1d2656
-\dt 17/Jul/2012
+\dt 06/Aug/2012
 
 \lx dɛdɛdɛdɛdɛ
 \ph dɛ́dɛ́dɛ́dɛ́dɛ́
@@ -6413,6 +6503,18 @@
 \ps ADJ
 \rkey a211806f-42ee-4ed8-afc6-cf35323fa032
 \dt 10/Jan/2012
+
+\lx dɛdɛɛdɛ
+\ph dɛdɛːdɛ
+\ge sweetly
+\de sweetly (spoken)
+\ps ADV
+\xv Ɔlɛblɩ mʋ asʋn dɛdɛɛdɛ, tamɛ saa ɔdɛ anɩ mlɛn.
+\xe He speaks his matter sweetly but he is only decieving us.
+\rf Tape:2-1-292
+\rf Stewart List:1678
+\rkey e29ebf7d-17b8-4043-9662-f2436b1d2656
+\dt 06/Aug/2012
 
 \lx dɛhɛn
 \ph dɛhɛ̃
@@ -6465,10 +6567,9 @@
 \rf Tape:2-1-309
 \xv Dimbi gyi ɩfá kʋa ɩma tɔtɔ bwɛtɔ, tamɛ mʋ́lɔhɔ ɩda nɩ. Aklɔtɩ tɔpʋ la isia.
 \xe This grass is a type that is not used for anything. But has the greatest name. Mice use it for nest.
-\ths words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfá (grass, weeds) kɛnkɛ,
-\nq need to ask about the words for grass
+\nt From ths: words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfá (grass, weeds) kɛnkɛ,
 \rkey b48a593e-02e9-4d19-8675-d595a6490adf
-\dt 05/Jul/2012
+\dt 06/Aug/2012
 
 \lx dimbisʋ
 \ph dimbísʊ́
@@ -6531,10 +6632,10 @@
 \nq should this yɔ be a high tone
 \xv Anɩ obiekpa bʋ ɔplɩ, sʋ igye nɛdɩda nʋ.
 \xe Our bathing area is slippery, so yesterday I fell down there.
-\ths words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpawie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
+\nt From ths: words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpawie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
 \rf Stewart List:2485
 \rkey fadd6a65-32ff-4c2f-839e-661ef894745a
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx dɩda
 \ph dɪdá
@@ -6546,10 +6647,10 @@
 \xe He put on his fine cloth yesterday.
 \rf Tape:2-1-323
 \rf Stewart List:2792
-\ths words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat), tin ( block with-glasses)
-\ths words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
+\th wa
+\nt words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
 \rkey a613b4a9-6376-42a5-b910-f0fb4161daaa
-\dt 10/Jan/2012
+\dt 06/Aug/2012
 
 \lx dɩdɩ
 \ph dɪdɪ
@@ -6655,7 +6756,7 @@
 \np HH
 \de lower
 \nt bring down from within reach
-\ths pʋ ba ayasɩ; to bring down from out of reach.
+\nt pʋ ba ayasɩ; to bring down from out of reach.
 \ps v
 \xv Nobwii pa, Fʋ atɔ amʋ bʋ bia dʋbɩ, sʋ dɩnkɩ mʋ́sʋ ha mɩ.
 \xe I beg you, your things are too costly, so reduce the price for me.
@@ -6668,9 +6769,9 @@
 \xv Napʋ atɔ amʋ dɩnka ɔprʋn amʋsʋ. Dɩnkɩ mʋ́ lɛ mʋ́sʋ.
 \xe I have put the things on top of the table. Lift it and remove it.
 \rf Tape:7-1-162
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife, pound), pɩtɩ (cut apart ), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife, pound), pɩtɩ (cut apart ), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \rkey 130c6d08-b534-4fdc-81b9-86fccae396f9
-\dt 05/Jul/2012
+\dt 06/Aug/2012
 
 \lx dɩnsʋ
 \ph dɪnsʊ
@@ -6720,10 +6821,11 @@
 \de hour
 \ps n
 \xv Dɔ fɩnɩ lada?
-\xe What time is it?; Lit, How many bells have struck?
+\xe What time is it?
+\lt How many bells have struck?
 \nt this is a unique form of ɔdɔn which occurs only in this expresion.
 \rf Tape:2-1-354
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rkey c52b380e-6e4b-4c96-ad62-0b6ba01451fb
 \dt 12/Jan/2012
 
@@ -6747,7 +6849,6 @@
 \xe Oyin amʋ la suna ɔwʋlʋ alɩa, alabwɛ ɔwʋlʋtɔ ɔbɩntɔpʋ Dɔkɩta.
 \xv Dɔkɩta amʋ latsa ɔtsɩ anfɩ ɔdɛ kwata ɩlɔ amʋ.
 \xe The doctor has cured this leprous woman
-\ths a person that has read medicine (Doctor) a person that has done Phd (Doctor, Dr. ).
 \rkey 566d24b6-b820-4408-89f8-80d0b4a25cb8
 \dt 10/Jan/2012
 
@@ -6804,7 +6905,7 @@
 \rf Tape:2-1-362
 \rf Stewart List:2799
 \rf Stewart List:2800
-\ths words for planting: swie (set out/transplant-plantain, cassava, nursed plants), du (plant seeds-corn), da (set out-yam, cocoyam, peanuts)
+\nt From ths: words for planting: swie (set out/transplant-plantain, cassava, nursed plants), du (plant seeds-corn), da (set out-yam, cocoyam, peanuts)
 \rkey 2c8f923d-e409-43e0-9e37-fc36b13870b8
 \dt 10/Jan/2012
 
@@ -7052,7 +7153,7 @@
 \xe Pound the palm nuts so you can strain them quickly in order to make soup.
 \rf Tape:2-1-420
 \rf Stewart List:2812
-\ths see dudu
+\cf dudu
 \xv Bokiti amʋ latii, sʋ ntsu amʋ dɛdwɩɩ. Sʋ nɩ fʋmɔwa ɔsa tin mʋ́ a, bodudu ta.
 \xe The bucket is torn so the water is dripping. So if you don't hurry and mend it (stop it) it will leak.
 \rf Tape:2-1-424
@@ -7113,7 +7214,7 @@
 \xv Mbʋ ɛfɛ kʋ, mʋ́ ɔnɔ bʋ ogya.
 \xe I have an axe, it is sharp.
 \rf Tape:5-2-334
-\ths limba (large axe for felling trees)
+\cf limba (large axe for felling trees)
 \rf Stewart List:1201
 \rkey c61031ba-755b-47fb-a247-5725cac6c7b8
 \dt 16/Jul/2012
@@ -7136,7 +7237,7 @@
 \xv Ndɛ gyi nkɛ du ɔkɛ saasɩ.
 \xe Today is the thirteenth.
 \rf Tape:5-2-420
-\ths days in time: ɩnwɛn (day before yesterday), igye (yesterday), ndɛ (today), ɔkɛ (tomorrow), klaɛ (day after tomorrow)
+\nt From ths: days in time: ɩnwɛn (day before yesterday), igye (yesterday), ndɛ (today), ɔkɛ (tomorrow), klaɛ (day after tomorrow)
 \rph fʋ owukɛ
 \rpht your death day- the day of your death
 \cf okekegyiɔkɛ Eng:every day
@@ -7246,7 +7347,7 @@
 \xe You have given me freely.
 \rf Tape:2-1-442
 \nq check word origin and get more examples
-\ths contrast with awɩtɔlɛ
+\cf awɩtɔlɛ
 \rkey bc2039e1-96b8-4654-959f-f145c74a8b99
 \dt 05/Jul/2012
 
@@ -7377,7 +7478,7 @@
 \xe All human beings are like sheep
 \rf Tape:2-1-458
 \nq check tone on this and if it is truly low check sentences in which it has been marked high
-\ths words dealing with similiarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as) - also contrast with kɛn,
+\nt From ths: words dealing with similiarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as) - also contrast with kɛn,
 \rkey e75bded2-2864-46b8-b637-06d47fe3ff3c
 \dt 16/Jul/2012
 
@@ -7436,7 +7537,7 @@
 \np HLʔ#L
 \de then; logical connection
 \ps CNJ
-\ths interchangeable with fówun
+\sy fówun
 \xv Ɔkɛ bakɛ a, ɩbwɛ fawa ɔsa ba fɛ́kɩ anɩayɔ.
 \xe You should come early tomorrow morning so we can go.
 \rf Tape:2-1-483
@@ -7455,7 +7556,7 @@
 \xv Nɛyɛfɛn ɩmɛ amba.
 \xe I am going to blow my nose and come back.
 \rf Tape:2-1-487
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), fʋlɩ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths: words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), fʋlɩ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rkey 20da34a9-1836-4331-b885-e57fa921348b
 \dt 16/Jul/2012
 
@@ -7494,7 +7595,7 @@
 \xv Ndɛ Nkunya awie bafia Ntumda.
 \xe Today the Nkonya chiefs have met in Ntumda.
 \rf Stewart List:2472
-\ths words for meeting: tʋ ( meet unintentionally, catch up to ), tii (meet unexpectedly, break through to), fia ( meet or assemble intentionally)
+\nt From ths: words for meeting: tʋ ( meet unintentionally, catch up to ), tii (meet unexpectedly, break through to), fia ( meet or assemble intentionally)
 \cf ofiakpa Eng:meeting place
 \xv Brɛ ánɩ́ nɔyɔ a, saa mʋ ɛ ɔba, sʋ anɩlefia aba ɔkpatɔ.
 \xe The time that I went, unexpectedly he also came so we met each other on the road.
@@ -7564,7 +7665,7 @@
 \np L
 \np Lʔ
 \de close; used of doors
-\ths bun
+\cf bun
 \ps vt
 \xv Fin klʋn amʋ ha mɩ, tsufɛ nyankpʋ mʋ́a afu ɩbá.
 \xe Close the door for him because rain and wind are coming.
@@ -7592,9 +7693,15 @@
 \xv Natsa fʋ woyitɔ afinfi fɛ́ɛ́ mɔ, tamɛ fʋma nʋ.
 \xe I have stepped on all the ants in your house, killed them but you were not there. It means, I've been to your house over and over again but you were never there.
 \rf Tape:2-1-511
-\ths kinds of ants: baba (termites), finfi (ant-generic), gyawugya(tiny red ant), konya (driver ant), ɔkpan(large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ(crazy ant)
+\cf baba
+\cf damantsu
+\cf gyawugya
+\cf konya
+\cf ɔkpan
+\cf ɔtɔntrɔbwɩ
+\cf kɔklɔ
 \rkey de9a71dd-3b69-4639-bce0-d3dd958e4d5e
-\dt 23/Jul/2012
+\dt 06/Aug/2012
 
 \lx finifini
 \ph fínífíní
@@ -7622,7 +7729,7 @@
 \rf Tape:2-1-518
 \xv Alatsu sukuu ba, befinki obu.
 \xe He has come home from school and opened the room.
-\ths words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
+\nt From ths: words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
 \rf Stewart List:2311
 \rkey 8475f6fd-bf88-474c-9f9d-3883fb5da155
 \dt 10/Jan/2012
@@ -7694,9 +7801,8 @@
 \ge lie_in_wait; set_trap
 \np LL
 \np LLʔ#L
-\de 1) lie in wait 2) set a trap
+\de to lie in wait; to set a trap
 \ps v
-\ths see tapʋtɔ
 \xv Nɩ atapʋ bɔyɔ tapʋtɔ a, bʋtɛyɛfɩnɩ.
 \xe If hunters go hunting, they always lie in wait.
 \rf Tape:2-1-525
@@ -7787,23 +7893,26 @@
 \dt 02/Apr/2012
 
 \lx flɔɩ
-\ph flɔɪ
-\ge peel; hatch
-\np HH
-\np HH#H
+\ph flɔ́ɪ́
 \ps vt
-\ths maɩn, piɛɩ, sre
-\de 1) peel 2) hatch (the act of hatching is done by the hen rather than the chicks. )
-\xv Batɛ amʋ laflɔɩ abɔnɔ asa, lasi anyɔ.
-\xe The chicken has hatched three eggs. There are two left.
+\ge peel
+\de to peel the skin from something
 \rf Tape:2-1-540
 \xv Mlɩwa ɔsa flɔɩ blɔdɩ amʋ, abɔ ampesie gyi.
 \xe You should quickly peel the plantain in order that we have slice in order that we eat.
 \rf Tape:2-1-544
-\rf Stewart List:2204
 \rf Stewart List:2761
+\cf maɩn
+\cf piɛɩ
+\cf sre
+\sn 2
+\ge hatch
+\de hatch an egg -- the act of hatching is done by the hen rather than the chicks.
+\xv Batɛ amʋ laflɔɩ abɔnɔ asa, lasi anyɔ.
+\xe The chicken has hatched three eggs. There are two left.
+\rf Stewart List:2204
 \rkey 8546c584-5827-4691-ae75-b4cca6f25f45
-\dt 12/Jan/2012
+\dt 6/Aug/2012
 
 \lx fonflo
 \ph foɱflo
@@ -7820,7 +7929,7 @@
 \xe A butterfly comes from a caterpiller
 \xv Fonflo tɛdamli bwɛ konkolibatɛ.
 \xe A caterpiller turns into a butterfly.
-\ths caterpillars: tɔsɩ (stinging caterpillars), fonflo (harmless ones that turn into butterflies)
+\cf tɔsɩ
 \rkey 03eb8855-c224-46e7-ae30-3ff7325b8b03
 \dt 05/Jul/2005
 
@@ -7834,7 +7943,7 @@
 \xv Kpala amʋ ma odwin, ogyi fontroo.
 \xe The goat is not heavy he is light.
 \rf Tape:2-1-551
-\ths opposite odwin
+\an odwin
 \rf Stewart List:1694
 \rkey 653f08c6-ad9d-4cc0-b3a1-6e5b62d183eb
 \dt 16/Jul/2012
@@ -7881,7 +7990,7 @@
 \np H
 \de far
 \ps prep
-\ths see tsutsu
+\cf tsutsu
 \xv ɩbʋ fɔ
 \xe It is far.
 \xv Ndɔ amʋtɔ bʋ fɔ.
@@ -8468,6 +8577,7 @@
 \va gyaa
 \sn 1
 \ge sack
+\de to expell
 \sn 2
 \ge trace
 \sn 3
@@ -8487,7 +8597,7 @@
 \xe He is worrying the matter too much so he is becoming lean.
 \se gya ɔkpa
 \xv gya mʋ ɔkpa
-\xe fetch him
+\xe trace him
 \rf Tape:2-2-148
 \xv srɩ gya mʋ
 \xe chase him
@@ -8502,7 +8612,6 @@
 \xe They don't chase a bird from the fence and then again from the grass. (Meaning don't push an opponent too far. Give him a little breathing space)
 \nt proverb
 \rf Stewart List:2508
-\ths tu
 \dt 27/Jul/1993
 
 \lx gyabɛ
@@ -8514,7 +8623,7 @@
 \pl agyabɛ
 \ph aʤabɛ
 \np LHHʔ
-\ths ɔtɛ
+\cf ɔtɛ
 \ps n
 \xv Gyabɛ tɛla sia.
 \xe Squirrels make nests (in trees).
@@ -8648,7 +8757,7 @@
 \xv Bulu mʋbi gyankpapʋ gyi anɩ wie Yesu Kristo.
 \xe The first child of God is our Lord Jesus Christ.
 \nq new entry
-\ths gyankpapʋ (first), nyɔɔsɩ (second), saase (third), naase (fourth), nuse (fifth), siese (sixth), sienɔ (seventh), ikwese (eighth), ikweba (ninth), iduse (tenth)
+\nt From ths: gyankpapʋ (first), nyɔɔsɩ (second), saase (third), naase (fourth), nuse (fifth), siese (sixth), sienɔ (seventh), ikwese (eighth), ikweba (ninth), iduse (tenth)
 \nq check these ordinal numbers- especially seventh
 \rkey 668d9147-bfcd-4861-97ae-fe9de8e89bee
 \dt 05/Jul/2005
@@ -8675,7 +8784,7 @@
 \pl agyasɩɛpɛ
 \ph aʤásɪ́ɛ́pɛ
 \np LHHHLʔ
-\ths S. N batafɔ
+\ue South:batafɔ
 \nt gyasɩɛpɛ is brown - batafɔ is black -FO
 \ps n
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
@@ -8720,13 +8829,18 @@
 \ph aʤawuʤa
 \np L`LLH
 \ps n
-\ths finfi
 \xv Agyawugya babʋla asikre daka amʋ.
 \xe The little red ants have filled the sugar box.
 \rf Tape:2-2-217
-\ths kinds of ants: baba (termites), finfi (ant-generic), gyawugya (tiny red ant), kʋmya (driver ant), ɔkpan(large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ(crazy ant)
+\cf baba
+\cf damantsu
+\cf finfi
+\cf konya
+\cf ɔkpan
+\cf ɔtɔntrɔbwɩ
+\cf kɔklɔ
 \rkey 914173bf-6b86-4933-920a-0d5d6c11548b
-\dt 05/Jul/2005
+\dt 06/Aug/2012
 
 \lx gyawunu
 \ph ʤawunu
@@ -8776,14 +8890,13 @@
 \np L
 \np L
 \de eat
-\ths wɩ (to chew), nun (drink)
 \ps v
 \nt metaphorically - engage in an interpersonal activity that involves give & take.
-\xv gyi asʋn: Be ye gyi asʋn.
+\xv gyi asʋn: Beyegyi asʋn.
 \xe judge a case: They are going to judge the case.
 \rf Tape:2-2-26
-\xv gyi bia: Ɔtsɩ amʋ oye gyi bia Bumbula biasʋ.
-\xe The woman is going to market at Bumbula market.
+\xv gyi bia: Ɔtsɩ amʋ oleyegyi bia Bumbula biasʋ.
+\xe martket: The woman went to market at Bumbula market.
 \rf Tape:2-2-228
 
 \xv gyi mʋ bia
@@ -8824,7 +8937,7 @@
 \xe protect (make a fence)
 \rf Stewart List:2032
 \rkey ecfc834d-74c7-4cd2-8914-c78bfcd3517a
-\dt 23/Jul/2012
+\dt 06/Aug/2012
 
 \lx gyi
 \ph ʤí
@@ -8881,13 +8994,13 @@
 \ph ʤibi
 \ge cry_over_nothing
 \de cry over nothing, literally to eat children
-\ths see kɛklɛ
+\cf kɛklɛ
 \ps v
 \xv Kebi amʋ de bigyi tsufɛ mʋ yin dɛ ɔmɛ wa mbla ha mʋ osi bigyi.
 \xe The child is crying because his mother is pregnant and has ordered him to stop crying for nothing.
 \nq tone
 \rkey 96e3d900-2fc0-49fa-abe9-1267e2a4ef63
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx gyigya
 \ph ʤiʤa
@@ -9047,7 +9160,7 @@
 \xv Gyɔɩ kwadu abi anyɔ ba mɩ.
 \xe Break off two bananas and bring them to me.
 \rf Tape:2-2-297
-\ths words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off)
+\nt From ths:  words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off)
 \rkey d521cefa-bbb9-4b71-941f-237bc7fa7065
 \dt 12/Jan/2012
 
@@ -9158,7 +9271,7 @@
 \de crack, as in a wall, glass, egg
 \de nɩ tɔkʋ bwie ɩmɛmaɩn lɛ abasʋ
 \ps vi
-\ths contrat with baba
+\cf ba
 \xv Bunti lahala.
 \xe The wall has cracked; i. e. we are being overheard.
 \nt idiom
@@ -9458,7 +9571,7 @@
 \ge lose
 \de lose irretrievably;
 \ps v
-\ths synonym to fwɩ
+\sy fwɩ
 \xv Fɔkʋla sika a, fɔ́hʋlɩ fʋ ɔkla.
 \xe If you seek money you will lose your soul.
 \nq new sentence. Is the first fɔ correct or should it be in future tense (I don't think so). When this is corrected also file it under ɔkla.
@@ -9489,7 +9602,7 @@
 \de nothing
 \ps n
 \bw Akan fi:hwee LL
-\ths Nkonya equivalent is tɔtɔ nothing; kʋkʋ - that thing sought is not
+\nt From ths:  Nkonya equivalent is tɔtɔ nothing; kʋkʋ - that thing sought is not
 \xv Hwɩɩ ma daka amʋtɔ.
 \xe Nothing is in the box.
 \rf Tape:2-2-367
@@ -9592,13 +9705,13 @@
 \pl bia- agyipʋ
 \ph bíá- áʤípʊ́
 \ps n
-\ths from ibia
-\ths atɔ-ɔfɛpʋ (petty trader), bia-ogyipʋ (merchant)
+cf gyi bia
+\nt From ths:  atɔ-ɔfɛpʋ (petty trader), bia-ogyipʋ (merchant)
 \xv Papa Asiedu gyi bia-ogyipʋ.
 \xe Papa Asiedu is a merchant.
 \rf Stewart List:0411
 \rkey 13d98161-1331-423a-9bfa-417f5712ebb8
-\dt 05/Jul/2012
+\dt 02/Aug/2012
 
 \lx ibu
 \ph ibú
@@ -9623,7 +9736,7 @@
 \ps n
 \pl abun
 \ph abṹ
-\ths SN ɩbun
+\ue South ɩbun
 \xv Ibun amʋ bʋ oklu, sʋ mmɛɛtalɩ sa ntsu amʋ. Tsufɛsɛ, mɩ ɔfɛ amʋ mɔɔfʋn.
 \xe The well is deep so I cannot draw water from it because my rope will not reach.
 \rf Tape:5-2-239
@@ -9676,10 +9789,9 @@
 \ph adu
 \np LH
 \ps NUM
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \rf Stewart List:1810
 \rkey b915563b-6b3f-4534-a25e-077194cda56c
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx iduɔkʋn
 \ph idúɔ́kʊ̃
@@ -9700,7 +9812,7 @@
 \xe My head hurts.
 \rf Tape:2-1-416
 \nq How does one say to a child. I won't hurt you.
-\ths ɔsɩn
+\sy wa ɔsɩn
 \rkey 69eff4d5-4561-4268-8980-19e595acf460
 \dt 05/Jul/2005
 
@@ -9789,7 +9901,7 @@
 \cf the place where ghosts (departed souls) are
 \cf Afulitɔ gyi ɔtɩnɛ ánɩ́ afuli bʋteye tsia nɩ bopula amʋ́ ɔma.
 \nt The ghost is present after death until burial occurs.
-\ths see owupʋ (the long dead)
+\cf owupʋ (the long dead)
 \rf Stewart List:0055
 \xv Akʋ bɛɛ fuli ma ɔyɩtɔ, akʋ ɛ bɛɛ fuli bʋ nʋ. Mɔmʋ gyi ɔnɔkwalɩ ngya a?
 \xe Some people say there are no ghost in this world, others too say they are there, which is correct now?
@@ -9823,7 +9935,7 @@
 \xv Igye nyankpʋ lebila tamɛ omotswie.
 \xe Yesterday storm clouds threatened but it didn't rain.
 \rf Tape:2-2-386
-\ths days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
+\cf ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
 \rf Stewart List:1552
 \rkey d00239a7-9e72-4861-9f5b-a0341fc39168
 \dt 10/Jan/2012
@@ -9914,7 +10026,7 @@
 \np LH
 \ps n
 \bw Akan fi:kuw H
-\ths see ɔdʋdʋɔ crowd of people-many, Nkonya tsɔtsɔɔtsɔ, ɩpʋ-a piece of, hank
+\nt From ths:  see ɔdʋdʋɔ crowd of people-many, Nkonya tsɔtsɔɔtsɔ, ɩpʋ-a piece of, hank
 \xv Nɔyɔ a, bɔ bɔa mankani amʋ akuaku. Mʋ́ʋ́ nɔ kpa iku kʋlɛ.
 \xe When I went they had set the mankani in piles. And then I collected one pile.
 \rf Tape:2-2-400
@@ -9947,10 +10059,9 @@
 \ps count
 \xv Nɩ fɛdalɩ tsu asienɔ a, fɔyɔ ikwe.
 \xe If you leave seven you are going to eight.
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \rf Stewart List:1808
 \rkey 22eb87dd-d461-4f8a-96ea-a74b1abe4e18
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx ikweba
 \ph ikwebá
@@ -9960,10 +10071,9 @@
 \np L-LHʔ#H
 \de nine
 \ps NUM
-\ths counting numbers to twelve: ɔkʋn, anyɔ, asa, ana, anu, asie, asienɔ, ikwe, kweba, idu, du-ɔkʋn, du-anyɔ
 \rf Stewart List:1809
 \rkey 703de344-d674-4cd0-b0ac-6c22bb97f615
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx ikwi
 \ph ikwi
@@ -9982,13 +10092,16 @@
 \dt 14/May/2012
 
 \lx ikwitɔ
-\ph ikwitɔ
-\ge chin; ceiling
-\np LLL
-\np L-LL#H
-\de 1) chin-inside the beard 2) ceiling
-\ths see ɔdawʋ
+\ph ikwitɔ(H)
 \ps n
+\sn 1
+\ge chin
+\de chin
+\lt inside the beard
+\cf ɔdawʋ
+\sn 2
+\ge ceiling
+\de ceiling
 \xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
 \xe The cat has climbed up into the ceiling and is catching mice.
 \rf Tape:2-2-409
@@ -10089,8 +10202,7 @@
 \ge fatigue
 \np LLL
 \np L-LL#H
-\de nominal form of tire
-\ths from pian
+\de nominal form of pian
 \ps n
 \xv Nɩ fotsu ndɔ ba, febie a, ipian amʋ tɔkʋsʋ fʋsʋ.
 \xe If you come from farm and you bathe, the fatigue leaves you.
@@ -10116,7 +10228,7 @@
 \pl apu
 \ph apu
 \ps n
-\ths ɔmɛ
+\cf ɔmɛ
 \xv Nyimɛ ɔbwɩ amʋ ipu amʋ wʋlɩ pututɔ tsutsuutsu, mɛnɩ moobon ba woyitɔ.
 \xe Squeeze out the animals stomach far away in the bush so that the stench will not come to the house.
 \rf Tape:2-2-436
@@ -10272,7 +10384,7 @@
 \xv Mʋ́ sʋ Trʋkpa odu lɔbwɛ tin nɩ ee!
 \xe That's why Billy Goat's tail became short.
 \rf Tape:2-2-446
-\ths kutuklu
+\cf kutuklu
 \xv Ka fʋ ka amʋ tin ha mɩanwɩ.
 \xe Cut your sugar cane short for me so that I can eat it.
 \rf Tape:2-2-449
@@ -10506,7 +10618,6 @@
 \ps NOMR
 \xv ɩnatɩ
 \xe way of walking
-\ths nominalalized verbs: ɩsa (war), ɩtsa (dancing), ɩdɔ (farm work), ɩbá (arrival), ɩswɩ (height), ɩsʋra (mourning), ɩsɔkɩ (temptation)
 \rkey 61d34b0c-97fd-494f-b290-c3a94b0e7cf2
 \dt 03/Apr/2012
 
@@ -10598,7 +10709,7 @@
 \pl aba
 \ph aba
 \np LL
-\ths words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
+\nt From ths:  words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
 \ps n
 \xv Nɩ fɔpʋ bɩ yɔ agyʋma kinkin a, fʋ ɩbatɔ todwiin fʋ.
 \xe If you work hard with your arm your shoulder will pain you.
@@ -10984,7 +11095,7 @@
 \de grass
 \de bush
 \ps n
-\ths words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfa (grass, weeds)
+\nt From ths:  words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfa (grass, weeds)
 \xv Nyankpʋ tswie brɛ a, ifa tɔwa ɔsa kɔkwɛ dʋbɩ.
 \xe In rainy season weeds grow too quickly.
 \rf Tape:2-2-543
@@ -11003,7 +11114,7 @@
 \pl afɛ
 \ph afɛ
 \np LLʔ
-\ths obiantɔ-lower down
+\cf  obiantɔ (thigh)
 \xv Atɔ lada mɩ fɛsʋ.
 \xe Something has hit my hip.
 \xe I have a boil on my hip.
@@ -11044,7 +11155,7 @@
 \xv Lɛ ifla ba mɩampʋ klɩ mɩ ngya amʋ ya bu asɩ.
 \xe Remove a vine and bring it to me so I can tie up my firewood and bring it to my farm hut.
 \rf Tape:2-2-546
-\ths kinds of vine: ɩfla pɛpɛ, sawun fla, tʋnkpa, afonflo fla, ɔsapɔ, apʋsɛ, bʋsʋ fla, otsi, ɔtwankanti,
+\nt From ths:  kinds of vine: ɩfla pɛpɛ, sawun fla, tʋnkpa, afonflo fla, ɔsapɔ, apʋsɛ, bʋsʋ fla, otsi, ɔtwankanti,
 \rkey 023aef4a-7a49-40f3-b1f7-c87dc14fb680
 \dt 05/Jul/2005
 
@@ -11087,7 +11198,6 @@
 \xe Persuade somebody to do good.
 \rf Tape:2-2-553
 \rf Tape:5-2-360 (short version)
-\ths see afutuo
 \rkey c8a866ee-16d5-44fb-9263-98daa4297caf
 \dt 02/Apr/2012
 
@@ -11138,7 +11248,6 @@
 \xv Tsu kwadu fwɩ amʋ ɔsʋlʋtɔ, tsufɛ ɩbʋ ɔplɩ, ɩtɛlɛ aha da.
 \xe Pick up the banana peel from the ground because it is slippery and makes people fall.
 \rf Tape:2-2-559
-\ths ɔyɩlʋ, ɔwʋlʋ, ɩwɩ,
 \xv Sre mango ɩfwɩ ha mɩ.
 \xe Peel the bark of the mango for me.
 \rf Tape:1-1-177
@@ -11226,7 +11335,7 @@
 \xv Ɩka wɩhɛ bʋtɔpʋ bwɛ asikre.
 \xe We used sugar cane to make sugar.
 \rf Tape:2-2-573
-\ths words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfá (grass, weeds)
+\nt From ths:  words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfá (grass, weeds)
 \rkey d883779d-9c6c-4099-b565-d65be2a1adc3
 \dt 05/Jul/2012
 
@@ -11319,7 +11428,7 @@
 \xv Mapʋ lalahɛ ka lalahɛ kɔ.
 \xe Don't pay back evil for evil.
 \rf Tape:2-2-586
-\ths ɩkɔka
+\cf ɩkɔka
 \rkey d3b40ca5-0aa2-483d-b326-ea8e5d631e0b
 \dt 12/Jan/2012
 
@@ -11464,38 +11573,20 @@
 \dt 14/Jul/2005
 
 \lx ɩkwɛ
-\ph ɪkwɛ
+\ph ɪkwɛʔ(L)
 \ge drum
-\np LL
-\np L-Lʔ#L
-\np L-Lʔ#L
 \de drum
 \pl akwɛ
-\ph akwɛ
+\ph akwɛʔ
 \np LLʔ
 \ps n
+\xv Kebi amʋ tɛda akwɛ wanklaan
+\xe  The child can play the drum very well.
 \xv Nɩ fʋyin akwɛ da a, ɩbʋ adalɛ.
 \xe If you know how to drum, it is easy to drum.
 \rf Tape:3-1-026
-\ths drums: ɩkwɛ/akwɛ (drum/drums), atumpa (Akan talking drums)
 \rkey 95700900-d9eb-4214-a15d-be7a477807d9
-\dt 05/Jul/2005
-
-\lx ɩkwɛ
-\ph ɪkwɛ
-\ge drum
-\np LL
-\np same
-\de drum
-\pl akwɛ
-\ph akwɛ
-\np same
-\ps n
-\np ɩkwɛ nɩ
-\xv Kebi amʋ tɛda akwɛ wanklaan
-\xe  The child can play the drum very well.
-\rkey 0416e1eb-0b3e-4e13-90c9-8e3edad45b72
-\dt 05/Jul/2005
+\dt 06/Aug/2012
 
 \lx ɩla
 \ph ɪla
@@ -11577,8 +11668,8 @@
 \xv Ɩlɔ bʋ ɔsɩn.
 \xe Illness is painful
 \cf ɔlɔpʋ Eng:sick person
-\ths words for medical symptoms: lu (retch), kplai (vomit), kpɩnkɩ (shiver), pin (lose voice), plan (wound),
-\ths words for illnesses:aklodobi (hernia), ɩsʋn (cattarh), ɔnamba(), ɔnamplɔɩ (), sɛsɛ (ringworm), kɛklɛ (boil), owiso (malaria), mfa (), ɔlɔ (sore), ɩlɔ pɛpɛ (leprosy), awidwiin (rheomatism), obubupʋ (cripple), etc.
+\nt From ths:  words for medical symptoms: lu (retch), kplai (vomit), kpɩnkɩ (shiver), pin (lose voice), plan (wound),
+\nt From ths:  words for illnesses:aklodobi (hernia), ɩsʋn (cattarh), ɔnamba(), ɔnamplɔɩ (), sɛsɛ (ringworm), kɛklɛ (boil), owiso (malaria), mfa (), ɔlɔ (sore), ɩlɔ pɛpɛ (leprosy), awidwiin (rheomatism), obubupʋ (cripple), etc.
 \rf Stewart List:1410
 \rkey 8cede7b0-18f3-4262-98f6-2c5392d2c440
 \dt 03/Apr/2012
@@ -11793,13 +11884,12 @@
 \np LH
 \np L-Hʔ#L
 \de argument; debate
-\ths see gyi;
 \xv Bʋdɛ nwɛn gyi
 \xe They are arguing (eating argument).
 \ps n
 \xv Bʋsrɩ nwɛnsʋ.
 \xe They are competing in a race.
-\xv gyi nwɛɛn
+\xv gyi ɩnwɛn
 \xe argue (eat argument)
 \xv Akʋ bʋtegyi nwɛɛn kpan.
 \xe Some people argue pointlessly.
@@ -11951,7 +12041,8 @@
 \np LL
 \np L-Lʔ#L
 \de group, or standard measure of an object
-\ths see iku, ɔdʋdʋɔ
+\cf iku
+\cf ɔdʋdʋɔ
 \ps n
 \rph atatibi pʋ kʋlɛ
 \rpht one length of cloth
@@ -11969,7 +12060,7 @@
 \de forest
 \ps n
 \np LH
-\ths see putu
+\cf putu
 \xv Kɩ alɩa ogya plɛnplɛnbi tɛtalɩ wa pʋ yile ogya.
 \xe See how a spark can set fire to a big forest.
 \rf Tape:3-1-150
@@ -12003,7 +12094,7 @@
 \np L-L#H
 \de dirt
 \ps n
-\ths otutu (dust), ɔsʋlʋ (ground), ɔdɩba (mud), osublu (sand), ŋɛsɩ (fine sand), ɩsɩ (sand, dirt, clay) isín (termite clay), ɔtsatsa (gravel-laderite?) ɔsɩpa
+\nt From ths:  otutu (dust), ɔsʋlʋ (ground), ɔdɩba (mud), osublu (sand), ŋɛsɩ (fine sand), ɩsɩ (sand, dirt, clay) isín (termite clay), ɔtsatsa (gravel-laderite?) ɔsɩpa
 \nq check out all these meanings for sure using samples
 \xv Afu latsʋn sɩ wa mɩ atogyihɛtɔ.
 \xe Wind has blown dirt into my food.
@@ -12137,7 +12228,7 @@
 \xv Nɔpʋ ogyatin amʋ dɩnka ta ba woyitɔ.
 \xe I carried a stick of firewood to my house on my shoulder.
 \rf Tape:3-1-196
-\ths words for shoulder: ɩta, ɩba, nkɔnkɔ, nkanta. It is an euphemism for gun.
+\nt From ths:  words for shoulder: ɩta, ɩba, nkɔnkɔ, nkanta. It is an euphemism for gun.
 \rkey f27cf0c5-4020-4f10-9b08-31089afc1705
 \dt 03/Apr/2012
 
@@ -12179,7 +12270,6 @@
 \pl atokiehɛ
 \ph atokiehɛ́
 \np LLLH
-\ths from kie (to give)
 \ps n
 \nq check tones- Emmanuel sees them as four
 \rkey 88ef66bd-0c06-4427-bb41-95e65ee90da0
@@ -12231,7 +12321,6 @@
 \pl atɔsʋrahɛ
 \ph atɔsʊráhɛ́
 \np LLLHH
-\ths from sʋra (carry)
 \ps n
 \rkey f1e6fa91-0cfa-4a01-9f12-7c0970d4d05a
 \dt 10/Jan/2012
@@ -12445,7 +12534,7 @@
 \np LL
 \np L-Lʔ#H
 \de snake
-\ths S. N ɛwɔ
+\ue South ɛwɔ
 \ps n
 \pl awɔ
 \ph awɔ
@@ -12484,7 +12573,7 @@
 \xv Ɩyɛ labwɛ mʋ wɩ fɛ́ɛ́.
 \xe He has many moles.
 \rf Tape:3-1-268
-\ths illnesses that make us (labwɛ): mfa, ɔnamba, ɔnamplɔɩ, sɛsɛ, ɩyɛ
+\nt From ths:  illnesses that make us (labwɛ): mfa, ɔnamba, ɔnamplɔɩ, sɛsɛ, ɩyɛ
 \rkey c2fa5a89-049a-41c5-855e-d0de0defecd1
 \dt 03/Apr/2012
 
@@ -12496,40 +12585,44 @@
 \dt 04/Oct/2005
 
 \lx ka
-\ph ka
-\ge pay
-\ge cut
-\ge lay
-\np L
-\de 1) cut 2) pay a debt 3) lay an egg
-\ths 1) ka vs tɩn; ka kwadu would imply cutting a whole banana tree or if you want to cut a kwadu into pieces. tɩn would imply cutting to harvest 2) sense 2 & 3 share a common meaning to release 4) ka hon and ka ntam are Twi loans the ka in them may be a different word
+\ph káʔ
 \ps v
+\sn 1
+\ge cut
+\de to cut
+\nt From ths:  1) ka vs tɩn; ka kwadu would imply cutting a whole banana tree or if you want to cut a kwadu into pieces. tɩn would imply cutting to harvest 2) sense 2 & 3 share a common meaning to release 4) ka hon and ka ntam are Twi loans the ka in them may be a different word
 \xv Ɔfɛ laka ɔkpa amʋtɔ.
 \xe The rope stretched across the road.
 \nq does this imply a rope just lying on the road or one that has been stretched accross it to keep people from passing like at the lori park?
 \rf Tape:3-1-275
+\xv Ka fufu amʋ ɩkʋ.
+\xe Take some of the fufu (from a larger portion).
+\nt From ths:  words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\rf Stewart List:2781
+\rf Stewart List:2782
+ \\sn 2
+\ge pay
+\de to pay (a debt)
 \xv ka ɩkɔ
 \xe pay (cut) a debt
 \rf Tape:3-1-279
 \rf Stewart List:3208
+\sn 3
+\ge lay
+\de to lay an egg
 \xv Abatɛ amʋ fɛ́ɛ́ bɛ́ka tsɔtsɔɔtsɔ.
 \xe All of the chickens will lay plenty of eggs.
 \rf Tape:3-1-282
-\xv Ka fufu amʋ ɩkʋ.
-\xe Take some of the fufu (from a larger portion).
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \rf Stewart List:2209
-\rf Stewart List:2781
-\rf Stewart List:2782
-\rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696
+rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696
 \dt 30/Jul/2012
 
 \lx ka
 \ph ka
+\ps v
 \ge join; swear
 \np L
-\de Twi loan word without a core meaning 1) _ hon - join 2) _ ntam - swear an oath 3) _ anim - rebuke
-\ps v
+\de Twi loan word with uncertain core meaning ka hon - join;  ka  ntam - swear an oath; ka anim - rebuke
 \xv ka hon
 \xe join
 \rf Tape:3-1-287
@@ -12665,7 +12758,7 @@
 \xe When they butcher the sheep they will cut some of the meat into small pieces and put them on a leaf and bring it to him.
 \rf Tape:3-1-334
 \nq needs tone
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths:  words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \rkey 53dc1b81-db32-4880-9480-8d77a47f8af8
 \dt 16/Jul/2012
 
@@ -12732,7 +12825,7 @@
 \xv Kali igyo anyɔ amʋ afʋkɩ mʋ́ ánɩ́ mʋ́tɔ bʋ odwin afʋtsu mʋ́.
 \xe Weigh the two yams so that you see which one is heavy, and take it.
 \rf Tape:3-1-363
-\ths words used in measuring kapʋ (measure height/depth), susu(measure amount), kali (weigh)
+\nt From ths:  words used in measuring kapʋ (measure height/depth), susu (measure amount), kali (weigh)
 \rf Stewart List:2827
 \rkey e68ca80f-0ca6-4e8b-9b00-a9e7c52ea077
 \dt 02/Apr/2012
@@ -12872,11 +12965,11 @@
 \ph ŋkantaŋkua
 \np LLLL
 \ps n
-\ths obia
+\th obia
 \xv Afɔɔ amʋ ba ba sʋ yo tsu nkantankua ba abʋ tsia mʋ́ sʋ.
 \xe The strangers have come so go bring chairs so that they should sit on them.
 \rf Tape:3-1-422
-\ths things to sit on obia (stool), asɩsɩgua (carved stool) , kantankua (chair with straight back), akpasa (reclining chair)
+\nt From ths:  things to sit on obia (stool), asɩsɩgua (carved stool) , kantankua (chair with straight back), akpasa (reclining chair)
 \rf Stewart List:1180
 \rkey 30ffb514-888f-47a3-8f8c-a4f065c51738
 \dt 30/Nov/2011
@@ -12930,7 +13023,7 @@
 \xv Ba, akapʋ aba akɩ ɔha odua ɔbʋ ɩswɩ dʋn mʋ ba.
 \xe Come, we should measure each other, we should see which one is taller than his mate.
 \rf Tape:3-1-441
-\ths words used in measuring kapʋ (measure height/depth), susu (measure amount), kali (weigh)
+\nt From ths:  words used in measuring kapʋ (measure height/depth), susu (measure amount), kali (weigh)
 \rf Stewart List:2826
 \rkey 4b977ea4-953f-47cc-a5db-4ccba00d40fe
 \dt 05/Jul/2012
@@ -12954,7 +13047,7 @@
 \xv Nofwi ogya amʋ kasian metsii, saa ngya amʋ mɔkʋ wʋlɩ.
 \xe I fanned the fire unsucessfully, it didn't flame. Unexpectedly, the wood was not dry.
 \rf Tape:3-1-447
-\ths contrast kpali-uselessly
+\cf kpali
 \rkey 60bc5087-da16-4bc7-b79a-b88da5c519e8
 \dt 10/Jan/2012
 
@@ -13110,13 +13203,13 @@
 \np HLʔ
 \np HHʔ#L
 \de same
-\ths opposite of ɔtsan
+\an ɔtsan
 \ps ADJ
 \xv Amʋ́ swɩtɔ gyi kɛkɛ.
 \xe They are the same height.
 \rf Tape:3-1-494
 \rf Stewart List:1699
-\ths words dealing with similiarities:fɛ́ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛɩn,
+\nt From ths:  words dealing with similiarities:fɛ́ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛɩn,
 \rkey 8ce2c321-5b24-4439-8e2e-6bee0258b304
 \dt 16/Jul/2012
 
@@ -13257,11 +13350,11 @@
 \ph akɛntɛ
 \np LLLʔ
 \ps n
-\ths kotokuo
+\cf kotokuo
 \xv Na pʋ tɔkʋ wa mɩ kɛntɛtɔ, lɛ mʋ́ ba mɩ. Me gyi mɩ atadɩɛ kɛntɛ tɔ, mboun kɛntɛ sʋra atɔ amʋ tɔ.
 \xe I have put something in my kɛntɛ, remove it and bring it to me. It isn't in my pocket but in the carrying bag.
 \rf Tape:3-1-510
-\ths words for carrying things: kɛntɛ (bag, pocket), kotokuo (sack), lakpa (basket), blawunu (palm frond basket), bɛnsɩ sʋratɔ (carrying basin)
+\nt From ths:  words for carrying things: kɛntɛ (bag, pocket), kotokuo (sack), lakpa (basket), blawunu (palm frond basket), bɛnsɩ sʋratɔ (carrying basin)
 \rkey dfb5afeb-667d-4ae7-bcb9-5e87424c1756
 \dt 14/May/2012
 
@@ -13274,7 +13367,7 @@
 \xv Ndɛ nɔ yɔ ndɔ; blɔdɩ kɛtsɛkɛtsɛ sɔɔn ne nya.
 \xe Today I went to farm; the plantain was small; that's all I got.
 \rf Tape:3-1-515
-\ths words for small: kusubi, putuputu, kɛtsɛkɛtsɛ, small in amount: kpalobi, tukuriibi
+\nt From ths:  words for small: kusubi, putuputu, kɛtsɛkɛtsɛ, small in amount: kpalobi, tukuriibi
 \rkey c22d1ca8-c484-44e7-ac2d-af2668f59e11
 \dt 05/Jul/2005
 
@@ -13305,7 +13398,7 @@
 \de large larvae of a black beetle; eaten by children and adults
 \pl akian
 \ph akíã
-\ths kponkpoli
+\cf kponkpoli
 \ps n
 \xv Kponkpoli ma nfɔ; mʋ pio gyi kian.
 \xe The black beetle is not fatty; His brother is the larvae (which is fatty). Used of a person who is powerful, but has a poor relative.
@@ -13353,7 +13446,6 @@
 \xv Adɔkɩtafɔ bʋtɛha aha kiiki nɩ fʋ nsɩbi dɛ mʋ ha.
 \xe Doctors give people spectacles when their eyes are troubling them.
 \xe We always put on shirts but we block our eyes with glasses.
-\ths glasses: kiiki, ansibi ahʋhwɛ
 \rkey bd94dbab-d5f2-4e21-8ae4-a8ca6a6f05bc
 \dt 10/Jan/2012
 
@@ -13389,6 +13481,18 @@
 \xe Doctors give people spectacles when their eyes are troubling them.
 \rkey 987123a6-e35f-48a3-97dc-b211f252348a
 \dt 10/Jan/2012
+
+\lx kikidiki
+\ph kikiriki
+\va kikiriki
+\ps n
+\ge k.o. mushroom
+\de kind of mushroom
+\xv Kikidiki tɔkwɛ ɔsʋlʋsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋ swɩ. Ɩbʋ ɔlɩn, tamɛ afio oyi bʋ swɩ dʋn mʋ́. Bʋtɛkaka mʋ́ wa oputsutɔ.
+\xe Kikidiki grows in the ground. Its head is wide and its stalk is long. It has roots but afio stalk is longer than it. They cut them up for soup.
+\rf Tape:1-2-200
+\th atsulii
+\dt 07/Aug/2012
 
 \lx kim
 \ph kim
@@ -13609,7 +13713,7 @@
 \xv Igye onye fɛ́ɛ́ ɔlɔpʋ ɔkʋ lɛkɩmɩ sʋ mmɛtalɩ dɩdɩ.
 \xe All of last night a certain sick man was groaning so I couldn't sleep.
 \rf Tape:3-2-038
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths:  words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rf Stewart List:2092
 \rkey d0ed491b-93e9-4404-8a72-2539d699cbe7
 \dt 03/Apr/2012
@@ -13722,7 +13826,8 @@
 \np Lʔ
 \de 1) to read, as in a book; 2) to give witness in a case; 3) to gossip about a person, spreading the news widely.
 \ps vt
-\ths see yiiyi, tsi
+\cf yiiyi
+\cf tsi
 \xv Kla ɔwʋlʋ amʋ koklo anɩ fɛ́ɛ́ anu.
 \xe Read the letter loudly so that we all can hear.
 \rf Tape:3-2-094
@@ -13774,7 +13879,7 @@
 \xv Mmɔɔ yɔ mɩ ɔkpa amʋ ɔkɛ, mboun klaɛ.
 \xe I won't go tomorrow. Instead I will go the day after tomorrow.
 \rf Tape:3-2-136
-\ths days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
+\nt From ths:  days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
 \rf Stewart List:1560
 \rkey 497c1c19-b01a-44e0-8d7c-e9a0c3b7e0d1
 \dt 05/Jul/2005
@@ -13834,7 +13939,7 @@
 \pl aklankpa
 \ph aklaŋ͡mk͡pa
 \np L-LL
-\ths Twi kwankwadabi is commonly used
+\sy kwankwadabi
 \ps n
 \np klankpa nɩ
 \xv Klankpa ɔma igyi bibi tuun, mʋ kantɔ ɛ lofuli fututuutu.
@@ -14028,7 +14133,7 @@
 \xv Aklɛmɛtɩ sɔɔn bʋ ntsu amʋ tɔ. Sʋ kɩta ɔkʋlɛ ha mɩ.
 \xe There are many fish in the water so catch one for me.
 \rf Tape:3-2-222
-\ths kinds of fish: klɛmɛtɩ (fish), kpakʋkwɩ (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ntsabi (small fish), okuku (flat lake fish), opitre (mudfish),
+\nt From ths:  kinds of fish: klɛmɛtɩ (fish), kpakʋkwɩ (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ntsabi (small fish), okuku (flat lake fish), opitre (mudfish),
 \rf Stewart List:0751
 \rkey 9565c1e6-0697-404e-a9e7-1dbe3c7b4efc
 \dt 10/Jan/2012
@@ -14059,8 +14164,6 @@
 \xv Nabɩ ánɩ́ ɔyɩ gyi klinklin.
 \xe I have come to know that the world is round.
 \rf Tape:3-2-231
-\ths shape
-\nq needs tone
 \rkey 615d63d8-cda4-4895-861f-1365a562ff40
 \dt 06/Jan/2012
 
@@ -14077,8 +14180,8 @@
 \xe That day his mother's family will first tie aba on him.
 \nq should this be translated, during those days instead of using the singular
 \rf Tape:3-2-236
-\ths words for dressing: wa (put on underwear, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
-\ths words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head), tin(block with-glasses)
+\nt From ths:  words for dressing: wa (put on underwear, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
+\nt From ths:  words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head), tin(block with-glasses)
 \rf Stewart List:2764
 \rf Stewart List:2684
 \rkey 923f7f3f-09c9-42aa-802a-7d1e807cee53
@@ -14244,7 +14347,7 @@
 \np konkolɩbatɛ n
 \xv Konkolibatɛ asɩ itsu fonflo.
 \xe A butterfly comes from a caterpiller.
-\ths se fonflo
+cf fonflo
 \rkey 84e602a0-9979-404f-935b-dba26a2f85c8
 \dt 05/Jan/2012
 
@@ -14334,9 +14437,15 @@
 \xv Bʋtamalɩɩ akonyatɔ tsii akonya.
 \xe They don't stand in driver ants and pick them off.
 \rf Tape:4-1-286
-\ths kinds of ants: baba (termites), finfi (ant-generic), gyawugya (tiny red ant), kʋmya (driver ant), ɔkpan (large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ (crazy ant)
+\cf baba
+\cf damantsu
+\cf finfi
+\cf gyawugya
+\cf ɔkpan
+\cf ɔtɔntrɔbwɩ
+\cf kɔklɔ
 \rkey 4bf253a2-0990-41cc-9afe-c9f85128bd9b
-\dt 23/Jul/2012
+\dt 06/Aug/2012
 
 \lx kooko
 \ph koːko
@@ -14344,7 +14453,9 @@
 \np HH
 \de corn porridge drink
 \ps n
-\ths nyɔmma, konkonte, fɛflɛ
+\cf nyɔmma
+\cf konkonte
+\cf fɛflɛ
 \xv Kooko amʋ ɩdɩn ogya amʋ lapi dʋbɩ, sʋ wa ntsu mʋ́tɔ.
 \xe The kooko on the fire has thickened too much so put some water in.
 \rf Tape:3-2-304
@@ -14394,7 +14505,7 @@
 \xe He has hung a bag (from his shoulder).
 \rf Tape:7-2-207
 \rf Stewart List:1184
-\ths words for carrying things: kɛntɛ (bag, pocket), kotokuo (sack), lakpa (basket), blawunu (palm frond basket), bɛnsɩ sʋratɔ (carrying basin)
+\nt From ths:  words for carrying things: kɛntɛ (bag, pocket), kotokuo (sack), lakpa (basket), blawunu (palm frond basket), bɛnsɩ sʋratɔ (carrying basin)
 \rkey ddb90858-e14e-4197-9ccd-86ab0b531981
 \dt 16/Jul/2012
 
@@ -14461,7 +14572,7 @@
 \de money; coins
 \bw English fi:copper
 \ps n
-\ths words for money:kɔba (money), sika (money-twi), sika pɛpɛ(gold), sika fututu(silver), tanibi (cowry), abwi (stone-euphemism for money)
+\nt From ths:  words for money:kɔba (money), sika (money-twi), sika pɛpɛ(gold), sika fututu(silver), tanibi (cowry), abwi (stone-euphemism for money)
 \xv Gyi pa, afʋnya kɔba hɔ fʋ atohianhɛ.
 \xe Work hard, eat labour, in order that you should get money and buy your necessary things.
 \rf Tape:3-2-346
@@ -14477,9 +14588,15 @@
 \pl akɔklɔ
 \ph akɔklɔ
 \ps n
-\ths kinds of ants: baba (termites), finfi (ant-generic), gyawugya (tiny red ant), kʋmya (driver ant), ɔkpan(large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ(crazy ant)
+\cf baba
+\cf damantsu
+\cf finfi
+\cf gyawugya
+\cf konya
+\cf ɔkpan
+\cf ɔtɔntrɔbwɩ
 \rkey 7133b235-74a6-4bd1-be14-d68396671db2
-\dt 05/Jul/2005
+\dt 06/Aug/2012
 
 \lx Kɔmɩna
 \ph Kɔmɪna
@@ -14558,9 +14675,9 @@
 \ge hurry
 \np LH
 \de hurry
-\ths wa ɔsa; I don't know the difference
+ \\sy wa ɔsa
 \ps vi
-\xv Kɔsɩ bao.
+\xv Kɔsɩ ba oo.
 \xe Hurry back.
 \rf Stewart List:2088
 \rkey 64fb6d17-6e06-4d37-82f9-4997ec94dea5
@@ -14620,9 +14737,9 @@
 \xe My tooth is shaking and it is hurting me so perhaps it is going to fall out.
 \rf Tape:3-2-375
 \xv Kpa ogya- sparkle, flash
-\ths words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
-\ths words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head)
-\ths words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpa wie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
+\nt From ths:  words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
+\nt From ths:  words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head)
+\nt From ths:  words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpa wie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
 \rf Stewart List:2354
 \rf Stewart List:2669
 \xv Fʋ bi ɔkɔ dinka fʋ obiansʋ a, bʋtamapʋ ɔdayi ka mʋ́. Mpʋsa bʋtɔpʋ kpa mʋ́.
@@ -14640,7 +14757,8 @@
 \np Hʔ
 \de fall ( of leaves)
 \nt reduplication of kpa -fall kpakpa
-\ths kpada (fall lie flat); kpayi (fall and stand)
+\cf kpada (fall lie flat)
+\cf kpayi (fall and stand)
 \ps v
 \xv Kɛlɩ amʋ lakpakpa atɛ.
 \xe The silk cotton tree has dropped its leaves.
@@ -14658,7 +14776,7 @@
 \xv Ɔhagyiɔha ánɩ́ ɔbɛɛ mʋ dɛ Bulu sum, tamɛ ɔtamakɩta mʋ ɔdandʋ a, ɔdɛ ɩwɩ mlɛ, mʋ Bulu sum igyi kpaalɩ.
 \xe Anyone who says he worships God but doesn't control his tongue, is decieving himself. and his worship is useless.
 \rf Tape:4-2-443
-\ths kasian to fail; Nakɩ mʋ́ kpaalɩ - I watched it but nothing happened. Nakɩ mʋ́ kasian - I looked but couldn't see it.
+\nt From ths:  kasian to fail; Nakɩ mʋ́ kpaalɩ - I watched it but nothing happened. Nakɩ mʋ́ kasian - I looked but couldn't see it.
 \rf Stewart List:1850
 \rkey 03f50b19-0c9e-4546-9d66-cf36558022d5
 \dt 23/Jul/2012
@@ -14686,7 +14804,8 @@
 \np LH
 \de fall, fruit falls from trees, a person can fall from a tree. However if he slips and falls Aya dɩda
 \ps vi
-\ths see dɩda, sunki
+\cf dɩda
+\cf sunki
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, fɔ́dʋ mʋ a, fɛ́kpada. Nɩ fɔdʋ yɔ anwunsʋ a, fɛ́kpada.
 \xe The tree that is not supple, if you climb it, you will fall. If you climb high you will fall.
 \rf Tape:3-2-380
@@ -14747,7 +14866,7 @@
 \xv Nɔyɔ biasʋ a, mɩ nyawie dɛ akpakʋkwɩ pɛpɛ fɛ, sʋ nɛ lɛ kpakokwe wɩ, tɛkɩ fututu nde kle asa.
 \xe When I went to the market my friend was selling small dried red fish so I removed one and ate it. I would have wanted the white one before.
 \rf Tape:4-2-424
-\ths kinds of fish: klɛmɛtɩ (fish), kpakʋkwɩ (dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ntsabi (small fish), okuku(flat lake fish), opitre(mudfish)
+\nt From ths:  kinds of fish: klɛmɛtɩ (fish), kpakʋkwɩ (dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ntsabi (small fish), okuku(flat lake fish), opitre(mudfish)
 \rkey 7efda7e4-7699-4b40-865b-21f5482c03c5
 \dt 10/Jan/2012
 
@@ -14816,7 +14935,7 @@
 \ps v
 \xe ɔkpa wie kpa
 \xv hole in the road (potholes)
-\ths from kpakpa (fall-redup) and wie (enter)
+\nt From ths:  from kpakpa (fall-redup) and wie (enter)
 \xv Anɩ ndɔtɔ ɔkpa ɩma atsʋnlɛ, tsufɛsɛ mʋ́ sʋ yɔ kpakpawie.
 \xe Our farm path is not easily passable because it has developed potholes.
 \xv Anɩ ndɔtɔ ɔkpa sʋ yɔ kpakpawie mʋ́ sʋ ɩma atsʋnlɛ.
@@ -14894,7 +15013,7 @@
 \xv Kpalobi, kpalobi anɩbʋ mʋ́ sʋ.
 \xe Little by little we are getting there.
 \rf Tape:3-2-461
-\ths words for small kusubi, putuputu, kɛtsɛkɛtsɛ, small in amount: kpalobi, tukuriibi
+\nt From ths:  words for small kusubi, putuputu, kɛtsɛkɛtsɛ, small in amount: kpalobi, tukuriibi
 \rf Stewart List:1512
 \rkey e1b6c421-25c5-4f46-bd08-79a54f315ecf
 \dt 16/Jul/2012
@@ -15221,7 +15340,7 @@
 \np L
 \de lean against
 \nt This is intrasitive form- only occurs in continuative form
-\ths see kpɩsa
+\nt From ths:  see kpɩsa
 \ps v
 \xv Botodua kpɛn buntisʋ.
 \xe Bamboo leaned against the wall.
@@ -15250,7 +15369,7 @@
 \xe He has bumped into me with his load.
 \rf Tape:3-2-530
 \rf Stewart List:2523
-\ths kwɛ
+\cf kwɛ
 \rkey 8e23393a-d0ac-4f76-9d11-1360b0d0fdab
 \dt 12/Jan/2012
 
@@ -15274,7 +15393,7 @@
 \xv 3) Nyankpʋ amʋ dekpie dʋbɩ, fialɩ obotswie.
 \xe It is thundering a lot, perhaps it will rain.
 \rf Tape:3-2-537
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths:  words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rf Stewart List:2053
 \rkey 596f2f65-8ae4-4615-83f1-064254596370
 \dt 13/Oct/2005
@@ -15352,7 +15471,9 @@
 \xe You have painted your hearth.
 \rf Tape:5-2-540
 \nt alternately - pi
-\ths taan, kpʋkpɛ
+\cf taan
+\cf kpʋkpɛ
+\cf pi
 \rf Stewart List:1030
 \rkey 2d383fbc-7d88-40e6-8cee-17e1c30ed1db
 \dt 10/Jan/2012
@@ -15373,7 +15494,7 @@
 \xv He has tied a rope around the monkey's waist.
 \rf Tape:3-2-549
 \rf Stewart List:2344
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths:  words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rkey 51407bba-ca6d-4501-8359-24570592f4b6
 \dt 12/Jan/2012
 
@@ -15432,7 +15553,7 @@
 \xv Mɩ bi, kpɩsa mɩ sʋ.
 \xe My child, lean against me.
 \rf Tape:3-2-564
-\ths compare kpɛn-occurs in continuative form
+\cf  kpɛn
 \rf Stewart List:2516
 \rkey e7032fb7-1bf6-4611-99c7-f57422197498
 \dt 10/Jan/2012
@@ -15578,6 +15699,18 @@
 \rf Stewart List:2656
 \rkey 03473a75-e4b2-4f01-a710-714dc18c64ce
 \dt 03/Apr/2012
+
+\lx kplokplobi
+\ph kplokplobi
+\ps n
+\ge k.o. mushroom
+\de kind of mushroom
+\th atsulii
+\xv Kplokplobi tɔkwɛ oyi plɔhɛsʋ. Ɩbʋ ɔplɩ, bʋtamakwɛ mʋ́. Mʋ́a abɛ oputsu bʋ ɔdwɛ dʋbɩ.
+\xe Kploklobi grows in rotting trees, It is slippery; they never grind it. It is very good with palm nut soup.
+\rf Tape:1-2-217
+
+\dt 07/Aug/2012
 
 \lx kploo
 \ph k͡ploː
@@ -15750,7 +15883,7 @@
 \xv Aladɩdɩ ɔdɛ kpɔlɩ "hɔn, hɔn hɔn. "
 \xe He has fallen asleep and is snoring "Zzzz. . . zzzz. "
 \rf Tape:4-1-083
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths:  words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rf Stewart List:2048
 \rkey 1bcdf45b-50e5-4ef7-8575-8ea3de252b0c
 \dt 10/Jan/2012
@@ -15776,8 +15909,8 @@
 \xe You rich people, cry hard and mourn because big trouble is coming on you.
 \nq should there be a high tone on ɩbe in ɩbɛ ba mlɩ sʋ.
 \rf Tape:4-1-091
-\ths words used with kpɔnkpɔntɩ: wlu, gyongyo, ogyatin, mango etc.
-\ths words for big: yile, kpɔnkpɔntɩ, moni (vi), tsɔtsɔɔtsɔ-large in quantity
+\nt From ths: words used with kpɔnkpɔntɩ: wlu, gyongyo, ogyatin, mango etc.
+\nt From ths: words for big: yile, kpɔnkpɔntɩ, moni (vi), tsɔtsɔɔtsɔ-large in quantity
 \rf Stewart List:1653
 \rkey 4a29d0a8-2593-445b-9076-24ca253ac5a4
 \dt 16/Jul/2012
@@ -15810,7 +15943,7 @@
 \rf Stewart List:2350
 \rf Stewart List:2805
 \cf ɔkpɔtɩpʋ Eng:harvester
-\ths words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
+\nt From ths: words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
 \rkey e4fd9ac8-33b4-48f4-bc94-00a86602e058
 \dt 03/Apr/2012
 
@@ -15864,7 +15997,8 @@
 \xv kpʋkpʋ nwun; kpʋkpʋ kpoli
 \xe shake head; shake corn.
 \rf Tape:4-1-128
-\ths wʋsʋ, kpɩnkɩ
+\cf wʋsʋ
+\cf kpɩnkɩ
 \xv Tsu sanu afʋ kpʋkpʋ nfuo amʋtɔ, asa afʋ wuli mʋ́.
 \xe Bring a sieve so that you can sieve the flour before you stir it (into the porridge) (because they didn't grind it smooth).
 \rf Tape:4-1-130
@@ -16042,7 +16176,7 @@
 \xv Nakun wɩ, tamɛ mɛka.
 \xe I struck myself, but it didn't cut
 \cf kunkun Eng:redupl slash
-\ths ka
+\cf ka
 \xv Nɛdɩda pʋ mɩ ofin si (kun) ibwi. Sʋ mɩ ofin lapɩɛɩ bwɛ ɔlɔ.
 \xe I fell down and hit my shin on a stone. So my shin has peeled and made a sore.
 \rf Tape:4-1-184
@@ -16099,7 +16233,7 @@
 \xe The hunter slashed at the animal with something (probably his hoe or cutlass).
 \nt why the atɔ at the end, should it be just tɔ, to what does it refer
 \rf Tape:4-1-196
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \nq needs tone
 \rkey 0294370b-aeab-4080-b532-794062bc54a3
 \dt 05/Jul/2012
@@ -16174,7 +16308,7 @@
 \ps ADJ
 \xv Alatsu amango kpɔnkpɔntɩ; alapʋ nkusubi ha mɩ.
 \xe He has taken large mangos and given me small ones.
-\ths words for small kusubi, putuputu, kɛtsɛkɛtsɛ, small in amount: kpalobi, tukuriibi
+\nt From ths: words for small kusubi, putuputu, kɛtsɛkɛtsɛ, small in amount: kpalobi, tukuriibi
 \rf Stewart List:1654
 \rkey 3b3195b1-ae51-41af-ba02-bbdc3c774b09
 \dt 05/Jul/2012
@@ -16187,7 +16321,7 @@
 \nt used with fɛflɛ, kpoli
 \ps v
 \np otokuti atɔ
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \xv Kuti atogyihɛ amʋ wanklaan, ma kukuti mʋ́ anwunsʋ.
 \xe Cut the food well (mʋ akasʋ) don't cut bits off the top.
 \rf Tape:4-1-236
@@ -16306,7 +16440,8 @@
 \xv Kʋkʋ maa ɩnʋ.
 \xe Nothing is there.
 \rf Tape:4-1-274
-\ths tɔtɔ, hwɩɩ
+\cf tɔtɔ
+\cf hwɩɩ
 \rkey 938be0e8-35d2-4c8f-b476-136d03d20b15
 \dt 05/Jul/2005
 
@@ -16396,8 +16531,8 @@
 \xv Yakobo gyi ɔkʋsʋ.
 \xe Jacob is the youngest.
 \rf Tape:4-1-303
-\ths gyama
-\ths opposite dɛhɛn
+\cf gyama
+\an dɛhɛn
 \nq check spelling kʋsʋbi, or kusubi
 \rkey 80f428fd-e0f7-46e7-8be8-9581b7127502
 \dt 16/Jul/2012
@@ -16408,7 +16543,8 @@
 \np LH
 \de get up
 \ps vi
-\ths tsinki, tua
+\cf tsinki
+\cf tua
 \xv Ɔyɔ kʋsʋ, ɔyɔ tʋ Kofi
 \xe He got up and went to meet Kofi.
 \rf Tape:4-1-309
@@ -16476,8 +16612,8 @@
 \xe I was born on Monday, so they call me Kwajo.
 \rf Tape:4-1-339
 \nq weekdays and names incomplete- get Mr. Opoku's list of weekdays
-\ths day names: Kwasieda (Kwasi, Akwasi, Akwasua ), Gyɔda (Kwagyo, Agyua ), Branda (Kɔmɩna, Abɩna), Kuoda (Kwaku, Akua), Yaoda (Yao, Yaa), Fieda (Kofi, Afua, Afia), Mɩmɩnɩda (Kwamɩ, Amba)
-\ths day names in Twi: Sunday (Kwesi, Akosua) Monday (Kujo, , Adjua) Tuesday (Kwabena, Abena) Wednesday (, Akua) Thursday, Friday (Kofi, Afua. Afia), Saturday (Amma, Kwamɩ)
+\nt From ths: day names: Kwasieda (Kwasi, Akwasi, Akwasua ), Gyɔda (Kwagyo, Agyua ), Branda (Kɔmɩna, Abɩna), Kuoda (Kwaku, Akua), Yaoda (Yao, Yaa), Fieda (Kofi, Afua, Afia), Mɩmɩnɩda (Kwamɩ, Amba)
+\nt From ths: day names in Twi: Sunday (Kwesi, Akosua) Monday (Kujo, , Adjua) Tuesday (Kwabena, Abena) Wednesday (, Akua) Thursday, Friday (Kofi, Afua. Afia), Saturday (Amma, Kwamɩ)
 \rkey 8731be7c-545b-456f-8c29-6b8a9193db7b
 \dt 05/Jul/2005
 
@@ -16593,7 +16729,7 @@
 \np Hʔ
 \de grind
 \ps vt
-\ths see kpi
+\cf kpi
 \xv Nɔyɔ kwɛ mɩ kpoli .
 \xe I am going to grind my corn.
 \rf Tape:4-1-382
@@ -16615,7 +16751,7 @@
 \xv Kwi ɔbɔ.
 \xe Dig the hole.
 \rf Tape:4-1-390
-\ths words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
+\nt From ths: words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
 \rf Stewart List:2818
 \rkey 228bdbd9-d4d1-4d09-9c7e-a89957e084b7
 \dt 10/Jan/2012
@@ -16680,7 +16816,9 @@
 \np Hʔ
 \de prepare; repair
 \ps v
-\ths bʋa, bʋabʋa, trɛ
+\cf bʋa
+\cf bʋabʋa
+\cf trɛ
 \xv Mbubwi bʋtɛla isia, tamɛ agyagya mʋ́ a, bʋtamala isia.
 \xe Birds make nests but bats never make nests.
 \xv Ɔkandɩɛ amʋ layinta, mʋ́ sʋ la mʋ́.
@@ -16762,7 +16900,7 @@
 \xv Laɩ igyo plɔhɛ amʋ tsitsa.
 \xe Cut the rotten part of the yam out and throw it away.
 \rf Tape:4-1-436
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \rkey d6159634-94b0-474b-8e5c-07219638f972
 \dt 05/Jul/2005
 
@@ -16874,9 +17012,9 @@
 \ge tax
 \de tax
 \ps n
-\b% French
+\bw French
 \rkey cd83bb51-fe41-45b0-a4e6-6e574bae4c00
-\dt 10/Jan/2012
+\dt 01/Aug/2012
 
 \lx lan
 \ph lãʔ
@@ -17025,8 +17163,8 @@
 \nt Perhaps when your case came to the chief's palace you were found guilty but you didn't understand why the case went against you. Later someone who is favourable to you may come and say, Look I have come to eɩplain why you lost the case.
 \xv Gya akpala amʋ lɛ ɩban amʋ tɔ, tsufɛ bʋ dɛ agbodi atɛ amʋ wɩ.
 \xe Chase the goats out of the fenced area because they are eating the cassava leaves.
-\ths words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
-\ths words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head)
+\nt From ths: words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
+\nt From ths: words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head)
 \de 3) choose
 \xv Bɛlɛ kɩaɩ mʋa sisa ha obiatɔ tsia.
 \xe They chose Dog and Housefly to be chairman.
@@ -17045,7 +17183,7 @@
 \rph lɛ ɔmɛ
 \rpht abort a child
 \rph lɛ ɔnɔ, answer, lɛ mʋ ɔnɔ - answer him
-\ths words for showing: suna, ɔŋwa
+\nt From ths: words for showing: suna, ɔŋwa
 \xv lɛ kɔ
 \xe get into debt
 \rf Stewart List:3207
@@ -17160,10 +17298,10 @@
 \pl none
 \ph none
 \ps n
-\xv Nɔ pʋ limba kun oyi yile kʋ mɩ ndɔtɔ.
+\xv Nɔ́pʋ limba kun oyi yile kʋ mɩ ndɔtɔ.
 \xe I will take an axe and fell a big tree on my farm.
 \rkey 8f6d3552-13a1-4487-a240-522267a2ccfd
-\dt 05/Jul/2005
+\dt 06/Aug/2012
 
 \lx lɩan
 \ph lɪã
@@ -17171,7 +17309,7 @@
 \np LL
 \np LL
 \de resemble
-\ths kɛkɛ; the same
+\cf kɛkɛ the same
 \ps v
 \xv Kebi amʋ lɛlɩan mʋ sɩ.
 \xe The child resembles his father. The nominal is ɩlɩan
@@ -17179,7 +17317,7 @@
 \xe This cutlass resembles mine.
 \rf Tape:4-1-510
 \rf Stewart List:1699
-\ths words dealing with similiarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛɩn (in the same way as) - also contrast with kɛɩn,
+\nt From ths: words dealing with similiarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛɩn (in the same way as) - also contrast with kɛɩn,
 \rkey 3b4c69ce-ab94-4789-a49a-41838ad179c6
 \dt 11/Jan/2012
 
@@ -17254,7 +17392,6 @@
 \pl alɩnlɩnlɩn
 \ph alɪ̃nlɪ̃nlɪ̃
 \ps ADJ
-\ths synonym lɩnlɩnlɩn
 \xv Mpulu tɔwʋlɩ ɔsʋlʋ lɩnlɩnlɩn sʋ.
 \xe Peppers dry on hard ground.
 \xv Aban anfɩ laha anɩ tsiatɔ lawa ɔnlɩn lɩnlɩnlɩn.
@@ -17412,8 +17549,8 @@
 \xe Who owns this ball?
 \nq Check tape: either the bʋ should be high or the sentence should be Who has the ball?
 \rf Tape:4-1-577
-\ths words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ ya kɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ(noon), owí ɩpɔn(afternoon), ntɔpwɛ(evening), maanɩ mɩnɩ (dusk), onye (night)
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ ya kɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ(noon), owí ɩpɔn(afternoon), ntɔpwɛ(evening), maanɩ mɩnɩ (dusk), onye (night)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rf Stewart List:1606
 \rkey 9e48a167-d583-4872-9928-247747590002
 \dt 14/May/2012
@@ -17486,6 +17623,23 @@
 \rkey b74563cc-d1c8-4d30-ab5a-bfe99f0c14a1
 \dt 29/Jul/2005
 
+\lx maa nɩ mɩ nɩ
+\ph manɪmɪ́nɪ́
+\ge dusk
+\de dusk
+\ps tempɪ
+\cf bakɛ
+\cf ntʋpwɛ
+\cf ntʋpwɛnye
+\cf nyankɩ
+\cf onye
+\cf ɔpa
+\cf ɔpawisʋ
+\cf ɔyɩ lakɛ
+\cf ɔyɩ nsɩnɛ
+\rkey b3a5da09-78da-4761-8305-5c0186262fef
+\dt 06/Aug/2012
+
 \lx maɩlɩ
 \ph máɪlɪ
 \ge mile
@@ -17506,7 +17660,9 @@
 \rf Tape:4-1-579
 \xv Maɩn ɔwʋlʋ amʋ́ʋ́ nɔpʋ manta buntisʋ amʋ ba mɩ.
 \xe Remove the paper I stuck on the wall, that one, and bring it to me.
-\ths piɛɩ, sre, flɔɩ
+\cf piɛɩ
+\cf sre
+\cf flɔɩ
 \xv Mahɔ bodobodo kahɛ, mboun hɔ maɩnhɛ ba mɩ.
 \xe Don't buy the cut bread, instead buy the separatable kind (attached buns).
 \xv Mɩ kpoli lafuli. Nɛyɛmaɩn mʋ́ bɔwa ɔtsabitɔ.
@@ -17552,11 +17708,11 @@
 \ph amaŋkani
 \np LLLH
 \ps n
-\xv Agyasɩɛpɛ ba wɩ mɩ mankani fɛ́ɛ́ ndɔ amʋ tɔ.
+\xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bushpigs have eaten all of my cocoyam in the farm.
 \rf Tape:4-2-002
 \rkey 37f0f1f9-3f15-4a90-9f81-9bed2be7f3fa
-\dt 03/Apr/2012
+\dt 06/Aug/2012
 
 \lx mansʋ
 \ph mansʊ
@@ -17607,6 +17763,17 @@
 \rf Stewart List:2882
 \rkey 927a3d9e-af4e-41b8-81d9-544dafcb9e23
 \dt 16/Jul/2012
+
+\lx mantɛpʋ
+\ph mã́ntɛpʊ
+\ps n
+\ge k.o. mushroom
+\de mantepo mushroom
+\xv Mantɛpʋ tɔkwɛ ɔsʋlʋsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, mʋ́ ɛ bʋ ɔdwɛ.
+\xe Mantɛpo grows in the ground. You can grind it for soup. It too is sweet.
+\rf Tape:1-2-194
+\th atsulii
+\dt 07/Aug/2012
 
 \lx mba
 \ph mba
@@ -17755,7 +17922,7 @@
 \de board
 \pl mbrɛtɩ
 \ph mbrɛtɪ
-\ths see ntabʋ
+\cf ntabʋ
 \ps n
 \xv Na bɔbɔɩ ndum, sʋ mbʋ mbrɛtɩ tsɔtsɔɔtsɔ.
 \xe I have split ndum so I have many boards.
@@ -17857,7 +18024,7 @@
 \ge swallow; sink
 \np L
 \de swallow
-\ths ɔmɛ 'throat'
+\cf ɔmɛ 'throat'
 \ps v
 \xv Ɔdɛlɔ mʋ́sʋ mʋ sɩ lɛha mʋ afa; ɔyɛmɛ.
 \xe He was sick so his father gave him medicine and he took it.
@@ -17882,7 +18049,7 @@
 \xv Nkɩ atɔ amʋ mɛ?
 \xe Where are the things?
 \rf Tape:4-2-189
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rkey b3d33611-5e7a-4021-887b-51f7a88c67cf
 \dt 14/May/2012
 
@@ -18255,7 +18422,7 @@
 \rf Tape:4-2-329
 \xv Nanain igyo amʋ lomoni paa.
 \xe The chief's yam is very big.
-\ths words for big: yile, kpɔnkpɔntɩ, moni (vi), tsɔtsɔɔtsɔ - large in quantity
+\nt From ths: words for big: yile, kpɔnkpɔntɩ, moni (vi), tsɔtsɔɔtsɔ - large in quantity
 \rf Stewart List:2285
 \rkey e8a178a7-99b4-4f4a-a893-b1ae802e0088
 \dt 14/May/2012
@@ -18318,7 +18485,7 @@
 \xv Sukuu amʋ mɔmʋtɔ fɔ́yɔ?
 \xe Which of the school are you going?
 \nq is this only used with inanimate objects?
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rkey e6e6a930-9bab-48fe-aabc-05a431ba3367
 \dt 16/Jul/2012
 
@@ -18333,7 +18500,7 @@
 \rf Tape:4-2-388
 \xv Ntɔ nɔbwɛ sʋ fɔ́mɔsɩ mɩ igye?
 \xe What did I do before you laughed at him yesterday?
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths: words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rf Stewart List:2043
 \rkey 306f8057-635e-4a31-8e2c-133d69240957
 \dt 16/Jul/2012
@@ -18363,7 +18530,7 @@
 \bw Akan fi:mpabwa
 \pl mpabʋa
 \ph mpabʊa
-\ths ntʋkʋta
+\cf ntʋkʋta
 \xv Wa fʋ mpabua amʋ, tsufɛsɛ nsaɩntɔ lablɩ ogya. Fɔlɔ.
 \xe Put on your sandals, the weather is hot, you will get sick.
 \rf Tape:4-2-397
@@ -18453,7 +18620,7 @@
 \xv Alawɩ awu amʋ lɛ mʋ́ mpu tsitsa.
 \xe He chewed on the bones and threw away the remnants.
 \rf Tape:4-2-417
-\ths scraps: mpu, mpupubi
+\cf mpupubi
 \rkey 765c2017-8e1d-4e6c-a872-fcbaeecb6feb
 \dt 05/Jul/2005
 
@@ -18463,7 +18630,7 @@
 \np LH!H
 \de red pepper
 \ps n
-\ths words for pepper: mpulu (red pepper), tɔnsɩ (small hot), apʋsɛ (black)
+\nt From ths: words for pepper: mpulu (red pepper), tɔnsɩ (small hot), apʋsɛ (black)
 \nq other kinds? dried peppers
 \xv Mpulu bʋ ɔsɩn sʋ ma pʋ kpita fʋ ansibi asɩ.
 \xe Pepper is painful so don't take it and rub it under your eyes.
@@ -18479,7 +18646,7 @@
 \np LLLL(H)
 \de blister
 \ps n
-\ths ɩfɔɩ- also canker LL(H)
+\cf ɩfɔɩ- also canker LL(H)
 \nq new entry
 \rkey dd80724a-e1db-4b15-b205-04cd17e4cdec
 \dt 02/Jan/2012
@@ -18530,7 +18697,7 @@
 \np LH!H
 \de sponge made from dead plantain tree
 \ps n
-\ths ɔsapɔ
+\cf ɔsapɔ
 \xv Blɔdɩ oyi plɔhɛ amʋ a, lɔfwɩ mʋ́ afʋ lɛ mpʋsa.
 \xe The rotten plantain tree, go wash it, so that you can remove the sponge.
 \rf Tape:4-2-433
@@ -18977,7 +19144,7 @@
 \xv Ndawun amʋ bʋ ɔpɩ.
 \xe The okra has stickiness.
 \rf Tape:4-2-573
-\ths ndawun (fresh okra), awanwan (sliced dried okra)
+\cf awanwan
 \rf Stewart List:0915
 \rkey 6c1e1da3-a194-482e-9621-0bf83ae007d5
 \dt 05/Jul/2012
@@ -18993,7 +19160,7 @@
 \xv Ndɛ ɔpa wɩsʋ nɔyɔ Nkra.
 \xe Today in the afternoon, I will go to Accra.
 \rf Tape:4-2-576
-\ths days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
+\nt From ths: days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
 \rf Stewart List:1551
 \rkey 3e11eb50-1770-4cb8-a489-b70593568f7d
 \dt 18/Oct/2006
@@ -19069,7 +19236,7 @@
 \xe Guinea worm has attacked his leg.
 \rf Tape:4-2-228
 \rf Stewart List:0770
-\ths illnesses that make us (labwɛ): nfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
+\nt From ths: illnesses that make us (labwɛ): nfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
 \rkey e7960df4-d6a2-46bb-b4ba-103626009b6f
 \dt 12/Jan/2012
 
@@ -19244,7 +19411,7 @@
 \xv Ngya dɩdɩ ɩdɛfʋ a, kʋsʋ lɩɩ aloo kʋsʋ yɔ woyitɔ.
 \xe Since you are sleeping stand up or go home.
 \rf Tape:5-1-104
-\ths words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
+\nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
 \rkey 28338c74-13ac-47ee-8946-73e741ff0805
 \dt 16/Jul/2012
 
@@ -19258,7 +19425,7 @@
 \xe They put firewood on the fire.
 \rf Tape:5-1-110
 \rf Stewart List:1211
-\ths see ogyatin
+\cf ogyatin
 \rkey 3d08694d-123a-4940-8c52-76213d88a620
 \dt 05/Jul/2012
 
@@ -19321,11 +19488,11 @@
 \xe She has cooked (boiled) ripe plantain.
 \rf Tape:5-1-143
 \cf ɔnɩnapʋ Eng:cook
-\ths words for cooking: nɩna (general, also boil), bɔa (fry, and dry fry), tɔ (roast over coals, bake)
+\nt From ths: words for cooking: nɩna (general, also boil), bwa (fry, and dry fry), tɔ (roast over coals, bake)
 \rf Stewart List:2254
 \rf Stewart List:2806
 \rkey d2deccae-6619-42bd-a349-f9988bc176e9
-\dt 12/Jan/2012
+\dt 06/Aug/2012
 
 \lx nka
 \ph ŋka
@@ -19357,7 +19524,7 @@
 \xv Nkalɩ ɔdɛ ɩlʋ amʋ wa.
 \xe How is he singing the song (what are the words of the song).
 \rf Tape:5-1-167
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rf Stewart List:1603
 \rkey 11e141d8-0965-488b-a690-d6e1f692a80d
 \dt 10/Jan/2012
@@ -19386,7 +19553,7 @@
 \rf Tape:5-1-177
 \rf Stewart List:0016
 \rf SIL-AWL:0031
-\ths words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
+\nt From ths: words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
 \rkey 44f0cf05-dcc1-41d0-b472-78547b5ca5b2
 \dt 13/Sep/2005
 
@@ -19505,9 +19672,9 @@
 \xv Kebi amʋ dɛtɔɩ nklobitɔ
 \xe The child is talking to himself under his breath.
 \rf Tape:5-1-217
-\ths contrast agyɩna (whisper)
+\cf agyɩna
 \rkey e7e90dcf-e862-43c3-b528-7c29058705cb
-\dt 10/Jan/2012
+\dt 02/Aug/2012
 
 \lx nkonto
 \ps n
@@ -19583,7 +19750,7 @@
 \xe They carried him on their shoulders because he has won.
 \nt should this be high tone tsu and if so why? Is this past tense, or does it mean they are actively carrying him.
 \rf Tape:5-1-231
-\ths words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
+\nt From ths: words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
 \rf Stewart List:0016
 \rkey 36c43738-9015-4724-a497-7cf065ebf243
 \dt 16/Jul/2012
@@ -19699,7 +19866,7 @@
 \xv Nkʋnʋ fo tsu? Nkʋnʋ fɔ yɔ?
 \xe Where do you come from? where are you going to?
 \rf Tape:5-1-271
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rf Stewart List:1601
 \rkey 5608bc0d-1459-4ea7-b43e-d3df071f188d
 \dt 10/Jan/2012
@@ -19741,6 +19908,17 @@
 \rf Stewart List:2305
 \rkey bd016ad9-c7b0-4a79-994c-35cf8e10832f
 \dt 05/Jul/2005
+
+\lx npionkɛntɛ
+\ph mpioŋkɛ̃ntɛ
+\ps n
+\ge short mushroom
+\de short mushroom
+\xv Npionkɛntɛ tɔkwɛ ɔbɛ oyi plɔhɛsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi ma swɩ. Fɛtalɩ kpa mʋ́ nwun amʋ kwɛ mʋ́ wa oputsutɔ, si mʋ́ oyi amʋ. Mʋ́ ɛ bʋ ɔdwɛ.
+\xe Npionkɛntɛ sprouts on rotten palm trees. It's head is wide. It's stalk is not long. You can remove the heads and grind them and put them in the soup and leave the stalks. It also is sweet.
+\rf Tape:1-2-171
+\th atsulii
+\dt 07/Aug/2012
 
 \lx nsaɩntɔ
 \ph nsaɪntɔ
@@ -19814,7 +19992,6 @@
 \np LLHHʔ
 \ps n
 \np nsibi nɩ
-\ths see ansibi ahʋhwɛ
 \xv Tɔkʋ lawie mɩ nsibitɔ.
 \xe Something has entered into my eye.
 \rf Tape:5-1-300
@@ -19917,18 +20094,18 @@
 \np nsʋpa nɩ
 \xv Nsʋpa igyi ɩtɔ lalahɛ, tsufɛ ɩtɔwa ɔha pɛlɩtɔ.
 \xe Humiliation is thing bad because it habitually puts person shame in.
+\xe Free:Humiliation is a bad thing because it shames people.
 \xv Basʋpa oyin amʋ mʋ abatɔ tsufɛ ototsu wɩ dʋbɩ.
 \xe The man has been disgraced before his neighbour because he bluffs too much.
-\idf Humiliation is a bad thing because it shames people.
 \rkey a23c3c96-d843-49d4-8d96-478fe4e43703
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx nsʋsʋnɛ
 \ph nsʊsʊnɛ́
 \ge difference
 \np LLH
 \de difference between two similiar things
-\ths ɔtsan is Nkonya
+\cf ɔtsan
 \bw Akan fi:nsusuɛ
 \ps n
 \np nsʋsʋnɛ nɩ
@@ -19937,7 +20114,7 @@
 \rf Tape:5-1-322
 \nq compare this with ɔtsan please. Can they be interchanged?
 \rkey aca5083f-e855-4129-b865-f37beea53402
-\dt 16/Jul/2012
+\dt 07/Aug/2012
 
 \lx nta
 \ph ntá
@@ -19978,7 +20155,7 @@
 \np same
 \ps n
 \np nta ɔbʋpʋ nɩ
-\ths from bʋ (be drunk)
+\cf bʋ (be drunk)
 \xv Nta ɔbʋpʋ ɔkʋkʋ mɔɔyɔ Bulusʋ.
 \xe Drunkards will not go to heaven.
 \xv Obuo kʋkʋ ma nta ɔbʋpʋsʋ.
@@ -20018,7 +20195,7 @@
 \xv Mɩ klɛ nɩ ntɛ, fʋklɛ igyi?
 \xe Is it mine or it belongs to you?
 \rf Tape:5-1-359
-\ths aloo (Ewe), anaasɛ (Twi), ntɛ (Nkonya)
+\nt aloo (Ewe), anaasɛ (Twi), ntɛ (Nkonya)
 \rf Stewart List:1851
 \rkey 304f1307-9f2b-4403-9808-a094c3acea94
 \dt 16/Jul/2012
@@ -20077,7 +20254,7 @@
 \xe Why are you crying?
 \rf Tape:5-1-372
 \rf Stewart List:1605
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rf Stewart List:1605
 \rkey 8a442873-2715-4939-b96f-3f07d7d3d1aa
 \dt 05/Jul/2005
@@ -20109,7 +20286,7 @@
 \rf Tape:5-1-380
 \xv Ntɔ fʋdɛklɛ?
 \xe What do you want?
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which people), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which people), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rf Stewart List:1607
 \rkey f59fb0b6-29ad-491f-942c-2b99edc71c06
 \dt 05/Jul/2005
@@ -20133,7 +20310,7 @@
 \np LH
 \np LHʔ#H
 \de grave
-\ths asiɛɩ
+\cf asiɛɩ (Twi)
 \ps n
 \np ntsan nɩ
 \xv Atsɩ amʋ bɔyɔ Yesu ntsansʋ.
@@ -20283,7 +20460,7 @@
 \de footwear
 \ps n
 \np ntʋkʋta nɩ
-\ths mpabʋa
+\cf mpabʋa
 \xv Mɩ ntʋkʋta latɩtɩ, nɔ́pʋ ya ntʋkʋta ɔlapʋ ɔbɩn mʋ́ ha mɩ.
 \xe My sandals have torn, I will take them to the cobbler to have them sewn for me.
 \rf Tape:5-1-441
@@ -20299,17 +20476,34 @@
 \np ntʋpwɛ nɩ
 \xv Nɩ akʋ bɔyɔ ndɔtɔ a, ntʋpwɛ bʋtɛba woyitɔ, tsufɛ owí ɔnɔ tɔwa ɔlɩn ɔpa.
 \xe When some people go to farm, they come back home in the evening, because the sun becomes hot in the afternoon.
-\ths words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ lakɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), maa nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12-1 a.m. )
+\cf bakɛ
+\cf maa nɩ mɩ nɩ
+\cf ntʋpwɛnye
+\cf nyankɩ
+\cf onye
+\cf ɔpa
+\cf ɔpawisʋ
+\cf ɔyɩ lakɛ
+\cf ɔyɩ nsɩnɛ
 \rkey 80b7b733-f32d-4cfd-88c5-cc40d33d9fae
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx ntʋpwɛnye
 \ph ntʊpwɛɲé
 \ge dusk
 \de
 \ps n
+\cf bakɛ
+\cf maa nɩ mɩ nɩ
+\cf ntʋpwɛ
+\cf nyankɩ
+\cf onye
+\cf ɔpa
+\cf ɔpawisʋ
+\cf ɔyɩ lakɛ
+\cf ɔyɩ nsɩnɛ
 \rkey 9264b4fb-ee60-4371-a2e4-9804b59ea255
-\dt 10/Jan/2012
+\dt 06/Aug/2012
 
 \lx nu
 \ph nú
@@ -20458,7 +20652,7 @@
 \de scrape
 \ps vt
 \np ɔtɔnwɔsɩ
-\ths kpi
+\cf kpi
 \xv Alanwɔsɩ afa dada amʋ, ɔbɛ́kpa pɔpwɛ.
 \xe He has scraped off the old medicine. He will put on new.
 \rf Stewart List:2760
@@ -20709,24 +20903,34 @@
 \xv Ɔkɛ nyankɩ notua yɔ ndɔ.
 \xe Tomorrow morning I will get up early and go to farm.
 \rf Tape:5-1-530
-\ths words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ lakɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), maa nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12-1 a.m. )
 \rf Stewart List:1105
+\cf bakɛ
+\cf maa nɩ mɩ nɩ
+\cf ntʋpwɛ
+\cf ntʋpwɛnye
+\cf onye
+\cf ɔpa
+\cf ɔpawisʋ
+\cf ɔyɩ lakɛ
+\cf ɔyɩ nsɩnɛ
 \rkey 4d4ff47e-1cce-4660-9015-e3a20ec0a384
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx nyankɩ
-\ph ɲaŋkɪ́
+\ph ɲáŋkɪ́
 \ge cross
 \np HH
-\de 1) cross over without touching c. f. fa - to pass through
+\de cross over without touching
 \ps v
 \np otenyankɩ
 \xv Olofuli nyankɩ ntsu amʋsʋ.
 \xe He jumped over the water.
 \rf Tape:5-1-526
 \nq needs further examples
+\cf fa
+\nt to cross through
 \rkey d403c1f2-0b92-4a75-aa28-79717c1b4814
-\dt 10/Jan/2012
+\dt 06/Aug/2012
 
 \lx nyankpʋ
 \ph ɲaŋ͡mk͡pʊ
@@ -20758,27 +20962,28 @@
 \dt 16/Jul/2012
 
 \lx nyankpʋkpie
-\ph ɲaŋ͡mk͡pʊk͡píe
+\ph ɲaŋ͡mk͡pʊ́k͡píe
 \ge scorpion
 \np LLHHʔ
-\de scorpion; thunder
-\nt The myth is that a scorpion bite will cause pain until the next time you hear thunder; In northern dialect this is any scorpion, in the southern this is only the big black ones. The little brown ones are aganɛ, borrowed from Ewe. Nyankpʋ kpie is cognate with other Guang languages
+\de small brown scorpion
+\nt The myth is that a scorpion bite will cause pain until the next time you hear thunder; In northern dialect this is any scorpion, in the southern this is only the big black ones. The little brown ones are aganɛ, borrowed from Ewe. Nyankpʋ kpie is cognate with other Guang languages.
 \ps n
-\np nyankpʋkpie nɩ
 \xv Nyankpʋkpie ɔsʋra fʋ a, ɩbʋ ɔsɩn.
 \xe If a scorpion stings you it is painful.
 \rf Tape:5-1-542
 \rf Stewart List:0802
 \rkey ae928983-52e9-41dd-9047-e2de5d7e0fa4
-\dt 10/Jan/2012
+\dt 02/Aug/2012
 
-\lx nyankpʋkpɩe
-\ph ɲaŋ͡mk͡pʊk͡pɪé
-\ge scorpion
-\de
+\lx nyankpʋkpie
+\ph ɲaŋ͡mk͡pʊ́k͡píe
+\ge thunder
+\np LLHHʔ(L)
+\de thunder
+\nt The myth is that a scorpion bite will cause pain until the next time you hear thunder; In northern dialect this is any scorpion, in the southern this is only the big black ones. The little brown ones are aganɛ, borrowed from Ewe. Nyankpʋ kpie is cognate with other Guang languages
 \ps n
-\rkey 342ee9ac-66d5-4a16-8036-8a8d80742856
-\dt 10/Jan/2012
+\rkey be928983-52e9-41dd-9047-e2de5d7e0fa4
+\dt 02/Aug/2012
 
 \lx nyankpʋsa
 \ph ɲaŋ͡mk͡pʊsa
@@ -20806,16 +21011,8 @@
 \de human body
 \ps n
 \nq new entry
-\ths words for general/ internal body parts: otsin(vein), ɔyɩlʋ(skin), afʋfʋ(lungs), akʋn(liver), ɩklʋn(heart), ipu(stumach), iwu(bone), opuni (intestine), iye(muscle??)
-\ths words for parts of the head:nwun(head), onwunfi (forehead), mpie(cheek), oswie(cheek), owuntɔbɔ(brain), ɔda (jaw), ɔdandʋ(tongue), ɔwɔntɩ (nose), ɔdawʋ(chin), oboi (neck), omeyi (neck), ɔmɛ(throat), ɔnɔ(mouth), onopi (lip), ɩsʋ(ear), ɔsɩkɛtɛ(eyelash), ɔsɩkunkun(eyebrow), nnɔfa (mustache), ikwi (beard), nsibi (eye), imi (hair), inyin(tooth).
-\ths words for parts of the torso: abɛn(side), abɛnwu(rib), Kantɔ(chest), nyɔpʋ(breast), ɔma (back), ɔmɛ(stumach), apu(abdomen), tutu(penis), kpabi (testicle), opie(vagina), nkpa (front), okokoni (anus), okokonitɔ(anus), okponkpo(buttocks), opuli (navel), osie(waist), osietɔ(waist), opuni (intestine),
-\ths words for body limbs: ɩta (shoulder), nkɔnkɔ(shoulders), nkanta (shoulder) ba, ɩba (shoulder), klɛtɔ(armpit) ɩbɩ (hand, arm), ɩbɩtata (hand), omlewu(elbow), ɔbɩwɛ(wrist), oserebi (finger), oserebiyin(thumb), nantata (foot), nantuo(calf), natata (sole), ofin(shin), kpawunu(knee)
-\ths words for body fluids:ɔwɛ(phlegm), mmɛ(mucous), nsɩka (sleep), oblu(urine), obugya (blood), olinkanti (bile), apipi (sweat), atsɔnɔ(saliva)
-\ths words for animal parts: odu(tail), konti (foreleg), kuti (claw). osiebi (horn)
-\ths words for bird parts: otedu(bird tail), ɩtɛ(feather), bamba (wing)
-\nq words missing for semen, fingernail, kidney, muscle, eyelid
 \rkey 25176b81-0555-48a0-8c55-75483025f0d3
-\dt 03/Apr/2012
+\dt 02/Aug/2012
 
 \lx nyankpʋtaa
 \ph ɲaŋ͡mk͡pʊtâː
@@ -20993,9 +21190,9 @@
 \xv Ɔtsɩ amʋ dɛ faasɩ nyɔmba wuli.
 \xe The woman is stirring mashed water yam.
 \rf Tape:5-1-592
-\ths see dablun
+\cf dablun
 \rkey f9ce478e-f7cf-4319-912e-3c471f36cba2
-\dt 10/Jan/2012
+\dt 02/Aug/2012
 
 \lx nyɔɔsɩ
 \ph ɲɔ́ːsɪ́
@@ -21102,7 +21299,7 @@
 \xe They use fine sand for roasting things.
 \nt is this bʋa or bɔa.
 \rf Tape:5-1-028
-\ths see isɩ
+\cf isɩ
 \nt There is a soft stone that is ground and used to clean calabashes
 \rkey 72ef3211-6a68-4ff9-8315-f6ff28f544f2
 \dt 05/Jul/2012
@@ -21114,7 +21311,7 @@
 \de smoke as in smoked fish; also used to breathe the fumes of herbs brewed.
 \ps v
 \np ɔdɛ atɔ ŋɛsɩ
-\ths ogyasi
+\cf ogyasi
 \xv Ndɛ iye ŋɛsɩ.
 \xe I am smoking meat.
 \rf Tape:5-1-575
@@ -21191,7 +21388,7 @@
 \de dewdrop
 \ps n
 \np obetsu nɩ
-\ths see onyelulu
+\cf onyelulu
 \xv Obetsu tetsia ɔkpatɔ nyankɩ, sʋ megyi aha fɛ́ɛ́ tekle tua yɔ ndɔ.
 \xe Dew is on the path in the mornings so not everyone likes to go to farm early.
 \rf Tape:6-2-279
@@ -21263,7 +21460,7 @@
 \rf Tape:6-2-286
 \xv Fɛtɩ ɔha da a, fatsu obia yaɩ mʋ́.
 \xe If you should call someone's name you have brought a chair and put it down for him.
-\ths things to sit on; obia (stool), asesegua (carved stool) , kantankua (chair with straight back), akpasa (reclining chair)
+\nt From ths: things to sit on; obia (stool), asesegua (carved stool) , kantankua (chair with straight back), akpasa (reclining chair)
 \rf Stewart List:1179
 \rkey 7ca23696-cc1c-47cc-a317-015f3195134c
 \dt 05/Jul/2012
@@ -21343,9 +21540,9 @@
 \xv Obitebi anyɔpʋ tɛlɩɩ tɩntɩ.
 \xe A young woman's breast stands tall (doesn't sag).
 \rf Tape:6-2-306
-\ths see oyasubi--young man
+\cf oyasubi "young man"
 \rf Stewart List:0207
-\ths terms for females: ɔtsɩ/atsɩ (woman/women), ɔtsɩbi/atsɩbi (girl/girls), obitebi/mbitebi (lady/ladies), abriwa/mbrɩwa (old lady/old ladies), oyín/ayín (man/men), nana (grandmother), tasii (aunt/niece), ɔtrapʋ (newly born lady), opio (brother/sister), ɔka (wife), okulu (husband), ɔkaba (rival).
+\nt From ths: terms for females: ɔtsɩ/atsɩ (woman/women), ɔtsɩbi/atsɩbi (girl/girls), obitebi/mbitebi (lady/ladies), abriwa/mbrɩwa (old lady/old ladies), oyín/ayín (man/men), nana (grandmother), tasii (aunt/niece), ɔtrapʋ (newly born lady), opio (brother/sister), ɔka (wife), okulu (husband), ɔkaba (rival).
 \rkey 41781a0d-3397-4f8d-8f6f-fdd903004ccf
 \dt 10/Jan/2012
 
@@ -21525,7 +21722,7 @@
 \xv Beyi sukuu obu amʋ manta asɔrɩ obu amʋ.
 \xe They built a school building next to the church building.
 \rf Tape:6-2-352
-\ths parts of a room: bunti (wall), nfansrɩ/afansrɩ (window), ɔpalɩ/mpalɩ (rafters), ɔbu ɔnɔ (door), ɩklʋn (door), obutotɔ (chamber),
+\nt From ths: parts of a room: bunti (wall), nfansrɩ/afansrɩ (window), ɔpalɩ/mpalɩ (rafters), ɔbu ɔnɔ (door), ɩklʋn (door), obutotɔ (chamber),
 \nq we don't have a noun for roof though we have a verb- bua. We also need words for foundation, steps.
 \nq a list of different kinds of rooms, materials used for making different parts, the verbs for making different parts.
 \xv mbwɩ obu, abatɛ obun
@@ -21569,8 +21766,8 @@
 \xv Mʋ nwuntɔ mbubwi bomoni.
 \xe His head lice are big.
 \rf Tape:6-2-361
-\ths kinds of domestic birds: batɛ(chicken), kpakpahe(duck), wanlɩn(guinea fowl), krakun(turkey), akoo (parrot),
-\ths kinds of wild birds: klankpa, kwankwadobi (piebald raven), klɛkpakpa (wood-pecker), kpawu (owl), lasa (kite), ɔnwakɩtɩ, nwapʋ (hawk), ofwi, potofi (quail), oflifli (egret)
+\nt From ths: kinds of domestic birds: batɛ(chicken), kpakpahe(duck), wanlɩn(guinea fowl), krakun(turkey), akoo (parrot),
+\nt From ths: kinds of wild birds: klankpa, kwankwadobi (piebald raven), klɛkpakpa (wood-pecker), kpawu (owl), lasa (kite), ɔnwakɩtɩ, nwapʋ (hawk), ofwi, potofi (quail), oflifli (egret)
 \rf Stewart List:0701
 \rf Stewart List:0805
 \rkey 4dfc5ddd-0ecc-4712-ab62-e75205a48f24
@@ -21599,7 +21796,7 @@
 \de blood
 \ps n
 \np obugya nɩ
-\ths see nkla
+\cf nkla
 \xv Obugya lɛlɩn, tamɛ laka tin.
 \xe Blood was coming but it has stopped.
 \rf Tape:6-2-365
@@ -21707,6 +21904,12 @@
 \rkey c3792c7b-0971-4d0f-98c0-ec9a24244209
 \dt 16/Jul/2012
 
+\lx odondo
+\ps n
+\ge drum
+\de a tunable drum played while held under the arm
+\dt 03/Aug/2012
+
 \lx odoun
 \ph odoũʔ CHECK
 \ge captive
@@ -21775,7 +21978,7 @@
 \xe A loving household is pleasant to live in.
 \rf Tape:1-2-106
 \rf Tape:6-2-406
-\ths question words: ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyisʋ (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words: ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyisʋ (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rkey 72058669-666c-4bc8-b6b3-d873944f98b8
 \dt 03/Apr/2012
 
@@ -21947,7 +22150,7 @@
 \np LHH
 \np L-HHFʔ#L
 \de an act that is fearful and amazing
-\ths see Twi nsɛnkyrɛne
+\cf nsɛnkyrɛne (Twi )
 \ps n
 \np ofula nɩ
 \xv Bɛbla mʋ bɛɛ, ofula mɔmʋ fɔ́bwɛ suna anɩ abɔ́pʋ hɔ fʋ gyi?
@@ -22119,7 +22322,7 @@
 \xe Not all people like to eat ogbangba.
 \rf Tape:6-2-487
 \xe An ogbangba is a lake fish that is good for eating when it matures.
-\ths kinds of fish: klɛmɛtɩ(fish), kpakokwe(dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ɔtsabi (small fish), okuku(flat lake fish), opitre(mudfish)
+\nt From ths: kinds of fish: klɛmɛtɩ(fish), kpakokwe(dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ɔtsabi (small fish), okuku(flat lake fish), opitre(mudfish)
 \rkey c091aa0d-a525-4fcb-af7b-0333c529296c
 \dt 03/Apr/2012
 
@@ -22468,7 +22671,7 @@
 \ge every_day
 \np LLLHH!H
 \de every day
-\ths -gyi- with epenthesis of ke
+\es ɔkɛ-gyi-ɔkɛ with reduplication of ke
 \ps ADV
 \ue South:ekekegyiɛkɛ
 \xv Okekegyiɔkɛ kebi anfɩ desu.
@@ -22538,7 +22741,7 @@
 \xv Okikie gyi ntsutso iyie ánɩ́ ɔbʋ ɔdwɛ, tamɛ mʋ nwun gyi awú-awú.
 \xe Okikie is a lake fish that is good to eat, but its head is bony.
 \rf Tape:6-2-544
-\ths kinds of fish: klɛmɛtɩ(fish), kpakokwe(dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ɔtsabi (small fish), okuku(flat lake fish), opitre(mudfish)
+\nt From ths: kinds of fish: klɛmɛtɩ(fish), kpakokwe(dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ɔtsabi (small fish), okuku(flat lake fish), opitre(mudfish)
 \rkey c0eba6dc-5efc-4b34-bd8a-f9d4fededc36
 \dt 10/Jan/2012
 
@@ -22816,7 +23019,7 @@
 \xe He is hiccoughing so I said he should drink water.
 \xv Okpowu gyi tɔkʋ ánɩ́ nɩ, fʋmɛkɩ mʋ́ wanklaan ɩbɛ́talɩ mɔ fʋ.
 \xe Hiccoughing is something if you don't take time it can kill you.
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), fʋlɩ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths: words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), fʋlɩ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rf Stewart List:1420
 \rkey 22a433aa-8285-4b4e-b2fa-fc97c12b0629
 \dt 16/Jul/2012
@@ -22895,7 +23098,7 @@
 \nq needs tone.
 \xv Bʋtɛlɛ nkuku lɩntɔ.
 \xe They get nkuku from the Volta.
-\ths kinds of fish: klɛmɛtɩ(fish), kpakokwe(dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ɔtsabi (small fish), okuku(flat lake fish), opitre(mudfish)
+\nt From ths: kinds of fish: klɛmɛtɩ(fish), kpakokwe(dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ɔtsabi (small fish), okuku(flat lake fish), opitre(mudfish)
 \rkey bb24a5ec-a82a-4656-b7f4-9f15ebb6573c
 \dt 23/Jul/2012
 
@@ -22999,9 +23202,9 @@
 \np okunku nɩ
 \xv Owi amʋ dɛlɩn dʋbɩ sʋ, laha okunku laba.
 \xe The sun is shining too much so it has made the weather hot.
-\ths words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩmpɩn (hot in temperature)
+\nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩmpɩn (hot in temperature)
 \rkey 2de4cb25-8c18-486e-8365-332d81bb52dd
-\dt 10/Jan/2012
+\dt 06/Aug/2012
 
 \lx oli
 \ph olí
@@ -23124,7 +23327,7 @@
 \np LH
 \np L-Hʔ#H
 \de 1) noise 2) nwun lawa olu - be lucky.
-\ths N. N okitikiti
+\ue North: okitikiti
 \ps n
 \np olu nɩ
 \xv Mlɩsi olu sʋra, annu asʋn.
@@ -23286,7 +23489,7 @@
 \xe you yourself
 \xv Yie atɔ amʋtɔ ha nyebi amʋ fʋ onuto, mɛnɩ bʋmɔɔkɔ.
 \xe Divide the things among the children yourself so that they don't fight.
-\ths onuto (Nkonya), ankasa (Twi)
+\nt onuto (Nkonya), ankasa (Twi)
 \xv Tɔ amʋ onuto nɩ.
 \xe This is the real thing.
 \xv Megyi yibi ɔkapʋ amʋ bʋ yibi amʋ, Kwamɩ onuto bʋ yibi amʋ.
@@ -23356,7 +23559,7 @@
 \xv Ntsrakpabi tɛdɩnka onye.
 \xe The stars come out at night.
 \rf Tape:6-1-548
-\ths words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ lakɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), maa nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12-1 a.m. )
+\nt From ths: words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ lakɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), maa nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12-1 a.m. )
 \rf Stewart List:1104
 \rkey 8a699084-5654-475c-8b95-f1c1d54d49e9
 \dt 16/Jul/2012
@@ -23370,20 +23573,20 @@
 \ue South:enyelulu
 \ps n
 \np onyelulu nɩ
-\ths see obetsu
+\cf obetsu
 \xv Nɩ onyelulu itswie a, ɩtɔbwɛ obetsu wʋlɩ ɩfásʋ.
 \xe If dew falls it makes drops on the grass.
 \rf Tape:6-1-246
 \rkey 13aa9c7d-0de7-46cf-89f5-d6eb79730271
 \dt 16/Jul/2012
 
-\lx Onyenɩ
-\ph Oɲenɪ
+\lx onyenɩ
+\ph oɲenɪ
 \ge tonight
 \de
 \ps n
 \rkey f61d013a-f82a-408c-b12f-1735d196fbd4
-\dt 18/Oct/2005
+\dt 06/Aug/2012
 
 \lx oo
 \ph óː
@@ -23508,7 +23711,7 @@
 \xe The mudfish's head is flat.
 \xv Opitre ɩwɩ bʋ ɔpɩlɩ, ɩnɩsʋ ɩbʋ ɔlɩn ánɩ́ fɔ́pʋ ɩbɩ kɩta mʋ.
 \xe Mudfish is slippery, therefore it is difficult to catch it with your hand
-\ths kinds of fish: klɛmɛtɩ(fish), kpakokwe(dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ɔtsabi (small fish), okuku(flat lake fish), opitre(mudfish)
+\nt From ths: kinds of fish: klɛmɛtɩ(fish), kpakokwe(dried sea fish), ogbangba (lake fish), okikie(small spiny lake fish), ɔtsabi (small fish), okuku(flat lake fish), opitre(mudfish)
 \rkey 5aa141ae-7d34-444b-b80c-e21839d839bb
 \dt 16/Jul/2012
 
@@ -23603,7 +23806,7 @@
 \xv Akʋ bʋtɛlɛ amʋ́ apulapʋ yaɩ asa butowu. Akʋ ɛ butowu asa bʋtɛlɛ apulapʋ ha amʋ́.
 \xe Some people choose those who will bury them before they die. Others too die before buriers are chosen for them.
 \nq new entry
-\ths from pula
+\es ɔ-pula-pʋ
 \rkey 2ba871b8-f28d-4326-8a3c-9e2a617ceb8c
 \dt 05/Jul/2012
 
@@ -23790,7 +23993,7 @@
 \np osie nɩ
 \xv Ɔtsɩ amʋ dɩdɩ abuto mʋ osiesʋ.
 \xe The woman tied beads about her waist
-\ths osietɔ
+\cf osietɔ
 \xv Gyata amʋ osietɔ gyi lekeleke.
 \xe The lion's waist is very slender.
 \rf SIL-AWL:0036
@@ -23890,7 +24093,7 @@
 \xe Children play in the sand.
 \xv Osublu amʋ ma alɛ ha obu amʋ pwɛ.
 \xe The sand is not good for building.
-\ths see ɩsɩ
+\cf ɩsɩ
 \nq check out which la this is- probably the unexpected one.
 \rf Stewart List:1027
 \rkey db023e80-3ce7-4542-bf5f-57880ef8ba2d
@@ -23913,7 +24116,8 @@
 \pl asumpʋ
 \ph asúmpʊ́
 \np LHH
-\ths from sum (serve), tswɛ
+\es ɔ-sum-pʋ
+\cf tswɛ
 \bw Akan fi:osomfʋ LHL
 \ps n
 \np osumpʋ nɩ
@@ -23959,7 +24163,7 @@
 \np osunapʋ nɩ
 \xv Ɔha ánɩ́ otosuna aha atɔ a, osunapʋ ogyi.
 \xe The person that teaches people is a teacher.
-\ths from suna (teach)
+\es ɔ-suna-pʋ
 \rkey a47e7d80-366b-4e9b-9be4-b285043899bc
 \dt 05/Jul/2012
 
@@ -23972,7 +24176,7 @@
 \pl asupʋ
 \ph asúpʊ́
 \np same
-\ths from su (cry)
+\es ɔ-su-pʋ
 \ps n
 \np osupʋ nɩ
 \xv Gya asupʋ amʋ lɛ fuli asɩ nʋ, anya ɔkpa tsu mʋ ya asiɛɩ.
@@ -24335,7 +24539,7 @@
 \np otutu nɩ
 \xv Nsaɩntɔ lawʋlɩ dʋbɩ, sʋ otutu bʋ ɔkpa amʋtɔ.
 \xe The weather is very dry so the road is dusty.
-\ths see ɩsɩ
+\cf ɩsɩ
 \rf Stewart List:1033
 \rkey 6c2df6ed-2664-4cbb-a885-4f0661e7a632
 \dt 10/Jan/2012
@@ -24385,8 +24589,7 @@
 \ps DEIC
 \xv Owí pɔnhɛsʋ lɩɩ yɔ agyʋma bʋ ayɔlɛ, tsufɛ nsaɩntɔ tolwii.
 \xe Working in the evening is pleasant, because the weather becomes cool.
-\ths new entry
-\ths words describing time of day: bakɛ(early morning hours before sunrise), ɔyɩ ya kɛ(sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ(noon), owí ɩpɔn(afternoon), ntɔpwɛ(evening), maanɩ mɩnɩ (dusk), onye(night)
+\nt From ths: words describing time of day: bakɛ(early morning hours before sunrise), ɔyɩ ya kɛ(sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ(noon), owí ɩpɔn(afternoon), ntɔpwɛ(evening), maanɩ mɩnɩ (dusk), onye(night)
 \rkey 7000b7dd-a3ae-4b34-8abe-549b16f44584
 \dt 16/Jul/2012
 
@@ -24540,7 +24743,7 @@
 \cf oyibibi Eng:small stick
 \xv Nɔpʋ limba kun oyi yile kʋ mɩ ndɔtɔ.
 \xe I will take an axe and fell a big tree on my farm.
-\ths kinds of trees: ɔbɛ (palm nut tree), agode(coconut), bombolintsu(tulip tree), kankaba (orange), paya (avocado), ntunkum(soursop), ɔgywɩyaa (lemon)
+\nt From ths: kinds of trees: ɔbɛ (palm nut tree), agode(coconut), bombolintsu(tulip tree), kankaba (orange), paya (avocado), ntunkum(soursop), ɔgywɩyaa (lemon)
 \rf Stewart List:0851
 \rkey cfd08d75-cacc-495f-be24-225e92011909
 \dt 10/Jan/2012
@@ -24585,7 +24788,7 @@
 \np oyi-kpalihɛ nɩ
 \xv Bɛda Yesu manta oyi-kpalihɛsʋ, olowu pʋ hɔ aha fɛ́ɛ́ nkpa.
 \xe Jesus was nailed on to the cross, He died and saved all people.
-\ths oyi kpalihɛ (Nkonya), asendua (Twi)
+\cf asendua (Twi)
 \nq new entry
 \rkey 5ded453a-474c-4f3e-adce-dd13d1ea164d
 \dt 05/Jul/2012
@@ -24596,11 +24799,11 @@
 \ge man
 \np LL
 \np L-L#H
-\de 1) man 2) male
+\de man; male
 \pl ayin
 \ph ayĩ
 \np same
-\ths o- -yin
+\cf o- -yin
 \ps n
 \np oyin nɩ
 \xv Oyin tamada anyɔpʋ.
@@ -25080,13 +25283,13 @@
 \lx ɔblɩn
 \ph ɔblɪ̃
 \ge thin
+\ps ADJ
 \np LL
 \de used of porridges
-\ps ADJ
 \xv Mɩ konkonte amʋ́ʋ́ ndewuli amʋ lada ɔblɩn, sʋ nɩ fʋbʋ konkonte nfuo a, ha mɩ kʋ.
 \xe My cassava porridge that I am stirring has become too thin so if you have cassava flour give me some.
 \rf Tape:5-2-195
-\ths opposites: da ɔblɩn (become thin), pi (thicken)
+\an pi "thicken"
 \rkey fc5be9a7-cc7a-4c6c-b5a5-bd69c52f92c4
 \dt 23/Jan/2012
 
@@ -25130,10 +25333,10 @@
 \ps ADJ
 \xv Ha mɩ ntsu ɔwɛ ɔbɔ.
 \xe Give me a calabash full of water.
-\rf Tape:5-2-218
-\ths bʋla
+\rf Tape:5-2-218c
+\cf bʋla
 \rkey 5ce91526-f70c-47d7-ae64-9ff07d64971c
-\dt 05/Jul/2005
+\dt 06/Aug/2012
 
 \lx ɔbɔ
 \ph ɔbɔ́
@@ -25298,13 +25501,13 @@
 \xv Ɔbwɩ ɔkʋ dɛ mɩ atɔ yinta.
 \xe A certain animal is spoiling my things.
 \rf Tape:5-2-253
-\ths kinds of domestic mammals: afurum (donkey), andɔ (cat), adango (rabbit), kɩaɩ (dog), kpala (goat), trʋkpa (he goat), kufa (sheep), okpokpo (ram), ɔpɔnkɔ (horse), ɔprakuo (pig), ɔnantswie ((cow),
-\ths kinds of wild mammals: adango (rabbit), gyasɩɛpɛ, ɔbatafɔ (bush pig), dei (monkey), dundu (leopard), fʋlɩtɩ (deer), ɔtɛ (ground squirrel), gyabɛ (squirrel), gyagya (bat), kutibii (small bat), gyata (lion), nani (antelope), oswie (anteater), ɔtsakpa (hedgehog), klatɩ (grasscutter), klɔtɩ (mice), klɔtɩbʋodu(type of mice with bushy tail) kpasi (rat), kpʋkpʋ (buffalo), oklemgbe (shrew), srʋfɔ (elephant)
-\ths kinds of reptiles/amphibians/crusteceans: asaan (crayfish), gyongyo (frog), kɩtɩ (lizard), ologyo (chameleon), lembu (turtle), sawun (totoise), lɛnkɛ (crocodile), lɛnkɛkpan (crocodile), nwunkpodikpodi (tadpole), okle (frog), ɔkɔtɔ (crab), tanibi (cowry)
-\ths kinds of snakes: ɩwɔ (snake), bʋtɩ (python), ɩbɛ (adder), sapa (cobra))
-\ths kinds of creepy-crawlers: dɩba (bedbug), fantɩ (cricket), kponkpoli (beetle), kian (beetle larvae), natɩ (spider), mfa (quinea worm), nyambi (maggot), ofutikokoni (ant lion), ogyaŋɛɛ (firefly), nyankpʋ kpie (scorpion), ŋlanwun (millipede), obien (snail), ɔblatɩ (snail) nwuntɔ obubwi (louse), ɔkɛkɛ (grasshopper), tɛplɛ (cockroach), tɔsɩ (caterpiller), ɔtswʋnkɩ (mosquito), ɔwantɩntsu (dragonfly), ntsusʋ klanklan (dragonfly), sisa (housefly), wʋnsa (bee), wʋlʋ (tsetsefly)
-\ths kinds of fish: klɛmɛtɩ (fish), kpakokwe (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ɔtsabi (small fish), okuku (flat lake fish), opitre (mudfish)
-\ths kinds of ants: baba (termites), finfi (ant-generic), gyawugya (tiny red ant), konya (driver ant), ɔkpan (large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ (crazy ant)
+\nt From ths: kinds of domestic mammals: afurum (donkey), andɔ (cat), adango (rabbit), kɩaɩ (dog), kpala (goat), trʋkpa (he goat), kufa (sheep), okpokpo (ram), ɔpɔnkɔ (horse), ɔprakuo (pig), ɔnantswie ((cow),
+\nt From ths: kinds of wild mammals: adango (rabbit), gyasɩɛpɛ, ɔbatafɔ (bush pig), dei (monkey), dundu (leopard), fʋlɩtɩ (deer), ɔtɛ (ground squirrel), gyabɛ (squirrel), gyagya (bat), kutibii (small bat), gyata (lion), nani (antelope), oswie (anteater), ɔtsakpa (hedgehog), klatɩ (grasscutter), klɔtɩ (mice), klɔtɩbʋodu(type of mice with bushy tail) kpasi (rat), kpʋkpʋ (buffalo), oklemgbe (shrew), srʋfɔ (elephant)
+\nt From ths: kinds of reptiles/amphibians/crusteceans: asaan (crayfish), gyongyo (frog), kɩtɩ (lizard), ologyo (chameleon), lembu (turtle), sawun (totoise), lɛnkɛ (crocodile), lɛnkɛkpan (crocodile), nwunkpodikpodi (tadpole), okle (frog), ɔkɔtɔ (crab), tanibi (cowry)
+\nt From ths: kinds of snakes: ɩwɔ (snake), bʋtɩ (python), ɩbɛ (adder), sapa (cobra))
+\nt From ths: kinds of creepy-crawlers: dɩba (bedbug), fantɩ (cricket), kponkpoli (beetle), kian (beetle larvae), natɩ (spider), mfa (quinea worm), nyambi (maggot), ofutikokoni (ant lion), ogyaŋɛɛ (firefly), nyankpʋ kpie (scorpion), ŋlanwun (millipede), obien (snail), ɔblatɩ (snail) nwuntɔ obubwi (louse), ɔkɛkɛ (grasshopper), tɛplɛ (cockroach), tɔsɩ (caterpiller), ɔtswʋnkɩ (mosquito), ɔwantɩntsu (dragonfly), ntsusʋ klanklan (dragonfly), sisa (housefly), wʋnsa (bee), wʋlʋ (tsetsefly)
+\nt From ths: kinds of fish: klɛmɛtɩ (fish), kpakokwe (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ɔtsabi (small fish), okuku (flat lake fish), opitre (mudfish)
+\nt From ths: kinds of ants: baba (termites), finfi (ant-generic), gyawugya (tiny red ant), konya (driver ant), ɔkpan (large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ (crazy ant)
 \rf Stewart List:0601
 \rkey b9a5d186-04af-4ced-9aec-0508d12484cd
 \dt 16/Jul/2012
@@ -25338,7 +25541,8 @@
 \np same
 \nt ndadʋwa is also a multi-hooked, baited, weighted fishing line that is laid from a boat into deep water to catch large fish.
 \ps n
-\np ɔdadʋwa nɩ
+\cf asawu
+\cf awʋlɛ
 \xv Fɔpʋ ɔtsabi yi ɔdadʋwa ɔnɔ a, fɛ́lɛ iyie yile.
 \xe If you bait a hook with a small fish you will catch a big fish.
 \xv Fɔpʋ ndadʋwa sian ɔfɛsʋ a, fówun fapʋ ɔtsabi yi mʋ́ ɔnɔ pʋ wa ntsutso. Fanatɩ ɔyɩkɛhɛ fayɛlɛ mʋ́. Mʋ́ bʋtɔpʋ lɛ akuabi aná nɩ.
@@ -25437,7 +25641,7 @@
 \xv Nɩ fowuli mbɔrɩ, ɩhɔ wa darɩsɛɩntɔ a, fawa ntsu mʋ́tɔ. Ɩpɔn a, fa pʋ ɔdantrʋba nwɔsɩ mʋ́tɔ.
 \xe If you stirred porridge and it burned in the pot, put water in it. When it is soft, use seashell to scrape it.
 \nq new entry. Are there other kinds of shells. What about a snail shell, tanibi, ɔkɔtɔ. What about adɔdɩ (not in dictionary)
-\ths Kinds of shells: obien-hontro (snail-shell), ɔkɔtɔ-koko (crab-shell), ɔdantrʋba (adɔdɩ-shell)
+\nt From ths: Kinds of shells: obien-hontro (snail-shell), ɔkɔtɔ-koko (crab-shell), ɔdantrʋba (adɔdɩ-shell)
 \rkey 3e3d6573-29f1-4b25-9bb3-731b1cad0080
 \dt 10/Jan/2012
 
@@ -25484,7 +25688,7 @@
 \np same
 \ps n
 \np ɔdawu nɩ
-\ths see ikwitɔ
+\cf ikwitɔ
 \xv Oyin anfɩ ɔdawu bʋ swɩ, mʋ pio amʋ ɛ klɛ bʋ alɛ.
 \xe This man's chin is long, his brother also is good.
 \rf Tape:5-2-274
@@ -25571,7 +25775,7 @@
 \rf Tape:5-2-292
 \xv Natsʋn ɔdɩbatɔ sʋ mɩ ayabi asɩ lawa nyanya.
 \xe I passed through a muddy place so under my feet has put on nastiness.
-\ths see ɩsɩ
+\cf ɩsɩ
 \rf Stewart List:1028
 \rkey 098f882f-2179-4d79-a2e1-4b37662ac166
 \dt 05/Jul/2005
@@ -25633,7 +25837,7 @@
 \xe Wait for our Lord Jesus Christ's coming like a farmer waits patiently for rain.
 \xv Nɩ nyankpʋ mɛdɛ tswɩe a, ɩtɛha adɔtɔpʋ wankaan.
 \xe If it is not raining it disturbs farmers well.
-\ths from ndɔ
+\es ɔ-dɔ-tɔ-pʋ
 \rf Tape:5-2-305
 \rf Stewart List:0401
 \rkey 126941ae-7d18-4958-9971-87dac6009e41
@@ -25721,7 +25925,7 @@
 \rf Tape:5-2-327
 \xv Apʋsɛ toswie mʋ́ ɩflasʋ wa oyitɔ. Bʋtɔkwɛ mʋ́ wa oputsutɔ, ɩtɔhɔ ɔsɩn, ɩtɛha oputsu tɔwa ɔfan.
 \xe Black pepper grows on its vine, which climbs on a tree. They grind it and put it in soup. It makes it hot and gives the soup a nice scent.
-\ths opposite bon (stink -v), ɔfan (good scent-n)
+\an bon "stink(verb)"
 \rf Stewart List:0971
 \rkey 62d940b3-eb0a-4793-abdd-c564713ef7c1
 \dt 05/Jul/2005
@@ -25889,7 +26093,7 @@
 \rf Tape:5-2-368
 \xv Ɩtrɛ tɔpʋ ɩkɔ ba.
 \xe Quarreling brings fighting. ( a small thing leads to a greater).
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough).
+\nt From ths: words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough).
 \rf Stewart List:1432
 \rkey 9a80c331-cfe8-46d6-9ab7-7c13ddfb2fed
 \dt 05/Jul/2012
@@ -25993,7 +26197,8 @@
 \pl ahandɛ
 \ph ahandɛ
 \np same
-\ths S. N- ahandɛ etym: ɔha (person) dɛhɛn elder
+\ue South ɔhandɛn
+\es ɔha "person" dɛhɛn "elder"
 \ps n
 \np ɔhandɛ nɩ
 \xv Oyin anfɩ a, ɔhandɛ ogyi, tsufɛ aladan dʋn mɩ.
@@ -26209,7 +26414,7 @@
 \xv Ɔkɛ gyi nfɩ obiakɛ.
 \xe Tomorrow will be here market day.
 \rf Tape:5-2-415
-\ths days in time: ɩnwɛn (day before yesterday), igye (yesterday), ndɛ (today), ɔkɛ (tomorrow), klaɛ (day after tomorrow)
+\nt From ths: days in time: ɩnwɛn (day before yesterday), igye (yesterday), ndɛ (today), ɔkɛ (tomorrow), klaɛ (day after tomorrow)
 \rf Stewart List:1553
 \rkey 38140d6a-bde5-466f-842a-a968966786e2
 \dt 18/Oct/2005
@@ -26271,7 +26476,7 @@
 \de bitterness
 \ps n
 \np ɔkɩta nɩ
-\ths kɩtakɩta
+\cf kɩtakɩta
 \xv Bia bʋ ɔkɩta kɩtakɩta.
 \xe Beer is bitter.
 \rf Tape:5-2-435
@@ -26604,9 +26809,15 @@
 \rf Tape:5-2-527
 \xv Bebi tuun, bʋtetsia ɔbɔtɔ, bʋtɛkɩta ababa. Bomoni, bʋtobon, bʋtɔsʋra. Nɩ bɔsʋra a, ɩtɔhɔ ɔsɩn dʋn atrahɛ fɛ́ɛ́.
 \xe They are pure black, they live in a hole and they catch termites. They are big, they stink, and they sting. When they sting, it is painful than the rest.
-\ths kinds of ants: baba (termites), finfi (ant-generic), gyawugya (tiny red ant), konya (driver ant), ɔkpan (large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ (crazy ant)
+\cf baba
+\cf damantsu
+\cf finfi
+\cf gyawugya
+\cf konya
+\cf ɔtɔntrɔbwɩ
+\cf kɔklɔ
 \rkey 9242154b-2f2d-4cac-a50b-1af98974499d
-\dt 03/Apr/2012
+\dt 06/Aug/2012
 
 \lx ɔkpankpa
 \ph ɔk͡pãŋ͡mk͡pá
@@ -26693,7 +26904,7 @@
 \np LHH
 \ps n
 \np ɔkpɛpʋ nɩ
-\ths from ɔkpɛ
+\cf ɔkpɛ
 \xv Megyi ɔha ánɩ́ ototsu asuma aha sʋ pɛ gyi ɔkpɛpʋ. Ɔha ánɩ́ otolu mʋ ba, blɩ mʋ ɩwɩ asʋn-lalahɛ pʋ kpɔɩ mʋ ɛ a, ɔkpɛpʋ ogyi.
 \xe It isn't a person who uses juju against people who is only a witch. A person who hates his neighbour and says evil things against him to spoil his name is also a witch.
 \nq new entry
@@ -26732,7 +26943,7 @@
 \xe Coconut bears in its tree in a cluster.
 \xe A coconut tree bears its fruit in a cluster.
 \rf Tape:1-1-205
-\ths compare imu
+\cf imu
 \nq new entry, needs work
 \rkey d2349062-16d6-4fc4-be19-690a2f0baab1
 \dt 05/Jul/2005
@@ -26835,15 +27046,17 @@
 \de one, used in counting
 \ps count
 \ue South:ɛkʋn, ɛkulɛ
-\ths ɔtsawʋlɛ (one time), wʋlɛ (one), ɩkʋlɛ (one), tsukʋlɛ (one place)
+\cf ɔtsawʋlɛ (one time)
+\cf wʋlɛ (one)
+\cf ɩkʋlɛ (one)
+\cf tsukʋlɛ (one place)
 \xv Nɩ fɛ́kla atɔ a, féfi mʋ́ asɩ tsu ɔkɔn.
 \xe If you will count things, you will begin from one.
 \xe You start counting with one.
 \rf Tape:5-2-460
-\ths counting numbers to twenty: ɔkɔn, anyɔ, asa, ana, anu, asie, sienɔ, ikwe, kweba, idu, du-ɔkɔn, du-anyɔ, du-asa, du-ana, du-anu, du-asie, du-asienɔ, du-kwe, du-kweba, aduanyɔ.
 \rf Stewart List:1802
 \rkey 9e470c4b-030b-49ce-8431-40ae012357ef
-\dt 16/Jul/2012
+\dt 02/Aug/2012
 
 \lx ɔkʋn
 \ps NUM
@@ -27013,7 +27226,7 @@
 \de one who takes you out of trouble
 \ps n
 \np ɔlɛpʋ nɩ
-\ths from lɛ
+\cf lɛ "remove"
 \xv Ɔlɛpʋ gyi ɔha ánɩ́ ɔtɛlɛ fʋ tsu ɩkplan ntɛɛ asʋntɔ.
 \xe A saviour is one who takes you out of trouble or a tight place.
 \xv Anɩ ɔlɛpʋ gyi anɩ wie Yesu Kristo.
@@ -27055,7 +27268,7 @@
 \xe Fetch water from the pot for me. it is cooler than the barrel's water.
 \xv ɔlɔ́bi (small pot), wʋndɩ (mainly for storage of drinking water).
 \rf Tape:6-1-034
-\ths ɔlanka
+\cf ɔlanka
 \rf Stewart List:1209
 \rkey 75b5559a-c7d0-49c7-b10a-1381464b9195
 \dt 05/Jul/2012
@@ -27071,7 +27284,7 @@
 \ps n
 \xv Igye onye fɛ́ɛ́ ɔlɔpʋ ɔkʋ lɛkɩmɩ sʋ mmɛtalɩ dɩdɩ.
 \xe All of last night a certain sick man was groaning so I couldn't sleep.
-\ths from ɩlɔ
+\cf ɩlɔ "illness"
 \rkey 3ffb7b45-7495-4e60-b032-ea6f8582ba73
 \dt 05/Jul/2012
 
@@ -27240,12 +27453,18 @@
 
 \lx ɔmɛ
 \ph ɔmɛ́
-\ge belly
-\np LH
-\de 1) belly (2) pregnancy
 \ps n
-\np Ɔmɛ nɩ.
-\ths ipu
+\sn 1
+\ge belly
+\de belly 
+\np LH
+\sn 2
+\ge womb
+\de womb
+\cf ipu
+\sn 3
+\ge pregnancy
+\de pregnancy
 \xv Ɔtsɩ amʋ dɛ ɔmɛ. Mʋ kulu laha mʋ ɔmɛ.
 \xe The woman is pregnant. Her husband has made her pregnant.
 \rf Tape:6-1-108
@@ -27495,7 +27714,7 @@
 \xv Ɔnamba labwɛ mɩ ɔnanku, ɩdɛ mɩ dwiin.
 \xe There is a sore on my heel, so it is paining me.
 \rf Tape:6-1-147
-\ths illnesses that make us (labwɛ): mfa, ɔnamba, ɔnamplɔɩ, sɛsɛ, ɩyɛ
+\nt From ths: illnesses that make us (labwɛ): mfa, ɔnamba, ɔnamplɔɩ, sɛsɛ, ɩyɛ
 \rkey 442e399f-7c4f-4004-ace2-a4b5ccaf84b5
 \dt 10/Jan/2012
 
@@ -27511,7 +27730,7 @@
 \np Ɔnamplɔɩ nɩ.
 \xv Ɔnamplɔɩ labwɛ mɩ anambitɔ, sʋ mmɛtalɩ natɩ wanklaan.
 \xe I have developed cracks between my toes so I can't walk well.
-\ths illnesses that make us (labwɛ): mfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
+\nt From ths: illnesses that make us (labwɛ): mfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
 \rkey 592ed87e-2da6-4dd6-ae9e-38ac4130951f
 \dt 05/Jul/2005
 
@@ -27588,7 +27807,8 @@
 \ge strong; hard
 \de something stiff
 \ps ADJ
-\ths see koklo, gyen
+\cf koklo
+\cf gyen
 \xv Fʋ atɔ-fɛhɛ lɛlɩn. Mʋ́ bia ma ɔlɩn.
 \xe Things you are selling are cheap. Their prices are low.
 \rf Tape:6-1-163
@@ -27772,10 +27992,18 @@
 \xv Ɔkpa natɩ ɔpa ma alɛ tsufɛ owí tɛlɩn dʋbɩ, mʋ́ titriu ɔpawisʋ.
 \xe Walking in the early afternoon is bad because the sun shines too much, especially at noon.
 \rf Tape:6-1-275
-\ths words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩkɛhɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), ma nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12-1 a.m. )
+\cf bakɛ
+\cf maa nɩ mɩ nɩ
+\cf ntʋpwɛ
+\cf ntʋpwɛnye
+\cf nyankɩ
+\cf onye
+\cf ɔpawisʋ
+\cf ɔyɩ lakɛ
+\cf ɔyɩ nsɩnɛ
 \rf Stewart List:1106
 \rkey e469bdf1-438b-4aa0-b147-1161d497dc6c
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx ɔpá
 \ph ɔpá
@@ -27852,9 +28080,17 @@
 \xv Ɔkpa natɩ ɔpa ma alɛ tsufɛ owí tɛlɩn dʋbɩ, mʋ́ titriu ɔpawisʋ.
 \xe Walking in the early afternoon is bad because the sun shines too much, especially at noon.
 \rf Tape:6-1-275
-\ths words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩkɛhɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), ma nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12-1 a.m. )
+\cf bakɛ
+\cf maa nɩ mɩ nɩ
+\cf ntʋpwɛ
+\cf ntʋpwɛnye
+\cf nyankɩ
+\cf onye
+\cf ɔpa
+\cf ɔyɩ lakɛ
+\cf ɔyɩ nsɩnɛ
 \rkey 43584a16-f956-486d-a54f-2525b649f5e2
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx ɔpayin
 \ph ɔpayĩʔ
@@ -27963,7 +28199,7 @@
 \de joke; amusement
 \ps n
 \np ɔplɔɩ nɩ
-\ths igyi mɔsɩla
+\cf igyi mɔsɩla
 \xv Ɔplɔɩ bʋ ɔdwɛ, tamɛ ɔplɔɩkpan tɔpɔ ɩkɔ ba.
 \xe Joking is sweet but fooling around, rough housing, empty joking brings fighting.
 \rf Tape:6-1-326
@@ -28168,7 +28404,7 @@
 \np same
 \ps n
 \np ɔsapɔ nɩ
-\ths mpʋsa
+\cf mpʋsa
 \xv Kebi amʋ lakpɔɩ ɩwɩ dʋbɩ sʋ kpita mʋ ɩwɩ ɔsapɔ wanklaan.
 \xe The child has gotten very dirty so scrub him well with a sponge.
 \rf Tape:6-1-365
@@ -28190,12 +28426,12 @@
 \de opportunity to respond, "the floor" as in "You have the floor."
 \ps n
 \np ɔsɛmpa nɩ
-\bt
+\bw Akan fi:ɔsɛmpa
 \xv Mʋ́ʋ́, Osun ɔhandɛ leyinki pʋ ɔsɛmpa ha Kwasi mʋ sɩ.
 \xe Then the clan head asked Kwasi's father to respond.
 \rf ds0103-34
 \rkey 401457d2-7f6f-4936-b321-0a8d26e23890
-\dt 05/Jul/2012
+\dt 02/Aug/2012
 
 \lx ɔsɩ
 \ph ɔsɪ́
@@ -28267,7 +28503,7 @@
 \xv Ɩbʋ ɔsɩn.
 \xe It hurts. It has pain. It is painful
 \rf Tape:6-1-386
-\ths dwiin
+\cf dwiin
 \xv Alɩ amʋ́ʋ́ omlewusʋ ɔlɔ bʋ ɔsɩn amʋ a, alɩ kpawunusʋ klɛ ɛ bʋ ɔsɩn nɩ.
 \xe As a sore on the elbow pains, so also the one on the knee also is painful.
 \xv What hurts one will also hurt another in the same way.
@@ -28301,7 +28537,7 @@
 \np same
 \ps n
 \np ɔsɩrɩpʋ nɩ
-\ths from sɩrɩ
+\es ɔ-sɩrɩ-pʋ
 \xv Asɩrɩpʋ amʋtɔ fɛ́ɛ́ a, ɔsɩrɩpʋ ɔkʋlɛ pɛ lenya atokiehɛ.
 \xe Among the runners, only one runner had an award.
 \xv Asɩrɩpʋ amʋ lasɩrɩ alɩɩ nya kɔba pʋ yi woyi.
@@ -28497,7 +28733,7 @@
 \pl ntan
 \ph ntãʔ
 \np LL
-\ths see tati
+\cf tati
 \ps n
 \np ɔtan nɩ
 \xv Oyin amʋ bʋ ɔtan wanklaan kʋ ɔtɛdɩda mʋ́.
@@ -28762,9 +28998,15 @@
 \xv Fenya ɩklʋn bio ɔtɔntrɔbwɩ a, fʋtowun mʋ mpuni.
 \xe If you patiently dissect an ant you always see its stomach.
 \rf Tape:5-1-383
-\ths kinds of ants: baba (termites), finfi (ant-generic), gyawugya(tiny red ant), konya (driver ant), ɔkpan(large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ(crazy ant)
+\cf baba
+\cf damantsu
+\cf finfi
+\cf gyawugya
+\cf konya
+\cf ɔkpan
+\cf kɔklɔ
 \rkey b501064e-4b7e-4dfe-8323-05a79e7e4aca
-\dt 23/Jul/2012
+\dt 06/Aug/2012
 
 \lx ɔtɔtɔ
 \ph ɔtɔ́tɔ́
@@ -28825,7 +29067,7 @@
 \xv Fɔbwɛ yile a, fénya mʋ́sʋ mfasʋ tsɔtsɔɔtsɔ.
 \xe If you do good a , you will get a big profit from it. .
 \nt proverb
-\ths kinds of fish: klɛmɛtɩ (fish), kpakokwe (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ɔtsabi (small fish), okuku (flat lake fish), opitre (mudfish)
+\nt From ths: kinds of fish: klɛmɛtɩ (fish), kpakokwe (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ɔtsabi (small fish), okuku (flat lake fish), opitre (mudfish)
 \rkey ae20ff42-888d-4b40-8e17-663d5dc7b158
 \dt 16/Jul/2012
 
@@ -28891,7 +29133,7 @@
 \xv Ɔtsanfɩ mʋ́ Amma ɔbɛ́kɩ a, mʋ sɩ mʋa mʋ yín batsu ndɔ ba.
 \xe Suddenly Amma went to look, and her father and her mother had come from farm. (Suddenly, before Amma will relised her mother and father have come from farm. )
 \rf Tape:6-1-517
-\ths words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
+\nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
 \rkey f1482904-4c1c-41b0-9212-fccee49a51a0
 \dt 16/Jul/2012
 \dt
@@ -28930,21 +29172,27 @@
 \xe If they scrape the road, pour gravel on it, but don't put coal tar on it it will quickly spoil
 \nq is this actually laterite?
 \nq new entry
-\ths see ɩsɩ
+\cf ɩsɩ
 \rkey d850dab3-a9e0-4b83-b0af-33dad3f126ed
 \dt 05/Jul/2005
 
 \lx ɔtsawʋlɛ
 \ph ɔʦáwʊlɛ
+\ps ADV
+\sn 1
 \ge once
 \np LHLL
 \de once
-\ps ADV
 \xv Tse fɩnɩ fɔ́yɔ ntsu amʋtɔ? Ɔtsawʋlɛ pɛ.
 \xe How many times will you go for the water? Only once.
 \rf Tape:6-1-527
-\ths ɔtsawʋlɛ (once), tsenyɔ (twice), tsesa (thrice), tsena (four times)
+\cf tsenyɔ "twice"
+\cf tsesa "three times"
+\cf tsena "four times"
 \rf Stewart List:1852
+\sn 2
+\ge at once
+\de at once
 \rkey 467eb401-fd28-4c92-b5b0-c1dddd3e0ecb
 \dt 16/Jul/2012
 
@@ -28962,7 +29210,7 @@
 \xe This woman is a good mother because she looks after her children well.
 \nq is this kɛ or kɩ
 \rf Tape:6-1-532
-\ths terms for females: ɔtsɩ/atsɩ, otsibi/atsibi, obitebi/mbitebi, abrɩwa/mbrɩwa, oyín/ayín, nana, tasii, ɔtrapʋ, opio
+\nt From ths: terms for females: ɔtsɩ/atsɩ, otsibi/atsibi, obitebi/mbitebi, abrɩwa/mbrɩwa, oyín/ayín, nana, tasii, ɔtrapʋ, opio
 \np ɔtsɩ nɩ, ɔka, ɔkaba.
 \cf otsibi
 \rf Stewart List:0202
@@ -29329,7 +29577,7 @@
 \xv Otsibi anfɩ yin ɔwʋlʋ wanklaan.
 \xe This girl is very clever.
 \xe This girl knows book.
-\ths ɔyɩlʋ
+\cf ɔyɩlʋ
 \nq check difference ɔyɩlʋ and ɔwʋlʋ
 \rf Stewart List:0029
 \rf Stewart List:1176
@@ -29373,7 +29621,7 @@
 \xe A strong person is one that can do hard work.
 \rf Tape:3-1-088
 \nq new entry
-\ths from wʋnlɩn (strength)
+\es ɔ-wʋnlɩn-pʋ
 \rkey 83fa6fd0-7e3c-444a-8230-36ed7748bb2d
 \dt 16/Jul/2012
 
@@ -29403,7 +29651,7 @@
 \xe A Young man and a young woman will understand each other. (they share common experiences)
 \nt proverb
 \rf Tape:6-2-054
-\ths see obitebi--young woman
+\cf obitebi "young woman"
 \rf Stewart List:0206
 \rkey 561397cc-d0d7-4dac-96ce-3707d05bfb63
 \dt 03/Apr/2012
@@ -29439,16 +29687,41 @@
 \rkey 48ed913c-3a3f-4015-aca5-62d1344fbc11
 \dt 16/Jul/2012
 
-\lx ɔyɩ la kɛ
-\ph ɔyɪ́ la kɛ
+\lx ɔyɩ lakɛ
+\ph ɔyɪ́ lakɛ
 \ge dawn
 \de
 \pl
 \ps TIME
 \nq new entry JG contrast with ɔyɩkɛhɛ/ɛyɩkɛhɛ
-\ths words describing time of day: bakɛ (early morning hours before sunrise, dawn), ɔyɩkɛhɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), maa nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12-1 a.m. )
+\cf bakɛ
+\cf maa nɩ mɩ nɩ
+\cf ntʋpwɛ
+\cf ntʋpwɛnye
+\cf nyankɩ
+\cf ɔpa
+\cf ɔpawisʋ
+\cf onye (night)
+\cf ɔyɩ nsɩnɛ
 \rkey da73b613-96eb-4389-8e7e-f022c39a7535
-\dt 16/Jul/2012
+\dt 06/Aug/2012
+
+\lx ɔyɩ nsɩnɛ
+\ph ɔyɪ́nsɪnɛ́
+\ge midnight
+\de
+\ps n
+\cf bakɛ
+\cf maa nɩ mɩ nɩ
+\cf ntʋpwɛ
+\cf ntʋpwɛnye
+\cf nyankɩ
+\cf onye
+\cf ɔpa
+\cf ɔpawisʋ
+\cf ɔyɩ lakɛ
+\rkey 28ce1ca8-4637-4cfa-a986-3fcf9c00bcc3
+\dt 06/Aug/2012
 
 \lx ɔyɩkɛhɛtɔ
 \ph ɔyɪkɛhɛtɔ
@@ -29457,14 +29730,6 @@
 \ps n
 \rkey eeafbd16-c79f-4bb4-bc2c-ad873fd454c9
 \dt 20/Sep/2005
-
-\lx ɔyɩnsɩnɛ
-\ph ɔyɪ́nsɪnɛ́
-\ge midnight
-\de
-\ps n
-\rkey 28ce1ca8-4637-4cfa-a986-3fcf9c00bcc3
-\dt 10/Jan/2012
 
 \lx ɔyɔɩ
 \ph ɔyɔ́ɪ
@@ -29501,7 +29766,7 @@
 \de much
 \ps ADV
 \bw Akan fi:paa
-\ths nkonya dʋbɩ
+\cf dʋbɩ
 \xv Oyin amʋ tɔdɔ ndɔ paa.
 \xe The man is farming too much.
 \xv Oyin amʋ towi aha ndɔtɔ atɔ paa.
@@ -29638,7 +29903,7 @@
 \ph apatá
 \np LLH
 \bw Akan fi:pata
-\ths nkonya "kantamkpa"
+\cf kantamkpa (Nkonya)
 \ps n
 \np pata nɩ
 \xv Ababegyi nkɛ, sʋ abɛ́da apata mɛnɩ aha bétsia mʋ́ ayasɩ. Fówun owí mɔtɔ amʋ́.
@@ -29995,7 +30260,7 @@
 \ge pound
 \np LH
 \de pound in order to remove husks;
-\ths wɔ
+\cf wɔ
 \ps vt
 \np ɔtɛpɩm atɔ
 \xv Ndɛ ɩmɔ pɩm.
@@ -30024,9 +30289,9 @@
 \ps ADJ
 \xv Bʋtamapʋ atɔ pɩmpɩn wa ɔnɔ.
 \xe They never put hot things in the mouth.
-\ths words describing heat: blɩ (be hot, be cooked), blɩ_ogya (be hot to touch), hɔ_ɔsɩn (pepper hot), okunku (weather heat), pɩmpɩn (hot in temperature)
+\nt words describing heat: blɩ (be hot, be cooked), blɩ_ogya (be hot to touch), hɔ_ɔsɩn (pepper hot), okunku (weather heat), pɩmpɩn (hot in temperature)
 \rkey 0b207bde-171a-4980-89f4-f54ca00a1424
-\dt 23/Jul/2012
+\dt 06/Aug/2012
 
 \lx pɩn
 \ph pɪ̃ʔ
@@ -30072,7 +30337,7 @@
 \xe The boat broke and the people had to swim to get out of the water.
 \xv Kokoli pɩtɩ blɔdɩ amʋ ha mɩ.
 \xe Please cut up the bunch of plantain for me.
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \rf Stewart List:2056
 \rkey 7e3bbb66-dfbc-4bf5-9783-31ca04325aa7
 \dt 10/Jan/2012
@@ -30556,7 +30821,7 @@
 \xe My groundnuts have born fruit. I'm going to go harvest them.
 \xv Ɔdɔtɔpʋ ɔkʋ lapuli oyi mʋ́a mʋ́ nlin fɛ́ɛ́ mʋ ndɔtɔ, mɛnɩ ɩmɛɛtra pɔɩ tsufɛ oyi amʋ ma alɛ.
 \xe A certain farmer has uprooted a tree with all the roots so that it will not sprout again because the tree is not good.
-\ths words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn (cut a stalk or head of-plantain, palm nuts), puli (harvest from underground-peanuts), kwi (dig-cassava, yam)
+\nt From ths: words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn (cut a stalk or head of-plantain, palm nuts), puli (harvest from underground-peanuts), kwi (dig-cassava, yam)
 \rf Stewart List:2804
 \rkey 5a32d1c4-8c7f-4d4b-941a-5178f4009864
 \dt 16/Jul/2012
@@ -30642,7 +30907,7 @@
 \np LLL
 \ps n
 \np putu nɩ
-\ths see ɩpʋ
+\cf  ipu
 \xv Mbwɛ bʋtekle pututɔ tsia.
 \xe Animals like to live in the bush.
 \xv Ɔyasʋbi amʋ ɔyɔ pututɔ.
@@ -30668,7 +30933,7 @@
 \xv Mankani ánɩ́ igyi putuputu, fʋmɛɛtalɩ sire mʋ́ a, bʋtɛnɩna mʋ́ afwɩtɔ. Mʋ́ gyi akaʋ nɩ.
 \xe Cocoayam that is too small to peel, they boil it in its skin. This is akaʋ.
 \nq new entry-incomplete
-\ths words for small kusubi, putuputu, small in amount: kpalobi, tukuriibi, small in size
+\nt From ths: words for small kusubi, putuputu, small in amount: kpalobi, tukuriibi, small in size
 \rkey 5d96f506-229e-4802-9c0f-583bbbc18631
 \dt 10/Jan/2012
 
@@ -30749,7 +31014,7 @@
 \de and; used to join two dissimilar things
 \ps CNJ
 \nt used to join nouns; cf -a
-\ths -a (and)
+\cf -a "and"
 \xv Alapʋ nta pʋ́ ntsu ɔyaa ndɔ.
 \xe He has taken palm wine and water to the farm.
 \rf Stewart List:1846
@@ -30806,7 +31071,7 @@
 \xe When you are clearing in the farm and you cut yourself, there is a certain herb that they crush by rubbing and put it on the wound.
 \xv Pʋsa afa amʋ wa otubi amʋtɔ nun.
 \xe Crush the medicine into the spoon and drink it.
-\ths kpita
+\cf kpita
 \rkey c268a801-f87d-4f88-b282-f3544c9c652f
 \dt 05/Jul/2012
 
@@ -30947,7 +31212,7 @@
 \xe Ataa looked at her money, alas, it wasn't much.
 \xv Brɛa nɔyɔ a, saa mʋ ɛ ɔba, sʋ anɩ lefia aba ɔkpatɔ.
 \xe The time that I went, unexpectedly he also came so we met each other on the road.
-\ths words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
+\nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
 \rkey 5d2295f9-5ad0-43ee-87a1-b1dde75ddee8
 \dt 10/Jan/2012
 \dt
@@ -31080,8 +31345,8 @@
 \xe Untie the rope from the sheep's neck and let the sheep go.
 \xv Sankɩ ɔfɛ amʋ lɛ batɛ amʋ ayabi tsufɛ ɔda ɔfɛtɔ lawa ɔpá.
 \xe Untie the rope from the chicken's legs because it has been tied up for a long time.
-\ths words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
-\ths words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head)
+\nt From ths: words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
+\nt From ths: words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head)
 \rf Stewart List:2765
 \rf Stewart List:2840
 \rf Stewart List:2844
@@ -31097,8 +31362,8 @@
 \bw Ewe fi:sanu LH
 \xv Tsu sanu afʋkpʋkpʋ nfuo amʋtɔ asa afʋwuli mʋ́, tsufɛsɛ bʋmɔ kwɛ mʋ́ pɩn.
 \xe Bring a sieve so that you cam sieve the flour before you stir it into porridge because they didn't grind it smooth.
-\ths dʋɩ (sieving), kpʋkpʋ (sieve)
-\nq new entry
+\cf dʋɩɩ
+\cf kpʋkpʋ
 \rkey 3bfc13e3-ddd3-44f2-aa78-89cbd65dc4c6
 \dt 16/Jul/2012
 
@@ -31203,7 +31468,7 @@
 \ue South:sei
 \ph séi
 \cf sesei Eng:immediately
-\ths words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
+\nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
 \rkey 92767932-931a-45f6-91ea-d8e46d234d8e
@@ -31275,7 +31540,7 @@
 \ps v
 \xv Sɛsɛ labwɛ kebi amʋ nwuntɔ.
 \xe The child has ringworm on his head.
-\ths illnesses that make us (ya bwɛ): mfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
+\nt From ths: illnesses that make us (ya bwɛ): mfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
 \rkey 9d0a0dd5-9988-4ec6-aa53-8d1af9199ed3
 \dt 05/Jul/2005
 
@@ -31304,7 +31569,7 @@
 
 \lx si
 \ph sí
-\ge hit; stamp
+\ge stamp
 \np L
 \ps v
 \de hit/strike as to strike the chest in boasting
@@ -31312,7 +31577,7 @@
 \xe He tapped his chest. (A gesture or pride and boasting of strength)
 \xv Si ɔdatobi amʋ wa oyi amʋtɔ.
 \xe Hit the nail into the wood.
-\ths see da
+\cf  da
 \rkey 5d0a04bf-1248-4d44-a0c6-82da23e16848
 \dt 05/Jul/2012
 
@@ -31459,7 +31724,7 @@
 \xe This is money matter.
 \xv Alapsʋ mʋ sika amʋ lɔtswɩ sika ɔyaɩkpa Kpanto.
 \xe He has gone to save his money at the bank at Kpando.
-\ths words for money:kɔba (money), sika (money-twi), sika pɛpɛ(gold), sika fututuu(silver), tanibi (cowry), ibwi (stone-euphemism for money)
+\nt From ths: words for money:kɔba (money), sika (money-twi), sika pɛpɛ(gold), sika fututuu(silver), tanibi (cowry), ibwi (stone-euphemism for money)
 \rkey a859dc5d-e41e-48c5-8250-998cc0affd5f
 \dt 16/Jul/2012
 
@@ -31610,7 +31875,7 @@
 \xe Break off the tree branch for me.
 \xv Sɩɛtɩ blɔdɩ oblun ha mɩanpʋ fra agbodi amʋtɔ.
 \xe Break off green plantain for me to mix in with the cassava.
-\ths words that break: bwie ( break something ), bia ( break off , fracture ), gyɔɩ ( break off one piece at a time ), tʋn ( break a law, oath ), sɩɛtɩ ( break off )
+\nt From ths: words that break: bwie ( break something ), bia ( break off , fracture ), gyɔɩ ( break off one piece at a time ), tʋn ( break a law, oath ), sɩɛtɩ ( break off )
 \rkey 3d8719a3-078b-4526-8fa9-c3b589a47490
 \dt 18/Oct/2005
 
@@ -31633,15 +31898,15 @@
 \de cow boil
 \nt At the time when British pounds were used a sɩmpʋa was threepence. When these boils heal they leave small circular black scars and so take their name from the coin. They are differentiated from ordinary boils called kɛklɛ more by their outcome than by any physical characteristics. It is believed that if you inject someone who has a sɩmpʋa they will die. Recently a woman with severe hypertension developed a boil. As a logical extension of the above she went off her antihypertensives.
 \ps n
-\ths also called ɔnantswie sɩmpʋa
+\va ɔnantswie sɩmpʋa
 \xv Sɩmpʋa na ɔtsan ha kɛklɛ.
 \xe Sɩmpʋa walks differently than kɛklɛ.
 \xv Nɩ ɩda fʋ a, igyi fɛ kɛklɛ tamɛ ɩtɛha fʋ ɩwɩ tɛblɩ ogya.
 \xe If you get it it is like kɛklɛ but it makes your body hot.
 \nq does this mean only the spot where the boil is hot or are you hot all over?
-\xv Nɩ fo futi a, ɩbɛtalɩ mɔ fʋ.
+\xv Nɩ fofuti a, ɩbɛ́talɩ mɔ fʋ.
 \xe If you inject, it can kill you.
-\xv Nnantswɩɛ ɛ bʋ tɔ lɔ mʋ. Mʋ́ sʋ bʋ tɛ tɩ mʋ́ ɔnantswie sɩmpʋa nɩ.
+\xv Nnantswɩɛ ɛ bʋ tɔlɔ mʋ. Mʋ́ sʋ bʋtɛtɩ mʋ́ ɔnantswie sɩmpʋa nɩ.
 \xe Cows also get these boils. Because of this they call it cow boil.
 \rkey 2792edf0-c31c-49d1-a2b9-5d97bea8800a
 \dt 16/Jul/2012
@@ -31782,7 +32047,9 @@
 \np LH
 \de 1) carve wood 2) peel yam and cocoyam
 \ps vt
-\ths pie, maɩn, flɔɩ
+\cf pie
+\cf maɩn
+\cf flɔɩ
 \cf asrelɛ
 \xv Asɩsɩgua igyi obia ánɩ́ awie bʋ te kle mʋ́ sʋ tsia. Oyi bʋtɔpʋ sre mʋ́.
 \xe Asɩsɩgua is the stool that chiefs like to sit on. They carve them out of a tree (section of log)
@@ -31790,7 +32057,7 @@
 \xe God says we shouldn't worship things that they have used hand to carve.
 \xv Ma pʋ krantɩɛ sre blɩbɛ amʋ, mboun pʋ ɔdayi sre mʋ mɛnɩ ɩbɔ wa fʋ asrelɛ.
 \xe Don't take a krantɩɛ and peel the pineapple. Instead take a knife and peel it so that it will be easy for you to peel.
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \rf Stewart List:2823
 \rkey 5dc0ad3c-1fbb-4a5e-b2b5-5ff23bdbe9e6
 \dt 16/Jul/2012
@@ -31893,7 +32160,7 @@
 \nq Should this be translated People are crying alot at that funeral?
 \rf Tape:7-1-018
 \cf osupʋ/asupʋ Eng:mourner/mourners
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths: words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rf Stewart List:2044
 \rkey 47e0b636-65ea-4634-a9e2-bc5d6223a024
 \dt 05/Jul/2005
@@ -31924,7 +32191,7 @@
 \ge Swear
 \np Lʔ LL
 \de To swear
-\ths see ka ntam
+\cf ka ntam
 \ps v
 \xv Ahandɛn amʋ bɔ́wa awie amʋ tɔ ɔkʋlɛ ánɩ́ oyo suan suna owie pɔpwɛ amʋ.
 \xe The elders will send one of the chiefs to go and swear to the new chief.
@@ -32043,7 +32310,7 @@
 \rf Tape:6-2-518
 \xv Mlapʋ nwun sun aba.
 \nq refers to bringing heads close together in order to have a private conversation. Needs proper translation. Should ɩwun be nwun?
-\ths wuta
+\cf wuta
 \rf Stewart List:2659
 \rkey ed2e2716-30a2-41db-b084-a758f872fb85
 \dt 16/Jul/2012
@@ -32056,7 +32323,7 @@
 \ps v
 \cf osunapʋ/ asunapo Eng:teacher/teachers
 \cf atosunahɛ Eng:teachings
-\ths lɛ, ɔŋwa
+\cf lɛ ɔnwan
 \xv Alasuna mɩ nyansa. Nɛha mʋ sika. Ɩlɔfʋn mbrɛ a, ɔbɛ́ka kɔ a, ɔbɛɛ ɔma.
 \xe He has taught me sense. I gave him money. When it came time to pay it he said he didn't have it.
 \xv Atɔ-osuapʋ anfɩ yin atɔ suna wanklaan.
@@ -32082,7 +32349,7 @@
 \xv Bunti amʋ lasunki da oyin amʋsʋ alawu.
 \xe The wall has fallen on the man and he is dead.
 \rf Tape:7-1-115
-\ths words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpa wie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
+\nt From ths: words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpa wie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
 \rkey 2ab0c305-3f7e-41c0-a813-e75078f3b167
 \dt 12/Jan/2012
 
@@ -32104,7 +32371,7 @@
 \rf Tape:7-1-139
 \rf Stewart List:2079
 \rf Stewart List:2826
-\ths words used in measuring kapʋ(measure height/depth), susu(measure amount), kali (weigh)
+\nt From ths: words used in measuring kapʋ(measure height/depth), susu(measure amount), kali (weigh)
 \rkey e9f1dfde-659e-4ddd-890e-690c1668377f
 \dt 16/Jul/2012
 
@@ -32385,7 +32652,7 @@
 \xv Na swie blɔdɩ pʋ́ agbodi. Ne tsii mɩ atɔ bunhɛ amʋ ɛ swie.
 \xe I have set out plantain and cassava. I will uproot my covered things also and set them out.
 \rf Tape:7-1-262
-\ths words for planting: swie(set out/transplant-plantain, cassava, nursed plants), du(plant seeds-corn), da (set out-yam, cocoyam, peanuts)
+\nt From ths: words for planting: swie(set out/transplant-plantain, cassava, nursed plants), du(plant seeds-corn), da (set out-yam, cocoyam, peanuts)
 \rkey 0662f5d7-7e89-4173-a161-fff9b664e38b
 \dt 05/Jul/2012
 
@@ -32719,7 +32986,7 @@
 \xv Natapʋ mango amʋ kɩ bɛɛ lapɔn.
 \xe I have felt the mango to see if it has become soft.
 \rf Tape:7-1-371
-\ths see tsala
+\cf tsala
 \rkey 0ad41e94-5653-468a-b124-95201ef33321
 \dt 05/Jul/2012
 
@@ -32733,7 +33000,7 @@
 \xv Oyin ɔkʋ lobuo ɔtapʋ yɔ tapʋtɔ.
 \xe A certain man followed a hunter to where he was going to hunt.
 \xv Ɔtapʋ amʋ yɔ tapʋtɔ.
-\xe Thea hunter is going for hunt.
+\xe The hunter is going for hunt.
 \rf Tape:7-1-375
 \rf Stewart List:2682
 \rkey 164642a6-85e6-40ba-817e-fae26eb329de
@@ -32877,7 +33144,7 @@
 \xe The man's sole is wide.
 \rf Tape:4-2-553
 \rf Tape:3-2-388
-\ths words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
+\nt From ths: words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
 \xv ɔkpa tɛɩhɛ
 \xe wide road
 \rf Stewart List:1655
@@ -32957,7 +33224,7 @@
 \xv Sika amʋ́ʋ́ bɛɛ fatsu fɛɛ fʋmɔkʋ tsu amʋ da ɩnʋ tɛtrɛtɛɛ.
 \xe The money that they said you have taken, and you say you haven't taken is lying down there openly.
 \rf Tape:7-1-444
-\ths pentenpleen-wide, used of paths
+\cf pentenpleen "wide (path)"
 \rkey 3c812bf7-5576-4dba-95eb-72af1ced30df
 \dt 16/Jul/2012
 
@@ -33019,7 +33286,7 @@
 \xe He cut spider's belly open deeply (all the way into the stomach).
 \rf Tape:7-1-463
 \rf Tʋa Sʋa Trʋkpa Odu Lɔbwɛ Tin
-\ths words for meeting: tʋ ( meet unintentionally, catch up to ), tii ( meet unexpectedly, break through to), fia ( meet or assemble intentionally )
+\nt From ths: words for meeting: tʋ ( meet unintentionally, catch up to ), tii ( meet unexpectedly, break through to), fia ( meet or assemble intentionally )
 \xv Brɛa nɔyɔ a, saa ɔbʋ obuto ɔdɛ atɔ gyi. Neyetii mʋsʋ.
 \xe The time I went, unexpectedly he was in the room eating. I came on him.
 \rf Tape:7-1-466
@@ -33091,7 +33358,7 @@
 \xe He has taken snuff and is sneezing.
 \rf Tape:7-1-483
 \rf Stewart List:2052
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
+\nt From ths: words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rkey 92f5fd28-6fdc-486a-939e-bf44a2b656f8
 \dt 10/Mar/2012
 
@@ -33211,8 +33478,8 @@
 \xe If rain should threaten the vulture says, tomorrow he will build a house. But if the rain should stop he has forgotten.
 \rf Tape:7-1-543
 
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
-\ths words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
 \xv Ɔplɔɩ bʋtɔpʋ tɩn ɔnɔ wɩ nyambi.
 \xe They take rotten meat to stop protests, eat maggots.
 \xv Mmekle a nɔ́yɔ agyʋma amʋ. Ndekle a nɔ́yɔ ndɔtɔ sʋ napina pʋ sumbi amʋ tɩn ɔnɔ yɔ ndɔtɔ.
@@ -33247,8 +33514,8 @@
 \xe If rain should threaten the vulture says, tomorrow he will build a house. But if the rain should stop he has forgotten.
 \rf Tape:7-1-543
 
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
-\ths words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
 \xv Ɔplɔɩ bʋtɔpʋ tɩn ɔnɔ wɩ nyambi.
 \xe They take rotten meat to stop protests, eat maggots.
 \xv MMe kle a nɔ́yɔ agyʋma amʋ. Ndekle a nɔ́yɔ ndɔtɔ sʋ napina pʋ sumbi amʋ tɩn ɔnɔ yɔ ndɔtɔ.
@@ -33284,8 +33551,8 @@
 \xe If rain should threaten the vulture says, tomorrow he will build a house. But if the rain should stop he has forgotten.
 \rf Tape:7-1-543
 
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
-\ths words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words for harvesting: bia (break off-corn), kpɔtɩ (pluck-fruit, leaves), tɩn(cut a stalk or head of-plantain, palm nuts), kpli (harvest from underground-peanuts), kwi (dig-cassava, yam)
 \xv Ɔplɔɩ bʋtɔpʋ tɩn ɔnɔ wɩ nyambi.
 \xe They take rotten meat to stop protests, eat maggots.
 \xv MMe kle a nɔ́yɔ agyʋma amʋ. Ndekle a nɔ́yɔ ndɔtɔ sʋ napina pʋ sumbi amʋ tɩn ɔnɔ yɔ ndɔtɔ.
@@ -33348,7 +33615,7 @@
 \xe Pray that God should give us long life.
 \xv Ɔtsɩ amʋ bʋ swɩɩ dʋn mʋ kulu.
 \xe The woman is taller than the husband.
-\ths words for open: tintin (tall, long,) swɩɩ (long, tall)
+\nt From ths: words for open: tintin (tall, long,) swɩɩ (long, tall)
 \rf Tape:4-2-403
 \rf Stewart List:1659
 \rkey 5f8910e8-f375-4247-99ab-035c62130f08
@@ -33486,30 +33753,32 @@
 
 \lx tɔ
 \ph tɔ́ʔ
+\ps vt
 \sn 1
 \ge roast
-\sn 2
-\ge report
-\np Hʔ
-\de 1) cook over open fire; 2) euphemism for die 3) to inform on someone; to tattle on
-\nq does it also mean to burn
-\xv Fapʋ mɩ ya ɔtɔ.
-\xe You have informed on me.
-\ps vt
-\np ɔtɔtɔ atɔ
+\de cook over open fire
 \xv Ndɛ blɔdɩ-pɛpɛ tɔ sʋ damli mʋ́ ha mɩ.
 \xe I am roasting ripe plantain so turn it for me.
-\xv Mɩ ba agyuma ɔyɔpʋ amʋ latɔ mɩ ha anɩ ɔhandɛ.
-\xe My co-worker has reported me to our senior man.
-\rf Tape:7-1-585
 \xv Ɔdɛ bodobodo tɔ obun amʋtɔ.
 \xe He is baking bread in the oven.
 \rf Tape:7-1-588
 \rf Stewart List:2808
 \rf Stewart List:2869
-\ths words for cooking: nɩna (general, also boil), bɔa (fry, and dry fry), tɔ (roast over coals, bake) tɔ (reporting)
+\sn 2
+\ge report
+\np Hʔ
+\de inform on someone; to tattle on
+\xv Mɩ ba agyuma ɔyɔpʋ amʋ latɔ mɩ ha anɩ ɔhandɛ.
+\xe My co-worker has reported me to our senior man.
+\rf Tape:7-1-585
+\xv Fapʋ mɩ ya ɔtɔ.
+\xe You have informed on me.
+\sn 3
+\ge die
+\de to die (Euphemism)
+\nt From ths: words for cooking: nɩna (general, also boil), bɔa (fry, and dry fry), tɔ (roast over coals, bake)
 \rkey 75f58540-ecca-4f9c-9f66-3325839c02b2
-\dt 05/Jul/2012
+\dt 06/Aug/2012
 
 \lx tɔ
 \ph tɔ́
@@ -33588,8 +33857,10 @@
 \xv Tɔkʋ bʋ mɩ atadɩɛtɔ ɩdɛ mɩ dun.
 \xe Something is inside my uniform biting me.
 \rf Tape:7-1-003
-\ths toku kʋlɛ (one thing), atoku anyɔ (two things), atoku asa (three things) atoku ana (four things)
-\nq need further work on how to write this tɔkʋ, tokuds
+\cf toku kʋlɛ "one thing"
+\cf atoku anyɔ "two things"
+\cf atoku asa "three things"
+\cf atoku ana "four things"
 \rkey 13d908fe-ddbd-4e9c-8aca-5f15eb6bc6f2
 \dt 07/Dec/2009
 
@@ -33600,7 +33871,7 @@
 \de pepper; the small hot ones
 \ps n
 \np tɔnsɩ nɩ
-\ths words for pepper: mpulu (red pepper), tɔnsɩ (small hot), apʋsɛ (black)
+\nt From ths: words for pepper: mpulu (red pepper), tɔnsɩ (small hot), apʋsɛ (black)
 \xv Nɩ tɔnsɩ ma atogyihɛ tɔ a, ɩma agyilɛ.
 \xe If pepper is not in the food it is not easy to eat.
 \rf Tape:7-1-015
@@ -33642,7 +33913,6 @@
 \xv Mɩ kufa lawɩ ɩfá. Sa, tɔsɩ bʋ mʋ́ sʋ, sʋ odekle ánɩ́ obowu.
 \xe My sheep has eaten grass. Unexpectedly, caterpillar was on it, so it is dying.
 \rf Tape:7-2-042
-\ths caterpillars: atɔsɩ (stinging caterpillars), fonfulo (harmless ones that turn into butterflies)
 \rkey dbad4567-2489-4484-8dbf-6d5a0ae5e2eb
 \dt 03/Apr/2012
 
@@ -33653,7 +33923,9 @@
 \de pick up one by one
 \ps vt
 \np ɔtɔtɔsɩ atɔ
-\ths see kʋla, kpa, tsu
+\cf  kʋla
+\cf kpa
+\cf tsu
 \xv Ma kpa kpoli amʋ, mboun tɔsɩ mʋ́ mɛnɩ ɩsɩ moowie mʋ́tɔ.
 \xe Don't gather the corn, instead pick it up one by one so that sand won't  enter  it.
 \rf Tape:7-2-051
@@ -33666,7 +33938,8 @@
 \np LL
 \de nothing
 \ps n
-\ths kʋkʋ, hwɩɩ
+\cf kʋkʋ
+\cf hwɩɩ
 \xv Tɔkʋ bʋ ɔbɔ amʋtɔ? Oo! Tɔtɔ ma mʋ́tɔ.
 \xe Is there anything in the hole? No, nothing is in it.
 \rf Tape:7-2-066
@@ -33688,7 +33961,7 @@
 \xv Mlɩmaka Bulu, ɔsʋlʋ ntɛ tɔtɔɔtɔ ntam.
 \xe You should not swear by God, the earth, or anything at all.
 \rf Tape:7-1-092
-\ths from tɔtɔ
+\es redupilcation of tɔtɔ "nothing"
 \xv Oyin ɔkʋ ma tɔtɔ mʋ woyitɔ.
 \xe A certain man has in his house.
 \rkey 02f1e49d-d866-4182-b351-b600a3f97a0f
@@ -33898,7 +34171,7 @@
 \de feel by passing your hand over it
 \ps vt
 \np ɔtɛtsala atɔ
-\ths see tapʋ
+\cf  tapʋ
 \xv Pʋ ɩbɩ tsala andɔ amʋ ɩwɩ afʋkɩ alɩ ánɩ́ mʋ ɩwɩ bʋ ɔplɩ.
 \xe Take your hand and stroke the cat so that you can see how smooth its fur is.
 \rf Tape:7-2-187
@@ -34036,11 +34309,14 @@
 \xv Alayɔ ntsutso tse sa.
 \xe She has gone to the watering place three times.
 \rf Tape:7-2-395
-\ths ɔtsawʋlɛ (once), tsenyɔ (twice), tsesa (thrice), tsena (four times)
+\cf ɔtsawʋlɛ "once"
+\cf tsenyɔ "twice"
+\cf tsesa "three times"
+\cf tsena "four times"
 \xv Tse fɩnɩ fɔ́yɔ ntsu amʋtɔ? Ɔtsawʋlɛ pɛ.
 \xe How many times will you go for the water? Only once.
 \rf Tape:6-1-527
-\ths question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fɩnɩ (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
+\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fɩnɩ (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rf Stewart List:1524
 \rkey 2c4bcaf6-7e3c-44e4-86ef-d233da3fbada
 \dt 16/Jul/2012
@@ -34169,7 +34445,8 @@
 \de gossip about someone
 \ps vt
 \np otetsi aha
-\ths see kla, yiyi
+\cf kla
+\cf yiyi
 \xv Bʋtamalɩɩ isínsʋ tsi kpasi.
 \xe They never stand on an ant hill and gossip about kpasi.
 \nt Because he makes his burrows there and he will hear.
@@ -34299,7 +34576,7 @@
 \xv Bulu abɔpʋ du-anyɔ bʋ tsietsie mʋ́ ɔnɔ.
 \xe The twelve angels are sitting in charge of it.
 \rf Tape:7-2-392
-\ths tsia
+\cf tsia
 \xv Mɩan mɩ ka nyɔ anɩtsie woyi kʋlɛtɔ.
 \xe I am living with my in the same house.
 \nq needs translation. See comments under a-and
@@ -34372,7 +34649,7 @@
 \ph aʦingbini
 \np LLLL
 \nt It is known that this snake doesn't usually bite people. If it does it is taken as a sign that the person has defiled himself in some way.
-\ths see yinta for discussion on defilement
+\nt see yinta for discussion on defilement
 \ps n
 \np tsingbini nɩ
 \xv Tsingbini gyi ɩwɔ ánɩ́ ɔtamatsula dun aha.
@@ -34683,7 +34960,9 @@
 \xe Raise your voice.
 \nq does this mean "speak louder"
 \rf Tape:7-2-455
-\ths kpɔtɩ, tɔsɩ, kpa
+\cf kpɔtɩ
+\cf tɔsɩ
+\cf kpa
 \rf Stewart List:2670
 \rkey a5d9f5a7-f169-458a-ada2-1681f8febebc
 \dt 12/Oct/2006
@@ -34789,7 +35068,7 @@
 \np tsukʋlɛ_osinpʋ nɩ
 \xv Ɔlɔpʋ amʋ ɩlɔ amʋ laha mʋ alamli tsukʋlɛ_osinpʋ.
 \xe The sick person's illness has caused him to be a person who stays in one place.
-\ths from tsukʋlɛ_sin ( to stay in one place)
+\cf sin tsukʋlɛ "to stay in one place"
 \nq new entry
 \rkey 5e8641e5-16cb-459c-9fc9-6960e2eb489a
 \dt 10/Jan/2012
@@ -34987,7 +35266,7 @@
 \de 1) put it down; cf yaɩ which implies to put down with care. 2) give a small gift; c. f. kie The nominal form implies this sense 3) throw 4) chase a bird by throwing a stone at it. 5) spin (cotton) 6) to iron something
 \ps vt
 \np ɔtɔtswɩ atɔ
-\ths mfasʋɔ vs ɩtswɩ
+\cf mfasʋɔ
 \xv tswɩ kɩta
 \xe dive upon; pounce
 \rf Tape:7-2-546
@@ -35062,8 +35341,8 @@
 \xe He always drives them away.
 \rf Tape:7-2-574
 \rf Stewart List:2483
-\ths words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
-\ths words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head)
+\nt From ths: words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat).
+\nt From ths: words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu(pull off headscarf), bwii (take off hat, uncover head)
 \rkey 713d5ab5-8c44-4c5e-a395-ea522c1d832e
 \dt 17/Jul/2012
 
@@ -35118,7 +35397,7 @@
 \xv Mʋ nfɔ lasi tukuriibi.
 \xe He has only a little oil left
 \rf Tape:7-2-581
-\ths words for small: kusubi, putuputu, kɛtsɛkɛtsɛ; small in amount: kpalobi, tukuriibi
+\nt From ths: words for small: kusubi, putuputu, kɛtsɛkɛtsɛ; small in amount: kpalobi, tukuriibi
 \rf Stewart List:1512
 \rkey 9036aa02-1e6b-4c84-a786-0c86bd437b3b
 \dt 10/Jan/2012
@@ -35236,7 +35515,7 @@
 \de 1) meet unexpectedly 2) to catch someone up;
 \ps vt
 \np ɔtɔtʋ mʋ
-\ths words for meeting: tʋ ( meet unintentionally, catch up to ), tii ( meet unexpectedly, break through to), fia ( meet or assemble intentionally )
+\nt From ths: words for meeting: tʋ ( meet unintentionally, catch up to ), tii ( meet unexpectedly, break through to), fia ( meet or assemble intentionally )
 \xv Mɩan mɩ pio ayɔ oli Ntumda a, ɔlɛnatɩ si mɩ. Tamɛ, nɛsɩrɩ yɔtʋ mʋ Tɛpo. Anɩ fɛ́ɛ́ anɩlowie Ntumda kɛkɛ.
 \xe My brother/sister and I were going to a funeral in Ntumda. He left before I did, but I ran and caught up to him in Tɛpo. We got to Ntumda at the same time.
 \rf Tape:8-1-051
@@ -35263,7 +35542,7 @@
 \xe Me too, If trouble comes to you and l run away and leave you, l have broken my oath.
 \nq is this nɔ correct?
 \rf Tape:8-1-103
-\ths words that break: bwie(break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn(break a law, oath), sɩɛtɩ ( break off)
+\nt From ths: words that break: bwie(break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn(break a law, oath), sɩɛtɩ ( break off)
 \rkey 2e43318e-71e5-4232-8ba2-20b2c77a5a21
 \dt 10/Jan/2012
 
@@ -35323,8 +35602,8 @@
 \xv Ɔlɔwa atadɩɛ.
 \xe He put on his shirt.
 \rf Stewart List:2795
-\ths words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat), tin (block with-glasses)
-\ths words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head),
+\nt words for dressing: wa (put on underware, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie on-waist beads, belt, head scarf) bun (cover head with hat), tin (block with-glasses)
+\nt words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head),
 \rf Tape:8-2-110
 \xv Ɔlɔwa gyi bɩ.
 \xe He continued eating.
@@ -35369,7 +35648,7 @@
 \xe I built a fence around my farm.
 \rf Tape:8-1-169
 \rkey dd99b432-3e27-4215-b076-f2f3cb559acc
-\dt 16/Jul/2012
+\dt 06/Aug/2012
 
 \lx wa__bɩ
 \ph wá__bɪ
@@ -35458,7 +35737,7 @@
 \rf Stewart List:1696
 \rf Stewart List:2347
 \nq WP Is there someway to tag verbs of becoming under /ps. Do you know the proper term for them. Ditto. Is there a a way of tagging continuous verbs like perch and sit? I suspect that tse is a verb that is dying out in common usage.
-\ths ɩwankɩ
+\cf ɩwankɩ
 \rkey 33649f6f-16c9-4720-af78-43c1f8478f52
 \dt 16/Jul/2012
 
@@ -35571,7 +35850,7 @@
 \xv Alawata lɛ ɔwɛ.
 \xe He has coughed up phlegm.
 \rf Tape:8-1-238
-\ths words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough).
+\nt From ths: words that describe non-verbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ-hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough-n), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough).
 \rf Stewart List:1411
 \rf Stewart List:2041
 \rkey 9600c17c-d4c5-4066-b1fe-14077cbc4c87
@@ -35652,7 +35931,7 @@
 \xv Bowie obutɔ anyɔ a, bʋdalɩ asa.
 \xe They should enter the room two and come out three.
 \rf Tape:8-1-282
-\ths fʋn
+\cf fʋn
 \rf Stewart List:2458
 \rf Stewart List:2466
 \rkey 9c793ca7-b16c-4280-806a-db83f55fca49
@@ -35753,7 +36032,7 @@
 \rf Tape:1-2-399
 \xv Ayinti bʋ mɩ ndɔtɔ dʋbɩ sʋ yinti lawɔ mɩ ayabitɔ.
 \xe There are many stumps in my farm so a stump has pierced the bottom of my foot.
-\ths words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
+\nt From ths: words that cut: ka (general term), kaka (chop), kun(gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \rf Tape:8-2-015
 \xv wɔ fufu
 \xe pound fufu
@@ -35789,7 +36068,7 @@
 \de loosen a rope that has been tied around something
 \ps v
 \np ɩtɔwɔɩ
-\ths pɔn
+\cf pɔn
 \xv Alawɔɩ ɔfɛ amʋtɔ kufa amʋ ladalɩ.
 \xe He has loosened the rope and the sheep has gotten out.
 \rf Tape:8-1-328
@@ -36043,7 +36322,7 @@
 \ge push
 \np HH
 \de push
-\ths "sun" for inanimate objects
+\cf  sun for inanimate objects
 \ps vt
 \np otowuta aha
 \xv Ɔlɩɩ ɔkpatɔ sʋ awɔlɩnpʋ akʋ bowuta mʋ da.
@@ -36077,7 +36356,7 @@
 \ge one
 \np LL
 \de 1) one 2) only
-\ths see ɔtsawʋlɛ
+\cf ɔtsawʋlɛ
 \ps NUM
 \xv Atsuli amʋ wʋlɛ bʋ bɛnsɩ amʋtɔ.
 \xe There are only mushrooms in the basin.
@@ -36225,7 +36504,8 @@
 \xv Ɩla wʋsʋ amʋ́ klʋn
 \xe It shook their hearts; it upset them
 \rf Tape:8-1-438
-\ths kpʋkpʋ, kpɩnkɩ
+\cf kpʋkpʋ
+\cf kpɩnkɩ
 \rkey 4789a6e8-69c3-4acf-98c0-66a4a263dce0
 \dt 10/Jan/2012
 
@@ -36259,7 +36539,10 @@
 \xv Napʋ nyebi amʋ ya sukuutɔ.
 \xe I took the children to school.
 \rf Tape:8-1-449
-\ths sɩsɩ, kla, wa, kpa
+\cf sɩsɩ
+\cf kla
+\cf wa
+\cf kpa
 \rf Stewart List:2675
 \rkey ccf36796-0c47-40bd-aa85-d735b9859a19
 \dt 05/Jul/2012
@@ -36289,7 +36572,7 @@
 \xv Ndekle ánɩ́ fʋyaa asʋn.
 \xe I want you to listen.
 \rf Tape:8-1-440
-\ths words for open: bwii (open/uncover eyes), finki (open door, room), yaa(open mouth, ears), tɛɩ (open hand)
+\nt From ths:  words for open: bwii (open/uncover eyes), finki (open door, room), yaa(open mouth, ears), tɛɩ (open hand)
 \rf Stewart List:2105
 \rf Stewart List:3304
 \rkey 57a203a7-00e2-470b-b299-3e0899781d67
@@ -36417,7 +36700,8 @@
 \pl ayebi
 \ph ayébi
 \np LLHʔ
-\ths ɩbɛ; used in Northern Nkonya (ɩbɛ is borrwed from twi)
+\ue Northern ɩbɛ
+\nt ɩbɛ is borrwed from Twi
 \nq who uses which form here?
 \ps n
 \np yebi nɩ
@@ -36515,7 +36799,7 @@
 \xv Bʋdɛ obu yi. Bʋdɛ ɔka yi.
 \xe They are building a house. They are setting a boundary.
 \rf Tape:8-1-536
-\ths ɩba, tick
+\nt From ths:  ɩba, tick
 \xv Aba bayi kɩaɩ amʋ ɩwɩ fɛ́ɛ́.
 \xe Ticks have stick all over the body of the dog.
 \rf Stewart List:2819
@@ -36616,9 +36900,9 @@
 \xv Yile, yile ɩbwɛ anɩ klɛ.
 \xe Only good should be ours.
 \rf Tape:8-1-581
-\ths contrast with alɛ
-\ths used with oyi, aye, ɩpʋ
-\ths words for big: yile, kpɔnkpɔntɩ, moni (vi), tsɔtsɔɔtsɔ-large in quantity
+\cf alɛ
+\nt From ths:  used with oyi, aye, ɩpʋ
+\nt From ths:  words for big: yile, kpɔnkpɔntɩ, moni (vi), tsɔtsɔɔtsɔ-large in quantity
 \rkey 8ab367d6-650a-4926-96f4-407518da42e7
 \dt 10/Jan/2012
 
@@ -36748,7 +37032,8 @@
 \xv Igye beyiyi aba.
 \xe Yesterday they gossiped each other.
 \rf Tape:8-1-575
-\ths kla, tsi
+\cf kla
+\cf tsii
 \rkey 46cba761-4297-4ceb-b47d-821a096bfdd2
 \dt 05/Jul/2005
 

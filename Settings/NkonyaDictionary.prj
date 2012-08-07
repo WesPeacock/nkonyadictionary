@@ -41,14 +41,14 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain normal -1 -1 -1 -1 50 39 1440 851
+\placementMain normal -1 -1 -1 -1 4 3 1403 875
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
 \+wndlst 
 \+wnd 
 \placement min 480 669 -1 -1 0 0 1186 446
-\z 1
+\z 3
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 150
@@ -76,11 +76,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey Amen
+\fldPriKey Asa
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ka
+\fldPri agyʋma
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -97,8 +97,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Parsing Dictionary.txt
 \+wndlst 
 \+wnd 
-\placement normal 320 669 -8 -28 30 30 1216 476
-\z 3
+\placement min 320 669 -8 -28 30 30 1216 476
+\z 4
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -122,11 +122,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey Katsʋn
+\fldPriKey bʋ-
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ka
+\fldPri agyʋma
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -136,7 +136,7 @@
 \-keyInsert
 \CaretLine 0
 \CaretLineScroll 0
-\CaretChar 7
+\CaretChar 0
 \-wnd
 \-wndlst
 \-db
@@ -144,11 +144,12 @@
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \+wndlst 
 \+wnd 
-\placement normal 960 669 -8 -28 484 26 1294 685
-\z 5
+\placement normal 960 669 -8 -28 161 64 1155 722
+\z 6
 \ViewMarkers
+\ViewMarkerHierarchy
 \ViewFieldNames
-\widthMarkerArea 150
+\widthMarkerArea 165
 \JumpTarget
 \FocusTarget
 \+brflst 
@@ -156,11 +157,19 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr lx
-\width 166
+\width 186
 \-brf
 \+brf 
 \mkr ps
-\width 611
+\width 186
+\-brf
+\+brf 
+\mkr bw
+\width 186
+\-brf
+\+brf 
+\mkr ge
+\width 389
 \-brf
 \-brflst
 \+ind 
@@ -169,30 +178,29 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey wie
+\fldPriKey kplokplobi
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ka
+\fldPri __master key
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri hɔ gyi
+\fldPri odondo
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 8
+\CaretLineScroll 8
+\CaretChar 12
 \-wnd
 \+wnd 
-\placement normal 800 669 -8 -28 817 -6 1360 657
-\z 2
+\placement normal -1 -1 -1 -1 74 159 1223 683
+\z 7
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 150
 \JumpTarget
-\FocusTarget
 \+brflst 
 \FieldEmptyEntry *empty*
 \NoFieldEntry *no field*
@@ -206,29 +214,71 @@
 \-brf
 \+brf 
 \mkr ge
-\width 179
+\width 785
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
-\mkrSecKey hm
+\fil MarkerPresent
 \-ind
 \+rec 
-\fldPriKey ka
-\fldSecKey
+\fldPriKey agyʋma
 \-rec
 \+keySearch 
-\fldPri GEN.9:13
+\fldPri ɩkwɛ
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri hɩɛ nsʋ
+\fldPri da wa
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 4
-\CaretLineScroll 4
+\CaretLine 15
+\CaretLineScroll 15
+\CaretChar 19
+\-wnd
+\+wnd 
+\placement normal -1 -1 -1 -1 9 202 1158 726
+\z 5
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 150
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 162
+\-brf
+\+brf 
+\mkr ps
+\width 162
+\-brf
+\+brf 
+\mkr ge
+\width 785
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\-ind
+\+rec 
+\fldPriKey atsulii
+\-rec
+\+keySearch 
+\fldPri ɩkwɛ
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri da wa
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
 \CaretChar 0
 \-wnd
 \-wndlst
@@ -238,7 +288,7 @@
 \+wndlst 
 \+wnd 
 \placement min 160 669 -1 -1 120 120 1306 566
-\z 0
+\z 2
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -261,11 +311,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey ɔnɔ́klɩ́
+\fldPriKey afɔdɩɛ~asubwisʋ
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ka
+\fldPri agyʋma
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -283,8 +333,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Texts.txt
 \+wndlst 
 \+wnd 
-\placement normal -1 -1 -1 -1 161 161 1301 625
-\z 4
+\placement min 160 773 -1 -1 161 161 1301 625
+\z 0
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -305,48 +355,76 @@
 \fldPriKey 2
 \-rec
 \+keySearch 
+\fldPri MRK.15:25
 \match_char p
 \-keySearch
 \+keyInsert 
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 2
-\CaretLineScroll 2
-\CaretChar 40
+\CaretLine 10
+\CaretLineScroll 10
+\CaretChar 13
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\MDFields19a.txt
+\+wndlst 
+\+wnd 
+\placement min 0 773 -1 -1 163 87 1346 632
+\z 1
+\ViewMarkers
+\widthMarkerArea 102
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr key
+\width 279
+\-brf
+\+brf 
+\mkr lx
+\width 279
+\-brf
+\+brf 
+\mkr ps
+\width 279
+\-brf
+\+brf 
+\mkr ge
+\width 299
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey key
+\srtPriKey Default
+\-ind
+\+rec 
+\fldPriKey th
+\-rec
+\+keySearch 
+\fldPri MRK.15:25
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \-wnd
 \-wndlst
 \-db
 
 \-dblst
 \+Find 
-\Field lx
+\Field rkey
 \match_char e
 \+ftxlst 
-\+ftx 
-\text ɔsrɩ
-\lng vernacular
-\-ftx
-\+ftx 
-\text abɩn
-\lng vernacular
-\-ftx
-\+ftx 
-\text Ɔha-gyi-ɔha
-\lng vernacular
-\-ftx
-\+ftx 
-\text ha-gyi-ɔha
-\lng vernacular
-\-ftx
-\+ftx 
-\text á
-\lng vernacular
-\-ftx
-\+ftx 
-\text é
-\lng vernacular
-\-ftx
 \+ftx 
 \text ɛ́
 \lng vernacular
@@ -398,6 +476,34 @@
 \+ftx 
 \text aklanbi
 \lng vernacular
+\-ftx
+\+ftx 
+\text French
+\lng vernacular
+\-ftx
+\+ftx 
+\text counting
+\lng English
+\-ftx
+\+ftx 
+\text number
+\lng vernacular
+\-ftx
+\+ftx 
+\text ndadʋwa
+\lng vernacular
+\-ftx
+\+ftx 
+\text drum
+\lng vernacular
+\-ftx
+\+ftx 
+\text cocoyam
+\lng vernacular
+\-ftx
+\+ftx 
+\text sweet
+\lng English
 \-ftx
 \-ftxlst
 \Replace fʋtama

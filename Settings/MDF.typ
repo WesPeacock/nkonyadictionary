@@ -134,30 +134,12 @@
 \CharStyle
 \-mkr
 
-\+mkr awl
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr b%
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr bb
 \nam Bibliography
 \desc Used to record any bibliographic information pertinent to the lexeme. MDF adds the label 'Read:' to this field. For basic information (to reference an entry in a more complete bibliography database) include the following: AuthorLastName, FirstName/Initials date:pp. For a more complete reference include: AuthorLastName, FirstName/Initials. date. Title. City, Publisher. pp. xxx-yyy.
 \lng English
 \mkrOverThis sn
 \CharStyle
-\-mkr
-
-\+mkr bt
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr bw
@@ -344,24 +326,12 @@
 \CharStyle
 \-mkr
 
-\+mkr idf
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr is
 \nam Index of semantics
 \desc Used to catalog lexical entries according to an etic (published) list of possible semantic domains. Sorting on this field would then gather semantically related entries. Use a Range Set.
 \lng English
 \mkrOverThis sn
 \CharStyle
-\-mkr
-
-\+mkr kinds
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr lc
@@ -383,7 +353,7 @@
 \+mkr lf
 \nam Lexical function label
 \desc Used to encode the semantic networks of a language. For consistency, a Range Set should be maintained on the lexical function labels used. When formatted by MDF, these labels can be modified (and even translated) by MDF's Audience CC tables.
-\lng English
+\lng vernacular
 \+fnt 
 \Name Times New Roman
 \Size 11
@@ -598,12 +568,6 @@
 \CharStyle
 \-mkr
 
-\+mkr pf
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr ph
 \nam Phonetic form
 \desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
@@ -618,12 +582,6 @@
 \lng vernacular
 \mkrOverThis ps
 \CharStyle
-\-mkr
-
-\+mkr plph
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr pn
@@ -951,14 +909,8 @@
 \-fil
 
 \+fil MarkerPresent
-\mkr awl
+\mkr rph
 \txt [@]
-\match_char c
-\-fil
-
-\+fil awl
-\mkr awl
-\txt [D]
 \match_char c
 \-fil
 
@@ -973,9 +925,6 @@
 
 \+jmpset 
 \+jmp full dictionary lookup
-\+mkrsubsetIncluded 
-\mkr lx
-\-mkrsubsetIncluded
 \+drflst 
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
@@ -989,7 +938,12 @@
 \File C:\My Toolbox Projects\Nkonya\Scripture Names.txt
 \mkr lx
 \-drf
+\+drf 
+\File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
+\mkr pl
+\-drf
 \-drflst
+\match_char p
 \-jmp
 \-jmpset
 
