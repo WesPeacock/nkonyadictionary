@@ -630,12 +630,6 @@
 \CharStyle
 \-mkr
 
-\+mkr rkey
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr rn
 \nam Reversal (n)
 \desc National language word(s)/phrase(s); used to reverse the dictionary for a national audience index. If no \rn field is given, the \gn field is used. If an \rn * is present, the relevant entry, subentry, or sense will not be included in the reversed index. Put {space semicolon space} between multiple items, e.g. hut ; house.

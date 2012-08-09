@@ -41,7 +41,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain normal -32000 -32000 -1 -1 1455 -5 2854 867
+\placementMain normal -1 -1 -1 -1 1455 -5 2854 867
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
@@ -80,7 +80,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɩtonya
+\fldPri __master key
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -126,7 +126,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɩtonya
+\fldPri __master key
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -219,10 +219,9 @@
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
-\fil MarkerPresent
 \-ind
 \+rec 
-\fldPriKey bɩtɩ
+\fldPriKey __master key
 \-rec
 \+keySearch 
 \fldPri JHN.12:29
@@ -233,9 +232,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 15
-\CaretLineScroll 6
-\CaretChar 15
+\CaretLine 37
+\CaretLineScroll 16
+\CaretChar 20
 \-wnd
 \+wnd 
 \placement normal 800 729 -1 -1 204 76 1353 575
@@ -257,7 +256,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 768
+\width 785
 \-brf
 \-brflst
 \+ind 
@@ -276,8 +275,8 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 18
-\CaretLineScroll 18
+\CaretLine 17
+\CaretLineScroll 17
 \CaretChar 11
 \-wnd
 \+wnd 
@@ -365,7 +364,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɩtonya
+\fldPri __master key
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -476,10 +475,6 @@
 \match_char e
 \+ftxlst 
 \+ftx 
-\text ó
-\lng vernacular
-\-ftx
-\+ftx 
 \text ɔ́
 \lng vernacular
 \-ftx
@@ -553,6 +548,10 @@
 \-ftx
 \+ftx 
 \text amʋ tɔ
+\lng vernacular
+\-ftx
+\+ftx 
+\text \rkey
 \lng vernacular
 \-ftx
 \-ftxlst
