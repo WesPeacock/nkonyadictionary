@@ -644,18 +644,6 @@
 \CharStyle
 \-mkr
 
-\+mkr rph
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr rpht
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr rr
 \nam Reversal (r)
 \desc Regional language word or phrase that could be used to reverse the dictionary for a regional audience. Currently MDF does not support exporting a regional audience index.
@@ -754,12 +742,6 @@
 \lng vernacular
 \mkrOverThis sn
 \CharStyle
-\-mkr
-
-\+mkr ths
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr u
@@ -909,8 +891,9 @@
 \-fil
 
 \+fil MarkerPresent
-\mkr rph
-\txt [@]
+\mkr sy
+\fel Or
+\mkr an
 \match_char c
 \-fil
 
