@@ -891,9 +891,20 @@
 \match_char c
 \-fil
 
-\+fil temp
+\+fil checkps
 \mkr ps
-\txt v
+\txt loc
+\match_char c
+\-fil
+
+\+fil nonuniq
+\fel NonUnique
+\match_char c
+\-fil
+
+\+fil temp
+\mkr ge
+\txt [@]?
 \MatchWhole
 \match_char c
 \-fil

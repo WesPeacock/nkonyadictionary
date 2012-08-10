@@ -57,13 +57,13 @@
 
 \lx a-
 \ph a-
-\ps nc
+\ps CLASS
 \ge PL
 \de plural prefix for noun class 1 (0-/a-); 2 (ɩ-/a-)
 \xv Kufa ɔkʋlɛ, akufa anyɔ
 \xe one sheep, two sheep.
 \rf Tape:1-1-018
-\dt 11/Oct/2005
+\dt 09/Aug/2012
 
 \lx a-
 \ph a-
@@ -128,12 +128,27 @@
 
 \lx -a
 \ph -a
-\ps TRNSizer
+\ps TR
 \ge TRANSITIVE
 \de makes an intransive verb transitive
-\dt 17/Nov/2009
+\dt 09/Aug/2012
 
 \lx aba
+\hm 2
+\ph aba
+\ps n
+\ge people
+\np LL
+\np LL-H
+\de people
+\nt from aba anyɔ
+\np aba nɩ
+\nt abanyɔ (two people) abasa (three people), abana (four people), abanu (five people), abasie (six people)
+\cf tɔkʋ for in-animate objects
+\dt 09/Aug/2012
+
+\lx aba
+\hm 2
 \ph aba
 \ps n
 \ge each_other
@@ -145,20 +160,7 @@
 \xv Anɩ atati bɛ́da aba.
 \xe Our cloths will touch each other. Meaning: We will meet later
 \nt Idiom
-\dt 16/Jul/2012
-
-\lx aba
-\ph aba
-\ps n
-\ge people
-\np LL
-\np LL-H
-\de people
-\nt from aba anyɔ
-\np aba nɩ
-\nt abanyɔ (two people) abasa (three people), abana (four people), abanu (five people), abasie (six people)
-\cf tɔkʋ for in-animate objects
-\dt 17/Nov/2009
+\dt 09/Aug/2012
 
 \lx Aban
 \ph abã
@@ -284,17 +286,15 @@
 \dt 16/Jul/2012
 
 \lx abialɛ
-\ph abialɛ́
+\ph abialɛ́(H)
 \ps ADJ
 \ge breakable
-\np LLH (H)
-\np L-LL-H#H
 \de easy to break
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that is not flexible is easy to break.
 \xe A rigid or brittle stick is easy to break.
 \rf Tape:1-1-083
-\dt 02/Apr/2012
+\dt 09/Aug/2012
 
 \lx abi-atsulii
 \ps n
@@ -303,7 +303,8 @@
 \xv Abi-atsuli tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
 \rf Tape:1-2-210
-\th atsulii\dt 07/Aug/2012
+\th atsulii
+\dt 09/Aug/2012
 
 \lx abielɛ
 \ph abíelɛ
@@ -804,7 +805,8 @@
 \xv Afio, mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋswɩ. Ɩtɔwa ɔdwɛ oputsutɔ. Bʋtɛkaka mʋ́ wa oputsutɔ. Ɩtɔkwɛ sinsʋ.
 \xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in an termite mound.
 \rf Tape:1-2-150
-\th atsulii\dt 07/Aug/2012
+\th atsulii
+\dt 09/Aug/2012
 
 \lx afɩnɩ
 \ph afɪnɪ
@@ -854,13 +856,13 @@
 \xe God offered his son Jesus as a sacrifice for us.
 \dt 16/Jul/2012
 
-\lx Africa
+\lx Afrika
 \ph Africa
-\ps loc
+\ps n
 \ge Africa
 \np LHL (L)
 \de continent of Africa
-\dt 05/Jul/2005
+\dt 09/Aug/2012
 
 \lx afrimu
 \ph afrímú
@@ -1099,9 +1101,10 @@
 
 \lx agya
 \ph aʤa
-\ps exclam
+\ps INTJ
 \ge my_friend
-\dt 17/Nov/2009
+\de My friend!
+\dt 09/Aug/2012
 
 \lx agya fwɩ
 \ph aʤa fwɪ
@@ -1890,11 +1893,9 @@
 \dt 02/Aug/2012
 
 \lx alɩa
-\ph alɪá
+\ph alɪá(L)
 \ps ADV
 \ge as
-\np LLH (L)
-\np L-LH#L
 \de How it is; contraction of alɩ ánɩ́
 \nt should be a sub-entry under alɩ
 \xv Alɩa ɩlɔbwɛ asa ɔyɩ lɛba a, Bulu pɛ yin.
@@ -2055,13 +2056,14 @@
 \nt can be lengthened amʋʋ for emphasis
 \xv Mɩ atadɩɛ amʋ́ʋ́ nɔwa igye amʋ lakpɔɩ.
 \xe My cloth which I wore yesterday that has become dirty.
-\dt 14/May/2012
+\dt 09/Aug/2012
 \xv Oyin amʋ́ʋ́ ɔlɛba nfɩ amʋ lolwii.
 \xe The man that came here he is a quiet man
 \rf Tape:1-1-434
 \xv Ayin amʋ́ʋ́ bɛba nfɩ amʋ bolwii.
 \xe The men that came here are good men.
-\rf Tape:1-1-437\dt 05/Jul/2005
+\rf Tape:1-1-437
+\dt 05/Jul/2005
 
 \lx ana
 \ph ana
@@ -2223,15 +2225,15 @@
 \np LHH (H)
 \de real, reflexive
 \nt also ankasankasa
-\bw Akan fi:ankasa LHH
-\cf onuto
+\bw Akan fi:ankásá
+\sy onuto
 \xv Mɩ yin ankasa mʋ bi.
 \xe my true mother's child (brother/sister by Obroni reckoning)
 \xv Nɛbla fʋ asʋn amʋ ankasa.
 \xe I will tell you the real matter.
 \xv Nɛbla fʋ asʋn amʋ onuto.
 \xe I will tell you the real matter.
-\dt 23/Jul/2012
+\dt 09/Aug/2012
 
 \lx anlɛn
 \ph anlɛ̃́
@@ -2245,10 +2247,11 @@
 \xe Not beauty, but doings. (Handsome is as handsome does. )
 \nt Proverb
 \rf Tape:1-1-385
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 \xv Akoo otedu bʋ anlɛn.
 \xe Parrot's tail is beautiful.
-\rf Stewart List:1675\dt 08/May/1995
+\rf Stewart List:1675
+\dt 08/May/1995
 
 \lx ansibi
 \ph ansibi
@@ -2512,7 +2515,7 @@
 
 \lx apondo
 \ph apondó
-\ps ADJ
+\ps n
 \ge old_fufu
 \np LLH (H)
 \np L-L-H#H
@@ -2522,7 +2525,7 @@
 \xe Apondo is yesterday's fufu. Many people like it because it is good with palm nut soup.
 \rf Tape:1-1-537
 \nq is it a noun or an adjective. Can one say fufu apondo
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx apopobibre
 \ph apopobíbre
@@ -2812,10 +2815,10 @@
 
 \lx asɩfi
 \ph asɪfí
-\ps ADJ
+\ps n
 \ge beginning
-\de
-\dt 10/Jan/2012
+\de beginning
+\dt 09/Aug/2012
 
 \lx asɩlɛ
 \ph asɪlɛ
@@ -3267,8 +3270,8 @@
 \lx atsantsankʋ
 \ph aʦanʦaŋkʊ
 \ps n
-\ge locust\dt
-
+\ge locust
+\dt 09/Aug/2012
 
 \lx atse
 \ph aʦé
@@ -3333,7 +3336,8 @@
 \xe Black mushrooms grow in rotting trees, They are black. You can grind them and put them in soup. Their soup is sweet.
 \nt roots not in the tree but around it. -FO
 \rf Tape:1-2-186
-\th atsulii\dt 07/Aug/2012
+\th atsulii
+\dt 09/Aug/2012
 
 \lx atsulii
 \ph aʦulîː
@@ -3463,10 +3467,10 @@
 
 \lx atuu
 \ph atûː
-\ps ADV
-\ge warmly
+\ps INTJ
+\ge Welcome
 \np LHL
-\de to embrace warmly, to receive with joy
+\de Welcome; warm greeting
 \xv Brɛa anɩlowie wulu amʋtɔ a, wulu amʋtɔ aha bʋmeyin anɩ tamɛ bɔhɔ anɩ atuu.
 \xe When we got to the town, the people in the town didn't know us but the received us well.
 \dt 03/Apr/2012
@@ -3487,10 +3491,10 @@
 
 \lx awɛ
 \ph awɛ
-\ps ADJ
+\ps n
 \ge name_sake
 \de
-\dt 20/Sep/2005
+\dt 09/Aug/2012
 
 \lx awiaburo
 \ph awiabúro
@@ -3573,14 +3577,12 @@
 
 \lx awunsʋ
 \ph awunsʊ
-\ps ADJ
+\ps n
 \ge top
-\np LLL
-\np LLL#L
 \de something on another thing
-\xv Dɩnkɩ atɔ amʋ ɩdɩn obu amʋsʋ ha mɩ
+\xv Dɩnkɩ atɔ amʋ ɩdɩn obu awunsʋ amʋsʋ ha mɩ
 \xe Remove the thing on top of the house for me.
-\dt 05/Jul/2005
+\dt 09/Aug/2012
 
 \lx awútɔ-nfɔ
 \ph awútɔ-ɱfɔ
@@ -3617,7 +3619,7 @@
 
 \lx ayasɩ
 \ph ayasɪ
-\ps prep
+\ps LOC
 \ge under
 \np LLL
 \de under
@@ -3628,7 +3630,7 @@
 \xe You stop stirring up the water because people are fetching water downstream.
 \rf Tape:8-1-351
 \rf Stewart List:0955
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx ayɛ
 \ph ayɛʔ(H)
@@ -3819,19 +3821,9 @@
 \rf Stewart List:2117
 \dt 03/Apr/2012
 
-\lx bakafia
-\ph bakáfia
-\ps ADJ
-\ge surround
-\np LHL
-\de to be everywhere around something
-\xv Ɩsa-akɔpʋ amʋ bakafia wulu amʋ
-\xe The soldiers have surrounded the town.
-\dt 10/Jan/2012
-
 \lx bakɛ
 \ph bakɛ
-\ps temp
+\ps TIME
 \ge predawn
 \np LL
 \de early morning hours before sunrise
@@ -4306,7 +4298,8 @@
 \de perform a ritual for purification
 \lt bathe soul
 \cf bie
-\cf ɔkla\dt 07/Aug/2012
+\cf ɔkla
+\dt 09/Aug/2012
 
 \lx bila
 \ph bila
@@ -4361,7 +4354,7 @@
 
 \lx bɩ
 \ph bɪ
-\ps ADV
+\ps TIME
 \ge a_little; start; time
 \np L
 \de adverb meaning "a little while" co-occurs with wa
@@ -4371,7 +4364,7 @@
 \xe Pause for the meantime and wait a little.
 \xv Kʋwa bwɛ bɩ.
 \xe Continue doing what you are doing for the meantime.
-\dt 24/Oct/2005
+\dt 09/Aug/2012
 
 \lx bɩ
 \ph bɪ́
@@ -4394,7 +4387,7 @@
 
 \lx bɩ
 \ph bɪ́
-\ps n
+\ps NOMR
 \va -bɩ
 \ge time
 \de time of occurance
@@ -4515,7 +4508,8 @@
 \ps v
 \ge drag
 \de to pull on and move
-\dt 06/Aug/2012
+
+\dt 06/Aug/2012
 
 \lx bɩtɩa
 \ph bɪtɪ́a
@@ -4531,7 +4525,8 @@
 \xv Anɩlabɩtɩa Plankɩ ba wulutɔ. Anɩdɛ mʋ́ sa.
 \xe We have brought Plankɩ to the town and we are fetching it.
 \rf Stewart List:2660
-\dt 05/Jul/2012
+
+\dt 05/Jul/2012
 
 \lx bla
 \ph bla
@@ -4743,10 +4738,10 @@
 
 \lx bobun
 \ph bobũ
-\ps ADJ
+\ps n
 \ge deposit
 \de
-\dt 14/Feb/2008
+\dt 09/Aug/2012
 
 \lx bodobodo
 \ph bodobodo
@@ -4957,7 +4952,7 @@
 
 \lx bregyibrɛ
 \ph bréʤíbrɛ́
-\ps TEMP
+\ps TIME
 \ge always
 \np HHH
 \de always; all the time
@@ -4995,9 +4990,9 @@
 \lx brɛkʋ
 \ph brɛ́kʊ
 \ge sometimes
-\de
-\ps ADJ
-\dt 10/Jan/2012
+\de sometimes
+\ps ADV
+\dt 09/Aug/2012
 
 \lx brɛkʋtɔ
 \ph brɛ́kʊtɔ
@@ -5520,7 +5515,8 @@
 \ps v
 \ge decide
 \de decide; make up your mind
-\cf agywɩɩn\dt 07/Aug/2012
+\cf agywɩɩn
+\dt 09/Aug/2012
 
 \lx bwie
 \ph bwie
@@ -5851,7 +5847,8 @@
 \ps v
 \ge repent
 \de repent
-\lt turn in the heart\dt 08/Aug/2012
+\lt turn in the heart
+\dt 09/Aug/2012
 
 \lx dan
 \ph dãʔ
@@ -6011,7 +6008,8 @@
 \xv Deyi-asʋ tɔkwɛ oyi plɔhɛsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Igyi putuputu, ɩlofuli. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
 \xe Monkey ears grows in rotten trees. You can grind it and put it in soup. It is small and white. It is sweet in palmnut soup.
 \rf Tape:1-2-178
-\th atsulii\dt 07/Aug/2012
+\th atsulii
+\dt 09/Aug/2012
 
 \lx dɛ
 \ph dɛ
@@ -6708,11 +6706,11 @@
 \dt 30/Sep/1998
 
 \lx ee
-\ph êː
+\ph êːʔ
 \ge Hey!
-\de Eclamation
-\ps exclam
-\dt 10/Jan/2012
+\de Exclamation 
+\ps INTJ
+\dt 09/Aug/2012
 
 \lx esiebi
 \ph esiébi
@@ -7138,7 +7136,7 @@
 \dt 05/Jul/2005
 
 \lx fialɩ
-\ph fíalɪ
+\ph fíalɪ(H)
 \ge perhaps
 \np HLL#H
 \de perhaps
@@ -7146,7 +7144,7 @@
 \xv Kwaku ɔbɛɛ, fialɩ mʋ dɛhɛn obétsia woyitɔ, sʋ yɛkɩ.
 \xe Kwaku says, Perhaps his senior brother/sister is at the house so go and look.
 \rf Tape:2-1-500
-\dt 16/Jul/2012\dt 29/Jul/2005
+\dt 09/Aug/2012
 
 \lx Fieda
 \ph Fieda
@@ -7470,7 +7468,7 @@
 \ge far
 \np H
 \de far
-\ps prep
+\ps LOC
 \cf tsutsu
 \xv ɩbʋ fɔ
 \xe It is far.
@@ -7478,7 +7476,7 @@
 \xe The farm has farness. (is far from here)
 \rf Tape:2-1-558
 \nq How does this compare with tsutsu?
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx -fɔ
 \ph -fɔ
@@ -7495,7 +7493,7 @@
 
 \lx fɔɔn
 \ph fɔ̃ː
-\ps TEMP
+\ps TIME
 \ge after_sunset
 \dt 23/Nov/2009
 
@@ -7628,13 +7626,13 @@
 
 \lx fʋ
 \ph fʊ
-\va fʋ-
-\va fʋ-
 \ge 2S
 \np L
 \de you (singular)
 \ps PRO
 \rf Stewart List:1837
+\va f-
+\va fʋ-
 \dt 19/Sep/2005
 
 \lx fʋ
@@ -7921,18 +7919,18 @@
 \dt 16/Jul/2012
 
 \lx gblaa
-\ph g͡blaː
+\ph g͡blaːʔ
 \ge splat
-\de
-\ps Interj
-\dt 13/Oct/2005
+\de Splat!
+\ps INTJ
+\dt 09/Aug/2012
 
 \lx gbloo
 \ph g͡bloː
 \ge crash
 \de crash!
-\ps Exclam
-\dt 11/Oct/2005
+\ps INTJ
+\dt 09/Aug/2012
 
 \lx gbɔngblɛn
 \ph g͡bɔŋ͡mg͡blɛ̃
@@ -8019,7 +8017,7 @@
 \np Lʔ
 \de trace; 2) expell
 \ps vt
-\dt 23/Jul/2012
+\dt 09/Aug/2012
 \cf ɔmagya, gya mʋ ɔma
 \xv Nɩ fʋa kebi nyɔ mlɩ na pututu ɔkpa a, ha kebi amʋ ogya fʋ ɔma.
 \xe If your child and you walk on a bush path make the child follow you.
@@ -8043,7 +8041,8 @@
 \xv Bʋ tamagya obubwi ɩbansʋ tra yegya mʋ ɩkasʋ.
 \xe They don't chase a bird from the fence and then again from the grass. (Meaning don't push an opponent too far. Give him a little breathing space)
 \nt proverb
-\rf Stewart List:2508\dt 27/Jul/1993
+\rf Stewart List:2508
+\dt 27/Jul/1993
 
 \lx gyabɛ
 \ph ʤabɛ
@@ -8104,7 +8103,7 @@
 
 \lx gyagyaagya
 \ph ʤaʤaːʤa
-\ge go__well
+\ge go well
 \np HHH
 \de farewell greeting. go well
 \ps ADV
@@ -8400,7 +8399,8 @@
 \ge judge
 \xv Beyegyi asʋn.
 \xe They are going to judge a case
-\rf Tape:1-2-041\dt 07/Aug/2012
+\rf Tape:1-2-041
+\dt 09/Aug/2012
 
 \lx gyi bia
 \ph ʤi bia
@@ -8408,7 +8408,8 @@
 \ge bargain
 \de to bargain
 \lf Nact = bia ogyipʋ
-\le merchant\dt 08/Aug/2012
+\le merchant
+\dt 09/Aug/2012
 
 \lx gyibi
 \ph ʤibi
@@ -8421,19 +8422,12 @@
 \nq tone
 \dt 06/Aug/2012
 
-\lx gyigya
-\ph ʤiʤa
-\ge confused
-\de
-\ps ???
-\dt 20/Sep/2005
-
 \lx gyigyaa
 \ph ʤiʤâː
 \ge baffled
 \de baffled
-\ps v
-\dt 10/Jan/2012
+\ps ADJ
+\dt 09/Aug/2012
 
 \lx gyisɛ
 \ph ʤísɛ
@@ -8720,7 +8714,7 @@
 
 \lx -hɛ
 \ph -hɛ
-\ps misc
+\ps ADJR
 \ge ADJ_izer
 \np H/L
 \de changes a verb to an adjective
@@ -8761,7 +8755,7 @@
 \cf asʋnpalihɛ - disrespectful talk
 \cf fɛhɛ - wares
 \cf kanahɛ - fitting thing
-\dt 02/Jan/2012
+\dt 09/Aug/2012
 
 \lx hian
 \ph hiã́
@@ -8991,6 +8985,14 @@
 \xv Asi olu wa, nyankpʋsa megyi hwɩɩ.
 \xe We should stop hating, people are nothing.
 \dt 05/Jul/2005
+
+\lx hyira
+\ps v
+\ge bless
+\de bless
+\bw Akan fi:hyira
+\cf yula
+\dt 09/Aug/2012
 
 \lx hyɩ
 \ph hyɪ
@@ -9290,10 +9292,10 @@ cf gyi bia
 
 \lx igye
 \ph íʤe
+\ps TIME
 \ge yesterday
 \np H!H
-\de
-\ps temp
+\de yesterday
 \xv Igye nyankpʋ lebila tamɛ omotswie.
 \xe Yesterday storm clouds threatened but it didn't rain.
 \rf Tape:2-2-386
@@ -9534,10 +9536,11 @@ cf gyi bia
 \xv Fɛɩ afukpa ipi amʋ yetsitsa.
 \xe Sweep so that you can gather the rubbish and throw it out.
 \rf Tape:2-2-434
-\dt 23/Jul/2012
+\dt 09/Aug/2012
 \xv Ipi tamalɩɩ wa ɔpá. Butɔpʋ bua obu.
 \xe thatch doesn't stay long( it dies in october). It is used for thatching.
-\rf Stewart List:1520\dt
+\rf Stewart List:1520\
+\dt
 
 \lx ipian
 \ph ipiã
@@ -9804,6 +9807,12 @@ cf gyi bia
 \ge peace
 \de peace
 \ps n
+\xv Ɔnɔkwalɩ blɩ tɔpʋ iwilwii ba.
+\xe Speaking the truth brings peace.
+\rf Tape:3-1-252
+\xv Iwilwii ha mlɩ, mɩ iwilwii ndɛpʋ ha mlɩ.
+\xe Peace to you, My peace I am giving to you.
+\dt 09/Aug/2012
 \dt 23/Sep/2005
 
 \lx iwitsu
@@ -11032,7 +11041,7 @@ cf gyi bia
 \ge there
 \np LL
 \de there; at that time
-\ps loc
+\ps DEIC
 \xv Nyankpʋ latswie dʋbɩ sʋ, atsalɩ bʋ ɩnʋ.
 \xe It has rained a lot so it's cool there.
 \rf Tape:3-1-097
@@ -11042,16 +11051,14 @@ cf gyi bia
 \xv Awʋlɛ mʋ́ a, fɔpʋ wa ntsutso a, bʋtamalɛ mʋ ɩnʋ ɩnʋ.
 \xe This net, you put it into the water, you don't take it out at the same time.
 \rf Stewart List:1555
-\dt 23/Jul/2012
+\dt 09/Aug/2012
 
 \lx ɩnʋ a
-\ph ɪnʊ a
+\ph ɪnʊ áʔ (H)
+\ps TIME
 \ge immediately then
-\np LL H
-\np L-L-Hʔ#H
-\de immediately then, following a previous action; then, then
-\ps temp
-\xv mʋ́ʋ́ Bulu Lɛblɩ ɔbɛɛ, "Ɩwankɩ ba. " Ɩnʋ a, ɔtɩnɛ-gyi-ɔtɩnɛ lɔwankɩ.
+\de immediately then, following a previous action.
+\xv Mʋ́ʋ́ Bulu Lɛblɩ ɔbɛɛ, "Ɩwankɩ ba. " Ɩnʋ a, ɔtɩnɛ-gyi-ɔtɩnɛ lɔwankɩ.
 \xe Then God said. "Light should come. " Immediately then, everything became light.
 \nq new entry. I think that this may only occur in the middle of a discourse. It would be interesting to check out if this premise is correct.
 \dt 16/Jul/2012
@@ -11059,7 +11066,7 @@ cf gyi bia
 \lx ɩnʋnʋ
 \ph ɪnʊnʊ
 \ge immediately
-\ps TEMP
+\ps TIME
 \dt 28/Nov/2009
 
 \lx ɩnwɛ
@@ -11083,17 +11090,21 @@ cf gyi bia
 
 \lx ɩnwɛn
 \ph ɪnwɛ̃
+\ps TIME
 \ge day_before_yesterday
 \np H!H
 \np H-!H#H
 \de day before yesterday
-\ps temp
+\sn 2
+\ps ADV
+\ge last (day)
+\de last Xday; used wtih day names to indicate the previous day of that name.
 \xv Ɩnwɛn Yaoda, nɔyɔ nkandɩɛtɔ.
 \xe Last Thursday, I went to the city.
 \rf Tape:3-1-108
 \na days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɩ
 \rf Stewart List:1559
-\dt 05/Jul/2005
+\dt 09/Aug/2012
 
 \lx ɩnwɛn
 \ph ɪnwɛ̃ʔ
@@ -11239,7 +11250,8 @@ cf gyi bia
 \cf pɔn Eng:(vi)
 \xv Fʋ Ee! bwɛ fʋ Ee!; fʋ O-o! bwɛ fʋ O-o!; mɛnɩ Bulu meegyi fʋ asʋn ha fʋ pɔn.
 \xe Your yes make yes, your no, no so that God will not judge you and find you guilty.
-\ng Bulu meegyi- no pronoun\dt 22/Sep/1998
+\ng Bulu meegyi- no pronoun
+\dt 22/Sep/1998
 
 \lx ɩpʋ
 \ph ɪpʊʔ(L)
@@ -11341,16 +11353,20 @@ cf gyi bia
 \dt 05/Jul/2012
 
 \lx ɩsʋbɩtɩ
-\ph ɪsʊbɪtɪ́
+\ph ɪsʊbɪtɪ́(H)
 \ge punishment
-\np LLLH
-\np L-LLHʔ#H
-\de punishment
+\de to use, or treat badly for doing something wrong
 \ps n
+\np sʋbɩtɩ nɩ
+\xv Kwasi lɛsin ɔma yɔ sukuu sʋ, alanya ɩsʋbɩtɩ
+\xe Kwasi was late to school so, he has recieved a punishment.
+\xv Nɩ fɔ́bwɛ lakpan a, fʋtenya sʋbɩtɩ.
+\xe If you commit sin, you recieve a punishment.
 \xv Ɩsʋbɩtɩ dɩn fʋsʋ.
 \xe The punishment is on you; it's your own fault.
 \rf Tape:3-1-182
-\dt 10/Jan/2012
+\va sʋbɩtɩ
+\dt 09/Aug/2012
 
 \lx ɩsʋn
 \ph ɪsʊ̃́ʔ
@@ -11392,7 +11408,7 @@ cf gyi bia
 \np L-H#H
 \de height; length
 \ps n
-\dt 03/Apr/2012
+\dt 09/Aug/2012
 \lc ɩswɩ
 \xv Agode oyi bʋ swɩ dʋn baflɛ oyi.
 \xe Coconut trees are taller than pawpaw trees.
@@ -11408,7 +11424,8 @@ cf gyi bia
 \cf swɩtɔ
 \xv Amʋ́ swɩtɔ gyi kɛkɛ.
 \xe They are the same height.
-\rf Tape:7-1-280\dt 26/Nov/1998
+\rf Tape:7-1-280
+\dt 26/Nov/1998
 
 \lx ɩta
 \ph ɪta
@@ -11541,11 +11558,12 @@ cf gyi bia
 \xe Her dancing is beautiful because she knows how to dance.
 \rf Tape:3-1-222
 \rf Stewart List:1402
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 \xv Mʋ tsatɔ bʋ akɩlɛ, tsufɛ oyin tsa.
 \xe Her dancing is beautiful because she knows how to dance.
 \rf Tape:3-1-222
-\rf Stewart List:1402\dt 22/Sep/1998
+\rf Stewart List:1402
+\dt 22/Sep/1998
 
 \lx ɩtsɔ
 \ph ɪʦɔ
@@ -11630,6 +11648,15 @@ cf gyi bia
 \rf Tape:7-2-442
 \dt 03/Apr/2012
 
+\lx ɩwɩ sɔɔn
+\ph ɪwɪ
+\ps n
+\ge lucky
+\de lucky
+\xv Fʋ ɩwɩ sɔɔn ánɩ́ mmɛdɛ oyi, tɛkɩ nɛ́da fʋ.
+\xe You are lucky that am not holding a cane, I should have hit you.
+\dt 09/Aug/2012
+
 \lx ɩwɩ-imi
 \ph ɪwɪ-imi
 \ge hair_(of_the_body)
@@ -11644,15 +11671,10 @@ cf gyi bia
 \ph ɪwɪlwiː
 \ge peaceful
 \np LLLL
-\de peaceful; peace
-\nt from cool self
-\ps ADJ
-\xv Ɔnɔkwalɩ blɩ tɔ pʋ ɩwɩlwii ba.
-\xe Speaking the truth brings peace.
-\rf Tape:3-1-252
-\xv Ɩwɩlwii ha mlɩ, mɩ ɩwɩlwii ndɛ pʋ ha mlɩ.
-\xe Peace to you, My peace I am giving to you.
-\dt 05/Jul/2005
+\de peace
+\lt cool self
+\ps n
+\dt 09/Aug/2012
 
 \lx ɩwɩsɛ
 \ph ɪwɪsɛ
@@ -11782,7 +11804,7 @@ cf gyi bia
 \xe All of the chickens will lay plenty of eggs.
 \rf Tape:3-1-282
 \rf Stewart List:2209
-rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
+\dt 09/Aug/2012
 
 \lx ka
 \ph ka
@@ -11869,6 +11891,16 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \de
 \ps v
 \dt 10/Jan/2012
+
+\lx kafia
+\ph káfia
+\ps v
+\ge surround
+\np LHL
+\de to be everywhere around something
+\xv Ɩsa-akɔpʋ amʋ bakafia wulu amʋ
+\xe The soldiers have surrounded the town.
+\dt 09/Aug/2012
 
 \lx kai
 \ph kai
@@ -12240,9 +12272,9 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \lx kein
 \ph kẽ́ĩ́ː
 \ge long way
-\de
+\de long distance or time
 \ps ADJ
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx keke
 \ph keké
@@ -12323,6 +12355,7 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \dt 10/Oct/2005
 
 \lx kɛkɛ
+\hm 1
 \ph kɛ́kɛ
 \ge same
 \np HLʔ
@@ -12335,9 +12368,10 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \rf Tape:3-1-494
 \rf Stewart List:1699
 \nt From ths:  words dealing with similiarities:fɛ́ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛɩn,
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx kɛkɛ
+\hm 2
 \ph kɛ́kɛ́
 \ge as_many_as
 \np HH
@@ -12346,7 +12380,7 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \xv Bɛha mʋ ana kɛkɛ.
 \xe They generously gave him four.
 \rf Tape:3-1-490
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx kɛklɛ
 \ph kɛklɛ
@@ -12402,8 +12436,8 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \ge stop_that
 \np LL
 \de Stop that!; a warning to someone else
-\ps EXCLAM
-\dt 06/Oct/2005
+\ps INTJ
+\dt 09/Aug/2012
 
 \lx kɛn
 \ph kɛ̃́
@@ -12599,7 +12633,8 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \xv Kikidiki tɔkwɛ ɔsʋlʋsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋ swɩ. Ɩbʋ ɔlɩn, tamɛ afio oyi bʋ swɩ dʋn mʋ́. Bʋtɛkaka mʋ́ wa oputsutɔ.
 \xe Kikidiki grows in the ground. Its head is wide and its stalk is long. It has roots but afio stalk is longer than it. They cut them up for soup.
 \rf Tape:1-2-200
-\th atsulii\dt 07/Aug/2012
+\th atsulii
+\dt 09/Aug/2012
 
 \lx kim
 \ph kim
@@ -12651,11 +12686,11 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \dt 05/Jul/2012
 
 \lx kinkin
-\ps Adverb
+\ps ADV
 \ge seriously
 \ph kĩ́kĩ́
 \de less intense form of kinkiinkin
-
+\dt 09/Aug/2012
 
 \lx kisi
 \ph kisi
@@ -12675,6 +12710,23 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \dt 02/Apr/2012
 
 \lx kɩ
+\hm 3
+\ph kɪ́
+\ge be_awake
+\np H
+\de be awake
+\nt euph- he is not awake, he is mad
+\ps v
+\xv Ɔmɛkɩ. Aladɩdɩ.
+\xe He is not awake. He has gone to sleep.
+\rf Tape:3-1-584
+\xv Nɩ oyin amʋ lesia fʋ a, makpla mʋ, tsufɛ ɔmɛkɩ.
+\xe If the man insults you don't mind him because he is mad.
+\rf Tape:3-1-584
+\dt 16/Jul/2012
+
+\lx kɩ
+\hm 1
 \ph kɪ
 \va kɩɩ
 \ge look
@@ -12703,29 +12755,15 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \nq check out odua and anɩ- is there an animate inanimate differentiation here
 \rf Tape:3-1-580
 \rf Stewart List:3302
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx kɩ
+\hm 2
 \ph kɪ
 \ge before
 \de
 \ps ADV
-\dt 18/Feb/2008
-
-\lx kɩ
-\ph kɪ́
-\ge be_awake
-\np H
-\de be awake
-\nt euph- he is not awake, he is mad
-\ps v
-\xv Ɔmɛkɩ. Aladɩdɩ.
-\xe He is not awake. He has gone to sleep.
-\rf Tape:3-1-584
-\xv Nɩ oyin amʋ lesia fʋ a, makpla mʋ, tsufɛ ɔmɛkɩ.
-\xe If the man insults you don't mind him because he is mad.
-\rf Tape:3-1-584
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx kɩ bɛɛ
 \ph kɪ bɛː
@@ -12846,13 +12884,15 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \ps v
 \ge plan
 \de plan by yourself or with another person
-\cf kɩta asʋn - "group planning"\dt 07/Aug/2012
+\cf kɩta asʋn - "group planning"
+\dt 09/Aug/2012
 
 \lx kɩta asʋn
 \ph kɪ́tá:sʊ̃́
 \ps v
 \ge plan
-\de plan as a group\dt 07/Aug/2012
+\de plan as a group
+\dt 09/Aug/2012
 
 \lx kɩtakɩta
 \ph kɪ́tákɪ́tá
@@ -12970,12 +13010,12 @@ rkey 52bfefc2-a1a9-436b-be7f-7207cb1b3696\dt 30/Jul/2012
 \dt 23/Jul/2012
 
 \lx klaɛ
-\ph klaɛ
+\ph kláɛʔ
+\ps TIME
 \ge day_after_tomorrow
 \np HF
 \de day after tomorrow
-\ps temp
-\xv Mmɔɔ yɔ mɩ ɔkpa amʋ ɔkɛ, mboun klaɛ.
+\xv Mmɔ́yɔ mɩ ɔkpa amʋ ɔkɛ, mboun klaɛ.
 \xe I won't go tomorrow. Instead I will go the day after tomorrow.
 \rf Tape:3-2-136
 \nt From ths:  days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
@@ -13840,7 +13880,8 @@ cf fonflo
 \ps v
 \ge sparkle
 \de to shine or sparkle
-\cf ogya\dt 09/Aug/2012
+\cf ogya
+\dt 09/Aug/2012
 
 \lx kpa tɩa
 \ps v
@@ -13849,7 +13890,8 @@ cf fonflo
 \xv obugya lɛkpa tɩa
 \xe blood blister
 \xv ntsú lɛkpa tɩa
-\xe tears gathered in the eyss\dt 09/Aug/2012
+\xe tears gathered in the eyss
+\dt 09/Aug/2012
 
 \lx kpaalɩ
 \ph k͡paːlɪ
@@ -14538,11 +14580,11 @@ cf fonflo
 \dt 05/Jul/2005
 
 \lx kpɩkpɩɩ
-\ph k͡pɪk͡pɪ̂ː
+\ph k͡pɪk͡pɪ̂ːʔ
 \ge shrink
-\de
-\ps ADJ
-\dt 10/Jan/2012
+\de shrink
+\ps v
+\dt 09/Aug/2012
 
 \lx kpɩnkɩ
 \ph k͡pɪ̃́ŋkɪ́
@@ -14732,8 +14774,9 @@ cf fonflo
 \ph k͡ploː
 \ge splat
 \de splat
-\ps ADV
-\dt 05/Jan/2012
+\ps INTJ
+\cf gbloo
+\dt 09/Aug/2012
 
 \lx kplɔɩ
 \ph k͡plɔ́ɪ
@@ -14852,10 +14895,9 @@ cf fonflo
 
 \lx kpɔ
 \ph k͡pɔ
-\ge crack
-\np L
-\de to crack a joint
 \ps ADV
+\ge crack
+\de to crack a joint
 \xv Mɩ oboyi labia kpɔ tsufɛ naki mʋ́.
 \xe My neck has broken cracked because I turned it.
 \nq needs tone check
@@ -15070,12 +15112,14 @@ cf fonflo
 \ps n
 \dt 14/Feb/2006
 
-\lx kua
-\ph kua
+\lx kua kʋlɛ
+\ph kua kʊlɛ
 \ps ADJ
 \ge single
-\nt occurs with kʋlɛ e.g. "fɩtɛ asʋn kua kʋlɛ: ask just one question
-\dt 10/Dec/2009
+\de just one
+\xv Fɩtɛ asʋn kua kʋlɛ
+\xe Ask just one question
+\dt 09/Aug/2012
 
 \lx kufa
 \ph kufa
@@ -15124,9 +15168,9 @@ cf fonflo
 \ge ancestral_day
 \np HHH
 \de day for the ancestors
-\ps temp
+\ps TIME
 \cf kulihɛ odekeyikɛ
-\dt 05/Jul/2005
+\dt 09/Aug/2012
 
 \lx kulihɛ
 \ph kulihɛ
@@ -15318,21 +15362,21 @@ cf fonflo
 \xe The cat's claw has scratched me so if anger catches him it will scratch you with its claws.
 \rf Tape:4-1-232
 \rf Stewart List:0704
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 \xv Akʋti ɔwanpʋ tɔpʋ kɩta abatɛ abi nɩ.
-\xe Hawk uses its claws to catch chickens.\dt 02/Aug/2005
+\xe Hawk uses its claws to catch chickens.
+\dt 02/Aug/2005
 
 \lx kutibii
-\ph kutíbǐː
-\ge small_bat
-\np LHHʔ
+\ph kutíbǐːʔ
+\ge small (bat)
 \de a small bat
 \nt occurs only with gyagya
 \ps ADJ
 \xv Agyagya kutibii bʋbʋ mɩ obu ikwitɔ. Sʋ bʋdɛ mɩ han.
 \xe Small bats are in the ceiling of my room. So they are troubling me.
 \rf Tape:4-1-248
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx kutuklu
 \ph kútúklú
@@ -15389,7 +15433,7 @@ cf fonflo
 \xv lɩɩ kʋklʋ
 \xe be firm
 \rf Stewart List:2345
-\dt 08/Aug/2012
+\dt 09/Aug/2012
 
 \lx kʋklʋkʋʋ
 \ph kʊ́klʊ́kʊ́ː
@@ -15480,23 +15524,6 @@ cf fonflo
 \xe Even if he didn't come, we will go.
 \rf Tape:4-1-299
 \dt 10/Jan/2012
-
-\lx kʋsʋ
-\ph kʊsʊ
-\ge younger/youngest
-\np LL
-\de younger used with humans;
-\ps ADJ
-\cf kusubi Eng:smaller, used with non-humans.
-\xv Mɩ pio kʋsʋ gyi Sami, tsufɛsɛ nadan dʋn mʋ.
-\xe My younger brother is Sami because I am older than he.
-\xv Yakobo gyi ɔkʋsʋ.
-\xe Jacob is the youngest.
-\rf Tape:4-1-303
-\cf gyama
-\an dɛhɛn
-\nq check spelling kʋsʋbi, or kusubi
-\dt 16/Jul/2012
 
 \lx kʋsʋ
 \ph kʊsʊ́
@@ -15717,13 +15744,13 @@ cf fonflo
 \rf Stewart List:2001
 \dt 10/Jan/2012
 
-\lx kwɩɩ-dwiin
-\ph kwɪ̂ː-dwĩ̌ː
+\lx kwɩɩ dwiin
+\ph kwɪ̂ː dwĩ̌ː
 \ge birth pains
 \np HLH
 \de birthpains, labour
-\ps ADV
-\xv Atsɩ bʋtɛblɩ bɛɛ kwɩɩ-dwiin bʋ ɔsɩn dʋbɩ.
+\ps n
+\xv Atsɩ bʋtɛblɩ bɛɛ kwɩɩ dwiin bʋ ɔsɩn dʋbɩ.
 \xe Women say that birthpains is very painful.
 \dt 10/Jan/2012
 
@@ -15785,20 +15812,17 @@ cf fonflo
 
 \lx laa
 \ph laː
-\ge go_straight
-\de
 \ps ADV
-\xv Abɔ́tsʋn laa, anɩ mɛɛ baɩ.
+\ge go_straight
+\de to go straight without turning
+\xv Abɔ́tsʋn laa, anɩmɛ́baɩ.
 \xe We will go straight, we won't turn.
 \rf Tape:4-1-417
-\nq how does laa contrast with tswii
 \dt 20/Sep/2005
 
 \lx labi
-\ph labi
+\ph labi(H)
 \ge value
-\np LLL
-\np L-LL#H
 \de value/worthy/profitable
 \ps n
 \xv Nɩ ɔkʋ ɔbɛɛ ɔbʋ hogyi, tamɛ mʋ bwɛhɛ mosuna alɩ a, labi mɔmʋ mʋ hogyi amʋ bʋ?
@@ -15806,7 +15830,8 @@ cf fonflo
 \xv Ɩma labi kʋkʋ.
 \xe It is worthless
 \rf Tape:4-1-422
-\dt 16/Jul/2012
+\sy nfasʋɔ
+\dt 09/Aug/2012
 
 \lx lafa
 \ph lafa
@@ -16135,7 +16160,8 @@ cf fonflo
 \ge betray
 \xv Bɛlɛ Anyankpʋsatɔ Ɔdɛhɛn amʋ ha aha.
 \xe They will betray the Son of Man to people.
-\rf Tape:4-1-495\dt 09/Aug/2012
+\rf Tape:4-1-495
+\dt 09/Aug/2012
 
 \lx lɛ mʋtɔ
 \ph lɛ mʊ́tɔ
@@ -16426,9 +16452,9 @@ cf fonflo
 \lx ma
 \ph ma
 \va ma-
-\ge who
+\ge who?
 \np L
-\de who;
+\de who?
 \ps PRO
 \xv maanɩ mɩnɩ
 \xe dusk (Lit: Who is it? It's me)
@@ -16510,7 +16536,7 @@ cf fonflo
 \ph manɪmɪ́nɪ́
 \ge dusk
 \de dusk
-\ps tempɪ
+\ps TIME
 \cf bakɛ
 \cf ntʋpwɛ
 \cf ntʋpwɛnye
@@ -16520,7 +16546,7 @@ cf fonflo
 \cf ɔpawisʋ
 \cf ɔyɩ lakɛ
 \cf ɔyɩ nsɩnɛ
-\dt 06/Aug/2012
+\dt 09/Aug/2012
 
 \lx maɩlɩ
 \ph máɪlɪ
@@ -16597,7 +16623,8 @@ cf fonflo
 \de match (to light a fire)
 \xv Mankɩnsɩ amʋ lakpa ogya.
 \xe The match has caught fire.
-\rf Tape:6-2-501\dt 08/Aug/2012
+\rf Tape:6-2-501
+\dt 09/Aug/2012
 
 \lx mansʋ
 \ph mánsʊ
@@ -16653,7 +16680,8 @@ cf fonflo
 \xv Mantɛpʋ tɔkwɛ ɔsʋlʋsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, mʋ́ ɛ bʋ ɔdwɛ.
 \xe Mantɛpo grows in the ground. You can grind it for soup. It too is sweet.
 \rf Tape:1-2-194
-\th atsulii\dt 07/Aug/2012
+\th atsulii
+\dt 09/Aug/2012
 
 \lx mba
 \ph mba
@@ -16935,31 +16963,24 @@ cf fonflo
 \rf Tape:4-2-180
 \dt 03/Apr/2012
 
-\lx mɛɛ
-\ph mɛː
-\ge then
-\de
-\ps ADV
-\dt 19/Oct/2005
-
-\lx mɛɛ-
+\lx mɛ́-
 \ph mɛ̂ː-
-\va mee-
-\va mɔɔ-
-\va moo-
+\va mé-
+\va mɔ́-
+\va mó-
 \ge will_not
 \np LH
 \de won't, future neg
 \ps TAM
 \nt also mee, mɔɔ, moo
-\xv Mmɛɛda kebi amʋ.
+\xv Mmɛ́da kebi amʋ.
 \xe I will not hit the child.
 \rf Tape:4-2-190
-\xv Fʋmɛɛsa ntsu ya woyitɔ?
+\xv Fʋmɛ́sa ntsu ya woyitɔ?
 \xe Won't you fetch water to the house?
 \rf Tape:4-2-200
 \ng sa-n-ya
-\xv Ɔmɛɛba ndɛ.
+\xv Ɔmɛ́ba ndɛ.
 \xe He won't come today.
 \rf Tape:4-2-204
 \xv mɛɛ: Mmɛ́da mʋ. Fʋmɛ́ba. Bʋmɛɛba. Bʋmɛ́fa ntsu amʋ.
@@ -16974,7 +16995,14 @@ cf fonflo
 \xv Mmɔ́yɔ. Fʋmɔ́dɔ. Bʋmɔ́mɔ ɔnɔ.
 \xe I will not go. You will not weed. They will not finish.
 \rf Tape:4-2-363
-\dt 08/Aug/2012
+\dt 09/Aug/2012
+
+\lx mɛɛ
+\ph mɛː
+\ge then
+\de
+\ps ADV
+\dt 19/Oct/2005
 
 \lx mɛnɩ
 \ph mɛ́nɪ
@@ -17004,20 +17032,6 @@ cf fonflo
 \xe The money that you have found is mine, give it to me.
 \nq new entry
 \dt 23/Jul/2012
-
-\lx mfasʋ
-\ph mfasʊ
-\ge profit
-\np LLL
-\de profit, something gained
-\ps N
-\xv Ntsu bʋ alɛ. Ɩbʋ mfasʋ.
-\xe The water is good. It has profit.
-\xv  Mfasʋ ma ntobi amʋ́ʋ́ fʋdɛ fɛ amʋtɔ.
-\xe There is no profit on the goods that you are selling.
-\rf Tape:4-2-230
-\nq Emmanuel likes nfasʋɔ
-\dt 05/Jul/2005
 
 \lx mimla
 \ph mimlá
@@ -17169,11 +17183,11 @@ cf fonflo
 
 \lx mlɩ
 \ph mlɪ
-\va mlɩ-
-\ge you(pl)
-\np L
-\de You (pl)
 \ps PRO
+\va mlɩ-
+\ge you (pl.)
+\np L
+\de You (pl.)
 \xv Nyankpʋ amʋ lada mlɩ dʋbɩ.
 \xe The rain has beaten you too much.
 \rf Tape:4-2-305
@@ -17288,7 +17302,8 @@ cf fonflo
 \de to finish something
 \lt kill mouth
 \se ɔnɔ ɔmɔkpa
-\de the ending of something\dt 09/Aug/2012
+\de the ending of something
+\dt 09/Aug/2012
 
 \lx mɔkʋ
 \ph mɔkʊ́
@@ -17698,11 +17713,11 @@ cf fonflo
 \ge PL
 \np 0
 \de plural
-\ps nc
+\ps CLASS
 \xv Tsu otubi amʋ bɔwa ntubi amʋtɔ afʋpʋ lɛyaɩ obuto.
 \xe Take the spoon and put it with the others in order to go put it away in the room.
 \rf Tape:4-2-487
-\dt 12/Oct/2005
+\dt 09/Aug/2012
 
 \lx n-
 \ph n-
@@ -17773,15 +17788,14 @@ cf fonflo
 \lx nana
 \ph nána
 \ge there
-\np H!H
 \de there
-\ps loc
-\xv Ntse nfɩ mʋ ɛ, ɔtse nana
+\ps DEIC
+\xv Ntse nfɩ mʋ ɛ, ɔtse nana.
 \xe I am sitting here, he also is sitting there.
 \rf Tape:4-2-527
 \nq check tape- Should ntsɩ, ɔtsɩ be ntsi or ntsia. If not is tsɩ a new word. Should it be translated I should sit here and he also should sit there?
 \rf Stewart List:1555
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx Nanain
 \ph Nanáĩ?
@@ -17829,12 +17843,13 @@ cf fonflo
 \xe The man's sole is wide.
 \rf Tape:4-2-553
 \rf SIL-AWL:0072
-\dt 14/May/2012
+\dt 09/Aug/2012
 \xv Pʋ fʋ nantata da bɔɔlɔ amʋ.
 \xe Kick the ball with your foot.
 \rf Tape:4-2-543
 \xv Owu lawɔ mɩ natatatɔ.
-\xe A thorn has pierced the sole of my foot.\dt 26/Nov/1998
+\xe A thorn has pierced the sole of my foot.
+\dt  26/Nov/1998
 
 \lx nantuo
 \ph nantuo
@@ -18050,6 +18065,20 @@ cf fonflo
 \bw Akan fi:nfantohon
 \dt 10/Jan/2012
 
+\lx nfasʋɔ
+\ph nfasʊɔ
+\ps n
+\ge profit
+\de profit; something gained
+\xv Ntsu bʋ alɛ. Ɩbʋ nfasʋɔ.
+\xe The water is good. It has profit.
+\xv Nfasʋɔ ma ntobi amʋ́ʋ́ fʋdɛ fɛ amʋtɔ.
+\xe There is no profit on the goods that you are selling.
+\rf Tape:4-2-230
+\sy labi
+\bw Akan fi:???
+\dt 09/Aug/2012
+
 \lx nfiasɩ
 \ph ɱfiasɪ́
 \ge start
@@ -18062,31 +18091,23 @@ cf fonflo
 \ge here
 \np HL
 \de here
-\ps loc
+\ps DEIC
 \xv Ma tsʋn nfɩ, tsʋn nana. Nfɩ ma alɛ.
 \xe Don't pass here, pass there. Here is not good.
 \rf Tape:5-1-002
-\rf Stewart List:1554
-\dt 05/Jul/2005
-
-\lx nfɩ
-\ph ɱfɪ
-\ge here
-\np LL
-\de here
-\ps loc
 \xv Tsu bokiti mʋa ntsu amʋ ba mɩ nfɩ, anfwɩ atɔ.
 \xe Bring the bucket of water here so that I can wash things.
 \rf Tape:3-1-079
-\dt 05/Jul/2005
+\rf Stewart List:1554
+\dt 09/Aug/2012
 
 \lx nfɔ
-\ph ɱfɔ
+\ph ɱfɔ(H)
+\ps n
 \ge oil
 \np LL
 \de oil; fat
-\ps n
-\xv Ma hɔ abiofobi ntɛ kɩtɩba nfɔ, mboun hɔ nfɔ pɛpɛ.
+\xv Mahɔ abiofobi ntɛ kɩtɩba nfɔ, mboun hɔ nfɔ pɛpɛ.
 \xe Don't buy palm kernel oil, or peanut oil, instead buy palm oil.
 \rf Tape:5-1-010
 \xv Ɔprakuo bʋ nfɔ dʋbɩ.
@@ -18096,7 +18117,7 @@ cf fonflo
 \xe palm oil
 \rf Stewart List:1233
 \rf Stewart List:1243
-\dt 05/Jul/2005
+\dt 09/Aug/2012
 
 \lx nfɔlɩ
 \ph ɱfɔ́lɪ
@@ -18158,12 +18179,10 @@ cf fonflo
 
 \lx ngya
 \ph nʤa
-\va gya
+\ps ADV
 \ge since
 \ge now
-\np LL
 \de The word means "given the existance of a certain situation, ie "with things as they are" then. . . Sentence initial it translates most naturally as Since. Phrase final it translates now, but not in the sense of now immediately, rather now, because of.
-\ps v
 \xv Nagyi atɔ ta ngya, sʋ ha ayɔ.
 \xe I have finished eating now so give we should go (let's go).
 \rf Tape:5-1-060
@@ -18189,7 +18208,7 @@ cf fonflo
 \xe Since you are sleeping stand up or go home.
 \rf Tape:5-1-104
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx ngya
 \ph nʤá
@@ -18364,10 +18383,10 @@ cf fonflo
 
 \lx nkɛnsa
 \ph ŋkɛnsá
-\ge some_days
+\ge some days
 \de several days
 \ps ADV
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx nkɛtɩ
 \ph ŋkɛ́tɪ
@@ -18386,15 +18405,14 @@ cf fonflo
 \dt 14/May/2012
 
 \lx nkɩ
-\ph ŋkɪ́
-\ge where
-\np LHʔ
+\ph ŋkɪ́ʔ
+\ge where?
 \de where; question word- lit, I should look
 \ps ADV
 \xv Nkɩ mɩ atɔ amʋ mɛ?
 \xe Where are my things?
 \rf Tape:5-1-207
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx nkɩsɛ
 \ph ŋkɪsɛ
@@ -18437,7 +18455,6 @@ cf fonflo
 \ps n
 \ge fracture
 \de badly healed fracture on the shin
-
 
 \lx nkontombre
 \ph ŋkontombre
@@ -18603,8 +18620,7 @@ cf fonflo
 
 \lx nkʋnʋ
 \ph ŋkʊ́nʊ
-\ge where
-\np LHL
+\ge where?
 \de where?
 \ps ADV
 \xv Nkʋnʋ fo tsu? Nkʋnʋ fɔ yɔ?
@@ -18657,7 +18673,8 @@ cf fonflo
 \xv Npionkɛntɛ tɔkwɛ ɔbɛ oyi plɔhɛsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi ma swɩ. Fɛtalɩ kpa mʋ́ nwun amʋ kwɛ mʋ́ wa oputsutɔ, si mʋ́ oyi amʋ. Mʋ́ ɛ bʋ ɔdwɛ.
 \xe Npionkɛntɛ sprouts on rotten palm trees. It's head is wide. It's stalk is not long. You can remove the heads and grind them and put them in the soup and leave the stalks. It also is sweet.
 \rf Tape:1-2-171
-\th atsulii\dt 07/Aug/2012
+\th atsulii
+\dt 09/Aug/2012
 
 \lx nsaɩntɔ
 \ph nsaɪntɔ
@@ -18961,21 +18978,6 @@ cf fonflo
 \rf Tape:5-1-369
 \dt 10/Jan/2012
 
-\lx ntogyi
-\ph ntoʤi
-\ge why
-\np LLL
-\de why question
-\ps ADV
-\nt ntɔ igyi
-\xv Ntogyi sʋ fʋdesu?
-\xe Why are you crying?
-\rf Tape:5-1-372
-\rf Stewart List:1605
-\nt From ths: question words ma (who), mɔmʋ (which), amɛndɩ (which persons), odua (which one), Afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntoi, Ntogyi, Ntogyiso (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
-\rf Stewart List:1605
-\dt 05/Jul/2005
-
 \lx ntogyi sʋ
 \ph ntoʤi sʊ
 \ge Why
@@ -18986,14 +18988,13 @@ cf fonflo
 \xv Ntogyi sʋ fa si sukuu yɔ fa ba fʋdɛ dɔ?
 \xe Why have you stop attending school and have come to do farming?
 \cf ntɔ
-\dt 08/Aug/2012
+\dt 09/Aug/2012
 
 \lx ntɔ
 \ph ntɔ
-\ge what
-\np LL
-\de
-\ps ADV
+\ge what?
+\de what?
+\ps Q
 \xv Ntɔ fʋdɛ fɛ?
 \xe What are you selling?
 \rf Tape:5-1-377
@@ -19006,7 +19007,7 @@ cf fonflo
 \rf Stewart List:1607
 \lf Compound = ntogyi sʋ (ntɔ igyi sʋ)
 \le Why?
-\dt 08/Aug/2012
+\dt 09/Aug/2012
 
 \lx ntsalabi
 \ph nʦalabi
@@ -19227,7 +19228,8 @@ cf fonflo
 \de understand
 \cf nu
 \cf asʋn
-\cf asɩ\dt 07/Aug/2012
+\cf asɩ
+\dt 09/Aug/2012
 
 \lx numnyam
 \ph numɲam
@@ -19397,10 +19399,10 @@ cf fonflo
 \ph ŋʷũ olú
 \ge lucky
 \de lucky
-\ps idiom
-\xv nwun-nwun igyi/nwun lawa fʋ olu.
-\xe It is your lucky/You have become lucky.
-\dt 03/Apr/2012
+\ps ADJ
+\xv Nwun lawa fʋ olu.
+\xe You have been lucky.
+\dt 09/Aug/2012
 
 \lx nwuna
 \ph ŋʷuna
@@ -19415,6 +19417,19 @@ cf fonflo
 \xe When Yao is hungry then he frowns.
 \rf Tape:5-1-462
 \dt 16/Jul/2012
+
+\lx nwunasʋ
+\ph ŋwúnasʊ
+\ge dunghill
+\np HLL
+\np L-HH!H#H
+\de garbage dump and public toilet area.
+\ps n
+\np wunasʋ nɩ
+\xv Alasa bʋtekle nwunasʋ gyonka tsufɛ bʋtekle atɔ dada gyi.
+\xe Vultures like to perch on the dunghill because they like to eat old things.
+\rf Tape:5-1-474
+\dt 09/Aug/2012
 
 \lx nwunfa
 \ph ŋʷuɱfa
@@ -19452,6 +19467,15 @@ cf fonflo
 \xe Many tadpoles are in the Otukpe riverbed.
 \rf Tape:5-1-486
 \dt 23/Jan/2012
+
+\lx nwun-nwun
+\ps n
+\ge luck
+\de luck
+\xe Nwun-nwun igyi.
+\xe It's your luck
+\dt 09/Aug/2012
+
 
 \lx nwuntɔbɔ
 \ph ŋʷũtɔbɔ
@@ -20217,10 +20241,9 @@ cf fonflo
 \ph -OBLIG-
 \ge should
 \np HF
-\de tone pattern indicating obligatory
+\de a high falling tone pattern indicating obligatory
 \ps TAM
-\nt a high falling tone pattern indicate obligatory
-\dt 19/Nov/2009
+\dt 09/Aug/2012
 
 \lx obligatory_tense
 \ph obligatory_tense
@@ -20274,7 +20297,6 @@ cf fonflo
 \ph oblufoʔ
 \ge bladder
 \de bladder
-
 
 \lx oblun
 \ph oblũ
@@ -20535,7 +20557,8 @@ cf fonflo
 \lx odondo
 \ps n
 \ge drum
-\de a tunable drum played while held under the arm\dt 03/Aug/2012
+\de a tunable drum played while held under the arm
+\dt 09/Aug/2012
 
 \lx odoun
 \ph odoũʔ CHECK
@@ -21241,17 +21264,17 @@ cf fonflo
 \lx ohwee
 \ph ohwêː
 \ge I_don't_know
-\de
-\ps exclam
-\dt 10/Jan/2012
+\de Excalmation meaning "I don't know"
+\ps INTJ
+\dt 09/Aug/2012
 
 \lx okekegyiɔkɛ
-\ph okekeʤíɔkɛ
-\ge every_day
+\ph okekeʤíɔ́kɛ
 \np LLLHH!H
+\ps ADV
+\ge every day
 \de every day
 \es ɔkɛ-gyi-ɔkɛ with reduplication of ke
-\ps ADV
 \ue South:ekekegyiɛkɛ
 \xv Okekegyiɔkɛ kebi anfɩ desu.
 \xe Every day this child is crying.
@@ -22111,7 +22134,7 @@ cf fonflo
 \lx oo
 \ph óː
 \ge even
-\de
+\de even
 \ps ADV
 \dt 10/Jan/2012
 
@@ -23032,27 +23055,29 @@ cf fonflo
 \dt 20/Sep/2005
 
 \lx owi ɔdalɩkpa
-\ps LOC
+\ps n
 \ge east
 \de east
-\lt sun coming out place\dt 09/Aug/2012
+\lt sun coming out place
+\dt 09/Aug/2012
 
 \lx owi ɔkplɩwiekpa ɩfʋn
-\ps LOC
+\ps n
 \ge west
 \de west
-\lt sun getting down reaching place part\dt 09/Aug/2012
+\lt sun getting down reaching place part
+\dt 09/Aug/2012
 
 \lx owi pɔnhɛ
 \ph owi pɔnhɛ
 \ge evening
 \np LLLL
 \de evening
-\ps DEIC
+\ps TIME
 \xv Owí pɔnhɛsʋ lɩɩ yɔ agyʋma bʋ ayɔlɛ, tsufɛ nsaɩntɔ tolwii.
 \xe Working in the evening is pleasant, because the weather becomes cool.
 \nt From ths: words describing time of day: bakɛ(early morning hours before sunrise), ɔyɩ ya kɛ(sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ(noon), owí ɩpɔn(afternoon), ntɔpwɛ(evening), maanɩ mɩnɩ (dusk), onye(night)
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx owie
 \ph owíe
@@ -23121,15 +23146,13 @@ cf fonflo
 \dt 16/Jul/2012
 
 \lx owu
-\ph owu
+\ph owu(H)
+\ps n
 \ge thorn
-\np LL
-\np L-L#H
 \de thorn
 \pl awu
 \ph awu
 \np same
-\ps n
 \np owu nɩ
 \xv Owu latsan mɩ.
 \xe A thorn scratched me.
@@ -23144,7 +23167,7 @@ cf fonflo
 \rf Stewart List:0853
 \xv Fɛtsa awusʋ a, ɩtɔwɔ fʋ.
 \xe When you step on thorns, it pierces you.
-\dt 18/Mar/2008\dt 05/Jul/2005
+\dt 09/Aug/2012
 
 \lx owuntɔlɩn
 \ph owuntɔlɪ̃ʔ
@@ -23343,10 +23366,10 @@ cf fonflo
 \va o-
 \ge SG
 \de singular noun class
-\ps nc
+\ps CLASS
 \xv Mʋ moni sʋ nɩ ɔnatɩ kpalobi a, fówun ánɩ́ ɩlapian mʋ.
 \xe Because of her fatness, when she walks small you will see that she is tired.
-\dt 03/Apr/2012
+\dt 09/Aug/2012
 
 \lx ɔ- -ba
 \ph ɔ- -ba
@@ -23873,7 +23896,7 @@ cf fonflo
 \xv Ɔhagyiɔha ánɩ́ ɔtɔbwɛ lalahɛ a, ɔbʋnsam mʋ bi ogyi.
 \xe Every person that does evil, is Satan's child.
 \rf Tape:5-2-247
-\dt 23/Jul/2012\dt
+\dt 09/Aug/2012
 
 \lx ɔbwata
 \ph ɔbwata
@@ -24469,7 +24492,8 @@ cf fonflo
 \lx ɔfʋnkpa
 \ps n
 \ge destination
-\de final destination\dt 09/Aug/2012
+\de final destination
+\dt 09/Aug/2012
 
 \lx ɔgɔn
 \ph ɔgɔ̃ʔ
@@ -24689,6 +24713,7 @@ cf fonflo
 
 \lx ɔkandɩɛ
 \ph ɔkandɪ́ɛ
+\sn 1
 \ge lantern
 \np LLH!H
 \de 1) lantern; lamp; or light
@@ -24701,7 +24726,16 @@ cf fonflo
 \xv Alanywɛ ɔkandɩɛ yaɩ obuto.
 \xe He has lit the lantern and put it in the room.
 \rf Tape:5-2-002
-\dt 10/Jan/2012
+\sn 2
+\ge electricity
+\de electricity
+\sn 3
+\ge city
+\de city; Accra
+\xv Ɩnwɛn Yaoda, nɔyɔ nkandɩɛtɔ.
+\xe Last Thursday, I went to the city.
+\rf Tape:3-1-108
+\dt 09/Aug/2012
 
 \lx ɔkasɩkpa
 \ph ɔkasɪ́k͡pá
@@ -24893,11 +24927,11 @@ cf fonflo
 \dt 05/Jul/2005
 
 \lx Ɔklɩfɔ
-\ps PropN
 \ph ɔklɪ́fɔ
+\ps PropN
 \ge Alavanyo
-\de Alavanyo, the territory of the Ewe speaking people to the west of Nkonya
-\dt 05/Jan/2012
+\de Alavanyo, the Ewe speaking people to the east of Nkonya
+\dt 09/Aug/2012
 
 \lx ɔklʋn
 \ph ɔklʊ̃ʔ
@@ -25361,7 +25395,7 @@ cf fonflo
 \ge one
 \np LL
 \de one, used in counting
-\ps count
+\ps NUM
 \ue South:ɛkʋn, ɛkulɛ
 \cf ɔtsawʋlɛ (one time)
 \cf wʋlɛ (one)
@@ -25372,7 +25406,7 @@ cf fonflo
 \xe You start counting with one.
 \rf Tape:5-2-460
 \rf Stewart List:1802
-\dt 02/Aug/2012
+\dt 09/Aug/2012
 
 \lx ɔkʋn
 \ps NUM
@@ -25380,6 +25414,21 @@ cf fonflo
 \ph ɔkʊ̃
 \de one, counting number
 \dt 05/Jan/2012
+
+\lx ɔkʋsʋ
+\ph ɔkʊsʊ
+\ge younger
+\de younger used with humans
+\ps ADJ
+\cf kusubi Eng:smaller, used with non-humans.
+\xv Mɩ pio kʋsʋ gyi Sami, tsufɛsɛ nadan dʋn mʋ.
+\xe My younger brother is Sami because I am older than he.
+\xv Yakobo gyi ɔkʋsʋ.
+\xe Jacob is the younger.
+\rf Tape:4-1-303
+\cf gyama
+\an dɛhɛn
+\dt 09/Aug/2012
 
 \lx ɔkwaɩ
 \ph ɔkʷaɪ
@@ -25614,7 +25663,7 @@ cf fonflo
 \ge after
 \de
 \ps ADV
-\dt 05/Jul/2012
+\dt 09/Aug/2012
 
 \lx ɔmá
 \ph ɔmá
@@ -25692,12 +25741,12 @@ cf fonflo
 \rf Tape:6-1-076
 \dt 05/Jul/2012
 
-\lx ɔma-sin
-\ph ɔma-síʔ
+\lx ɔmasin
+\ph ɔmasĩ́ʔ
 \ge lateness
 \de to be late
-\ps ADJ
-\dt 05/Jul/2012
+\ps n
+\dt 09/Aug/2012
 
 \lx ɔmátɔfɔ
 \ph ɔmátɔ́fɔ
@@ -25777,10 +25826,9 @@ cf fonflo
 
 \lx ɔmɛnkɛ
 \ph ɔmɛŋkɛ
-\ge when
-\np LLL
-\de when
-\ps ADV
+\ps Q
+\ge when?
+\de When? What day
 \nt this is a singular example of ɔ-mɛ-kɛ (mɛ inbetween the ɔ and kɛ) cf oboslete ɔmetsi (what sort of woman ) ɔmeyin (what sort of man) mɛ like this is cognate with other Guang languages.
 \xv Ɔmɛnkɛ fɛba nfɩ?
 \xe When did you come here?
@@ -25793,7 +25841,7 @@ cf fonflo
 \xe When will be the market day?
 \rf Stewart List:1602
 \cf brɛ mɔmʋ
-\dt 08/Aug/2012
+\dt 09/Aug/2012
 
 \lx ɔmɛsɩ
 \ph ɔmɛsɪ
@@ -25905,9 +25953,9 @@ cf fonflo
 \lx ɔmʋamʋʋ
 \ph ɔmʊamʊ́ː
 \ge the_one_that
-\de
+\de the one who
 \ps DEIC
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx ɔna
 \ph ɔna
@@ -26566,10 +26614,9 @@ cf fonflo
 
 \lx ɔsa
 \ph ɔsa
+\ps n
 \ge speed
-\np LL
 \de speed
-\ps ADV
 \xv Ɔna ɔsasʋ.
 \xe He is walking quickly.
 \nq Should this be He should walk quickly?
@@ -26643,8 +26690,8 @@ cf fonflo
 \ph ɔsasʊ
 \ge quickly
 \de
-\ps ADJ
-\dt 19/Jul/2005
+\ps ADV
+\dt 09/Aug/2012
 
 \lx ɔsɛmpa
 \ph ɔsɛ́mpá
@@ -27317,14 +27364,14 @@ cf fonflo
 \xe Suddenly Amma went to look, and her father and her mother had come from farm. (Suddenly, before Amma will relised her mother and father have come from farm. )
 \rf Tape:6-1-517
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
-\dt 16/Jul/2012\dt
+\dt 09/Aug/2012
 
 \lx ɔtsanɩ
 \ph ɔʦánɪ́
+\ps ADV
 \ge when
 \np LH!H
-\de when- in the future
-\ps ADV
+\de time that
 \xv Ɔtsánɩ́ fɔ́yɔ a, bla mɩ ankla fʋ mɩ pio.
 \xe When you are going, tell me in order that I can send a message to my brother with you.
 \rf Tape:6-1-522
@@ -27332,13 +27379,13 @@ cf fonflo
 
 \lx ɔtsantsan
 \ph ɔʦãʦã
-\ge different
+\ge various
 \np LLL
 \de a variety
 \ps ADJ
-\xv Ɔha gyi ɔha agywɩɩn igyi ɔtsantsan, mʋ́ sʋ ɩtrɛ bʋ ɔyɩtɔ nɩ.
+\xv Ɔha-gyi-ɔha agywɩɩn igyi ɔtsantsan, mʋ́ sʋ ɩtrɛ bʋ ɔyɩtɔ nɩ.
 \xe Everybody's mind is different, that is why there is quarreling in the world.
-\dt 05/Jul/2005
+\dt 09/Aug/2012
 
 \lx ɔtsatsa
 \ph ɔʦaʦa
@@ -28121,10 +28168,9 @@ cf fonflo
 
 \lx pɛpɛɛpɛ
 \ph pɛ́pɛ́ːpɛ́
-\ge exactly
-\np LLL
-\de exactly
 \ps ADV
+\ge exactly
+\de exactly
 \xv Ɔlɔbwɛ mʋ agyʋma amʋ pɛpɛɛpɛ.
 \xe He did his work precisely.
 \xv Atɔ amʋ́ʋ́ lɔfwɩ amʋ pɛpɛɛpɛ nɩ.
@@ -28747,24 +28793,20 @@ cf fonflo
 \dt 10/Jan/2012
 
 \lx pɔpwɛ
-\ph pɔ́pwɛ
-\ps ADJ; n
+\ph pɔ́pwɛʔ(L)
+\ps ADJ
 \ge new
-\np HL
-\np L-HHʔ#L
 \de new
 \pl apɔpwɛ
-\ph apɔ́pwɛ
-\np LHLʔ
-\np pɔpwɛ nɩ
+\ph apɔ́pwɛʔ(L)
 \xv Fenya pɔpwɛ a, dada labwɛ fʋ nwunasʋ okpokployi.
-\xe If you get new, you use the old for toilet paper.
+\xe If you get new, you use the old for toilet corn cob.
+\xe Free:When you get a second wife you don't value the first.
 \nt proverb
-\nt When you get a second wife you don't value the first.
 \xv Atɔ pɔpwɛ bʋ akɩlɛ.
 \xe New things are good to look at.
 \rf Stewart List:1665
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx pɔsɩɩ
 \ph pɔsɪː
@@ -28978,13 +29020,6 @@ cf fonflo
 
 \lx putuputu
 \ph pútúpútú
-\ge small_small
-\de
-\ps ADJ
-\dt 10/Jan/2012
-
-\lx putuputu,
-\ph pútúpútú,
 \ge small
 \np HHHH
 \de small piece
@@ -28993,7 +29028,7 @@ cf fonflo
 \xe Cocoayam that is too small to peel, they boil it in its skin. This is akaʋ.
 \nq new entry-incomplete
 \nt From ths: words for small kusubi, putuputu, small in amount: kpalobi, tukuriibi, small in size
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx pʋ
 \ph pʊ́
@@ -29077,26 +29112,26 @@ cf fonflo
 \nq ɔya must be a spelling mistake here
 \dt 23/Jul/2012
 
-\lx pʋ tsia
-\ph pʊ ʦia
-\ge add; increase
-\de
-\ps order
-\dt 18/Oct/2005
-
-\lx pʋ_fra
-\ph pʊ_fra
+\lx pʋ fra
+\ph pʊ fra
 \ge mix
 \np LLʔ
 \de mix
-\nt fra is Twi, always used together pʋfra
+\nt fra is Twi, always used together pʋ fra
 \ps v
 \xv Pʋ ɩsɩ amʋ fra siminti amʋtɔ afʋtsɩa mʋ́.
 \xe Take the sand and mix it in the cement so that you can
 \xv Pʋ nta pɔpwɛ amʋ mʋ́a dada amʋ fra mɛnɩ ɩbɔwa anunlɛ.
 \xe Take the new wine and the old one to mix so that it will be drinkable.
 \nq Is afu afʋ? Translation needs correcting too.
-\dt 03/Apr/2012
+\dt 09/Aug/2012
+
+\lx pʋ tsia
+\ph pʊ ʦia
+\ge add to
+\de to add to
+\ps n
+\dt 09/Aug/2012
 
 \lx pʋpʋtɩ
 \ph pʊ́pʊ́tɪ
@@ -29189,11 +29224,17 @@ cf fonflo
 \dt 10/Jan/2012
 
 \lx REDUP
-\ph REDUP
-\ge EMPH; MULTIPLE
+\sn 1
+\ge EMPH
+\de emphasis marker
+\xv kinkin; kinkiinkin
+\xe seriously; very seriously
+\sn 2
+\ge MULTIPLE
+\de occuring mutltiple places simultaneously or nearly simultaneously
 \nt need some examples
 \ps PTCL
-\dt 19/Nov/2009
+\dt 09/Aug/2012
 
 \lx sa
 \ph sa
@@ -29253,7 +29294,7 @@ cf fonflo
 \xv Brɛa nɔyɔ a, saa mʋ ɛ ɔba, sʋ anɩ lefia aba ɔkpatɔ.
 \xe The time that I went, unexpectedly he also came so we met each other on the road.
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
-\dt 10/Jan/2012\dt
+\dt 09/Aug/2012
 
 \lx saafɩ
 \ph sâːfɪ
@@ -29482,17 +29523,17 @@ cf fonflo
 
 \lx sesei
 \ph séséi
+\ps TIME
 \ge now
 \np HHF
 \de now
-\ps temp
 \ue South:sei
 \ph séi
 \cf sesei Eng:immediately
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
-\dt 10/Jan/2012\dt
+\dt 09/Aug/2012
 
 \lx sɛ
 \ph sɛ
@@ -29916,13 +29957,6 @@ cf fonflo
 \xe The okra has become stiff so chop it up so that you can dry it and make dried okra.
 \dt 25/Jan/2012
 
-\lx sɩrɩgya
-\ph sɪrɪ́ʤa
-\ge chase
-\de
-\ps v
-\dt 10/Jan/2012
-
 \lx sɩsɩ
 \ph sɪsɪ
 \ge send
@@ -29999,19 +30033,15 @@ cf fonflo
 
 \lx sɔɔn
 \ph sɔ̃́ː
-\ge just; only; just lucky
-\np HH
-\de just, only, just lucky
 \ps ADV
+\ge just; only
+\de just, only
 \xv Nkle sɔɔn bʋ otukpe bunkpatɔ.
 \xe There are many frogs in otukpe's river bank.
 \xv Aha sɔɔn bʋ wulutɔ tsufɛsɛ bʋdɛ wulu agyuma yɔ.
 \xe Many people are in the town because they are doing town work.
 \xe The cat gave birth to five kittens. They were all females.
-\xv Fʋ ɩwɩ sɔɔn ánɩ́ mmɛdɛ oyi, tɛkɩ nɛ́da fʋ.
-\xe You are lucky that am not holding a cane, I should have hit you.
-\nq needs Nkonya sentence
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx sre
 \ph sre
@@ -30081,6 +30111,13 @@ cf fonflo
 \xe The schoolchildren have run out of the school house because they have seen a snake.
 \rf Stewart List:2021
 \dt 16/Jul/2012
+
+\lx srɩgya
+\ph srɪ́ʤa
+\ge chase
+\de run after
+\ps v
+\dt 09/Aug/2012
 
 \lx srɩkɩ
 \ph srɪ́kɪ
@@ -30365,11 +30402,10 @@ cf fonflo
 
 \lx -sʋ
 \ph -sʊ
+\ps POST
 \va sʋ
 \ge on
-\np L
 \de on
-\ps loc
 \xv bʋ ɩmʋ́sʋ
 \xe be succeeding
 \xv Napʋ atɔ amʋ dɩnka ɔprʋn amʋsʋ. Dɩnkɩ mʋ́ lɛ mʋ́sʋ.
@@ -30377,20 +30413,7 @@ cf fonflo
 \rf Tape:7-1-162
 \rf Stewart List:0953
 \rf Stewart List:2960
-\dt 05/Jul/2012
-
-\lx sʋbɩtɩ
-\ph sʊbɪtɪ́
-\ge punishment
-\np LLH
-\de to use, or treat badly for doing something wrong
-\ps n
-\np sʋbɩtɩ nɩ
-\xv Kwasi lɛsin ɔma yɔ sukuu sʋ, alanya sʋbɩtɩ
-\xe Kwasi was late to school so, he has recieved a punishment.
-\xv Na fɔ́bwɛ lakpan a, fʋ tenya sʋbɩtɩ.
-\xe If you commit sin, you recieve a punishment.
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx sʋkpʋsalɩ
 \ph sʊk͡pʊsalɪ
@@ -30399,9 +30422,9 @@ cf fonflo
 \de To invoke a charm on someone
 \ps v
 \np wa ɔha sʋkpʋsali to charm someone
-\xv Sʋkpʋsali oyin amʋ lɔwa ɔtsɩ amʋ mʋ́ sʋ ɔtsɩ amʋ talɩ ɔtsiaa mʋ nɩ.
+\xv Sʋkpʋsali oyin amʋ lɔwa ɔtsɩ amʋ. Mʋ́ sʋ ɔtsɩ amʋ talɩ ɔtsiaa mʋ nɩ.
 \xe The man charmed the woman that is why the woman is able to marry the man.
-\dt 05/Jul/2012
+\dt 09/Aug/2012
 
 \lx sʋn
 \ph sʊ̃
@@ -31266,11 +31289,11 @@ cf fonflo
 \ge beside
 \np LH
 \de immediately beside
-\ps prep
+\ps LOC
 \xv Brɛ ánɩ́ anɩleyi opian ayɔ a, oyin anfɩ na mɩ tinti nɩ.
 \xe The time that we made a line going, this man walked beside me.
 \rf Tape:7-1-486
-\dt 14/May/2012
+\dt 09/Aug/2012
 
 \lx titiriti
 \ph titiriti
@@ -31447,10 +31470,11 @@ cf fonflo
 
 \lx tɩnbɩ
 \ph tɪnbɪ
+\ps n
 \ge harvest time
-\de
-\ps ADJ
-\dt 14/Feb/2008
+\de time of harvest
+\lt cut-time
+\dt 09/Aug/2012
 
 \lx tɩnkɩ
 \ph tɪ́ŋkɪ́
@@ -31569,7 +31593,8 @@ cf fonflo
 \lx tɩtɩɩtɩ
 \ps TIME
 \ge long ago
-\de long ago\dt 09/Aug/2012
+\de long ago09/Aug/2012
+\dt 09/Aug/2012
 
 \lx tɩtɩsʋ
 \ph tɪtɪsʊ
@@ -31595,15 +31620,16 @@ cf fonflo
 \xe Everything will come to an end, but the words of God will never end.
 \dt 16/Jul/2012
 
-\lx toku-kʋlɛ
-\ph toku-kʊlɛ
+\lx tokukʋlɛ
+\ph tokukʊlɛ
 \ge the_only_thing
-\np LLL
 \de nothing again
-\ps ADJ
+\ps n
+\lf Compound = ɩtɔ kua kʋlɛ
+\lt thing only one
 \xv Tokukʋlɛ gyi abɛ́kɩ ánɩ́ nyebi bayɔ ndɔtɔ.
 \xe The only thing is, we have to see to it that the children go to farm.
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx tomantosi
 \ph tomantosi
@@ -31665,7 +31691,7 @@ cf fonflo
 \ge in
 \np L/H
 \de inside
-\ps loc
+\ps POST
 \nt in contrast with sʋ, seems to further in; e. g. biasʋ, is the ordinary word for market biatɔ implies deep in the market.
 \xv Aye bʋ bʋ ntsu amʋtɔ.
 \xe Fish are in the water.
@@ -31673,16 +31699,17 @@ cf fonflo
 \xe Look inside the water you will see the crockodile lying in it..
 \rf Tape:7-1-591
 \rf Stewart List:0954
-\dt 03/Apr/2012
+\dt 09/Aug/2012
 
 \lx tɔa
 \ph tɔ́á
-\ge thing_that
+\ge thing hat
 \de the thing that
 \ps PRO
 \np tɔa nɩ
 \xv Tɔa nyankpʋsa tamakle a, bʋtamapʋ bwɛ mʋ.
-\xe Some thing that a person does not like, we don't do it to him.
+\xe Some thing that a person does not like, don't do it to him.
+\lt ... They don't do it to him
 \xv Kɩ tɔa amʋ́ʋ́ ɩda ɩnʋ amʋ afʋtsu mʋ́ ha mɩ.
 \xe Look at the thing that is lying there and bring it to me.
 \dt 23/Jul/2012
@@ -31818,7 +31845,7 @@ cf fonflo
 \ph tɔtɔːtɔ
 \ge nothing_at_all
 \de nothing, usually used with a negative verb construction to form a double negative for emphasis
-\ps PRO
+\ps n
 \xv Mlɩlaha ɔha ánɩ́ ɔmɔkʋ bwɛ lalahɛ ɩpɔn, mɔ mʋ. Ɔhaa mɛtalɩblɩ asʋngyiasʋn ntɛ bwɛ mlɩ tɔtɔɔtɔ.
 \xe You have found guilty, a person who has done no evil, and killed him. Nobody could not say anything at all
 \rf Tape:7-1-079
@@ -31828,7 +31855,7 @@ cf fonflo
 \es redupilcation of tɔtɔ "nothing"
 \xv Oyin ɔkʋ ma tɔtɔ mʋ woyitɔ.
 \xe A certain man has in his house.
-\dt 03/Apr/2012
+\dt 09/Aug/2012
 
 \lx tra
 \ph trá
@@ -32831,7 +32858,7 @@ cf fonflo
 \xv Tsufɛ mʋ agywɩɩn igyi anyɔ, ɔmɛɛlɩɩ tsukʋlɛ.
 \xe Because his mind is two he doesn't stand in one place.
 \rf Tape:3-1-235
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 \xv Anɩan mʋ nyɔ fɛ́ɛ́ bʋ tsukʋlɛ.
 \xe We and he all are at one place.
 \rf Tape:7-2-493
@@ -32839,7 +32866,8 @@ cf fonflo
 \xe Put all the things in one place.
 \rf Tape:7-2-496
 \xv Foblufo wʋlɩ tsukʋlɛ a, mʋ́ ɩtɛlɩn afu.
-\xe If you should urinate in oneplace it makes bubbles.\dt 30/Sep/1998
+\xe If you should urinate in oneplace it makes bubbles.
+\dt 30/Sep/1998
 
 \lx tsukʋlɛ osinpʋ
 \ph ʦukʊlɛ osínpʊ
@@ -32997,13 +33025,6 @@ cf fonflo
 \rf Tape:7-2-520
 \dt 03/Apr/2012
 
-\lx tswi
-\ph ʦwi
-\ge straight
-\de not crooked
-\ps ADJ
-\dt 29/Jul/2005
-
 \lx tswie
 \ph ʦwie
 \ge rain; plant
@@ -33093,7 +33114,8 @@ cf fonflo
 \de to lie someone flat
 \xv Pʋ kebi amʋ tswɩ lala.
 \xe Lay the child flat.
-\rf Tape:4-1-453\dt 08/Aug/2012
+\rf Tape:4-1-453
+\dt 09/Aug/2012
 
 \lx tswɩtswɩ
 \ph ʦwɪʦwɪ
@@ -33158,21 +33180,12 @@ cf fonflo
 \xe Tomorrow I will get up early to tell our clan-head this matter, if not, when day break he will be drunk.
 \dt 12/Jan/2012
 
-\lx tukuribi
-\ph tukuribi
-\ge small; little
-\de
-\ps ADJ
-\dt 18/Oct/2005
-
 \lx tukuriibi
-\ph túkúríːbi
+\ph túkúríːbi(L)
 \ge tiny
-\np HHHL
 \de very small amount
 \pl atukuribi
 \ph atúkúríbi
-\np LHHHL
 \ps ADJ
 \nt smaller than kpalobi
 \xv Mʋ nfɔ lasi tukuriibi.
@@ -33180,7 +33193,7 @@ cf fonflo
 \rf Tape:7-2-581
 \nt From ths: words for small: kusubi, putuputu, kɛtsɛkɛtsɛ; small in amount: kpalobi, tukuriibi
 \rf Stewart List:1512
-\dt 10/Jan/2012
+\dt 09/Aug/2012
 
 \lx tumi
 \ph túmi
@@ -33743,7 +33756,7 @@ cf fonflo
 
 \lx woo
 \ph woː
-\ge cry_hard
+\ge cry hard
 \de strongly - used of crying
 \ps ADV
 \dt 26/Oct/2005
@@ -33838,7 +33851,8 @@ cf fonflo
 \ge flop down
 \de to sit down hard and suddenly
 \cf wɔɩ
-\cf tɩa\dt 09/Aug/2012
+\cf tɩa
+\dt 09/Aug/2012
 
 \lx wɔlɩ
 \ph wɔ́lɪ́
@@ -34003,21 +34017,6 @@ cf fonflo
 \xv Kebi ánɩ́ ɔtamakle sunbi yɔ a, fenya tɩ mʋ pɛ otowuna.
 \xe A child who does not want to be sent, as soon as you call him he frowns his face.
 \dt 10/Jan/2012
-
-\lx wunasʋ
-\ph wúnasʊ
-
-\ge dunghill
-\np HLL
-\np L-HH!H#H
-\de garbage dump and public toilet area.
-\ps n
-\np wunasʋ nɩ
-\xv Alasa bʋtekle wunasʋ gyonka tsufɛ bʋtekle atɔ dada gyi.
-\xe Vultures like to perch on the dunghill because they like to eat old things.
-\rf Tape:5-1-474
-\nq this should be ŋwunasʋ
-\dt 16/Jul/2012
 
 \lx wunsinɛsʋ
 \ph wunsinɛsʊ
@@ -34281,11 +34280,11 @@ cf fonflo
 
 \lx yaa
 \ph yaː
+\ps ADV
 \ge sound of wind
 \np LL
 \de sound of a gentle wind
-\ps Adverb
-\dt 11/Jan/2012
+\dt 09/Aug/2012
 
 \lx yaa
 \ph yáː
@@ -34385,33 +34384,32 @@ cf fonflo
 \ge naked
 \np LH
 \de without clothes
-\ps ADVerb
+\ps ADV
 \np yaya nɩ
 \xv Tsu kebi amʋ tsakoto wa mʋ, tsufɛ otse yaya.
 \xe Put underware on the child because he is sitting naked.
 \xv Bɛnatɩ yaya tamɛ pɛlɩ mɛkɩta amʋ́ aba ansɩtɔ.
 \xe They walked naked but were not ashamed in front of each other. (Genesis abridg 2)
-\dt 16/Jul/2012
+\dt 09/Aug/2012
 
 \lx ye
-\ph ye
-\ge divide
-\np LL
-\np LLʔ
-\de divide; share
+\ph yeʔ(L)
 \ps v
-\np oteyie atɔtɔ
-\xv Yie atɔ amʋtɔ ankpa mɩ klɛ.
+\ge divide
+\de to divide; to share out
+\xv Ye atɔ amʋtɔ ankpa mɩ klɛ.
 \xe Divide the things so I should collect mine.
-\dt 18/Oct/2005
-\xv Anɩlayie ndɔ amʋtɔ, mɩ fʋnka bʋ gyɔpɩsʋ.
+\dt 09/Aug/2012
+\xv Anɩlaye ndɔ amʋtɔ, mɩ fʋnka bʋ gyɔpɩsʋ.
 \xe We have divided the farm, my end is on the right.
 \rf Tape:8-1-564
-\xv Alayie mʋ agyapadɩɛ ha mʋ abi.
+\xv Alaye mʋ agyapadɩɛ ha mʋ abi.
 \xe He has divided his possessions for (up between) his children.
 \rf Tape:8-1-567
-\nt Twi form is ɩkyɛ
-\cf oyiekpa- place of division\dt 23/Nov/2001
+\ue South: kɩɛ
+\bw Akan fi:ɩkyɛ
+\cf oyekpa - place of division
+\dt 23/Nov/2001
 
 \lx yebi
 \ph yébi
@@ -34488,8 +34486,8 @@ cf fonflo
 \ph yɛ̂ː
 \ge after_all
 \de after all
-\ps exclam
-\dt 10/Jan/2012
+\ps INTJ
+\dt 09/Aug/2012
 
 \lx yɛɩ
 \ph yɛ́ɪ́
@@ -34792,14 +34790,16 @@ cf fonflo
 \ge OK
 \np L
 \de OK
-\ps intj
-\xv Yoo, nanu, sʋ nɛ́ba.
+\ps INTJ
+\xv Aoo, nanu, sʋ nɛ́ba.
 \xe Yoo, I have heard so I will come.
 \rf Tape:8-2-040
 \xv Yoo, ba ayɔ.
 \xe Yoo, come and let us go.
 \rf Tape:8-2-046
-\dt 16/Jul/2012
+\va aoo
+\ns Aoo is more frequently heard in the Northern dialect but is declining in usage
+\dt 09/Aug/2012
 
 \lx yɔ
 \ph yɔ́
@@ -34880,10 +34880,10 @@ cf fonflo
 
 \lx yɔfʋn
 \ph yɔ́fʊ̃
-\ps TEMP
+\ps ADV
 \ge until
 \de until
-\dt 12/Jan/2012
+\dt 09/Aug/2012
 
 \lx yɔɩ
 \ph yɔ́ɪ́
@@ -34910,10 +34910,8 @@ cf fonflo
 \lx yula
 \ph yúlá
 \ge bless
-\np LH
 \de bless
 \ps v
-\np otoyula
 \xv Nana Bulu toyula aha amʋ bʋtegyi mʋ asʋnsʋ amʋ fɛ́ɛ́.
 \xe God blesses all those who obey his word.
 \rf Tape:8-2-052
@@ -34921,4 +34919,5 @@ cf fonflo
 \xe God should bless us all.
 \rf Tape:8-2-059
 \rf Stewart List:3243
-\dt 03/Apr/2012
+\cf hyira
+\dt 09/Aug/2012
