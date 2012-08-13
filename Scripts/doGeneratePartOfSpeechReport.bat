@@ -1,30 +1,44 @@
+@echo off
 REM Generate report on Nkonya Lexicon file
 REM
 REM
 REM Hannes Hirzel
-REM August 2012 
+REM  8 August 2012
+REM created
+REM Wes Peacock
+REM 13 August 2012
+REM add checks for ..\tmp, ..\reports busybox.exe
+REM change sed to egrep
+REM copy lexical file to ..\tmp directory with rename
+REM turn off echo
+
 REM
 REM
 REM Tool used is busybox for Windows
 REM
-REM http://javaforu.blogspot.com/2011/04/little-gem-that-is-busybox-for-windows.html
-REM https://github.com/pclouds/busybox-w32
-REM
-REM
-REM the basic form of the stream editor command (sed) is
-REM  s/something/somethingElse/g
-REM  substitue something with somethingElse globally
-REM  (i.e. in the input line)
-REM
-REM However here we use the print (p) command 
 
-REM emulate grep for \ps
 REM the backslash character needs to be escaped
 REM
- busybox sed -n "/\\ps /p" ..\NkolexInUnicode.txt  > ..\tmp\tmp2onlyPsFields.txt
+busybox echo Producing a List of  Part of Speech markers from .\Nkolex in Unicode.txt 2>NUL
+if not errorlevel 9009 goto BUSYBOX_INSTALLED
+ECHO This script requires busybox.exe. You can get it from:
+ECHO      https://github.com/pclouds/busybox-w32
+ECHO The link is near the top of the page
+goto EOF
+
+:BUSYBOX_INSTALLED
+if not exist ..\tmp md ..\tmp
+copy "..\Nkolex in Unicode.txt" ..\tmp\NkolexInUnicode.txt
+busybox egrep "\\ps " ..\tmp\NkolexInUnicode.txt  > ..\tmp\tmp2onlyPsFields.txt
+
 
 
  busybox sort ..\tmp\tmp2onlyPsFields.txt > ..\tmp\tmp3onlyPsFieldsSorted.txt
 
 
+if not exist ..\reports md ..\reports
  busybox uniq -c ..\tmp\tmp3onlyPsFieldsSorted.txt > ..\reports\reportNkolexPartOfSpeechStatistics.txt
+
+ECHO The list is in reports\reportNkolexPartOfSpeechStatistics.txt of the Nkonya directory
+
+:EOF
