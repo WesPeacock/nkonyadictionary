@@ -224,7 +224,6 @@
 \FailMark *
 \bShowFailMark
 \bShowRootGuess
-\bPreferSuffix
 \+wdfset 
 \wdfPrimary Word
 \+wdf Word
