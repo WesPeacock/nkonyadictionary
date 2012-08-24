@@ -322,15 +322,14 @@
 \dt 21/Aug/2012
 
 \lx abielɛ
-\ph abíelɛ
+\ph abíelɛ (L)
 \ps ADJ
 \ge batheable
-\np LHLL (L)
-\np L-HLF-L
+\de easy or pleasant to bathe in
 \xv abielɛ
 \xe easy to bathe
 \xv Okunkutɔ a, otsulu bʋ abielɛ.
-\xe easy to bathe: When its hot, cold water is good for bathing.
+\xe When its hot, cold water is good for bathing.
 \xe When the weather is warm it is pleasant to bath in cold water.
 \rf Tape:1-1-095
 \dt 10/Jan/2012
@@ -373,7 +372,7 @@
 \ph abɪ̃ʔ iwú
 \ps n
 \ge rib
-\de
+\de rib
 \rf SIL-AWL:0080
 \dt 12/Jan/2012
 
@@ -563,6 +562,7 @@
 \ph abususʊ
 \ps n
 \ge blasphemy
+\de blasphemy
 \dt 17/Nov/2009
 
 \lx abwi
@@ -606,10 +606,10 @@
 \dt 16/Jul/2012
 
 \lx adalɛ
-\ph adalɛ́
+\ph adalɛ́ (H)
 \ps ADJ
-\ge easy_to_play
-\np LLH (H)
+\ge easy to beat
+\de easy to beat
 \xv Nɩ fʋyin akwɛ da a, ɩbʋ adalɛ.
 \xe If you know how to drum, it is easy to drum.
 \rf Tape:1-1-120
@@ -1144,7 +1144,8 @@
 \lx agyabi
 \ph aʤabi
 \ps n
-\ge large_log_fire
+\ge fire
+\de a fire with large logs
 \dt 17/Nov/2009
 
 \lx agyapadɩɛ
@@ -1199,12 +1200,6 @@
 \xe easy to eat: Food that does not have salt in it is not easy to eat.
 \rf Tape:1-1-268
 \dt 02/Apr/2012
-
-\lx agyinde
-\ph aʤinde
-\ps n
-\ge fog
-\dt 17/Nov/2009
 
 \lx agyɩm
 \ph aʤɪm
@@ -1628,6 +1623,7 @@
 \ph ak͡pa
 \ps n
 \ge mat
+\de mat
 \dt 17/Nov/2009
 
 \lx akpankogyo
@@ -1659,6 +1655,7 @@
 \ph ak͡pek͡pe
 \ps n
 \ge sack
+\de k.o. sack
 \dt 17/Nov/2009
 
 \lx akpitalɛ
@@ -1874,31 +1871,32 @@
 \dt 16/Jul/2012
 
 \lx alɛ
-\ph alɛ́
+\ph alɛ́ (H)
+\sn 1
 \ps n
-\ge good; quality
-\np LH (H)
-\np L-H#H
-\de 1) good 2) with an infixed verb, quality of being pleasant or easy to perform. All these verbs occur with bʋ, or ma. E. g. Ɩbʋ akɩlɛ. Ɩma akɩlɛ.
+\ge good
+\de good
 \cf yile
 \xv Ɩbʋ alɛ
 \xe It is good.
 \rf Tape:1-1-383
+\sn 2
+\ps NOMR
+\ge easy
+\de with verb infix X, a-X-lɛ is the quality of easy or pleasant to X
+\xv kɩ; akɩlɛ
+\xe look at; beautiful
 \dt 02/Aug/2012
 
 \lx alɩ
-\ph alɪ
+\ph alɪ (H)
 \ps DEIC
-\ge that; this
-\np LL
-\np LL#H
-\de 1) this way, in this fashion, or in that way 2) So, is that how it is.
+\sn 1
+\ge this way
+\de this way, in this fashion
 \xv Matsia alɩ.
 \xe Don't be like that.
 \rf Tape:1-1-389
-\xv Alɩ gyi nɩ?. Ee! Alɩ igyi nɩ.
-\xe Depending on intonation either a question, Is that how it is? or a response, yes that's how it is.
-\rf Tape:1-1-391
 \xv Alɩ odu ɩlʋ anfɩ bʋ anulɛ.
 \xe This particular song sounds nice.
 \rf Tape:1-1-395
@@ -1917,6 +1915,10 @@
 \xe When they teach you to do something, you also should do it the same way.
 \xe You should emulate your teacher.
 \rf Tape:1-1-403
+\sn 2
+\xv Alɩ gyi nɩ? Ee! Alɩ igyi nɩ.
+\xe Depending on intonation either a question, Is that how it is? or a response, yes that's how it is.
+\rf Tape:1-1-391
 \th words dealing with similiarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛn,
 \dt 02/Aug/2012
 
@@ -2076,6 +2078,7 @@
 \ph amʊmʊyɔ
 \ps n
 \ge suffering
+\de suffering
 \dt 17/Nov/2009
 
 \lx amʋ́ʋ́
@@ -2367,10 +2370,9 @@
 \ph ansɪ́kukusʊ-imi
 \ps n
 \ge eyebrow
-\de
+\de eyebrow
 \xv Kebi bɔbwɛ amʋ ansɩkukusʋ-imi amʋ labʋla dʋbi
 \xe The eyebrow of the small child is too bushy
-
 \rf SIL-AWL:0007
 \dt 10/Jan/2012
 
@@ -2520,6 +2522,7 @@
 \ph apinabwɛbí
 \ps n
 \ge hypocrisy
+\de hypocrisy
 \dt 10/Jan/2012
 
 \lx apipi
@@ -2552,13 +2555,11 @@
 \ph apopobíbre
 \ps n
 \ge algae; moss
-\np LLHL
-\np L-LL-HL#H
-\de 1) algae 2) moss
+\de algae, moss
 \xv Febie ɔkwaɩ afu wʋlɩ ɔsʋlʋtɔ, nyankpʋ otswie wʋlɩ mʋ́sʋ a, ɩtɔbwɛ apopobibre.
 \xe If you bathe with soap and the suds fall on the ground and if it rains on it, it always grows algae.
 \rf Tape:1-1-544
-\dt 10/Jan/2012
+\dt 24/Aug/2012
 
 \lx apʋsɛ
 \ph apʊsɛ
@@ -2644,8 +2645,8 @@
 \ph asapráda
 \ps n
 \ge onion
-\de
-\dt 10/Jan/2012
+\de onion
+\dt 24/Aug/2012
 
 \lx asawu
 \ph asawu
@@ -2694,6 +2695,7 @@
 \ph asiabí
 \ps n
 \ge insults
+\de insults
 \dt 10/Jan/2012
 
 \lx asiansian
@@ -2760,14 +2762,13 @@
 \dt 23/Jul/2012
 
 \lx asikre
-\ph asíkré
+\ph asíkréʔ (H)
 \ps n
 \ge sugar
-\np LHH (H)
-\np L-H!Hʔ#H
-\bw Akan fi:asikre LHH?
+\de sugar
+\bw Akan fi:asikre LHH
 \xv Agyawugya babla asikre daka amʋ.
-\xe The little red ants (they) have filled the sugar box.
+\xe The little red ants have filled the sugar box.
 \xe The sugar box is full of little red ants.
 \dt 10/Jan/2012
 
@@ -2793,13 +2794,13 @@
 \ps n
 \sn 1
 \ge meaning
-\sn 2
-\ge offspring
-\sn 3
-\ge earth
+\de meaning
 \xv Mʋ asʋn amʋ asɩ mɛ?
 \xe What did he mean? (His word what about its meaning?
 \rf Tape:1-1-586
+\sn 2
+\ge offspring
+\de descendants
 \xv Mʋ asɩ bɛ́klɛɩ.
 \xe Her offspring will multiply.
 \xe She will have many descendants.
@@ -2810,16 +2811,30 @@
 \lx asɩ
 \hm 2
 \ph asɪ(H)
+\sn 1
 \ps POST
-\va -asɩ
-\ge around; down; under; begin
-\de 1) around; 2) down 3) under 4) begin (with fi)
+\ge around
+\de around
+\sn 2
+\ge down
+\de down
+\sn 3
+\ge under
+\de under
+\sn 4
+\ps n
+\ge earth
+\de earth, as opposed to heaven ɔsʋsʋ
+\se fi X asɩ
+\ge start
+\de to start doing X
 \dt 13/Aug/2012
 
 \lx asɩba
 \ph asɪbá
 \ps n
 \ge humility
+\de humility
 \dt 23/Jul/2012
 
 \lx asɩfi
@@ -2833,6 +2848,7 @@
 \ph asɪlɛ
 \ps n
 \ge explanation
+\de explanation
 \dt 23/Jul/2012
 
 \lx asɩra
@@ -2852,14 +2868,14 @@
 \ph asɪsɪgua
 \ps n
 \ge stool
-\de
+\de k.o. stool
 \dt 13/Jul/2005
 
 \lx asɩtsua
 \ph asɪt͡suá
 \ps n
 \ge beginning
-\de
+\de beginning
 \dt 21/Aug/2012
 
 \lx asomodɩɛ
@@ -2886,8 +2902,8 @@
 \ph asúbɔ
 \ps n
 \ge baptism
-\de
-\dt 10/Jan/2012
+\de baptism
+\dt 24/Aug/2012
 
 \lx asubwi
 \ph asubwi
@@ -2905,30 +2921,21 @@
 \ph asubwisʊ
 \ps n
 \ge altar
-\de
+\de altar
 \dt 11/Feb/2008
 
 \lx asʋankʋ
 \ph asʊaŋkʊ
 \ps n
 \ge certain_word
-\de
+\de a certain word
 \nt from asʋn kʋ
-\dt 11/Oct/2005
-
-\lx asʋansʋ
-\ph asʊansʊ
-\ps n
-\ge no-word
-\de
-\dt 14/Feb/2006
+\dt 24/Aug/2012
 
 \lx asʋasʋn
-\ph asʊasʊ̃
+\ph asʊasʊ̃ (L)
 \ps n
 \ge nothing
-\np LLLL
-\np L-LLL#L
 \de absence of any "case/problem. A contraction of "asʋn-asʋn" used idiomatically in combination with "not".
 \np asʋasʋn nɩ
 \xv Nɔyɔ Nkran, mʋ́ʋ́ anɩ pɩ amʋ́ʋ́ bʋbʋ Nkran amʋ bɛfɩtɛ mɩ bɛɛ, "Amansʋ bʋ woyi ?" Nɛbla amʋ́ ánɩ́ asʋasʋn ma woyi.
@@ -2939,7 +2946,7 @@
 \ph asʊbwi
 \ps n
 \ge cooking_stone
-\de stones fixed fpr cooking
+\de stones fixed for cooking
 \dt 20/Sep/2005
 
 \lx Asʋhompeiin
@@ -2952,12 +2959,10 @@
 \dt 02/Jan/2012
 
 \lx asʋmʋdɩɛ
-\ph asʊmʊdɪ́ɛ́
+\ph asʊmʊdɪ́ɛ́ (H)
 \ps n
 \ge ear_ring
-\np LLHH
-\np L-LHH#H
-\de ear ring;
+\de ear ring
 \bw Akan fi:asumudɩɛ LLLH
 \xv Atsɩ bʋtekle asʋmʋdɩɛ pɔpwɛ hɔ, nɩ bɛba begyi nkɛ
 \xe Women like to buy new earrings, when they come to special occasions.
@@ -2985,7 +2990,7 @@
 \ph asʊn blɪ́hɛ́ (L)
 \ps n
 \ge spoken_word
-\de technically does not mean sentence, having a wider meaning, but a sentence is an asʋn-blɩhɛ.
+\de a sentence or utterance
 \xv Pʋwa asʋn-blɩhɛtɔ ha mɩ.
 \xe Put it in a sentence for me.
 \rf Tape:1-2-055
@@ -3014,24 +3019,22 @@
 \dt 23/Jul/2012
 
 \lx asʋtɔlɩn
-\ph asʊtɔlɪ̃
+\ph asʊtɔlɪ̃ (H)
 \ps n
 \ge disobedience
-\np LLLL
-\np L-LLL#H
-\de disobedience lit. asʋtɔ ɔnlɩ inside ear hard
+\de disobedience
+\lt asʋtɔ ɔnlɩn: inside ear hard
 \cf ma bu
 \xv Kebi ánɩ́ ɔbʋ asʋtɔlɩn a, mʋ akwɩɩpʋ ansɩ tamagyi mʋ wɩ.
 \xe The child that is disobedience, his parents are never happy with him.
 \xe Parents of a disobedient child are never happy with him.
-\dt 02/Aug/2012
+\dt 24/Aug/2012
 
 \lx atadɩɛ
-\ph atadɪɛ
+\ph atadɪɛ (H)
 \ps n
 \ge dress
-\np LLLL
-\np L-LLL#H
+\de Western style clothing; dress, trousers, shirt
 \pl ntadɩɛ
 \ph ntadɪɛ
 \bw Akan fi:atadɩ LLH
@@ -3226,7 +3229,7 @@
 \ph atɔ́sʊráhɛ́
 \ps n
 \ge load
-\de
+\de thing being carried on the head
 \dt 10/Jan/2012
 
 \lx atrahɛ
@@ -3252,25 +3255,20 @@
 \rf Stewart List:1043
 \dt 21/Aug/2012
 
-\lx atsalɩbrɩ
-\ph at͡sálɪ́brɪ
-\ps n
-\ge cold_weather
-\de
-\dt 21/Aug/2012
-
 \lx atsankasɩ
 \ph at͡saŋkasɪ
 \ps n
 \ge intestine_worm
-\de
+\de intestinal worm
 \dt 21/Aug/2012
 
 \lx atsantsankʋ
 \ph at͡sant͡saŋkʊ
 \ps n
 \ge locust
-\dt 21/Aug/2012
+\de locust
+\cf gbablama
+\dt 24/Aug/2012
 
 \lx atse
 \ph at͡sé
@@ -3300,20 +3298,12 @@
 \rf Tape:1-2-106
 \dt 21/Aug/2012
 
-\lx atsɩ-tsɔtsɔ-tsiaa
-\ph at͡sɪ-t͡sɔt͡sɔt͡sia
-\ps n
-\ge polygamy
-\de
-\dt 21/Aug/2012
-
 \lx atsufolibi
-\ph at͡sufolibi
+\ph at͡sufolibi (L)
 \ps n
 \ge hail
-\np LLLLL
-\np L-LLLLL#L
-\de literally rock salt water
+\de hail
+\lt rock salt water
 \xv Brɛ kʋtɔ a, nɩ nyankpʋ detswie a, atsufolibi tɔkpa.
 \xe Sometimes, when it is raining, hail falls.
 \xe It sometimes hails when it rains.
@@ -3324,7 +3314,7 @@
 \ph at͡sufú
 \ps n
 \ge storm
-\de
+\de storm
 \dt 21/Aug/2012
 
 \lx atsuli-bibi
@@ -3486,8 +3476,8 @@
 \lx awɛ
 \ph awɛ
 \ps n
-\ge name_sake
-\de
+\ge namesake
+\de namesake
 \dt 09/Aug/2012
 
 \lx awiaburo
@@ -3518,8 +3508,8 @@
 \lx awikpan
 \ph awik͡pã
 \ps n
-\ge hot_weather
-\de
+\ge hot season
+\de hot season
 \dt 20/Sep/2005
 
 \lx awɩrɛhɔ
@@ -3601,9 +3591,11 @@
 \ph awʊlɪ
 \ps n
 \ge skin_of_a_body
-\de
-\xv Oyin amʋ awʋlɩ bʋ ɔnlɩn dʋbɩ
-\xe The skin of the man is too hard
+\de skin of the body
+\xv Oyin amʋ awʋlɩ bʋ ɔnlɩn dʋbɩ.
+\xe The skin of the man is too hard.
+\cf ɔwʋlʋ
+\cf ɔyɩlʋ
 \rf SIL-AWL:0002
 \dt 14/May/2012
 
@@ -3674,7 +3666,8 @@
 \ph ayó
 \ps n
 \ge millet
-\de
+\de millet
+\cf atɩkɔ
 \dt 10/Jan/2012
 
 \lx aza
@@ -3959,15 +3952,15 @@
 \ph batɛkokoyĩ
 \ps n
 \ge rooster
-\de
-\dt 14/Jul/2005
+\de big rooster
+\dt 24/Aug/2012
 
 \lx batɛtsɩhɛ
 \ph batɛt͡sɪhɛ
 \ps n
 \ge hen
-\de
-\dt 21/Aug/2012
+\de hen
+\dt 24/Aug/2012
 
 \lx beblebe
 \ph béblébé
@@ -4148,7 +4141,7 @@
 \ph -bi
 \ps NOMR
 \ge DIMINUTIVE
-\de
+\de diminutive suffix marker
 \dt 01/Feb/2005
 
 \lx bia
@@ -4169,8 +4162,7 @@
 \ph bíáʔ(H)
 \ps vt
 \ge break
-\np HH?
-\de break;
+\de break
 \xv bia kpoli
 \xe harvest corn
 \xv Mɩ kpoli lafuli, kokoli bia mʋ́ ha mɩ.
@@ -4293,30 +4285,28 @@
 \dt 09/Aug/2012
 
 \lx bila
-\ph bila
+\ph bílá (H)
 \ps vi
 \ge blacken
 \np HH
-\de blacken;
-\np Otebila (tɔkʋ).
+\de blacken
 \xv Nyankpʋ labila.
 \xe Rain has blackened.
 \rf Tape:1-2-455
-\dt 12/Jan/2012
+\dt 24/Aug/2012
 
 \lx bio
 \ph bio
 \ps vt
 \ge butcher
-\np LL
-\de butcher;
+\de butcher
 \np Otebio (tɔkʋ).
 \xv Bio batɛ amʋ afʋlɛ mʋ wɩtɔ atɔ tsitsa. Afʋkaka ayie amʋ wa ɔlankatɔ nɩna mʋ́.
 \xe Butcher the fowl and remove its inside things and throw them away. You should cut the meat in pieces into a cooking pot and cook it.
 \xe When you kill a chicken, gut it and throw the innards away. Then chop it up into a pot and cook it.
 \rf Tape:1-2-458
 \rf Stewart List:2875
-\dt 05/Jul/2005
+\dt 24/Aug/2012
 
 \lx bite
 \ph bíté
@@ -4349,7 +4339,7 @@
 \ph bitɪ́
 \ps n
 \ge firstborn
-\de
+\de first born
 \dt 10/Jan/2012
 
 \lx bɩ
@@ -4447,7 +4437,7 @@
 \ph bɪnasʊ
 \ps CNJ
 \ge left_side
-\de
+\de on the left
 \dt 20/Sep/2005
 
 \lx bɩsɩ
@@ -4599,26 +4589,35 @@
 
 \lx blɩ
 \hm 2
-\ph blɪ
+\ph blɪʔ (L)
 \ps v
-\ge be_hot
-\np L
-\de 1) to be hot 2) cooked 3) also used figuratively of someone involved in juju
+\sn 1
+\ge hot
+\de to be hot
+\sn 2
+\ge cooked
+\de to be cooked
+\xv Nɩ atɔ amʋ blɩ a, swɩɩ mʋ́ yaɩ.
+\xe If the thing is cooked remove it (from fire) and put it down.
+\xe When the thing is cooked take it off the fire.
+\rf Stewart List:2252
+\rf Tape:1-2-518
+\sn 3
+\ge strong magic
+\de having powerful magic
 \xv Nɩ fɛblɩ dʋbɩ a, fɔ́hɔ.
 \xe If you cook too much, you will burn. Meaning: If you play with juju it will destroy you. Used as a warning.
 \nt proverb
 \rf Tape:1-2-515
-\xv Nɩ atɔ amʋ blɩ a, swɩɩ mʋ́ yaɩ.
-\xe If the thing is cooked remove it (from fire) and put it down.
-\xe When the thing is cooked take it off the fire.
-\rf Tape:1-2-518
 \rf Stewart List:2252
 \nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
-\xv blɩ ogya
-\xv be hot
+\xv
+\se blɩ ogya
+\ge be hot
+\de to be hot
 \rf Stewart List:2289
 \rf Stewart List:2822
-\dt 06/Aug/2012
+\dt 24/Aug/2012
 
 \lx blɩ ogya
 \ph blɪ oʤáʔ
@@ -6162,11 +6161,9 @@
 \dt 22/Aug/2012
 
 \lx dimbi
-\ph dimbí
+\ph dimbí (H)
 \ps n
 \ge grass
-\np LH
-\np LH#H
 \de grass
 \xv Kufa amʋ dɛ dimbi wɩ.
 \xe The sheep is eating grass.
@@ -6174,7 +6171,7 @@
 \xv Dimbi gyi ɩfá kʋa ɩma tɔtɔ bwɛtɔ, tamɛ mʋ́lɔhɔ ɩda nɩ. Aklɔtɩ tɔpʋ la isia.
 \xe This grass is a type that is not used for anything. But has the greatest name. Mice use it for nest.
 \nt From ths: words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfá (grass, weeds) kɛnkɛ,
-\dt 06/Aug/2012
+\dt 24/Aug/2012
 
 \lx dimbisʋ
 \ph dimbísʊ́
@@ -7904,6 +7901,13 @@
 \xe The grinding mill is grinding kpoli.
 \rf Tape:2-2-126
 \dt 05/Jul/2005
+
+\lx gbablama
+\ph g͡bablama
+\ps n
+\ge locust
+\de locust
+\dt 24/Aug/2012
 
 \lx gbede
 \hm 1
@@ -24936,14 +24940,13 @@ cf fonflo
 \ps n
 \ge grasshopper
 \de small grasshopper
-\nt gbablama
 \pl nkɛkɛ
 \ph ŋkɛkɛ́
 \cf gbablama
 \xv Ɔkɛkɛ amʋ gyon buntisʋ, batɛ lofuli ánɩ́ ɔbɔ́tswɛ mʋ alɩ a, olotu si mʋ.
 \xe The grasshopper was perched on the wall, a chicken flew in order to catch him so, he took off and left him.
 \rf Tape:5-2-424
-\dt 10/Jan/2012
+\dt 24/Aug/2012
 
 \lx ɔkɛkɛɛkɛ
 \ph ɔkɛkɛːkɛ
