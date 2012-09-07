@@ -208,7 +208,7 @@ a ɶ ɑ ɒ
 
 \-varset
 \+fnt 
-\Name Gentium
+\Name Doulos SIL
 \Size 14
 \charset 00
 \rgbColor 0,0,0
@@ -221,4 +221,5 @@ a ɶ ɑ ɒ
 
 \-KeyDefs
 \UnicodeLang
+
 \-LanguageEncoding

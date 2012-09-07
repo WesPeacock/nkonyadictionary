@@ -134,48 +134,12 @@
 \CharStyle
 \-mkr
 
-\+mkr awl
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr b%
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr bb
 \nam Bibliography
 \desc Used to record any bibliographic information pertinent to the lexeme. MDF adds the label 'Read:' to this field. For basic information (to reference an entry in a more complete bibliography database) include the following: AuthorLastName, FirstName/Initials date:pp. For a more complete reference include: AuthorLastName, FirstName/Initials. date. Title. City, Publisher. pp. xxx-yyy.
 \lng English
 \mkrOverThis sn
 \CharStyle
-\-mkr
-
-\+mkr be
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr bh
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr bo
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr bt
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr bw
@@ -330,12 +294,6 @@
 \CharStyle
 \-mkr
 
-\+mkr gl
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr gn
 \nam Gloss (n)
 \desc Intended for interlinear morpheme-level glossing. Join multi-word glosses with (_), e.g. wild_boar; use (space semicolon space) for multiple glosses, e.g. hut ; house ; shack. The contents are used for reversing the dictionary if an \rn field is not present (or is present but empty). Also used as a national language definition in a formatted dictionary if there is no \dn field (or it is present but empty).
@@ -360,30 +318,12 @@
 \CharStyle
 \-mkr
 
-\+mkr hlp
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr hm
 \nam Homonym number
 \desc Used to differentiate homonym entries (lexemes that are spelled the same but have no semantic relationship). This field comes directly after the \lx field and simply contains a number, e.g. 1, 2, or 3, etc. Use a Character Range Set.
 \lng English
 \mkrOverThis lx
 \CharStyle
-\-mkr
-
-\+mkr idf
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr ids
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr is
@@ -394,24 +334,12 @@
 \CharStyle
 \-mkr
 
-\+mkr kinds
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr lc
 \nam Citation form
 \desc This should be added only if the lexical entry form is inappropriate for the printed dictionary, and you want to substitute another form for the printed entry. When formatting a document, MDF always replaces the contents of the \lx field with the contents of the \lc field (if present).
 \lng vernacular
 \mkrOverThis lx
 \CharStyle
-\-mkr
-
-\+mkr lct
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr le
@@ -656,12 +584,6 @@
 \CharStyle
 \-mkr
 
-\+mkr pln
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr pn
 \nam Part of speech (n)
 \desc Classifies the part of speech with labels found in national language dictionaries. If used, this comes after the \ps field. Consistent labeling is important; use the Range Set feature.
@@ -700,12 +622,6 @@
 \CharStyle
 \-mkr
 
-\+mkr ref
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
 \+mkr rf
 \nam Reference
 \desc Used to note the reference for the following example sentence.
@@ -720,18 +636,6 @@
 \lng national
 \mkrOverThis sn
 \CharStyle
-\-mkr
-
-\+mkr rph
-\nam *
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr rpht
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr rr
@@ -832,12 +736,6 @@
 \lng vernacular
 \mkrOverThis sn
 \CharStyle
-\-mkr
-
-\+mkr ths
-\nam *
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr u
