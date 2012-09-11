@@ -1,47 +1,6 @@
 \_sh v3.0  745  MDF 4.0
 \_DateStampHasFourDigitYear
 
-\lx __master key
-\hm homonym number
-\ph phonetic form
-\ps ?
-\nt this file is c:\My Documents\Nkonya\SHOEBOX\nkolex. db
-\ge one_word_gloss_e._g._bi_(can_occur_multiple_times_e._g._child; son; daughter
-\np lemma tone:
-\nt H - high L - Low R - rising F - falling
-\nt A final low in a noun implies that a nɩ following will be high if the nɩ is low, use glottal stop
-\np phonetic tone with glottal stops and morpheme breaks for example:
-\nt abɛ (palm nut fruit) is a-bɛ; has no glottal and takes nɩ->L-H#H
-\nt abi (children) is a-bi; has no glottal and takes nɩ -> L-L#L
-\nt ki (turn) is alaki; has a glottal stop ->Hʔ
-\nt wu (die) is alawu; has no glottal stop -> H
-\nt kɩ (look) is alakɩ; has a glottal stop -> Lʔ
-\nt su (cry) is alasu; has no glottal stop -> L
-\de longer definition e. g. offspring; child; used also of animals.
-\bw - borrowing language fi:borrowed word   bt-Twi   be-English   bo-Ewe   bh-Hausa   cite the word & tone is different, cite the original form
-\lc citation form if different e. g. obi
-\pl plural form if different from singular
-\np plural tone form
-\nt extraneous comments
-\nq needs language informant correction
-\nt part of speech PropN - proper name n - noun e. g. abɛ (palm nut) NOMR - nominalizer suffix PRO - pronoun e. g mɩ (I/me) ADJ - adjective e. g. bʋ alɛ (good) ADV - adverb e. g. INTJ -interjection e. g. ɔyaa (good morning) loc -locative e. g. nana (there) DEIC - non-locative deictic e. g. alɩ TAM - tense aspect marker NUM - number v - verb vi - intrasitive verb vn - non-active verb (stative) PTCL other suffix
-\xv example using the word
-\xe translation of the example
-\cf related word Eng:related word gloss
-\nq needs to be checked
-\rf Tape:tape-side-index counter
-\nt The following markers are not as frequently used:
-\na anthropological note
-\ng grammar note
-\ng serial verb
-\cf cross-references
-\ue South:Southern dialect form
-\ue North:Northern dialect form
-\nt a proverb
-\np tone frame
-\va Alternate form of lx
-\dt 11/Sep/2012
-
 \lx a
 \hm 4
 \ph a
