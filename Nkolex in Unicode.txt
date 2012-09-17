@@ -2300,7 +2300,6 @@
 \rf Tape:1-1-525
 \dt 03/Apr/2012
 
-
 \lx anunlɛ
 \ph anúlɛ
 \ps ADJ
@@ -2582,21 +2581,6 @@
 \de seven
 \dt 02/Aug/2012
 
-\lx asientɔ
-\ph asíentɔʔ
-\ps n
-\ge dowry
-\de an amount of money a man gives to the family of a woman as a wife
-\cf sien
-\cf ɔ- -tɔ
-\xv Nɩ oyin obétsiaa ɔtsɩ a, ɔbɔ́pʋ nta yɛlɛ wɩ ɔnwan ha ɔtsɩ amʋ akwɩɩpʋ, pʋ kɔba manta nta amʋsʋ. Kɔba amʋ gyi asientɔ nɩ.
-\xe If a man, will marry, he will take drinks to show his intentions, give them to the woman's parents, and bring money along with the drinks. The money is the dowry.
-\xv Igyi anɩ amadɩɛ ánɩ́ nɩ fʋ mɔkʋka fʋ asientɔ a, ɔtsɩ amʋ mégyi fʋ ka nɩ.
-\xe It is our costume that if you don't pay your dowry to the family of the woman, then she is not your wife.
-\rf Tape:1-1-570
-\na The asientɔ is normally given to a senior woman relative of the bride. She then will counsel the bride in case of marriage breakdown, so that she doesn't have to pay it back to the groom's family.
-\dt 15/Sep/2012
-
 \lx asiɛɩ
 \ph asiɛɪ́
 \ps n
@@ -2610,6 +2594,21 @@
 \xe Every town has a graveyard. When a person dies they bury him there.
 \rf Tape:1-1-579
 \dt 10/Jan/2012
+
+\lx asiɛntɔ
+\ph asíɛntɔʔ
+\ps n
+\ge dowry
+\de an amount of money a man gives to the family of a woman as a wife
+\cf sien
+\cf ɔ- -tɔ
+\xv Nɩ oyin obétsiaa ɔtsɩ a, ɔbɔ́pʋ nta yɛlɛ wɩ ɔnwan ha ɔtsɩ amʋ akwɩɩpʋ, pʋ kɔba manta nta amʋsʋ. Kɔba amʋ gyi asientɔ nɩ.
+\xe If a man, will marry, he will take drinks to show his intentions, give them to the woman's parents, and bring money along with the drinks. The money is the dowry.
+\xv Igyi anɩ amadɩɛ ánɩ́ nɩ fʋ mɔkʋka fʋ asientɔ a, ɔtsɩ amʋ mégyi fʋ ka nɩ.
+\xe It is our costume that if you don't pay your dowry to the family of the woman, then she is not your wife.
+\rf Tape:1-1-570
+\na The asientɔ is normally given to a senior woman relative of the bride. She then will counsel the bride in case of marriage breakdown, so that she doesn't have to pay it back to the groom's family.
+\dt 17/Sep/2012
 
 \lx asikre
 \ph asíkréʔ (H)
@@ -4054,8 +4053,6 @@
 \xe Lay the blanket out on the ground.
 \dt 05/Jul/2012
 
-
-
 \lx biasʋ
 \ph bíásʊ́
 \ps n
@@ -4271,9 +4268,6 @@
 \cf bɩnasʋ Eng:lefthand side, therefore north (when you stand facing east)
 \rf Stewart List:0019
 \dt 23/Jul/2012
-
-
-
 
 \lx bɩnasʋ
 \ph bɪnasʊ
@@ -4516,9 +4510,6 @@
 \rf Tape:1-2-524
 \rf Stewart List:0913
 \dt 05/Jul/2005
-
-
-
 
 \lx blɔdɩ
 \ph blɔdɪ(H)
@@ -5599,9 +5590,6 @@
 \xv Nɩ fówuli nyɔmba a, fégyankpa bɔ mʋ́ dablun, fówun fasa oputsu amʋ lɛ mʋ́tɔ, wuli faasɩ amʋ, wa nfɔ mʋ́tɔ, bwɛ nyɔmba.
 \xe If you will make nyɔmba, you will first make dablun so that then you will take soup stock from it, and stir the water yam, and put oil in it, and so make nyɔmba.
 \dt 15/Sep/2012
-
-
-
 
 \lx dada
 \ph dáda
@@ -7680,7 +7668,7 @@
 \dt 15/Sep/2012
 
 \lx fʋrʋ
-\ph fʊrʊ
+\ph fʊ́rʊ
 \ps n
 \ge overcome
 \de to overcome someone
@@ -7688,7 +7676,7 @@
 \xe The child was overcome by sleep, he was told to go and sleep but because of food he refused. He sat down and was dozing until he fell from his chair.
 \xv Fasi kebi amʋ ɩlɔ lafʋrʋ mʋ asa fapʋ mʋ ya ɩlɔ ɔtsakpa.
 \xe You have let the child's sickness to worsen too much before taking him to the hospital.
-\dt 15/Sep/2012
+\dt 17/Sep/2012
 
 \lx fwi
 \ph fwi
@@ -9163,6 +9151,15 @@ sn 2
 \de eleven
 \dt 10/Jan/2012
 
+\lx idusɩ
+\ph idúsɪ́
+\ps NUM
+\va dusɩ
+\ge tenth
+\de tenth
+\rf Stewart List:1810
+\dt 17/Sep/2012
+
 \lx idwiin
 \ph idwĩ́ː
 \ps n
@@ -9374,6 +9371,14 @@ sn 2
 \rf Stewart List:1808
 \dt 02/Aug/2012
 
+\lx ikwe
+\ph ikwe
+\ps NUM
+\ge eight
+\de eight
+\rf Stewart List:1809
+\dt 17/Sep/2012
+
 \lx ikweba
 \ph ikwebá
 \ps NUM
@@ -9384,6 +9389,23 @@ sn 2
 \de nine
 \rf Stewart List:1809
 \dt 02/Aug/2012
+
+\lx ikwebasɩ
+\ph ikwebásɪ
+\ps NUM
+\va kwebasɩ
+\ge nineth
+\de nineth
+\rf Stewart List:1809
+\dt 17/Sep/2012
+
+\lx ikwesɩ
+\ph ikwesɪ
+\ps NUM
+\ge eighth
+\de eighth
+\rf Stewart List:1809
+\dt 17/Sep/2012
 
 \lx ikwi
 \ph ikwi
@@ -10379,7 +10401,7 @@ sn 2
 \xv Ha mɩ ɩfʋn.
 \xe Give me a part
 \xv Tɔa baye mʋ́tɔ mɛtra fʋn ɩkʋlɛ.
-\xe Anything that is not whole.
+\xe What has been divided (among people), cannot be made whole again.
 \sn 2
 \ge half
 \de half
@@ -10393,7 +10415,7 @@ sn 2
 \sn 4
 \ge direction
 \de a certain direction
-\dt 15/Sep/2012
+\dt 17/Sep/2012
 
 \lx ɩfʋnka
 \ph ɪfʊŋka
@@ -14614,7 +14636,7 @@ cf fonflo
 \lx kpɩnkɩ
 \ph k͡pɪ̃́ŋkɪ́
 \ge shiver
-\de shiver
+\de shiver, wobble
 \ps v
 \xv Ɔdɛ owisʋ lɔ sʋ ɔdɛkpɩnkɩ
 \xe He is shivering with fever.
@@ -14635,7 +14657,9 @@ cf fonflo
 \xe When they give you an injection, don't shake.
 \rf Stewart List:2075
 \rf Stewart List:2301
-\dt 15/Sep/2012
+\xv Lɔɔrɩ konti lɛkpɩnkɩ.
+\xe The truck tire wobbled.
+\dt 17/Sep/2012
 
 \lx kpɩsa
 \ph k͡pɪsá(H)
@@ -29675,18 +29699,6 @@ cf fonflo
 \cf kaka
 \dt 23/Aug/2012
 
-\lx sien
-\ph sĩẽ
-\ps v
-\ge marry
-\de to perform marriage customs
-\cf asientɔ
-\nt tsia is to live with a woman; sien is to perform the marriage custom
-\xv Fʋ ma ɔkpa tɩ ɔtsɩ ánɩ́ fʋ mɔkʋ sien mʋ fɛɛ fʋ ka.
-\xe You have no right to call a woman you have not perform the marriage rites as your wife.
-
-\dt 15/Sep/2012
-
 \lx sienɔ
 \ph sienɔ́
 \ps NUM
@@ -29701,13 +29713,13 @@ cf fonflo
 \dt 17/Jul/2012
 
 \lx sienɔsɩ
-\ph sienɔsɪ
+\ph sienɔ́sɪ
 \ps NUM
 \ge seventh
 \de seventh
 \xv Ɔtsɩra sienɔsɩtɔ anɩ bʋ sei a.
 \xe We are in the seventh month.
-\dt 17/Jul/2012
+\dt 17/Sep/2012
 
 \lx siesɩ
 \ph síésɪ́
@@ -29715,6 +29727,18 @@ cf fonflo
 \ge sixth
 \de sixth
 \dt 12/Sep/2012
+
+\lx siɛn
+\ph sĩɛ̃
+\ps v
+\ge marry
+\de to perform marriage customs
+\cf asientɔ
+\nt tsia is to live with a woman; sien is to perform the marriage custom
+\xv Fʋ ma ɔkpa tɩ ɔtsɩ ánɩ́ fʋ mɔkʋ sien mʋ fɛɛ fʋ ka.
+\xe You have no right to call a woman you have not perform the marriage rites as your wife.
+
+\dt 17/Sep/2012
 
 \lx sika
 \ph sika
@@ -31171,7 +31195,9 @@ cf fonflo
 \ps vt
 \ge paedophilia
 \de paedophilia
-\dt 13/Sep/2012
+\xv Oyin amʋ lɛtɛtɛ kebi.
+\xe The man had sex with the child.
+\dt 17/Sep/2012
 
 \lx tɛtrɛtɛɛ
 \ph tɛtrɛtɛː
@@ -31457,7 +31483,7 @@ cf fonflo
 \ph tɪ́ŋkɪ́
 \ps v
 \ge stretch
-\de to stretch out (part of the body)
+\de to stretch out
 \xv Ɩnɩ sʋ kpakpahe na ɔdɛ mʋ oboyi tɩnkɩ nɩ.
 \xe That is why the duck stretches its neck when it walks.
 \rf Tape:7-1-550
@@ -31465,7 +31491,7 @@ cf fonflo
 \xe Stretch so that you should bring the things down from up top for me.
 \rf Stewart List:2874
 \rf Tape:7-1-554
-\dt 10/Jan/2012
+\dt 17/Sep/2012
 
 \lx tɩnŋɛ
 \ph tɪ̃ŋːɛ́
@@ -32366,14 +32392,14 @@ cf fonflo
 \ps v
 \ge inheritance
 \de to sit in someone's place, take someone's place
-\nt an Nkonya verb added to a Twi noun
+\et si anamu
 \xv Nɩ ɔha owu, ɔbʋ obi a, mʋ bi amʋ obétsia mʋ sɩ amʋ anaŋu
 \xe If someone should die, and has a child, his child will take his place.
 \rf Tape:7-2-317
 \xv Nɩ fʋ sɩ ma nʋ a, tsia mʋ anaŋu.
 \xe If your father is not there, take his place (he couldn't come to the gathering)
 \rf Tape:7-2-325
-\dt 21/Aug/2012
+\dt 17/Sep/2012
 
 \lx tsiatɔ
 \ph t͡siátɔ́ʔ(L)
