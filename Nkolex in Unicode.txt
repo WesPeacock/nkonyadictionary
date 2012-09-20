@@ -8646,7 +8646,7 @@
 \lx -hɛ
 \ph -hɛ
 \ps ADJR
-\ge ADJ izer
+\ge ADJ-izer
 \np H/L
 \de changes a verb to an adjective
 \nt Nkonya adjectives are adjectival nouns and can stand alone as nouns and take plurals
@@ -8784,7 +8784,7 @@
 \ph hɪ́ɛ́ː
 \ps ADV
 \ge briefly
-\de breifly
+\de briefly
 \dt 10/Jan/2012
 
 \lx hɩhɩɛ
@@ -8844,7 +8844,7 @@
 \rf Stewart List:3232
 \sn 2
 \ge accept
-\de to accept somethng
+\de to accept something
 \lf Compound = hogyi
 \xe believe
 \sn 2
@@ -9131,18 +9131,15 @@ sn 2
 \dt 05/Jul/2005
 
 \lx idu
-\ph idú
+\ph idúʔ
 \ps NUM
 \va du
 \ge ten
-\np LH
-\np L-Hʔ#H
 \de ten
 \pl adu
 \ph adu
-\np LH
 \rf Stewart List:1810
-\dt 02/Aug/2012
+\dt 17/Sep/2012
 
 \lx iduɔkʋn
 \ph idúɔ́kʊ̃
@@ -9394,8 +9391,8 @@ sn 2
 \ph ikwebásɪ
 \ps NUM
 \va kwebasɩ
-\ge nineth
-\de nineth
+\ge ninth
+\de ninth
 \rf Stewart List:1809
 \dt 17/Sep/2012
 
@@ -9503,17 +9500,16 @@ sn 2
 \ge thatch
 \de kind of grass used in hatching houses
 \xv Ipi tamalɩɩ wa ɔpá. Butɔpʋ bua obu.
-\xe thatch doesn't stay long( it dies in october). It is used for thatching.
+\xe Thatch doesn't stay long. It is used for thatching.
+\na Thatch dies in October
 \rf Stewart List:1520
 \dt
 
 \lx ipian
-\ph ipiã
+\ph ipiã(H)
 \ps n
 \ge fatigue
-\np LLL
-\np L-LL#H
-\de nominal form of pian
+\de fatigue; nominal form of pian "to tire"
 \xv Nɩ fotsu ndɔ ba, febie a, ipian amʋ tɔkʋsʋ fʋsʋ.
 \xe If you come from farm and you bathe, the fatigue leaves you.
 \dt 05/Jul/2005
@@ -9747,8 +9743,8 @@ sn 2
 \ge rule
 \de rule
 \xv Iwie gyi bʋ mlɩ woyitɔ.
-\lt Chieftancy eating is in your house.
-\xe your family holds the chieftancy.
+\lt Chieftaincy eating is in your house.
+\xe your family holds the chieftaincy.
 \rf Tape:2-2-454
 \dt 22/Aug/2012
 
@@ -9779,7 +9775,7 @@ sn 2
 \np LLH
 \np L-LHʔ#H
 \de boasting
-\xe Iwitsu ma alɛ Bulu ansɩtɔ, mboun otekle wɩ asɩba.
+\xv Iwitsu ma alɛ Bulu ansɩtɔ, mboun otekle wɩ asɩba.
 \xe Boasting is bad in God's sight, instead he likes humility.
 \rf Tape:3-1-257
 \xv Matsu wɩ.
@@ -9843,7 +9839,7 @@ sn 2
 \xe Have you cooked fish or animal meat.
 \rf Tape:2-2-467
 \xv Fʋdɛ aye asʋn a, aye tɛba.
-\xe If you hold a meat case, meat will come. - If you talk about a a case, a similar case will occur. (You should not speak about bad news lest it happen to you. )
+\xe If you hold a meat case, meat will come. - If you talk about a case, a similar case will occur. (You should not speak about bad news lest it happen to you. )
 \nt proverb
 \cf iye ɔlɛpʋ Eng:fisherman
 \rf Stewart List:0028
@@ -9862,12 +9858,9 @@ sn 2
 \ph iɲĩ́ʔ
 \ps n
 \ge tooth
-\np LH
-\np L-Hʔ#H
 \de tooth
 \pl anyin
 \ph aɲĩ́ʔ
-\np LH
 \xv Ɩtswɛ ɩkʋlɛ lakpa mʋ inyin kʋlɛ
 \xe One blow has removed his one tooth.
 \xv Mɩ iyin dɛ kpɩnkɩ, ɩdɛ mɩ dwiin dʋbɩ, sʋ fialɩ bɔ́kpa.
@@ -9893,7 +9886,6 @@ sn 2
 \va i-
 \ph i
 \ge NOMR
-\np L(H) ʔ
 \de nominalizer; changes a verb to a noun
 \xv Ɔlɛnatɩ. ɩnatɩ
 \xe He walked. way of walking
@@ -9905,7 +9897,7 @@ sn 2
 \va -la
 \ge activity; things
 \np H
-\de an activity/things that will result in the occurance of the infixed verb
+\de an activity/things that will result in the occurrence of the infixed verb
 \xv ansigyila
 \xe game
 \xv Ansɩgyila igyi nɩ fʋbʋ Yesu tamɛ nɩ fʋma a, ansɩpɛpɛla igyi.
@@ -9933,7 +9925,7 @@ sn 2
 \rf Tape:2-2-481
 
 \xv ofula
-\xe situation (or occurance) that will make you afraid, or wonder.
+\xe situation (or occurence) that will make you afraid, or wonder.
 \xv Yesu wu kʋsʋ a, igyi ofula.
 \xe Jesus died and rose again, this is a fearful thing.
 \rf Tape:2-2-484
@@ -9994,7 +9986,7 @@ sn 2
 \ph ɪba(H)
 \ps n
 \ge tick
-\de small ticklike animal
+\de a small blood sucking insect; a tick
 \pl aba
 \ph aba(H)
 \xv Aba bayi mɩ kɩaɩ.
@@ -10212,7 +10204,7 @@ sn 2
 \np same
 \de by-all-means it will be good
 \xv ɩbwɛbwɛɛbwɛ kebi amʋ ɔbɔ́yɔ kolegye.
-\xe By-all-meas the boy will go to secondary school.
+\xe By all means the boy will go to secondary school.
 \dt 10/Jan/2012
 
 \lx ɩda
@@ -10243,7 +10235,7 @@ sn 2
 \ps n
 \ge storage
 \np LL
-\de a way of storing certain harvested items, eg corn, beans, yam, water yam,
+\de a way of storing certain harvested items, e.g., corn, beans, yam, water yam,
 \pl ndan
 \ph ndã
 \xv Kpoli ɩdan igyi aku anyɔ. Gyankpapʋ a, fókwi nyi yi. Fówun faklɩ ntan manta mʋ́ sʋ, da fʋ kpoli akpʋn sian mʋ́ sʋ.
@@ -10418,15 +10410,12 @@ sn 2
 \dt 17/Sep/2012
 
 \lx ɩfʋnka
-\ph ɪfʊŋka
+\ph ɪ
 \ps n
 \ge side
-\np LHHʔ
-\np L-HHʔ#L
 \de used of a bipolar entity, one of the poles, end or side; used of long objects for ends, flat objects for sides, used metaphorically of sides in a argument or a clan
 \pl afʋnka
-\ph afʊŋka
-\np LHHʔ
+\ph afʊ́ŋkâʔ
 \xv Anɩlayie ndɔ amʋtɔ. Mɩ funka bʋ gyɔpɩsʋ a.
 \xe We have divided the farm. My side is on the right
 \xv Ɩfʋnka lɛpɛ, ɩfʋnka ɛ lebi.
@@ -10497,7 +10486,7 @@ sn 2
 \ge pad
 \de pad for carrying a load on the head
 \xv Mmeyin alɩ ánɩ́ bʋtɛla blɔdɩ atɛ ɩká.
-\xe I don't know how they make pad out of plaintain leaves.
+\xe I don't know how they make pad out of plantain leaves.
 \rf Tape:2-2-575
 \rf Stewart List:1221
 \dt 15/Aug/2012
@@ -10588,7 +10577,7 @@ sn 2
 \ge patience
 \np LLH
 \np klʋn nya nɩ
-\de suffer without complaning
+\de suffer without complaining
 \xv Ɩbʋalɛ ánɩ́ okristoyɩn obénya klʋn mbrɛ fɛ́ɛ́tɔ
 \xe It is good for a Christian to have patience all the time
 \dt 08/Aug/2012
@@ -10807,7 +10796,7 @@ sn 2
 \xe Illness is painful
 \cf ɔlɔpʋ Eng:sick person
 \nt From ths:  words for medical symptoms: lu (retch), kplai (vomit), kpɩnkɩ (shiver), pin (lose voice), plan (wound),
-\nt From ths:  words for illnesses:aklodobi (hernia), ɩsʋn (cattarh), ɔnamba(), ɔnamplɔɩ (), sɛsɛ (ringworm), kɛklɛ (boil), owiso (malaria), mfa (), ɔlɔ (sore), ɩlɔ pɛpɛ (leprosy), awidwiin (rheomatism), obubupʋ (cripple), etc.
+\nt From ths:  words for illnesses:aklodobi (hernia), ɩsʋn (catarh), ɔnamba(), ɔnamplɔɩ (), sɛsɛ (ringworm), kɛklɛ (boil), owiso (malaria), mfa (), ɔlɔ (sore), ɩlɔ pɛpɛ (leprosy), awidwiin (rheomatism), obubupʋ (cripple), etc.
 \rf Stewart List:1410
 \dt 03/Apr/2012
 
@@ -10921,7 +10910,7 @@ sn 2
 \np L-LLʔ#L
 \de moustache
 \xv Oyin amʋ ɩnɔfa labla dʋbɩ sʋ ɔlɛkaka mʋ́ sʋ.
-\xe The man's mustache is too thick/long so he is going to cut it.
+\xe The man's moustache is too thick/long so he is going to cut it.
 \rf Tape:5-1-286
 \dt 14/May/2012
 
@@ -10988,7 +10977,7 @@ sn 2
 \sn 2
 \ps ADJ
 \ge last (day)
-\de last Xday; used wtih day names to indicate the previous day of that name
+\de last (day of week); used with day names to indicate the previous day of that name
 \xv Ɩnwɛn Yaoda, nɔyɔ nkandɩɛtɔ.
 \xe Last Thursday, I went to the city.
 \rf Tape:3-1-108
@@ -11051,6 +11040,7 @@ sn 2
 \hm 1
 \ph ɪpaʔ(H)
 \ps n
+\sn 1
 \ge hat
 \de hat
 \va pa
@@ -11060,6 +11050,11 @@ sn 2
 \xv Bwii fʋ pa nwun.
 \xe Take off your hat.
 \rf Stewart List:1202
+\sn 2
+\ge mortar end
+\de the splintered end of a fufu mortar
+\xv Oplimbi ánɩ́ bʋ ɩpa a, ɩbʋ atɔ awɔlɛ. Ɩtɛha fufu tɔwa ɔsa pɩn dʋn oplimbi kpakpahɛ.
+\xe The mortar that has a hat, is easy to pound with. It makes fufu smooth faster than a bald mortar.
 \dt 15/Aug/2012
 
 \lx ɩpa
@@ -11284,9 +11279,9 @@ sn 2
 \de to use, or treat badly for doing something wrong
 \np sʋbɩtɩ nɩ
 \xv Kwasi lɛsin ɔma yɔ sukuu sʋ, alanya ɩsʋbɩtɩ
-\xe Kwasi was late to school so, he has recieved a punishment.
+\xe Kwasi was late to school so, he has received a punishment.
 \xv Nɩ fɔ́bwɛ lakpan a, fʋtenya sʋbɩtɩ.
-\xe If you commit sin, you recieve a punishment.
+\xe If you commit sin, you receive a punishment.
 \xv Ɩsʋbɩtɩ dɩn fʋsʋ.
 \xe The punishment is on you; it's your own fault.
 \rf Tape:3-1-182
@@ -11296,10 +11291,10 @@ sn 2
 \lx ɩsʋn
 \ph ɪsʊ̃́ʔ
 \ps n
-\ge cattarh
+\ge catarh
 \np LH
 \np L-Hʔ#H
-\de cattarh
+\de catarh
 \xv Ɩsʋn lakɩta mɩ, sʋ mmɛtalɩ fʋ ɔŋɛ wanklaan.
 \xe Catarrh has caught me so I can't breathe well.
 \rf Tape:3-1-187
@@ -11343,7 +11338,7 @@ sn 2
 \ge extent
 \de the extent of an abstract noun
 \xv Anɩ abusuan bʋ swɩ dʋn Abrʋfɔ klɛ.
-\xe Our family etends further than westerners' family.
+\xe Our family extends further than westerners' family.
 \rf Tape:1-1-106
 \va swɩ
 \se swɩtɔ
@@ -11618,11 +11613,10 @@ sn 2
 \lx ɩwɩsɛ
 \ph ɪwɪsɛ
 \ps vt
-\ge be bright/'cute
+\ge be bright/cute
 \np LLL
 \np ɩwɩsɛ gyɩ
-\de  smart(ness), be smart/quick/bright
-\nt operates like a participle.
+\de  be smart/quick/bright
 \xv fʋ mɛdɛ ɩwɩsɛ
 \xe you aren't hold self beat
 \xe you are not bright
@@ -11656,22 +11650,19 @@ sn 2
 \lx ɩwɩtɔ-tu
 \ph ɪwɪtɔ-tu
 \ps n
-\ge diarrhea
-\de diarrhea
-\np LL-L
+\ge diarrhoea
+\de diarrhoea
 \de
 \dt 20/Sep/2005
 
 \lx ɩwɔ
-\ph ɪwɔ
+\ph ɪwɔʔ(H)
 \ps n
 \ge snake
-\np LL
-\np L-Lʔ#H
 \de snake
 \ue South ɛwɔ
 \pl awɔ
-\ph awɔ
+\ph awɔʔ(H)
 \xv Ɩwɔ tɛbɩtɩ mʋ ipusʋ.
 \xe A snake always slithers on its stomach.
 \rf Tape:3-1-263
@@ -11784,7 +11775,7 @@ sn 2
 \de to join
 \bw Akan fi:ka hʋn L H
 \xv Ka amʋ́ hʋn amlɩyɔ.
-\xe Join them so that you(pl) should go. Nkonya altenative is "wie amʋ́tɔ"
+\xe Join them so that you(pl) should go. Nkonya alternative is "wie amʋ́tɔ"
 \xv Wie amʋ́tɔ amlɩyɔ.
 \xe Join them so that you(pl) should go.
 \dt 02/Apr/2012
@@ -11890,7 +11881,7 @@ sn 2
 \ph kakáʔ (L)
 \ps v
 \ge chop
-\de cut repetively into small pieces
+\de cut repetitively into small pieces
 \nt from "ka" cut
 \xv Nɩ bebio kufa amʋ a, bɛ́kaka aye amʋ ɩkʋtɔ putuputu wa fɩtatɔ ba mʋ.
 \xe When they butcher the sheep they will cut some of the meat into small pieces and put them on a leaf and bring it to him.
@@ -12067,7 +12058,7 @@ sn 2
 \np LLL
 \de shelter made from bamboo and palm branches used for gatherings
 \xv Bɛɛ abégyi nkɛ amʋ dɩnsʋ sʋ a, ayɛda kantankpa aba.
-\xe They say we will make a festive occassion at denso, so we are going to erect a palm shelter and come.
+\xe They say we will make a festive occasion at denso, so we are going to erect a palm shelter and come.
 \rf Tape:3-1-418
 \dt 16/Jul/2012
 
@@ -12149,7 +12140,7 @@ sn 2
 \de to attempt but be unsuccessful
 \nt always the second verb in a serial construction
 \xv Nofwi ogya amʋ kasian metsii, saa ngya amʋ mɔkʋ wʋlɩ.
-\xe I fanned the fire unsucessfully, it didn't flame. Unexpectedly, the wood was not dry.
+\xe I fanned the fire unsuccessfully, it didn't flame. Unexpectedly, the wood was not dry.
 \rf Tape:3-1-447
 \cf kpali
 \dt 10/Jan/2012
@@ -12231,16 +12222,16 @@ sn 2
 \dt 18/Oct/2005
 
 \lx keresin
-\ph keresĩ́ʔ
+\ph keresĩ̂ʔ
 \ps n
-\ge keresin
-\np LLH
-\np LLHʔ#L
+\ge kerosene
 \de kerosene
 \xv Keresin tɛtalɩ dudu.
-\xe Kerosine can leak.
+\xe Kerosene can leak.
 \rf Tape:3-1-483
 \dt 12/Jan/2012
+
+
 
 \lx kete
 \ph keté
@@ -12252,7 +12243,7 @@ sn 2
 \lx keteeke
 \ph kétêːke
 \ps n
-\ge train (rainway)
+\ge train (railway)
 \np HHL
 \de wheel containers for carrying goods and people
 \np keteeke nɩ
@@ -12559,14 +12550,12 @@ sn 2
 
 \lx kiki
 \hm 2
-\ph kíki(L)
+\ph kíki
 \ps n
 \ge spectacles
-\np HL
-\de spectale; goggles
+\de spectacles; goggles
 \pl akiki
-\ph akíki(L)
-\np LHL
+\ph akíki
 \xv Adɔkɩta fɔ bʋtɛha aha kiki nɩ fʋ nsɩbi dɛ mʋ han.
 \xe Doctors give people spectacles when their eyes are troubling them.
 \dt 10/Jan/2012
@@ -12815,8 +12804,7 @@ sn 2
 \ph kɪ́tá
 \ps v
 \ge grasp
-\np LH
-\de hold; grasp; plan (with agywɩɩn)
+\de hold; grasp
 \xv Nabla Emmanuel mbɛɛ, ɔba akɩta mʋ́ ɔkɛ odua ɩbɛ́kana mʋ a, fówun alaba anɩlasuan atɔ.
 \xe I told Emmanuel He should come, we plan the day that is fitting for him so that you will see he has come and we have learned something.
 \xv Nɛbla mʋ mbɛɛ owí ɩpɔn a, fówun alaba anɩlayɔ.
@@ -12838,6 +12826,9 @@ sn 2
 \rf Stewart List:2665
 \rf Stewart List:2678
 \rf Stewart List:2881
+\se kɩta agywɩɩn
+\ge plan
+\de to plan something
 \dt 22/Aug/2012
 
 \lx kɩta agywɩɩn
@@ -13020,11 +13011,11 @@ sn 2
 \lx klandua
 \ph klandua
 \ps n
-\ge jerthropher
+\ge jatropha
 \np klandua nɩ
-\de a plant with seeds, use for oil
+\de a plant with seeds used for oil
 \xv Klandua wɩ lawa ɔnlɩn.
-\xe Jerthropher is now difficult to get.
+\xe Jatropha is now difficult to get.
 \dt 05/Jul/2005
 
 \lx klankpa
@@ -13068,13 +13059,13 @@ sn 2
 \lx klatɩ
 \ph klatɪ (H)
 \ps n
-\ge grasscutter
-\de grasscutter; cane rat
+\ge grass-cutter
+\de grass-cutter; cane rat
 \pl aklatɩ
 \ph aklatɪ
 \np LLL
 \xv Mɩ agbla lakɩta klatɩ, aklatɩ amʋ bʋdɛ mɩ agbodi wɩ, sʋ nɛfɩnɩ amʋ́.
-\xe My trap has caught a grass cutter. Grasscutters are eating my cassava so I trapped them.
+\xe My trap has caught a grass-cutter. Grass-cutters are eating my cassava so I trapped them.
 \rf Tape:3-2-164
 \dt 22/Aug/2012
 
@@ -13127,7 +13118,7 @@ sn 2
 \xe I am guilty (Lit - Mine is not there. )
 \rf Tape:3-2-186
 \xv Anɩklɛ gyi sɛ, abétsia nkpa wanklaan gyo anɩ wie Yesu ɩba.
-\xe Our part is this, we should live life well and wait for our Lord Jesus's return.
+\xe Our part is this, we should live life well and wait for our Lord Jesus' return.
 \rf Tape:1-1-474
 \rf Tape:3-2-189
 \cf mlɩklɛ
@@ -13301,8 +13292,8 @@ sn 2
 \lx klɔtɩbʋodu
 \ph klɔtɪ́bʊódu
 \ps n
-\ge type of mice
-\de type of mice with bushy tail
+\ge type of mouse
+\de type of mouse with bushy tail
 \lt klɔtɩ bʋ odu "mouse has tail"
 \pl aklɔtɩbʋodu
 \ph aklɔtɪ́bʊódu
@@ -13439,7 +13430,7 @@ cf fonflo
 \de a type of grass which looks like thatch but not good for roofing
 \lt praying mantis' badly healed fracture on the shin.
 \xv Konkolifi nkonto gyi fɛ ipi, tamɛ ɩma alɛ han obu bua. Ɩtɔkɔsɩ biabia
-\xe "Praying mantis broken shin" grassis like thatch, but it is not good for thatching. It breaks easily.
+\xe "Praying mantis broken shin" grass is like thatch, but it is not good for thatching. It breaks easily.
 \cf konkolifi
 \cf nkonto
 \dt 15/Sep/2012
@@ -13881,7 +13872,7 @@ cf fonflo
 \xv obugya lɛkpa tɩa
 \xe blood blister
 \xv ntsú lɛkpa tɩa
-\xe tears gathered in the eyss
+\xe tears gathered in the eyes
 \dt 09/Aug/2012
 
 \lx kpaalɩ
@@ -13985,7 +13976,6 @@ cf fonflo
 \ph k͡pák͡pa
 \ps vt
 \ge rub
-\np HL
 \de to rub something off
 \np Ɔtɛkpakpa atɔ lɛ
 \xv Ɔdɔtɔpʋ ɔkʋ dɛ adamantsu kpakpa lɛ mʋ ɩwɩ.
@@ -14004,14 +13994,12 @@ cf fonflo
 \dt 05/Jul/2005
 
 \lx kpakpahe
-\ph k͡pak͡pahe
+\ph k͡pák͡pá!hé
 \ps n
 \ge duck
-\np HH!H
 \de duck
 \pl akpakpahe
 \ph ak͡pak͡pahe
-\np LHH!H
 \xv Kpakpahe oboi bʋ swɩ dʋn batɛ klɛ.
 \xe A duck's neck is longer than a chicken's.
 \rf Tape:3-2-420
@@ -14024,7 +14012,8 @@ cf fonflo
 \ge bald
 \de bald thing
 \xv Oplimbi ánɩ́ bʋ ɩpa a, ɩbʋ atɔ awɔlɛ. Ɩtɛha fufu tɔwa ɔsa pɩn dʋn oplimbi kpakpahɛ.
-\xe The oplimbi that has a hat, is easy to pound with. It makes fufu smooth faster than a bald oblimbi.
+\xe The mortar that has a hat, is easy to pound with. It makes fufu smooth faster than a bald mortar.
+\na When you make a fufu mortar, you pound the end with a rock to round it off. The splinters form a ridge around the end. This is called a hat.
 \dt 03/Apr/2012
 
 \lx kpakpakpakpa
@@ -14040,8 +14029,8 @@ cf fonflo
 \ps v
 \ge potholed
 \de to develop potholes
-\xe ɔkpa wie kpa
-\xv hole in the road (potholes)
+\xv ɔkpa wie kpa
+\xe hole in the road (potholes)
 \nt From ths:  from kpakpa (fall-redup) and wie (enter)
 \xv Anɩ ndɔtɔ ɔkpa ɩma atsʋnlɛ, tsufɛsɛ mʋ́ sʋ yɔ kpakpawie.
 \xe Our farm path is not easily passable because it has developed potholes.
@@ -14218,7 +14207,7 @@ cf fonflo
 \ph k͡pat͡sa
 \ps n
 \ge baboon
-\de babbon
+\de baboon
 \pl akpantsa
 \ph ak͡pat͡sa
 \dt 21/Aug/2012
@@ -14454,11 +14443,11 @@ cf fonflo
 \sn 1
 \ge scrape
 \de to scrape or grate something
-\xe kpi agbodi
-\xv grate cassava
+\xv kpi agbodi
+\xe grate cassava
 \rf Tape:3-2-523
 \xv Nɩ bekpi ɔkpa amʋ wʋlɩ ɔtsatsa mʋ́ sʋ, bɔmɔwʋlɩ kotaa mʋ́ sʋ a, ɩbɔwa ɔsa yinta.
-\xe If they scrape the road, pour gravel on it, but don't put coal tar on it it will quickly spoil
+\xe If they scrape the road, pour gravel on it, but don't put coal tar on it, it will quickly spoil
 \rf Tape:3-2-525
 \sn 2
 \ge bump
@@ -14494,7 +14483,7 @@ cf fonflo
 \ge impale
 \de to impale
 \xv Bʋtekpie agyagya asa bʋtɛŋɛsɩ.
-\xe We perce bats before they are smoked.
+\xe We pierce bats before they are smoked.
 \xv Kpie aye amʋ oyibibi amʋ sʋ.
 \xe Spear the meat (kabob) on a stick.
 \rf Tape:3-2-536
@@ -14966,7 +14955,7 @@ cf fonflo
 \ge pluck
 \de to pluck leaves or fruit
 \xv Ɔyɔ kpɔtɩ paya atɛ ha mɩ. Nɛnɩna mʋ́ nun.
-\xe He plucked avacado leaves for me. I will steep them and drink the infusion. (for high blood pressure)
+\xe He plucked avocado leaves for me. I will steep them and drink the infusion. (for high blood pressure)
 \rf Tape:4-1-101
 \rf Stewart List:2350
 \rf Stewart List:2805
@@ -14999,7 +14988,7 @@ cf fonflo
 \ge shift
 \de to 
 \xv Atsu ndɔ aba, anɩlɔkpʋkpɛ bɛn wulu a, anɩlonu okitikiti.
-\xe We were coming from farm. We were just approaching town when we heard alot of noise.
+\xe We were coming from farm. We were just approaching town when we heard a lot of noise.
 \rf Tape:4-1-115
 \rf Stewart List:2463
 \xv Mlɩ kpʋkpɛ manta Bulu mɛnɩ Bulu ɛ obétsia mlɩ wa.
@@ -15177,10 +15166,9 @@ cf fonflo
 \ph kúkúrúkú
 \ps ADJ
 \ge stout
-\np HHHH
 \de to be short with malformation of features
 \xv Ogyi kukuruku fɛ Kapɔpwɛ.
-\xe He is short like Kapopwe (a famous human dwarf in an early traveling show)
+\xe He is short like Kapopwe (a famous human dwarf in an early travelling show)
 \dt 16/Jul/2012
 
 \lx Kulihɛ
@@ -15189,7 +15177,7 @@ cf fonflo
 \ge ancestral day
 \de ancestral day; fourth day of the traditional Nkonya week
 \xv Kulihɛ gyi Nkonyafɔ nkɛ naasɩ nɩ.
-\xe Kulihɛ is the fouth day of they Nkonyas.
+\xe Kulihɛ is the fourth day of they Nkonyas.
 \cf Ɩpwɛ
 \cf Ɩpwɛ Odekeyikɛ
 \cf Ɩpwɛ Ɔdɛkɛtrákɛ
@@ -15264,7 +15252,7 @@ cf fonflo
 \ps vi
 \ge dream
 \de dream
-\xe Nakun okude.
+\xv Nakun okude.
 \xe I had a dream.
 \rf Tape:4-1-179
 \xv Igye onye nokun okude nowun fuli.
@@ -15605,7 +15593,7 @@ cf fonflo
 \de male born on Tuesday
 \nt Akan: Kwabɩna; Ewe: Kɔmla
 \xv Mɩ da gyi Kɔmɩna tsufɛsɛ bɔkwɩɩ mɩ Branda.
-\xe My name is Kwamina because they bore me on Tuesday.
+\xe My name is Kwabena because they gave birth to me on Tuesday.
 \rf Tape:4-1-344
 \xv Branda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kwabena.
 \xe I was born on Tuesday, so they call me Kwabena.
@@ -15706,7 +15694,7 @@ cf fonflo
 \xe I was born on Sunday, so am called Kwasi.
 \rf Tape:4-1-356
 \xv Akwasi gyi ɔha ánɩ́ ɔtamakɩ aha ansɩtɔ gyi asʋn.
-\xe Akwasi does not look in to people's face to judge people.
+\xe Akwasi is a person who does not look in to people's face to judge people.
 \cf Akosua
 \cf Kwasieda
 \cf Kujo
@@ -15841,7 +15829,7 @@ cf fonflo
 \ge harvest
 \de to harvest something underground
 \xv Kwi agbodi ha mɩ.
-\xe Haevest cassava for me.
+\xe Harvest cassava for me.
 \dt 07/Sep/2012
 
 \lx kwɩɩ
@@ -15863,9 +15851,9 @@ cf fonflo
 \ph kwɪ̂ː dwĩ̌ː
 \ps n
 \ge birth pains
-\de birthpains, labour
+\de birth pains, labour
 \xv Atsɩ bʋtɛblɩ bɛɛ kwɩɩ dwiin bʋ ɔsɩn dʋbɩ.
-\xe Women say that birthpains are very painful.
+\xe Women say that birth pains are very painful.
 \dt 10/Jan/2012
 
 \lx kwɩɩ-puni
@@ -15890,7 +15878,7 @@ cf fonflo
 \de to do something again
 \sn 2
 \ge unexpectedly
-\de to unexepected occur
+\de to unexpectedly occur
 \xv Ansigyi amʋ fɛ́ɛ́ lɛla damlɩ ansɩpɛpɛ.
 \xe All the happiness unexpectedly turned to trouble.
 \rf Tape:4-1-407
@@ -19048,7 +19036,7 @@ cf fonflo
 \xe If you are tapping you must bring gyanifi ɩkʋlɛ to your father's clan because the putu is for the clan.
 \rf Tape:5-1-332
 \xv afɔɔ nta
-\xe Wine served to strangers at a funeral or festival or strangers visiting from a distance and on a formal occassion.
+\xe Wine served to strangers at a funeral or festival or strangers visiting from a distance and on a formal occasion.
 \rf Tape:5-1-335
 \xv bita nta
 \xe wine brought as part of the final marriage custom.
@@ -23906,7 +23894,7 @@ cf fonflo
 \xe A certain animal is spoiling my things.
 \rf Tape:5-2-253
 \nt From ths: kinds of domestic mammals: afurum (donkey), andɔ (cat), adango (rabbit), kɩaɩ (dog), kpala (goat), trʋkpa (he goat), kufa (sheep), okpokpo (ram), ɔpɔnkɔ (horse), ɔprakuo (pig), ɔnantswie ((cow),
-\nt From ths: kinds of wild mammals: adango (rabbit), gyasɩɛpɛ, ɔbatafɔ (bush pig), dei (monkey), dundu (leopard), fʋlɩtɩ (deer), ɔtɛ (ground squirrel), gyabɛ (squirrel), gyagya (bat), kutibii (small bat), gyata (lion), nani (antelope), oswie (anteater), ɔtsakpa (hedgehog), klatɩ (grasscutter), klɔtɩ (mice), klɔtɩbʋodu(type of mice with bushy tail) kpasi (rat), kpʋkpʋ (buffalo), oklemgbe (shrew), srʋfɔ (elephant)
+\nt From ths: kinds of wild mammals: adango (rabbit), gyasɩɛpɛ, ɔbatafɔ (bush pig), dei (monkey), dundu (leopard), fʋlɩtɩ (deer), ɔtɛ (ground squirrel), gyabɛ (squirrel), gyagya (bat), kutibii (small bat), gyata (lion), nani (antelope), oswie (anteater), ɔtsakpa (hedgehog), klatɩ (grass-cutter), klɔtɩ (mice), klɔtɩbʋodu(type of mice with bushy tail) kpasi (rat), kpʋkpʋ (buffalo), oklemgbe (shrew), srʋfɔ (elephant)
 \nt From ths: kinds of reptiles/amphibians/crusteceans: asaan (crayfish), gyongyo (frog), kɩtɩ (lizard), ologyo (chameleon), lembu (turtle), sawun (totoise), lɛnkɛ (crocodile), lɛnkɛkpan (crocodile), nwunkpodikpodi (tadpole), okle (frog), ɔkɔtɔ (crab), tanibi (cowry)
 \nt From ths: kinds of snakes: ɩwɔ (snake), bʋtɩ (python), ɩbɛ (adder), sapa (cobra))
 \nt From ths: kinds of creepy-crawlers: dɩba (bedbug), fantɩ (cricket), kponkpoli (beetle), kian (beetle larvae), natɩ (spider), mfa (quinea worm), nyambi (maggot), ofutikokoni (ant lion), ogyaŋɛɛ (firefly), nyankpʋ kpie (scorpion), ŋlanwun (millipede), obien (snail), ɔblatɩ (snail) nwuntɔ obubwi (louse), ɔkɛkɛ (grasshopper), tɛplɛ (cockroach), tɔsɩ (caterpillar), ɔtswʋnkɩ (mosquito), ɔwantɩntsu (dragonfly), ntsusʋ klanklan (dragonfly), sisa (housefly), wʋnsa (bee), wʋlʋ (tsetsefly)
@@ -25923,7 +25911,7 @@ cf fonflo
 \de scarcity
 \np ɔna nɩ
 \xv Sesei a, brɔdɩ bʋ ɔna sʋ lawa bia.
-\xe Now plaintain is scarce, so it has become expensive.
+\xe Now plantain is scarce, so it has become expensive.
 \xv Nɩ nyankpʋ mɛdɛ tswɩe a, atogyihɛ wɩ bʋ ɔna.
 \xe When it is not raining food become scarce.
 \rf Tape:6-1-140
@@ -27340,7 +27328,7 @@ cf fonflo
 \np same
 \np ɔtsakpa nɩ
 \xv Ɔtsakpa gyi fɛ klatɩ, tamɛ olomoni dʋn klatɩ, ɔtɔwɩ mankani ndɔtɔ.
-\xe Ɔtsakpa is like a grasscutter but he is bigger than a grasscutter, he eats cocoyam on the farm.
+\xe Ɔtsakpa is like a grass-cutter but he is bigger than a grass-cutter, he eats cocoyam on the farm.
 \rf Tape:6-1-501
 \dt 21/Aug/2012
 
@@ -32286,10 +32274,10 @@ cf fonflo
 \rf Tape:7-2-258
 \sn 2
 \ps vi
-\ge diarrhea
-\de to have diarrhea
+\ge diarrhoea
+\de to have diarrhoea
 \xv Fʋ bi amʋ ɩwɩtɔ latii sʋ ɔdɛtsɛɩ.
-\xe Your child's stomach has opened so he is running diarrhea.
+\xe Your child's stomach has opened so he is running diarrhoea.
 \rf Tape:7-2-263
 \rf Stewart List:2666
 \dt 16/Sep/2012
@@ -33370,7 +33358,7 @@ cf fonflo
 \ph tʊ́
 \ps vt
 \ge meet
-\de to meet wtihout planning to
+\de to meet without planning to
 \xv Mɩa mɩ pio ayɔ oli Ntumda a, ɔlɛnatɩ si mɩ. Tamɛ, nɛsɩrɩ yɔtʋ mʋ Tɛpo. Anɩ fɛ́ɛ́ anɩlowie Ntumda kɛkɛ.
 \xe My brother/sister and I were going to a funeral in Ntumda. He left before I did, but I ran and caught up to him in Tɛpo. We got to Ntumda at the same time.
 \rf Tape:8-1-051
@@ -34415,7 +34403,7 @@ cf fonflo
 \rf Tape:1-1-310
 \cf kpʋkpʋ
 \cf kpɩnkɩ
-\dt 14/Sep/2012
+\dt 20/Sep/2012
 
 \lx ya
 \ph ya
@@ -34434,7 +34422,7 @@ cf fonflo
 \cf wa
 \cf kpa
 \rf Stewart List:2675
-\dt 05/Jul/2012
+\dt 20/Sep/2012
 
 \lx Yaa
 \ph yaː
