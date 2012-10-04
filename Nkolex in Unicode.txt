@@ -45,13 +45,12 @@
 \ph a-
 \ps CNJ
 \ge so that
-\np L
 \de bound morpheme particle indicating a desired reaction
 \xv Nɩ mlɔyɔ a, amlɩkɩ asɩ.
 \xe If you(pl) go, you(pl) should take care. (lit: look down, watch where you are walking)
 \xe Go, and take care.
 \rf Tape:1-1-024
-\dt 11/Oct/2005
+\dt 01/Oct/2012
 
 \lx -a
 \hm 1
@@ -110,10 +109,9 @@
 
 \lx aba
 \hm 2
-\ph aba
+\ph aba(H)
 \ps n
 \ge each other
-\np LL (H)
 \de each other
 \xv Bafwie abatɔ
 \xe They have crashed into each other.
@@ -121,7 +119,7 @@
 \xv Anɩ atati bɛ́da aba.
 \xe Our cloths will touch each other. Meaning: We will meet later
 \nt Idiom
-\dt 09/Aug/2012
+\dt 01/Oct/2012
 
 \lx Aban
 \ph abãʔ(H)
@@ -178,20 +176,15 @@
 \ph abawá
 \ps n
 \ge maid
-\np LLH (H)
-\np L-LH
 \de maidservant
 \pl abawafɔ
 \ph abawáfɔ
-\np LLH!H
-\np L-LH-!H
 \nt This is a Twi loan word. It comes from "Ɔbea" meaning girl or woman and the suffix wa meaning little or less in value.
 \bw Akan fi:abawa LLH - maid servant
-\np abawa nɩ
 \xv Abawa akʋ bʋtowun asʋn amʋ́ awie wa, tsufɛ awie amʋ akʋ bʋbʋ owuntɔlɩ.
 \xe Some maidservants suffer under their mistress, because some of the mistress are cruel.
 \nt Nkonya equivalent is Ɔha wa-otsiapʋ
-\dt 23/Jul/2012
+\dt 01/Oct/2012
 
 \lx Abena
 \ph abɪ́ná (H)
@@ -215,11 +208,8 @@
 \ph abɛ́
 \ps n
 \ge palm fruit
-\np LH
-\np L-H (H)
 \de palm fruits
 \nt singular is bebi
-\np abɛ nɩ
 \xv Nɩ fɔwɔ abɛ a, fɛ́lɛ abi pʋ mbepi lɛ mʋ́tɔ.
 \xe When you pound palm fruits you will take the kernels and the fibr3s out of it.
 \nt lɛ mʋ́ lɛ means to take something out of something
@@ -234,7 +224,7 @@
 \cf ibian - kind of palm fruit
 \cf lɛbɛ - kind of palm fruit
 \cf ɔbɛkʋtʋ - kind of palm fruit
-\dt 16/Jul/2012
+\dt 01/Oct/2012
 
 \lx abi
 \ph abi (H)
@@ -286,8 +276,6 @@
 \ph abíolɛ
 \ps ADJ
 \ge butcherable
-\np LHLL
-\np L-HLL#L
 \de easy to butcher (open and gut-remove the intestines)
 \xv Ɔbwɩ ánɩ́ aladan a, ɔbʋ abiolɛ dʋn ɔmʋa ɔmɔkʋ dan.
 \xe An animal that has grown is easier to butcher (open and remove the intestines) than one that has not grown.
@@ -553,17 +541,15 @@
 \dt 02/Apr/2012
 
 \lx adanyɔ
-\ph adaɲɔ
+\ph adaɲɔ(H)
 \ps NUM
 \ge twenty
-\np LLL (H)
 \de twenty
-\np LLL
 \nt adu-anyɔ
 \xv Nɩ fʋdɛ atɔ kla a, fɛ́dalɩ du-kweba a, fɔ́yɔ adanyɔ.
 \xe When you are counting something, you will leave nineteen, you will go to twenty.
 \rf Tape:1-1-138
-\dt 16/Jul/2012
+\dt 01/Oct/2012
 
 \lx adɛndɛ
 \ph adɛndɛ
@@ -583,10 +569,9 @@
 \dt 08/Sep/2012
 
 \lx adɩawun
-\ph adɪawũ
+\ph adɪawũ(H)
 \ps n
 \ge head of
-\np LLLL(H)
 \de above the head of someone lying down
 \xv Kɔba amʋ da kebi amʋ adɩawun.
 \xe The money is lying above the head of the child.
@@ -631,18 +616,16 @@
 \dt 25/Aug/2012
 
 \lx aduenu
-\ph aduenu
+\ph aduenu(H)
 \ps NUM
 \ge fifty
-\np LLL (H)
 \de fifty
 \dt 05/Jul/2005
 
 \lx aduesie
-\ph aduesie
+\ph aduesie(H)
 \ps NUM
 \ge sixty
-\np LLL (H)
 \de sixty
 \dt 05/Jul/2005
 
@@ -650,15 +633,13 @@
 \ph aduesienɔ́
 \ps NUM
 \ge seventy
-\np LLLH (H)
 \de seventy
 \dt 10/Jan/2012
 
 \lx adukwe
-\ph adukwe
+\ph adukwe(H)
 \ps NUM
 \ge eighty
-\np LLL (H)
 \de eighty
 \dt 05/Jul/2005
 
@@ -666,7 +647,6 @@
 \ph adukwebá
 \ps NUM
 \ge ninety
-\np LLLH (H)
 \de ninety
 \dt 10/Jan/2012
 
@@ -681,10 +661,9 @@
 \dt 13/Aug/2012
 
 \lx adʋasa
-\ph adʊasa
+\ph adʊasa(H)
 \ps NUM
 \ge thirty
-\np LLL (H)
 \de thirty
 \dt 18/Nov/2009
 
@@ -699,10 +678,7 @@
 \ph afá
 \ps n
 \ge medicine
-\np LH (H)
-\np L-H#H
 \de medicine
-\np afa nɩ
 \xv Afa bʋ alɛ ha ɔlɔpʋ, ha mʋ ɩlɔtsa.
 \xe Medicine is good for a sick person, to heal his sickness.
 \rf Tape:1-1-147
@@ -735,13 +711,10 @@
 \dt 23/Nov/2011
 
 \lx afonflo
-\ph afoɱflo
+\ph afoɱflo(H)
 \ps n
 \ge type of vine
-\np LLL L (H)
-\np L-LL-L#H
 \de forest vine
-\np afonflo nɩ
 \xv Afonflo fla igyi fla kʋa mʋ́ ntsu lofuli. Ɩma ɔlɩn ha atɔ klɩ.
 \xe This vine is a vine that has white fluid. It is not strong for tying.
 \dt 05/Jul/2005
@@ -763,10 +736,9 @@
 \dt 01/Sep/2012
 
 \lx Afrika
-\ph Africa
+\ph Afríka
 \ps n
 \ge Africa
-\np LHL (L)
 \de continent of Africa
 \dt 09/Aug/2012
 
@@ -895,14 +867,11 @@
 \dt 02/Aug/2012
 
 \lx afʋfʋ
-\ph afʊfʊ
+\ph afʊfʊʔ
 \ps n
 \ge lungs
-\np LLL (L)
-\np L-LLʔ#L
 \de lungs
 \nt cognate with fʋ "to expand"
-\np afʋfʋ nɩ
 \xv Akpʋn bʋ ɔdwɛ dʋn afʋfʋ.
 \xe Liver is sweeter (tastes better) than lungs.
 \xv Nɩ fʋdɛ sigarɛtɩ nun a, fʋ afʋfʋ teyinta. Fʋtɔkɔsɩ wu.
@@ -943,10 +912,7 @@
 \ph ag͡blâʔ
 \ps n
 \ge trap
-\np LH (L)
-\np L-Hʔ#L
 \de trap
-\np agblaa nɩ
 \xv Agbla lakpa kɩta kpasi.
 \xe The trap has sprung and caught the bush rat.
 \rf Stewart List:1228
@@ -1079,19 +1045,15 @@
 \ph aʤawunu ɔtɔpʊ́
 \ps n
 \ge charcoal burner
-\np LLLL LLH (H)
-\np L-L-LL-LL-H#H
 \de charcoal burner
 \xv Agyawunu ɔtɔpʋ atadɩɛ tebi, tsufɛ agyawunu lebi.
 \xe charcoal burner's attire blackens, because charcoal is black.
 \dt 01/Sep/2012
 
 \lx agyilɛ
-\ph aʤílɛ
+\ph aʤílɛʔ
 \ps ADJ
 \ge edible
-\np LHL (L)
-\np l-H?#L
 \de edible
 \xv agyilɛ - Atogyihɛ ánɩ́ nfɔlɩ ma mʋ́tɔ a, ɩma agyilɛ.
 \xe easy to eat: Food that does not have salt in it is not easy to eat.
@@ -1336,11 +1298,9 @@
 \dt 14/Aug/2012
 
 \lx akɩlɛ
-\ph akɪ́lɛ
+\ph akɪ́lɛʔ
 \ps ADJ
 \ge beautiful
-\np LHL (L)
-\np L-H?-L#L
 \de good to look at
 \xv Ɩbʋ akɩlɛ: Ɩtɔa bʋ alɛ a, tɔwa akɩlɛ, tamɛ tɔa bʋ nyanya tamawa akɩlɛ.
 \xe A thing that is good is good to look at, but a thing that is ugly is not beautiful.
@@ -1353,8 +1313,6 @@
 \ph akɪtálɛ́ʔ(L)
 \ps ADJ
 \ge holdable
-\np LLHH (L)
-\np L-LH-H?#L
 \de easy to hold
 \xv Atɔ wanklaan bʋ akɩtalɛ.
 \xe easy to hold: Good things are easy to hold.
@@ -1396,10 +1354,8 @@
 \ph akoɲa(H)
 \ps n
 \ge soldier ants
-\np LLL (H)
 \np same
 \de soldier ants
-\np akonya nɩ
 \xv Akonya amʋ babla ndɔ amʋtɔ, sʋ ɔha mɛɛtalɩ yɔ agyuma ɩnʋ.
 \xe The soldier ants have invaded the farm so no one can work on the farm there.
 \dt 02/Aug/2005
@@ -1511,11 +1467,9 @@
 \dt 17/Nov/2009
 
 \lx akpitalɛ
-\ph ak͡pitálɛ́
+\ph ak͡pitálɛ́(L)
 \ps ADJ
-\ge rubable
-\np LLHH (L)
-\np L-LH-H#L
+\ge rubbable
 \de pleasant to be rubbed by
 \xv Ɔsapɔ amʋ bʋ ɩwɩ akpitalɛ
 \xe The sponge is pleasant to rub oneself.
@@ -1544,10 +1498,7 @@
 \ph ak͡pʊ̃́
 \ps n
 \ge liver
-\np LH (H)
-\np L-H#H
 \de liver
-\np akpʋn nɩ
 \xv Olinkantɩ lafa wa akpʋn amʋtɔ, sʋ lawa ɔkɩta.
 \xe Bile has burst on the liver so it has made it bitter.
 \rf SIL-AWL:0083
@@ -1613,14 +1564,11 @@
 
 \lx akunta
 \hm 1
-\ph akunta
+\ph akunta(H)
 \ps n
 \ge magical object
-\np LLL (H)
-\np L-LL#H
 \de a magical object buried in the courtyard of a house to provide protection
 \nt unlike suma, akunta does not require ongoing sacrifices. The object may be the head of an animal or bones of a dead person. -FO
-\np akunta nɩ
 \xv Aha ánɩ́ bɛblɩ a, nɩ bʋdɛ woyi yi a, bʋtegyankpa wa akunta woyi amʋtɔ, pʋ tin amʋ́ wɩ.
 \xe Those that are hot (involved in juju), if they are erecting a house, they always first put an akunta in the house to protect (as in putting in a stopper) themselves.
 \xe Juju practitioners first bury a magical object on the site for protection when they are building a house.
@@ -1640,17 +1588,14 @@
 \dt 13/Aug/2012
 
 \lx akʋkrʋwa
-\ph akʊkrʊwa
+\ph akʊkrʊwa(H)
 \ps n
 \ge old man
-\np LLLL (H)
-\np L-LLL#H
 \de old man
 \pl nkʋkrʋwa
 \ph ŋkʊkrʊwa
 \np LLLL
 \bw Akan fi:Akʋkrʋwa LLLH
-\np akʋkrʋwa nɩ
 \xv Akʋkrʋwa mʋa abrɩwa tegyi mba.
 \xe Old men and women are friendly with one another.
 \rf Stewart List:0208
@@ -1660,10 +1605,7 @@
 \ph akʊ̃́
 \ps n
 \ge hunger
-\np LH (H)
-\np L-H#H
 \de hunger
-\np akʋn nɩ
 \xv Akʋn dɛ mɩ.
 \xe I am hungry. (Hunger holds me. )
 \rf Stewart List:1414
@@ -1780,11 +1722,9 @@
 \dt 05/Jul/2012
 
 \lx alɩɩ
-\ph alɪː
+\ph alɪː(H)
 \ps ADV
 \ge lengthily
-\np LL (H)
-\np L-L#H
 \de for a long time until
 \xv Oyin amʋ lɛlɩɩ alɩɩ, mʋ nyawie amʋ mɛba.
 \xe The man stood for a long time but his friend didn't come. (He was stood up)
@@ -1798,8 +1738,6 @@
 \ps ADV
 \va loo
 \ge or
-\np LHH (H)
-\np L HH#H
 \de or
 \bw Ewe fi:aloo LHH
 \cf anaasɛ (Twi)
@@ -1887,7 +1825,6 @@
 \ph amʊ
 \ps ART
 \ge the
-\np LL (L)
 \de discourse marker referring to something known to both speaker and hearer
 \xv Atogyihɛ amʋ lablɩ.
 \xe The food is cooked.
@@ -1947,8 +1884,6 @@
 \ph aná
 \ps ADV
 \ge and these
-\np LH (H)
-\np L-H#H
 \de and these
 \xv Nɩ fɔ́dɔ ndɔ a, lehian ánɩ́ fénya adatɔ. Adatɔ amʋ kʋ aná gyi, krantɩɛ, ɔtɩ, pʋ́ otsobi.
 \xe When you will make a farm it is necessary that you will get metal tools. Some of these tools are: cutlass, hoe, and post-digger
@@ -1960,10 +1895,9 @@
 \dt 05/Jul/2012
 
 \lx anaasɛ
-\ph anáːsɛ
+\ph anáː!sɛ́(L)
 \ps CNJ
 \ge or
-\np LHH! (L)
 \de or; instead of
 \bw Akan fi:anaasɛ LHH!
 \xv Fɔyɔ Nkran anaasɛ, fétsia woyi tsia natɩ ki awulu?
@@ -1984,13 +1918,10 @@
 \dt 03/Apr/2012
 
 \lx andɔ
-\ph ándɔ
+\ph ándɔʔ
 \ps n
 \ge cat
-\np HH (L)
-\np HH?#L
 \de cat
-\np andɔ nɩ
 \xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
 \xe The cat has climbed and entered the room's ceiling and is catching mice.
 \dt 12/Jan/2012
@@ -2006,11 +1937,9 @@
 \dt 03/Apr/2012
 
 \lx anfɩ
-\ph aɱfɪ
+\ph aɱfɪ(H)
 \ps DEIC
 \ge this
-\np LL (H)
-\np L-L#H
 \de this
 \xv Anɩ fɛ́ɛ́ anɩgyi afɔɔ ɔyɩ anfɩtɔ.
 \xe We all, (we) are strangers in this world.
@@ -2020,13 +1949,11 @@
 
 \lx anɩ
 \sn 1
-\ph anɪ
+\ph anɪ(H)
 \va anɩ-
 \ps PRO
 \ge we/us
-\np LL (H)
 \de 1st person plural
-\np anɩ nɩ
 \xv Anɩmɛɛtra bwɛ lakpan. Mɛnɩ awu a, abɔ́yɔ Bulu wa.
 \xe We will not do evil again so that should we die, we will go to God's place (Heaven).
 \rf Tape:1-1-465
@@ -2045,8 +1972,6 @@
 \ps CNJ
 \va -á
 \ge that
-\np HH (H)
-\np H-H#H
 \de that
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that is not flexible is easy to break.
@@ -2092,13 +2017,10 @@
 \dt 09/Aug/2012
 
 \lx anlɛn
-\ph anlɛ̃́
+\ph anlɛ̃́ʔ
 \ps n
 \ge beauty
-\np LH (H)
-\np L-H?#H
 \de nominal form
-\np anlɛn nɩ
 \xv Megyi anlɛn, tamɛ bwɛhɛ.
 \xe Not beauty, but doings. (Handsome is as handsome does. )
 \nt Proverb
@@ -2189,11 +2111,9 @@
 \dt 10/Jan/2012
 
 \lx ansɩpɛpɛ
-\ph ansɪpɛpɛ
+\ph ansɪpɛpɛ(H)
 \ps n
 \ge trouble
-\np LLLL (H)
-\np L-L-LL#H
 \de trouble
 \lt red eyes
 \xv Ansɩpɛpɛ gyisɛ, babla fʋ oli ntɛ fʋ wɩsʋ ɔha dɛlɔ kinkiinkin, ntɛ falɛ asʋn; sʋ fʋ ansɩ lapɛ.
@@ -2219,8 +2139,6 @@
 \ph ansɪ́tɔ́
 \ps n
 \ge face
-\np LHH (H)
-\np L-H-H#H
 \de face
 \nt etymologically related to ansibi - eyes
 \xv Bulu tɛkɩ klʋntɔ ha pɔn, tamɛ nyankpʋsa tɛkɩ aha ansɩtɔ ha pɔn.
@@ -2232,11 +2150,9 @@
 \dt 10/Jan/2012
 
 \lx anu
-\ph anu
+\ph anu(H)
 \ps NUM
 \ge five
-\np LL (H)
-\np L-L#H
 \de five
 \rf Stewart List:1805
 \dt 02/Aug/2012
@@ -2332,11 +2248,9 @@
 \dt 30/Aug/2012
 
 \lx apipi
-\ph apípi
+\ph apípîʔ
 \ps n
 \ge sweat
-\np LHH (L)
-\np L-HHʔ#L
 \de sweat
 \xv Agyʋma-ayɔpʋ tɛlɩn apipi.
 \xe Workers sweat.
@@ -2392,13 +2306,11 @@
 
 \lx asa
 \hm 2
-\ph asa
+\ph asa(H)
 \ps NUM
 \va sa
 \va sa
 \ge three
-\np LL (H)
-\np L-L#H
 \de three
 \rf Stewart List:1803
 \dt 02/Aug/2012
@@ -2688,8 +2600,6 @@
 \ph asɔ́rɪ́
 \ps n
 \ge church
-\np LHH (H)
-\np LHH#H
 \de church
 \bw Akan fi:asɔrɩ LHH
 \xv Kwasieda kugyikʋ akristofɔ bʋtɔyɔ asɔrɩ yonu Bulu asʋn.
@@ -2750,8 +2660,6 @@
 \ph Asʊhompeĩː
 \ps n
 \ge big ears
-\np LL LL (L)
-\np L-L-LL:#L
 \de big ears (an insult)
 \dt 02/Jan/2012
 
@@ -4247,7 +4155,6 @@
 \ph bɪsʊfɛ
 \ps n
 \ge trusted one
-\np LLL(L)
 \de one you trust more than anyone else
 \dt 19/Sep/2005
 
@@ -7225,16 +7132,13 @@
 \dt 15/Sep/2012
 
 \lx fonflo
-\ph foɱflo
+\ph foɱfloʔ
 \ps n
 \ge caterpillar
-\np LL(L)
-\np LL#L
 \de non-stinging caterpillar
 \pl afonflo
-\ph afoɱflo
-\np LHH?
-\np fonflo nɩ
+\ph afoɱfloʔ
+
 \xv Konkolibatɛ asɩ itsu fonflo.
 \xe A butterfly comes from a caterpillar
 \xv Fonflo tɛdamli bwɛ konkolibatɛ.
@@ -10528,11 +10432,9 @@ sn 2
 \ph ɪk͡pɪ(H)
 \ps n
 \ge fetish
-\np LL(H)
 \pl nkpɩ
 \ph ŋ͡mk͡pɪ(H)
 \de fetish
-\np ɔkpɩ nɩ
 \xv Akɔmfɔ bʋtɔtswɛ ɔkpɩ.
 \xe Fetish priests serve fetish.
 \rf Tape:5-2-545
@@ -18573,10 +18475,9 @@ cf fonflo
 \dt 08/Sep/2012
 
 \lx nkɔnkɔ
-\ph ŋkɔŋkɔ
+\ph ŋkɔŋkɔ(H)
 \ps n
 \ge shoulders
-\np LLL(H)
 \de on the shoulders
 \xv Bʋ tsu mʋ wa nkɔnkɔ tsufɛsɛ alagyi sʋ.
 \xe They carried him on their shoulders because he has won.
@@ -19747,7 +19648,6 @@ cf fonflo
 \ph ɲaŋ͡mk͡pʊ́k͡píeʔ(L)
 \sn 1
 \ge thunder
-\np LLHHʔ(L)
 \de thunder
 \ps n
 \xv Nyankpʋ amʋ dekpie dʋbɩ, fialɩ obotswie.
@@ -26326,15 +26226,12 @@ cf fonflo
 \dt 10/Sep/2012
 
 \lx ɔsan
-\ph ɔsã
+\ph ɔsã(H)
 \ps n
 \ge towel
-\np LL (H)
 \de towel
 \pl nsan
-\ph nsãʔ
-\np same
-\np ɔsan nɩ
+\ph nsãʔ(H)
 \xv Nanyɩmɛ ɔsan amʋtɔ; Ɩlalɩn ntsu tsɔtsɔɔtsɔ.
 \xe I have wrung out the towel; there was lots of water in it.
 \xv Nɩ fʋ ma ɔkwaɩ a, pʋ ɔsan kpan bie ntsu amʋ.
@@ -32320,11 +32217,10 @@ cf fonflo
 \dt 13/Sep/2012
 
 \lx tsonkoli
-\ph t͡soŋkoli
+\ph t͡soŋkoli(H)
 \ps n
 \ge cliff
 \de valley with a cliff
-\np LLL (H)
 \dt 21/Aug/2012
 
 \lx tsoo
