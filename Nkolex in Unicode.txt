@@ -287,12 +287,9 @@
 \ph abɪ̃ʔ
 \ps n
 \ge side
-\np LL
-\np L-Lʔ#L
 \de a person's side
 \cf abɩntɔ - inside the side
 \cf abɩnwu (n) rib
-\np abɩn nɩ
 \xv Fʋ abɩn gyi tsu fʋ klɛtɔ bɔfʋn fʋ ɔmɛtɔ.
 \xe Your side goes from your armpit to your abdomen. It describes that area where the ribs are.
 \rf Stewart List:0036
@@ -302,7 +299,7 @@
 \xv Ntsu amʋ ɩna ɩbʋ amʋ abɩntɔ.
 \xe The stream passes beside the hill.
 \rf Stewart List:0958
-\dt 02/Jan/2012
+\dt 05/Oct/2012
 
 \lx abɩn iwu
 \ph abɪ̃ʔ iwú
@@ -365,16 +362,14 @@
 \dt 15/Sep/2012
 
 \lx ablɩlɛ
-\ph ablɪ́lɛ́
+\ph ablɪ́lɛ́(L)
 \ps ADJ
 \ge speakable
-\np LHH
-\np L-HH#L
 \de easy to say
 \xv Ɔhagyiɔha wulutɔ ɔblɩ bʋ mʋ ablɩlɛ.
 \xe Everyone's own language is easy for him to speak.
 \rf Tape:1-1-100
-\dt 23/Jul/2012
+\dt 05/Oct/2012
 
 \lx abomba
 \ph abomba(H)
@@ -409,15 +404,12 @@
 \ph abrɛ́
 \ps n
 \ge antelope
-\np LHF
-\np L-HF#H
 \de an antelope bigger than nani
 \nt check the size of nani, abrɛ and other antelopes
-\np abrɛ nɩ
 \xv Abrɛ lɛpɛ, bibi ɩna mʋ ɔma. Olomonɩ dʋn nani, sʋ aha ansɩ tegyi mʋ ɩwɩ dʋn nani.
 \xe Abrɛ has red colour, with a black line on its back. It is bigger than nani, so people like it more than nani.
 \nt Tone on this is anomalous South Nkonya is L-LL#H, North is L-HL#H
-\dt 10/Jan/2012
+\dt 05/Oct/2012
 
 \lx abrɩwa
 \ph abrɪwa(H)
@@ -444,15 +436,12 @@
 \dt 15/Sep/2012
 
 \lx abusuan
-\ph abusuã
+\ph abusuã(H)
 \ps n
 \ge family
-\np LLLL
-\np L-LLL#H
 \de family
 \pl mbusuan
-\ph mbusuã
-\np abusuan nɩ
+\ph mbusuã(H)
 \bw Akan fi:abusuan LLLH
 \xv Anɩ abusuan bʋswɩ dʋn abrɔfɔ klɛ.
 \xe Our family is bigger than westerner's family.
@@ -460,7 +449,7 @@
 \cf Abusuanfɔ Eng:family, the people that make up the family
 \nt Not literally, but in terms of obligation. That's why people don't trade in town, because everyone claims they are family and should get a reduced price. So you end up with no profit.
 \nt Father (ɔsɩ/sɩ), Mother (oyin/yin), child (kebi), baby (kebi bɔbwɛ), daughter(obi-tsibi, ), girl (otsibi), boy (oyinbi),
-\dt 16/Jul/2012
+\dt 05/Oct/2012
 
 \lx abususʋ
 \ph abususʊ
@@ -521,12 +510,10 @@
 \ph adaŋgó
 \ps n
 \ge rabbit
-\np LLH
 \de rabbit
-\np adango nɩ
 \xv Kofi dɛ adango yaɩ amʋ́ woyitɔ.
 \xe Kofi is rearing rabbits in his house.
-\dt 03/Apr/2012
+\dt 05/Oct/2012
 
 \lx adansɩɛ
 \ph adã́nsɪɛ(H)
@@ -551,23 +538,6 @@
 \rf Tape:1-1-138
 \dt 01/Oct/2012
 
-\lx adɛndɛ
-\ph adɛndɛ
-\ps vi
-\ge stand alone
-\np LLL
-\np L-LL#H
-\np ɔtɛtɩn adɛndɛ
-\de stand without support, stand alone
-\nt always collocates with tɩn (and cognates) to convey ideas of learning to stand (child development), and not falling (bottles, head basins etc. ).
-\xv Kwame dɛ adɛndɛ tɩn
-\xe Kwame is standing cut
-\xe Kwame is learning to stand
-\xv fatɩn adɛndɛ
-\xe you cut standing
-\xe you are carrying without holding (your load)
-\dt 08/Sep/2012
-
 \lx adɩawun
 \ph adɪawũ(H)
 \ps n
@@ -581,21 +551,16 @@
 \ph adɪ̃́
 \ps n
 \ge bellows
-\np LH
-\np L-H#H
 \de bellows
-\np adɩn nɩ
 \xv Nɩ gbede adɩn ɩtɩtɩ a, ɔmɛɛtalɩ fwi mʋ ogya.
 \xe If a blacksmith's bellows tear, he cannot blow his fire.
 \rf Stewart List:1216
-\dt 10/Jan/2012
+\dt 05/Oct/2012
 
 \lx adɔbʋʋ
-\ph adɔbʊ̂ː
+\ph adɔbʊ̂ʔ
 \ps n
 \ge farming area
-\np LLH?
-\np L-LHFʔ-L
 \de farming area
 \np adɔbʋʋ nɩ
 \xv Fʋ adɔbʋʋ gyi ɔtɩnɛ ánɩ́ fʋtɔdɔ.
@@ -603,7 +568,7 @@
 \xv Anɩ adɔbʋʋ bʋ oduabone abɔɩtɔ.
 \xe Our farming area is in Oduabone area.
 \cf ɔdɔbʋtsa
-\dt 16/Jul/2012
+\dt 05/Oct/2012
 
 \lx adɔmpɔ
 \ph adɔmpɔ (H)
@@ -743,18 +708,17 @@
 \dt 09/Aug/2012
 
 \lx afrimu
-\ph afrímú (H)
+\ph afrímú
 \ps n
 \ge donkey
 \de donkey
 \pl mfrimu
 \ph mfrímú
-\np LH!H
 \bw Akan fi:afrim LH!H
 \xv Afrimu tɔsʋra atɔ dʋn ɔpɔnkɔ.
 \xe A donkey carries things more than a horse.
 \rf Stewart List:0630
-\dt 23/Jul/2012
+\dt 05/Oct/2012
 
 \lx afu
 \hm 1
@@ -853,18 +817,15 @@
 \ph afutúó
 \ps n
 \ge counsel/advise
-\np LLHH
-\np L-LHH#H
 \de counsel
 \bw Akan fi:afutu LLH
-\np afutuo nɩ
 \xv Ha mʋ afutuo, osi atɔ wi.
 \xe Advise him to stop stealing.
 \cf ɔfʋ
 \cf tɔɩ kpla
 \xv afutuo ɔhapʋ
 \xe counsellor
-\dt 02/Aug/2012
+\dt 05/Oct/2012
 
 \lx afʋfʋ
 \ph afʊfʊʔ
@@ -919,20 +880,17 @@
 \dt 04/Jan/2012
 
 \lx agbodi
-\ph ag͡bodi
+\ph ag͡bodiʔ
 \ps n
 \ge cassava
-\np LLL
-\np L-LLʔ#L
 \de cassava
 \bw Ewe fi:agbeli LLL
-\np agbodi nɩ
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi gari, konkonte pʋ́ agbodi mbɔdɩ.
 \xe They take cassava and make many foods. Some of these are, gari, konkonte, and cassava dough.
 \xe They use cassava to make many foods including gari, konkonte, and cassava dough.
 \rf Tape:1-1-190
 \rf Stewart List:0908
-\dt 05/Jul/2012
+\dt 05/Oct/2012
 
 \lx agbwi
 \ph ag͡bwí
@@ -947,32 +905,27 @@
 \ph agodé
 \ps n
 \ge coconut
-\np LLH
-\np L-LH#H
 \de coconut
-\np agode nɩ.
 \nt from Ewe "Agɔ de" - Agɔ palm Agɔ is near Kpalime in Togo
 \xv Agode toswie mʋ́ oyɩtɔ, ɔkpɩtsatɔ.
 \xe Coconut bears in its tree in a cluster.
 \xe A coconut tree bears its fruit in a cluster.
 \rf Tape:1-1-205
 \rf Stewart List:0869
-\dt 10/Jan/2012
+\dt 05/Oct/2012
 
 \lx agon
 \ph agõʔ
 \ps n
 \ge velvet
-\np LL
-\np L-Lʔ-L
 \de velvet
 \np agon nɩ
 \ue South:ago
-\np LL
+\ph agoʔ
 \xv Ɔlɛdɩda agon tati Istatɔ.
 \xe He put on a velvet cloth for Easter.
 \rf Stewart List:1269
-\dt 05/Jul/2005
+\dt 05/Oct/2012
 
 \lx agude
 \ph agude(H)
@@ -1066,11 +1019,10 @@
 \ge incest
 \de incest
 \np agyɩm nɩ
-\bw Akan fi:agyɩm
-\np LL
+\bw Akan fi:agyɩm LL
 \xv Oyin amʋ lawa agyɩm.
 \xe The man has committed incest.
-\dt 13/Sep/2012
+\dt 05/Oct/2012
 
 \lx agyɩna
 \ph aʤɪna(H)
@@ -1146,10 +1098,7 @@
 \ph aʤʊ́má
 \ps n
 \ge work
-\np LHH
-\np L-HH#H
 \de work
-\np agyʋma nɩ
 \bw Akan fi:agyʋma LHH
 \xv Ɩdɔ brɛ fʋn a, ɔhagyiɔha tɔyɔ agyʋma mʋ ndɔtɔ kinkiinkin. Mɛnɩ mʋ ndɔtɔ atɔ bɔ́wa alɛ.
 \xe When farming time comes, everyone works hard on his farm so that his crops will be good.
@@ -1162,7 +1111,7 @@
 \xv Ɔma gyumagyihɛ. Mʋ́ sʋ ɔtɛnatɩ ki ahasʋ.
 \xe He has no work. That's why he always roams from person to person.
 \rf Stewart List:1403
-\dt 16/Sep/2012
+\dt 05/Oct/2012
 
 \lx agywama
 \ph aʤwama(H)
@@ -1216,15 +1165,12 @@
 \ph ahʊhwɛ́
 \ps n
 \ge mirror
-\np LLH
-\np L-LH#H
 \de mirror
 \nt ansibi ahʋhwɛ is glasses
 \bw Akan fi:ahwɩhwɛ LLH
-\np ahʋhwɛ nɩ
 \xv Ahʋhwɛ bʋtɔpʋ kɩ ansɩtɔ.
 \xe They use mirror to look at one's faces.
-\dt 05/Jul/2012
+\dt 05/Oct/2012
 
 \lx akanlɛ
 \ph akanlɛ́(H)
@@ -1333,11 +1279,10 @@
 \ph aklambi
 \ps n
 \ge marbles
-\np LL
-\de small ball usually made of colours or transparent glass that rolled on the ground by children
+\de marbles
 \xv Aklambi tswɩ bʋ ansɩgyi wanklaan.
 \xe Throwing marbles is lots of fun.
-\dt 23/Jul/2012
+\dt 05/Oct/2012
 
 \lx aklodobi
 \ph aklodobí (H)
@@ -1419,12 +1364,11 @@
 \ph akɔɱfra
 \ps n
 \ge sword
-\np LLL
 \de a wooden sword
 \np akɔnfra nɩ
 \xv Bɔpʋ oyi kʋ wa mʋ gyɔpɩ ɩbɩtɔ fɛ owie dɛ akɔnfra.
 \xe They put a stick in his right hand like a chief holding a wooden sword.
-\dt 23/Jul/2012
+\dt 05/Oct/2012
 
 \lx akpa
 \ph ak͡pa
@@ -1441,15 +1385,12 @@
 \dt 01/Sep/2012
 
 \lx akpasa
-\ph ak͡pása
+\ph ak͡pásaʔ
 \ps n
 \ge reclining chair
-\np LHL
-\np L-HLʔ#L
 \de reclining chair
 \nt folk etymology from kpɩsa to lean
 \bw Ewe fi:akpasa LHL
-\np akpasa nɩ
 \xv Aha botsu ndɔtɔ ba woyitɔ a, bʋtekle akpasatɔ kpɩsa pʋ tswii amʋ́ ɔma.
 \xe When people come back from farm to the house, they like akpasa to lean and straighten their backs.
 \rf Tape:1-1-343
@@ -1457,7 +1398,7 @@
 \cf asesegua
 \cf kantankua
 \rf Stewart List:1180
-\dt 02/Aug/2012
+\dt 05/Oct/2012
 
 \lx akpekpe
 \ph ak͡pek͡pe
@@ -1557,10 +1498,9 @@
 \ps n
 \ge village
 \de a small town
-\np akudasɩ nɩ
 \xv Nɩ fʋda akudasɩ tamɛ fʋtamayɔ ndɔtɔ agyuma a, fʋ mɛɛdɛ tɔtɔ bwɛ.
 \xe If you are in the village, but you are not farming, you are doing nothing.
-\dt 23/Jul/2012
+\dt 05/Oct/2012
 
 \lx akunta
 \hm 1
@@ -1582,10 +1522,9 @@
 \ge calculations
 \de to put things together
 \bw English fi:account
-\np akunta nɩ
 \xv Nɩ fʋmeyin akunta a, fʋmɛtalɩ yɔ kɔba ɔyaɩkpa.
 \xe If you don't know calculations you can't work at the bank.
-\dt 13/Aug/2012
+\dt 05/Oct/2012
 
 \lx akʋkrʋwa
 \ph akʊkrʊwa(H)
@@ -1594,12 +1533,11 @@
 \de old man
 \pl nkʋkrʋwa
 \ph ŋkʊkrʊwa
-\np LLLL
 \bw Akan fi:Akʋkrʋwa LLLH
 \xv Akʋkrʋwa mʋa abrɩwa tegyi mba.
 \xe Old men and women are friendly with one another.
 \rf Stewart List:0208
-\dt 02/Aug/2005
+\dt 05/Oct/2012
 
 \lx akʋn
 \ph akʊ̃́
@@ -1643,12 +1581,10 @@
 \ph alaŋ͡mk͡pla
 \ps n
 \ge storm
-\np LLL
 \de rain storm
-\np alankpla nɩ
 \xv Nɩ nyankpʋ detswie, alankpla dɛ a, ifu tɛkɩta aha ánɩ́ amʋ́ mbu lapɔn tsufɛ itobwie mbu. Tamɛ Yesu bʋ tumi dɩnka alankpla sʋ.
 \xe When there is a rainfall with storm, those whose houses are weak become afraid it destroys houses. But Jesus has power over storm.
-\dt 16/Jul/2012
+\dt 05/Oct/2012
 
 \lx alɛ
 \ph alɛ́ (H)
@@ -1775,10 +1711,9 @@
 \ps n
 \ge news
 \de news, matters
-\np amansʋ nɩ
 \xv Amansʋ ntra blɩ?
 \xe What other matters should I talk again.
-\dt 22/Aug/2012
+\dt 05/Oct/2012
 
 \lx Amen
 \ph Amen
@@ -1835,14 +1770,13 @@
 \ps PRO
 \ge their; them; they
 \de 3rd person pl
-\np amʋ́ nɩ
 \xv Amʋ́ bʋ mankani ndɔ amʋ.
 \xe They own the cocoyam farm.
 \xv Amʋ́ mankani ndɔ nɩ.
 \xe This is their cocoyam farm.
 \rf Tape:1-1-444
 \rf Stewart List:1843
-\dt 10/Jan/2012
+\dt 05/Oct/2012
 
 \lx amʋmʋyɔ
 \ph amʊmʊyɔ
@@ -1869,16 +1803,13 @@
 \dt 05/Jul/2005
 
 \lx ana
-\ph ana
+\ph ana(H)
 \ps NUM
 \va na
 \ge four
-\np LL H
-\np L-L#H
 \de four
-\np ana nɩ
 \rf Stewart List:1804
-\dt 02/Aug/2012
+\dt 05/Oct/2012
 
 \lx aná
 \ph aná
@@ -1931,10 +1862,9 @@
 \ps n
 \ge kitten
 \de small cat
-\np andɔbi nɩ
 \xv Akwasi andɔbi amʋ towi aye wɩ dʋbɩ.
 \xe Akwasi's kitten steals meat too much.
-\dt 03/Apr/2012
+\dt 05/Oct/2012
 
 \lx anfɩ
 \ph aɱfɪ(H)
@@ -2035,13 +1965,11 @@
 \ph ansibi
 \ps n
 \ge eye
-\np LL
-\np LL#L
 \de eye
 \xv Nɩ owi ta a, mɩ ansibi tamawun atɔ wanklaan.
 \xe When it is dark, I can't see well.
 \rf SIL-AWL:0006
-\dt 23/Jul/2012
+\dt 05/Oct/2012
 
 \lx ansibi klambi
 \ph ansibi klambi
@@ -2054,17 +1982,13 @@
 \ph ansibi obwiepʊ́
 \ps n
 \ge blind person
-\np LLL LLLH
-\np L-LL-LLH#H
 \de person that cannot see
 \pl ansibi abwiepʋ
 \ph ansibi abwiepʊ́
-\np LLL LLH
-\np ansibi-obwiepʋ nɩ
 \nt from ansibi bwie - broken eyes
 \xv Ansibi obwiepʋ amʋ otse ɔsʋsʋ amʋ lawu.
 \xe The man blind man staying at the top is dead.
-\dt 23/Jul/2012
+\dt 05/Oct/2012
 
 \lx ansigyi
 \ph ansíʤí
@@ -2319,41 +2243,35 @@
 \ph asã̂ːʔ
 \ps n
 \ge crayfish
-\np LHL
-\np L-HLʔ#L
 \de fresh water prawns
 \pl none
 \ph none
 \xv Nɩ fotsu Nkran fɛba a, hɔ asaan Sentsie ba mɩ.
 \xe If you are coming from Accra, buy crayfish at Senchi for me.
-\dt 10/Jan/2012
+\dt 05/Oct/2012
 
 \lx asaawa
-\ph asǎːwa
+\ph asǎːwa(H)
 \ps n
 \ge thread
-\np LLHL
-\np L-LHL#H
 \de thread
 \bw Akan fi:asaawa LLH!
 \xv Ɔlɔpʋ asaawa amʋ tswɩ bɩnasʋ.
 \xe She put the thread down on her left side.
 \nt idiom
 \rf Tape:1-1-565
-\dt 10/Jan/2012
+\dt 05/Oct/2012
 
 \lx asafʋ
-\ph asafʊ
+\ph asafʊʔ
 \ps n
 \ge warriors
-\np LLL
-\np L-LLʔ#L
 \de war band
 \bw Akan fi:asafʋ LLL
 \xv Ɔdɛ asafʋ ɔfranka amʋ wʋna.
 \xe He is waving the war group's flag
 \rf Tape:5-2-355
-\dt 05/Jul/2005
+\dt 05/Oct/2012
 
 \lx asaprada
 \ph asapráda
@@ -2375,24 +2293,20 @@
 \dt 15/Sep/2012
 
 \lx asendua
-\ph aséndua
+\ph aséndua(H)
 \ps n
 \ge cross
-\np LHLL
-\np L-HLL#H
 \de cross
 \bw Akan fi:asendua LHLL
 \cf oyikpalihɛ
 \xv Bɛda mʋ sian asenduasʋ.
 \xe He was nailed on the cross.
-\dt 02/Aug/2012
+\dt 05/Oct/2012
 
 \lx asesegua
 \ph aséségúá
 \ps n
 \ge stool
-\np LHHH
-\np L-HHH#H
 \de carved stool
 \bw Akan fi:asesegua LHHH
 \xv Asesegua gyi obia ánɩ́ awie bʋtekle mʋ́sʋ tsia. Oyi bʋtɔpʋ sre mʋ́.
@@ -2401,7 +2315,7 @@
 \th obia
 \cf kantankua
 \cf akpasa
-\dt 02/Aug/2012
+\dt 05/Oct/2012
 
 \lx asiabi
 \ph asiabí
@@ -2431,11 +2345,10 @@
 \ph asiẽn͡ɱg͡bi
 \ps n
 \ge garden egg
-\np LLLL
 \de a type of garden plant
 \xv Asiengbi gyi a ɩbʋalɛ tsufɛ ɩtɛha obugya.
 \xe Eating the garden egg is good because it gives blood.
-\dt 16/Jul/2012
+\dt 05/Oct/2012
 
 \lx asienɔ
 \ph asienɔ́ (H)
@@ -2445,18 +2358,16 @@
 \dt 02/Aug/2012
 
 \lx asiɛɩ
-\ph asiɛɪ́
+\ph asiɛɪ́ʔ
 \ps n
 \ge graveyard
-\np LLLH
-\np L-LLHʔ#H
 \de graveyard
 \nt S. Nkonya asie LLHʔ
 \bw Akan fi:amusie LLLHʔ
 \xv Wulu-gyi-wulu bʋ asiɛɩ, nɩ ɔha owu a, butopula mʋ nʋ.
 \xe Every town has a graveyard. When a person dies they bury him there.
 \rf Tape:1-1-579
-\dt 10/Jan/2012
+\dt 05/Oct/2012
 
 \lx asiɛntɔ
 \ph asíɛntɔʔ
@@ -2563,17 +2474,15 @@
 \dt 23/Jul/2012
 
 \lx asɩra
-\ph asɪ́ra
+\ph asɪ́raʔ
 \ps n
 \ge snuff
-\np LHL
-\np L-HLʔ#L
 \de snuff
 \bw Akan fi:asra LH!
 \xv Bʋtɔpʋ taba kwɛ asɩra.
 \xe They take tobacco and grind it into snuff.
 \rf Stewart List:1278
-\dt 05/Jul/2012
+\dt 05/Oct/2012
 
 \lx asɩsɩgua
 \ph asɪsɪgua
@@ -2678,8 +2587,6 @@
 \ph asʊ̃́
 \ps n
 \ge word
-\np LH
-\np L H#H
 \de word
 \rf Tape:1-2-036
 \cf kɩta asʋn
@@ -2689,7 +2596,7 @@
 \xe (I won't want trouble for myself) I won't borrow trouble. A case is in the bush; they don't take a rope and drag it to the house.
 \rf Tape:1-2-043
 \cf nu asʋn asɩ
-\dt 07/Aug/2012
+\dt 05/Oct/2012
 
 \lx asʋn blɩhɛ
 \ph asʊn blɪ́hɛ́ (L)
@@ -2706,22 +2613,19 @@
 \ps n
 \ge evil words
 \de saying words which are evil
-\np asʋnkpan nɩ
 \xv Ɔha ánɩ́ ɔblɔ tɔkɔsɩ kɩta mʋ a, tɛblɩ asʋnkpan.
 \xe A person who gets angry often, says evil words.
-\dt 22/Aug/2012
+\dt 05/Oct/2012
 
 \lx asʋnwunhɛ
 \ph asʊnwunhɛ
 \ps n
 \ge trouble
-\np LLLL
-\np L-L-LL#L
 \de trouble
 \xv Fowie asʋnwunhɛtɔ, fenya klʋn a, fʋtamabwɛ lakpan.
 \xe If you enter into trouble and endure it patiently you never do evil.
 \rf Tape:1-2-002
-\dt 23/Jul/2012
+\dt 05/Oct/2012
 
 \lx asʋtɔlɩn
 \ph asʊtɔlɪ̃ (H)
@@ -2786,49 +2690,41 @@
 \ph atóʤí
 \ps n
 \ge eating
-\np LHH
-\np L-HH@
 \de the action of eating food
 \nt atɔ gyi
 \xv Ɔdɛ atogyi asa nɔyɔ woyitɔ nʋ.
 \xe He was eating when I went to the house.
-\dt 01/Sep/2012
+\dt 05/Oct/2012
 
 \lx atogyihɛ
 \ph atoʤihɛ
 \ps n
 \ge food
-\np LLLL
-\np L-LLL#L
 \de food
 \nt etym atɔ gyi hɛ - things eat ADJizer
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi; gari, konkonte pʋ́ agbodi mbɔdɩ.
 \xe They take cassava and make many foods. Some of these are, gari, konkonte, and cassava porridge.
 \xe They use cassava to make many foods including gari, konkonte, and cassava porridge.
-\dt 01/Sep/2012
+\dt 05/Oct/2012
 
 \lx atohianhɛ
-\ph atohiã́hɛ
+\ph atohiã́hɛʔ
 \ps n
 \ge essentials
-\np LLLHL
-\np L-LLH!Lʔ#L
 \de necessary things
 \xv Obu ɩhɩɛ igyi nyakpʋsa atohiahɛ paa.
 \xe House is a very essential thing for man.
-\dt 10/Jan/2012
+\dt 05/Oct/2012
 
 \lx atosunahɛ
 \ph atosunáhɛ́
 \ps n
 \ge teachings
-\np LLLHH
-\np L-LLhh#L
 \de teachings
 \xv Nɩ fégyi dɩnka anɩ wie Yesu Kristo atosunahɛsʋ a, ɩtɔwa alɛ ha fʋ nkpa anfɩtɔ.
 \xe If you abide by the teachings of our Lord Jesus Christ, it becomes well with you in this life.
 \cf suna
-\dt 02/Aug/2012
+\dt 05/Oct/2012
 
 \lx atɔ
 \ph atɔ́ʔ(H)
@@ -2857,10 +2753,9 @@
 \ph atɔ awũ̂mpʊ
 \np same
 \nt Some people just see things in a vision, but some people use various methods such as looking in water.
-\np atɔ owuunpʋ nɩ
 \xv Atɔ owunpʋ towun atɔ ánɩ́ bɛ́ba, bla aha mɛnɩ bɛ́da wɩsʋ?
 \xe A diviner sees the things that will come and tells people so that they can watch out.
-\dt 16/Jul/2012
+\dt 05/Oct/2012
 
 \lx atɔ ɔbɩnpʋ
 \ph atɔ́ ɔbɪ̃́mpʊ
@@ -2888,12 +2783,11 @@
 \pl atɔ afɛpʋ
 \ph atɔ́ afɛpʊ́
 \np LH H!HH
-\np atɔ ɔfɛpʋ nɩ
 \xv Atɔ ɔfɛpʋ amʋ ɔlɔhɔ atɔ ba bɛfɛ.
 \xe The petty trader bought things in order to come and sell.
 \cf bia-ogyipʋ (merchant)
 \cf fɛ (sell)
-\dt 16/Aug/2012
+\dt 05/Oct/2012
 
 \lx atɔ ɔlapʋ
 \ph atɔ́ ɔlapʊ́
@@ -30979,6 +30873,18 @@ cf fonflo
 \ge pure
 \de to be pure
 \dt
+
+\lx tɩn adɛndɛ
+\ph tɪ̃ adɛndɛ(H)
+\ps vi
+\ge stand alone
+\de stand without support, stand alone
+\nt always collocates with tɩn (and cognates) to convey ideas of learning to stand (child development), and not falling (bottles, head basins etc. ).
+\xv Kwame dɛ adɛndɛ tɩn
+\xe Kwame is standing alone
+\xv fatɩn adɛndɛ
+\xe you are carrying without holding (your load)
+\dt 05/Oct/2012
 
 \lx tɩnbɩ
 \ph tɪnbɪ
