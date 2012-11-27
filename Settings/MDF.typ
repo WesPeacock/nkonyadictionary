@@ -965,17 +965,9 @@
 
 \+expMDF Multi-Dictionary Formatter
 \UTF8
-\copyright Copyright © 2002
-\titleEnglishDiglot Selaru — English Dictionary
-\titleEnglishTriglot Selaru — English — Indonesian Dictionary
-\titleGlossIndexEE English — Selaru
-\titleGlossIndexEN Indonesian — Selaru
-\titleGlossIndexER Ambonese Malay — Selaru
-\titleNationalDiglot Kamus Bahasa Selaru — Bahasa Indonesia
-\titleNationalTriglot Kamus Bahasa Selaru — Bahasa Indonesia — Bahasa Ingris
-\titleGlossIndexNE Bahasa Ingris — Bahasa Selaru
-\titleGlossIndexNN Bahasa Indonesia — Bahasa Selaru
-\titleGlossIndexNR Bahasa Ambon — Bahasa Selaru
+\copyright Copyright © 2012
+\titleEnglishDiglot Nkonya English Dictionary
+\exportedEnglishDiglot C:\My Toolbox Projects\Dict_ed.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
