@@ -228,6 +228,45 @@
 \recordsspace 100
 \-PrintProperties
 \+expset 
+\MDF
+\verMDF 4.1
+\ShowConvertOlderMDF
+
+\+expMDF Multi-Dictionary Formatter
+\UTF8
+\copyright Copyright (c) 2012
+\titleEnglishDiglot vernacular - English Dictionary
+\titleEnglishTriglot vernacular - English - national Dictionary
+\titleGlossIndexEE English - vernacular
+\titleGlossIndexEN national - vernacular
+\titleGlossIndexER regional - vernacular
+\titleNationalDiglot vernacular - national Dictionary
+\titleNationalTriglot vernacular - national - English Dictionary
+\titleGlossIndexNE English - vernacular
+\titleGlossIndexNN national - vernacular
+\titleGlossIndexNR regional - vernacular
+\cctEnglishLabels mdf_eng.cct
+\dotEnglish mdf_e.dot
+\cctNationalLabels mdf_inz.cct
+\dotNational mdf_n.dot
+\typRTF MDF Rich Text Format
+\typHTML MDF SF-to-HTML
+\+mkrsubsetExcluded 
+\mkr dt
+\-mkrsubsetExcluded
+\+rtfPageSetup 
+\paperSize letter
+\topMargin 0.75
+\bottomMargin 1.25
+\leftMargin 0.75
+\rightMargin 0.75
+\gutter 0.5
+\headerToEdge 0.375
+\footerToEdge 0.875
+\columns 2
+\columnSpacing 0.25
+\-rtfPageSetup
+\-expMDF
 
 \+expRTF Rich Text Format
 \exportedFile C:\Alan\ToolboxC\ToolboxMDFFields\ToolboxMDFFields.rtf

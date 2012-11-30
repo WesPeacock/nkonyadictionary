@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.5.9na Aug 2012
+\ProgramVersion 1.5.7 Nov 2009
 \ProjectPath C:\My Toolbox Projects\Nkonya\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -41,14 +41,14 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain normal -1 -1 -1 -1 23 20 1288 804
+\placementMain normal -1 -1 -1 -1 0 0 1265 784
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
 \+wndlst 
 \+wnd 
-\placement min 640 729 -1 -1 0 0 1186 446
-\z 2
+\placement min 21 622 0 25 0 0 1186 446
+\z 0
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 150
@@ -97,8 +97,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Parsing Dictionary.txt
 \+wndlst 
 \+wnd 
-\placement normal 320 729 -8 -28 30 30 1216 476
-\z 6
+\placement normal 320 729 0 25 30 30 1216 476
+\z 5
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -146,8 +146,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \+wndlst 
 \+wnd 
-\placement min 0 637 -8 -28 2 -4 1177 627
-\z 0
+\placement min 0 637 0 25 2 -4 1177 627
+\z 4
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -193,8 +193,8 @@
 \-keyInsert
 \-wnd
 \+wnd 
-\placement normal -1 -1 -1 -1 138 138 1153 662
-\z 3
+\placement normal 0 25 0 25 138 138 1153 662
+\z 1
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -243,7 +243,7 @@
 \CaretChar 15
 \-wnd
 \+wnd 
-\placement normal -1 -1 -1 -1 609 23 1242 648
+\placement normal 0 25 0 25 609 23 1242 648
 \z 9
 \ViewMarkers
 \ViewMarkerHierarchy
@@ -291,9 +291,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 9
-\CaretLineScroll 9
-\CaretChar 23
+\CaretLine 8
+\CaretLineScroll 8
+\CaretChar 22
 \-wnd
 \-wndlst
 \-db
@@ -301,8 +301,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Keyterms Dictionary.txt
 \+wndlst 
 \+wnd 
-\placement min 480 729 -1 -1 120 120 1306 566
-\z 1
+\placement min 21 622 0 25 120 120 1306 566
+\z 8
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -349,8 +349,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Texts.txt
 \+wndlst 
 \+wnd 
-\placement normal 160 729 -1 -1 106 147 1246 611
-\z 8
+\placement normal 160 729 0 25 106 147 1246 611
+\z 7
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -388,8 +388,8 @@
 \+db C:\My Toolbox Projects\Nkonya\MDFields19a.txt
 \+wndlst 
 \+wnd 
-\placement normal 0 729 -1 -1 625 6 1182 551
-\z 5
+\placement normal 0 729 0 25 625 6 1182 551
+\z 3
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -435,8 +435,8 @@
 \CaretChar 4256
 \-wnd
 \+wnd 
-\placement normal -1 -1 -1 -1 187 83 1232 547
-\z 4
+\placement normal 0 25 0 25 187 83 1232 547
+\z 2
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -487,8 +487,8 @@
 \+db C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
 \+wndlst 
 \+wnd 
-\placement normal -1 -1 -1 -1 0 0 718 651
-\z 7
+\placement normal 0 25 0 25 0 0 718 651
+\z 6
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -614,6 +614,6 @@
 \-ftxlst
 \Replace tɔ
 \-Find
-\AmbigBoxLeft 14
-\AmbigBoxTop 406
+\AmbigBoxLeft 0
+\AmbigBoxTop 20
 \-ShProjectSettings
