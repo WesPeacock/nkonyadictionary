@@ -16,7 +16,7 @@
 \desc Free translation of the referenced text unit. This is not used or modified during interlinearization. It is information to clarify the meaning of the text.
 \lng vernacular
 \+fnt 
-\Name Doulos SIL Ghana
+\Name Doulos SIL
 \Size 14
 \Italic
 \charset 00
@@ -56,7 +56,7 @@
 \desc Source text unit divided into morphemes.
 \lng vernacular
 \+fnt 
-\Name Doulos SIL Ghana
+\Name Doulos SIL
 \Size 14
 \Italic
 \charset 00

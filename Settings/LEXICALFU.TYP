@@ -75,22 +75,12 @@
 \+mkr bt
 \nam Borrowed Twi
 \lng NkonyaU
-\+fnt 
-\Name Ghana Doulos
-\Size 12
-\rgbColor 0,0,0
-\-fnt
 \mkrOverThis le
 \-mkr
 
 \+mkr com
 \nam comment
 \lng NkonyaU
-\+fnt 
-\Name Ghana Doulos
-\Size 11
-\rgbColor 0,0,0
-\-fnt
 \mkrOverThis le
 \-mkr
 
@@ -123,11 +113,6 @@
 \+mkr hlp
 \nam need help
 \lng NkonyaU
-\+fnt 
-\Name Ghana Doulos
-\Size 11
-\rgbColor 0,0,0
-\-fnt
 \mkrOverThis le
 \-mkr
 
@@ -182,11 +167,6 @@
 \+mkr lt
 \nam tone
 \lng NkonyaU
-\+fnt 
-\Name Ghana Doulos
-\Size 11
-\rgbColor 0,0,0
-\-fnt
 \NoWordWrap
 \mkrOverThis le
 \-mkr
@@ -245,11 +225,6 @@
 \+mkr ref
 \nam reference
 \lng NkonyaU
-\+fnt 
-\Name Ghana Doulos
-\Size 11
-\rgbColor 0,0,0
-\-fnt
 \mkrOverThis le
 \-mkr
 

@@ -743,7 +743,7 @@
 \desc Underlying form for use in parsing interlinear text. Not for publication.
 \lng vernacular
 \+fnt 
-\Name Doulos SIL Ghana
+\Name Doulos SIL
 \Size 14
 \charset 00
 \rgbColor 0,0,0

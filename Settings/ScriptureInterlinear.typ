@@ -24,7 +24,7 @@
 \desc Free translation of the referenced text unit. This is not used or modified during interlinearization. It is information to clarify the meaning of the text.
 \lng vernacular
 \+fnt 
-\Name Doulos SIL Ghana
+\Name Doulos SIL
 \Size 14
 \Italic
 \charset 00
@@ -38,7 +38,7 @@
 \desc English gloss of each morpheme in the morpheme breaks line.
 \lng English
 \+fnt 
-\Name Doulos SIL Ghana
+\Name Doulos SIL
 \Size 11
 \Italic
 \charset 00
@@ -77,7 +77,7 @@
 \desc Source text unit divided into morphemes.
 \lng vernacular
 \+fnt 
-\Name Doulos SIL Ghana
+\Name Doulos SIL
 \Size 14
 \Italic
 \charset 00
@@ -211,9 +211,6 @@
 \dbtyp MDF 4.0
 \+drflst 
 \+drf 
-\File C:\My Toolbox Projects\Nkonya\Dictionary.txt
-\-drf
-\+drf 
 \File C:\My Toolbox Projects\Nkonya\Scripture Names.txt
 \-drf
 \+drf 
@@ -234,9 +231,6 @@
 \+triRoot 
 \dbtyp MDF 4.0
 \+drflst 
-\+drf 
-\File C:\My Toolbox Projects\Nkonya\Dictionary.txt
-\-drf
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Scripture Names.txt
 \-drf
@@ -351,9 +345,6 @@
 \dbtyp MDF 4.0
 \+drflst 
 \+drf 
-\File C:\My Toolbox Projects\Nkonya\Dictionary.txt
-\-drf
-\+drf 
 \File C:\My Toolbox Projects\Nkonya\Parsing Dictionary.txt
 \-drf
 \+drf 
@@ -381,9 +372,6 @@
 \+triLook 
 \dbtyp MDF 4.0
 \+drflst 
-\+drf 
-\File C:\My Toolbox Projects\Nkonya\Dictionary.txt
-\-drf
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Parsing Dictionary.txt
 \-drf
@@ -413,10 +401,6 @@
 \+jmpset 
 \+jmp Morphemes
 \+drflst 
-\+drf 
-\File C:\My Toolbox Projects\Nkonya\Dictionary.txt
-\mkr lx
-\-drf
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Parsing Dictionary.txt
 \mkr lx
