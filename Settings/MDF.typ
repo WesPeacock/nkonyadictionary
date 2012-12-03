@@ -576,6 +576,14 @@
 \CharStyle
 \-mkr
 
+\+mkr php
+\nam Phonetic form-plural
+\desc pronunciation of plural form
+\lng phonetic
+\mkrOverThis pl
+\CharStyle
+\-mkr
+
 \+mkr pl
 \nam Plural form
 \desc This is a special paradigm field used to give the plural form of the lexeme. (It is better to use the \pdl field set for this.)
@@ -885,7 +893,7 @@
 \-fil
 
 \+fil MarkerPresent
-\mkr nq
+\mkr pl
 \match_char c
 \-fil
 
@@ -965,9 +973,9 @@
 
 \+expMDF Multi-Dictionary Formatter
 \UTF8
-\copyright Copyright © 2012
+\copyright Copyright ï¿½ 2012
 \titleEnglishDiglot Nkonya English Dictionary
-\exportedEnglishDiglot C:\My Toolbox Projects\Dict_ed.rtf
+\exportedEnglishDiglot C:\My Toolbox Projects\WholeDictionary.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
@@ -991,16 +999,16 @@
 \mkr wr
 \-mkrsubsetExcluded
 \+rtfPageSetup 
-\paperSize letter
+\paperSize A4
 \topMargin 0.75
 \bottomMargin 1.25
 \leftMargin 0.75
 \rightMargin 0.75
 \gutter 0.5
-\headerToEdge 0.375
-\footerToEdge 0.875
+\headerToEdge 0.953
+\footerToEdge 2.223
 \columns 2
-\columnSpacing 0.25
+\columnSpacing 0.635
 \-rtfPageSetup
 \-expMDF
 
@@ -1023,7 +1031,6 @@
 \-expSF
 
 \expDefault Multi-Dictionary Formatter
-\AutoOpen
 \-expset
 \PreventNumbering
 \DisableNumbering
