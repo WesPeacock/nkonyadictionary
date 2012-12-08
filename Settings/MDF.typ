@@ -916,7 +916,7 @@
 
 \+fil temp
 \mkr de
-\txt day
+\txt chicken
 \match_char c
 \-fil
 

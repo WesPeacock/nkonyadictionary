@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.5.7 Nov 2009
+\ProgramVersion 1.5.9na Aug 2012
 \ProjectPath C:\My Toolbox Projects\Nkonya\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -41,7 +41,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain normal -1 -1 -1 -1 0 0 1265 784
+\placementMain normal -32000 -32000 -1 -1 0 0 1265 784
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
@@ -80,7 +80,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri wʋlɛ
+\fldPri nhɩhɩɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -98,7 +98,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 320 729 0 25 30 30 1216 476
-\z 5
+\z 2
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -131,7 +131,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri wʋlɛ
+\fldPri nhɩhɩɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -147,7 +147,7 @@
 \+wndlst 
 \+wnd 
 \placement min 0 637 0 25 2 -4 1177 627
-\z 4
+\z 1
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -194,7 +194,7 @@
 \-wnd
 \+wnd 
 \placement normal 0 25 0 25 138 138 1153 662
-\z 1
+\z 8
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -226,7 +226,7 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey tɩn adɛndɛ
+\fldPriKey nfɩ
 \fldSecKey
 \-rec
 \+keySearch 
@@ -238,12 +238,12 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 8
-\CaretLineScroll 8
-\CaretChar 15
+\CaretLine 1
+\CaretLineScroll 1
+\CaretChar 2
 \-wnd
 \+wnd 
-\placement normal 0 25 0 25 609 23 1242 648
+\placement normal 0 25 -8 -28 609 23 1242 648
 \z 9
 \ViewMarkers
 \ViewMarkerHierarchy
@@ -255,32 +255,101 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr lx
-\width 112
+\width 168
 \-brf
 \+brf 
 \mkr ph
-\width 112
+\width 168
+\-brf
+\+brf 
+\mkr pl
+\width 168
+\-brf
+\+brf 
+\mkr php
+\width 44
 \-brf
 \+brf 
 \mkr ps
-\width 112
+\width 0
 \-brf
 \+brf 
 \mkr ge
-\width 112
+\width 0
 \-brf
 \+brf 
 \mkr sd
-\width 131
+\width 17
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey php
+\srtPriKey abcde
+\mkrSecKey lx
+\-ind
+\+rec 
+\fldPriKey
+\fldSecKey tswɩ
+\-rec
+\+keySearch 
+\fldPri JHN.11:16
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\+wnd 
+\placement normal -1 -1 -1 -1 0 0 1038 459
+\z 10
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 168
+\-brf
+\+brf 
+\mkr ph
+\width 168
+\-brf
+\+brf 
+\mkr pl
+\width 168
+\-brf
+\+brf 
+\mkr php
+\width 44
+\-brf
+\+brf 
+\mkr ps
+\width 0
+\-brf
+\+brf 
+\mkr ge
+\width 0
+\-brf
+\+brf 
+\mkr sd
+\width 422
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
-\mkrSecKey hm
+\mkrSecKey pl
 \-ind
 \+rec 
-\fldPriKey wʋlɛ
+\fldPriKey nhɩhɩɛ
 \fldSecKey
 \-rec
 \+keySearch 
@@ -291,9 +360,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 8
-\CaretLineScroll 8
-\CaretChar 22
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \-wnd
 \-wndlst
 \-db
@@ -302,7 +371,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 120 120 1306 566
-\z 8
+\z 4
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -334,7 +403,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri wʋlɛ
+\fldPri nhɩhɩɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -350,7 +419,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 160 729 0 25 106 147 1246 611
-\z 7
+\z 5
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -380,7 +449,7 @@
 \-keyInsert
 \CaretLine 10
 \CaretLineScroll 10
-\CaretChar 13
+\CaretChar 21
 \-wnd
 \-wndlst
 \-db
@@ -388,8 +457,8 @@
 \+db C:\My Toolbox Projects\Nkonya\MDFields19a.txt
 \+wndlst 
 \+wnd 
-\placement normal 0 729 0 25 625 6 1182 551
-\z 3
+\placement normal 0 729 -8 -28 625 6 1182 551
+\z 6
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -431,12 +500,12 @@
 \match_char p
 \-keyInsert
 \CaretLine 143
-\CaretLineScroll 135
+\CaretLineScroll 143
 \CaretChar 4256
 \-wnd
 \+wnd 
-\placement normal 0 25 0 25 187 83 1232 547
-\z 2
+\placement normal 0 25 -8 -28 187 83 1232 547
+\z 7
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -478,7 +547,7 @@
 \match_char p
 \-keyInsert
 \CaretLine 9
-\CaretLineScroll 7
+\CaretLineScroll 9
 \CaretChar 188
 \-wnd
 \-wndlst
@@ -488,7 +557,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 25 0 25 0 0 718 651
-\z 6
+\z 3
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -531,10 +600,6 @@
 \Field sd
 \match_char p
 \+ftxlst 
-\+ftx 
-\text \
-\lng English
-\-ftx
 \+ftx 
 \text 1520
 \lng English
@@ -610,6 +675,10 @@
 \+ftx 
 \text mushroom
 \lng English
+\-ftx
+\+ftx 
+\text mf
+\lng vernacular
 \-ftx
 \-ftxlst
 \Replace tɔ
