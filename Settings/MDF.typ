@@ -973,13 +973,15 @@
 
 \+expMDF Multi-Dictionary Formatter
 \UTF8
-\copyright Copyright � 2012
+\copyright Copyright © 2012
 \titleEnglishDiglot Nkonya English Dictionary
 \exportedEnglishDiglot C:\My Toolbox Projects\WholeDictionary.rtf
+\exportedGlossIndexEE C:\My Toolbox Projects\List_ee.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
 \dotNational mdf_n.dot
+\IncludeNonMDF
 \typRTF MDF Rich Text Format
 \typHTML MDF SF-to-HTML
 \+mkrsubsetExcluded 
