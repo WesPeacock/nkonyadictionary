@@ -1,4 +1,5 @@
 \_sh v3.0  745  MDF 4.0
+\_DateStampHasFourDigitYear
 
 \lx a
 \hm 4
@@ -309,18 +310,12 @@
 \ge side
 \sd TN-
 \de a person's side
-\cf abɩntɔ - inside the side
+\cf abɩntɔ
 \cf abɩnwu (n) rib
 \xv Fʋ abɩn gyi tsu fʋ klɛtɔ bɔfʋn fʋ ɔmɛtɔ.
 \xe Your side goes from your armpit to your abdomen. It describes that area where the ribs are.
 \rf Stewart List:0036
-\xv Obia amʋ tse ɔswɩ amʋ abɩntɔ.
-\xe The stool is beside the hearth.
-\nt used in combination with "tɔ"
-\xv Ntsu amʋ ɩna ɩbʋ amʋ abɩntɔ.
-\xe The stream passes beside the hill.
-\rf Stewart List:0958
-\dt 05/Oct/2012
+\dt 08/Dec/2012
 
 \lx abɩn iwu
 \ph abɪ̃ʔ iwú
@@ -328,8 +323,13 @@
 \ge rib
 \sd TN-
 \de rib
+\lt side bone
+\pl abɩn awu
+\ph abɪ̃ awú
+\xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
+\xe If your rib breaks and you don't take care, you will die.
 \rf SIL-AWL:0080
-\dt 12/Jan/2012
+\dt 08/Dec/2012
 
 \lx abɩntɔ
 \ph abɪntɔ(H)
@@ -340,20 +340,17 @@
 \xv Bapʋ ɔdayi amʋ wɔ ɔprakuo amʋ abɩntɔ.
 \xe They have pierce the knife into the stomach of the pig.
 \rf SIL-AWL:0035
-\dt 01/Oct/2012
+\xv Obia amʋ tse ɔswɩ amʋ abɩntɔ.
+\xe The stool is beside the hearth.
+\nt used in combination with "tɔ"
+\xv Ntsu amʋ ɩna ɩbʋ amʋ abɩntɔ.
+\xe The stream passes beside the hill.
+\rf Stewart List:0958
+\dt 08/Dec/2012
 
 \lx abɩnwu
-\ph abɪnwúʔ
-\ps n
-\ge rib
-\sd TN-
-\de rib
-\lt side bone
-\pl abɩn awu
-\ph abɪ̃ awú
-\xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
-\xe If your rib breaks and you don't take care of it, you will die.
-\dt 01/Dec/2012
+\cf abɩn iwu
+\dt 08/Dec/2012
 
 \lx abɩsɩ
 \ph abɪ́sɪ(H)
@@ -569,16 +566,8 @@
 \dt 02/Apr/2012
 
 \lx adanyɔ
-\ph adaɲɔ(H)
-\ps NUM
-\ge twenty
-\sd TN-
-\de twenty
-\nt adu-anyɔ
-\xv Nɩ fʋdɛ atɔ kla a, fɛ́dalɩ du-kweba a, fɔ́yɔ adanyɔ.
-\xe When you are counting something, you will leave nineteen, you will go to twenty.
-\rf Tape:1-1-138
-\dt 01/Oct/2012
+\cf adʋanyɔ
+\dt 08/Dec/2012
 
 \lx adɩawun
 \ph adɪawũ(H)
@@ -632,7 +621,9 @@
 \ge fifty
 \sd TN-
 \de fifty
-\dt 05/Jul/2005
+\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
+\xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+\dt 08/Dec/2012
 
 \lx aduesie
 \ph aduesie(H)
@@ -640,7 +631,9 @@
 \ge sixty
 \sd TN-
 \de sixty
-\dt 05/Jul/2005
+\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
+\xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+\dt 08/Dec/2012
 
 \lx aduesienɔ
 \ph aduesienɔ́
@@ -648,7 +641,9 @@
 \ge seventy
 \sd TN-
 \de seventy
-\dt 10/Jan/2012
+\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
+\xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+\dt 08/Dec/2012
 
 \lx adukwe
 \ph adukwe(H)
@@ -656,7 +651,9 @@
 \ge eighty
 \sd TN-
 \de eighty
-\dt 05/Jul/2005
+\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
+\xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+\dt 08/Dec/2012
 
 \lx adukweba
 \ph adukwebá
@@ -664,7 +661,9 @@
 \ge ninety
 \sd TN-
 \de ninety
-\dt 10/Jan/2012
+\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
+\xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+\dt 08/Dec/2012
 
 \lx adʋana
 \ph adʊana(H)
@@ -672,10 +671,23 @@
 \ge forty
 \sd TN-
 \de forty
-\np aduana nɩ
-\xv Ten, twenty, thirty, forty, fifty, sixty, seventy.
-\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ.
-\dt 13/Aug/2012
+\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
+\xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+\dt 08/Dec/2012
+
+\lx adʋanyɔ
+\ph adaɲɔ(H)
+\ps NUM
+\ge twenty
+\sd TN-
+\de twenty
+\nt adu-anyɔ
+\xv Nɩ fʋdɛ atɔ kla a, fɛ́dalɩ du-kweba a, fɔ́yɔ adʋanyɔ.
+\xe When you are counting something, you will leave nineteen, you will go to twenty.
+\rf Tape:1-1-138
+\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
+\xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+\dt 08/Dec/2012
 
 \lx adʋasa
 \ph adʊasa(H)
@@ -683,7 +695,9 @@
 \ge thirty
 \sd TN-
 \de thirty
-\dt 18/Nov/2009
+\xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
+\xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+\dt 08/Dec/2012
 
 \lx adʋn
 \ph adʊ̃́
@@ -1063,11 +1077,11 @@
 \xe All the dead people came back to claim their possessions.
 \rf Tape:1-1-224
 \nt From a story about a young man who mourned his father excessively. Because when the dead returned they took back the things people had inherited from them.
-\xv Nkunyafɔ bʋtegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋtegyi abitɛpʋ klɛ.
+\xv Nkonyafɔ bʋtegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋtegyi abitɛpʋ klɛ.
 \xe Nkonyas inherit fathers' possessions, but Ashantis inherit their maternal uncle's.
 \rf Tape:1-1-229
-\cf itonya
-\dt 01/Sep/2012
+\cf ɩtonya
+\dt 15/Dec/2012
 
 \lx agyawunu
 \ph aʤawunu(H)
@@ -1095,10 +1109,10 @@
 \ge edible
 \sd TN-
 \de edible
-\xv agyilɛ - Atogyihɛ ánɩ́ nfɔlɩ ma mʋ́tɔ a, ɩma agyilɛ.
-\xe easy to eat: Food that does not have salt in it is not easy to eat.
+\xv Atogyihɛ ánɩ́ nfɔlɩ ma mʋ́tɔ a, ɩma agyilɛ.
+\xe Food that does not have salt in it is not easy to eat.
 \rf Tape:1-1-268
-\dt 01/Sep/2012
+\dt 15/Dec/2012
 
 \lx agyɩm
 \ph aʤɪm
@@ -2117,7 +2131,7 @@
 \ps n
 \ge beauty
 \sd TN-
-\de nominal form
+\de beauty
 \xv Megyi anlɛn, tamɛ bwɛhɛ.
 \xe Not beauty, but doings. (Handsome is as handsome does. )
 \nt Proverb
@@ -2125,7 +2139,7 @@
 \xv Akoo otedu bʋ anlɛn.
 \xe Parrot's tail is beautiful.
 \rf Stewart List:1675
-\dt 04/Nov/2012
+\dt 08/Dec/2012
 
 \lx ansibi
 \ph ansibi
