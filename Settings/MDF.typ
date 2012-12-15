@@ -892,6 +892,12 @@
 \match_char i
 \-fil
 
+\+fil InitialLetter
+\mkr lx
+\txt [#]a
+\match_char c
+\-fil
+
 \+fil MarkerPresent
 \mkr pl
 \match_char c
@@ -911,12 +917,6 @@
 \+fil search
 \mkr lx
 \txt ts
-\match_char c
-\-fil
-
-\+fil temp
-\mkr de
-\txt chicken
 \match_char c
 \-fil
 
@@ -975,7 +975,7 @@
 \UTF8
 \copyright Copyright © 2012
 \titleEnglishDiglot Nkonya English Dictionary
-\exportedEnglishDiglot C:\My Toolbox Projects\WholeDictionary.rtf
+\exportedEnglishDiglot C:\My Toolbox Projects\Dictionary-a.rtf
 \exportedGlossIndexEE C:\My Toolbox Projects\List_ee.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
