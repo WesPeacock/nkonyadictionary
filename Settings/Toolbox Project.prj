@@ -41,7 +41,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain normal -32000 -32000 -1 -1 0 0 1265 784
+\placementMain max -1 -1 -1 -1 103 0 845 600
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
