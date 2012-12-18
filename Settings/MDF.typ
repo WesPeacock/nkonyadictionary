@@ -145,7 +145,7 @@
 \+mkr bw
 \nam Borrowed word (loan)
 \desc Used for denoting the source language of a borrowed word.
-\lng English
+\lng vernacular
 \mkrOverThis se
 \CharStyle
 \-mkr
@@ -469,7 +469,7 @@
 \+mkr nt
 \nam Notes (general)
 \desc A generic dump for all personal notes about an entry, subentry, or sense. More specific note fields provide a finer differentiation to one's notes: \np (phonology), \ng (grammar), \nd (discourse), \na (anthropology), \ns (sociolinguistics), and \nq (questions). All "note fields" should use capitalization and punctuation as needed.
-\lng English
+\lng vernacular
 \mkrOverThis sn
 \CharStyle
 \-mkr
@@ -899,7 +899,7 @@
 \-fil
 
 \+fil MarkerPresent
-\mkr pl
+\mkr np
 \match_char c
 \-fil
 
