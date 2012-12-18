@@ -681,12 +681,6 @@
 \nam Subentry
 \desc Like the \lx field except it occurs within the record, marking a word (or phrase) as a form derived from the root. Following this marker would be all the fields that comprise a typical lexical entry. There can be several of these subentries within a record. Subentries can have multiple senses (in this hierarchy).
 \lng vernacular
-\+fnt 
-\Name Times New Roman
-\Size 12
-\Bold
-\rgbColor 0,0,0
-\-fnt
 \mkrOverThis lx
 \-mkr
 
@@ -895,6 +889,11 @@
 \+fil InitialLetter
 \mkr lx
 \txt [#]a
+\match_char c
+\-fil
+
+\+fil Marker2Present
+\mkr ue
 \match_char c
 \-fil
 
