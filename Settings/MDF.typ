@@ -145,7 +145,7 @@
 \+mkr bw
 \nam Borrowed word (loan)
 \desc Used for denoting the source language of a borrowed word.
-\lng English
+\lng vernacular
 \mkrOverThis se
 \CharStyle
 \-mkr
@@ -469,7 +469,7 @@
 \+mkr nt
 \nam Notes (general)
 \desc A generic dump for all personal notes about an entry, subentry, or sense. More specific note fields provide a finer differentiation to one's notes: \np (phonology), \ng (grammar), \nd (discourse), \na (anthropology), \ns (sociolinguistics), and \nq (questions). All "note fields" should use capitalization and punctuation as needed.
-\lng English
+\lng vernacular
 \mkrOverThis sn
 \CharStyle
 \-mkr
@@ -681,12 +681,6 @@
 \nam Subentry
 \desc Like the \lx field except it occurs within the record, marking a word (or phrase) as a form derived from the root. Following this marker would be all the fields that comprise a typical lexical entry. There can be several of these subentries within a record. Subentries can have multiple senses (in this hierarchy).
 \lng vernacular
-\+fnt 
-\Name Times New Roman
-\Size 12
-\Bold
-\rgbColor 0,0,0
-\-fnt
 \mkrOverThis lx
 \-mkr
 
@@ -898,8 +892,13 @@
 \match_char c
 \-fil
 
+\+fil Marker2Present
+\mkr ue
+\match_char c
+\-fil
+
 \+fil MarkerPresent
-\mkr pl
+\mkr np
 \match_char c
 \-fil
 
