@@ -891,7 +891,8 @@
 \ge sky
 \sd TN-
 \de sky; air
-\ue South:nwʋlʋtaa
+\va nwʋlʋtaa
+\ve South
 \xv Obubwi na afutɔ.
 \xe Birds fly in the sky.
 \dt 01/Sep/2012
@@ -1013,7 +1014,8 @@
 \sd TN-
 \de velvet
 \np agon nɩ
-\ue South:ago
+\va ago
+\ve South
 \ph agoʔ
 \xv Ɔlɛdɩda agon tati Istatɔ.
 \xe He put on a velvet cloth for Easter.
@@ -1414,7 +1416,8 @@
 \ge hernia
 \sd TN-
 \de hernia
-\ue South:aklolʋɩ
+\va aklolʋɩ
+\ve South
 \ph aklolʊɪ́
 \xv Nɩ fʋbʋ aklodobi a fʋtamatalɩ yɔ agyuma kʋkʋ.
 \xe If you have hernia, you can't do any work.
@@ -2430,7 +2433,8 @@
 \xv Asa nɔ́kʋsʋ nyankɩ-gyi-nyankɩ a, ntɔbɔ mpaɩ, da Bulu pan ha alɩ ánɩ́ alaha ɔyɩ lakɛ mɩ.
 \xe Before I will get up every morning, I always pray, thanking God that he has given me the morning (taken care of me until this time. )
 \rf Tape:1-1-560
-\ue South:asan
+\va asan
+\ve South
 \dt 16/Jul/2012
 
 \lx asa
@@ -3296,11 +3300,12 @@
 \np LLH!L
 \np L-LH!H#L
 \de jubilation
-\ue South: atuhéhe
+\va atuhéhe
+\ve South
 \xv Nɩ fʋ pio ɔkʋ otu ɔkpa, wa ɔpá nʋ a, nɩ oyinki ba a, mlɩtɔmɔsɩ da atukeeke
 \xe If a your brother should travel and stay away a long time there, if he should return you always laugh and make jubilation.
 \rf Tape:1-2-224
-\dt 05/Jul/2012
+\dt 18/Dec/2012
 
 \lx atumpa
 \ph atumpa
@@ -3698,7 +3703,8 @@
 \ge basket
 \sd TN-
 \de basket
-\ue North:lakpa
+\va lakpa
+\ve North
 \dt 07/Sep/2012
 
 \lx bakɛ
@@ -6898,7 +6904,8 @@
 \ge axe
 \sd TN-
 \de axe
-\ue North:ɔfɛ bangya
+\va ɔfɛ bangya
+\ve North
 \ph ɔfɛ́ bã́ʤá
 \pl nfɛ
 \ph ɱfɛ́
@@ -6919,7 +6926,8 @@
 \pl nkɛ
 \ph ŋkɛ
 \np LL
-\ue North:ɔkɛ
+\va ɔkɛ
+\ve North
 \cf gyi nkɛ Eng:hold a celebration such as Easter
 \rf Tape:5-2-417
 \nt the elders when they count days greater than ten repeat ɔkɛ between the tens and the single digit. This is disappearing from the speech of the youth.
@@ -6963,7 +6971,8 @@
 \de calabash
 \pl nwɛ
 \ph nwɛ(H)
-\ue North:ɔwɛ
+\va ɔwɛ
+\ve North
 \xv Kebi amʋ dɛ ntsu nun ɛwɛ amʋtɔ.
 \xe The child is drinking water in the calabash.
 \xv Tsu ɛwɛ amʋ ha mɩ ansa ntsu.
@@ -8517,7 +8526,8 @@
 \de wild boar
 \pl agyasɩɛpɛ
 \ph \np aʤásɪ́ɛ́pɛʔ
-\ue South:batafɔ
+\va batafɔ
+\ve South
 \nt gyasɩɛpɛ is brown - batafɔ is black -FO
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bush pigs have eaten all of my cocoyam in the farm.
@@ -9017,7 +9027,8 @@
 \sd TN-
 \np L
 \de give
-\ue South:han
+\va han
+\ve South
 \ph hã́
 \xv Ha mɩ fʋ atɔ amʋ kʋ.
 \xe Give me some of your things.
@@ -9568,12 +9579,13 @@ sn 2
 \de well of water
 \pl abun
 \ph abṹ
-\ue South ɩbun
+\va ɩbun
+\ve South
 \xv Ibun amʋ bʋ oklu, sʋ mmɛɛtalɩ sa ntsu amʋ. Tsufɛsɛ, mɩ ɔfɛ amʋ mɔɔfʋn.
 \xe The well is deep so I cannot draw water from it because my rope will not reach.
 \rf Tape:5-2-239
 \rf Stewart List:1169
-\dt 16/Jul/2012
+\dt 18/Dec/2012
 
 \lx ibwi
 \ph ibwi
@@ -11571,7 +11583,8 @@ sn 2
 \np LLL
 \np L-LL#H
 \de mercy
-\ue South:ɩwɛ
+\va ɩwɛ
+\ve South
 \xv Ɔdɛ mɩ nwɛ wa.
 \xe He has compassion for me.
 \xv Olowun mɩ nwɛ ha mɩ sika.
@@ -11833,8 +11846,9 @@ sn 2
 \ge 3rd day
 \sd TN-
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
-\ue North: Yinké
-\dt 15/Sep/2012
+\va Yinké
+\ve North
+\dt 18/Dec/2012
 
 \lx ɩsa
 \ph ɪsá
@@ -11895,7 +11909,8 @@ sn 2
 \pl asʋ
 \ph asʊ
 \np LL
-\ue South:ɩsʋn
+\va ɩsʋn
+\ve South
 \ph ɪsʊ̃
 \xv Baka ɔbwɩ amʋ sʋ pʋ hɩɛ mʋ nsʋ.
 \xe They have cut the animal's ear to mark it.
@@ -12185,7 +12200,8 @@ sn 2
 \np L-LLʔ#H
 \de light
 \nt nominal form of wankɩ
-\ue South:ɛwankɩ
+\va ɛwankɩ
+\ve South
 \xv Bulu lowun ánɩ́ wankɩ amʋ bʋ alɛ.
 \xe God saw that the light was good.
 \dt 03/Apr/2012
@@ -13080,7 +13096,8 @@ sn 2
 \ge same
 \sd TN-
 \de the same as
-\ue South:gyein
+\va gyein
+\ve South
 \xv Amʋ́ kɛn dɛpʋ mlɩ ya asʋn ogyikpa nɩ.
 \xe These are the same ones who are taking you to court.
 \rf Tape:3-1-469
@@ -13526,7 +13543,8 @@ sn 2
 \np HHʔ#H
 \de divide
 \bw Akan fi:kyɛ
-\ue North:yie
+\va yie
+\ve North
 \rf Stewart List:2785
 \xv Kɩɛ atɔ amʋtɔ ha nyebi amʋ fʋ onuto, mɛnɩ bʋmɔɔkɔ.
 \xe Divide the things among the children yourself so that they don't fight.
@@ -13967,7 +13985,8 @@ sn 2
 \de woodpecker
 \pl aklɛkpakpa
 \ph aklɛ́k͡pak͡pa
-\ue South:ɔdakpokpo
+\va ɔdakpokpo
+\ve South
 \xv Klɛkpakpa gyon oyisʋ.
 \xe The woodpecker is perched on the tree.
 \rf Tape:3-2-216
@@ -14837,7 +14856,8 @@ cf fonflo
 \ge crowded
 \sd TN-
 \de crowded
-\ue South:in South Nkonya it also means closed tightly
+\va in South Nkonya it also means closed tightly
+\ve South
 \xv Aha bebla wulu amʋtɔ kpakpaakpa.
 \xe The town was very crowded.
 \rf Tape:3-2-417
@@ -16930,7 +16950,8 @@ cf fonflo
 \sd TN-
 \np L
 \de perfect aspect marker
-\ue North:ya-
+\va ya-
+\ve North
 \ph ya-
 \xv Oyin amʋ yabwɛ atɔ wanklaan.
 \xe The man has done something fine.
@@ -17011,7 +17032,8 @@ cf fonflo
 \sd TN-
 \np LH
 \de basket
-\ue South:baka
+\va baka
+\ve South
 \np LH
 \pl alakpa
 \ph alak͡pá
@@ -17295,7 +17317,8 @@ cf fonflo
 \sd TN-
 \np L
 \de perfective Tense-Aspect marker; simple past tense marker
-\ue North:yɛ-
+\va yɛ-
+\ve North
 \ph yɛ-/yɛ́-
 \nt Has high tone following a proper noun or after anɩ mlɩ. 
 \dt 12/Oct/2005
@@ -18347,7 +18370,8 @@ cf fonflo
 \ge sink
 \sd TN-
 \de to sink without disappearing
-\ue South:mɛ
+\va mɛ
+\ve South
 \xv Yibi amʋ lɔtsʋn ɔdɩbatɔ sʋ ɩlɛmɩm.
 \xe The car passed a muddy place so it got stuck.
 \xv Fɔtsʋn ɔdɩbatɔ fɛ́mɩm.
@@ -21653,7 +21677,8 @@ cf fonflo
 \ge stool
 \sd TN-
 \de stool
-\ue South:ebia
+\va ebia
+\ve South
 \ph ebíá
 \pl mbia
 \ph mbíá
@@ -21715,7 +21740,8 @@ cf fonflo
 \pl mbien
 \ph mbĩ́ẽ́
 \np same
-\ue South:ebien
+\va ebien
+\ve South
 \np obien nɩ
 \xv Obien mʋa ɔblatɩn bʋgyi apio.
 \xe Big snail and small snail are brothers.
@@ -21852,7 +21878,8 @@ cf fonflo
 \sd TN-
 \np LH
 \np L-Hʔ#H
-\ue South:ebon
+\va ebon
+\ve South
 \de the kind of clay used to make pottery
 \np obon nɩ
 \xv Obon bʋtɔpʋ pwɛ nlɛpɛ mʋ́a nlanka aná.
@@ -21953,7 +21980,8 @@ cf fonflo
 \ge bird
 \sd TN-
 \de bird
-\ue South:ebubwi
+\va ebubwi
+\ve South
 \pl mbubwi
 \ph mbubwi
 \np same
@@ -22259,7 +22287,8 @@ cf fonflo
 \pl nfi
 \ph ɱfí
 \nt citation tone is LH but in context, it is LL
-\ue South:efi
+\va efi
+\ve South
 \np ofi nɩ
 \xv Ofi ma ɔbalɔ.
 \xe A year will pass quickly- idiomatic
@@ -22814,7 +22843,8 @@ cf fonflo
 \sd TN-
 \de every day
 \es ɔkɛ-gyi-ɔkɛ with reduplication of ke
-\ue South:ekekegyiɛkɛ
+\va ekekegyiɛkɛ
+\ve South
 \xv Okekegyiɔkɛ kebi anfɩ desu.
 \xe Every day this child is crying.
 \rf Tape:6-2-540
@@ -22838,7 +22868,8 @@ cf fonflo
 \ge questioning corpse
 \sd TN-
 \de the act of questioning a corpse in order to know the cause of his/her death
-\ue South:ekeyi
+\va ekeyi
+\ve South
 \np okeyi nɩ
 \xv Ɔhagyiɔha tsiatɔ bʋtɔpʋ da mʋ okeyi nɩ owu.
 \xe Every-one's behaviour is used to question him when he/she dies.
@@ -22861,7 +22892,8 @@ cf fonflo
 \ge lake fish
 \sd TN-
 \de fish with hard saw-toothed spiny processes on either side of the head and on the back of the head. They are dried or fried and are not caught very big.
-\ue South:ntsitsie
+\va ntsitsie
+\ve South
 \pl nkikie
 \ph ŋkíkíé
 \np okikie nɩ
@@ -22882,7 +22914,8 @@ cf fonflo
 \np LLLHF
 \np L-LLHLʔ#L
 \de loud noise
-\ue South:olu
+\va olu
+\ve South
 \np okitikiti nɩ
 \xv Nyebi amʋ bʋdɛ okitikiti sʋra dʋbɩ.
 \xe The children are shouting and making a lot of noise.
@@ -23184,7 +23217,8 @@ cf fonflo
 \de mythical dwarf
 \pl nkukubii
 \ph ŋkukúbǐː
-\ue South:ekukubii
+\va ekukubii
+\ve South
 \xv Nkukubii baŋa mɩ kɔba.
 \xe Dwarfs have made my money disappear.
 \dt 11/Sep/2012
@@ -23284,7 +23318,8 @@ cf fonflo
 \sd TN-
 \np LH
 \de funeral
-\ue South:eli
+\va eli
+\ve South
 \ph elí
 \xv Nɩ ɔha owu a, anɩtopula mʋ, la mʋ oli.
 \xe When someone dies we bury him and prepare his funeral.
@@ -23301,7 +23336,8 @@ cf fonflo
 \sd TN-
 \de venom of snake; poison
 \np olin nɩ
-\ue South:elin
+\va elin
+\ve South
 \xv Ɩwɔ ladun mʋ, sʋ ɩwɔ amʋ olin dɛ mʋ dʋ.
 \xe A snake has bitten him so the snake's poison is climbing up him (rising higher in the body).
 \rf Stewart List:1266
@@ -23336,7 +23372,8 @@ cf fonflo
 \ph nliŋkantɪ
 \np same
 \np olinkantɩ nɩ
-\ue South:elikantɩ
+\va elikantɩ
+\ve South
 \xv Olinkantɩ bʋ ɔkɩta. Ɩfa wa iyietɔ a, fʋmɛɛtalɩ wɩ.
 \xe Bile is bitter. If it should burst and get in the meat you will not be able to eat it.
 \rf Tape:6-1-011
@@ -23374,7 +23411,8 @@ cf fonflo
 \bw Ewe fi:elo LH
 \xv Oloo ɔnɔ bʋswɩ. Ɔtɔpʋ kɩta aklɛmɛtɩ ntsutso, sʋ mawie ntsu amʋtɔ.
 \xe A crocodile has a long mouth that it uses to catch fish in the lake so don't enter the water.
-\ue North:lɛnkɛ
+\va lɛnkɛ
+\ve North
 \dt 16/Jul/2012
 
 \lx olu
@@ -23384,7 +23422,8 @@ cf fonflo
 \ge hatred
 \sd TN-
 \de hatred; envy
-\ue South:elu
+\va elu
+\ve South
 \xv Asi olu wa, nyankpʋsa megyi tɔtɔ.
 \xe We should stop hating, people are nothing.
 \xv Olu bʋ amʋ́ woyitɔ ɩnʋ wanklaan, mʋ́ sʋ tɔtɔ tamawa alɛ ɩnʋ.
@@ -23399,7 +23438,8 @@ cf fonflo
 \ge noise
 \sd TN-
 \de noise
-\ue North: okitikiti
+\va okitikiti
+\ve North
 \np olu nɩ
 \xv Mlɩsi olu sʋra, annu asʋn.
 \xe Stop making so much noise so we can hear a matter.
@@ -23409,7 +23449,7 @@ cf fonflo
 \de to be lucky
 \xv Fʋ nwun lawa olu ánɩ́ fabɔtʋ anɩ, tɛkɩ abɛ́natɩ asa fɛ́ba.
 \xe You are lucky that you have come to meet us, we would have gone before you came.
-\dt 17/Aug/2012
+\dt 18/Dec/2012
 
 \lx olulukpa
 \ph olulúk͡pa
@@ -23462,7 +23502,8 @@ cf fonflo
 \de elbow
 \pl mmlewu
 \ph mmlewu
-\ue South:emlewu
+\va emlewu
+\ve South
 \xv Omlewusʋ ɔlɔ bʋ ɔsɩn.
 \xe The sore on the elbow is painful.
 \xv Alɩ amʋ́ʋ́ omlewusʋ ɔlɔ bʋ ɔsɩn amʋ a, alɩ kɛn kpawunusʋ ɔlɔ ɛ bʋ ɔsɩn nɩ.
@@ -23494,7 +23535,8 @@ cf fonflo
 \pl nnopi
 \ph nnopi
 \np same
-\ue South:enopi
+\va enopi
+\ve South
 \np onopi nɩ
 \xv Akʋ onopi tɛba lɩlɩtɔ.
 \xe Some peoples lips crack in harmattan.
@@ -23571,7 +23613,8 @@ cf fonflo
 \pl nnwunfi
 \ph nnwuɱfí
 \np onwunfi nɩ
-\ue South:ɛsʋkpɩ/ɔsʋkpɩ
+\va ɛsʋkpɩ/ɔsʋkpɩ
+\ve South
 \xv Pɩna dɩn mʋ onwunfisʋ.
 \xe He has a scar on his forehead.
 \xv Okongo onwunfi lomoni dʋbɩ.
@@ -23599,7 +23642,8 @@ cf fonflo
 \ge night
 \sd TN-
 \de night
-\ue South:enye
+\va enye
+\ve South
 \ph enyé
 \np onye nɩ
 \xv Mɩ nyawie labɛdɩ mɩ wa onye nkɛnsa.
@@ -23617,7 +23661,8 @@ cf fonflo
 \ge dew
 \sd TN-
 \de dew
-\ue South:enyelulu
+\va enyelulu
+\ve South
 \np onyelulu nɩ
 \cf obetsu
 \xv Nɩ onyelulu itswie a, ɩtɔbwɛ obetsu wʋlɩ ɩfásʋ.
@@ -23696,7 +23741,8 @@ cf fonflo
 \de ring for finger, or a metal ring type bracelet
 \pl mpini
 \ph mpínîʔ
-\ue South:epini
+\va epini
+\ve South
 \ph epíni
 \xv Sika pɛpɛ opini tɛkpa ogya.
 \xe A gold ring shines.
@@ -23742,7 +23788,8 @@ cf fonflo
 \ge mortar
 \sd TN-
 \de a wooden bowl for pounding fufu
-\ue South:eplimbi
+\va eplimbi
+\ve South
 \pl mplimbi
 \ph mplimbi(H)
 \xv Oplimbi amʋtɔ bʋ okulu, sʋ fufu towie mʋ́tɔ tsɔtsɔ.
@@ -23959,7 +24006,8 @@ cf fonflo
 \ph nsiebíʔ (H)
 \xv Mbwɩ ánɩ́ bʋbʋ nsiebi a, mʋ́ bʋtɔpʋ kɔ.
 \xe Animals that have horns use them to fight.
-\ue South:esiebi
+\va esiebi
+\ve South
 \rf Stewart List:0604
 \dt 27/Aug/2012
 
@@ -24004,7 +24052,8 @@ cf fonflo
 \ph asirebi
 \xv Osrebiyin lomoni dʋn asrebi trahɛ.
 \xe The thumb is bigger than the rest of the fingers.
-\ue South:eserebi
+\va eserebi
+\ve South
 \rf Stewart List:0021
 \dt 16/Sep/2012
 
@@ -24183,7 +24232,8 @@ cf fonflo
 \pl ntebi
 \ph ntebi
 \np same
-\ue South:etebi
+\va etebi
+\ve South
 \np otebi nɩ
 \xv Ɔlɔ dɩn oyin ɔkʋ otebisʋ, mʋ́sʋ ɔlɔwa ntʋkʋta a, omenya anatɩlɛ.
 \xe A certain man has a sore on his ankle, he put on shoes and could not walk well.
@@ -24779,7 +24829,8 @@ cf fonflo
 \np L-LLʔ#L
 \de natural space in between two teeth
 \nt etym. teeth sheath
-\ue South:eyinflɛ
+\va eyinflɛ
+\ve South
 \pl nyinflɛ
 \ph ɲiɱflɛ
 \np same
@@ -25021,7 +25072,8 @@ cf fonflo
 \ph mbɪatɔ
 \np same
 \np Ɔbɩatɔ nɩ
-\ue South:opi
+\va opi
+\ve South
 \xv Bʋtɔpʋ ɔbɩatɔ bɩn atɔ.
 \xe They use needle to sew things.
 \rf Tape:5-2-156
@@ -25164,7 +25216,8 @@ cf fonflo
 \ge language
 \sd TN-
 \de language, speech, talking
-\ue South:ɛblɩ
+\va ɛblɩ
+\ve South
 \xv Nkonya ɔblɩ gyi ɔtsan ha Nhuan.
 \xe The Nkonya language is different from Ewe.
 \rf Tape:5-2-161
@@ -25381,7 +25434,8 @@ cf fonflo
 \de an animal, non-human animate thing
 \pl mbʷɩ
 \ph mbwɪ
-\ue South:ɛbwɩ
+\va ɛbwɩ
+\ve South
 \xv Ɔbwɩ ɔkʋ dɛ mɩ atɔ yinta.
 \xe A certain animal is spoiling my things.
 \rf Tape:5-2-253
@@ -25447,7 +25501,8 @@ cf fonflo
 \de woodpecker
 \pl ndakpokpo
 \ph ndak͡pok͡po
-\ue North:klɛkpakpa
+\va klɛkpakpa
+\ve North
 \xv Ɔdakpokpo gyon oyisʋ.
 \xe The woodpecker is perched on the tree.
 \rf Tape:3-2-216
@@ -25892,9 +25947,10 @@ cf fonflo
 \ge axe
 \sd TN-
 \de axe
-\ue North
+\va ɔfɛ
+\ve North only
 \cf ɛfɛ
-\dt 08/Feb/2008
+\dt 18/Dec/2012
 
 \lx ɔfɛsɩ
 \ph ɔfɛsɪ́
@@ -26107,19 +26163,20 @@ cf fonflo
 \de elder
 \pl ahandɛ
 \ph ahandɛ
-\np same
-\ue South ɔhandɛn
+\va ɔhandɛn
+\ve South
 \es ɔha "person" dɛhɛn "elder"
 \np ɔhandɛ nɩ
 \xv Oyin anfɩ a, ɔhandɛ ogyi, tsufɛ aladan dʋn mɩ.
 \xe This man (here), is an elder, because he is older than me.
 \rf Tape:5-2-394
-\ue South:ahandɛ
+\va ahandɛ
+\ve South
 \xv "Ahandɛ iwu tamaba bia. " Mʋ́ asɩ gyisɛ, kebi tamadʋn ɔhandɛ.
 \xe "Elders bone is not easy to break. " The meaning is that, a child is never greater than an elder.
 \nt Proverb
 \rf Tape:1-1-287
-\dt 08/Aug/2012
+\dt 18/Dec/2012
 
 \lx ɔhɩɛn
 \ph ɔhɪ̃́ɛ̃́ʔ
@@ -26498,7 +26555,8 @@ cf fonflo
 \pl nkɔmfɔbowuo
 \ph ŋkɔɱfɔbowuo(H)
 \nt Used only in Northern Wurupong meaning is "fetish priest says he will die" in Twi (perhaps the name is lost due to taboo deformation, as the chameleon is used in magic).
-\ue South:ologyo
+\va ologyo
+\ve South
 \bw Akan fi:ɔkɔmfɔ́ bowuo
 \xv Ɔkɔmfɔbowuo tɛnatɩ pʋtɔɔ fɛ owie.
 \xe Chameleon walks slowly like a chief.
@@ -26873,7 +26931,8 @@ cf fonflo
 \rf Tape:5-2-559
 \xv Fɔyɔ agyʋma ipian fʋ a, fada ɔkpʋnʋ.
 \xe If you will go to tiring work, you must rest.
-\ue South:ɛkpʋnʋ
+\va ɛkpʋnʋ
+\ve South
 \rf Tape:5-2-562
 \rf Stewart List:2059
 \dt 05/Jul/2012
@@ -26923,7 +26982,8 @@ cf fonflo
 \ge one
 \sd TN-
 \de one, used in counting
-\ue South:ɛkʋn, ɛkulɛ
+\va ɛkʋn, ɛkulɛ
+\ve South
 \cf ɔtsawʋlɛ (one time)
 \cf wʋlɛ (one)
 \cf ɩkʋlɛ (one)
@@ -26991,7 +27051,8 @@ cf fonflo
 \np LHL
 \de day of the week on which you were born
 \np ɔkwɩɩkɛ nɩ
-\ue South:ɛkwɩɩkɛ
+\va ɛkwɩɩkɛ
+\ve South
 \xv Ɔkɛ ánɩ́ bɔkwɩɩ fʋ a, mʋ́ gyi fʋ ɔkwɩɩkɛ nɩ. Mʋ́ sʋ mɩ ɔkwɩɩkɛ gyi branda.
 \xe The day that you were born on is your birthday. Therefore my birthday is Tuesday
 \rf Tape:5-2-586
@@ -27173,7 +27234,8 @@ cf fonflo
 \rf Tape:6-1-044
 \xv Si mʋ ɔmagya.
 \xe Don't mind him.
-\ue South:ɛma, ɛmagya
+\va ɛma, ɛmagya
+\ve South
 \rf Tape:6-1-054
 \rf Stewart List:0038
 \rf Stewart List:0957
@@ -27626,7 +27688,8 @@ cf fonflo
 \pl nnanku
 \ph nnaŋkú
 \np same
-\ue South:ɛnanku
+\va ɛnanku
+\ve South
 \np Ɔnanku nɩ.
 \xv Ɔlɔ ɩdɩn mɩ ɔnakusʋ, sʋ mmɛtalɩ wa ntʋkʋta.
 \xe There's a sore on my heel, I can't wear shoes.
@@ -27710,7 +27773,8 @@ cf fonflo
 \lx ɔnɔ
 \ph ɔnɔ́(H)
 \ps n
-\ue South: ɛnɔ
+\va  ɛnɔ
+\ve South
 \ph ɛnɔ́
 \sn 1
 \ge mouth
@@ -27894,7 +27958,8 @@ cf fonflo
 \ge early afternoon
 \sd TN-
 \de early afternoon
-\ue South:ɛpa
+\va ɛpa
+\ve South
 \np ɔpa nɩ
 \xv Ɔkpa natɩ ɔpa ma alɛ tsufɛ owí tɛlɩn dʋbɩ, mʋ́ titriu ɔpawisʋ.
 \xe Walking in the early afternoon is bad because the sun shines too much, especially at noon.
@@ -27976,7 +28041,8 @@ cf fonflo
 \ge group
 \sd TN-
 \de group
-\ue South:ɛpasua
+\va ɛpasua
+\ve South
 \pl mpasua
 \ph mpasua(H)
 \xv Sadukiifɔ bʋgyi ɔpasua kʋ ánɩ́ bʋtɛblɩ bɛɛ aha bowu bʋmɛɛtra kʋsʋ tsu afulitɔ.
@@ -27990,7 +28056,8 @@ cf fonflo
 \sd TN-
 \np LLHH
 \de noon
-\ue South:ɛpawisʋ
+\va ɛpawisʋ
+\ve South
 \np ɔpawisʋ nɩ
 \xv Ɔkpa natɩ ɔpa ma alɛ tsufɛ owí tɛlɩn dʋbɩ, mʋ́ titriu ɔpawisʋ.
 \xe Walking in the early afternoon is bad because the sun shines too much, especially at noon.
@@ -28836,7 +28903,8 @@ cf fonflo
 \ge hoe
 \sd TN-
 \de hoe
-\ue South:ɛtɩ
+\va ɛtɩ
+\ve South
 \pl ntɩ
 \ph ntɪ(H)
 \xv Fʋ ɔtɩ amʋ ma ankosi awɔlɛ, tsufɛ ɔtɩ oyi amʋ lɛba asɩ dʋbɩ.
@@ -28861,7 +28929,8 @@ cf fonflo
 \ge place
 \sd TN-
 \de place
-\ue South:ɛtɩnɛ
+\va ɛtɩnɛ
+\ve South
 \ph ɛtɪ́nɛ́
 \pl ntɩnɛ
 \ph ntɪ́nɛ́
@@ -29268,11 +29337,12 @@ cf fonflo
 \de mosquito
 \pl ntswɩnkɩ
 \ph nt͡swɪ́ŋkɪ́
-\ue North:in the North often pronounced ɔtswɪŋkɪ́
+\va ɔtswɪŋkɪ́
+\ve North tonal pattern frequenly different
 \xv Nɩ ɔtswɩnkɩ odun fʋ a, ɔtɔpʋ owisʋ wa fʋ awútɔ.
 \xe If a mosquito bites you it brings malaria on your bones.
 \rf Tape:6-1-552
-\dt 21/Aug/2012
+\dt 18/Dec/2012
 
 \lx ɔtswɩtswɩ
 \ph ɔt͡swɪ́t͡swɪ
@@ -29574,7 +29644,8 @@ cf fonflo
 \sd TN-
 \np LH
 \de the world, ground and sky
-\ue South:ɛyɩ
+\va ɛyɩ
+\ve South
 \xv Anyankpʋsa bʋbʋ ɔyɩtɔ fɛ ɔkpa atupʋ.
 \xe People are in the world like travellers.
 \rf Tape:6-2-065
@@ -29630,7 +29701,8 @@ cf fonflo
 \sd TN-
 \np LHF
 \de erected trap which does not sprung
-\ue North:nkɔmbɔ
+\va nkɔmbɔ
+\ve North
 \np ɔyɔɩ nɩ
 \xv Ɔyɔɩ igyi yibi kʋ ánɩ́ bʋteyi mʋ́ mbwɩ ɔkpasʋ kɛkɛ ha ɔbwɩ amʋ onuto tebemli mʋ́tɔ pʋ kikimlan atɔ sin nʋ.
 \xe This is a certain trap that is just erected on an animal path for the animal itself to get into it, wrap it around something and get stuck there. They make a snare and attach it to a length of stick so that when the animal puts its head into it and tries to run off it will wrap the rope around something and the stick will get stuck and it won't be able to get away
@@ -29921,7 +29993,8 @@ cf fonflo
 \sd TN-
 \np HHH
 \de flat
-\ue South:pataplabi
+\va pataplabi
+\ve South
 \ph pátáplábi
 \xv Opitre nwʋn igyi pɛtɛplɛ.
 \xe A Mudfish's head is flat.
@@ -30070,7 +30143,8 @@ cf fonflo
 \np pipi nɩ
 \xv Ogya plɛnplɛn amʋ lɔtswɩ kɩta pipi amʋ hɔ mʋ́.
 \xe The flame spread and caught the thatch and burned it.
-\ue South:opiki, npiki
+\va opiki, npiki
+\ve South
 \dt 10/Jan/2012
 
 \lx pisii
@@ -31333,7 +31407,8 @@ cf fonflo
 \sd TN-
 \np HHF
 \de now
-\ue South:sei
+\va sei
+\ve South
 \ph séi
 \cf sesei Eng:immediately
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
@@ -32364,7 +32439,8 @@ cf fonflo
 \sd TN-
 \de to carry something
 \nt cf na & natɩ vs sʋ & sʋra
-\ue North:sʋ
+\va sʋ
+\ve North
 \xv Sawun ɔbɛɛ ɔma ɔha ánɩ́ owu obopula mʋ, sʋ ɔna ɔsʋn mʋ daka.
 \xe Tortoise says he doesn't have a person that if he dies he will bury him, so he walks, he carries his coffin (box)
 \rf Stewart List:2673
@@ -35030,7 +35106,8 @@ cf fonflo
 \lx tsula
 \ph t͡súlá
 \ps v
-\ue North:tsuda
+\va tsuda
+\ve North
 \ph t͡súdá
 \sn 1
 \ge respond
@@ -36850,10 +36927,11 @@ cf fonflo
 \xv Alaye mʋ agyapadɩɛ ha mʋ abi.
 \xe He has divided his possessions for his children.
 \rf Tape:8-1-567
-\ue South: kɩɛ
+\va kɩɛ
+\ve South
 \bw Akan fi:ɩkyɛ
 \cf oyekpa - place of division
-\dt 04/Nov/2012
+\dt 18/Dec/2012
 
 \lx yebi
 \ph yébíʔ(L)
@@ -36869,9 +36947,10 @@ cf fonflo
 \xe He only gave deep proverbs so that no one could understand them.
 \rf Tape:8-1-481
 \rf Stewart List:1491
-\ue Northern ɩbɛ
+\va ɩbɛ
+\ve North
 \nt ɩbɛ is borrwed from Twi
-\dt 10/Jan/2012
+\dt 18/Dec/2012
 
 \lx yɛ
 \hm 1
@@ -37120,8 +37199,9 @@ cf fonflo
 \ge 3rd day
 \sd TN-
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
-\ue South: Ɩpwɛ Ɔdɛkɛtrákɛ
-\dt 16/Aug/2012
+\va Ɩpwɛ Ɔdɛkɛtrákɛ
+\ve South
+\dt 18/Dec/2012
 
 \lx yinki
 \ph yíŋkí
