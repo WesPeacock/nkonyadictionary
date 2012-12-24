@@ -729,7 +729,6 @@
 \lx afɩnɩ
 \ph afɪnɪ(H)
 \ps Q
-\va fɩnɩ
 \ge how much
 \sd TN-
 \de how much; how many
@@ -739,7 +738,7 @@
 \rf Tape:1-1-153
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes- what time of day), tse fini (how many times), Ntogyi, Ntogyi sʋ (Why). noun mɛ (where is), Nkɩ noun mɛ (where is), Nkʋnʋ (where), Nkalɩ (how, sometimes what), Ntɔ (what), Ɔmɛnkɛ (when - what day)
 \rf Stewart List:1604
-\dt 23/Nov/2011
+\dt 23/Dec/2012
 
 \lx afonflo
 \ph afoɱflo(H)
@@ -6676,6 +6675,20 @@
 \de exclamation 
 \dt 09/Aug/2012
 
+\lx ekekegyiɛkɛ
+\ph ekekeʤíɔ́kɛ
+\ps ADV
+\ge every day
+\sd TN-
+\de every day
+\es ɛkɛ-gyi-ɛkɛ with reduplication of ke
+\va okekegyiɔkɛ
+\ve North
+\xv Ekekegyiɔkɛ kebi anfɩ desu.
+\xe Every day this child is crying.
+\rf Tape:6-2-540
+\dt 23/Dec/2012
+
 \lx ɛ
 \ph ɛ
 \ps ADV
@@ -6712,6 +6725,16 @@
 \cf limba (large axe for felling trees)
 \rf Stewart List:1201
 \dt 01/Sep/2012
+
+\lx ɛfɛ
+\ph ɛfɛ(H)
+\ps n
+\ge axe
+\sd TN-
+\de axe
+\va ɔfɛ
+\ve North only
+\dt 23/Dec/2012
 
 \lx ɛkɛ
 \ph ɛkɛ
@@ -12012,14 +12035,13 @@ sn 2
 \ge snake
 \sd TN-
 \de snake
-\ue South ɛwɔ
 \pl awɔ
 \ph awɔʔ(H)
 \xv Ɩwɔ tɛbɩtɩ mʋ ipusʋ.
 \xe A snake always slithers on its stomach.
 \rf Tape:3-1-263
 \rf Stewart List:0761
-\dt 05/Jul/2005
+\dt 23/Dec/2012
 
 \lx ɩwɔlʋ
 \ph ɪwɔlʊ
@@ -22507,20 +22529,6 @@ cf fonflo
 \de exclamation meaning "I don't know!"
 \dt 08/Sep/2012
 
-\lx okekegyiɔkɛ
-\ph okekeʤíɔ́kɛ
-\ps ADV
-\ge every day
-\sd TN-
-\de every day
-\es ɔkɛ-gyi-ɔkɛ with reduplication of ke
-\va ekekegyiɛkɛ
-\ve South
-\xv Okekegyiɔkɛ kebi anfɩ desu.
-\xe Every day this child is crying.
-\rf Tape:6-2-540
-\dt 01/Sep/2012
-
 \lx okengye
 \ph okénʤe(H)
 \ps ADJ
@@ -25591,7 +25599,6 @@ cf fonflo
 \dt 05/Jul/2012
 
 \lx ɔfɛ
-\hm 1
 \ph ɔfɛ́(H)
 \ps n
 \ge rope
@@ -25600,28 +25607,15 @@ cf fonflo
 \pl ɩfɛ
 \ph ɪfɛ́
 \np same
-\np ɔfɛ nɩ
 \cf ɔfɛtɩ Eng:telephone (rope call)
-\np in North dialect this is a homonym with ɛfɛ
+\nt in North dialect this is a homonym with ɛfɛ
 \xv Fʋdɛ ɔfɛ bɩtɩ.
 \xe You are pulling a rope.
 \xv Tsu ɔfɛ amʋ ba, anpʋ wa ɔbwɩ amʋ.
 \xe Bring the rope so that I can tether the animal (tether is implied, but may just mean put a rope on the animal).
 \rf Tape:5-2-339
 \rf Stewart List:1205
-\dt 16/Jul/2012
-
-\lx ɔfɛ
-\hm 2
-\ph ɔfɛ(H)
-\ps n
-\ge axe
-\sd TN-
-\de axe
-\va ɔfɛ
-\ve North only
-\cf ɛfɛ
-\dt 18/Dec/2012
+\dt 23/Dec/2012
 
 \lx ɔfɛsɩ
 \ph ɔfɛsɪ́
@@ -26357,11 +26351,13 @@ cf fonflo
 \de servant
 \pl nkpabi
 \ph ŋ͡mk͡pábi
+\va ɛkpabi
+\ve South
 \xv Lehian ánɩ́ ɔkpabi obobu mʋ wie.
 \xe It is necessary that a servant respect his master.
 \rf Tape:5-2-522
 \rf Stewart List:0502
-\dt 17/Aug/2012
+\dt 23/Dec/2012
 
 \lx Ɔkpa-gyi-ɔkpa
 \ps n
