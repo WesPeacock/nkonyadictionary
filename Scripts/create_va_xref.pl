@@ -1,4 +1,4 @@
-# usage perl -s -f Scripts\create_va_xref.pl <"Nkolex in Unicode.txt" >tmp\x.tmp
+# usage perl -s -f Scripts\create_va_xref.pl <"Nkolex in Unicode.txt" >tmp\nkolex-all.txt
 # and then merge Nkolex in Unicode.txt into tmp\x.tmp
 # creates an empty lexical entry for each variant that contains a cross-reference to the original entry.
 
@@ -20,5 +20,4 @@ while (<>) {
 	if (/\\va (.*)/) {
 		print "\\lx $1\n\\cf $lex\n";
 		}; 
-#	print;
 }
