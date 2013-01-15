@@ -48,7 +48,7 @@ RECORD: while (<>) {
 
 	# Processing for each record goes after this
 
-	if (lc($recstring) =~ /\\lx $lxchar/) {
+	if (lc($recstring) =~ /\\lx \-*$lxchar/) {
 		# any record that starts with the letter
 		print;
 		$count++;
