@@ -1269,11 +1269,17 @@
 \dt 05/Oct/2012
 
 \lx ahʋrotia
+\ph ahʊ́rotia(H)
 \ps n
-\ge plantain
-\de k.o. plantain
-\nt need more detail for this entry
-\dt 28/Dec/2012
+\ge k.o. plantain
+\sd TN-II.D.5.c
+\de A variety of plantain. Ahʋrotia has short fingers that are similar to bananas.
+\cf blɔdɩ
+\cf apantu
+\cf apɩmba
+\cf ata anyɔ
+\cf oniaba
+\dt 28/Jan/2013
 
 \lx akanlɛ
 \ph akanlɛ́(H)
@@ -2337,11 +2343,17 @@
 \dt 15/Sep/2012
 
 \lx apantu
+\ph apantu(H)
 \ps n
-\ge plantain
-\de k.o. plantain
-\nt need more detail for this entry
-\dt 28/Dec/2012
+\ge k.o plantain
+\sd TN-II.D.5.c
+\de A variety of plantain. Apantu has large fingers and is used for fufu.
+\cf blɔdɩ
+\cf ahʋrotia
+\cf apɩmba
+\cf ata anyɔ
+\cf oniaba
+\dt 28/Jan/2013
 
 \lx apɛ
 \ph apɛ́(H)
@@ -2387,11 +2399,17 @@
 \dt 05/Jul/2012
 
 \lx apɩmba
+\ph apɪmbáʔ
 \ps n
-\ge plantain
-\de k.o. plantain
-\nt need more detail for this entry
-\dt 28/Dec/2012
+\ge k.o. plantain
+\sd TN-II.D.5.c
+\de A variety of plantain. Apɩmba has smaller fingers that have small black seeds. It is primarily used for ampesie. An apɩmba tree can have 50 to 79 fingers of plantain.
+\cf blɔdɩ
+\cf ahʋrotia
+\cf apantu
+\cf ata anyɔ
+\cf oniaba
+\dt 28/Jan/2013
 
 \lx apondo
 \ph apondó(H)
@@ -2899,11 +2917,17 @@
 \dt 24/Aug/2012
 
 \lx ata anyɔ
+\ph ataɲɔʔ(H)
 \ps n
-\ge plantain
-\de k.o. plantain
-\nt need more detail for this entry
-\dt 28/Dec/2012
+\ge k.o. plantain
+\sd TN-II.D.5.c
+\de A variety of plantain. Ata anyɔ has only two bunches on a plant.
+\cf blɔdɩ
+\cf ahʋrotia
+\cf apantu
+\cf apɩmba
+\cf oniaba
+\dt 28/Jan/2013
 
 \lx atadɩɛ
 \ph atadɪɛ (H)
@@ -4532,16 +4556,22 @@
 \ph blɔdɪ(H)
 \ps n
 \ge plantain
-\sd TN-
+\sd TN-II.D.5.c
 \de plantain
+\va brɔdɩ
 \nt There are different kinds of plantain and their names in Nkonya, they are: "apantu" "apɩmba" "ahʋrotia" "ata anyɔ" "oniaba"
 \bw Akan fi:brɔdɩ LH
+\cf apantu
+\cf apɩmba
+\cf ahʋrotia
+\cf ata anyɔ
+\cf oniaba
 \xv Blɔdɩ pɛpɛ tɔhɛ mʋ́a kɩtɩba bwahɛ bʋ agyilɛ.
 \xe Baked (over coals) ripe plantain and dry fried peanuts are good to eat.
 \xe Roast plantain and peanuts are good to eat.
 \rf Tape:1-2-527
 \rf Stewart List:0906
-\dt 03/Apr/2012
+\dt 28/Jan/2013
 
 \lx blɔpʋ
 \ph blɔpʊ́
@@ -20785,6 +20815,16 @@ cf fonflo
 \de Oh! an exclamation indicating surprise
 \dt 10/Jan/2012
 
+\lx o - o
+\ph oʔo
+\ps INTJ
+\ge No
+\sd TN-
+\de No
+\xv Fʋ ee! ɩbwɛ ee! fʋ o-o! ɩbwɛ o-o!
+\xe Your yes should be yes, your no should be no.
+\dt 28/Jan/2013
+
 \lx obebuni
 \ph obebuniʔ
 \ps n
@@ -22589,11 +22629,17 @@ cf fonflo
 \dt 23/Jul/2012
 
 \lx oniaba
+\ph oníaba(H)
 \ps n
-\ge plantain
-\de k.o. plantain
-\nt need more detail for this entry
-\dt 28/Dec/2012
+\ge k.o. plantain
+\sd TN-II.D.5.c
+\de A variety of plantain. Oniaba is similar to apɩmba, but has no black seeds in the finger. It is good for ampesie.
+\cf blɔdɩ
+\cf ahʋrotia
+\cf apantu
+\cf apɩmba
+\cf ata anyɔ
+\dt 28/Jan/2013
 
 \lx onopi
 \ph onopiʔ
@@ -22749,16 +22795,6 @@ cf fonflo
 \sd TN-
 \de even
 \dt 10/Jan/2012
-
-\lx o-o
-\ph o'o
-\ps INTJ
-\ge No
-\sd TN-
-\de No
-\xv Fʋ ee! ɩbwɛ ee! fʋ o-o! ɩbwɛ o-o!
-\xe Your yes should be yes, your no should be no.
-\dt 07/Jan/2012
 
 \lx ope
 \ph opéʔ
