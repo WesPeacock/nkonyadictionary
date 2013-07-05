@@ -4211,14 +4211,6 @@
 \xe The rat ran and disappeared into his hole because people were chasing him.
 \dt 17/Dec/2012
 
-\lx bitɩ
-\ph bitɪ́
-\ps n
-\ge firstborn
-\sd TN-
-\de first born
-\dt 10/Jan/2012
-
 \lx bɩ
 \hm 1
 \ph bɪ
@@ -4330,9 +4322,9 @@
 \xe They chew cola nut at funerals.
 \rf Tape:1-2-481
 \xv Bɩsɩ amʋtɔ gyi wesee.
-\xe The cola nut is dry.
+\xe The cola nut is astringent.
 \rf Stewart List:0907
-\dt 17/Dec/2012
+\dt 05/Jul/2013
 
 \lx bɩsʋfɛ
 \ph bɪsʊfɛ
@@ -4653,9 +4645,6 @@
 \xv Beki bomli wulu amʋ da aha pan.
 \xe They go around the town and give people thanks (thank people)
 \rf Tape:1-2-544
-\xv Beki bomli wulu amʋ da aha pan.
-\xe They go around the town and give people thanks (thank people)
-\rf Tape:1-2-544
 \sn 2
 \ge surround
 \sd TN-
@@ -4665,7 +4654,7 @@
 \xe The town is surrounded by water so they use boats to go there.
 \rf Stewart List:2469
 \rf Stewart List:2470
-\dt 01/Sep/2012
+\dt 05/Jul/2013
 
 \lx bon
 \ph bõʔ(L)
@@ -4713,11 +4702,11 @@
 \de join
 \bw Akan fi:bom HL
 \xv Baboun bwɛ kʋlɛ.
-\xe They have joined and become one., needs exploration and more sentences etc.
+\xe They have joined and become one.
 \xv kpa boun
 \xe gather together
 \rf Stewart List:2681
-\dt 17/Dec/2012
+\dt 05/Jul/2013
 
 \lx bɔ
 \ph bɔ́
@@ -4760,7 +4749,7 @@
 \ge split
 \sd TN-
 \de split
-\xv Bɔɩ botodua amʋtɔ ha mɩampʋ gyi ɩban.
+\xv Bɔɩ botodua amʋtɔ ha mɩ, ampʋ gyi ɩban.
 \xe Split the bamboo for me so that I can take it and make a fence.
 \rf Tape:1-2-582
 \se bɔbɔɩ
@@ -4775,7 +4764,7 @@
 \ge operate on
 \sd TN-
 \de to operate on someone
-\dt 24/Aug/2012
+\dt 05/Jul/2013
 
 \lx bɔnbɔntɩ
 \ph bɔnbɔntɪ́
@@ -4897,10 +4886,10 @@
 \ge bridge
 \sd TN-
 \de a bridge
-\bw English fi:brigde
+\bw English fi:bridge
 \xv Oyin amʋ ɔdɛ anɩ ɔkpa bwɛ amʋ yin abrigyi bwɛ.
 \xe The contractor building our road knows how to build bridges
-\dt 01/Sep/2012
+\dt 05/Jul/2013
 
 \lx bronya
 \ph bróɲaʔ
@@ -4921,9 +4910,9 @@
 \pl abrɔdʋma
 \ph abrɔ́dʊma
 \bw Akan fi:abrɔnʋma LHHL
-\xv Abɔdʋma gyi obwibwi ɔkʋa mʋ́ iyietɔ bʋ ɔdwɛ.
+\xv Brɔdʋma gyi obwibwi ɔkʋa mʋ́ iyietɔ bʋ ɔdwɛ.
 \xe Dove is a bird that its meat is sweet.
-\dt 10/Jan/2012
+\dt 05/Jul/2013
 
 \lx brɔnʋ
 \ph brɔnʊ(H)
@@ -4939,11 +4928,10 @@
 \xe The town that has a street in it is a fine town.
 \rf Tape:2-1-004
 \xv Nyankpʋ labila ɔba, sʋ ɔhaa ma brɔnʋsʋ. Fɔyɔ fʋméenya tɔtɔ hɔ nʋ.
-\xe Rain has darkened the sky, so nobody is on the street so if you go you will not get anything to buy.
-\xe You will not be able to buy anything on the street because rainclouds are threatening and nobody is there.
+\xe Rain has darkened the sky, it's coming, so nobody is on the street. If you go, you will not get anything to buy there.
 \rf Tape:2-1-011
 \rf Stewart List:1175
-\dt 02/Apr/2012
+\dt 05/Jul/2013
 
 \lx bu
 \ph búʔ
@@ -5126,7 +5114,7 @@
 \ge follow
 \sd TN-
 \de to follow someone
-\xv Yesu lɛblaa Petro ɔbɛɛ, buo mɩ nɔbwɛ fʋ anyakpʋsa alɛpʋ.
+\xv Yesu lɛbla Petro ɔbɛɛ, buo mɩ nɔbwɛ fʋ anyakpʋsa alɛpʋ.
 \xe Jesus told Peter that, follow me and I will make you fishers of men.
 \rf Tape:2-1-075
 \rf Stewart List:2478
@@ -5141,31 +5129,41 @@
 \de to be born after
 \xv Mʋ da gyi Tawiah. Tsufɛ bɔkwɩɩ mʋ buo atabi.
 \xe Her name is Tawiah, because she was born after twins.
-\dt 15/Sep/2012
+\dt 05/Jul/2013
 
 \lx buto
 \ph butó
 \ps n
 \ge bead
-\sd TN-
+\sd TN-II.C.4.c
 \de bead
 \pl abuto
 \ph abutó
-\cf butobi Eng:small bead
+\cf butobi
 \xv Ɔtsɩ amʋ́ʋ́ ɔtɛfɛ abuto amʋ laba nfɩ igye.
 \xe The woman that sells the beads, came here yesterday.
 \xv Ɔtsɩ amʋ dɩdɩ abuto mʋ osiesʋ.
 \xe The woman wore beads about her waist
 \rf Stewart List:1246
-\dt 16/Jul/2012
+\dt 05/Jul/2013
 
 \lx buto wʋlɩhɛ
 \ph buto
 \ps n
 \ge bead
-\sd TN-
+\sd TN-II.C.4.c
 \de expensive old beads
-\dt 12/Jan/2012
+\dt 05/Jul/2013
+
+\lx butobi
+\ph butóbí
+\ps n
+\ge small bead
+\sd TN-II.C.4.c
+\de small bead
+\pl abutobi
+\ph abutóbí
+\dt 05/Jul/2013
 
 \lx bʋ
 \hm 1
@@ -5173,9 +5171,9 @@
 \sn 1
 \ps vn
 \ge is
-\sd TN-
+\sd TN-I.C.1.b
 \de to be (non-equative)
-\xv Ɔbwɩ ɔkʋbʋ ɔbɔ amʋtɔ, sʋ kɩ wanklaan.
+\xv Ɔbwɩ ɔkʋ bʋ ɔbɔ amʋtɔ, sʋ kɩ wanklaan.
 \xe A certain animal is in the hole so be careful.
 \rf Tape:2-1-083
 \xv Mbwɩ akʋ bʋbʋ ntsu amʋtɔ sʋ mánun (mʋ́).
@@ -5187,7 +5185,7 @@
 \sn 2
 \ps vt
 \ge has
-\sd TN-
+\sd TN-II.B.4
 \de to have
 \xv Ɔbʋ kokoo ndɔ kpɔnkpɔntɩ kʋ.
 \xe He has a big cocoa farm.
@@ -5209,7 +5207,7 @@
 \xv Ɩbʋ fʋ atsulɛ?
 \xe Is it easy for you to pick up.
 \rf Stewart List:2498
-\dt 14/Aug/2012
+\dt 05/Jul/2013
 
 \lx bʋ
 \hm 2
@@ -5242,7 +5240,7 @@
 \ps vi
 \sn 1
 \ge be drunk
-\sd TN-
+\sd TN-II.A.6.c
 \de to be drunk
 \xv Nabʋ nta.
 \xe I have become drunk from drink (palm wine).
@@ -5265,7 +5263,7 @@
 \ge wilt
 \sd TN-
 \de to wilt
-\dt 28/Dec/2012
+\dt 05/Jul/2013
 
 \lx bʋ-
 \hm 4
@@ -5403,15 +5401,15 @@
 \ps n
 \va ɩbʋta
 \ge boulder
-\sd TN-
+\sd TN-I.A.3.b
 \de boulder
 \pl abʋta
 \ph abʊtã́
 \xv Anɩlɔdʋ yetsia bʋta kʋsʋ, ɩbʋ amʋsʋ.
-\xe We climbed and sat on a rock. It was on the mountain.
+\xe We climbed and sat on a boulder on the mountain.
 \rf Tape:2-1-148
 \rf Stewart List:1025
-\dt 17/Dec/2012
+\dt 05/Jul/2013
 
 \lx bʋtɩ
 \ph bʊ́tɪ́
@@ -5455,23 +5453,17 @@
 \de to make something
 \nt From ths: words used for making: bwɛ: ɔfɛ, nta, abiofobi, atogyihɛ, agywɩɩn, etc; la: oli, isia, ɩká; lʋ: lakpa, blawunu, tati; sre: ɔklʋn, atɔ; gyi: ɩban, mba; da: kakaʋ, kantankpa, atukeekee; dɔ: ndɔ, lɛ: oputsu; yi: obu, ɔka; pwɛ: ɔswɩ, obu
 \rf Stewart List:2089
-\se bwɛ agywɩɩn
-\ph bʷɛ́ aʤwɪ̃ː(H)
-\ps v
-\ge decide
-\sd TN-
-\de to make up your mind
-\cf agywɩɩn
-\dt 28/Aug/2012
+\cf bwɛ agywɩɩn
+\dt 05/Jul/2013
 
 \lx bwɛ agywɩɩn
 \ph bʷɛ́ aʤwɪ̃ː(H)
 \ps v
 \ge decide
-\sd TN-
+\sd TN-II.B.1
 \de decide; make up your mind
 \cf agywɩɩn
-\dt 01/Sep/2012
+\dt 05/Jul/2013
 
 \lx bwie
 \ph bwie
@@ -5486,11 +5478,14 @@
 \rf Stewart List:2780
 \xv Igye bobwie kokoo mɩ ndɔtɔ.
 \xe Yesterday they split cocoa on my farm
-\nt From ths: words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ ( break off)
-\xv nsibi bwiehɛ
-\xe blind
+\nt Words that mean break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ ( break off)
+\se nsibi bwiehɛ
+\ps ADJ
+\ge blind
+\de to be blind
 \rf Stewart List:1689
 \se bwie ɔnɔ
+\ps v
 \ge amaze
 \sd TN-
 \de to amaze
@@ -5499,7 +5494,7 @@
 \xv Ɔnɔ labwie mɩ, tsufɛ mmɔkʋ wun ɩnɩ odu kɩ.
 \xe I was speechless (with amazement) because I had not seen this kind before.
 \rf Tape:6-1-183
-\dt 17/Dec/2012
+\dt 05/Jul/2013
 
 \lx bwii
 \ph bwǐː
@@ -5592,7 +5587,7 @@
 \xe The money is lying above the head of the child.
 \sn 2
 \ge be fine
-\sd TN-
+\sd TN-II.A.2.c
 \de to be fine or quiet
 \xv Funaa! Woyi da?
 \xe Hi! How's your household?
@@ -5605,12 +5600,12 @@
 \rf Tape:2-1-179
 \xv Anɩdɛ ɔkpa kʋlɩ. Yoo, ɔkpa da.
 \xe We are asking for the road (taking leave). Response: O.K., The road is there. (You are free to leave.)
-\nt This is the normal formal leave taking.
+\xe This is the normal formal leave taking.
 \xv Anɩ wulutɔ da pisii
 \xe Our town is peaceful.
 \xv Tɛkɩ asʋn amʋ lasi ɩda diin; tamɛ ɔkʋ layowuli mʋ́tɔ.
 \xe The case would have remained quiet, but someone gone and stirred it up. 
-\dt 11/Sep/2012
+\dt 05/Jul/2013
 
 \lx da
 \hm 3
@@ -5620,6 +5615,14 @@
 \ge render
 \sd TN-
 \de to render
+\se da akuda
+\ge stay on farm
+\sd TN-
+\de to stay on one's farm rather than in town
+\se da bubu
+\ge Exclaim
+\sd TN-
+\de express surprise by tapping the mouth while saying "Uuuuuuuuuu"
 \se da ɩpan
 \ge thank
 \sd TN-
@@ -5628,10 +5631,6 @@
 \xe I thank you.
 \rf Tape:2-1-172
 \rf Stewart List:3239
-\se da ɔkpʋnʋ
-\ge rest
-\sd TN-
-\de to rest
 \se da ɩwɩsʋ
 \ge be alert
 \sd TN-
@@ -5641,24 +5640,20 @@
 \ge gather around
 \sd TN-
 \de gather around to pay close attention to
-\se da ɔkpa
-\ge righteous
-\sd TN-
-\de to be righteous
-\se da akuda
-\ge stay on farm
-\sd TN-
-\de to stay on one's farm rather than in town
-\se da bubu
-\ge Exclaim
-\sd TN-
-\de express surprise by tapping the mouth while saying "Uuuuuuuuuu"
 \se da ɔfɛtɔ
 \ge tied
 \sd TN-
 \de to be tied up
 \xv Sankɩ ɔfɛ amʋ lɛ batɛ amʋ ayabi tsufɛ ɔda ɔfɛtɔ lawa ɔpá.
 \xe Untie the rope from the chicken's legs because it has been tied up for a long time.
+\se da ɔkpa
+\ge righteous
+\sd TN-
+\de to be righteous
+\se da ɔkpʋnʋ
+\ge rest
+\sd TN-
+\de to rest
 \sn 2
 \ge plant
 \sd TN-
@@ -5686,7 +5681,7 @@
 \xv Mɩ atɔ dahɛ amʋ lada ɔbaan.
 \xe My setting out things (yams, water yams, ) have grown shoots.
 \rf Tape:5-2-138
-\dt 15/Sep/2012
+\dt 05/Jul/2013
 
 \lx da wa
 \ph dá wá
@@ -5820,15 +5815,30 @@
 \ph dálɪ́
 \ps v
 \ge go out
-\sd TN-
-\de go out
+\sd TN-I.C.3.d
+\de to exit
+\ge proceed from
+\de to 
 \xv "Yinti" lɛdalɩ tsu "oyi tin"tɔ.
 \xe "stump" comes from "tree cut off"
 \rf Tape:2-1-235
 \xv Nɩ fɛdalɩ tsu asienɔ a, fɔyɔ ikwe.
 \xe If you leave seven you are going to eight.
 \rf Stewart List:2459
-\dt 16/Jul/2012
+\dt 05/Jul/2013
+
+\lx dalɩ tsu
+\ph dálɪ́ t͡súʔ
+\ps v
+\ge proceed from
+\de to proceed in a sequence
+\xv "Yinti" lɛdalɩ tsu "oyi tin"tɔ.
+\xe "stump" comes from "tree cut off"
+\rf Tape:2-1-235
+\xv Nɩ fɛdalɩ tsu asienɔ a, fɔyɔ ikwe.
+\xe If you leave seven you are going to eight.
+\rf Stewart List:2459
+\dt 05/Jul/2013
 
 \lx damantsu
 \ph damant͡sú
@@ -5884,12 +5894,12 @@
 \ps vi
 \ge grow
 \sd TN-
-\de to grow in size, maturity, and in humans age
+\de to grow in size, maturity, and in age
 \xv Kofi ladan dʋn fʋ, sʋ maplei mʋsʋ.
 \xe Kofi is older than you so don't be rude to him.
 \rf Tape:2-1-251
 \rf Stewart List:2003
-\dt 15/Sep/2012
+\dt 05/Jul/2013
 
 \lx dango
 \ph dangó
@@ -5951,7 +5961,7 @@
 \xv Matsu datɔ ɔtʋ amʋ, mboun tsu oyi klɛ amʋ.
 \xe Don't take the metal ladle, instead bring the wooden one.
 \rf Tape:6-1-557
-\xv Nɩ fɔdɔ ndɔ a, yehian ánɩ́ fénya adatɔ. Adatɔ amʋ kʋ aná gyi: krantɩɛ, ɔtɩ, ɔfɛ bangya pʋ́ otsobi.
+\xv Nɩ fɔdɔ ndɔ a, ɩlehian ánɩ́ fénya adatɔ. Adatɔ amʋ kʋ aná gyi: krantɩɛ, ɔtɩ, ɔfɛ bangya pʋ́ otsobi.
 \xe If you will make a farm it is necessary that you will get metal tools. Some of these tools are: cutlass, hoe, axe and post digger
 \xv Datɔ ɔfɛ tɔwa ɔsa mli dʋn fla.
 \xe Wire (metal rope) tangles more easily than vine.
@@ -5962,7 +5972,7 @@
 \xe A small bit only they put in a horse's mouth, to turn it and show it what it should do.
 \rf Tape:6-1-332
 \rf Stewart List:1032
-\dt 17/Dec/2012
+\dt 05/Jul/2013
 
 \lx datu
 \ph datu
@@ -14940,6 +14950,7 @@ cf fonflo
 \xv Ɔdɛ asɩra kpɩ.
 \xe He is sniffing snuff.
 \rf Tape:3-2-542
+\nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \sn 2
 \ge suck
 \sd TN-
@@ -14951,7 +14962,7 @@ cf fonflo
 \ge evaporate
 \sd TN-
 \de to evaporate (of a liquid)
-\dt 15/Sep/2012
+\dt 05/Jul/2013
 
 \lx kpɩ
 \hm 2
@@ -14975,8 +14986,7 @@ cf fonflo
 \xv He has tied a rope around the monkey's waist.
 \rf Tape:3-2-549
 \rf Stewart List:2344
-\nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
-\dt 11/Sep/2012
+\dt 05/Jul/2013
 
 \lx kpɩkpɩ
 \ph k͡pɪ́k͡pɪ̂ʔ(L)
