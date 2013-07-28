@@ -5,14 +5,13 @@
 \ph a
 \ps CONN
 \ge SCLS
-\sd TN-
 \de subordinate clause marker
 \xv Fɔyɔ wulutɔ a, hɔ kɩtɩba ba mɩ.
 \xe If you go to town, buy me some groundnuts.
 \rf Tape:1-1-004
 \xv Ɔtsanɩ fɔyɔ wulutɔ a, hɔ kɩtɩba ba mɩ.
 \xe When you go to town buy peanuts for me.
-\dt 23/Sep/2012
+\dt 28/Jul/2013
 
 \lx a-
 \hm 1
@@ -32,34 +31,31 @@
 \ph a-
 \ps PRO
 \ge we
-\sd TN-
 \de we
 \xv Abɔ́yɔ ndɔ ndɛ.
 \xe We will go to farm today.
 \rf Tape:1-1-008
 \xv Mɩa Ataa nyɔ abɔ́flɔɩ kpoli.
 \xe Ataa and I both will husk corn
-\dt 23/Sep/2012
+\dt 28/Jul/2013
 
 \lx a-
 \hm 3
 \ph a-
 \ps CNJ
 \ge so that
-\sd TN-
 \de bound morpheme particle indicating a desired reaction
 \xv Nɩ mlɔyɔ a, amlɩkɩ asɩ.
 \xe If you(pl) go, you(pl) should take care. (lit: look down, watch where you are walking)
 \xe Go, and take care.
 \rf Tape:1-1-024
-\dt 01/Oct/2012
+\dt 28/Jul/2013
 
 \lx -a
 \hm 1
 \ph -a
 \ps CNJ
 \ge and
-\sd TN-
 \de and
 \nt attaches to pronoun to give meaning me+and you+and etc
 \xv Mɩa nyebi amʋ legyi.
@@ -89,35 +85,35 @@
 \xv Nyankpʋ mʋ́a onyelulu totswie.
 \xe Rain and dew fall.
 \nt Any vowel following a nasal is nasalized so mɩa is pronounced mɩan. Mɩa mɩ ka nyɔ anɩ tse.
-\dt 08/Sep/2012
+\dt 28/Jul/2013
 
 \lx -a
 \hm 2
 \ph -a
 \ps TR
 \ge TRANSITIVE
-\sd TN-
 \de makes an intransitive verb transitive
-\dt 13/Aug/2012
+\dt 28/Jul/2013
 
 \lx aba
 \hm 1
 \ph aba(H)
 \ps n
 \ge people
-\sd TN- II.E.1.a
+\sd TN-II.E.1.a
 \de people
 \nt from aba anyɔ
 \nt abanyɔ (two people) abasa (three people), abana (four people), abanu (five people), abasie (six people)
 \cf tɔkʋ for inanimate objects
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx aba
 \hm 2
 \ph aba(H)
 \ps n
 \ge each other
-\sd TN-
+\sd TN-II.E.4.c
+\sd TN-I.C.5
 \de each other
 \xv Bafwie abatɔ
 \xe They have crashed into each other.
@@ -125,26 +121,27 @@
 \xv Anɩ atati bɛ́da aba.
 \xe Our cloths will touch each other. Meaning: We will meet later
 \nt Idiom
-\dt 01/Oct/2012
+\dt 28/Jul/2013
 
 \lx Aban
 \ph abãʔ(H)
 \ps n
 \ge government
-\sd TN- II.E.3.a
+\sd TN-II.E.3.a
 \de government, nontraditional authority
 \nt from Akan fence; because the original slave trading forts were surrounded with fences; government is an animate noun
 \bw Akan fi:Aban LH
 \xv Fɔmɔ ɔha a, Aban obésian fʋ.
 \xe If you kill someone the government will hang you.
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx abansʋrʋ
 \ph abansʊ́rʊʔ(L)
 \ps n
 \sn 1
 \ge multi-storey
-\sd TN-II.C.1; TN-II.D.6.h
+\sd TN-II.C.1
+\sd TN-II.D.6.h
 \de a multi-storey building
 \xv Abansʋrʋ tsɔ wulu yiletɔ.
 \xe There are many storied buildings in a big town.
@@ -152,13 +149,12 @@
 \xe A large town has many story buildings.
 \sn 2
 \ge upstairs
-\sd TN-
 \de upstairs
 \xv Nɔyɔ abansʋrʋtɔ.
 \xe I will go upstairs.
 \rf Tape:1-1-043
 \bw Akan fi:bansʋrʋ LHH
-\dt 14/Nov/2012
+\dt 28/Jul/2013
 
 \lx abanyɔ
 \ph abaɲɔ́
@@ -258,26 +254,26 @@
 \xv Abi atsuli tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
 \rf Tape:1-2-210
-\sd TN- atsulii
-\dt 14/Nov/2012
+\sd atsulii
+\dt 28/Jul/2013
 
 \lx abialɛ
 \ph abialɛ́(H)
 \ps ADJ
 \ge breakable
-\sd TN-
+\sd TN-II.A.4.e
 \de easy to break
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that is not flexible is easy to break.
 \xe A rigid or brittle stick is easy to break.
 \rf Tape:1-1-083
-\dt 09/Aug/2012
+\dt 28/Jul/2013
 
 \lx abielɛ
 \ph abíelɛ (L)
 \ps ADJ
 \ge batheable
-\sd TN-
+\sd TN-II.A.5
 \de easy or pleasant to bathe in
 \xv abielɛ
 \xe easy to bathe
@@ -285,38 +281,38 @@
 \xe When its hot, cold water is good for bathing.
 \xe When the weather is warm it is pleasant to bath in cold water.
 \rf Tape:1-1-095
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx abiolɛ
 \ph abíolɛ
 \ps ADJ
 \ge butcherable
-\sd TN-
+\sd TN-I.D.5.f
 \de easy to butcher (open and gut - remove the intestines)
 \xv Ɔbwɩ ánɩ́ aladan a, ɔbʋ abiolɛ dʋn ɔmʋa ɔmɔkʋ dan.
 \xe An animal that has grown is easier to butcher (open and remove the intestines) than one that has not grown.
 \xe It's easier to butcher an adult animal than a young one.
 \rf Tape:1-1-088
-\dt 02/Apr/2012
+\dt 28/Jul/2013
 
 \lx abɩn
 \ph abɪ̃ʔ
 \ps n
 \ge side
-\sd TN-
+\sd TN-II.A.1.c
 \de a person's side
 \cf abɩntɔ
 \cf abɩn iwu
 \xv Fʋ abɩn gyi tsu fʋ klɛtɔ bɔfʋn fʋ ɔmɛtɔ.
 \xe Your side goes from your armpit to your abdomen. It describes that area where the ribs are.
 \rf Stewart List:0036
-\dt 15/Dec/2012
+\dt 28/Jul/2013
 
 \lx abɩn iwu
 \ph abɪ̃ʔ iwú
 \ps n
 \ge rib
-\sd TN-
+\sd TN-II.A.1.c
 \de rib
 \lt side bone
 \va abɩnwu
@@ -325,13 +321,13 @@
 \xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
 \xe If your rib breaks and you don't take care, you will die.
 \rf SIL-AWL:0080
-\dt 15/Dec/2012
+\dt 28/Jul/2013
 
 \lx abɩntɔ
 \ph abɪntɔ(H)
 \ps n
 \ge side
-\sd TN-
+\sd TN-II.A.1.c
 \de the side of a person or a thing
 \xv Bapʋ ɔdayi amʋ wɔ ɔprakuo amʋ abɩntɔ.
 \xe They have pierce the knife into the stomach of the pig.
@@ -341,92 +337,93 @@
 \xv Ntsu amʋ ɩna ɩbʋ amʋ abɩntɔ.
 \xe The stream passes beside the hill.
 \rf Stewart List:0958
-\dt 15/Dec/2012
+\dt 28/Jul/2013
 
 \lx abɩsɩ
 \ph abɪ́sɪ(H)
 \ps n
 \ge cola
-\sd TN-
+\sd TN-II.C.2.e
 \de sweet fizzy brown drink without alcohol
 \xv Abɩsɩ nta tɛha nyankpʋsa tenya awútɔ
 \xe Cola drink makes people to become healthy
-\dt 01/Dec/2012
+\dt 28/Jul/2013
 
 \lx ablala
 \ph ablála(H)
 \ps n
 \ge sail
-\sd TN-
+\sd TN-II.D.7.b
 \de a sail on a boat
 \bw Ewe fi:ablala
 \xv Ablala amʋ sian ɔklʋn amʋsʋ.
 \xe A sail is hanging on the boat.
-\dt 15/Sep/2012
+\dt 28/Jul/2013
 
 \lx ablimbo
 \ph ablímbo(H)
 \ps n
 \ge grass
-\sd TN-
+\sd TN-I.B.5.a
 \de a vine-like grass with thorns
 \xv Nɩ ɔha ɩwɩtɔ bwɛ ɔlɔ a, ɔtɔkwɛ ablimbo sa.
 \xe When a person has a sore in the stomach, he grinds ablimbo and uses it as a liquid enema
-\dt 15/Sep/2012
+\dt 28/Jul/2013
 
 \lx ablɩlɛ
 \ph ablɪ́lɛ́(L)
 \ps ADJ
 \ge speakable
-\sd TN-
+\sd TN-II.B.2
 \de easy to say
 \xv Ɔhagyiɔha wulutɔ ɔblɩ bʋ mʋ ablɩlɛ.
 \xe Everyone's own language is easy for him to speak.
 \rf Tape:1-1-100
-\dt 05/Oct/2012
+\dt 28/Jul/2013
 
 \lx abomba
 \ph abomba(H)
 \ps n
 \ge big drum
-\sd TN-
+\sd TN-II.E.5.d.i
+\sd TN-II.E.2.a
 \de big drum
 \xv Owie ana abomba amʋ layinta, mʋ́ sʋ kʋkʋ tra ɩma ɩnʋ.
 \xe The chiefs' big drum is spoiled, therefore there is none again.
-\dt 03/Apr/2012
+\dt 28/Jul/2013
 
 \lx aboun
 \ph aboũ(H)
 \ps n
 \ge stew
-\sd TN-
+\sd TN-II.C.3.f
 \de greens and meat fried in oil and served over sliced yam or rice
 \bw Akan fi:abomu LLH
 \xv Bʋtɔpʋ aboun gyi ampesie mʋa ɩmɔ.
 \xe They eat stew with slice (yam) and rice.
-\dt 15/Sep/2012
+\dt 28/Jul/2013
 
 \lx abɔsʋɔ
 \ph abɔsʊɔ(H)
 \ps n
 \ge belt
-\sd TN-
+\sd TN-II.C.4.b
 \de rope, string, strip of cloth, used as a belt
 \bw Akan fi:abɔsʋ LLH bɔ sʋ "tie on"
 \xv Pʋ mɩ abɔsʋɔ ba mɩ, ampʋklɩ mɩ tatɩsʋ asa mɩanatɩ yɔ ndɔ.
 \xe Bring me a strip of cloth so that I can tie on my cloth before I go to farm.
-\dt 31/Aug/2012
+\dt 28/Jul/2013
 
 \lx abrɛ
 \ph abrɛ́
 \ps n
 \ge antelope
-\sd TN-
+\sd TN-I.B.1.b
 \de an antelope bigger than nani
 \nt check the size of nani, abrɛ and other antelopes
 \xv Abrɛ lɛpɛ, bibi ɩna mʋ ɔma. Olomoni dʋn nani, sʋ aha ansɩ tegyi mʋ ɩwɩ dʋn nani.
 \xe Abrɛ has red colour, with a black line on its back. It is bigger than nani, so people like it more than nani.
-\dt 15/Dec/2012
+\dt 28/Jul/2013
 
 \lx abrɩwa
 \ph abrɪwa(H)
@@ -535,11 +532,11 @@
 \ph adaŋgó
 \ps n
 \ge rabbit
-\sd TN-
+\sd TN-I.B.1.b
 \de rabbit
 \xv Kofi dɛ adango yaɩ amʋ́ woyitɔ.
 \xe Kofi is rearing rabbits in his house.
-\dt 05/Oct/2012
+\dt 28/Jul/2013
 
 \lx adansɩɛ
 \ph adã́nsɪɛ(H)
@@ -771,7 +768,7 @@
 \ph afrímú
 \ps n
 \ge donkey
-\sd TN-
+\sd TN-II.D.2.a
 \de donkey
 \pl mfrimu
 \ph ɱfrímú
@@ -779,7 +776,7 @@
 \xv Afrimu tɔsʋra atɔ dʋn ɔpɔnkɔ.
 \xe A donkey carries things more than a horse.
 \rf Stewart List:0630
-\dt 03/Dec/2012
+\dt 28/Jul/2013
 
 \lx afu
 \hm 1
@@ -927,13 +924,13 @@
 \ph agánɛ(H)
 \ps n
 \ge scorpion
-\sd TN-
+\sd TN-I.B.3.b
 \de little brown scorpion
 \nt Southern dialect
 \cf nyankpʋkpie
 \xv Bamɔ aganɛ amʋ́ʋ́ ɔlɔsʋra kebi amʋ.
 \xe They have killed the scorpion that stung the child.
-\dt 02/Aug/2012
+\dt 28/Jul/2013
 
 \lx Agbagya
 \ph ag͡baʤáʔ
@@ -1204,7 +1201,8 @@
 \ps n
 \ge worker
 \de worker
-\dt 28/Dec/2012
+\sd TN-
+\dt 28/Jul/2013
 
 \lx agywama
 \ph aʤwama(H)
@@ -1716,10 +1714,10 @@
 \ph akwɛ
 \ps n
 \ge drums
-\sd TN-
+\sd TN-II.E.5.d.i
 \de drums
 \cf ɩkwɛ
-\dt 01/Sep/2012
+\dt 28/Jul/2013
 
 \lx alankpla
 \ph alaŋ͡mk͡pla
@@ -2477,11 +2475,11 @@
 \ph asã̂ːʔ
 \ps n
 \ge crayfish
-\sd TN-
+\sd TN-I.B.3.d
 \de fresh water prawns
 \xv Nɩ fotsu Nkran fɛba a, hɔ asaan Sentsie ba mɩ.
 \xe If you are coming from Accra, buy crayfish at Senchi for me.
-\dt 01/Dec/2012
+\dt 28/Jul/2013
 
 \lx asaawa
 \ph asǎːwa(H)
@@ -3133,9 +3131,9 @@
 \ph at͡saŋkasɪ
 \ps n
 \ge intestine worm
-\sd TN-
+\sd TN-II.A.6.b
 \de intestinal worm
-\dt 21/Aug/2012
+\dt 28/Jul/2013
 
 \lx atsantsankʋ
 \ph at͡sant͡saŋkʊ
@@ -3322,16 +3320,16 @@
 \ph atumpa(H)
 \ps n
 \ge talking drum
-\sd TN-
+\sd II.E.2.a
 \de Ashanti talking drums
 \nt These drums are usually beaten using the Akan language
 \bw Akan fi:atumpa LLH
 \xv Nɩ bʋdɛ atumpa da, ɔhandɛ ɔkʋ dɛtsʋn a, bʋtɛda mʋ adabi pʋ tɩ mʋ.
 \xe If they are beating the talking drums and an elder is passing by, they beat his appellation and call him.
 \rf Tape:1-1-111
-\sd TN- ɩkwɛ
+\sd ɩkwɛ
 \rf Stewart List:1191
-\dt 16/Dec/2012
+\dt 28/Jul/2013
 
 \lx atuu
 \ph atûː
@@ -3639,7 +3637,7 @@
 \ph babaʔ
 \ps n
 \ge termite
-\sd TN-
+\sd TN-I.B.3.b
 \de termite
 \pl ababa
 \ph abábaʔ
@@ -3658,7 +3656,7 @@
 \cf ɔtɔntrɔbwɩ
 \cf kɔklɔ
 \rf Stewart List:0811
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx baflɛ
 \ph baflɛ́ʔ
@@ -3804,14 +3802,14 @@
 \ph batafɔʔ(H)
 \ps n
 \ge bush pig
-\sd TN-
+\sd TN-I.B.1.b
 \de bush pig
 \pl abatafɔ
 \ph abatafɔ(H)
 \nt North Nkonya call bush pig with black skin gyasɩɛpɛ, but the one with red skin is called batafɔ.
 \xv Abatafɔ bʋtɛhɩɛ yinta atɔ ndɔtɔ, titriu mankani pʋ agbodi.
 \xe Bush pigs destroys things on farm very much, especially cocoyam and cassava.
-\dt 02/Jan/2013
+\dt 28/Jul/2013
 
 \lx batɛ
 \ph batɛ(H)
@@ -3835,9 +3833,9 @@
 \ph batɛkokoyĩ
 \ps n
 \ge rooster
-\sd TN-
+\sd TN-II.D.2.b
 \de big rooster
-\dt 24/Aug/2012
+\dt 28/Jul/2013
 
 \lx batɛtsɩhɛ
 \ph batɛt͡sɪhɛ
@@ -5802,17 +5800,17 @@
 \ph dak͡padak͡pa
 \ps n
 \ge centipede
-\sd TN-
+\sd TN-I.B.3.b
 \de centipede
-\dt 15/Jul/2005
+\dt 28/Jul/2013
 
 \lx dakpikpi
 \ph dak͡pík͡pí
 \ps n
 \ge wild cat
-\sd TN-
+\sd TN-I.B.1.b
 \de wild cat
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx dalɩ
 \ph dálɪ́
@@ -5846,7 +5844,7 @@
 \ph damant͡sú
 \ps n
 \ge red ant
-\sd TN-
+\sd TN-I.B.3.b
 \de a red ant which lives in trees
 \pl adamantsu
 \ph adamant͡sú
@@ -5859,7 +5857,7 @@
 \cf kɔklɔ
 \xv Adamantsu boputa ɔdɔtɔpʋ ɔkʋ mʋ ndɔtɔ olesi ɔlɩɩ ɔdɛ amʋ́ kpakpa.
 \xe Red ants went all over the body of a certain farmer on his farm and he stood up in order to rub them off.
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx damli
 \ph dámlí
@@ -5907,7 +5905,7 @@
 \ph dangó
 \ps n
 \ge rabbit
-\sd TN-
+\sd TN-I.B.3.b
 \de rabbit
 \pl adango
 \ph adangó
@@ -5915,7 +5913,7 @@
 \xv Kofi dɛ adango yaɩ amʋ́ woyitɔ.
 \xe Kofi is raising rabbits at their house.
 \rf Tape:1-1-125
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx dantapu
 \ph dantápu
@@ -6026,7 +6024,7 @@
 \ph déiʔ
 \ps n
 \ge monkey
-\sd TN-
+\sd TN-I.B.1.b
 \de monkey
 \nt also kʋtɩ
 \pl adeyi
@@ -6035,7 +6033,7 @@
 \xe If a monkey is in a tree and you stand and look it is good to look at.
 \rf Tape:2-1-279
 \rf Stewart List:0618
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx deyi asʋ
 \ph déi asʊ
@@ -6166,9 +6164,9 @@
 \xe The sheep is eating grass.
 \rf Tape:2-1-309
 \xv Dimbi gyi ɩfá kʋa ɩma tɔtɔ bwɛtɔ, tamɛ mʋ́lɔhɔ ɩda nɩ. Aklɔtɩ tɔpʋ la isia.
-\xe This grass is a type that is not used for anything. But has the greatest name. Mice use it for nest.
+\xe This grass is a type that is not used for anything. But is the best know. Mice use it for theirnests.
 \nt From ths: words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfá (grass, weeds) kɛnkɛ,
-\dt 24/Aug/2012
+\dt 28/Jul/2013
 
 \lx dimbisʋ
 \ph dimbísʊ́
@@ -6188,10 +6186,10 @@
 \ps v
 \sn 1
 \ge lie down
-\sd TN-
+\sd TN-II.A.2.c
 \de to lie down
-\xv Ntsu yɔkpa yi mɩ obu ɔnɔ, sʋ ɔbɔ ladɩ nʋ.
-\xe Water fell at the door of my room so a hole has formed there.
+\xv Ntsu lɔkpa yi mɩ obu ɔnɔ, sʋ ɔbɔ ladɩ nʋ.
+\xe Water fell vertically at the door of my room so a hole has formed there.
 \xv Kɩaɩ amʋ ladɩ mʋ́ wie obu ɔnɔ ogyo mʋ.
 \xe The dog is lying at the entrance of its owner, waiting for him.
 \rf Tape:2-1-312
@@ -6202,20 +6200,20 @@
 \rf Stewart List:1406
 \sn 2
 \ge sleep
-\sd TN-
+\sd TN-II.A.2.b
 \de to sleep
 \se aba dɩ
 \ge copulate
-\sd TN-
+\sd TN-II.A.2.f
 \de to copulate with each other
 \nt dɩ means to lie down, but a contrast can be made with dɩdɩ, which means strictly to sleep. There seems to be a patient/agent difference. English to sleep; & to be asleep. dɩ is the more active form.
-\dt 24/Aug/2012
+\dt 28/Jul/2013
 
 \lx dɩba
 \ph dɪbaʔ (L)
 \ps n
 \ge bedbug
-\sd TN-
+\sd TN-I.B.3.c
 \de bedbug
 \pl adɩba
 \ph adɪ́ba
@@ -6223,14 +6221,14 @@
 \xe Last night my sleeping mat was infested with bedbugs so I didn't sleep.
 \xv Adɩba sɔɔn bʋ oyin anfɩ atadɩɛtɔ.
 \xe There are many bedbugs in this man's shirt.
-\dt 22/Aug/2012
+\dt 28/Jul/2013
 
 \lx dɩda
 \hm 1
 \ph dɪda
 \ps vt
 \ge fall
-\sd TN-
+\sd TN-II.A.4.c
 \de fall down
 \xv Ɔlɛsrɛɩ dɩda bʋsʋ nʋ, tsufɛ nʋ lɔwa ɔplɩ.
 \xe He slipped and fell down on the mountain because it was slippery there.
@@ -6239,28 +6237,27 @@
 \xe Our bathing area is slippery, so yesterday I fell down there.
 \nt From ths: words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpawie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
 \rf Stewart List:2485
-\dt 22/Aug/2012
+\dt 28/Jul/2013
 
 \lx dɩdá
 \hm 2
 \ph dɪ́dá
 \ps vt
 \ge put on
-\sd TN-
+\sd TN-II.C.4.a
 \de put on cloth
 \xv Ɔlɛdɩda mʋ tati wanklaan amʋ igye.
 \xe He put on his fine cloth yesterday.
 \rf Tape:2-1-323
 \rf Stewart List:2792
-\nt words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
-\dt 04/Nov/2012
+\dt 28/Jul/2013
 
 \lx dɩdɩ
 \ph dɪ́dɪ
 \ps v
 \hm 1
 \ge sleep
-\sd TN-
+\sd TN-II.A.2.b
 \de sleep
 \xv Alamwɛ, sʋ aladɩdɩ.
 \xe He has been sated so he has gone to sleep.
@@ -6273,9 +6270,9 @@
 \rf Stewart List:2031
 \se dɩdɩ tsʋn
 \ge sleep through
-\sd TN-
+\sd TN-II.A.2.b
 \de sleep through s.t.
-\dt 27/Aug/2012
+\dt 28/Jul/2013
 
 \lx dɩdɩ
 \hm 2
@@ -6614,7 +6611,7 @@
 \ph dunduʔ
 \ps n
 \ge leopard
-\sd TN-
+\sd TN-I.B.1.b
 \de leopard
 \pl adundu
 \ph adúnduʔ
@@ -6622,7 +6619,7 @@
 \xe A leopard always catches his neighbours animals and eats them.
 \rf Tape:2-1-388
 \rf Stewart List:0627
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx dunka
 \ph dúŋká
@@ -6999,14 +6996,14 @@
 \ph fãntɪʔ
 \ps n
 \ge cricket
-\sd TN-
+\sd TN-I.B.3.b
 \de cricket
 \pl afantɩ
 \ph afã́ntɪʔ
 \xv Otsu lɛkɩta afantɩ. Abɔ́wɩ!
 \xe He has come from catching crickets. We will eat!
 \rf Tape:2-1-445
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx fata
 \ph fataʔ
@@ -7271,7 +7268,7 @@
 \ph fiɱfiʔ(L)
 \ps n
 \ge ant
-\sd TN-
+\sd TN-I.B.3.b
 \de a small black ant that stings (but not severely); generic term
 \pl afinfi
 \ph afíɱfiʔ(L)
@@ -7291,7 +7288,7 @@
 \cf ɔkpan
 \cf ɔtɔntrɔbwɩ
 \cf kɔklɔ
-\dt 17/Aug/2012
+\dt 28/Jul/2013
 
 \lx finifini
 \ph fínífíní
@@ -7491,17 +7488,16 @@
 \ph foɱfloʔ
 \ps n
 \ge caterpillar
-\sd TN-
+\sd TN-I.B.3.b
 \de non-stinging caterpillar
 \pl afonflo
 \ph afoɱfloʔ
-
 \xv Konkolibatɛ asɩ itsu fonflo.
 \xe A butterfly comes from a caterpillar
 \xv Fonflo tɛdamli bwɛ konkolibatɛ.
 \xe A caterpillar turns into a butterfly.
 \cf tɔsɩ
-\dt 05/Jul/2005
+\dt 28/Jul/2013
 
 \lx fontroo
 \ph fóntróː (H)
@@ -7828,7 +7824,7 @@
 \ph fʊlɪtɪ́
 \ps n
 \ge deer
-\sd TN-
+\sd TN-I.B.1.b
 \de deer
 \pl afʋlɩtɩ
 \ph afʊlɪtɪ́
@@ -7836,7 +7832,7 @@
 \xe Deer meat is good to eat
 \rf Tape:2-1-045
 \rf Stewart List:0626
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx fʋm
 \ph fʊ́m
@@ -8038,9 +8034,9 @@
 \ph g͡bablama
 \ps n
 \ge locust
-\sd TN-
+\sd TN-I.B.3.b
 \de locust
-\dt 24/Aug/2012
+\dt 28/Jul/2013
 
 \lx gbede
 \hm 1
@@ -8203,7 +8199,7 @@
 \ph ʤabɛʔ
 \ps n
 \ge squirrel
-\sd TN-
+\sd TN-I.B.1.b
 \de tree squirrel
 \pl agyabɛ
 \ph aʤábɛ̂ʔ
@@ -8212,7 +8208,7 @@
 \xe Squirrels make nests (in trees).
 \rf Tape:2-2-169
 \rf Stewart List:0629
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx gyablɩ
 \ph ʤablɪ
@@ -8238,7 +8234,7 @@
 \ph ʤaʤaʔ
 \ps n
 \ge bat
-\sd TN-
+\sd TN-I.B.2.b
 \de bat
 \pl agyagya
 \ph aʤáʤaʔ
@@ -8246,7 +8242,7 @@
 \xe Birds and bats both fly but bats fly higher than birds.
 \rf Tape:2-2-178
 \rf Stewart List:0625
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
 \lx gyagyaagya
 \ph ʤáʤáːʤá
@@ -8344,7 +8340,7 @@
 \ph ʤasɪɛpɛʔ
 \ps n
 \ge bush pig
-\sd TN-
+\sd TN-I.B.1.b
 \de wild boar
 \pl agyasɩɛpɛ
 \ph aʤásɪ́ɛ́pɛʔ
@@ -8354,13 +8350,13 @@
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bush pigs have eaten all of my cocoyam in the farm.
 \rf Tape:2-2-207
-\dt 01/Sep/2012
+\dt 28/Jul/2013
 
 \lx gyata
 \ph ʤatá
 \ps n
 \ge lion
-\sd TN-
+\sd TN-I.B.1.b
 \de lion
 \pl agyata
 \ph aʤatá
@@ -8369,21 +8365,21 @@
 \xe The lion's waist is very slender.
 \rf Tape:2-2-212
 \rf Stewart List:0621
-\dt 17/Dec/2012
+\dt 28/Jul/2013
 
-\lx gyataɔbɔ
-\ph ʤataɔbɔ
+\lx gyata ɔbɔ
+\ph ʤata ɔbɔ
 \ps n
 \ge den; hole; lair
-\sd TN-
+\sd TN-I.B.1.b
 \de the hiding place of a lion
-\dt 01/Sep/2012
+\dt 28/Jul/2013
 
 \lx gyawugya
 \ph ʤawuʤá
 \ps n
 \ge red ant
-\sd TN-
+\sd TN-I.B.3.b
 \de tiny red ant
 \na Doesn't make permanent nests; lives in kitchens and gets into just everything.
 \pl agyawugya
@@ -8398,7 +8394,7 @@
 \cf ɔkpan
 \cf ɔtɔntrɔbwɩ
 \cf kɔklɔ
-\dt 15/Sep/2012
+\dt 28/Jul/2013
 
 \lx gyawunu
 \ph ʤawunuʔ
@@ -8677,7 +8673,7 @@
 \ph ʤonʤoʔ
 \ps n
 \ge toad
-\sd TN-
+\sd TN-I.B.3.b
 \de toad
 \pl agyongyo
 \ph aʤónʤóʔ
@@ -8685,7 +8681,7 @@
 \xe A big toad is buried (half in the dirt) at the foot of my pot. He is crying.
 \rf Tape:2-2-278
 \rf Stewart List:0764
-\dt 01/Sep/2012
+\dt 28/Jul/2013
 
 \lx gyonka
 \ph ʤoŋká
@@ -10970,7 +10966,7 @@
 \ph ɪkwɛʔ(L)
 \ps n
 \ge drum
-\sd TN-
+\sd TN-II.E.5.d.i
 \de drum
 \pl akwɛ
 \ph akwɛʔ
@@ -10982,7 +10978,7 @@
 \rf Tape:3-1-026
 \xv Ofori yin alɩa bʋtɛda akwɛ tamɛ omeyin alɩa bʋtɛtsa.
 \xe Ofori knows how to drum, but he does not know how to dance.
-\dt 01/Sep/2012
+\dt 28/Jul/2013
 
 \lx ɩla
 \ph ɪlaʔ(H)
@@ -11281,12 +11277,12 @@
 \lx ɩnya
 \ph ɪɲa
 \ps n
-\ge a tree
+\ge k.o. tree
 \sd TN-
 \de a type of a tree
 \xv Ɩnya oyi tetsia dimbisʋ, bʋtɔpʋ yi mbu
-\xe The tree is found in the desert, they use it to build houses.
-\dt 20/Sep/2005
+\xe The tree is found in the grassland they use it to build houses.
+\dt 28/Jul/2013
 
 \lx ɩnyɩn
 \ph ɪɲɪ̃ʔ (H)
@@ -12799,7 +12795,7 @@
 \ph kiãʔ
 \ps n
 \ge larvae
-\sd TN-
+\sd TN-I.B.3.c
 \de large larvae of a black beetle; eaten by children and adults
 \pl akian
 \ph akíã
@@ -12812,7 +12808,7 @@
 \xe The grub is short but if you pull on it, it stretches. Used of dragging a case out even if you are guilty, or cutting it short by accepting guilt even if you are innocent
 \nt proverb
 \rf Tape:3-1-529
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx kie
 \ph kíéʔ
@@ -13061,7 +13057,7 @@
 \ph kɪaɪʔ
 \ps n
 \ge dog
-\sd TN-
+\sd TN-II.C.6
 \de dog
 \pl akɩaɩ
 \ph akɪ́aɪʔ
@@ -13073,15 +13069,15 @@
 \rf Tape:3-2-014
 \ng pʋ tɩ take/call pʋ ɔfʋlɩ tɩ
 \rf Stewart List:0612
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx kɩaɩbi
 \ph kɪaɪbi
 \ps n
 \ge pup
-\sd TN-
+\sd TN-TN-II.C.6
 \de small dog
-\dt 14/Jul/2005
+\dt 28/Jul/2013
 
 \lx kɩansɩ
 \ph kɪansɪ́
@@ -13390,14 +13386,14 @@
 \ph klatɪ (H)
 \ps n
 \ge grass-cutter
-\sd TN-
+\sd TN-I.B.1.b
 \de grass-cutter; cane rat
 \pl aklatɩ
 \ph aklatɪ (H)
 \xv Mɩ agbla lakɩta klatɩ, aklatɩ amʋ bʋdɛ mɩ agbodi wɩ, sʋ nɛfɩnɩ amʋ́.
 \xe My trap has caught a grass-cutter. Grass-cutters are eating my cassava so I trapped them.
 \rf Tape:3-2-164
-\dt 22/Aug/2012
+\dt 28/Jul/2013
 
 \lx kle
 \ph kleʔ
@@ -13615,15 +13611,16 @@
 \ph klóbi
 \ps n
 \ge pigeon
-\sd TN-
+\sd TN-I.B.2.b
+\sd TN-II.D.2.b
 \de pigeon
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx klɔtɩ
 \ph klɔtɪ́
 \ps n
 \ge rat
-\sd TN-
+\sd TN-I.B.1.b
 \de rat; mouse
 \pl aklɔtɩ
 \ph aklɔtɪ́
@@ -13632,20 +13629,20 @@
 \rf Tape:3-2-242
 \ng dʋ wie:climb / enter (climb into)
 \rf Stewart List:0634
-\dt 12/Jan/2012
+\dt 28/Jul/2013
 
 \lx klɔtɩbʋodu
 \ph klɔtɪ́bʊódu(H)
 \ps n
 \ge type of mouse
-\sd TN-
+\sd TN-I.B.1.b
 \de type of mouse with bushy tail
 \lt klɔtɩ bʋ odu "mouse has tail"
 \pl aklɔtɩbʋodu
 \ph aklɔtɪ́bʊódu(H)
 \xv Klɔtɩbʋodu bʋ ɔdwɛ dʋn kpasi.
 \xe Klɔtɩbʋodu is sweeter than rat.
-\dt 01/Oct/2012
+\dt 28/Jul/2013
 
 \lx klukluuklu
 \ph klúkluː́klú
@@ -13754,24 +13751,24 @@
 \ph kõkolibatɛ
 \ps n
 \ge butterfly; moth
-\sd TN-
+\sd TN-I.B.3.c
 \de butterfly
 \pl akonkolɩbatɛ
 \ph akoŋkolɪbatɛ
 \xv Konkolibatɛ asɩ itsu fonflo.
 \xe A butterfly comes from a caterpillar.
 cf fonflo
-\dt 05/Jan/2012
+\dt 28/Jul/2013
 
 \lx konkolifi
 \ph kóŋkólifí
 \ps n
 \ge praying mantis
-\sd TN-
+\sd TN-I.B.3.b
 \de praying mantis
 \pl akonkolifi
 \ph akóŋkólifí
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx konkolifi nkonto
 \ph kóŋkólifí ŋkõnto(H)
@@ -13832,7 +13829,7 @@ cf fonflo
 \ph koɲaʔ
 \ps n
 \ge ant
-\sd TN-
+\sd TN-I.B.3.b
 \de driver ant
 \pl akonya
 \ph akoɲaʔ
@@ -13849,7 +13846,7 @@ cf fonflo
 \cf ɔkpan
 \cf ɔtɔntrɔbwɩ
 \cf kɔklɔ
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx kooko
 \ph kóːkó
@@ -13993,7 +13990,7 @@ cf fonflo
 \ph kɔklɔ
 \ps n
 \ge ant
-\sd TN-
+\sd TN-I.B.3.b
 \de crazy ant, are attracted to the sweet palm and gather when it is tapped
 \pl akɔklɔ
 \ph akɔklɔ
@@ -14004,7 +14001,7 @@ cf fonflo
 \cf konya
 \cf ɔkpan
 \cf ɔtɔntrɔbwɩ
-\dt 06/Aug/2012
+\dt 28/Jul/2013
 
 \lx kɔnkɩ
 \ph kɔŋkɪ́
@@ -14089,9 +14086,9 @@ cf fonflo
 \ph kɔ́tɔ́kɔ́
 \ps n
 \ge porcupine
-\sd TN-
+\sd TN-I.B.1.b
 \de porcupine
-\dt 28/Aug/2012
+\dt 28/Jul/2013
 
 \lx kpa
 \hm 1
@@ -14582,11 +14579,11 @@ cf fonflo
 \ph k͡pat͡sa
 \ps n
 \ge baboon
-\sd TN-
+\sd TN-I.B.1.b
 \de baboon
 \pl akpantsa
 \ph ak͡pat͡sa
-\dt 21/Aug/2012
+\dt 28/Jul/2013
 
 \lx kpaoo
 \ph k͡páôː
@@ -14603,7 +14600,7 @@ cf fonflo
 \ph k͡pasiʔ(L)
 \ps n
 \ge rat
-\sd TN-
+\sd TN-I.B.1.b
 \de bush rat
 \pl akpasi
 \ph ak͡pasiʔ(L)
@@ -14611,7 +14608,7 @@ cf fonflo
 \xe A certain bush rat is eating my yams, so I have trapped him. His tail is long.
 \rf Tape:3-2-475
 \rf Stewart List:0619
-\dt 05/Jul/2005
+\dt 28/Jul/2013
 
 \lx kpata
 \hm 1
@@ -14898,13 +14895,13 @@ cf fonflo
 \ph k͡pik͡plibi(H)
 \ps n
 \ge black fly
-\sd TN-
+\sd TN-I.B.3.b
 \de black fly
 \pl nkpikplibi
 \ph ŋ͡mk͡pik͡plibi(H)
 \xv Kpikplibi iduun ɩtɛha ɔha nsibi tobwie.
 \xe Black fly bites make a person blind.
-\dt 05/Jul/2005
+\dt 28/Jul/2013
 
 \lx kpini
 \hm 1
@@ -15267,7 +15264,7 @@ cf fonflo
 \ph k͡pṍk͡póli(H)
 \ps n
 \ge beetle
-\sd TN-
+\sd TN-I.B.3.b
 \de black beetle that inhabits dead palm trees
 \cf kian
 \pl akponkpoli
@@ -15279,7 +15276,7 @@ cf fonflo
 \xe The black beetle is not fatty; His brother is the larvae.
 \na A proverb of a person who is poor, but has a powerful relative.
 \rf Tape:3-2-331
-\dt 15/Sep/2012
+\dt 28/Jul/2013
 
 \lx kpoun
 \ph k͡póṹ(H)
@@ -15366,13 +15363,13 @@ cf fonflo
 \ph k͡pɔ́sɔ́
 \ps n
 \ge camel
-\sd TN-
+\sd TN-II.D.2.a
 \de camel
 \pl akpɔsɔ
 \ph ak͡pɔ́sɔ́
 \xv Kpɔsɔ tɔsʋra atɔ dwindwin.
 \xe A camel carries heavy loads.
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx kpɔtɩ
 \ph k͡pɔ́tɪ́(H)
@@ -16246,9 +16243,9 @@ cf fonflo
 \ph kwatabi
 \ps n
 \ge beehive
-\sd TN-
+\sd TN-II.D.4.c
 \de beehive
-\dt 29/Aug/2012
+\dt 28/Jul/2013
 
 \lx kwebi
 \ph kwebi
@@ -16608,10 +16605,10 @@ cf fonflo
 \ph landûː
 \ps n
 \ge donkey
-\sd TN-
+\sd TN-II.D.2.a
 \de donkey
 \cf afrimu
-\dt 29/Aug/2012
+\dt 28/Jul/2013
 
 \lx lasa
 \ph lasaʔ
@@ -16632,12 +16629,12 @@ cf fonflo
 \ph lata(L)
 \ps n
 \ge monitor lizard
-\sd TN-
+\sd TN-I.B.3.b
 \de monitor lizard
 \pl alata
 \ph alátá(L)
 \rf Stewart List:0766
-\dt 16/Aug/2012
+\dt 28/Jul/2013
 
 \lx lata
 \hm 2
@@ -16821,7 +16818,7 @@ cf fonflo
 \ph lɛŋkɛ
 \ps n
 \ge crocodile
-\sd TN-
+\sd TN-I.B.1.b
 \de crocodile
 \xv Alɛnkɛ sɔɔn bʋ Wɩawɩa ntsutso.
 \xe There are many crocodiles in river Wiawia.
@@ -16830,20 +16827,20 @@ cf fonflo
 \xe Water that has a crocodile in it, entering it has fear, because a crocodile always eats people.
 \xe Going into crocodile infested water is dangerous because they eat people.
 \nt crocodile bile lɛnkɛ ɔlɩnkatɩ is a commonly used poison
-\dt 16/Jul/2012
+\dt 28/Jul/2013
 
 \lx lɛnkɛkpan
 \ph lɛŋkɛk͡pã́
 \ps n
 \ge crocodile
-\sd TN-
+\sd TN-I.B.1.b
 \de small crocodile
 \pl alɛnkɛkpan
 \ph alɛŋkɛk͡pã́
 \nt This is smaller than a standard crocodile and people eat it.
 \xv Lɛnkɛkpan mʋa mʋ́ pio Alɛnkɛ fɛ́ɛ́ a, bʋ ma alɛ.
 \xe The smaller and its brother the standard crocodiles are not good.
-\dt 03/Apr/2012
+\dt 28/Jul/2013
 
 \lx liga
 \ph ligá
@@ -18535,7 +18532,7 @@ cf fonflo
 \ph naniʔ
 \ps n
 \ge antelope
-\sd TN-
+\sd TN-I.B.1.b
 \de an antelope smaller than abrɛ
 \pl anani
 \ph anáníʔ
@@ -18543,7 +18540,7 @@ cf fonflo
 \xe An antelope is fast / has speed. It is a bush goat. Nani is ash in colour.
 \rf Tape:4-2-539
 \rf Stewart List:0631
-\dt 08/Sep/2012
+\dt 28/Jul/2013
 
 \lx nantata
 \ph nantataʔ
@@ -18753,7 +18750,7 @@ cf fonflo
 \ph ɱfa
 \ps n
 \ge guinea worm
-\sd TN-
+\sd TN-II.A.6.b
 \de guinea worm
 \xv Nfa bʋ batɛ mpuni amʋtɔ sʋ pʋ tsitsa.
 \xe Guinea worms are in the intestines of the chicken so throw it away.
@@ -18763,7 +18760,7 @@ cf fonflo
 \rf Tape:4-2-228
 \rf Stewart List:0770
 \nt From ths: illnesses that make us (labwɛ): nfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx nfansrɩ
 \ph ɱfánsrɪ́
@@ -20205,13 +20202,13 @@ cf fonflo
 \ph ŋʷuŋ͡mk͡pódík͡pódí
 \ps n
 \ge tadpole
-\sd TN-
+\sd TN-I.B.3.b
 \de tadpole
 \nt Nwunkpodi is a mythical character with a big head.
 \xv Nwunkpodikpodi sɔɔn bʋ Otukpe bunkpatɔ.
 \xe Many tadpoles are in the Otukpe riverbed.
 \rf Tape:5-1-486
-\dt 08/Sep/2012
+\dt 28/Jul/2013
 
 \lx nwun-nwun
 \ph ŋʷũŋʷũʔ(L)
@@ -20351,7 +20348,7 @@ cf fonflo
 \ph ɲambi(H)
 \ps n
 \ge maggot
-\sd TN-
+\sd TN-I.B.3.c
 \de maggot
 \nt the kind that grow in latrines is considered as different from the kind that grow in meat.
 \pl anyambi
@@ -20362,7 +20359,7 @@ cf fonflo
 \xv Iye amʋ lawa anyambi.
 \xe The meat has developed maggots.
 \rf Tape:5-1-509
-\dt 16/Aug/2012
+\dt 28/Jul/2013
 
 \lx nyambi
 \hm 2
@@ -20485,7 +20482,7 @@ cf fonflo
 \ph ɲaŋ͡mk͡pʊ́k͡píeʔ(L)
 \sn 1
 \ge thunder
-\sd TN-
+\sd TN-I.A.2.a
 \de thunder
 \ps n
 \xv Nyankpʋ amʋ dekpie dʋbɩ, fialɩ obotswie.
@@ -20493,7 +20490,7 @@ cf fonflo
 \rf Tape:3-2-537
 \sn 2
 \ge scorpion
-\sd TN-
+\sd TN-I.B.3.b
 \de small brown scorpion
 \nt The myth is that a scorpion bite will cause pain until the next time you hear thunder; In northern dialect this is any scorpion, in the southern this is only the big black ones. The little brown ones are aganɛ, borrowed from Ewe. Nyankpʋ kpie is cognate with other Guang languages.
 \ps n
@@ -20501,7 +20498,7 @@ cf fonflo
 \xe If a scorpion stings you it is painful.
 \rf Tape:5-1-542
 \rf Stewart List:0802
-\dt 16/Aug/2012
+\dt 28/Jul/2013
 
 \lx nyankpʋsa
 \ph ɲaŋ͡mk͡pʊsaʔ
@@ -20818,7 +20815,7 @@ cf fonflo
 \ph ŋlanwũʔ
 \ps n
 \ge millipede
-\sd TN-
+\sd TN-I.B.3.b
 \de millipede
 \pl aŋlanwun
 \ph aŋlã́nwũ̂ʔ
@@ -20826,7 +20823,7 @@ cf fonflo
 \xe The millipede has many legs.
 \rf Tape:5-2-054
 \rf Stewart List:0820
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx o
 \ph óː
@@ -21032,7 +21029,6 @@ cf fonflo
 \ph obligatory tense
 \ps v
 \ge obligatory tense
-\sd TN-
 \de verb paradigm
 \xv Ɔbɛɛ, nɩ nakʋsʋ a, nkunta mɩ atɔ dɩhɛ amʋ
 \xe He said, If I have risen I should fold my sleeping things.
@@ -21052,7 +21048,7 @@ cf fonflo
 \xv Nɩ bakʋsʋ a, bʋkunta amʋ́ atɔ dɩhɛ amʋ.
 \xe If they have risen they should fold their sleeping things.
 \rf Tape:6-2-325
-\dt 16/Jul/2012
+\dt 28/Jul/2013
 
 \lx oblikpini
 \ph oblik͡piniʔ(L)
@@ -21199,7 +21195,7 @@ cf fonflo
 \ph obubwi
 \ps n
 \ge bird
-\sd TN-
+\sd TN-I.B.2
 \de bird
 \va ebubwi
 \ve South
@@ -21215,7 +21211,7 @@ cf fonflo
 \nt From ths: kinds of wild birds: klankpa, kwankwadabi (piebald raven), klɛkpakpa (woodpecker), kpawu (owl), lasa (vulture), ɔwankɩtɩ, nwapʋ (hawk), ofwi, potofi (quail), ofulifuli (egret)
 \rf Stewart List:0701
 \rf Stewart List:0805
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx obubwi
 \hm 2
@@ -21236,7 +21232,8 @@ cf fonflo
 \ps n
 \sn 1
 \ge louse
-\sd TN-
+\sd TN-I.B.3.b
+\sd TN-II.A.6.b
 \de louse
 \pl mbubwi
 \ph mbubwi
@@ -21247,7 +21244,7 @@ cf fonflo
 \xv kpolitɔ obubwi
 \xe weevil
 \lt corn louse
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx obugya
 \ph obuʤaʔ
@@ -21351,9 +21348,9 @@ cf fonflo
 \ph odondo
 \ps n
 \ge drum
-\sd TN-
+\sd TN-II.E.5.d.i
 \de a tuneable drum played while held under the arm
-\dt 09/Aug/2012
+\dt 28/Jul/2013
 
 \lx odoun
 \ph odoũʔ
@@ -21370,7 +21367,7 @@ cf fonflo
 \ph odúʔ
 \ps n
 \ge tail
-\sd TN-
+\sd TN-I.B.1.a
 \de tail
 \xv Dei odu bʋswɩ.
 \xe A monkey's tail is long.
@@ -21386,7 +21383,7 @@ cf fonflo
 \de to develop haemorrhoids
 \xv Bɛɛ fenya gyi mankani dʋbɩ a, fɔ́lɔ odu.
 \xe They say that if you eat too much mankani you will develop haemorrhoids.
-\dt 08/Sep/2012
+\dt 28/Jul/2013
 
 \lx odu
 \hm 2
@@ -21686,14 +21683,14 @@ cf fonflo
 \ph ofutikókóníʔ(H)
 \ps n
 \ge ant lion
-\sd TN-
+\sd TN-I.B.3.b
 \de ant lion
 \pl nfutikokoni
 \ph ɱfutikokoni
 \xv Ofutikokoni amʋ dɛ ɩsɩ tutu.
 \xe The ant lion is throwing up sand.
 \rf Tape:6-2-478
-\dt 23/Aug/2012
+\dt 28/Jul/2013
 
 \lx ofwi
 \ph ofwi(H)
@@ -21750,14 +21747,14 @@ cf fonflo
 \ph og͡bõʔ
 \ps n
 \ge red head lizard
-\sd TN-\
+\sd TN-I.B.3.b
 \de red headed agama lizard
 \pl ngbon
 \ph ŋmg͡bõʔ
 \xv Tɛplɛ onun nfɔ a, Ogbon lahɔ nwun pɛ.
 \xe Cockroach drinks the oil, but red headed lizard gets the red head.
 \nt the innocent get blamed for the work of the guilty.
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx ogya
 \ph oʤáʔ(H)
@@ -21835,13 +21832,13 @@ cf fonflo
 \ph oʤáŋɛ̂ʔ
 \ps n
 \ge firefly
-\sd TN-
+\sd TN-I.B.3.b
 \de firefly
 \xv Ogyaŋɛ amʋ dɛ ogya kpa.
 \xe The firefly is flashing.
 \xv Nɩ aha akʋ bowun ogyaŋɛ amʋ dɛ ogya kpa a, bɛɛ bawun ɔkpɛpʋ.
 \xe When some people see firefly flashing, they think they have seen a witch.
-\dt 01/Sep/2012
+\dt 28/Jul/2013
 
 \lx ogyasi
 \ph oʤásîʔ(L)
@@ -22065,7 +22062,7 @@ cf fonflo
 \ph ókléʔ
 \ps n
 \ge frog
-\sd TN-
+\sd TN-I.B.3.b
 \de frog
 \pl nkle
 \ph ŋ́kléʔ
@@ -22075,20 +22072,20 @@ cf fonflo
 \xe The Yorubas eat all kinds of toads and snakes.
 \rf Tape:6-2-558
 \cf gyongyo
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx oklemgbe
 \ph oklemgbeʔ
 \ps n
 \ge shrew
-\sd TN-
+\sd TN-I.B.3.b
 \de shrew that lives in town
 \pl nklemgbe
 \ph ŋklemgbe
 \xv Oklemgbe tɔwɩ batɛ abi.
 \xe A shrew always eats chicks.
 \rf Tape:6-2-563
-\dt 05/Jul/2005
+\dt 28/Jul/2013
 
 \lx okluklukpa
 \ph okluklúk͡pá
@@ -22225,14 +22222,14 @@ cf fonflo
 \ph ok͡pók͡po(H)
 \ps n
 \ge ram
-\sd TN-
+\sd TN-II.D.2.a
 \de a male sheep; a ram
 \pl nkpokpo
 \ph ŋ͡mk͡pók͡po(H)
 \xv Ndekle ánɩ́ mɩ okpokpo omoni sʋ a, naflo mʋ.
 \xe I want my ram to be big so I have castrated him.
 \rf Tape:6-2-586
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx okponkpo
 \ph ok͡poŋ͡mk͡póʔ
@@ -22531,7 +22528,7 @@ cf fonflo
 \ph ólǒːʔ
 \ps n
 \ge crocodile
-\sd TN-
+\sd TN-I.B.1.b
 \de crocodile
 \pl nloo
 \ph nlǒː
@@ -22540,7 +22537,7 @@ cf fonflo
 \xe A crocodile has a long mouth that it uses to catch fish in the lake so don't enter the water.
 \va lɛnkɛ
 \ve North
-\dt 16/Jul/2012
+\dt 28/Jul/2013
 
 \lx olu
 \hm 1
@@ -22890,7 +22887,8 @@ cf fonflo
 \ph opitre(H)
 \ps n
 \ge mudfish
-\sd TN-
+\sd TN-I.B.3.d
+\sd TN-II.D.3
 \de mudfish
 \pl mpitre
 \ph mpitre
@@ -22899,7 +22897,7 @@ cf fonflo
 \xv Opitre ɩwɩ bʋ ɔpɩlɩ, ɩnɩsʋ ɩbʋ ɔlɩn ánɩ́ fɔ́pʋ ɩbɩ kɩta mʋ.
 \xe Mudfish is slippery, therefore it is difficult to catch it with your hand
 \nt kinds of fish: klɛmɛtɩ (fish), kpakokwe (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ɔtsabi (small fish), okuku (tilapia)opitre (mudfish)
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx oplimbi
 \ph oplimbi(H)
@@ -22940,9 +22938,9 @@ cf fonflo
 \ph oplintíbi
 \ps n
 \ge small drum
-\sd TN-
+\sd TN-II.E.5.d.i
 \de a kind of small drum
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx opotsua
 \ph opot͡sua(H)
@@ -23322,7 +23320,7 @@ cf fonflo
 \ph oteduʔ
 \ps n
 \ge tail feathers
-\sd TN-
+\sd TN-I.B.2.a
 \de the tail of a bird
 \nt possibly from odu (tail) + ɩtɛ (feather)
 \xv Batɛ amʋ otedu labla dʋbɩ, sʋ tsitsii mʋ́, mɛnɩ ɔbɔ́wa akɩlɛ.
@@ -23330,7 +23328,7 @@ cf fonflo
 \xv Akoo otedu lɛpɛ ɩbʋ akɩlɛ.
 \xe The tail of a parrot is red and beautiful.
 \nt Because they say if the tail is too bushy the chicken won't grow fat.
-\dt 05/Jul/2005
+\dt 28/Jul/2013
 
 \lx otintɔ
 \ph otintɔ(H)
@@ -23904,7 +23902,7 @@ cf fonflo
 \ph oyit͡suʔ
 \ps n
 \ge eagle
-\sd TN-
+\sd TN-I.B.2.b
 \de large eagle
 \pl ayitsu
 \ph ayit͡suʔ
@@ -23912,7 +23910,7 @@ cf fonflo
 \xv Oyitsu gyi obubwi ánɩ́ olomoni. Ɔmʋ́a ɔlɛhɩɛ moni a, ototsu aha.
 \xe An eagle is a large bird. The largest take people.
 \rf Stewart List:0719
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx ɔ-
 \hm 1
@@ -24181,13 +24179,13 @@ cf fonflo
 \ph ɔblákɪtɪ
 \ps n
 \ge gecko
-\sd TN-
+\sd TN-I.B.3.b
 \de wall gecko
 \pl mblakɩtɩ
 \ph mblákɪtɪ
 \xv Kebi amʋ lamɔ ɔblakɩtɩ amʋ́ʋ́ ɔpan buntiisʋ amʋ.
 \xe The child has killed the wall gecko which was on the wall.
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx ɔblakwɛ
 \ph ɔblakwɛʔ
@@ -24223,14 +24221,14 @@ cf fonflo
 \ph ɔblatɪ̂ːʔ
 \ps n
 \ge small snail
-\sd TN-
+\sd TN-I.B.3.b
 \de a small snail
 \pl mblatɩɩ
 \ph mblatɪ̂ːʔ
 \xv Mblatɩɩ bʋtetsia kpoli pɔpwɛ ndɔtɔ.
 \xe Small snails live in new corn farms.
 \rf Tape:5-2-189
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx ɔblɩ
 \hm 1
@@ -24446,7 +24444,7 @@ cf fonflo
 \ph ɔbʷɪ(H)
 \ps n
 \ge animal
-\sd TN-
+\sd TN-I.B
 \de an animal, non-human animate thing
 \pl mbʷɩ
 \ph mbwɪ
@@ -24463,7 +24461,7 @@ cf fonflo
 \nt kinds of fish: klɛmɛtɩ (fish), kpakokwe (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ɔtsabi (small fish), okuku (tilapia)opitre (mudfish)
 \nt From ths: kinds of ants: baba (termites), finfi (ant - generic), gyawugya (tiny red ant), konya (driver ant), ɔkpan (large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ (crazy ant)
 \rf Stewart List:0601
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx ɔda
 \ph ɔdaʔ
@@ -25101,12 +25099,12 @@ cf fonflo
 \ph ɔhã
 \ps n
 \ge flying squirrel
-\sd TN-
+\sd TN-I.B.1.b
 \nt this is a rare tone pattern (low tone nasalization with no glottal stop)
 \de flying squirrel
 \xv Ɔtapʋ amʋ lɔmɔ ɔhan igye onye.
 \xe The hunter killed a flying squirrel yesterday.
-\dt 05/Jul/2012
+\dt 28/Jul/2013
 
 \lx ɔhandɛ
 \ph ɔhandɛʔ
@@ -25327,7 +25325,7 @@ cf fonflo
 \ph ɔkɛkɛ́
 \ps n
 \ge grasshopper
-\sd TN-
+\sd TN-I.B.3.b
 \de small grasshopper
 \pl nkɛkɛ
 \ph ŋkɛkɛ́
@@ -25335,7 +25333,7 @@ cf fonflo
 \xv Ɔkɛkɛ amʋ gyon buntisʋ, batɛ lofuli ánɩ́ ɔbɔ́tswɛ mʋ alɩ a, olotu si mʋ.
 \xe The grasshopper was perched on the wall, a chicken flew in order to catch him so, he took off and left him.
 \rf Tape:5-2-424
-\dt 24/Aug/2012
+\dt 28/Jul/2013
 
 \lx ɔkɛkɛɛkɛ
 \ph ɔkɛkɛːkɛ
@@ -25429,7 +25427,7 @@ cf fonflo
 \ph ɔklɛbɔ
 \ps n
 \ge turtle
-\sd TN-
+\sd TN-I.B.1.b
 \de turtle
 \pl nklɛbɔ
 \ph ŋklɛbɔ
@@ -25437,7 +25435,7 @@ cf fonflo
 \xe Turtle is a water tortoise.
 \xv Ɔklɛbɔ oboyi bʋswɩ dʋn sawun.
 \xe Turtle's neck is longer than tortoise's.
-\dt 05/Jul/2005
+\dt 28/Jul/2013
 
 \lx Ɔklɩfɔ
 \ph ɔklɪ́fɔ
@@ -25474,7 +25472,7 @@ cf fonflo
 \ph ɔkɔɱfɔbowuo(H)
 \ps n
 \ge chameleon
-\sd TN-
+\sd TN-I.B.3.b
 \de chameleon
 \pl nkɔmfɔbowuo
 \ph ŋkɔɱfɔbowuo(H)
@@ -25485,7 +25483,7 @@ cf fonflo
 \xv Ɔkɔmfɔbowuo tɛnatɩ pʋtɔɔ fɛ owie.
 \xe Chameleon walks slowly like a chief.
 \rf Stewart List:0767
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx ɔkɔntɩ
 \ph ɔkɔntɪ
@@ -25504,7 +25502,8 @@ cf fonflo
 \ph ɔkɔ́tɔ(H)
 \ps n
 \ge crab
-\sd TN-
+\sd TN-I.B.3.d
+\sd TN-II.D.3
 \de crab
 \pl nkɔtɔ
 \ph ŋkɔ́tɔ(H)
@@ -25515,7 +25514,7 @@ cf fonflo
 \xe They never steal a crab and chew it.
 \rf Tape:5-2-476
 \rf Stewart List:0771
-\dt 01/Oct/2012
+\dt 28/Jul/2013
 
 \lx ɔkpa
 \ph ɔk͡pa(H)
@@ -25677,7 +25676,7 @@ cf fonflo
 \ph ɔk͡pã́ʔ
 \ps n
 \ge ant
-\sd TN-
+\sd TN-I.B.3.b
 \de a large black stinging ant
 \pl akpan
 \ph ak͡pã́ʔ
@@ -25694,7 +25693,7 @@ cf fonflo
 \cf konya
 \cf ɔtɔntrɔbwɩ
 \cf kɔklɔ
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx ɔkpankpa
 \ph ɔk͡pãŋ͡mk͡pá
@@ -25711,14 +25710,14 @@ cf fonflo
 \ph ɔk͡pataku(H)
 \ps n
 \ge aardvark
-\sd TN-
+\sd TN-I.B.1.b
 \de not sure
 \pl nkpataku
 \ph ŋ͡mk͡pataku(H)
 \bw Akan fi:pataku
 \xv Ɔkpataku lomoni. Ogyi fɛ ɔprakuo. Mʋ ɔnɔ bʋswɩ. Ɔtɛkɩta mbwɩ fɛ akufa, akpala aná wɩ.
 \xe An ɔpataku is big. It is like a pig. It's mouth is long. It catches animals like sheep and goats and this sort and eats them.
-\dt 30/Aug/2012
+\dt 28/Jul/2013
 
 \lx ɔkpɛ
 \hm 1
@@ -25867,7 +25866,8 @@ cf fonflo
 \ph ɔkʊ́abíʔ
 \ps n
 \ge lake fish
-\sd TN-
+\sd TN-I.B.3.d
+\sd TN-II.D.3
 \de lake fish that can grow longer than a man's height
 \pl akʋabi
 \ph akʊ́abí
@@ -25877,7 +25877,7 @@ cf fonflo
 \xe It can grow to a man's height (and bigger)
 \xv Sʋ nɩ bɛlɛ mʋ a, bʋtɛkaka mʋtɔ, asa bʋtɛfɛ.
 \xe So if they catch them they cut them up into pieces before they sell them.
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx ɔkʋn
 \ph ɔkʊ̃ʔ
@@ -25933,13 +25933,14 @@ cf fonflo
 \ph ɔkʷɛ̃́ʔ
 \ps n
 \ge honey
-\sd TN-
+\sd TN-I.B.3.a
+\sd TN-II.D.4.c
 \de honey
 \xv Ɔkwɛn gyi debidebi. Awʋnsa tɔbwɛ mʋ́.
 \xe Honey is very sweet. Bees make it.
 \rf Tape:5-2-581
 \rf Stewart List:0809
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx ɔkwɩɩkɛ
 \ph ɔkwɪ̌ːkɛ
@@ -26557,7 +26558,7 @@ cf fonflo
 \ph ɔnant͡swie(H)
 \ps n
 \ge cow
-\sd TN-
+\sd TN-II.D.2.a
 \de cow
 \pl nnantwie
 \ph nnantwie(H)
@@ -26569,15 +26570,15 @@ cf fonflo
 \xe All animals ran but as soon as a cow runs, they say it is mad.
 \rf Tape:6-1-154
 \rf Stewart List:0614
-\dt 21/Aug/2012
+\dt 28/Jul/2013
 
 \lx ɔnantswiebi
 \ph ɔnant͡swɪebi
 \ps n
 \ge calf
-\sd TN-
+\sd TN-II.D.2.a
 \de calf
-\dt 29/Aug/2012
+\dt 28/Jul/2013
 
 \lx ɔnaplɔɩ
 \ph ɔnáplɔ́ɪ
@@ -27034,7 +27035,7 @@ cf fonflo
 \ph ɔpɔŋkɔ(H)
 \ps n
 \ge horse
-\sd TN-
+\sd TN-II.D.2.a
 \de horse
 \pl mpɔnkɔ
 \ph mpɔŋkɔ(H)
@@ -27045,7 +27046,7 @@ cf fonflo
 \xe The police horse riders have attack the hawkers.
 \rf Tape:6-1-332
 \rf Stewart List:0611
-\dt 16/Jul/2012
+\dt 28/Jul/2013
 
 \lx ɔprada
 \ph ɔpráda
@@ -27065,7 +27066,7 @@ cf fonflo
 \ph ɔprákuo(H)
 \ps n
 \ge pig
-\sd TN-
+\sd TN-II.D.2.a
 \de pig
 \pl mprakuo
 \ph mprákuo(H)
@@ -27074,7 +27075,7 @@ cf fonflo
 \xe No matter how you wash a pig, it will return to the muddy place.
 \rf Tape:6-1-340
 \rf Stewart List:0615
-\dt 01/Oct/2012
+\dt 28/Jul/2013
 
 \lx ɔprɩm
 \ph ɔprɪm
@@ -27660,7 +27661,7 @@ cf fonflo
 \ph ɔ́tɛ(L)
 \ps n
 \ge ground squirrel
-\sd TN-
+\sd TN-I.B.1.b
 \de ground squirrel
 \pl ntɛ
 \ph ntɛ
@@ -27670,7 +27671,7 @@ cf fonflo
 \xv Ɔtɛ tɔwɩ kɩtɩba dʋbɩ.
 \xe Ground squirrel eats groundnut too much.
 \rf Tape:6-1-466
-\dt 17/Aug/2012
+\dt 28/Jul/2013
 
 \lx ɔtɛntɛ
 \ph ɔtɛ́ntɛ
@@ -27776,7 +27777,7 @@ cf fonflo
 \ph ɔtɔntrɔbwɪ(H)
 \ps n
 \ge ants
-\sd TN-
+\sd TN-I.B.3.b
 \de small, black, non-biting ants
 \pl ntɔntrɔbwɩ
 \ph ntɔntrɔbwɪ(H)
@@ -27797,7 +27798,7 @@ cf fonflo
 \sd TN-
 \de the smallest morsel imaginable
 \lt ant's eye
-\dt 06/Aug/2012
+\dt 28/Jul/2013
 
 \lx ɔtɔtɔ
 \ph ɔtɔ́tɔ́
@@ -27873,7 +27874,7 @@ cf fonflo
 \ph ɔt͡sak͡pa
 \ps n
 \ge hedgehog
-\sd TN-
+\sd TN-I.B.1.b
 \de bush-tailed porcupine
 \nt minimal tonal pair with ɔtsâkpa - dancing place and ɔtsakpa stepping place
 \nt This animal has spines on its back and the end of the tail is like a head of rice, when it shakes it, it rattles. It does not roll up when frightened.
@@ -27882,7 +27883,7 @@ cf fonflo
 \xv Ɔtsakpa gyi fɛ klatɩ, tamɛ olomoni dʋn klatɩ, ɔtɔwɩ mankani ndɔtɔ.
 \xe Ɔtsakpa is like a grass-cutter but he is bigger than a grass-cutter, he eats cocoyam on the farm.
 \rf Tape:6-1-501
-\dt 28/Dec/2012
+\dt 28/Jul/2013
 
 \lx ɔtsan
 \ph ɔt͡sãʔ
@@ -28181,10 +28182,10 @@ cf fonflo
 \ph ɔwãmpʊ
 \ps n
 \ge hawk
-\sd TN-
+\sd TN-TN-I.B.2.b
 \de hawk
 \nt synonym to ɔwankɩtɩ
-\dt 02/Apr/2012
+\dt 28/Jul/2013
 
 \lx ɔwantɩntsu
 \ph ɔwantɪnt͡sú
@@ -28215,10 +28216,10 @@ cf fonflo
 \lx ɔwɩa
 \ph ɔwɪá
 \ps n
-\ge type of rat
-\sd TN-
+\ge k.o.rat
+\sd TN-I.B.1.b
 \de a type of rat that lives in hole in the ground
-\dt 12/Jan/2012
+\dt 28/Jul/2013
 
 \lx ɔwɔlɩ
 \ph ɔwɔ́lɪ́ʔ
@@ -30468,7 +30469,7 @@ cf fonflo
 \ph sisaʔ
 \ps n
 \ge housefly
-\sd TN-
+\sd TN-I.B.3.b
 \de housefly
 \pl asisa
 \ph asísa
@@ -30476,7 +30477,7 @@ cf fonflo
 \xe The fly says "The world is in front and behind" (referring to when the fly rubs its head with its front legs)
 \nt proverb
 \rf Stewart List:0801
-\dt 26/Dec/2012
+\dt 28/Jul/2013
 
 \lx sisi
 \ph sísi
@@ -30617,9 +30618,10 @@ cf fonflo
 \ph soholi
 \ps n
 \ge ostrich
-\sd TN-
+\sd TN-I.B.1.b
+\sd TN-I.B.2.b
 \de ostrich
-\dt 15/Jul/2005
+\dt 28/Jul/2013
 
 \lx sɔ
 \hm 1
@@ -30776,7 +30778,7 @@ cf fonflo
 \ph srʊ́fɔ́
 \ps n
 \ge elephant
-\sd TN-
+\sd TN-I.B.1.b
 \de elephant
 \pl asrʋfɔ
 \ph asrʊ́fɔ́
@@ -30786,15 +30788,15 @@ cf fonflo
 \nt When an elephant takes lead, you don't become wet with dews. (When an old man is with you, you don't suffer.
 \rf Tape:7-1-011
 \rf Stewart List:0617
-\dt 16/Jul/2012
+\dt 28/Jul/2013
 
 \lx srʋfɔbɩ
 \ph srʊ́fɔ́bɪ
 \ps n
 \ge trunk
-\sd TN-
+\sd TN-I.B.1.b
 \de elephant's trunk
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx su
 \ph su (L)
@@ -31192,13 +31194,13 @@ cf fonflo
 \ph sʊramá
 \ps n
 \ge wasp
-\sd TN-
+\sd TN-I.B.3.c
 \de wasp that make paper nest
 \pl asʋrama
 \ph asʊramá
 \xv Asʋrama bʋtekle atɔ debidebi, mʋ́sʋ bʋtetsia nta futututɔ.
 \xe Wasps like sweet things that is why the like palm wine.
-\dt 10/Jan/2012
+\dt 28/Jul/2013
 
 \lx sʋsʋpʋ
 \hm 1
@@ -31799,7 +31801,7 @@ cf fonflo
 \ph tɛ̂plɛ̌ʔ
 \ps n
 \ge cockroach
-\sd TN-
+\sd TN-I.B.3.b
 \de cockroach
 \pl atɛplɛ
 \ph atɛ̂plɛ̌ʔ
@@ -31810,7 +31812,7 @@ cf fonflo
 \xe Yesterday I saw a cockroach in my bag, unexpectedly, cockroaches are eating my clothes.
 \rf Tape:7-1-431
 \rf Stewart List:0816
-\dt 03/Apr/2012
+\dt 28/Jul/2013
 
 \lx tɛtɛ
 \hm 1
@@ -31885,13 +31887,13 @@ cf fonflo
 \ph tiapʊ
 \ps n
 \ge gazelle
-\sd TN-
+\sd TN-I.B.1.b
 \de gazelle
 \pl atiapʋ
 \ph atíápʊ
 \xv Tiapʋ iyietɔ ma ɔdwɛ, sʋ aha bʋtamakle mʋ́ asʋn.
 \xe The meat of gazelle is not of a good taste, so people do not like it.
-\dt 05/Jul/2005
+\dt 28/Jul/2013
 
 \lx Tigari
 \ph Tígarí
@@ -32501,7 +32503,7 @@ cf fonflo
 \ph tɔsɪʔ(L)
 \ps n
 \ge caterpillar
-\sd TN-
+\sd TN-I.B.3.b
 \de a kind of caterpillar. It stings, and is green with long hairs. It live under leaves
 \pl atɔsɩ
 \ph atɔ́sɪ̂ʔ(L)
@@ -32511,7 +32513,7 @@ cf fonflo
 \xv Mɩ kufa lawɩ ɩfá. Sa, tɔsɩ bʋ mʋ́ sʋ, sʋ odekle ánɩ́ obowu.
 \xe My sheep has eaten grass. Unexpectedly, caterpillar was on it, so it is dying.
 \rf Tape:7-2-042
-\dt 17/Aug/2012
+\dt 28/Jul/2013
 
 \lx tɔsɩ
 \hm 2
@@ -32779,9 +32781,9 @@ cf fonflo
 \ph t͡sámboyí
 \ps n
 \ge civet cat
-\sd TN-
+\sd TN-I.B.1.b
 \de civet cat
-\dt 21/Aug/2012
+\dt 28/Jul/2013
 
 \lx tsan
 \hm 1
@@ -32822,7 +32824,7 @@ cf fonflo
 \ph t͡sãŋkasɪ
 \ps n
 \ge earthworm
-\sd TN-
+\sd TN-I.B.3.b
 \de earthworm
 \pl atsankasɩ
 \ph at͡saŋkasɪ
@@ -32834,7 +32836,7 @@ cf fonflo
 \xe The child has stomach worms.
 \rf Tape:7-2-219
 \rf Stewart List:0769
-\dt 21/Aug/2012
+\dt 28/Jul/2013
 
 \lx tsankɩ
 \ph t͡sã́ŋkɪ́
@@ -32872,9 +32874,9 @@ cf fonflo
 \ph t͡sant͡sraku
 \ps n
 \ge centipede
-\sd TN-
+\sd TN-I.B.3.b
 \de centipede
-\dt 21/Aug/2012
+\dt 28/Jul/2013
 
 \lx tsatsa
 \ph t͡sát͡sâʔ)L 
@@ -35220,13 +35222,13 @@ cf fonflo
 \ph wʊlʊʔ
 \ps n
 \ge tsetse fly
-\sd TN-
+\sd TN-I.B.3.b
 \de tsetse fly
 \pl awʋlʋ
 \xv Wʋlʋ todun aha, kpɩ amʋ́ obugya.
 \xe A tsetse fly bites people and sucks their blood.
 \rf Tape:8-2-315
-\dt 05/Jul/2005
+\dt 28/Jul/2013
 
 \lx wʋna
 \ph wʊ́na
