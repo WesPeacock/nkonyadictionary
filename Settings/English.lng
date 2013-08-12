@@ -114,8 +114,9 @@ N n P p Q q R r S s T t V v W w X x Y y Z z
 
 \-varset
 \+fnt 
-\Name Times New Roman
+\Name Doulos SIL
 \Size 11
+\charset 00
 \rgbColor 0,0,0
 \-fnt
 \kbdWin32 US
@@ -125,4 +126,5 @@ N n P p Q q R r S s T t V v W w X x Y y Z z
 
 \-KeyDefs
 \UnicodeLang
+
 \-LanguageEncoding
