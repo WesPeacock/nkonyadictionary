@@ -904,7 +904,7 @@
 
 \+fil checkps
 \mkr ps
-\txt loc
+\txt n
 \match_char c
 \-fil
 
