@@ -1,4 +1,5 @@
 \_sh v3.0  745  MDF 4.0
+\_DateStampHasFourDigitYear
 
 \lx a
 \hm 4
@@ -102,10 +103,9 @@
 \ge people
 \sd TN-II.E.1.a
 \de people
-\nt from aba anyɔ
 \nt abanyɔ (two people) abasa (three people), abana (four people), abanu (five people), abasie (six people)
 \cf tɔkʋ for inanimate objects
-\dt 28/Jul/2013
+\dt 13/Aug/2013
 
 \lx aba
 \hm 2
@@ -429,7 +429,7 @@
 \ph abrɪwa(H)
 \ps n
 \ge old woman
-\sd TN-
+\sd TN-II.E.1.a
 \de old woman
 \pl mbrɩwa
 \ph mbrɪwa(H)
@@ -437,8 +437,8 @@
 \xv Akʋkrʋwa mʋa abrɩwa tegyi mba.
 \xe Old men and women are friendly with one another.
 \rf Stewart List:0209
-\nt terms for females: ɔtsɩ/atsɩ, ɔtsibi/atsibi, obitebi/mbitebi, abrɩwa/mbrɩwa, oyín/ayín, nana, tasii, ɔtrapʋ, opio, ɔka, ɔkaba.
-\dt 01/Dec/2012
+\nt terms for females: ɔtsɩ/atsɩ, otsibi/atsibi, obitebi/mbitebi, abrɩwa/mbrɩwa, oyín/ayín, nana, tasii, ɔtrapʋ, opio, ɔka, ɔkaba.
+\dt 14/Aug/2013
 
 \lx abrɔdʋma
 \ph abrɔ́dʊma(H)
@@ -454,7 +454,7 @@
 \ph abusuã(H)
 \ps n
 \ge family
-\sd TN-
+\sd TN-II.E.1.c
 \de family
 \ph mbusuan
 \ph mbusuã(H)
@@ -465,7 +465,7 @@
 \cf Abusuanfɔ Eng:family, the people that make up the family
 \nt Not literally, but in terms of obligation. That's why people don't trade in town, because everyone claims they are family and should get a reduced price. So you end up with no profit.
 \nt Father (ɔsɩ/sɩ), Mother (oyin/yin), child (kebi), baby (kebi bɔbwɛ), daughter(obitsibi), girl (otsibi), boy (oyinbi),
-\dt 01/Dec/2012
+\dt 13/Aug/2013
 
 \lx abususʋ
 \ph abususʊ
@@ -687,9 +687,9 @@
 \ph adʊ̃́
 \ps n
 \ge rivals
-\sd TN-
+\sd TN-II.E.1.a
 \de people opposing us
-\dt 10/Jan/2012
+\dt 14/Aug/2013
 
 \lx afa
 \ph afá
@@ -935,10 +935,10 @@
 \lx Agbagya
 \ph ag͡baʤáʔ
 \ps n
-\ge Agbadza
-\sd TN-
+\ge Agbadza dance
+\sd TN-II.E.5.d
 \de Agbadza dance from Anlo
-\dt 01/Sep/2012
+\dt 13/Aug/2013
 
 \lx agblaa
 \ph ag͡blâʔ
@@ -1075,11 +1075,11 @@
 \ph aʤawunu ɔtɔpʊ́
 \ps n
 \ge charcoal burner
-\sd TN-
+\sd TN-II.C.2.b; II.D.4
 \de charcoal burner
 \xv Agyawunu ɔtɔpʋ atadɩɛ tebi, tsufɛ agyawunu lebi.
 \xe charcoal burner's attire blackens, because charcoal is black.
-\dt 01/Sep/2012
+\dt 14/Aug/2013
 
 \lx agyilɛ
 \ph aʤílɛʔ
@@ -1201,19 +1201,19 @@
 \ps n
 \ge worker
 \de worker
-\sd TN-
-\dt 28/Jul/2013
+\sd TN-II.D.8
+\dt 14/Aug/2013
 
 \lx agywama
 \ph aʤwama(H)
 \ps n
 \ge prostitute
-\sd TN-
+\sd TN-II.D.5.b; II.E.5.c
 \de prostitute
 \bw Akan fi:adwama LLH
 \xv Agywama ɔbɔpʋ ogyi
 \xe She is a prostitute.
-\dt 01/Sep/2012
+\dt 14/Aug/2013
 
 \lx agywɩɩn
 \ph aʤwɪ̃ː(H)
@@ -1400,6 +1400,16 @@
 \xv Aklambi tswɩ bʋ ansɩgyi wanklaan.
 \xe Throwing marbles is lots of fun.
 \dt 05/Oct/2012
+
+\lx Aklɩfɔ
+\ph aklɪ́fɔ́ (H)
+\ps n
+\ge Alavanyo
+\sd TN-II.E.1.b
+\de Alavanyo; the Ewe group east of Nkonya
+\nt The Nkonyas and Alavanyos have had a long-running dispute.
+\nt The term is pejorative, from klɩ(tie)+fɔ(people).
+\dt 14/Aug/2013
 
 \lx aklodobi
 \ph aklodobí (H)
@@ -1667,7 +1677,7 @@
 \ph akʊkrʊwa(H)
 \ps n
 \ge old man
-\sd TN-
+\sd TN-II.E.1.a
 \de old man
 \pl nkʋkrʋwa
 \ph ŋkʊkrʊwa
@@ -1675,7 +1685,7 @@
 \xv Akʋkrʋwa mʋa abrɩwa tegyi mba.
 \xe Old men and women are friendly with one another.
 \rf Stewart List:0208
-\dt 01/Dec/2012
+\dt 14/Aug/2013
 
 \lx akʋn
 \ph akʊ̃́
@@ -1702,13 +1712,13 @@
 \ph akʊntá(H)
 \ps n
 \ge brother in law
-\sd TN-
+\sd TN-II.E.1.c
 \de wife's brother (opio) or sister's (opio's) husband
 \xv Oyin, nɩ fʋtobu fʋ akʋnta a, fʋ abi ansɩ tegyi amʋ́ yín woyitɔ.
 \xe O man, if you respect your brother-in-law, your children will always be happy in their mother's house.
 \rf Tape:1-1-376
 \rf Stewart List:0321
-\dt 14/May/2012
+\dt 14/Aug/2013
 
 \lx akwɛ
 \ph akwɛ
@@ -1891,9 +1901,9 @@
 \lx amɛndɩ
 \ph amɛndɪ
 \ps n
-\ge Which people
-\sd TN-
-\de which ones - of people only
+\ge which people
+\sd TN-II.E.1.a; II.B.2
+\de which ones - of people only. plural form of ma.
 \xv Nɩ amɛndɩ bɛba, asa afʋbla mɩ?
 \xe If which people should come, before you tell me?
 \rf Tape:1-1-426
@@ -1901,7 +1911,8 @@
 \xe Who are these ones (people) coming (towards us)? They are from Tepo.
 \xv Magyi ɔha anfɩ ɔba anfɩ? Mɩ bitɛpʋ nɩ.
 \xe Who is that coming? He is my uncle.
-\dt 02/Aug/2012
+\cf ɔmɛnkɛ
+\dt 14/Aug/2013
 
 \lx Amma
 \ph ámːa
@@ -2166,14 +2177,14 @@
 \ph ansibi obwiepʊ́
 \ps n
 \ge blind person
-\sd TN-
+\sd TN-II.A.6.c
 \de person that cannot see
 \pl ansibi abwiepʋ
 \ph ansibi abwiepʊ́
 \nt from ansibi bwie - broken eyes
 \xv Ansibi obwiepʋ amʋ otse ɔsʋsʋ amʋ lawu.
 \xe The man blind man staying at the top is dead.
-\dt 01/Dec/2012
+\dt 14/Aug/2013
 
 \lx ansigyi
 \ph ansíʤí
@@ -2498,13 +2509,13 @@
 \ph asafʊʔ
 \ps n
 \ge warriors
-\sd TN-
+\sd TN-II.E.1.a; II.E.5.i
 \de war band
 \bw Akan fi:asafʋ LLL
 \xv Ɔdɛ asafʋ ɔfranka amʋ wʋna.
 \xe He is waving the war group's flag
 \rf Tape:5-2-355
-\dt 05/Oct/2012
+\dt 14/Aug/2013
 
 \lx asaprada
 \ph asapráda
@@ -2644,14 +2655,14 @@
 \ph asímasi(H)
 \ps n
 \ge this person
-\sd TN-
+\sd TN-II.E.1.a
 \de a certain person, but you don't want to say the person's name. The person you are talking to know the identity but you want to keep it from a third party
 \bw Akan fi:asimasi LHLH
 \xv Asimasi ɔbɛɛ, ɔbɛ́ba ndɛ, sʋ mayɔ ɔtɩnɛtɩnɛ.
 \xe That person we know about (but someone else doesn't) said he would come today so don't go anywhere.
 \xe Don't go anywhere because you know who is coming.
 \rf Tape:1-1-583
-\dt 15/Sep/2012
+\dt 14/Aug/2013
 
 \lx asɩ
 \hm 1
@@ -2837,9 +2848,9 @@
 \ph Asʊhompeĩː
 \ps n
 \ge big ears
-\sd TN-
-\de big ears (an insult)
-\dt 02/Jan/2012
+\sd TN-II.E.1.a; II.E.5.e; II.E.1.d
+\de big ears (an insult); a mythical person with enormous ears
+\dt 14/Aug/2013
 
 \lx asʋmʋdɩɛ
 \ph asʊmʊdɪ́ɛ́ (H)
@@ -3032,33 +3043,33 @@
 \ph atɔ owũ̂mpʊʔ
 \ps n
 \ge diviner
-\sd TN-
+\sd TN-II.E.1.a; II.B.6.a
 \de one who sees the future
 \pl atɔ awunpʋ
 \ph atɔ awũ̂mpʊ
 \na Some people just see things in a vision, but some people use various methods such as looking in water.
 \xv Atɔ owunpʋ towun atɔ ánɩ́ bɛ́ba, bla aha mɛnɩ bɛ́da wɩsʋ?
 \xe A diviner sees the things that will come and tells people so that they can watch out.
-\dt 16/Dec/2012
+\dt 14/Aug/2013
 
 \lx atɔ ɔbɩnpʋ
 \ph atɔ́ ɔbɪ̃́mpʊ
 \ps n
 \ge seamstress/tailor
-\sd TN-
+\sd TN-II.E.1.a; II.D.6.b
 \de seamstress or tailor
 \pl atɔ abɩnpʋ
 \ph atɔ́ abɪ́npʊ
 \xv Atɔ ɔbɩnpʋ amʋ dɛ mɩ atadɩɛ bɩn.
 \xe The seamstress/tailor is sewing my clothes.
 \nt see bɩn
-\dt 28/Dec/2012
+\dt 14/Aug/2013
 
 \lx atɔ ɔfɛpʋ
 \ph atɔ́ ɔfɛpʊ́ʔ
 \ps n
 \ge trader
-\sd TN-
+\sd TN-II.E.1.a; II.D.5.b
 \de petty trader
 \pl atɔ afɛpʋ
 \ph atɔ́ afɛpʊ́
@@ -3066,19 +3077,19 @@
 \xe The petty trader bought things in order to come and sell.
 \cf bia ogyipʋ (merchant)
 \cf fɛ (sell)
-\dt 01/Dec/2012
+\dt 14/Aug/2013
 
 \lx atɔ ɔlapʋ
 \ph atɔ́ ɔlapʊ́
 \ps n
 \ge soothsayer
-\sd TN-
+\sd TN-II.E.1.a; II.B.6.a
 \de a person who practice soothsaying
 \pl atɔ alapʋ
 \ph atɔ́ alapʊ́
 \xv Oyin ɔkʋ lawun isuna ánɩ́ omonu mʋ́ asɩ, sʋ ɔyɔ atɔ ɔlapʋ woyi yɛfɩtɛ atɔ.
 \xe A certain man has seen a sign which he did not understand, so he is going to a soothsayer's house to consult him.
-\dt 01/Dec/2012
+\dt 14/Aug/2013
 
 \lx atɔkɩehɛ
 \ph atɔkɪéhɛ
@@ -3092,11 +3103,11 @@
 \ph atɔ́la
 \ps n
 \ge soothsaying
-\sd TN-
+\sd TN-II.B.6.a
 \de soothsaying
 \xv Atɔla teyinta atɔ.
 \xe Soothsaying spoils things.
-\dt 16/Dec/2012
+\dt 14/Aug/2013
 
 \lx atɔsʋrahɛ
 \ph atɔ́sʊráhɛ́
@@ -3436,14 +3447,6 @@
 \de people from other Nkonya towns especially another dialect
 \nt should be sub-entry under wulu. A polite term for other Nkonyas
 \dt 17/Dec/2012
-
-\lx awunso
-\ph awunso
-\ps n
-\ge top
-\sd TN-
-\de high place
-\dt 12/Jul/2005
 
 \lx awunsʋ
 \ph awunsʊ
@@ -4180,24 +4183,32 @@
 \ph bíté
 \ps n
 \ge first born
-\sd TN-II.E.1.a
+\sd TN-II.E.1.c
 \de first born
-\dt 27/Jul/2013
+\dt 14/Aug/2013
 
 \lx bitɛpʋ
 \ph bitɛpʊ(H)
 \ps n
+\lc obitɛpʋ
+\ph obitɛpʊʔ
+\pl abitɛpʋ
+\ph abitɛpʊʔ
 \sn 1
 \ge nephew / niece
-\sd TN-
+\sd TN-II.E.1.c
 \de child of man's sister
 \na This is a reciprocal relationship. The uncle and the nephew / neice will call each other "Bitɛpʋ."
 \sn 2
 \ge uncle
-\sd TN-
+\sd TN-II.E.1.c
 \de brother of child's mother
-\cf wɔfa
-\dt 17/Aug/2012
+\xv Nkonyafɔ bʋtegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋtegyi abitɛpʋ klɛ.
+\xe Nkonyas (they) inherit fathers' possessions, but Ashantis inherit their maternal uncle's
+\rf Tape:1-1-229
+\xv Bɔ́pʋ owie pɔpwɛ amʋ ya mʋ bitɛpʋ ánɩ́ ɔbɛ́kɩ mʋsʋ.
+\xe They will take the new chief to his mother's brother that will look after him.
+\dt 14/Aug/2013
 
 \lx bitiwie
 \ph bitíwíé
@@ -5950,6 +5961,7 @@
 \dt 15/Sep/2012
 
 \lx datobi
+\ph datobi
 \ge nail
 \ge small metal thing
 \sd TN-II.D.6.e
@@ -5958,7 +5970,7 @@
 \xv Datɔbi kʋ pɛ bʋtɔpʋ wa ɔpɔnkɔ ɔnɔ, pʋ damli mʋ suna mʋ tɔa ɔbwɛ.
 \xe A small bit only they put in a horse's mouth, to turn it and show it what it should do.
 \rf Tape:6-1-332
-\dt 28/Jul/2013
+\dt 13/Aug/2013
 
 \lx datɔ
 \ph dátɔ (L)
@@ -6440,7 +6452,7 @@
 \ph dɔkɪ́ta
 \ps n
 \ge doctor
-\sd TN-
+\sd TN-II.E.1.a; II.E.3.d
 \de doctor
 \pl adɔkɩtafɔ
 \ph adɔkɪ́tafɔ
@@ -6448,7 +6460,7 @@
 \xe The man has studied hard to become a doctor.
 \xv Dɔkɩta amʋ latsa ɔtsɩ anfɩ ɔdɛ kwata ɩlɔ amʋ.
 \xe The doctor has cured this leprous woman
-\dt 10/Jan/2012
+\dt 14/Aug/2013
 
 \lx dɔkʋnʋ
 \ph dɔkʊ́nʊ́
@@ -6786,6 +6798,8 @@
 \ge axe
 \sd TN-
 \de axe
+\va ɔfɛ
+\ve North
 \va ɔfɛ bangya
 \ve North
 \ph ɔfɛ́ bã́ʤá
@@ -6951,9 +6965,9 @@
 \ph Fáda
 \ps n
 \ge Father
-\sd TN-
+\sd TN-II.B.6.c
 \de Catholic father
-\dt 27/Aug/2012
+\dt 14/Aug/2013
 
 \lx fakaa
 \ph fákáː (H)
@@ -8038,12 +8052,12 @@
 \ph g͡bedéʔ(H)
 \ps n
 \ge blacksmith
-\sd TN-
+\sd TN-II.D.6.g
 \de blacksmith
 \xv Gbede dɛ otsobi amʋ ɔnɔ daɩ.
 \xe The blacksmith is hammering the hoe blade (to sharpen it).
 \rf Stewart List:1424
-\dt 16/Jul/2012
+\dt 14/Aug/2013
 
 \lx gbengbe
 \ph g͡bẽŋ͡mg͡bé
@@ -8115,12 +8129,12 @@
 \ph geʤefé(H)
 \ps n
 \ge hunchback
-\sd TN-
+\sd TN-II.D.2.a; II.A.6.c
 \de a hunchback; hump on the back of a cow
 \bw Ewe fi:gegyeve
 \xv Gegyefe mʋ wie tamawun mʋ ɔma gegyefe, tamɛ otowun mʋ ba klɛ.
 \xe The owner of a hunched back never sees his own hump, but he always sees his neighbours.
-\dt 01/Sep/2012
+\dt 14/Aug/2013
 
 \lx gowa
 \ph gowa
@@ -9272,7 +9286,7 @@
 \ph ibíá óʤípʊ́ʔ
 \ps n cf gyi bia
 \ge merchant
-\sd TN-
+\sd TN-TN-II.E.1.a; II.D.5.b
 \de merchant
 \pl bia- agyipʋ
 \ph bíá- áʤípʊ́
@@ -9280,7 +9294,7 @@
 \xv Papa Asiedu gyi bia ogyipʋ.
 \xe Papa Asiedu is a merchant.
 \rf Stewart List:0411
-\dt 28/Dec/2012
+\dt 14/Aug/2013
 
 \lx ibu
 \ph ibúʔ
@@ -9429,7 +9443,7 @@
 \ps n
 \va fuli
 \ge corpse
-\sd TN-
+\sd TN-II.A.1.a; II.E.5.b
 \de corpse, ghost
 \pl afuli
 \ph afúliʔ
@@ -9454,7 +9468,7 @@
 \xe The child lied that, he saw a ghost yesterday.
 \xv Ɔha ánɩ́ alawu,
 \xe A dead person.
-\dt 28/Dec/2012
+\dt 14/Aug/2013
 
 \lx ifwie
 \ph ifwíeʔ
@@ -12463,7 +12477,7 @@
 \ph kebi
 \ps n
 \ge child
-\sd TN-
+\sd TN-II.E.1.a
 \de child
 \pl nyebi
 \ph ɲebí
@@ -12472,7 +12486,7 @@
 \rf Tape:3-1-463
 \cf kebi bɔbwɛ- newborn
 \rf Stewart List:0203
-\dt 22/Aug/2012
+\dt 14/Aug/2013
 
 \lx kein
 \ph kẽ́ĩ́ː
@@ -13571,7 +13585,7 @@
 \ge bind spiritually
 \sd TN-
 \de to use magic to bind someone spiritually
-\dt 28/Dec/2012
+\dt 14/Aug/2013
 
 \lx klɩhɛ
 \ph klɪhɛ
@@ -13726,8 +13740,9 @@
 \ps n
 \ge secondary school
 \de secondary school; university
+\sd TN-II.E.3.c
 \bw English fi:college
-\dt 28/Dec/2012
+\dt 14/Aug/2013
 
 \lx konkolibatɛ
 \ph kõkolibatɛ
@@ -14531,13 +14546,13 @@ cf fonflo
 \ph k͡pãkʊ(H)
 \ps n
 \ge bachelor
-\sd TN-
+\sd TN-II.E.1.c
 \de bachelor
 \pl akpankʋ
 \ph ak͡paŋkʊ(H)
 \xv Kwasi gyi kpankʋ tsu mʋ nyebitɔ ɔpá.
 \xe Kwasi has been a bachelor since his youth.
-\dt 01/Oct/2012
+\dt 14/Aug/2013
 
 \lx kpanpuli
 \ph k͡pãpulí
@@ -15647,12 +15662,12 @@ cf fonflo
 \ph kuma
 \ps n
 \ge younger same sex sibling
-\sd TN-
+\sd TN-II.E.1.c
 \de younger same sex sibling
 \xv Nɩ bɔkwɩɩ ɔtsɩ Kuoda, bɛtra kwɩɩ ɔtsɩ buo mʋ Kuoda a, bʋtɛtɩ kebi amʋ Akuakuma.
 \xe If they bear a girl on Wednesday, and the next child is also a girl born on Wednesday they call the child Akuakuma.
 \rf Tape:5-1-257
-\dt 05/Jul/2005
+\dt 14/Aug/2013
 
 \lx kun
 \ph kũʔ
@@ -16178,18 +16193,18 @@ cf fonflo
 \ph kwasɪaʔ(L)
 \ps n
 \ge fool
-\sd TN-
+\sd TN-II.B.1.b; II.E.1.e
 \de fool
 \bw Akan fi:kwasiaa
 \xv Kwasɩa tama nu asʋn asɩ.
 \xe A fool doesn't understand things..
-\dt 07/Sep/2012
+\dt 14/Aug/2013
 
 \lx kwata
 \ph kwataʔ(L)
 \ps n
 \ge leprosy
-\sd TN-
+\sd TN-II.A.6.b; II.A.6.c
 \de leprosy
 \bw Akan fi:kwata
 \xv Ɔdɛ kwata lɔ.
@@ -16198,20 +16213,20 @@ cf fonflo
 \rf Stewart List:1445
 \se ɔkwatayin
 \ge leper
-\sd TN-
+\sd TN-II.E.1.a; II.A.6.b; II.A.6.c
 \de leper
 \pl akwatafɔ
 \cf kwata ɔlɔpʋ
-\dt 07/Sep/2012
+\dt 14/Aug/2013
 
 \lx kwata ɔlɔpʋ
 \ph kwata ɔlɔpʊ́
 \ps n
 \ge leper
-\sd TN-
+\sd TN-II.E.1.a; II.A.6.b; II.A.6.c
 \de leper
 \cf ɔkwatayin
-\dt 07/Sep/2012
+\dt 14/Aug/2013
 
 \lx kwatabi
 \ph kwatabi
@@ -18461,6 +18476,18 @@ cf fonflo
 \de fourth
 \dt 12/Sep/2012
 
+\lx nakuma
+\ph nakuma
+\ps n
+\ge aunt
+\sd TN-II.E.1.c
+\de mother's older sister
+\pl anakuma
+\ph anakuma
+\xv Mɩ atasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
+\xe My paternal aunts has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because they are not from the same family.
+\dt 13/Aug/2013
+
 \lx nambi
 \ph nambí
 \ps n
@@ -18480,12 +18507,12 @@ cf fonflo
 \ph nana
 \ps VOC
 \ge old woman
-\sd TN-
+\sd TN-II.E.1.a
 \de honorific addressed to a woman, but Nana Bulu is male
 \xv Nɛtɩ mɩ sɩ ntɛ mɩ yín mʋ yín Nana.
 \xe I will call my father or my mother's mother, grandmother.
 \rf Tape:4-2-523
-\dt 28/Dec/2012
+\dt 14/Aug/2013
 
 \lx nana
 \hm 2
@@ -18503,16 +18530,20 @@ cf fonflo
 \lx Nanain
 \ph Nanáĩ?
 \ps n
-\ge Grandfather
+\sn 1
+\ge grandfather
 \sd TN-
-\de grandfather, vocative form; also used of chiefs and elders
+\de grandfather
 \xv Nɛtɩ mɩ sɩ ntɛ mɩ yín mʋ sɩ Nanain.
 \xe I will call my father or my mother's father, Grandfather.
 \rf Tape:4-2-531
+\sn 2
+\ge chief
+\de vocative form; used of chiefs and elders
 \xv Owie ɛ nɛ́tɩ mʋ Nanain.
 \xe A chief also I will call him Nanain.
 \rf Tape:4-2-435
-\dt 16/Jul/2012
+\dt 14/Aug/2013
 
 \lx nani
 \ph naniʔ
@@ -18562,6 +18593,16 @@ cf fonflo
 \rf Tape:4-2-547
 \rf SIL-AWL:0068
 \dt 16/Jul/2012
+
+\lx napani
+\ph napani
+\ps n
+\ge aunt
+\sd TN-II.E.1.c
+\de mother's younger sister
+\pl anapani
+\ph anapani
+\dt 13/Aug/2013
 
 \lx natɩ
 \hm 1
@@ -18690,12 +18731,12 @@ cf fonflo
 \ph ndɛmba
 \ps n
 \ge generation
-\sd TN-
+\sd TN-II.E.1.b
 \de this generation
 \xv Ndɛmba abi anfɩ, bʋtamabu amʋ́ akwɩɩpʋ
 \xe Children of this generation, do not respect their parents.
 \rf DS0103 035-037
-\dt 23/Jul/2012
+\dt 14/Aug/2013
 
 \lx ndobi
 \ph ndobíʔ
@@ -18941,9 +18982,13 @@ cf fonflo
 \ph nhuãʔ(L)
 \ps n
 \ge Ewe
-\sd TN-
+\sd TN-II.E.1.b
 \de Ewe language
-\dt 17/Aug/2012
+\se Nhuanfɔ
+\ge Ewes
+\de speakers of the Ewe language
+\cf Aklɩfɔ
+\dt 14/Aug/2013
 
 \lx nim
 \ph nim
@@ -19315,31 +19360,31 @@ cf fonflo
 \ph ŋ͡mk͡pamba
 \ps n
 \ge girl/boyfriend
-\sd TN-
+\sd TN-II.E.1.c
 \de sexual unmarried companion 
 \xv Akua kpamba amʋ lada mʋ mɔ.
 \xe Akua's boyfriend has beaten her to death.
 \se nkpambatɔ
 \ph ŋ͡mk͡pambatɔ
 \ge unmarried
-\sd TN-
+\sd TN-II.E.1.c
 \de sexually active in an unmarried state
-\dt 15/Sep/2012
+\dt 14/Aug/2013
 
 \lx nkramboyin
 \ph ŋkramboyĩʔ
 \ps n
 \ge Muslim
-\sd TN-
+\sd TN-II.B.6.b
 \de Muslim
 \pl nkrambofɔ
 \ph ŋkrambofɔ
 \bw Akan fi:nkramofʋ
 \xv Nkrambofɔ bʋtɔyɔ asɔrɩ Fieda.
 \xe Muslims go to church on Fridays.
-\xv Nkrambofɔ bʋ tekle liga wa dʋbɩ.
+\xv Nkrambofɔ bʋtekle liga wa dʋbɩ.
 \xe Muslims like putting on robes..
-\dt 23/Aug/2012
+\dt 14/Aug/2013
 
 \lx nkrawa
 \ph ŋkrawa
@@ -19611,7 +19656,7 @@ cf fonflo
 \ph ntá ɔbʊpʊ́
 \ps n
 \ge drunkard
-\sd TN-
+\sd TN-II.E.1.e
 \de drunkard
 \pl nta abʋpʋ
 \ph ntá abʊpʊ́
@@ -19620,7 +19665,7 @@ cf fonflo
 \xe Drunkards will not go to heaven.
 \xv Obuo kʋkʋ ma nta ɔbʋpʋsʋ.
 \xe There is no respect on any drunkard.
-\dt 28/Dec/2012
+\dt 14/Aug/2013
 
 \lx ntam
 \ph ntam
@@ -20480,7 +20525,7 @@ cf fonflo
 \ph ɲaŋ͡mk͡pʊsaʔ
 \ps n
 \ge human being
-\sd TN-
+\sd TN-II.E.1.a
 \de human being
 \pl anyankpʋsa
 \ph aɲáŋ͡mk͡pʊsaʔ
@@ -20489,7 +20534,7 @@ cf fonflo
 \rf Tape:5-1-545
 \cf nyankpʋsa-gyi-nyankpʋsa - every person
 \rf Stewart List:0001
-\dt 16/Jul/2012
+\dt 14/Aug/2013
 
 \lx nyankpʋsa oyi
 \ph ɲaŋ͡mk͡pʊsa oyí
@@ -20852,7 +20897,7 @@ cf fonflo
 \ps n
 \va bi
 \ge child
-\sd TN-
+\sd II.E.1.a
 \de child; young of animal
 \pl abi
 \ph abíʔ
@@ -20862,7 +20907,7 @@ cf fonflo
 \xe It is good that everybody will have one child before their death.
 \rf Tape:1-2-406
 \rf Stewart List:0308
-\dt 02/Jan/2013
+\dt 13/Aug/2013
 
 \lx obia
 \hm 1
@@ -20973,9 +21018,8 @@ cf fonflo
 \rf Tape:6-2-306
 \cf oyasubi "young man"
 \rf Stewart List:0207
-\nt From ths: terms for females: ɔtsɩ/atsɩ (woman/women), ɔtsɩbi/atsɩbi (girl/girls), obitebi/mbitebi (lady/ladies), abriwa/mbrɩwa (old lady/old ladies), oyín/ayín (man/men), nana (grandmother), tasii (aunt/niece), ɔtrapʋ (newly born lady), opio (brother/sister), ɔka (wife), okulu (husband), ɔkaba (rival).
-\dt 26/Dec/2012
-
+\nt From ths: terms for females: ɔtsɩ/atsɩ (woman/women), otsibi/atsɩbi (girl/girls), obitebi/mbitebi (lady/ladies), abriwa/mbrɩwa (old lady/old ladies), oyín/ayín (man/men), nana (grandmother), tasii (aunt/niece), ɔtrapʋ (newly born lady), opio (brother/sister), ɔka (wife), okulu (husband), ɔkaba (rival).
+\dt 14/Aug/2013
 
 \lx -OBLIG-
 \ph -OBLIG-
@@ -21093,7 +21137,7 @@ cf fonflo
 \ph obroni(H)
 \ps n
 \ge white man
-\sd TN-
+\sd TN-II.E.1.b
 \de white person
 \pl abrɔfɔ
 \ph abrɔfɔ́
@@ -21103,7 +21147,7 @@ cf fonflo
 \xv Obroni anfɩ bʋ awɩtɔlɛ dʋn ɔkʋlɛ amʋ́ʋ́ ɔlɛba nfɩ ofikʋ amʋ.
 \xe This white man is merciful than the one that came here last year.
 \rf Tape:6-2-347
-\dt 16/Jul/2012
+\dt 14/Aug/2013
 
 \lx obu
 \hm 1
@@ -21138,17 +21182,17 @@ cf fonflo
 \ph obu ɔdɪpʊ
 \ps n
 \ge prisoner
-\sd TN-
+\sd TN-II.E.1.a; II.E.3.b
 \de prisoner
-\dt 14/Jul/2005
+\dt 14/Aug/2013
 
 \lx obubupʋ
 \ph obubúpʊ
 \ps n
 \ge cripple
-\sd TN-
+\sd TN-II.E.1.a; II.A6.c
 \de cripple
-\dt 16/Aug/2012
+\dt 14/Aug/2013
 
 \lx obubwi
 \hm 1
@@ -21316,11 +21360,13 @@ cf fonflo
 \ph odoũʔ
 \ps n
 \ge captive
-\sd TN-
+\sd TN-II.E.1.a; II.E.1.e
 \de captive
 \pl ndoun
 \ph ndoũʔ
-\dt 06/Oct/2005
+\xv Bɛkɩta amʋ́ ndoun brɛa amʋ́ʋ́ bɔkɔ ɩsa amʋ.
+\xe They were held captives the time that there was war.
+\dt 14/Aug/2013
 
 \lx odu
 \hm 1
@@ -21595,7 +21641,7 @@ cf fonflo
 \ph ofunupʊʔ
 \ps n
 \ge liar
-\sd TN-
+\sd TN-II.E.1.a; II.B.2
 \de person who tells lies
 \pl afunupʋ
 \ph afunupʊʔ
@@ -21604,7 +21650,7 @@ cf fonflo
 \rf Tape:6-2-463
 \xv Ɔha ánɩ́ omeyin tɔtɔ tsu tɔkʋ ɩwɩ, ɔdɛ mʋ́ asʋn blɩ a, ofunupʋ ogyi.
 \xe A person who does not know anything about something and says something about it is a liar.
-\dt 26/Dec/2012
+\dt 14/Aug/2013
 
 \lx ofunya
 \ph ofuɲa(H)
@@ -21777,7 +21823,7 @@ cf fonflo
 \ps n
 \va gyama
 \ge junior
-\sd TN-
+\sd TN-II.E.1.c
 \de younger sibling
 \pl agyama
 \ph aʤama
@@ -21786,7 +21832,7 @@ cf fonflo
 \xv Kwame agyama bʋtamabu mʋ, tsufɛ Kwame onuto tamabu mʋ ɩwɩ.
 \xe Kwame junior brothers don't respect him, because Kwame does not respect himself.
 \rf Tape:2-2-190
-\dt 01/Sep/2012
+\dt 14/Aug/2013
 
 \lx ogyaŋɛ
 \ph oʤáŋɛ̂ʔ
@@ -21878,13 +21924,13 @@ cf fonflo
 \ph oʤo ot͡swapʊ́
 \ps n
 \ge armed robber
-\sd TN-
+\sd TN-II.E.1.a; II.B.4
 \de armed robber
 \xv Lalahɛ ɔbwɛpʋ ogyo otswapʋ gyi, tsufɛ nɩ ɔtʋ fʋ, omenya tɔtɔ wi tsu fʋ wa a, ɔbɔ́mɔ fʋ.
 \xe An armed robber is wicked, because if he meets you and did get anything to steal from you, he will kill you.
 \xv Nkɛsa anfɩtɔ agyo otswapʋ batra moni Ghana ɔmá anfɩtɔ.
 \xe These days armed robbers have increased too much in Ghana this country of ours.
-\dt 01/Sep/2012
+\dt 14/Aug/2013
 
 \lx ohian
 \ph ohĩã(H)
@@ -21906,15 +21952,15 @@ cf fonflo
 \ph ohiáni
 \ps n
 \ge poor person
-\sd TN-
+\sd TN-II.E.1.e
 \de poor person
-\dt 10/Jan/2012
+\dt 14/Aug/2013
 
 \lx ohogyipʋ
 \ph ohóʤipʊ
 \ps n
 \ge a believer
-\sd TN-
+\sd TN-II.E.1.a; II.E.4.a
 \de a person who believes
 \pl ahogyipʋ
 \ph ahóʤipʊ
@@ -21924,7 +21970,7 @@ cf fonflo
 \xe The believers in the town have met in the big house.
 \xv Ahogyipʋ amʋ fɛ́ɛ́ bénya ɔŋɛ wankɩhɛ amʋ ɔkɛ wʋlɛ.
 \xe All the believers received the Holy Spirit one day.
-\dt 15/Sep/2012
+\dt 14/Aug/2013
 
 \lx ohuam
 \ph ohuam
@@ -21961,13 +22007,13 @@ cf fonflo
 \ph okeyíʔ
 \ps n
 \ge questioning corpse
-\sd TN-
+\sd TN-II.B.6.a
 \de the act of questioning a corpse in order to know the cause of his/her death
 \va ekeyi
 \ve South
 \xv Ɔhagyiɔha tsiatɔ bʋtɔpʋ da mʋ okeyi nɩ owu.
 \xe Everyone's behaviour is used to question him when he/she dies.
-\dt 15/Sep/2012
+\dt 14/Aug/2013
 
 \lx okikibwie
 \ph okikíbwie(H)
@@ -22126,13 +22172,13 @@ cf fonflo
 \ph okuɳáyĩ̂ʔ
 \ps n
 \ge Nkonya
-\sd TN-
+\sd TN-II.E.1.b; II.B.2
 \de an ethnic Nkonya person
 \pl Nkonyafɔ
 \ph ŋkuɳáfɔ
 \xv Nkonyafɔ bʋ tegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋ tegyi abitɛpʋ klɛ.
 \xe Nkonyas inherit their fathers' possessions, but Ashantis inherit their maternal uncle's.
-\dt 14/May/2012
+\dt 14/Aug/2013
 
 \lx okpebetsu
 \ph ok͡pebet͡suʔ
@@ -22229,8 +22275,8 @@ cf fonflo
 \lx Okristoyin
 \ph Okrístoyĩ?
 \ps PropN
-\ge Christians
-\sd TN-
+\ge Christian
+\sd TN-II.E.1.a; II.B.6.c
 \de Christian
 \pl Akristofɔ
 \ph Akrístofɔ
@@ -22238,7 +22284,7 @@ cf fonflo
 \xe It is necessary that a Christian should live as Christ lived.
 \xv Ha fʋ tsiatɔ ɩlɩan Kristo, mɛnɩ aha bʋmɛtɩ fʋ Okristoyin lalalahɛ.
 \xe Let your life be like Christ, so that people will not call you a bad Christian.
-\dt 23/Aug/2012
+\dt 14/Aug/2013
 
 \lx oku
 \ph okú
@@ -22269,11 +22315,12 @@ cf fonflo
 \lx okugyiɔkʋ
 \ph okuʤiɔkʊ
 \ps n
-\ge everyone
+\ge everyoneI.
+\sd C.2.b
 \de every animate person (animal, person, and animate objects like stars)
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
 \xe It is necessary that every child will respect his father so that the father also looks after his child well.
-\dt 01/Jan/2013
+\dt 14/Aug/2013
 
 \lx okuku
 \hm 1
@@ -22306,7 +22353,7 @@ cf fonflo
 \ph okukúbǐː
 \ps n
 \ge dwarf
-\sd TN-
+\sd TN-II.A.6.c
 \de mythical dwarf
 \pl nkukubii
 \ph ŋkukúbǐː
@@ -22314,7 +22361,7 @@ cf fonflo
 \ve South
 \xv Nkukubii baŋa mɩ kɔba.
 \xe Dwarfs have made my money disappear.
-\dt 11/Sep/2012
+\dt 14/Aug/2013
 
 \lx okulu
 \hm 1
@@ -22322,7 +22369,7 @@ cf fonflo
 \ps n
 \va kulu
 \ge husband
-\sd TN-
+\sd TN-II.E.1.c
 \de husband
 \nt alternate tone HL
 \pl akulu
@@ -22334,7 +22381,7 @@ cf fonflo
 \xv Anɩ bi ɛ maha akʋn kɩta mʋ kulu mɛnɩ omóoyonun nta.
 \xe Our child, also, shouldn't let her husband to be hungry so that he won't go and drink.
 \rf Tape:4-1-173
-\dt 08/Sep/2012
+\dt 14/Aug/2013
 
 \lx okulu
 \hm 2
@@ -22359,10 +22406,10 @@ cf fonflo
 \ph okulut͡sia
 \ps n
 \ge marriage
-\sd TN-
+\sd TN-II.E.1.c; II.E.5.c
 \de marriage to a husband
 \cf ɔka tsiaa
-\dt 08/Sep/2012
+\dt 14/Aug/2013
 
 \lx okumɛ
 \ph okúmɛ(H)
@@ -22376,7 +22423,7 @@ cf fonflo
 \xe Okerebe is a child of teenage pregnancy.
 \xv Akua lanya okumɛ mʋ́sʋ ɔdɛwʋlɩ nɩ
 \xe Akua is pregnant without having her period that is why she growing lean.
-\dt 28/Dec/2012
+\dt 14/Aug/2013
 
 \lx okun
 \ph okṹʔ
@@ -22550,18 +22597,18 @@ cf fonflo
 \ph olupʊ
 \ps n
 \ge enemy
-\sd TN-
+\sd TN-II.E.4.b
 \de enemy
-\dt 20/Sep/2005
+\dt 14/Aug/2013
 
 \lx omenyapʋ
 \ph omeɲapʊ́
 \ps n
 \ge pregnant woman
-\sd TN-
+\sd TN-II.E.1.a; II.A.2.f
 \de pregnant woman
 \cf nya ɔmɛ
-\dt 29/Aug/2012
+\dt 14/Aug/2013
 
 \lx omeyi
 \ph omeyiʔ
@@ -22596,7 +22643,7 @@ cf fonflo
 \ph omúmuʔ(H)
 \ps n
 \ge mute
-\sd TN-
+\sd TN-II.E.1.a; II.A.6.c
 \de mute
 \pl amumu
 \ph amúmu
@@ -22605,7 +22652,7 @@ cf fonflo
 \xv Omumu-gyi-omumu tɔkɔsɩ nya ɔblɔ.
 \xe Every mute, becomes angry quickly.
 \rf Stewart List:1688
-\dt 23/Jul/2012
+\dt 14/Aug/2013
 
 \lx oniaba
 \ph oníaba(H)
@@ -22642,13 +22689,13 @@ cf fonflo
 \ph onúpʊ
 \ps n
 \ge drinker
-\sd TN-
+\sd TN-II.E.1.a; II.A.2.a
 \de a person who drinks something
 \pl anunpʋ
 \ph anúpʊ
-\xv Ɔtsɩ amʋ gyi nta fututu onunpʋ, tamɛ fʋ mowun mʋa alabʋ kɩ.
+\xv Ɔtsɩ amʋ gyi nta fututu onunpʋ, tamɛ fʋmowun mʋa alabʋ kɩ.
 \xe That woman is palm wine drinker, but you will never see her being intoxicated.
-\dt 03/Apr/2012
+\dt 14/Aug/2013
 
 \lx onuto
 \ph onutó
@@ -22718,14 +22765,14 @@ cf fonflo
 \ph oɲã́nsapʊ
 \ps n
 \ge wise person
-\sd TN-
+\sd TN-II.E.1.a; II.B.1
 \de wise person
 \pl anyansapʋ
 \ph aɲã́nsapʊ
 \xv Owie amʋ tɔbwɛ mʋ atɔ fɛ́ɛ́ nyansatɔ, sʋ onyansapʋ ogyi.
 \xe The chief does his everything wisely so he is a wise person.
 \rf Tape:6-1-240
-\dt 14/May/2012
+\dt 14/Aug/2013
 
 \lx onye
 \ph oɲéʔ
@@ -22834,14 +22881,14 @@ cf fonflo
 \ps n
 \va pio
 \ge brother/sister
-\sd TN-
+\sd TN-II.E.1.c
 \de brother or sister. This includes all my grandfathers' and grandmothers' grandchildren.
 \pl apio
 \ph apíó
 \xv Mɩ pio kʋsʋ gyi Sami, tsufɛ nadan dʋn mʋ.
 \xe My younger brother is Sami because I am older than he.
 \rf Stewart List:0301
-\dt 16/Jul/2012
+\dt 14/Aug/2013
 
 \lx opitre
 \ph opitre(H)
@@ -23045,21 +23092,25 @@ cf fonflo
 \lx osia
 \ph osíá
 \ps n
-\ge in-law
-\sd TN-
-\de either a parent of your spouse or the spouse of your child
-\pl asia
-\ph asíá
-\lc osia
-\rf Stewart List:0319
-\rf Stewart List:0320
+\sn 1
+\ge mother/father-in-law
+\sd TN-II.E.1.c
+\de parent of your spouse
 \xv Osia gyi fʋ ka ntɛɛ fʋ kulu mʋ sɩ ntɛɛ mʋ yín.
 \xe Your in-law is your wife or husband's father or mother.
 \xv Oyin amʋ mʋ sia tsɩhɛ laba bɛsɩna amʋ́.
 \xe The man's mother-in-law has come to visit them.
 \xv Asia tsɩhɛ akʋ bʋtamakle amʋ́ abi yinhɛ asʋn.
 \xe Some mother in laws don't like their daughters' husbands.
-\dt 16/Sep/2012
+\sn 2
+\ge daughter/son-in-law
+\de spouse of your child
+\pl asia
+\ph asíá
+\lc osia
+\rf Stewart List:0319
+\rf Stewart List:0320
+\dt 14/Aug/2013
 
 \lx osiebi
 \ph osiebíʔ (H)
@@ -23141,7 +23192,7 @@ cf fonflo
 \ph osuã́mpʊʔ
 \ps n
 \ge student
-\sd TN-
+\sd TN-II.E.1.a; II.E.3.c
 \de student or disciple
 \pl asuanpʋ
 \ph asuã́mpʊʔ
@@ -23149,7 +23200,7 @@ cf fonflo
 \bw Akan fi:osuani LLH
 \xv Osunapʋ amʋ dɛ asuanpʋ amʋ atɔ suna wanklaan, tamɛ osuanpʋ ɔkʋlɛ tamayɔ.
 \xe The teacher is teaching the students well but one student does not go.
-\dt 26/Dec/2012
+\dt 14/Aug/2013
 
 \lx osublu
 \ph osublúʔ(L)
@@ -23172,15 +23223,15 @@ cf fonflo
 \ph osúmbí
 \ps n
 \ge servant
-\sd TN-
+\sd TN-II.E.1.e
 \de servant
-\dt 10/Jan/2012
+\dt 14/Aug/2013
 
 \lx osumpʋ
 \ph osúmpʊ̂ʔ
 \ps n
 \ge servant
-\sd TN-
+\sd TN-II.E.1.e
 \de servant
 \pl asumpʋ
 \ph asúmpʊ́ʔ
@@ -23188,20 +23239,20 @@ cf fonflo
 \bw Akan fi:osomfʋ LHL
 \xv Osumpʋ odua otosum mʋ wie wanklaan a, mʋ ɩwɩ tɔwa mʋ wie ansigyi .
 \xe A servant who serves his master well, pleases his master.
-\dt 26/Dec/2012
+\dt 14/Aug/2013
 
 \lx osun
 \ph osṹ
 \ps n
 \ge clan
-\sd TN-
+\sd TN-II.E.1.c
 \de clan
 \pl nsun
 \ph nsṹ
 \cf osun ɔhandɛ Eng:head of a clan
 \xv Osun-gyi-osun mʋ́a mʋ́ ɔhandɛ. Fʋa fʋ osun abi mligyi apio dʋn osun bambatɔ abi.
 \xe Every clan with it's head. You and the members of your clan are more related than other clan members.
-\dt 03/Apr/2012
+\dt 14/Aug/2013
 
 \lx osuna
 \ph osúna
@@ -23227,7 +23278,7 @@ cf fonflo
 \ph osúpʊ̂ʔ
 \ps n
 \ge mourner
-\sd TN-
+\sd TN-II.E.1.a; II.A.2.d
 \de mourner
 \pl asupʋ
 \ph asúpʊ̂ʔ
@@ -23235,7 +23286,7 @@ cf fonflo
 \xe Sack the mourners from around the corpse so that we have the chance to take him to the cemetery.
 \xv Kebi ánɩ́ tɔtɔ mɛdɛ mʋ bwɛ odesu dʋbɩ a, osupʋ bʋtɛtɩ mʋ.
 \xe A child who cries too much without any cause is called "osupʋ".
-\dt 26/Dec/2012
+\dt 14/Aug/2013
 
 \lx oswie
 \hm 1
@@ -23294,14 +23345,15 @@ cf fonflo
 \ph otintɔ(H)
 \ps n
 \ge clan
-\sd TN-
+\sd TN-II.E.1.c
 \de clan
 \pl ntin
 \ph ntĩ
 \nt the singular does not usually occur without -tɔ; the plural does not occur with it.
 \xv Anɩ otintɔ aha ɔbɔ́yɔ agyʋma ndɛ, sʋ anɩmɔ́ɔyɔ ndɔ.
 \xe Our clan has communal labour today, so we will not go to farm.
-\dt 01/Oct/2012
+\cf osun
+\dt 14/Aug/2013
 
 \lx otonklo
 \ph otóŋkló
@@ -23601,7 +23653,7 @@ cf fonflo
 \ps n
 \va wie
 \ge chief
-\sd TN-
+\sd TN-II.E.2.a
 \de chief
 \pl awie
 \ph awíe
@@ -23620,30 +23672,31 @@ cf fonflo
 \rf Stewart List:0501
 \sn 2
 \ge owner
-\sd TN-
+\sd TN-II.E.2.a
 \de owner
 \se woyi mʋ́ wie
 \ge householder
-\sd TN-
+\sd TN-II.E.2.a
 \de head of a house; landlord
 \se ɔha mʋ wie
 \ge body owner
-\sd TN-
+\sd TN-II.E.2.a
 \de person who represents the family interests in a funeral
-\dt 02/Jan/2013
+\dt 14/Aug/2013
 
 \lx owikplu
 \ph owik͡plu(H)
 \ps n
 \ge thief
-\sd TN-
+\sd TN-́II.B.4; II.B.5.b.i; II.E.1.e; II.E.3.b
 \de thief
 \pl awikplu
 \ph awik͡plu(H)
 \xv Fowi owikplu atɔ a, ɩtɛhan mʋ dʋbɩ, tsufɛ mʋ ɛ otowi aha atɔ.
 \xe If you steal a thief's things it troubles him a lot because he also steals peoples things.
 \rf Stewart List:0413
-\dt 16/Jul/2012
+\va oyikplu
+\dt 14/Aug/2013
 
 \lx owilɩn
 \ph owilɪ̃́ʔ
@@ -23795,12 +23848,20 @@ cf fonflo
 \cf asendua (Twi)
 \dt 05/Jul/2012
 
+\lx oyikplu
+\ph owik͡plu(H)
+\ps n
+\pl ayikplu
+\ph ayik͡plu(H)
+\cf owikplu
+\dt 14/Aug/2013
+
 \lx oyin
 \ph oyĩ(H)
 \ps n
 \va yin
 \ge man
-\sd TN-
+\sd TN-II.E.1.a
 \de man (male)
 \pl ayin
 \ph ayĩ(H)
@@ -23812,14 +23873,14 @@ cf fonflo
 \xe The man has gone to farm.
 \rf Tape:5-1-588
 \rf Stewart List:0201
-\dt 23/Jul/2012
+\dt 14/Aug/2013
 
 \lx oyín
 \ph oyĩ́
 \ps n
 \va yin
 \ge mother
-\sd TN-
+\sd TN-II.E.1.a
 \de mother
 \pl ayín
 \ph ayĩ́
@@ -23827,7 +23888,7 @@ cf fonflo
 \xe His mother is this woman, because she gave birth to him.
 \rf Tape:8-1-584
 \rf Stewart List:0305
-\dt 23/Jul/2012
+\dt 14/Aug/2013
 
 \lx oyinflɛ
 \ph oyiɱflɛʔ
@@ -24007,8 +24068,8 @@ cf fonflo
 \ph ɔba(H)
 \ps n
 \va ba
-\ge neighbour
-\sd TN-
+\ge companion
+\sd TN-II.E.4.c
 \de neighbour; one who is associated with a person; companion
 \pl aba
 \ph aba{H}
@@ -24016,7 +24077,7 @@ cf fonflo
 \cf abanyɔ Eng:two people
 \xv Ɔba gyi ɔha ánɩ́ mɩan mʋ nyɔ dantɔ igyi kʋlɛ, ntɛ anɩdɛ agyʋma ɩkʋlɛ yɔ.
 \xe A neighbour is a person who is my age mate or someone I work with.
-\dt 08/Sep/2012
+\dt 14/Aug/2013
 
 \lx ɔbaan
 \ph ɔbã̂ːʔ
@@ -24035,9 +24096,9 @@ cf fonflo
 \ph ɔbakʊ́lɛ
 \ps n
 \ge one person
-\sd TN-
+\sd TN-II.E.1.a
 \de one person
-\dt 10/Jan/2012
+\dt 14/Aug/2013
 
 \lx ɔbɛ
 \ph ɔbɛ́ʔ
@@ -24195,7 +24256,7 @@ cf fonflo
 \ph ɔblɪ̂ʔ(L)
 \ps n
 \ge language
-\sd TN-
+\sd TN-II.B.2
 \de language, speech, talking
 \va ɛblɩ
 \ve South
@@ -24203,7 +24264,7 @@ cf fonflo
 \xe The Nkonya language is different from Ewe.
 \rf Tape:5-2-161
 \rf Stewart List:1483
-\dt 08/Sep/2012
+\dt 14/Aug/2013
 
 \lx ɔblɩ
 \hm 2
@@ -24296,7 +24357,7 @@ cf fonflo
 \ph ɔbɔpʊ(L)
 \ps n
 \ge messenger
-\sd TN-
+\sd TN-II.E.1.a; II.B.2
 \de messenger
 \pl abɔpʋ
 \ph abɔpʊ
@@ -24307,15 +24368,15 @@ cf fonflo
 \ge angel
 \sd TN-
 \de angel
-\dt 30/Aug/2012
+\dt 14/Aug/2013
 
 \lx ɔbrafɔ
 \ph ɔbráfɔ
 \ps n
 \ge murderer
-\sd TN-
+\sd TN-II.E.3.b.
 \de murderer
-\dt 10/Jan/2012
+\dt 14/Aug/2013
 
 \lx ɔbʋatɔ
 \ph ɔbʊátɔʔ
@@ -24634,7 +24695,7 @@ cf fonflo
 \ph ɔdɛ́hɛ̃́ʔ
 \ps n
 \ge older
-\sd TN-
+\sd TN-II.E.1.c
 \de older, used only with humans
 \pl adɛhɛn
 \ph adɛ́hɛ̃́ʔ
@@ -24649,7 +24710,7 @@ cf fonflo
 \va dɛhɛn
 \xv Nɛtɩ mɩ apio adɛhɛn amʋtɔ okugyiɔkʋ mbɛɛ, "Dɛhɛn".
 \xe I will call any of my older siblings "Elder".
-\dt 02/Jan/2013
+\dt 14/Aug/2013
 
 \lx Ɔdɛkɛtrakɛ
 \ph odɛkɛtrákɛ
@@ -24676,14 +24737,14 @@ cf fonflo
 \ph ɔdɪ́
 \ps n
 \ge another town
-\sd TN-
+\sd TN-II.C.1.a
 \de another town
 \pl ndɩ
 \ph ndɪ́
 \xv Aha anfɩ botsu ɔdɩ, bʋmotsu anɩ wulutɔ.
 \xe These people came from another town, they are not from our town.
 \rf Tape:5-2-287
-\dt 10/Jan/2012
+\dt 14/Aug/2013
 
 \lx ɔdɩba
 \ph ɔdɪba
@@ -24705,22 +24766,22 @@ cf fonflo
 \ph ɔdɪ́hɪɛ
 \ps n
 \ge royal
-\sd TN-
+\sd TN-II.E.2.b
 \de royal
 \bw Akan fi:ɔdɩhɩɛ
-\dt 10/Jan/2012
+\dt 14/Aug/2013
 
 \lx ɔdɔm
 \ph ɔdɔm
 \ps n
 \ge crowd
-\sd TN-
+\sd TN-II.E.1.e
 \de crowd
 \bw Akan fi:ɔdɔm
 \xv Ɔlɛdamli kɩ ɔdɔm amʋ́ʋ́ bubuo Mʋ amʋ.
 \xe He turned and looked at the crowd that followed him.
 \rf Tape:5-2-296
-\dt 30/Nov/2011
+\dt 14/Aug/2013
 
 \lx ɔdɔn
 \ph ɔdɔ̃́ʔ
@@ -24739,11 +24800,21 @@ cf fonflo
 \rf Stewart List:1189
 \dt 27/Dec/2012
 
+\lx ɔdɔpʋ
+\ph ɔdɔ́pʊ
+\ps n
+\ge farm worker
+\de one who works on a farm
+\pl ɔdɔpʋ
+\ph adɔ́pʊ
+\sd TN-II.D.1
+\dt 14/Aug/2013
+
 \lx ɔdɔtɔpʋ
 \ph ɔdɔtɔpʊ
 \ps n
 \ge farmer
-\sd TN-
+\sd TN-II.D.1
 \de farmer
 \pl adɔtɔpʋ
 \ph adɔtɔpʊ
@@ -24754,7 +24825,7 @@ cf fonflo
 \xe If it is not raining it disturbs farmers well.
 \rf Tape:5-2-305
 \rf Stewart List:0401
-\dt 16/Jul/2012
+\dt 14/Aug/2013
 
 \lx ɔdʋdʋɔ
 \ph ɔdʊdʊɔ
@@ -24855,13 +24926,13 @@ cf fonflo
 \ph ɔfápʊ́
 \ps n
 \ge herbalist
-\sd TN-
+\sd TN-II.A.6.d; II.B.6.a
 \de a person who uses herbs for medicine
 \pl afapʋ
 \ph afápʊ́
 \xv Takyi gyi ɔfapʋ wulu anfɩtɔ nɩ.
 \xe Takyi is the herbalist in this town.
-\dt 05/Jul/2012
+\dt 14/Aug/2013
 
 \lx ɔfɛ
 \ph ɔfɛ́
@@ -24917,7 +24988,7 @@ cf fonflo
 \ph ɔfɔ̌ː
 \ps n
 \ge stranger
-\sd TN-
+\sd TN-II.E.4.c
 \de stranger, guest
 \pl afɔɔ
 \ph afɔ̌ː
@@ -24930,7 +25001,7 @@ cf fonflo
 \xe A strangers does not carry the legs of a corpse. (A strange does not take lead).
 \rf Tape:5-2-352
 \rf Stewart List:0503
-\dt 23/Jul/2012
+\dt 14/Aug/2013
 
 \lx ɔfranka
 \ph ɔfráŋka(H)
@@ -25022,14 +25093,14 @@ cf fonflo
 \ph ɔhá
 \ps n
 \ge person
-\sd TN-
+\sd TN-II.E.1.a
 \de person
 \pl aha
 \ph ahá
 \xv Ɔha yile ogyi.
 \xe He is a good person.
 \rf Tape:5-2-382
-\dt 05/Jul/2005
+\dt 14/Aug/2013
 
 \lx ɔhaa
 \ph ɔhaː
@@ -25070,7 +25141,7 @@ cf fonflo
 \ph ɔhandɛʔ
 \ps n
 \ge elder
-\sd TN-
+\sd TN-II.E.2.b
 \de elder
 \pl ahandɛ
 \ph ahandɛ
@@ -25085,7 +25156,7 @@ cf fonflo
 \xe "Elders bone is not easy to break. " The meaning is that, a child is never greater than an elder.
 \nt Proverb
 \rf Tape:1-1-287
-\dt 26/Dec/2012
+\dt 14/Aug/2013
 
 \lx ɔhɩɛn
 \ph ɔhɪ̃́ɛ̃́ʔ
@@ -25114,7 +25185,7 @@ cf fonflo
 \ps n
 \va ka
 \ge wife
-\sd TN-
+\sd TN-II.E.1.c
 \de wife
 \pl aka
 \ph aká
@@ -25122,7 +25193,7 @@ cf fonflo
 \xv Owie Krafi mʋa mʋ ka bɔkwɩɩ abi ana.
 \xe Chief Krafi and his wife had four children.
 \rf Stewart List:0307
-\dt 02/Jan/2013
+\dt 14/Aug/2013
 
 \lx ɔka
 \hm 2
@@ -25144,16 +25215,16 @@ cf fonflo
 \ph ɔkat͡sia
 \ps n
 \ge marriage
-\sd TN-
+\sd TN-II.E.1.c
 \de marriage to a wife
 \cf okulu tsiaa
-\dt 21/Aug/2012
+\dt 14/Aug/2013
 
 \lx ɔkaba
 \ph ɔkabá
 \ps n
 \ge rival
-\sd TN-
+\sd TN-II.E.1.c
 \de co-wife
 \pl akaba
 \ph akabá
@@ -25161,17 +25232,17 @@ cf fonflo
 \xe A co-wife is my husband's second wife.
 \xv Akaba abi bʋtobwie woyi, tsufɛ bʋtɛpɩrɩ agyapadɩɛ.
 \xe Children of rivals destroy a house because they struggle for properties.
-\dt 16/Jul/2012
+\dt 14/Aug/2013
 
 \lx ɔkabagya
 \ph ɔkabáʤâʔ
 \ps n
 \ge jealousy
-\sd TN-
+\sd TN-II.E.1.c
 \de jealousy, particularly between rivals in a marriage
 \xv Ɔtsɩ ánɩ́ ɔbʋ ɔkabagya dʋbɩ a, ɔbɛ́talɩ wa ɔkpɛ.
 \xe A woman who is too jealous could practice witchcraft.
-\dt 01/Sep/2012
+\dt 14/Aug/2013
 
 \lx ɔkan
 \ph ɔkãʔ
@@ -25313,17 +25384,19 @@ cf fonflo
 \ph ɔkɪaŋ͡mk͡papʊ
 \ps n
 \ge living
-\sd TN-
+\sd TN-I.C.1.d
 \de living thing
-\dt 12/Jan/2012
+\dt 14/Aug/2013
 
 \lx ɔkɩankpatɔ
 \ph ɔkɪaŋ͡mk͡patɔ
 \ps n
 \ge living
-\sd TN-
+\sd TN-I.C.1.d
 \de living thing
-\dt 12/Jan/2012
+\pl akɩankpatɔ
+\ph akɪaŋ͡mk͡patɔ
+\dt 15/Aug/2013
 
 \lx ɔkɩta
 \ph ɔkɪtá
@@ -25454,9 +25527,9 @@ cf fonflo
 \pl nkɔntɩ
 \ph ŋkɔntɪ
 \xv Ɔkɔntɩ pʋ́ krantɩɛ anɩtɔpʋ dɔ. Ɩtɛha ɩdɔ amʋ tɛpɩn.
-\xe We use a wooden crook and a cutlass to weed. It makes the weeding smooth ( does not leave ragged clumps ).
+\xe We use a wooden crook and a cutlass to weed. It makes the weeding smooth (does not leave ragged clumps).
 \rf Tape:5-2-467
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔkɔtɔ
 \ph ɔkɔ́tɔ(H)
@@ -25531,9 +25604,9 @@ cf fonflo
 \ph ɔk͡pa otupʊ
 \ps n
 \ge traveller
-\sd TN-
+\sd TN-II.E.1.a; II.D.7
 \de a person that goes on a journey
-\dt 14/Jul/2005
+\dt 15/Aug/2013
 
 \lx ɔkpabaɩ
 \ph ɔk͡pabaɪ́ʔ
@@ -25567,7 +25640,7 @@ cf fonflo
 \ph ɔk͡pábiʔ(L)
 \ps n
 \ge servant
-\sd TN-
+\sd TN-II.E.1.e
 \de servant
 \pl nkpabi
 \ph ŋ͡mk͡pábi
@@ -25577,7 +25650,7 @@ cf fonflo
 \xe It is necessary that a servant respect his master.
 \rf Tape:5-2-522
 \rf Stewart List:0502
-\dt 23/Dec/2012
+\dt 15/Aug/2013
 
 \lx ɔkpagyiɔkpa
 \ps n
@@ -25624,13 +25697,13 @@ cf fonflo
 \ph ɔk͡pambaʔ
 \ps n
 \ge boy/girlfriend
-\sd TN-
+\sd TN-II.E.4.a
 \de illegal marriage
 \pl akpamba
 \ph ak͡pambaʔ
 \xv Ɔkpamba ɔtsɩ anfɩ gyi ha oyin anfɩ, mʋ́ sʋ ɔmɛtalɩ wie woyitɔ amʋtɔ nɩ, tsufɛ ɔdɛ oyin amʋ mʋ ka ifu-nya.
 \xe This woman is a girlfriend to this man, that was why she couldn't entered the house because she is afraid of the man's wife.
-\dt 16/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔkpan
 \ph ɔk͡pã́ʔ
@@ -25720,7 +25793,7 @@ cf fonflo
 \ph ɔk͡pɛ́pʊ́
 \ps n
 \ge witch / wizard
-\sd TN-
+\sd TN-II.B.6.a
 \de witch / wizard
 \pl akpɛpʋ
 \ph ak͡pɛ́pʊ́
@@ -25728,13 +25801,13 @@ cf fonflo
 \xv Megyi ɔha ánɩ́ ototsu asuma aha sʋ pɛ gyi ɔkpɛpʋ. Ɔha ánɩ́ otolu mʋ ba, blɩ mʋ ɩwɩ asʋn lalahɛ pʋ kpɔɩ mʋ ɛ a, ɔkpɛpʋ ogyi.
 \xe It isn't a person who uses juju against people who is only a witch. A person who hates his neighbour and says evil things against him to spoil his name is also a witch.
 \rf Stewart List:0412
-\dt 22/Sep/2012
+\dt 15/Aug/2013
 
 \lx ɔkpɩpʋ
 \ph ɔk͡pɪpʊ́
 \ps n
 \ge fetish priest
-\sd TN-
+\sd TN-II.E.1.a; II.B.6.a
 \de fetish priest
 \pl akpɩpʋ
 \ph ak͡pɪpʊ́
@@ -25742,7 +25815,7 @@ cf fonflo
 \xe It is the fetish priest who gives sacrifices to the fetish.
 \xv Ɔkpɩpʋ amʋ lawi batɛ mʋ́ sʋ bawa mʋ obu tsɩra nu.
 \xe The fetish priest has stolen fowl so he has been jailed for five months.
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔkpɩtsa
 \ph ɔk͡pɪt͡saʔ
@@ -25922,7 +25995,7 @@ cf fonflo
 \ph ɔkwɪ̌ːpʊ́
 \ps n
 \ge parent
-\sd TN-
+\sd TN-II.E.1.c
 \de parent
 \pl akwɩɩpʋ
 \ph akwɪ̌ːpʊ́
@@ -25930,7 +26003,7 @@ cf fonflo
 \xe It is necessary for every parent to love his/her child in order that the child will also love people.
 \xv Akwɩɩpʋ bʋma tɩrɛ amʋ́ abi ansɩtɔ, mɛnɩ nyebi amʋ bʋmɔ́ɔbwɛ atɩrɛpʋ.
 \xe Parents should not quarrel in front of their children so that the children will not become quarrelsome children.
-\dt 28/Dec/2012
+\dt 15/Aug/2013
 
 \lx ɔla
 \ph ɔlá
@@ -26013,14 +26086,14 @@ cf fonflo
 \ph ɔlɛpʊ́
 \ps n
 \ge saviour
-\sd TN-
+\sd TN-II.E.1.c; II.A.6.e; II.B.6.c
 \de one who takes you out of trouble
 \cf lɛ "remove"
 \xv Ɔlɛpʋ gyi ɔha ánɩ́ ɔtɛlɛ fʋ tsu ɩkplan ntɛɛ asʋntɔ.
 \xe A saviour is one who takes you out of trouble or a tight place.
 \xv Anɩ ɔlɛpʋ gyi anɩ wie Yesu Kristo.
 \xe Our saviour is our Lord Jesus Christ.
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔlɔ
 \ph ɔlɔ(H)
@@ -26058,14 +26131,14 @@ cf fonflo
 \ph ɔlɔpʊ́
 \ps n
 \ge sick person
-\sd TN-
+\sd TN-II.E.1.c; II.A.6.a
 \de one who is sick, particularly in a chronic sense
 \pl alɔpʋ
 \ph alɔpʊ́
 \xv Igye onye fɛ́ɛ́ ɔlɔpʋ ɔkʋ lɛkɩmɩ sʋ mmɛtalɩ dɩdɩ.
 \xe All of last night a certain sick man was groaning so I couldn't sleep.
 \cf ɩlɔ "illness"
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔma
 \ph ɔma
@@ -26100,7 +26173,7 @@ cf fonflo
 \ph ɔmá
 \ps n
 \ge nation
-\sd TN-
+\sd TN-II.E.1.b
 \de nation
 \pl ɔma-ɔma
 \ph ɔmá ɔmá
@@ -26109,7 +26182,7 @@ cf fonflo
 \xv Ɔmá ɔmá fɛ́ɛ́ bufia abʋkɩta mʋ́ alɩa bɔ́bwɛ asa ɩwɩlwii bɛ́ba ɔyɩtɔ.
 \xe All nations should meet to decide how there will be peace in the world.
 \rf Stewart List:1506
-\dt 16/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔma oyibi
 \ph ɔma oyibi
@@ -26124,7 +26197,7 @@ cf fonflo
 \ph ɔma ɔlɪ̌ːpʊ́
 \ps n
 \ge supporter
-\sd TN-
+\sd TN-II.E.1.a; II.E.2.c
 \de advocate
 \pl ɔma alɩɩpʋ
 \ph ɔma alɪ̌ːpʊ́
@@ -26134,7 +26207,7 @@ cf fonflo
 \xv Aba begyi asʋn, ma gyi fʋ ɔma ɔlɩɩpʋ.
 \xe We are coming to judge the case who is your advocate, (who will speak for you).
 \rf Tape:6-1-076
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔmadalɩ
 \ph ɔmadalɪʔ
@@ -26178,25 +26251,26 @@ cf fonflo
 \de to be late
 \dt 09/Aug/2012
 
-\lx ɔmátɔfɔ
-\ph ɔmátɔ́fɔ
+\lx ɔmatoyin
+\ph ɔmátṍyĩ́ʔ
 \ps n
-\ge pagans
-\sd TN-
-\de pagans
-\nt ɔmatonyin- pagan man
+\ge pagan
+\sd TN-II.B.6.a
+\de pagan; follower of traditional religion
+\pl ɔmatɔfɔ
+\ph ɔmátɔ́fɔ
 \xv Ɔmatɔfɔ bʋtɔtswɛ ɔkpɩ pʋ́ asuma. Bʋtamayɔ asɔrɩ.
 \xe Pagans worship fetishes and juju(pl). They never go to church.
 \rf Tape:6-1-087
-\dt 23/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔmatɔpʋ
 \ph ɔmatɔpʊ
 \ps n
 \ge dead
-\sd TN-
+\sd TN-II.E.1.a; I.C.1.d
 \de dead person
-\dt 29/Aug/2012
+\dt 15/Aug/2013
 
 \lx ɔmɛ
 \ph ɔmɛ(H)
@@ -26309,9 +26383,10 @@ cf fonflo
 \lx ɔmɛtsɩ
 \ps n
 \ge what woman
+\sd TN-TN-II.E.1.a; II.B.2
 \de what sort of woman
 \le Obsolete
-\dt 28/Dec/2012
+\dt 15/Aug/2013
 
 \lx ɔmɛwʋlɩ
 \ph ɔmɛwʊ́lɪ
@@ -26426,7 +26501,7 @@ cf fonflo
 \ps n
 \sn 1
 \ge grandmother
-\sd TN-
+\sd II.E.1.c
 \lc ɔna
 \de grandmother
 \va na
@@ -26435,34 +26510,33 @@ cf fonflo
 \xv Mɩ aná gyi mɩ sɩ pʋ́ mɩ yɩn ayín;
 \xe My grandmothers are my father and mother's mothers.
 \rf Tape:4-2-497
-\xv Mɩ sɩ pʋ́ mɩ yín akwɩɩpʋ ɛ a, amʋ́ na gyi mɩ.
-\xe I am a grandchild to the parents of my father and my mother.
-\rf Tape:4-2-499
 \xv Ntɛtɩ mɩ na mbɛɛ, "Nana".
 \xe I call my grandmother "Nana".
 \xv Mɩ bi ɔkwɩɩ obi a, kebi gyi mɩ ɔna.
 \xe When my child gives birth to a child, that child is my grandchild
 \rf Stewart List:0313
-\rf Stewart List:0314
 \sn 2
 \ge grandchild
-\sd TN-
+\sd II.E.1.c
 \de grandchild
-\na Ɔna is a reciprocal term. 
-\dt 22/Aug/2012
+\xv Mɩ sɩ pʋ́ mɩ yín akwɩɩpʋ ɛ a, amʋ́ na gyi mɩ.
+\xe I am a grandchild to the parents of my father and my mother.
+\rf Tape:4-2-499
+\na Ɔna is a reciprocal term.
+\rf Stewart List:0314
+\dt 13/Aug/2013
 
 \lx ɔnain
 \ph ɔnáĩ́ʔ
 \ps n
 \ge grandfather
-\sd TN-
+\sd II.E.1.c
 \de grandfather
 \pl anain
-\nt nain (non-citation is LLL)
 \xv Mɩ nain gyi mɩ sɩ ntɛ mɩ yin mʋ sɩ.
 \xe My grandfather is my father or my mother's father.
 \rf Tape:4-2-515
-\xv Ntɛtɩ mɩ nain mbɛɛ, " Nanain".
+\xv Ntɛtɩ mɩ nain mbɛɛ, "Nanain".
 \xe I call my grandfather, "Nanain".
 \xv Mɩ bi mʋ bi ɔtɩ mʋ́ ɔbɛɛ Nanain.
 \xe My child's child will call me Nanain.
@@ -26470,7 +26544,7 @@ cf fonflo
 \cf anain Eng:ancestors
 \cf Natɩna Eng:great-great-grandmother/great-great-grandfather
 \rf Stewart List:0312
-\dt 26/Dec/2012
+\dt 14/Aug/2013
 
 \lx ɔnamba
 \ph ɔnambá
@@ -26552,9 +26626,9 @@ cf fonflo
 \ph ɔ́nɪ
 \ps n
 \ge this person
-\sd TN-
+\sd TN-II.E.1.a; I.C.5
 \de this person
-\dt 10/Jan/2012
+\dt 15/Aug/2013
 
 \lx ɔnlɩn
 \ph ɔ̃nlɪ̃ʔ
@@ -26666,7 +26740,7 @@ cf fonflo
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
 \ps n
 \ge leader
-\sd TN-
+\sd TN-II.E.4.c
 \de leader
 \pl ɔnɔ alɩɩpʋ
 \ph ɔnɔ́ alɪ̌ːpʊ́
@@ -26674,7 +26748,7 @@ cf fonflo
 \xe Church leaders will meet to plan about Churches.
 \xv Ɔnɔ alɩɩpʋ okugyiɔkʋ anfɩ bʋtesia mʋ.
 \xe They insult every leader.
-\dt 28/Dec/2012
+\dt 15/Aug/2013
 
 \lx ɔnɔkwalɩ
 \ph ɔnɔkwalɪ
@@ -26695,7 +26769,7 @@ cf fonflo
 \ph ɔnɔkwalɪpʊ
 \ps n
 \ge faithful person
-\sd TN-
+\sd TN-II.B.2; II.B.5.a.i
 \de a person who can be trusted
 \pl anɔkwalɩpʋ
 \ph anɔkwalɪpʊ
@@ -26703,7 +26777,7 @@ cf fonflo
 \xe Kwasi is the faithful person in the town
 \xv Kwaku ɔnɔkwalɩ wa sʋ bɔ́pʋ mʋ yaɩ owie nɩ.
 \xe Because of Kwaku's faithfulness that was why he was installed a chief.
-\dt 16/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔnsɩkɛtɛ
 \ph ɔnsɪ́kɛ́tɛ
@@ -26856,7 +26930,7 @@ cf fonflo
 \ph mpasua(H)
 \xv Sadukiifɔ bʋgyi ɔpasua kʋ ánɩ́ bʋtɛblɩ bɛɛ aha bowu bʋmɛ́ɛtra kʋsʋ tsu afulitɔ.
 \xe The Sadducees were a group that they said that people who die will not rise again from the dead.
-\dt 01/Oct/2012
+\dt 15/Aug/2013
 
 \lx ɔpawisʋ
 \ph ɔpawísʊ́
@@ -26884,7 +26958,7 @@ cf fonflo
 \ph ɔpayĩʔ
 \ps n
 \ge labourer
-\sd TN-
+\sd TN-II.E.1.a; II.D.8
 \de labourer
 \pl apafɔ
 \ph apafɔ
@@ -26892,7 +26966,7 @@ cf fonflo
 \bw Akan fi:ɔpaani
 \xv Nabɔ ɔpayin ɔkʋ ɩpa ánɩ́ ɔdɔ mɩ ndɔtɔ ha mɩ, fówun mɩanka mʋ ɩkɔ.
 \xe I have hired a labourer to weed my farm for me so that I pay him.
-\dt 03/Apr/2012
+\dt 15/Aug/2013
 
 \lx ɔpɛwa
 \ph ɔpɛwa(H)
@@ -27205,7 +27279,7 @@ cf fonflo
 \ps n
 \va sɩ
 \ge father
-\sd TN-
+\sd II.E.1.a
 \de father
 \pl asɩ
 \ph asɪ́
@@ -27215,7 +27289,7 @@ cf fonflo
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
 \xe It is necessary that every child will respect his father so that the father also looks after his child well.
 \rf Stewart List:0304
-\dt 16/Dec/2012
+\dt 13/Aug/2013
 
 \lx ɔsɩkɛtɛ
 \ph ɔsɪ́kɛ́tɛ
@@ -27305,7 +27379,7 @@ cf fonflo
 \ph ɔsɔ́fɔ(H)
 \ps n
 \ge priest
-\sd TN-
+\sd TN-II.E.1.a; II.B.6.c
 \de pastor; priest; used only of Christians
 \pl asɔfɔ
 \ph asɔ́fɔ(H)
@@ -27315,7 +27389,7 @@ cf fonflo
 \xv Ɔsɔfɔ akʋ bʋ bʋ alɛ, akʋ ɛ bʋ mʋ́ alɛ.
 \xe Some pastors are good, some too are not good.
 \rf Tape:6-1-398
-\dt 10/Jan/2012
+\dt 15/Aug/2013
 
 \lx ɔsɔhwɩɛ
 \ph ɔsɔ́hʷɪ́ɛ́
@@ -27394,8 +27468,8 @@ cf fonflo
 \ps n
 \sn 1
 \ge widow
-\sd TN-
-\de widow
+\sd TN-II.E.1.c
+\de widow / widower
 \pl asʋrapʋ
 \ph asʊrapʊ
 \nt the sʋra here in v-ɔ pʋ construction would be LLʔ (as opposed to LH to carry) but is a bound morpheme
@@ -27406,17 +27480,17 @@ cf fonflo
 \ge carrier
 \sd TN-
 \de one who is carrying a load
-\dt 11/Oct/2005
+\dt 15/Aug/2013
 
 \lx ɔsʋrapʋka
 \ph ɔsʊrapʊká
 \ps n
 \ge widow's husband
-\sd TN-
+\sd TN-II.E.1.c
 \de man that marries a widow
 \pl asʋrapʋka
 \ph asʊrapʊká
-\dt 17/Aug/2012
+\dt 15/Aug/2013
 
 \lx ɔsʋsʋ
 \ph ɔsʊ́sʊ́
@@ -27565,7 +27639,7 @@ cf fonflo
 \ph ɔtapʊ́
 \ps n
 \ge hunter
-\sd TN-
+\sd TN-II.D.4.a
 \de hunter
 \pl atapʋ
 \ph atapʊ́
@@ -27576,19 +27650,19 @@ cf fonflo
 \xe All the hunters have decided not to go to the mountain to hunt anymore.
 \rf Tape:6-1-461
 \rf Stewart List:0409
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
-\lx Ɔtapʋ nyambi
-\ph Ɔtapʊ́ ɲámbi
+\lx ɔtapʋ nyambi
+\ph ɔtapʊ́ ɲámbi
 \ps n
 \ge a hunter's servant
-\sd TN-
+\sd TN-II.D.4.a
 \de a person who follows a hunter to the bush
 \pl atapʋ nyambi
 \ph atapʊ́ ɲámbi
 \xv Ɔtapʋ nyambi gyi ɔha ánɩ́ otobuo ɔtapʋ yɔ pututɔ.
 \xe A hunter's servant is someone who follows a hunter to the bush.
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔtatibi
 \ph ɔtatibíʔ
@@ -27677,10 +27751,10 @@ cf fonflo
 \lx ɔtɩansɩpʋ
 \ph ɔtɪansɪpʊ
 \ps n
-\ge wise man
-\sd TN-
-\de wise man
-\dt 12/Feb/2008
+\ge clever man
+\sd TN-II.E.1.a; II.B.1
+\de clever man
+\dt 15/Aug/2013
 
 \lx ɔtɩnɛ
 \ph ɔtɪ́nɛ́
@@ -27725,13 +27799,13 @@ cf fonflo
 \ph ɔtɔɪ́k͡plápʊ́
 \ps n
 \ge Counsellor/ adviser
-\sd TN-
+\sd TN-II.E.1.a; II.B.1
 \de one who advises people
 \pl atɔɩkplapʋ
 \ph atɔɪ́k͡plápʊ́
 \xv Anɩ sɩ Brabi gyi ɔtɔɩkplapʋ ha Ghana aban.
 \xe Mr. Brabi is a counsellor for the Ghana government.
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔtɔntrɔbwɩ
 \ph ɔtɔntrɔbwɪ(H)
@@ -27776,14 +27850,14 @@ cf fonflo
 \ph ɔtrá!pʊ́
 \ps n
 \ge Newly delivered woman
-\sd TN-
+\sd TN-II.E.1.a
 \de the mother of a newly born baby
 \nt term is good for one year
 \pl atrapʋ
 \ph atrá!pʊ́
 \xv Ilehian ánɩ́ ɔtrapʋ ɔbɛ́ha mʋ bi nyɔpʋ nɩ mɔtsɔ-mɔtsɔ kʋraa lɛha nfi nyɔ.
 \xe It is necessary that the mother of a newly born baby should breast feed her child at least for two years.
-\dt 16/Jul/2012
+\dt 14/Aug/2013
 
 \lx ɔtrʋ
 \ph ɔtrʊ
@@ -27936,7 +28010,7 @@ cf fonflo
 \ph ɔt͡sɪʔ(H)
 \ps n
 \ge woman
-\sd TN-
+\sd TN-II.E.1.a
 \de woman
 \pl atsɩ
 \ph at͡sɪʔ(H)
@@ -27946,13 +28020,13 @@ cf fonflo
 \nt From ths: terms for females: ɔtsɩ/atsɩ, otsibi/atsibi, obitebi/mbitebi, abrɩwa/mbrɩwa, oyín/ayín, nana, tasii, ɔtrapʋ, opio
 \cf otsibi
 \rf Stewart List:0202
-\dt 21/Aug/2012
+\dt 14/Aug/2013
 
 \lx ɔtsɩamɩ
 \ph ɔt͡ʃɪámɪ(H)
 \ps n
 \ge linguist
-\sd TN-
+\sd TN-II.E.2.b
 \de spokesman of a chief
 \pl ntsɩamɩ
 \ph nt͡ʃɪámɪ(H)
@@ -27961,7 +28035,7 @@ cf fonflo
 \xe This man is the senior linguist in this town.
 \xv Ɔtsɩamɩ wanklaan gyi ɔtsɩamɩ ánɩ́ ɔtɔtɔɩ agywɩɩnsʋ wankaan.
 \xe A good linguist is the linguist that talks sensibly.
-\dt 21/Aug/2012
+\dt 15/Aug/2013
 
 \lx ɔtsɩrɩbɩ
 \ph ɔt͡sɪrɪ́bɪ́ʔ
@@ -28059,9 +28133,9 @@ cf fonflo
 \ph ɔt͡swapʊ́
 \ps n
 \ge robber
-\sd TN-
+\sd TN-II.E.1.a; II.B.4
 \de robber
-\dt 29/Aug/2012
+\dt 15/Aug/2013
 
 \lx ɔtswɩnkɩ
 \ph ɔt͡swɪ́ŋkɪ́
@@ -28303,7 +28377,7 @@ cf fonflo
 \ph ɔwʊ̃nlɪ̃́pʊ́
 \ps n
 \ge strong person
-\sd TN-
+\sd TN-II.E.1.a; I.C.5
 \de someone who is healthy/a strong person
 \pl awʋnlɩnpʋ
 \ph awʊnlɪ́npʊ́
@@ -28312,7 +28386,7 @@ cf fonflo
 \xv Ɔwʋnlɩnpʋ gyi ɔha ánɩ́ ɔtɛtalɩ yɔ agyuma kpekple.
 \xe A strong person is one that can do hard work.
 \rf Tape:3-1-088
-\dt 16/Jul/2012
+\dt 15/Aug/2013
 
 \lx ɔyaa
 \ph ɔyǎː
@@ -28329,7 +28403,7 @@ cf fonflo
 \ph ɔyasubi(H)
 \ps n
 \ge young man
-\sd TN-
+\sd TN-II.E.1.a; II.E.1.c.i
 \de young man compound word
 \pl nyasubi
 \ph ɲasubi(H)
@@ -28339,7 +28413,7 @@ cf fonflo
 \rf Tape:6-2-054
 \cf obitebi "young woman"
 \rf Stewart List:0206
-\dt 01/Oct/2012
+\dt 15/Aug/2013
 
 \lx ɔyasʋ
 \ph ɔyasʊ(H)
@@ -28457,11 +28531,11 @@ cf fonflo
 \ph Pâːpá
 \ps n
 \ge father
-\sd TN-
+\sd TN-II.E.1.c
 \de way of calling your father
 \xv Paapa nobwipa, ha mɩ kɔba
 \xe Father I beg you, give me money.
-\dt 10/Jan/2012
+\dt 15/Aug/2013
 
 \lx paatɩ
 \ph paːtɪ(H)
@@ -28856,11 +28930,11 @@ cf fonflo
 \ph pɪ(H)
 \ps n
 \ge people
-\sd TN-
+\sd TN-II.E.1.a
 \de a group of people in which one belongs
 \xv Anɩlɔyɔ ɩlʋ ɔwakpa a, aha tsɔtsɔɔtsɔ lɔbɔwa ɩlʋ tamɛ anɩpɩ legyisʋ.
 \xe When we went for singing competition, many people came to sing but our people won.
-\dt 05/Jul/2005
+\dt 15/Aug/2013
 
 \lx pɩa
 \ph pɪ́a(H)
@@ -30016,13 +30090,13 @@ cf fonflo
 \ph satĩʔ
 \ps n
 \ge headless body
-\sd TN-
+\sd TN-II.A.1.a; II.E.5.b
 \de body of a beheaded person
 \xv Satin bʋ ifu.
 \xe Headless corpse is fearful.
 \xv Bɛtɩn Asu Ɔbɔpʋ Yohanes nwun, pʋ mʋ nwun amʋ natɩ si satin amʋ tswɩ nʋ.
 \xe John the Baptist was beheaded, the head was taken away and left the headless corpse there.
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx sawun
 \ph sawũʔ
@@ -30562,7 +30636,7 @@ cf fonflo
 \ph soʤayĩʔ
 \ps n
 \ge soldier
-\sd TN-
+\sd TN-II.E.3.b
 \de soldier- usually implying government military
 \pl asogyafɔ
 \ph asoʤafɔ
@@ -30572,7 +30646,7 @@ cf fonflo
 \xe This soldier is not strong.
 \xv Anɩ asogyafɔ bʋbʋ ɔnlɩn dʋn Ɔklɩfɔfɔ klɛ.
 \xe Our soldiers are stronger than the Alavanyos'.
-\dt 28/Dec/2012
+\dt 15/Aug/2013
 
 \lx soholi
 \ph soholi
@@ -30876,13 +30950,13 @@ cf fonflo
 \ph sumbí ɔyɔpʊ́
 \ps n
 \ge errand runner
-\sd TN-
+\sd TN-II.E.1.e
 \de a person who runs errand, messenger
 \pl sumbi ayɔpʋ
 \ph sumbí ayɔpʊ́
 \xv Ɔha ánɩ́ bɔwa mʋ sumbi, ɔtɔyɔ, wa ɔsa yinki ba a, sumbi ɔyɔpʋ wanklaan ogyi.
 \xe A person who is being sent on an errand and he goes and comes back quickly is a good errand runner.
-\dt 01/Oct/2012
+\dt 15/Aug/2013
 
 \lx sumuɛ
 \ph sumuɛ(H)
@@ -31226,9 +31300,9 @@ cf fonflo
 \ph sʊtĩ́ʔ
 \ps n
 \ge deaf person
-\sd TN-
+\sd TN-II.E.1.a; II.A.6.c
 \de deaf person
-\dt 02/Apr/2012
+\dt 15/Aug/2013
 
 \lx swɛɛ
 \ph swɛ̂ːʔ
@@ -31396,7 +31470,7 @@ cf fonflo
 \ph tabíʔ
 \ps n
 \ge twin
-\sd TN-
+\sd TN-II.E.1.a
 \de twin
 \pl atabi
 \xv Kɩ, Lowu pʋ́ Nkpa bʋgyi atabi.
@@ -31406,7 +31480,7 @@ cf fonflo
 \xe Rebecca birthed twins. They called the firstborn Esau. They called the second Jacob.
 \rf Stewart List:0210
 \rf Stewart List:0211
-\dt 05/Jul/2012
+\dt 15/Aug/2013
 
 \lx tafa
 \ph táfá
@@ -31599,13 +31673,13 @@ cf fonflo
 \ph tásǐː
 \ps n
 \ge aunt
-\sd TN-
+\sd TN-II.E.1.c
 \de reciprocal relationship between a child and his/her Father's sister. Each will call the other "Tasii"
 \pl atasii
 \ph atásǐː
-\xv Mɩ tasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
-\xe My paternal aunt has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because they are not from the same family.
-\dt 16/Jul/2012
+\xv Mɩ atasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
+\xe My paternal aunts has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because they are not from the same family.
+\dt 13/Aug/2013
 
 \lx tati
 \ph tati(H)
@@ -33844,7 +33918,6 @@ cf fonflo
 \xe They spin cotton to make rope.
 \rf Tape:7-2-553
 \rf Tape:7-2-556
-\xe Where is my dash?
 \sn 3
 \ge swing arms
 \sd TN-
@@ -33885,7 +33958,7 @@ cf fonflo
 \ge dive
 \sd TN-
 \de to dive into something
-\dt 15/Sep/2012
+\dt 13/Aug/2013
 
 \lx tswɩ lala
 \ph t͡swɪ lala
@@ -34761,17 +34834,17 @@ cf fonflo
 \ps n
 \sn 1
 \ge nephew; uncle
-\sd TN-
+\sd TN-II.E.1.c
 \de child of man's sister / female cousin; brother of child's mother
 \na This is a reciprocal relationship. The uncle and the nephew / neice will call each other "Wɔfa."
 \bw Akan fi:wɔfa
 \cf bitɛpʋ
 \sn 2
 \ge patron
-\sd TN-
+\sd TN-TN-II.E.1.c
 \de patron
 \na The Akans have matrilineal inheritance, so one inherits from one's wɔfa. Hence, the patronage relationship.
-\dt 17/Aug/2012
+\dt 12/Aug/2013
 
 \lx wɔɩ
 \hm 1
