@@ -6436,14 +6436,6 @@
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \dt 28/Dec/2012
 
-\lx dɔhwɩrɩ
-\ph dɔhwɪrɪ
-\ps n
-\ge hour
-\sd TN-
-\de hour of the day
-\dt 22/Apr/2007
-
 \lx dɔkɩta
 \ph dɔkɪ́ta
 \ps n
@@ -6804,17 +6796,7 @@
 \rf Tape:5-2-334
 \cf limba (large axe for felling trees)
 \rf Stewart List:1201
-\dt 01/Sep/2012
-
-\lx ɛfɛ
-\ph ɛfɛ(H)
-\ps n
-\ge axe
-\sd TN-
-\de axe
-\va ɔfɛ
-\ve North only
-\dt 23/Dec/2012
+\dt 14/Aug/2013
 
 \lx ɛkɛ
 \ph ɛkɛ
@@ -15526,14 +15508,6 @@ cf fonflo
 \rf Stewart List:1197
 \dt 22/Aug/2012
 
-\lx Kristofɔ
-\ph kristofɔ
-\ps n
-\ge Christians
-\sd TN-
-\de Christians
-\dt 29/Aug/2012
-
 \lx kua kʋlɛ
 \ph kua kʊlɛ
 \ps ADJ
@@ -16246,6 +16220,18 @@ cf fonflo
 \sd TN-II.D.4.c
 \de beehive
 \dt 28/Jul/2013
+
+\lx Kwawu
+\ph kwawu
+\ps n
+\ge Akan
+\sd TN-II.E.1.b
+\de Akan (Twi) language
+\se Kwawufɔ
+\ge Akans
+\de speakers of the Akan (Twi) language
+\nt Kwawu draws its name from the Akan people whose capital is Abene, near Abetifi.
+\dt 14/Aug/2013
 
 \lx kwebi
 \ph kwebi
@@ -18722,16 +18708,6 @@ cf fonflo
 \rf Tape:4-2-578
 \dt 26/Dec/2012
 
-\lx ndoum
-\ph ndoum
-\ps n
-\ge captive
-\sd TN-
-\de captive
-\xv Bɛkɩta amʋ́ ndoum brɛa amʋ́ʋ́ bɔkɔ ɩsa amʋ.
-\xe They were held captives the time that there was war.
-\dt 07/Sep/2005
-
 \lx ndɔ
 \ph ndɔ
 \ps n
@@ -21000,22 +20976,6 @@ cf fonflo
 \nt From ths: terms for females: ɔtsɩ/atsɩ (woman/women), ɔtsɩbi/atsɩbi (girl/girls), obitebi/mbitebi (lady/ladies), abriwa/mbrɩwa (old lady/old ladies), oyín/ayín (man/men), nana (grandmother), tasii (aunt/niece), ɔtrapʋ (newly born lady), opio (brother/sister), ɔka (wife), okulu (husband), ɔkaba (rival).
 \dt 26/Dec/2012
 
-\lx obitɛpʋ
-\ph obitɛpʊʔ
-\ps n
-\ge sister's child
-\sd TN-
-\ge mother's brother/uncle/cousin
-\sd TN-
-\de a reciprocal relationship between an uncle (mother's brother) and a child of one's sister
-\pl abitɛpʋ
-\ph abitɛpʊʔ
-\xv Nkonyafɔ bʋtegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋtegyi abitɛpʋ klɛ.
-\xe Nkonyas (they) inherit fathers' possessions, but Ashantis inherit their maternal uncle's
-\rf Tape:1-1-229
-\xv Bɔ́pʋ owie pɔpwɛ amʋ ya mʋ bitɛpʋ ánɩ́ ɔbɛ́kɩ mʋsʋ.
-\xe They will take the new chief to his mother's brother that will look after him.
-\dt 16/Jul/2012
 
 \lx -OBLIG-
 \ph -OBLIG-
