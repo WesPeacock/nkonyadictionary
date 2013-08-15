@@ -48,7 +48,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 0 0 1186 446
-\z 0
+\z 1
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 150
@@ -80,7 +80,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɔna
+\fldPri wʋdɩ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -117,7 +117,7 @@
 \-brf
 \+brf 
 \mkr mr
-\width 378
+\width 402
 \-brf
 \-brflst
 \+ind 
@@ -130,11 +130,11 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɔna
+\fldPri wʋdɩ
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri ɛ́ɛ
+\fldPri otsibi
 \MatchWhole
 \match_char p
 \-keyInsert
@@ -148,8 +148,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \+wndlst 
 \+wnd 
-\placement normal 0 637 0 25 229 1 1391 554
-\z 8
+\placement normal 0 637 0 25 350 1 1391 554
+\z 9
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -172,7 +172,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 460
+\width 363
 \-brf
 \-brflst
 \+ind 
@@ -181,8 +181,8 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey ɔna
-\fldSecKey 2
+\fldPriKey tabi
+\fldSecKey
 \-rec
 \+keySearch 
 \fldPri JHN.11:16
@@ -192,13 +192,13 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 22
-\CaretLineScroll 8
-\CaretChar 8
+\CaretLine 4
+\CaretLineScroll 4
+\CaretChar 11
 \-wnd
 \+wnd 
 \placement normal 0 25 0 25 138 138 1153 662
-\z 7
+\z 4
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -225,7 +225,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 189
+\width 213
 \-brf
 \-brflst
 \+ind 
@@ -248,11 +248,63 @@
 \-keyInsert
 \CaretLine 10
 \CaretLineScroll 10
-\CaretChar 0
+\CaretChar 11
 \-wnd
 \+wnd 
-\placement normal 0 25 -8 -28 609 23 1242 648
-\z 9
+\placement normal 0 25 -8 -28 759 6 1639 899
+\z 10
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\Browse
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 162
+\-brf
+\+brf 
+\mkr pl
+\width 162
+\-brf
+\+brf 
+\mkr ps
+\width 162
+\-brf
+\+brf 
+\mkr ge
+\width 163
+\-brf
+\+brf 
+\mkr sd
+\width 161
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey ge
+\fil checkps
+\-ind
+\+rec 
+\fldPriKey wʋdɩ
+\fldSecKey porridge
+\-rec
+\+keySearch 
+\fldPri JHN.11:16
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\+wnd 
+\placement min 0 884 -1 -1 54 80 1541 726
+\z 0
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -263,41 +315,27 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr lx
-\width 168
+\width 213
 \-brf
 \+brf 
 \mkr ph
-\width 168
-\-brf
-\+brf 
-\mkr pl
-\width 168
-\-brf
-\+brf 
-\mkr php
-\width 44
+\width 213
 \-brf
 \+brf 
 \mkr ps
-\width 0
+\width 213
 \-brf
 \+brf 
 \mkr ge
-\width 0
-\-brf
-\+brf 
-\mkr sd
-\width 25
+\width 809
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey php
-\srtPriKey abcde
-\mkrSecKey lx
+\mkrPriKey va
+\srtPriKey NkonyaU
 \-ind
 \+rec 
 \fldPriKey
-\fldSecKey tswɩ
 \-rec
 \+keySearch 
 \fldPri JHN.11:16
@@ -307,9 +345,60 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 24
+\CaretLine 0
 \CaretLineScroll 0
-\CaretChar 12
+\CaretChar 0
+\-wnd
+\+wnd 
+\placement normal -1 -1 -1 -1 54 80 1541 726
+\z 6
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 162
+\-brf
+\+brf 
+\mkr pl
+\width 162
+\-brf
+\+brf 
+\mkr ps
+\width 162
+\-brf
+\+brf 
+\mkr ge
+\width 163
+\-brf
+\+brf 
+\mkr sd
+\width 792
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey pl
+\srtPriKey NkonyaU
+\-ind
+\+rec 
+\fldPriKey apafɔ
+\-rec
+\+keySearch 
+\fldPri JHN.11:16
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 4
+\CaretLineScroll 4
+\CaretChar 19
 \-wnd
 \-wndlst
 \-db
@@ -318,7 +407,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 120 120 1306 566
-\z 1
+\z 2
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -350,7 +439,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɔna
+\fldPri wʋdɩ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -366,7 +455,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 160 729 0 25 106 147 1246 611
-\z 2
+\z 3
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -387,7 +476,6 @@
 \fldPriKey 2
 \-rec
 \+keySearch 
-\fldPri JHN.11:16
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -404,8 +492,8 @@
 \+db C:\My Toolbox Projects\Nkonya\MDFields19a.txt
 \+wndlst 
 \+wnd 
-\placement normal 0 729 -8 -28 625 6 1182 551
-\z 3
+\placement normal 0 729 -8 -28 347 307 959 852
+\z 7
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -419,7 +507,7 @@
 \-brf
 \+brf 
 \mkr lx
-\width 231
+\width 215
 \-brf
 \+brf 
 \mkr ps
@@ -427,54 +515,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 8
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey key
-\srtPriKey Default
-\-ind
-\+rec 
-\fldPriKey sd
-\-rec
-\+keySearch 
-\fldPri JHN.11:16
-\match_char p
-\-keySearch
-\+keyInsert 
-\fldPri sd Tony Naden
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 143
-\CaretLineScroll 143
-\CaretChar 4256
-\-wnd
-\+wnd 
-\placement normal 0 25 -8 -28 187 83 1232 547
-\z 4
-\ViewMarkers
-\widthMarkerArea 102
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr key
-\width 279
-\-brf
-\+brf 
-\mkr lx
-\width 279
-\-brf
-\+brf 
-\mkr ps
-\width 279
-\-brf
-\+brf 
-\mkr ge
-\width 169
+\width 79
 \-brf
 \-brflst
 \+ind 
@@ -485,7 +526,7 @@
 \fldPriKey sd Tony Naden
 \-rec
 \+keySearch 
-\fldPri JHN.11:16
+\fldPri va
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -493,9 +534,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 202
-\CaretLineScroll 200
-\CaretChar 5535
+\CaretLine 209
+\CaretLineScroll 207
+\CaretChar 5745
 \-wnd
 \-wndlst
 \-db
@@ -503,10 +544,11 @@
 \+db C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
 \+wndlst 
 \+wnd 
-\placement normal 0 25 0 25 0 0 718 651
-\z 6
+\placement normal 0 25 -4 -41 0 0 479 651
+\z 8
 \ViewMarkers
 \widthMarkerArea 50
+\Browse
 \JumpTarget
 \FocusTarget
 \+brflst 
@@ -514,7 +556,7 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr wd
-\width 497
+\width 258
 \-brf
 \+brf 
 \mkr is
@@ -527,8 +569,8 @@
 \mkrSecKey is
 \-ind
 \+rec 
-\fldPriKey father's sister
-\fldSecKey II.E.1.c
+\fldPriKey deaf
+\fldSecKey II.A.6.c
 \-rec
 \+keySearch 
 \match_char p
@@ -537,42 +579,15 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 14
 \-wnd
 \-wndlst
 \-db
 
 \-dblst
 \+Find 
-\Field ge
+\Field xe
 \match_char p
 \+ftxlst 
-\+ftx 
-\text cup
-\lng English
-\-ftx
-\+ftx 
-\text expect
-\lng English
-\-ftx
-\+ftx 
-\text promise
-\lng English
-\-ftx
-\+ftx 
-\text rust
-\lng English
-\-ftx
-\+ftx 
-\text needle
-\lng English
-\-ftx
-\+ftx 
-\text bottle
-\lng English
-\-ftx
 \+ftx 
 \text key
 \lng English
@@ -627,6 +642,30 @@
 \-ftx
 \+ftx 
 \text nakuma
+\lng vernacular
+\-ftx
+\+ftx 
+\text tsibi
+\lng vernacular
+\-ftx
+\+ftx 
+\text ɔtsɩbi
+\lng Default
+\-ftx
+\+ftx 
+\text proper
+\lng Default
+\-ftx
+\+ftx 
+\text church
+\lng Default
+\-ftx
+\+ftx 
+\text Nanain
+\lng vernacular
+\-ftx
+\+ftx 
+\text Alavanyo
 \lng vernacular
 \-ftx
 \-ftxlst
