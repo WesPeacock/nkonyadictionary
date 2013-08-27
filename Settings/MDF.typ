@@ -908,8 +908,8 @@
 \-fil
 
 \+fil search
-\mkr lx
-\txt ts
+\mkr sd
+\txt TN-[#]
 \match_char c
 \-fil
 
