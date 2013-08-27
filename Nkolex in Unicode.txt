@@ -3320,16 +3320,15 @@
 \ph atumpa(H)
 \ps n
 \ge talking drum
-\sd II.E.2.a
+\sd TN-II.E.2.a
 \de Ashanti talking drums
 \nt These drums are usually beaten using the Akan language
 \bw Akan fi:atumpa LLH
 \xv Nɩ bʋdɛ atumpa da, ɔhandɛ ɔkʋ dɛtsʋn a, bʋtɛda mʋ adabi pʋ tɩ mʋ.
 \xe If they are beating the talking drums and an elder is passing by, they beat his appellation and call him.
 \rf Tape:1-1-111
-\sd ɩkwɛ
 \rf Stewart List:1191
-\dt 28/Jul/2013
+\dt 26/Aug/2013
 
 \lx atuu
 \ph atûː
@@ -9278,7 +9277,7 @@
 \ph ibíá óʤípʊ́ʔ
 \ps n cf gyi bia
 \ge merchant
-\sd TN-TN-II.E.1.a; II.D.5.b
+\sd TN-II.E.1.a; II.D.5.b
 \de merchant
 \pl bia- agyipʋ
 \ph bíá- áʤípʊ́
@@ -9286,7 +9285,7 @@
 \xv Papa Asiedu gyi bia ogyipʋ.
 \xe Papa Asiedu is a merchant.
 \rf Stewart List:0411
-\dt 14/Aug/2013
+\dt 26/Aug/2013
 
 \lx ibu
 \ph ibúʔ
@@ -13041,9 +13040,9 @@
 \ph kɪaɪbi
 \ps n
 \ge pup
-\sd TN-TN-II.C.6
+\sd TN-II.C.6
 \de small dog
-\dt 28/Jul/2013
+\dt 26/Aug/2013
 
 \lx kɩansɩ
 \ph kɪansɪ́
@@ -20875,7 +20874,7 @@ cf fonflo
 \ps n
 \va bi
 \ge child
-\sd II.E.1.a
+\sd TN-II.E.1.a
 \de child; young of animal
 \pl abi
 \ph abíʔ
@@ -20885,7 +20884,7 @@ cf fonflo
 \xe It is good that everybody will have one child before their death.
 \rf Tape:1-2-406
 \rf Stewart List:0308
-\dt 13/Aug/2013
+\dt 26/Aug/2013
 
 \lx obia
 \hm 1
@@ -22293,12 +22292,12 @@ cf fonflo
 \lx okugyiɔkʋ
 \ph okuʤiɔkʊ
 \ps n
-\ge everyoneI.
-\sd C.2.b
+\ge everyone
+\sd TN-I.C.2.b
 \de every animate person (animal, person, and animate objects like stars)
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
 \xe It is necessary that every child will respect his father so that the father also looks after his child well.
-\dt 14/Aug/2013
+\dt 26/Aug/2013
 
 \lx okuku
 \hm 1
@@ -23668,7 +23667,7 @@ cf fonflo
 \ph owik͡plu(H)
 \ps n
 \ge thief
-\sd TN-́II.B.4; II.B.5.b.i; II.E.1.e; II.E.3.b
+\sd TN-II.B.4; II.B.5.b.i; II.E.1.e; II.E.3.b
 \de thief
 \pl awikplu
 \ph awik͡plu(H)
@@ -23676,7 +23675,7 @@ cf fonflo
 \xe If you steal a thief's things it troubles him a lot because he also steals peoples things.
 \rf Stewart List:0413
 \va oyikplu
-\dt 14/Aug/2013
+\dt 26/Aug/2013
 
 \lx owilɩn
 \ph owilɪ̃́ʔ
@@ -26363,10 +26362,10 @@ cf fonflo
 \lx ɔmɛtsɩ
 \ps n
 \ge what woman
-\sd TN-TN-II.E.1.a; II.B.2
+\sd TN-II.E.1.a; II.B.2
 \de what sort of woman
 \le Obsolete
-\dt 15/Aug/2013
+\dt 26/Aug/2013
 
 \lx ɔmɛwʋlɩ
 \ph ɔmɛwʊ́lɪ
@@ -26481,7 +26480,7 @@ cf fonflo
 \ps n
 \sn 1
 \ge grandmother
-\sd II.E.1.c
+\sd TN-II.E.1.c
 \lc ɔna
 \de grandmother
 \va na
@@ -26497,20 +26496,20 @@ cf fonflo
 \rf Stewart List:0313
 \sn 2
 \ge grandchild
-\sd II.E.1.c
+\sd TN-II.E.1.c
 \de grandchild
 \xv Mɩ sɩ pʋ́ mɩ yín akwɩɩpʋ ɛ a, amʋ́ na gyi mɩ.
 \xe I am a grandchild to the parents of my father and my mother.
 \rf Tape:4-2-499
 \na Ɔna is a reciprocal term.
 \rf Stewart List:0314
-\dt 13/Aug/2013
+\dt 26/Aug/2013
 
 \lx ɔnain
 \ph ɔnáĩ́ʔ
 \ps n
 \ge grandfather
-\sd II.E.1.c
+\sd TN-II.E.1.c
 \de grandfather
 \pl anain
 \xv Mɩ nain gyi mɩ sɩ ntɛ mɩ yin mʋ sɩ.
@@ -26524,7 +26523,7 @@ cf fonflo
 \cf anain Eng:ancestors
 \cf Natɩna Eng:great-great-grandmother/great-great-grandfather
 \rf Stewart List:0312
-\dt 14/Aug/2013
+\dt 26/Aug/2013
 
 \lx ɔnamba
 \ph ɔnambá
@@ -27259,7 +27258,7 @@ cf fonflo
 \ps n
 \va sɩ
 \ge father
-\sd II.E.1.a
+\sd TN-II.E.1.a
 \de father
 \pl asɩ
 \ph asɪ́
@@ -27269,7 +27268,7 @@ cf fonflo
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
 \xe It is necessary that every child will respect his father so that the father also looks after his child well.
 \rf Stewart List:0304
-\dt 13/Aug/2013
+\dt 26/Aug/2013
 
 \lx ɔsɩkɛtɛ
 \ph ɔsɪ́kɛ́tɛ
@@ -28196,7 +28195,7 @@ cf fonflo
 \ph ɔwãmpʊ
 \ps n
 \ge hawk
-\sd TN-TN-I.B.2.b
+\sd TN-I.B.2.b
 \de hawk
 \pl
 \ph
@@ -34820,10 +34819,10 @@ cf fonflo
 \cf bitɛpʋ
 \sn 2
 \ge patron
-\sd TN-TN-II.E.1.c
+\sd TN-II.E.1.c
 \de patron
 \na The Akans have matrilineal inheritance, so one inherits from one's wɔfa. Hence, the patronage relationship.
-\dt 12/Aug/2013
+\dt 26/Aug/2013
 
 \lx wɔɩ
 \hm 1
