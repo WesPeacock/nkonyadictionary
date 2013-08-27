@@ -2761,10 +2761,10 @@
 \lx asomodɩɛ
 \ph asomodɪɛ
 \ps n
-\ge ear ring
+\ge earring
 \sd TN-
 \de ring in ears
-\dt 20/Sep/2005
+\dt 26/Aug/2013
 
 \lx asɔrɩ
 \ph asɔ́rɪ́
@@ -9593,23 +9593,14 @@
 
 \lx ikwe
 \ph ikwe
-\ps count
+\ps NUM
 \ge eight
 \sd TN-
 \de eight
 \xv Nɩ fɛdalɩ tsu asienɔ a, fɔyɔ ikwe.
 \xe If you leave seven you are going to eight.
 \rf Stewart List:1808
-\dt 24/Dec/2012
-
-\lx ikwe
-\ph ikwe
-\ps NUM
-\ge eight
-\sd TN-
-\de eight
-\rf Stewart List:1809
-\dt 17/Sep/2012
+\dt 26/Aug/2013
 
 \lx ikweba
 \ph ikwebáʔ
@@ -12824,10 +12815,10 @@
 \rf Tape:3-1-538
 \xv Anɩtɔwa atadɩɛ, tamɛ anɩtetin kiiki.
 \xe We "wa" (wear) a shirt, but we "tin" (wear) eyeglasses.
+\xe We always put on shirts but we block our eyes with glasses.
 \xv Adɔkɩtafɔ bʋtɛha aha kiiki nɩ fʋ nsɩbi dɛ mʋ han.
 \xe Doctors give people spectacles when their eyes are troubling them.
-\xe We always put on shirts but we block our eyes with glasses.
-\dt 22/Aug/2012
+\dt 26/Aug/2013
 
 \lx kiki
 \hm 1
@@ -12848,19 +12839,6 @@
 \ge steer
 \sd TN-
 \de steer (a vehicle)
-\dt 28/Dec/2012
-
-\lx kiki
-\hm 2
-\ph kíki
-\ps n
-\ge spectacles
-\sd TN-
-\de spectacles; goggles
-\pl akiki
-\ph akíki
-\xv Adɔkɩtafɔ bʋtɛha aha kiki nɩ fʋ nsɩbi dɛ mʋ han.
-\xe Doctors give people spectacles when their eyes are troubling them.
 \dt 28/Dec/2012
 
 \lx kikidiki
@@ -18143,6 +18121,14 @@ cf fonflo
 \rf Tape:1-2-171
 \dt 28/Dec/2012
 
+\lx mpɩmpɩm
+\ge thousands
+\ph mpɪ́mpɪm
+\ps NUM
+\de many thousand
+\cf ɔpɩm
+\dt 26/Aug/2013
+
 \lx mpɩna
 \ph mpɪna
 \ps n
@@ -23168,12 +23154,13 @@ cf fonflo
 \lx osrebiyin
 \ph osrebiyĩʔ
 \ps n
+\ge thumb
 \sd TN-II.A.1.f
 \de thumb
 \pl asrebiyin
 \ph asrebiyĩʔ
 \xv Bʋtamatsʋn osrebiyinsʋ yɛda ɩkpʋn.
-\xe They never by pass the thumb tie a knot money into the corner of a cloth.
+\xe They never by pass the thumb tie a knot (money tied into the corner of a cloth).
 \nt If an elder is in the house nothing is done without his knowledge - so consult him.
 \nt proverb
 \xv Osrebiyin lomoni dʋn asrebi trahɛ.
