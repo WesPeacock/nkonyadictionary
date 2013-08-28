@@ -1006,9 +1006,9 @@
 \ph aʤa
 \ps INTJ
 \ge Friend!
-\sd TN-
+\sd TN-II.B.3; I.C.1.f
 \de My friend!
-\dt 01/Sep/2012
+\dt 27/Aug/2013
 
 \lx agya fwɩ
 \ph aʤa fwɪ(H)
@@ -1882,10 +1882,10 @@
 \ph Amen
 \ps INTJ
 \ge Amen
-\sd TN-
+\sd TN-II.B.3; I.C.1.f
 \de Amen
 \na Nkonya equivalent is Ɩba mʋ́tɔ
-\dt 12/Jan/2012
+\dt 27/Aug/2013
 
 \lx amɛndɩ
 \ph amɛndɪ
@@ -2325,9 +2325,25 @@
 \ph ao(H)
 \ps INTJ
 \ge OK
-\sd TN-
+\sd TN-II.B.3; I.C.1.f
 \de OK
-\dt 05/Jul/2005
+\dt 27/Aug/2013
+
+\lx aoo
+\ph aoː
+\ps INTJ
+\ge OK
+\sd TN-II.B.2; II.B.3; I.C.1.f
+\de OK
+\xv Aoo, nanu, sʋ nɛ́ba.
+\xe OK, I have heard so I will come.
+\rf Tape:8-2-040
+\xv Aoo, ba ayɔ.
+\xe OK, come and let us go.
+\rf Tape:8-2-046
+\va aoo
+\ns Aoo is more frequently heard in the Northern dialect but is declining in usage
+\dt 28/Aug/2013
 
 \lx apa
 \ph apá
@@ -3334,11 +3350,11 @@
 \ph atûː
 \ps INTJ
 \ge Welcome!
-\sd TN-
+\sd TN-II.B.3; I.C.1.f
 \de Welcome!, a warm greeting
 \xv Brɛa anɩlowie wulu amʋtɔ a, wulu amʋtɔ aha bʋmeyin anɩ tamɛ bɔhɔ anɩ atuu.
 \xe When we got to the town, the people in the town didn't know us but the received us well.
-\dt 16/Dec/2012
+\dt 27/Aug/2013
 
 \lx awanwan
 \ph awãwã́ʔ (H)
@@ -3500,19 +3516,19 @@
 \ps INTJ
 \sn 1
 \ge welcome
-\sd TN-
+\sd TN-I.C.1.f
 \de ritual response to traditional prayer
 \sn 2
 \ps n
 \ge praise
-\sd TN-
+\sd TN-I.C.1.f
 \de praise
 \bw Akan fi:ayɛ LHH
 \cf yi ayɛ
 \xv Nɩ ansɩ dɛ ɔkʋ gyi a, ɔha amʋ ɔpʋ ɩlʋwa yi Bulu ayɛ.
 \xe If someone is happy. That person especially should sing and praise God.
 \rf Tape:8-1-540
-\dt 07/Aug/2012
+\dt 27/Aug/2013
 
 \lx ayintiase
 \ph ayintiase (H)
@@ -6479,13 +6495,12 @@
 \ph dɔː
 \ps INTJ
 \ge RESPONSE
-\sd TN-
-\de response
-\nt Wurupong variant of Ɛdɔɔ
+\sd TN-II.E.4.a
+\de Northern variant of Ɛdɔɔ!
 \xv Mlɩyaaloo! Fówun batsuda mʋ́sʋ bɛɛ, "Dɔɔ, fɛdɩ?"
 \xe Good morning, so that they have responded to it, " Dɔɔ have you slept?"
 \rf Tape:2-1-357
-\dt 17/Dec/2012
+\dt 27/Aug/2013
 
 \lx du
 \ph dúʔ
@@ -6737,18 +6752,19 @@
 \ph eː (H)
 \ps INTJ
 \ge Yes
-\sd TN-
+\sd TN-II.B.2; II.B.3; I.C.1.f
 \de affirmative
-\dt 17/Dec/2012
+\va iin
+\dt 27/Aug/2013
 
 \lx ee
 \hm 2
 \ph êːʔ
 \ps INTJ
 \ge Hey!
-\sd TN-
+\sd TN-II.B.2; II.B.3.b; I.C.1.f
 \de exclamation 
-\dt 09/Aug/2012
+\dt 27/Aug/2013
 
 \lx ekekegyiɛkɛ
 \ph ekekeʤíɔ́kɛ
@@ -6773,14 +6789,17 @@
 \xe I am also a farmer.
 \dt 17/Dec/2012
 
-\lx Ɛdɔɔ
+\lx ɛdɔɔ
 \ph ɛdɔː
 \ps INTJ
-\ge RESPONSE
-\ue South
+\ge morning response
+\sd TN-II.E.4.a
+\de response to morning greeting
+\va dɔɔ
+\ue south
 \xv Mlɩyaaloo! Fówun batsula mʋ́sʋ bɛɛ, "Ɛdɔɔ, Ɛyɩlɛkɛ?"
 \xe Good morning, so that they have responded to it, "Ɛdɔɔ, Dawn has come?"
-\dt 17/Dec/2012
+\dt 28/Aug/2013
 
 \lx ɛfɛ
 \ph ɛfɛ́(H)
@@ -7864,15 +7883,15 @@
 \ph fʊ́naː
 \ps INTJ
 \ge RESPONSE
-\sd TN-
+\sd TN-II.E.4.a
 \de response to the afternoon / evening greeting
 \lf Etymology
 \lv Fʋ na.
 \le You walk.
-\xv A: Tsianɩ! B: Funaa! Woyi da?
+\xv A: Tsianɩ! B: Fʋnaa! Woyi da?
 \xe A: Good afternoon/evening! B: Hi! How's your household?.
 \rf Tape:2-2-069
-\dt 15/Sep/2012
+\dt 27/Aug/2013
 
 \lx fʋrʋ
 \ph fʊ́rʊ
@@ -8068,17 +8087,17 @@
 \ph g͡blaːʔ
 \ps INTJ
 \ge splat
-\sd TN-
+\sd TN-II.B.3.b
 \de Splat!
-\dt 09/Aug/2012
+\dt 27/Aug/2013
 
 \lx gbloo
 \ph g͡bloː
 \ps INTJ
 \ge crash
-\sd TN-
+\sd TN-II.B.3.b
 \de crash!
-\dt 09/Aug/2012
+\dt 27/Aug/2013
 
 \lx gbɔngblɛn
 \ph g͡bɔ́ŋ͡mg͡blɛ̃́
@@ -9536,11 +9555,8 @@
 
 \lx iin
 \ph ĩː
-\ps INTJ
-\ge yes
-\sd TN-
-\de yes
-\dt 11/Feb/2008
+\cf ee
+\dt 27/Aug/2013
 
 \lx ikpin
 \ph ik͡pĩʔ (L)
@@ -10074,9 +10090,9 @@
 \ph iyé
 \ps INTJ
 \ge EXCLAM
-\sd TN-
+\sd TN-II.B.2; II.B.3.b; I.C.1.f
 \de exclamation of surprise
-\dt 15/Aug/2012
+\dt 27/Aug/2013
 
 \lx iyin
 \ph iɲĩ́ʔ
@@ -12109,12 +12125,12 @@
 \ph káîʔ
 \ps INTJ
 \ge Shoo!
-\sd TN-
+\sd TN-II.B.2; II.B.3.b; I.C.1.f
 \de exclamation used to chase away animals
 \cf Swɩ!
 \xv Kai!
 \xe Shoo!
-\dt 15/Sep/2012
+\dt 27/Aug/2013
 
 \lx kaɩn
 \ph kaɪ̃́
@@ -12632,9 +12648,9 @@
 \ph kɛmɛ
 \ps INTJ
 \ge stop
-\sd TN-
+\sd TN-II.B.2; II.B.3.b; I.C.1.f
 \de Stop that!; a warning to someone else
-\dt 09/Aug/2012
+\dt 27/Aug/2013
 
 \lx kɛn
 \hm 1
@@ -13691,12 +13707,12 @@
 \ps INTJ
 \va koli
 \ge beg
-\sd TN-
+\sd TN-II.E.4.c
 \de please
 \xv Atɔ lakpa wie mɩ ansibitɔ sʋ kokoli fwi mʋ́ lɛ ha mɩ.
 \xe Something has gotten into my eye so please blow it out for me.
 \rf Tape:3-2-266
-\dt 22/Aug/2012
+\dt 27/Aug/2013
 
 \lx kokooko
 \ph kokoːko
@@ -14556,12 +14572,12 @@ cf fonflo
 \ph k͡páôː
 \ps INTJ
 \ge No!
-\sd TN-
+\sd TN-II.B.2; II.B.3; I.C.1.f
 \de emphatic negative exclamation
 \xv Fɔ́yɔ Nkra? Kpao! Mmɔ́ɔyɔ!
 \xe Will you go to Accra? Never! I won't go!
 \rf Tape:3-2-470
-\dt 06/Sep/2012
+\dt 28/Aug/2013
 
 \lx kpasi
 \ph k͡pasiʔ(L)
@@ -15143,10 +15159,10 @@ cf fonflo
 \ph k͡ploː
 \ps INTJ
 \ge splat
-\sd TN-
+\sd TN-II.B.3.b
 \de splat
 \cf gbloo
-\dt 09/Aug/2012
+\dt 28/Aug/2013
 
 \lx kplɔɩ
 \ph k͡plɔ́ɪ
@@ -17882,6 +17898,18 @@ cf fonflo
 \xv Mlɩ natɩ yɔ woyitɔ.
 \xe You (Pl. ) go to your houses.
 \dt 16/Aug/2012
+
+\lx mlɩyaa
+\ph mlɪyǎː
+\ps INTJ
+\ge greet AM
+\sd TN-II.E.4.a
+\de greetings in the morning to multiple people
+\cf ɔyaa
+\xv Nyankɩ, nɩ fɔtʋ ɔha a, ha mʋ ɩtɛ fɛɛ "Ɔyaa". Nɩ bʋ tsɔ a, "Mlɩyaa."
+\xe When you meet a person in the morning, greet him/her saying "Ɔyaa", if they are many say "Mlɩyaa"
+\rf Tape:6-1-039
+\dt 27/Aug/2013
 
 \lx mmɛ
 \ph mmɛ(H)
@@ -20830,19 +20858,19 @@ cf fonflo
 \ps INTJ
 \va oo
 \ge Oh!
-\sd TN-
+\sd TN-II.B.3
 \de Oh! an exclamation indicating surprise
-\dt 10/Jan/2012
+\dt 28/Aug/2013
 
 \lx o - o
 \ph oʔo
 \ps INTJ
 \ge No
-\sd TN-
+\sd TN-II.B.2; II.B.3; I.C.1.f
 \de No
 \xv Fʋ ee! ɩbwɛ ee! fʋ o-o! ɩbwɛ o-o!
 \xe Your yes should be yes, your no should be no.
-\dt 28/Jan/2013
+\dt 28/Aug/2013
 
 \lx obebuni
 \ph obebuniʔ
@@ -21712,13 +21740,14 @@ cf fonflo
 \ph og͡blôːʔ
 \ps INTJ
 \ge OPENING
-\sd TN-
+\cf okploo
+\sd TN-II.E.5.e
 \de ritual opening to a fairy tail
 \xv Nɩ fɔ́wa ɔtɛ a, "ogbloo" bʋtɔpʋ fi mʋ́ asɩ. Fówun batsula mʋ́sʋ bɛɛ, "Ɔmɩɔ"
 \xe If you will tell a story, you start it with "Ogblo". Then they reply to it saying "Ɔmɩo"
 \xe You begin telling a story by saying "Ogblo". Then people respond by saying "Ɔmɩɔ".
 \rf Tape:6-2-490
-\dt 26/Dec/2012
+\dt 28/Aug/2013
 
 \lx ogbodoo
 \ph ogbodôː
@@ -21966,9 +21995,9 @@ cf fonflo
 \ph ohwêː
 \ps INTJ
 \ge I don't know!
-\sd TN-
+\sd TN-II.B.3; II.E.1.e
 \de exclamation meaning "I don't know!"
-\dt 08/Sep/2012
+\dt 28/Aug/2013
 
 \lx okengye
 \ph okénʤe(H)
@@ -22180,6 +22209,17 @@ cf fonflo
 \sd TN-
 \de wax from a bee hive
 \dt 23/Jan/2012
+
+\lx okploo
+\ph ok͡plôːʔ
+\ps INTJ
+\ge OPENING
+\sd TN-II.E.5.e
+\de ritual opening to a fairy tail
+\xv Nɩ fɔ́wa ɔtɛ a, "okploo" bʋtɔpʋ fi mʋ́ asɩ. Fówun batsula mʋ́sʋ bɛɛ, "Ɔmɩɔ"
+\xe If you will tell a story, you start it with "Okplo". Then they reply to it saying "Ɔmɩo"
+\xe You begin telling a story by saying "Okplo". Then people respond by saying "Ɔmɩɔ".
+\dt 28/Aug/2013
 
 \lx okploto
 \ph ok͡plóto
@@ -26380,6 +26420,14 @@ cf fonflo
 \rf Stewart List:2259
 \dt 10/Jan/2012
 
+\lx ɔmɩɔ
+\ph ɔmɪɔ
+\ps INTJ
+\ge RESPONSE
+\sd TN-II.E.5.e
+\de Response to "ogbloo/okploo" in story opening
+\dt 28/Aug/2013
+
 \lx ɔmlawɩ
 \ph ɔmláwɪ
 \ps n
@@ -28375,12 +28423,14 @@ cf fonflo
 \ph ɔyǎː
 \ps INTJ
 \ge greet AM
-\sd TN-
-\de greetings in the morning
-\xv Nyankɩ, nɩ fɔtʋ ɔha a, ha mʋ ɩtɛ fɛɛ "Ɔyaa". Nɩ bʋ tsɔ a, "Mlɩyaa. "
+\sd TN-II.E.4.a
+\de greetings in the morning to single person
+\cf mlɩyaa
+\ph mlɪyǎː
+\xv Nyankɩ, nɩ fɔtʋ ɔha a, ha mʋ ɩtɛ fɛɛ "Ɔyaa". Nɩ bʋ tsɔ a, "Mlɩyaa."
 \xe When you meet a person in the morning, greet him/her saying "Ɔyaa", if they are many say "Mlɩyaa"
 \rf Tape:6-1-039
-\dt 10/Jan/2012
+\dt 27/Aug/2013
 
 \lx ɔyasubi
 \ph ɔyasubi(H)
@@ -31288,7 +31338,7 @@ cf fonflo
 \ph swɛ̂ːʔ
 \ps INTJ
 \ge shoo!
-\sd TN-
+\sd TN-TN-II.B.2; II.B.3.b; I.C.1.f
 \de exclamation used to chase away birds
 \xv Swɛɛ!
 \xe Shoo!
@@ -31296,7 +31346,7 @@ cf fonflo
 \xe Shoo the chicken by saying "Swɛɛ!" You should shoo the goat by saying "Kai!".
 \rf Tape:7-1-244
 \cf kai
-\dt 23/Aug/2012
+\dt 28/Aug/2013
 
 \lx swie
 \hm 1
@@ -34209,9 +34259,9 @@ cf fonflo
 \lx tʋn
 \ps INTJ
 \ge greetings
-\sd TN-
+\sd TN-II.E.4.a
 \de used to respond to a greeting when angry at another person to indicate that the anger in the voice is not directed at the one being greeted
-\dt 29/Aug/2012
+\dt 28/Aug/2013
 
 \lx tʋnkpa
 \ph tʊŋ͡mk͡pa(H)
@@ -34230,10 +34280,10 @@ cf fonflo
 \ph tʊ́ntʊ̃
 \ps v
 \ge greet
-\sd TN-
+\sd TN-II.E.4.a
 \de greet
 \cf tʋn
-\dt 29/Aug/2012
+\dt 28/Aug/2013
 
 \lx wa
 \hm 1
@@ -35352,9 +35402,9 @@ cf fonflo
 \ph yaː
 \ps INTJ
 \ge response
-\sd TN-
+\sd TN-II.E.4.a
 \de response to "ayɛ" 
-\dt 14/Sep/2012
+\dt 28/Aug/2013
 
 \lx yaa
 \hm 3
@@ -35542,9 +35592,9 @@ cf fonflo
 \ph yɛ̂ː
 \ps INTJ
 \ge after all
-\sd TN-
+\sd TN-II.B.3; I.C.1.f
 \de after all
-\dt 09/Aug/2012
+\dt 28/Aug/2013
 
 \lx yɛɩ
 \ph yɛ́ɪ́
@@ -35914,17 +35964,15 @@ cf fonflo
 \ph yoː
 \ps INTJ
 \ge OK
-\sd TN-
+\sd TN-II.B.2; II.B.3; I.C.1.f
 \de OK
-\xv Aoo, nanu, sʋ nɛ́ba.
-\xe Yoo, I have heard so I will come.
+\xv Yoo, nanu, sʋ nɛ́ba.
+\xe OK, I have heard so I will come.
 \rf Tape:8-2-040
 \xv Yoo, ba ayɔ.
-\xe Yoo, come and let us go.
-\rf Tape:8-2-046
+\xe OK, come and let us go.
 \va aoo
-\ns Aoo is more frequently heard in the Northern dialect but is declining in usage
-\dt 17/Dec/2012
+\dt 28/Aug/2013
 
 \lx yɔ
 \ph yɔ́
