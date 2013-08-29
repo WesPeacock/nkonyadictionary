@@ -460,19 +460,20 @@
 \ph abususʊ
 \ps n
 \ge blasphemy
-\sd TN-
+\sd TN-II.B.6.a
 \de blasphemy
-\dt 17/Nov/2009
+\dt 29/Aug/2013
 
 \lx abwi
 \ph abwi
 \ps n
-\ge stone
+\ge stones
 \sd TN-
 \de hard substance
 \xv Nɩ bɔtswɩ abwi da fʋ a, fépilan
 \xe If the throw a stone at you, it will hurt you.
-\dt 16/Jul/2012
+\cf ibwi
+\dt 29/Aug/2013
 
 \lx adabi
 \ph adábi
@@ -565,7 +566,7 @@
 \rf Stewart List:1216
 \dt 05/Oct/2012
 
-\lx adɔbʋʋ
+\lx adɔbʋ
 \ph adɔbʊ̂ʔ
 \ps n
 \ge farming area
@@ -573,10 +574,10 @@
 \de farming area
 \xv Fʋ adɔbʋʋ gyi ɔtɩnɛ ánɩ́ fʋtɔdɔ.
 \xe Your farming area is the place that you farm.
-\xv Anɩ adɔbʋʋ bʋ oduabone abɔɩtɔ.
+\xv Anɩ adɔbʋ bʋ Oduabone abɔɩtɔ.
 \xe Our farming area is in Oduabone area.
 \cf ɔdɔbʋtsa
-\dt 16/Dec/2012
+\dt 29/Aug/2013
 
 \lx adɔmpɔ
 \ph adɔmpɔ (H)
@@ -818,10 +819,10 @@
 \rf Stewart List:1047
 \sn 2
 \ge air
-\sd TN-
+\sd TN-I.A.2.a
 \de air
 \rf Stewart List:1009
-\dt 26/Dec/2012
+\dt 29/Aug/2013
 
 \lx Afua
 \ph afúá(H)
@@ -2146,13 +2147,11 @@
 \lx ansibi
 \ph ansibi
 \ps n
-\ge eye
+\ge eyes
 \sd TN-II.A.1.b
-\de eye
-\xv Nɩ owi ta a, mɩ ansibi tamawun atɔ wanklaan.
-\xe When it is dark, I can't see well.
-\rf SIL-AWL:0006
-\dt 26/Aug/2013
+\de eyes
+\cf nsibi
+\dt 29/Aug/2013
 
 \lx ansibi klambi
 \ph ansibi klambi
@@ -11430,7 +11429,7 @@
 \ph ɪpʷɛ
 \ps TIME
 \ge 1st day
-\sd TN-
+\sd TN-I.C.4.b
 \de day of rest in Nkonya week; first day of Nkonya week
 \na The Nkonya week has six days. The main days are the first and fourth. The first day is Ɩpwɛ, the day of the main fetish Sia. The fourth is Kulíhɛ, the day of the ancestors.
 \na In the Southern dialect the days are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, Kulihɛ, Kulihɛ Odekeyikɛ, Kulihɛ Ɔdɛkɛtrakɛ". In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulihɛ, Kulihɛ Odekeyikɛ, Ɔdɛkɛtrakɛ"
@@ -11443,25 +11442,25 @@
 \cf Kulihɛ Odekeyikɛ
 \cf Kulihɛ Ɔdɛkɛtrakɛ
 \cf Ɔdɛkɛtrakɛ
-\dt 11/Sep/2012
+\dt 29/Aug/2013
 
 \lx Ɩpwɛ Odekeyikɛ
 \ph ɪpʷɛ odekeyikɛ
 \ps TIME
 \ge 2nd day
-\sd TN-
+\sd TN-I.C.4.b
 \de the day following Ɩpwɛ; the second day of the Nkonya week
-\dt 15/Sep/2012
+\dt 29/Aug/2013
 
 \lx Ɩpwɛ Ɔdɛkɛtrákɛ
 \ph ɪpʷɛ ɔdɛkɛtrákɛ
 \ps TIME
 \ge 3rd day
-\sd TN-
+\sd TN-I.C.4.b
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
 \va Yinke
 \ve North
-\dt 02/Jan/2013
+\dt 29/Aug/2013
 
 \lx ɩsa
 \ph ɪsáʔ
@@ -15599,7 +15598,7 @@ cf fonflo
 \ph kulihɛ́
 \ps TIME
 \ge ancestral day
-\sd TN-
+\sd TN-I.C.4.b
 \de ancestral day; fourth day of the traditional Nkonya week
 \xv Kulihɛ gyi Nkonyafɔ nkɛ naasɩ nɩ.
 \xe Kulihɛ is the fourth day of they Nkonyas.
@@ -15611,13 +15610,13 @@ cf fonflo
 \cf Kulihɛ Odekeyikɛ
 \cf Kulihɛ Ɔdɛkɛtrakɛ
 \cf Ɔdɛkɛtrakɛ
-\dt 15/Sep/2012
+\dt 29/Aug/2013
 
 \lx Kulihɛ Odekeyikɛ
 \ph kulihɛ́ odekeyikɛ
 \ps TIME
 \ge 5th day
-\sd TN-
+\sd TN-I.C.4.b
 \de day following ancestral day; the fifth day of the traditional Nkonya week
 \cf Ɩpwɛ
 \cf Ɩpwɛ Odekeyikɛ
@@ -15626,13 +15625,13 @@ cf fonflo
 \cf Kulihɛ
 \cf Kulihɛ Ɔdɛkɛtrakɛ
 \cf Ɔdɛkɛtrakɛ
-\dt 15/Sep/2012
+\dt 29/Aug/2013
 
 \lx Kulihɛ Ɔdɛkɛtrakɛ
 \ph kulihɛ́ odɛkɛtrákɛ
 \ps TIME
 \ge 6th day
-\sd TN-
+\sd TN-I.C.4.b
 \de the second day following ancestral day; the sixth and final day of the traditional Nkonya week
 \na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week
 \cf Ɩpwɛ
@@ -15642,7 +15641,7 @@ cf fonflo
 \cf Kulihɛ
 \cf Kulihɛ Ɔdɛkɛtrakɛ
 \cf Ɔdɛkɛtrakɛ
-\dt 15/Sep/2012
+\dt 29/Aug/2013
 
 \lx kuma
 \ph kuma
@@ -24738,11 +24737,11 @@ cf fonflo
 \ps TIME
 \sn 1
 \ge 6th day
-\sd TN-
+\sd TN-I.C.4.b
 \de in the Northern dialect, the second day following ancestral day; the sixth and final day of the traditional Nkonya week
 \sn 2
 \ge 3rd day
-\sd TN-
+\sd TN-I.C.4.b
 \de the Southern dialect has two days called Ɔdɛkɛtrakɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, two days following Ɩpwɛ and Kulihɛ Ɔdɛkɛtrakɛ, two days following 
 \na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week
 \cf Ɩpwɛ
@@ -24752,7 +24751,7 @@ cf fonflo
 \cf Kulihɛ
 \cf Kulihɛ Ɔdɛkɛtrakɛ
 \cf Ɔdɛkɛtrakɛ
-\dt 16/Aug/2012
+\dt 29/Aug/2013
 
 \lx ɔdɩ
 \ph ɔdɪ́
@@ -35800,11 +35799,11 @@ cf fonflo
 \ph Yiŋké
 \ps TIME
 \ge 3rd day
-\sd TN-
+\sd TN-I.C.4.b
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
 \va Ɩpwɛ Ɔdɛkɛtrákɛ
 \ve South
-\dt 18/Dec/2012
+\dt 29/Aug/2013
 
 \lx yinki
 \ph yíŋkí
