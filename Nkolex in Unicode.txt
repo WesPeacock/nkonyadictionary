@@ -1425,21 +1425,26 @@
 \dt 16/Dec/2012
 
 \lx akoo
+\hm 1
 \ph ákǒː(H)
 \ps n
-\sn 1
 \ge parrot
-\sd TN_II.D.2.b
+\sd TN_I.B.2.b
 \de African Grey parrot
 \bw Akan fi:akoo HLH
 \xv Akoo otedu bʋ akɩlɛ.
 \xe Parrot's tail is beautiful.
 \rf Stewart List:0715
-\sn 2
+\dt 29/Aug/2013
+
+\lx akoo
+\hm 2
+\ph ákǒː(H)
+\ps n
 \ge tool
-\sd TN_
+\sd TN_II.D.6.e; II.D.1.b
 \de carpenter's tool for removing nails
-\dt 28/Dec/2012
+\dt 29/Aug/2013
 
 \lx Akosua
 \ph akosua
@@ -4775,9 +4780,9 @@
 \rf Stewart List:2330
 \sn 2
 \ge operate on
-\sd TN_
+\sd TN_II.A.6.d
 \de to operate on someone
-\dt 28/Jul/2013
+\dt 29/Aug/2013
 
 \lx bɔnbɔntɩ
 \ph bɔnbɔntɪ́
@@ -5137,16 +5142,16 @@
 \rf Stewart List:2478
 \sn 2
 \ge accompany
-\sd TN_
+\sd TN_II.E.4.c
 \de to accompany someone
 \rf Stewart List:3256
 \sn 3
 \ge born after
-\sd TN_
+\sd TN_II.A.2.f
 \de to be born after
 \xv Mʋ da gyi Tawiah. Tsufɛ bɔkwɩɩ mʋ buo atabi.
 \xe Her name is Tawiah, because she was born after twins.
-\dt 28/Jul/2013
+\dt 29/Aug/2013
 
 \lx buto
 \ph butó
@@ -5271,16 +5276,16 @@
 \rf Stewart List:2076
 \sn 2a
 \ge be weak
-\sd TN_
+\sd TN_I.C.5; I.C.6.d; II.A.4.a; II.A.6.b
 \de to be weak
 \xv Mɩ wɩ dɛ mɩ bʋ.
 \xe I am becoming weak
 \rf Tape:2-1-103
 \sn 2b
 \ge wilt
-\sd TN_
+\sd TN_I.C.5; I.C.6.d; I.C.6.e
 \de to wilt
-\dt 05/Jul/2013
+\dt 29/Aug/2013
 
 \lx bʋ-
 \hm 4
@@ -9464,7 +9469,7 @@
 \rf Tape:2-1-575
 \se afulitɔ
 \ge dead
-\sd TN_
+\sd TN_I.C.1.d
 \de the place where the recent dead reside
 \xv Afulitɔ gyi ɔtɩnɛ ánɩ́ afuli bʋteyetsia nɩ bopula amʋ́ ɔma.
 \xe Among the dead is the place that dead people go to live after they are buried.
@@ -9477,7 +9482,7 @@
 \xe The child lied that, he saw a ghost yesterday.
 \xv Ɔha ánɩ́ alawu,
 \xe A dead person.
-\dt 14/Aug/2013
+\dt 29/Aug/2013
 
 \lx ifwie
 \ph ifwíeʔ
@@ -9670,12 +9675,12 @@
 \cf ɔdawʋ
 \sn 2
 \ge ceiling
-\sd TN_
+\sd TN_II.C.1
 \de ceiling
 \xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
 \xe The cat has climbed up into the ceiling and is catching mice.
 \rf Tape:2-2-409
-\dt 26/Aug/2013
+\dt 29/Aug/2013
 
 \lx imɛ
 \ph imɛ
@@ -9891,7 +9896,7 @@
 \ph asutĩ́
 \sn 2
 \ge deaf person
-\sd TN_
+\sd TN_II.A.6.c
 \de a deaf person
 \xv Isutin tamanu asʋn.
 \xe A deaf person never hears (words).
@@ -9901,7 +9906,7 @@
 \xe Abeku has become deaf due to the work he did.
 \rf Tape:3-1-192
 \rf Stewart List:1687
-\dt 26/Aug/2013
+\dt 29/Aug/2013
 
 \lx isutin
 \ph isutĩ̂ːʔ
@@ -10774,7 +10779,7 @@
 \ps n
 \va klʋn
 \ge door
-\sd TN_
+\sd TN_II.C.1
 \de door
 \pl aklʋn
 \ph aklʊ̃ʔ
@@ -10783,7 +10788,7 @@
 \rf Tape:2-2-584
 \rf Stewart List:0018
 \rf Stewart List:1257
-\dt 28/Aug/2012
+\dt 29/Aug/2013
 
 \lx ɩklʋn
 \hm 2
@@ -10796,42 +10801,42 @@
 \xe When your heart stops working, you will die.
 \se ɩklʋn wa
 \ge bravery
-\sd TN_
+\sd TN_II.B.3.a.i; II.B.5.a.i
 \de bravery
 \se ɩklʋn nya
 \ge patience
-\sd TN_
+\sd TN_II.B.3; II.B.5.a.i; II.E.4.a
 \de patience
 \xv Kokoli makpla mʋ, nya klʋn anuu.
 \xe Please don't mind him but be patient, you hear.
 \se ɩklʋntɔ damli
 \ge repent
-\sd TN_
+\sd TN_II.B.6.b; II.B.6.c
 \de repent
 \se lwii ɩklʋn
 \ge comfort
-\sd TN_
+\sd TN_II.B.2.b.i; II.C.5; II.E.4.a
 \de to comfort someone
 \rf SIL-AWL:0082
-\dt 26/Aug/2013
+\dt 29/Aug/2013
 
 \lx ɩklʋn lwii
 \ph ɪklʊ̃lwi᷄ː
 \ps v
-\ge condole; comfort
-\sd TN_
+\ge console; comfort
+\sd TN_II.B.2.b.i; II.C.5; II.E.4.a
 \de comfort
-\dt 05/Jan/2012
+\dt 29/Aug/2013
 
 \lx ɩklʋn nya
 \ph ɪklʊ̃ɲá
 \ps n
 \ge patience
-\sd TN_
+\sd TN_TN_II.B.3; II.B.5.a.i; II.E.4.a
 \de suffer without complaining
 \xv Ɩbʋalɛ ánɩ́ okristoyɩn obénya klʋn mbrɛ fɛ́ɛ́tɔ
 \xe It is good for a Christian to have patience all the time
-\dt 28/Dec/2012
+\dt 29/Aug/2013
 
 \lx ɩkɔ
 \ph ɪkɔ (H)
@@ -11309,11 +11314,11 @@
 \rf Stewart List:1202
 \sn 2
 \ge mortar end
-\sd TN_
+\sd TN_II.C.2.c
 \de the splintered end of a fufu mortar
 \xv Oplimbi ánɩ́ bʋ ɩpa a, ɩbʋ atɔ awɔlɛ. Ɩtɛha fufu tɔwa ɔsa pɩn dʋn oplimbi kpakpahɛ.
 \xe The mortar that has a hat, is easy to pound with. It makes fufu smooth faster than a bald mortar.
-\dt 26/Dec/2012
+\dt 29/Aug/2013
 
 \lx ɩpa
 \hm 2
@@ -14951,9 +14956,9 @@ cf fonflo
 \rf Tape:3-2-545
 \sn 3
 \ge evaporate
-\sd TN_
+\sd TN_I.A.4.c
 \de to evaporate (of a liquid)
-\dt 28/Jul/2013
+\dt 29/Aug/2013
 
 \lx kpɩ
 \hm 2
@@ -21242,19 +21247,18 @@ cf fonflo
 \ps n
 \sn 1
 \ge louse
-\sd TN_I.B.3.b
-\sd TN_II.A.6.b
+\sd TN_I.B.3.c; TN_II.A.6.b
 \de louse
 \pl mbubwi
 \ph mbubwi
 \sn 2
 \ge weevil
-\sd TN_
+\sd TN_TN_I.B.3.c; II.D.1.e
 \de weevil
 \xv kpolitɔ obubwi
 \xe weevil
 \lt corn louse
-\dt 28/Jul/2013
+\dt 29/Aug/2013
 
 \lx obugya
 \ph obuʤaʔ
@@ -21391,11 +21395,11 @@ cf fonflo
 \se lɔ odu
 \ph lɔ́ odú
 \ge get haemorrhoids
-\sd TN_
+\sd TN_II.A.6.b
 \de to develop haemorrhoids
 \xv Bɛɛ fenya gyi mankani dʋbɩ a, fɔ́lɔ odu.
 \xe They say that if you eat too much mankani you will develop haemorrhoids.
-\dt 28/Jul/2013
+\dt 29/Aug/2013
 
 \lx odu
 \hm 2
@@ -24386,9 +24390,9 @@ cf fonflo
 \rf Tape:5-2-227
 \se Bulu ɔbɔpʋ
 \ge angel
-\sd TN_
+\sd TN_II.B.6.b; II.B.6.c
 \de angel
-\dt 14/Aug/2013
+\dt 29/Aug/2013
 
 \lx ɔbrafɔ
 \ph ɔbráfɔ
@@ -26181,13 +26185,13 @@ cf fonflo
 \rf SIL-AWL:0042
 \sn 2
 \ge back
-\sd TN_
+\sd TN_I.C.3.d
 \de the place one has returned to
 \sn 3
 \ge after
 \sd TN_I.C.4.c
 \de afterwards
-\dt 26/Aug/2013
+\dt 29/Aug/2013
 
 \lx ɔmá
 \ph ɔmá
@@ -26716,13 +26720,13 @@ cf fonflo
 \rf Tape:6-1-204
 \sn 2
 \ge opening
-\sd TN_
+\sd TN_I.C.3.c
 \de opening
 \xv woyi ɔnɔ
 \xe doorway
 \sn 3
 \ge edge
-\sd TN_
+\sd TN_I.C.3.c
 \de where something starts
 \se oyi ɔnɔ
 \ge treetop
@@ -26730,7 +26734,7 @@ cf fonflo
 \de the top of a tree
 \se ɔpʋ ɔnɔ
 \ge shore
-\sd TN_
+\sd TN_I.A.4.a
 \de shoreline of the sea
 \sn 3a
 \ge edge
@@ -26744,13 +26748,12 @@ cf fonflo
 \rf Tape:6-1-208
 \se damli ɔnɔ
 \ge turn around
-\sd TN_
+\sd TN_I.C.2.d
 \de to turn around in the opposite direction
 \rf Tape:6-1-195
-\cf bwie ɔnɔ
 \sn 4
 \ge effect
-\sd TN_
+\sd TN_I.C.1.e
 \de effects or results of something
 \se mɔ ɔnɔ
 \ge finish
@@ -26762,7 +26765,8 @@ cf fonflo
 \xv Anɩ asʋn amʋ ɔnɔ mɔtɔ pɛ, mʋ́ʋ́ oyin amʋ lɛba a.
 \xe Just as our matter finished, then the man came.
 \rf Tape:6-1-188
-\dt 26/Aug/2013
+\cf bwie ɔnɔ
+\dt 29/Aug/2013
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
@@ -26849,20 +26853,20 @@ cf fonflo
 \rf Tape:6-1-259
 \sn 2
 \ge spirit
-\sd TN_
+\sd TN_II.A.1.i
 \de spirit
 \se Ɔŋɛ Wankɩhɛ
 \ge Holy Spirit
-\sd TN_
+\sd TN_II.B.6.c
 \de Holy Spirit
 \xv Okristoyin okugyiɔkʋ lehian ánɩ́ obénya Ɔŋɛ Wankɩhɛ.
 \xe It is necessary that every Christian will have the Holy Spirit.
 \se ɔŋɛ lalahɛ
 \ge evil spirit
-\sd TN_
+\sd TN_II.B.6.a
 \de evil spirit
 \cf Ɔbʋnsam
-\dt 26/Aug/2013
+\dt 29/Aug/2013
 
 \lx ɔpa
 \ph ɔpa(H)
@@ -27492,9 +27496,9 @@ cf fonflo
 \dt 10/Sep/2012
 
 \lx ɔsʋrapʋ
+\hm 1
 \ph ɔsʊrapʊ
 \ps n
-\sn 1
 \ge widow
 \sd TN_II.E.1.c
 \de widow / widower
@@ -27504,11 +27508,16 @@ cf fonflo
 \xv Ɔha ánɩ́ mʋ ka ntɛɛ mʋ kulu owu a, ɔsʋrapʋ ogyi. Obosu ɩsʋra.
 \xe The one whose wife or husband should die is a widow/widower. He will perform widowhood rites.
 \rf Tape:6-1-420
-\sn 2
+\dt 29/Aug/2013
+
+\lx ɔsʋrapʋ
+\hm 2
+\ph ɔsʊrapʊ
+\ps n
 \ge carrier
-\sd TN_
+\sd TN_II.C.2.a
 \de one who is carrying a load
-\dt 15/Aug/2013
+\dt 29/Aug/2013
 
 \lx ɔsʋrapʋka
 \ph ɔsʊrapʊká
@@ -27857,10 +27866,10 @@ cf fonflo
 \cf kɔklɔ
 \se ɔtɔntrɔbwɩ nsibi
 \ge smallest part
-\sd TN_
+\sd TN_I.C.3.a
 \de the smallest morsel imaginable
 \lt ant's eye
-\dt 28/Jul/2013
+\dt 29/Aug/2013
 
 \lx ɔtɔtɔ
 \ph ɔtɔ́tɔ́
@@ -29178,13 +29187,13 @@ cf fonflo
 \xe There is a scar on my forehead.
 \sn 2
 \ge mark
-\sd TN_
+\sd TN_II.D.2.c
 \de to mark something in order to recognize it
 \xv Oyin amʋ lɛha mʋ ɔbwɩ amʋ plebi, mɛnɩ owun mʋ a, ɔbɛ́bɩ mʋ.
 \xe The man has marked his animal so that should he see it he will know it.
 \cf hɩɛ mʋ nsʋ
 \nt There was a case where a farmer caught a man red-handed stealing yams from his farm. So he went to the family and complained. They said that because he had not cut him (kun) with a cutlass to mark him (dɩnka mʋ plebi) he had no proof that the accused was a thief. Therefore the family would not do anything. So the farmer has gone to the police to lodge a complaint and has said that if that is the case the next time the man comes to his farm to steal he will shoot him and if he kills him the family won't be able to say anything against him because this time they complained that he hadn't wounded him.
-\dt 26/Aug/2013
+\dt 29/Aug/2013
 
 \lx plei
 \ph pléí
@@ -35203,13 +35212,13 @@ cf fonflo
 \sn 2
 \ps ADJ
 \ge only
-\sd TN_
+\sd TN_I.C.2.b
 \de only
 \xv Megyi atogyihɛ wʋlɛ nyakpʋsa obégyi tsia.
 \xe Man does not live by bread (food) alone
 \xv Atsuli amʋ wʋlɛ bʋ bɛnsɩ amʋtɔ.
 \xe There are only mushrooms in the basin.
-\dt 26/Aug/2013
+\dt 29/Aug/2013
 
 \lx wʋlɛwʋlɛ
 \ph wʊlɛwʊlɛ
