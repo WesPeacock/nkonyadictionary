@@ -887,12 +887,19 @@
 \-fil
 
 \+fil Marker2Present
-\mkr ue
+\mkr hm
 \match_char c
 \-fil
 
 \+fil MarkerPresent
 \mkr np
+\match_char c
+\-fil
+
+\+fil SemanticDomain
+\mkr sd
+\txt TN_
+\MatchWhole
 \match_char c
 \-fil
 
@@ -909,7 +916,8 @@
 
 \+fil search
 \mkr sd
-\txt TN-[#]
+\txt TN_
+\MatchWhole
 \match_char c
 \-fil
 
