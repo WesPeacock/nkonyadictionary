@@ -140,11 +140,33 @@ N n P p Q q R r S s T t V v W w X x Y y Z z
 \charset 00
 \rgbColor 0,0,0
 \-fnt
-\kbdWin32 Ghana 9 Vowels With High Tone
+\kbdWin32 US
 \UseInternalKeyboard
 \+KeyDefs 
-
-
+' ́
+[ ɛ
+{ Ɛ
+x ɩ
+X Ɩ
+́= ŋ
++ Ŋ
+] ɔ
+} Ɔ
+q ʋ
+Q Ʋ
+; dead
+;; ;
+;' '
+;[ [
+;{ {
+;x x
+;X X
+;= =
+;+ +
+;] ]
+;} }
+;q q
+;Q Q
 
 \-KeyDefs
 \UnicodeLang
