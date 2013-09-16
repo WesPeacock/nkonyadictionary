@@ -354,12 +354,6 @@
 \nam Lexical function label
 \desc Used to encode the semantic networks of a language. For consistency, a Range Set should be maintained on the lexical function labels used. When formatted by MDF, these labels can be modified (and even translated) by MDF's Audience CC tables.
 \lng vernacular
-\+fnt 
-\Name Times New Roman
-\Size 11
-\Italic
-\rgbColor 0,0,0
-\-fnt
 \mkrOverThis sn
 \CharStyle
 \-mkr
@@ -893,7 +887,7 @@
 \-fil
 
 \+fil Marker2Present
-\mkr ue
+\mkr hm
 \match_char c
 \-fil
 
@@ -902,9 +896,16 @@
 \match_char c
 \-fil
 
+\+fil SemanticDomain
+\mkr sd
+\txt TN_
+\MatchWhole
+\match_char c
+\-fil
+
 \+fil checkps
 \mkr ps
-\txt loc
+\txt [#]n[#]
 \match_char c
 \-fil
 
@@ -914,8 +915,9 @@
 \-fil
 
 \+fil search
-\mkr lx
-\txt ts
+\mkr sd
+\txt TN_
+\MatchWhole
 \match_char c
 \-fil
 
@@ -987,7 +989,6 @@
 \mkr dt
 \mkr ec
 \mkr es
-\mkr is
 \mkr re
 \mkr rn
 \mkr rr

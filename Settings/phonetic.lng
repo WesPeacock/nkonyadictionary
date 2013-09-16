@@ -213,11 +213,26 @@ a ɶ ɑ ɒ
 \charset 00
 \rgbColor 0,0,0
 \-fnt
-\kbdWin32 IPA Unicode 5.1(ver 1.2 US) MSK
-\kbdKeyman IPA93 1.0 (FF)
+\kbdWin32 US
+\UseInternalKeyboard
 \+KeyDefs 
 
-
+' ́
+? ʔ
+: ː
+~ ̃
+^ ̂
+% ͡
+[ ɛ
+] ɔ
+x ɪ
+q ʊ
+= ŋ
+N ɲ
+M ɱ
+S ʃ
+J ʤ
+W ʷ
 
 \-KeyDefs
 \UnicodeLang
