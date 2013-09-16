@@ -17788,8 +17788,8 @@ cf fonflo
 \sd TN_I.C.4.b
 \de Saturday
 \bw Akan fi:Memeneda HH
-\xv SDAfɔ bʋtɔyɔ asɔrɩ Fieda.
-\xe Seventh Day Adventists go to church on Fridays.
+\xv SDAfɔ bʋtɔyɔ asɔrɩ Mɩmɩnɩda.
+\xe Seventh Day Adventists go to church on Saturdays.
 \cf Kwame
 \cf Amma
 \cf Gyɔda
@@ -17798,7 +17798,7 @@ cf fonflo
 \cf Yaoda
 \cf Fieda
 \cf Kwasieda
-\dt 28/Jul/2013
+\dt 15/Sep/2013
 
 \lx mla
 \ph mla
@@ -21041,24 +21041,18 @@ cf fonflo
 \nt From ths: terms for females: ɔtsɩ/atsɩ (woman/women), otsibi/atsɩbi (girl/girls), obitebi/mbitebi (lady/ladies), abriwa/mbrɩwa (old lady/old ladies), oyín/ayín (man/men), nana (grandmother), tasii (aunt/niece), ɔtrapʋ (newly born lady), opio (brother/sister), ɔka (wife), okulu (husband), ɔkaba (rival).
 \dt 14/Aug/2013
 
-\lx -OBLIG-
-\ph -OBLIG-
+\lx OBLIG
 \ps TAM
 \ge should
 \sd TN_
 \de a high falling tone pattern indicating obligatory
-\dt 09/Aug/2012
-
-\lx obligatory tense
-\ph obligatory tense
-\ps v
 \ge obligatory tense
 \de verb paradigm
 \xv Ɔbɛɛ, nɩ nakʋsʋ a, nkunta mɩ atɔ dɩhɛ amʋ
 \xe He said, If I have risen I should fold my sleeping things.
 \rf Tape:6-2-310
 \xv Nɩ fakʋsʋ a, kunta fʋ atɔ dɩhɛ amʋ.
-\xe If you have risen you should fold your sleeping things.
+\xe When you have risen you should fold your sleeping things.
 \rf Tape:6-2-314
 \xv Nɩ alakʋsʋ a, okunta mʋ atɔ dɩhɛ amʋ.
 \xe If he has risen he should fold his sleeping things.
@@ -21072,7 +21066,11 @@ cf fonflo
 \xv Nɩ bakʋsʋ a, bʋkunta amʋ́ atɔ dɩhɛ amʋ.
 \xe If they have risen they should fold their sleeping things.
 \rf Tape:6-2-325
-\dt 28/Jul/2013
+\dt 15/Sep/2013
+
+\lx -OBLIG-
+\ph -OBLIG-
+\dt 15/Sep/2013
 
 \lx oblikpini
 \ph oblik͡piniʔ(L)
@@ -25696,7 +25694,7 @@ cf fonflo
 \de every way
 \xv Ɔkpagyiɔkpa sʋ a, fʋ klɛ ma nʋ.
 \xe In everyway yours is not there.
-\xv It's comletely your fault.
+\xv It's completely your fault.
 \rf Tape:5-2-499
 \dt 16/Sep/2013
 
@@ -27285,6 +27283,7 @@ cf fonflo
 \de sheep
 \lf Obsolete
 \le Used only in traditional ritual context
+\nt This word is cognate with 'sheep' in other Guang languages
 \dt 16/Sep/2013
 
 \lx ɔsapɔ
@@ -33181,11 +33180,6 @@ cf fonflo
 \rf Tape:7-2-313
 \rf Stewart List:2010
 \dt 21/Aug/2012
-
-\lx tsia
-\hm 3
-\cf itsia
-\dt 24/Dec/2012
 
 \lx tsiaa
 \ph t͡siáʔ
