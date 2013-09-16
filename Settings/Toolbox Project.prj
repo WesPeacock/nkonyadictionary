@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.5.9na Aug 2012
+\ProgramVersion 1.6.1 Jun 2013
 \ProjectPath C:\My Toolbox Projects\Nkonya\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -41,7 +41,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain max -32000 -32000 -1 -1 103 0 845 600
+\placementMain max -1 -1 -1 -1 30 76 1373 859
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
@@ -80,7 +80,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri abɩn iwu
+\fldPri ɔwanpʋ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -98,7 +98,7 @@
 \+wndlst 
 \+wnd 
 \placement min 320 729 0 25 30 30 1216 476
-\z 8
+\z 7
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -126,11 +126,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey ansibi
+\fldPriKey igyi
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri abɩn iwu
+\fldPri ɔwanpʋ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -148,8 +148,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \+wndlst 
 \+wnd 
-\placement normal 0 637 0 25 350 1 1391 554
-\z 10
+\placement normal 0 637 0 25 164 2 1206 555
+\z 11
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -172,7 +172,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 338
+\width 356
 \-brf
 \-brflst
 \+ind 
@@ -181,7 +181,7 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey abɩn iwu
+\fldPriKey ɔwanpʋ
 \fldSecKey
 \-rec
 \+keySearch 
@@ -192,9 +192,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 7
+\CaretLineScroll 7
+\CaretChar 10
 \-wnd
 \+wnd 
 \placement normal 0 25 0 25 138 138 1153 662
@@ -251,8 +251,8 @@
 \CaretChar 11
 \-wnd
 \+wnd 
-\placement normal 0 25 -8 -28 517 1 1426 786
-\z 11
+\placement normal 0 25 -8 -28 367 0 1274 780
+\z 10
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -264,33 +264,37 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr lx
-\width 162
+\width 138
+\-brf
+\+brf 
+\mkr ph
+\width 138
 \-brf
 \+brf 
 \mkr pl
-\width 162
+\width 138
 \-brf
 \+brf 
 \mkr ps
-\width 162
+\width 138
 \-brf
 \+brf 
 \mkr ge
-\width 163
+\width 138
 \-brf
 \+brf 
 \mkr sd
-\width 189
+\width 139
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
-\mkrSecKey ge
+\mkrSecKey ph
 \-ind
 \+rec 
-\fldPriKey abɩn
-\fldSecKey side
+\fldPriKey ɔwanpʋ
+\fldSecKey ɔwãmpʊ
 \-rec
 \+keySearch 
 \fldPri LUK.12:1
@@ -302,8 +306,8 @@
 \-keyInsert
 \-wnd
 \+wnd 
-\placement normal 0 884 -1 -1 54 80 1494 726
-\z 6
+\placement normal 0 884 -1 -1 109 64 1329 710
+\z 9
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -326,15 +330,17 @@
 \-brf
 \+brf 
 \mkr ge
-\width 754
+\width 534
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey va
+\mkrPriKey lx
 \srtPriKey NkonyaU
+\mkrSecKey va
 \-ind
 \+rec 
-\fldPriKey puni
+\fldPriKey Afua
+\fldSecKey Afia
 \-rec
 \+keySearch 
 \fldPri LUK.12:1
@@ -344,9 +350,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 3
-\CaretLineScroll 3
-\CaretChar 0
+\CaretLine 11
+\CaretLineScroll 11
+\CaretChar 2
 \-wnd
 \+wnd 
 \placement min 0 773 -1 -1 54 80 1494 726
@@ -438,7 +444,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri abɩn iwu
+\fldPri ɔwanpʋ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -475,7 +481,7 @@
 \fldPriKey 2
 \-rec
 \+keySearch 
-\fldPri LUK.12:1
+\fldPri Asʋhompeiin
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -545,10 +551,9 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 25 -4 -41 0 0 479 651
-\z 9
+\z 6
 \ViewMarkers
 \widthMarkerArea 50
-\Browse
 \JumpTarget
 \FocusTarget
 \+brflst 
@@ -560,17 +565,17 @@
 \-brf
 \+brf 
 \mkr is
-\width 170
+\width 187
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey is
-\srtPriKey ThesClass
-\mkrSecKey wd
+\mkrPriKey wd
+\srtPriKey ThesEng
+\mkrSecKey is
 \-ind
 \+rec 
-\fldPriKey II.A.1.b
-\fldSecKey mouth
+\fldPriKey bitterness
+\fldSecKey I.C.6.b
 \-rec
 \+keySearch 
 \fldPri speech
@@ -580,10 +585,13 @@
 \MatchWhole
 \match_char p
 \-keyInsert
+\CaretLine 4
+\CaretLineScroll 4
+\CaretChar 11
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 253 253 1436 798
-\z 7
+\z 8
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -592,11 +600,15 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr wd
-\width 259
+\width 375
+\-brf
+\+brf 
+\mkr thes
+\width 375
 \-brf
 \+brf 
 \mkr is
-\width 874
+\width 393
 \-brf
 \-brflst
 \+ind 
@@ -604,7 +616,7 @@
 \srtPriKey ThesEng
 \-ind
 \+rec 
-\fldPriKey human-being
+\fldPriKey hesitate
 \-rec
 \+keySearch 
 \fldPri speech
@@ -614,8 +626,8 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 2
-\CaretLineScroll 2
+\CaretLine 0
+\CaretLineScroll 0
 \CaretChar 0
 \-wnd
 \-wndlst
@@ -623,17 +635,10 @@
 
 \-dblst
 \+Find 
-\Field bib
+\SingleField
+\Field ph
 \match_char p
 \+ftxlst 
-\+ftx 
-\text roof
-\lng English
-\-ftx
-\+ftx 
-\text i nɩ́
-\lng English
-\-ftx
 \+ftx 
 \text a nɩ́
 \lng English
@@ -705,6 +710,14 @@
 \+ftx 
 \text birth
 \lng Default
+\-ftx
+\+ftx 
+\text hesitate
+\lng Default
+\-ftx
+\+ftx 
+\text ɳ
+\lng phonetic
 \-ftx
 \-ftxlst
 \Replace tɔ
