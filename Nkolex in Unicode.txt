@@ -28204,7 +28204,7 @@ It occurs only with numbers, and only with the numbers 2 through 7, i. e. nnyɔ,
 \ps n
 \sn 1
 \ge moon
-\sd TN_
+\sd TN_TN_I.A.1
 \de moon
 \xv Ɔtsɩra amʋ dɛfɛɩ dʋbɩ.
 \xe The moon is shining brightly.
@@ -28213,14 +28213,23 @@ It occurs only with numbers, and only with the numbers 2 through 7, i. e. nnyɔ,
 \rf Stewart List:1111
 \sn 2
 \ge month
-\sd TN_
+\sd TN_I.C.4.b
 \va tsra
 \de month
 \xv Ɔtsɩra latsʋn mʋsʋ.
 \xe The month has passed on her. She has missed her period. She is conceived.
 \nt idiom
 \rf Tape:6-1-541
-\dt 02/Jan/2013
+\dt 16/Sep/2013
+
+\lx ɔtsrafɛɩ
+\ph ɔt͡srafɛɪ
+\ps n
+\ge moonlight
+\sd TN_I.A.1
+\de moonlight
+\ec ɔtsra "moon" fɛɩ "sweep"
+\dt 16/Sep/2013
 
 \lx ɔtsrakpabi
 \ph ɔt͡srak͡pabiʔ
