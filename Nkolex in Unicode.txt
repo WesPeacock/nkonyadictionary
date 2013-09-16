@@ -1988,8 +1988,9 @@
 \ge four
 \sd TN_I.C.2.a
 \de four
+\va nna
 \rf Stewart List:1804
-\dt 26/Aug/2013
+\dt 16/Sep/2013
 
 \lx aná
 \ph aná
@@ -2276,8 +2277,9 @@
 \ge five
 \sd TN_I.C.2.a
 \de five
+\va nnu
 \rf Stewart List:1805
-\dt 26/Aug/2013
+\dt 16/Sep/2013
 
 \lx anulɛ
 \ph anulɛ́(H)
@@ -2324,9 +2326,9 @@
 \ge two
 \sd TN_I.C.2.a
 \de two
-\nt has noun stem agreement
+\va nnyɔ
 \rf Stewart List:1802
-\dt 26/Aug/2013
+\dt 16/Sep/2013
 
 \lx ao
 \ph ao(H)
@@ -2487,12 +2489,13 @@
 \hm 2
 \ph asa(H)
 \ps NUM
-\va sa
 \ge three
 \sd TN_I.C.2.a
 \de three
+\va sa
+\va nsa
 \rf Stewart List:1803
-\dt 26/Aug/2013
+\dt 16/Sep/2013
 
 \lx asaan
 \ph asã̂ːʔ
@@ -2601,8 +2604,9 @@
 \ge six
 \sd TN_I.C.2.a
 \de six
+\va nsie
 \rf Stewart List:1806
-\dt 26/Aug/2013
+\dt 16/Sep/2013
 
 \lx asiengbi
 \ph asiẽn͡ɱg͡bi
@@ -19451,6 +19455,19 @@ cf fonflo
 \rf Tape:5-1-280
 \dt 30/Nov/2011
 
+\lx nna
+\ph nːa(H)
+\ps NUM
+\va na
+\ge four
+\sd TN_I.C.2.a
+\de four
+\va ana
+\cf nsa
+\nt For more information on the ana/nna variation see the note in the entry for nsa 'three'.
+\rf Stewart List:1804
+\dt 16/Sep/2013
+
 \lx nnɛ
 \ph nnɛ
 \ps v
@@ -19460,6 +19477,28 @@ cf fonflo
 \xv Nnɛ fʋ oyi amʋtɔ mɩ ankɩ bɛɛ ɩbébia.
 \xe Bend the stick for me to see whether it will break. .
 \dt 16/Jul/2012
+
+\lx nnu
+\ph nːu(H)
+\ps NUM
+\ge five
+\sd TN_I.C.2.a
+\de five
+\va anu
+\nt For more information on the anu/nnu variation see the note in the entry for nsa 'three'.
+\rf Stewart List:1805
+\dt 16/Sep/2013
+
+\lx nnyɔ
+\ph ɲːɔ(H)
+\ps NUM
+\ge two
+\sd TN_I.C.2.a
+\de two
+\va anyɔ
+\nt For more information on the anyɔ/nnyɔ variation see the note in the entry for nsa 'three'.
+\rf Stewart List:1802
+\dt 16/Sep/2013
 
 \lx nɔ
 \ph nɔʔ
@@ -19472,6 +19511,20 @@ cf fonflo
 \rf Tape:5-1-291
 \rf Stewart List:2305
 \dt 26/Dec/2012
+
+\lx nsa
+\ph nsa(H)
+\ps NUM
+\ge three
+\sd TN_I.C.2.a
+\de three, variant form
+\va asa
+\ng The nsa form of asa occurs with certain nouns with n- plural markers. For example, "nkɛ nsa- three days".
+This form is an example of noun concord in noun adjective combinations.
+This concord is not common in Nkonya, but other Guang have it more extensively.
+It occurs only with numbers, and only with the numbers 2 through 7, i. e. nnyɔ, nsa, nna, nnu, nsie, nsienɔ.
+\rf Stewart List:1803
+\dt 16/Sep/2013
 
 \lx nsaɩntɔ
 \ph nsaɪntɔ(H)
@@ -19561,6 +19614,28 @@ cf fonflo
 \xe When this girl conceives, her eye white becomes white.
 \rf SIL-AWL:0010
 \dt 26/Aug/2013
+
+\lx nsie
+\ph nsie (H)
+\ps NUM
+\ge six
+\sd TN_I.C.2.a
+\de six
+\va asie
+\nt For more information on the asie/nsie variation see the note in the entry for nsa 'three'.
+\rf Stewart List:1806
+\dt 16/Sep/2013
+
+\lx nsienɔ
+\ph nsienɔ́
+\ps NUM
+\ge seven
+\sd TN_I.C.2.a
+\de seven
+\va sienɔ
+\nt For more information on the sienɔ/nsienɔ variation see the note in the entry for nsa 'three'.
+\rf Stewart List:1807
+\dt 16/Sep/2013
 
 \lx nsɩka
 \ph nsɪ́káʔ
@@ -30390,8 +30465,9 @@ cf fonflo
 \xe If you are reading things you go from six to seven.
 \xv Mɩ nfi sienɔsɩtɔ nawie.
 \xe I am now in my seventh year.
+\va nsienɔ
 \rf Stewart List:1807
-\dt 26/Aug/2013
+\dt 16/Sep/2013
 
 \lx sienɔsɩ
 \ph sienɔ́sɪ
