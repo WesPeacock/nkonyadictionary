@@ -431,7 +431,7 @@
 \+mkr ng
 \nam Notes (grammar)
 \desc For any grammar note pertinent to the lexeme that you want separate from general notes. Capitalization and punctuation should be used as needed.
-\lng English
+\lng vernacular
 \mkrOverThis sn
 \CharStyle
 \-mkr
