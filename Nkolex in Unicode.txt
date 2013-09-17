@@ -19455,7 +19455,7 @@ cf fonflo
 \rf Tape:5-1-280
 \dt 30/Nov/2011
 
-\lx nna
+\lx -nna
 \ph nːa(H)
 \ps NUM
 \va na
@@ -19466,7 +19466,7 @@ cf fonflo
 \cf nsa
 \nt For more information on the ana/nna variation see the note in the entry for nsa 'three'.
 \rf Stewart List:1804
-\dt 16/Sep/2013
+\dt 17/Sep/2013
 
 \lx nnɛ
 \ph nnɛ
@@ -19478,7 +19478,7 @@ cf fonflo
 \xe Bend the stick for me to see whether it will break. .
 \dt 16/Jul/2012
 
-\lx nnu
+\lx -nnu
 \ph nːu(H)
 \ps NUM
 \ge five
@@ -19487,18 +19487,7 @@ cf fonflo
 \va anu
 \nt For more information on the anu/nnu variation see the note in the entry for nsa 'three'.
 \rf Stewart List:1805
-\dt 16/Sep/2013
-
-\lx nnyɔ
-\ph ɲːɔ(H)
-\ps NUM
-\ge two
-\sd TN_I.C.2.a
-\de two
-\va anyɔ
-\nt For more information on the anyɔ/nnyɔ variation see the note in the entry for nsa 'three'.
-\rf Stewart List:1802
-\dt 16/Sep/2013
+\dt 17/Sep/2013
 
 \lx nɔ
 \ph nɔʔ
@@ -19512,19 +19501,21 @@ cf fonflo
 \rf Stewart List:2305
 \dt 26/Dec/2012
 
-\lx nsa
-\ph nsa(H)
+\lx -nsa
+\ph nsa
 \ps NUM
 \ge three
 \sd TN_I.C.2.a
 \de three, variant form
 \va asa
-\ng The nsa form of asa occurs with certain nouns with n- plural markers. For example, "nkɛ nsa- three days".
+\ng The -nsa form of asa occurs with certain nouns with n- plural markers. For example, "nkɛnsa- three days".
 This form is an example of noun concord in noun adjective combinations.
 This concord is not common in Nkonya, but other Guang have it more extensively.
-It occurs only with numbers, and only with the numbers 2 through 7, i. e. nnyɔ, nsa, nna, nnu, nsie, nsienɔ.
+It occurs only with numbers, and only with the numbers 2 through 7, i. e. -nyɔ, -nsa, -nna, -nnu, -nsie, -nsienɔ.
+\np The +ATR forms (nyɔ, -nnu, -nsie, -nsienɔ) cause the word to which they are attached to become +ATR.
+For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Stewart List:1803
-\dt 16/Sep/2013
+\dt 17/Sep/2013
 
 \lx nsaɩntɔ
 \ph nsaɪntɔ(H)
@@ -19615,7 +19606,7 @@ It occurs only with numbers, and only with the numbers 2 through 7, i. e. nnyɔ,
 \rf SIL-AWL:0010
 \dt 26/Aug/2013
 
-\lx nsie
+\lx -nsie
 \ph nsie (H)
 \ps NUM
 \ge six
@@ -19624,18 +19615,18 @@ It occurs only with numbers, and only with the numbers 2 through 7, i. e. nnyɔ,
 \va asie
 \nt For more information on the asie/nsie variation see the note in the entry for nsa 'three'.
 \rf Stewart List:1806
-\dt 16/Sep/2013
+\dt 17/Sep/2013
 
-\lx nsienɔ
+\lx -nsienɔ
 \ph nsienɔ́
 \ps NUM
 \ge seven
 \sd TN_I.C.2.a
 \de seven
 \va sienɔ
-\nt For more information on the sienɔ/nsienɔ variation see the note in the entry for nsa 'three'.
+\nt For more information on the sienɔ/nsienɔ variation see the note in the entry for -nsa 'three'.
 \rf Stewart List:1807
-\dt 16/Sep/2013
+\dt 17/Sep/2013
 
 \lx nsɩka
 \ph nsɪ́káʔ
@@ -20778,6 +20769,19 @@ It occurs only with numbers, and only with the numbers 2 through 7, i. e. nnyɔ,
 \xv Mɩa fʋ nyɔ abɔ́yɔ yɛkɩ anɩ ayibi.
 \xe You and I will go to inspect our traps.
 \dt 18/Oct/2005
+
+\lx -nyɔ
+\ph ɲːɔ(H)
+\ps NUM
+\ge two
+\sd TN_I.C.2.a
+\de two
+\va anyɔ
+\np the -nyɔ causes the root to which it is attached to become +ATR.
+E.g., nkɛ+-nyɔ becomes nkenyɔ.
+\nt For more information on the anyɔ/-nyɔ variation see the note in the entry for nsa 'three'.
+\rf Stewart List:1802
+\dt 17/Sep/2013
 
 \lx nyɔmba
 \ph ɲɔmbá
