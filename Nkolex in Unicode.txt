@@ -1,4 +1,4 @@
-\_sh v3.0  745  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lx a
 \hm 4
@@ -715,9 +715,9 @@
 \xe Your things, how much?
 \xe How much are your things?
 \rf Tape:1-1-153
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \rf Stewart List:1604
-\dt 27/Aug/2013
+\dt 28/Sep/2013
 
 \lx afonflo
 \ph afoɱflo(H)
@@ -811,7 +811,7 @@
 \ps n
 \sn 1
 \ge wind
-\sd TN_I.A.2.a
+\sd TN_I.A.2.c
 \de wind
 \xv Afu teyinta blɔdɩ ndɔtɔ.
 \xe Wind always spoils plantain in the farms.
@@ -822,7 +822,9 @@
 \sd TN_I.A.2.a
 \de air
 \rf Stewart List:1009
-\dt 29/Aug/2013
+\cf alankpla
+\cf atsufu
+\dt 29/Sep/2013
 
 \lx Afua
 \ph afúá(H)
@@ -1729,11 +1731,11 @@
 \ph alaŋ͡mk͡pla
 \ps n
 \ge storm
-\sd TN_
+\sd TN_I.A.2.d
 \de rain storm
 \xv Nɩ nyankpʋ detswie, alankpla dɛ a, ifu tɛkɩta aha ánɩ́ amʋ́ mbu lapɔn tsufɛ itobwie mbu. Tamɛ Yesu bʋ tumi dɩnka alankpla sʋ.
 \xe When there is a rainfall with storm, those whose houses are weak become afraid it destroys houses. But Jesus has power over storm.
-\dt 05/Oct/2012
+\dt 29/Sep/2013
 
 \lx alɛ
 \ph alɛ́ (H)
@@ -3219,9 +3221,9 @@
 \ph at͡sufú
 \ps n
 \ge storm
-\sd TN_
+\sd TN_I.A.2.d
 \de storm
-\dt 21/Aug/2012
+\dt 29/Sep/2013
 
 \lx atsuli bibi
 \ph at͡sulîbibi
@@ -3407,11 +3409,11 @@
 \de end of a month; of a person, his final state
 \bw Akan fi:
 \cf ɔnɔ mɔ
-\xv Ɔtsɩra anfɩ awiɛɩ nɔ́yɔ Nkra.
+\xv Ɔtsra anfɩ awiɛɩ nɔ́yɔ Nkra.
 \xe At the end of this month I will go to Accra.
-\xv Ɔtsɩra anfɩ mɔ ɔnɔ nɔ́yɔ Nkra.
+\xv Ɔtsra anfɩ mɔ ɔnɔ nɔ́yɔ Nkra.
 \xe At the end of this month I will go to Accra.
-\dt 16/Jul/2012
+\dt 28/Sep/2013
 
 \lx awikpan
 \ph awik͡pã
@@ -3644,13 +3646,13 @@
 \ph bâːrɪ
 \ps n
 \ge barrel
-\sd TN_
+\sd TN_II.C.2.f
 \de barrel
 \bw English fi:barrel
 \xv Nyankpʋ obotswie ndɛ, sʋ nafwɩ mɩ baarɩtɔ.
 \xe It will rain today so I have cleaned my barrel.
 \rf Tape:7-1-177
-\dt 17/Dec/2012
+\dt 29/Sep/2013
 
 \lx baba
 \ph babaʔ
@@ -4430,15 +4432,26 @@
 \ph blanwɛ́
 \ps n
 \ge pan
-\sd TN_
-\de pan
+\sd TN_II.C.2.f
+\de pan; also used of the amount that a pan can hold
 \xv Ɔhagyiɔha otsu mʋ blanwɛ- gyi atɔ ba, ɔbɔhɔ mʋ atogyihɛ.
 \xe Every person should bring his food bowl in order that he will get his food.
+\rf Tape:1-2-506
 \pl ablanwɛ
 \ph ablanwɛ́
-\rf Tape:1-2-506
 \nt means the same as bɛnsɩ, which is an English loan word.
-\dt 17/Dec/2012
+\dt 29/Sep/2013
+
+\lx blanwɛbi
+\ph blanwɛbi
+\np Needs tone
+\ps n
+\ge small pan
+\sd TN_II.C.2.f
+\de a small pan; also used of the amount that a small pan can hold
+\pl ablanwɛbi
+\ph ablanwɛbi
+\dt 29/Sep/2013
 
 \lx blawunu
 \ph blawunuʔ
@@ -5238,7 +5251,8 @@
 \xv Ɩbʋ fʋ atsulɛ?
 \xe Is it easy for you to pick up.
 \rf Stewart List:2498
-\dt 05/Jul/2013
+\an ma
+\dt 29/Sep/2013
 
 \lx bʋ
 \hm 2
@@ -5340,14 +5354,6 @@
 \xe Because of this if someone is born today, it is necessary to begin to prepare ourselves for his death.
 \rf Tape:2-1-140
 \dt 24/Aug/2012
-
-\lx bʋalɛ
-\ph bʊalɛ
-\ps ADJ
-\ge good
-\sd TN_
-\de good
-\dt 20/Oct/2006
 
 \lx bʋla
 \ph bʊ́lá
@@ -5500,7 +5506,7 @@
 \ph bwie
 \ps v
 \ge break
-\sd TN_
+\sd TN_I.C.1.c
 \de to break s.t.
 \xv Kɩta ɔlɛpɛ amʋ wanklaan, mɛnɩ fʋmóbwie mʋ́.
 \xe Hold the dish carefully so that you won't break it.
@@ -5525,7 +5531,7 @@
 \xv Ɔnɔ labwie mɩ, tsufɛ mmɔkʋ wun ɩnɩ odu kɩ.
 \xe I was speechless (with amazement) because I had not seen this kind before.
 \rf Tape:6-1-183
-\dt 05/Jul/2013
+\dt 29/Sep/2013
 
 \lx bwii
 \ph bwǐː
@@ -6464,8 +6470,8 @@
 \lt How many bells have struck?
 \nt this is a unique form of ɔdɔn which occurs only in this expresion.
 \rf Tape:2-1-354
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
-\dt 28/Dec/2012
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\dt 28/Sep/2013
 
 \lx dɔkɩta
 \ph dɔkɪ́ta
@@ -7077,7 +7083,7 @@
 \ph fɛ́ʔ(H)
 \ps ADV
 \ge like
-\sd TN_
+\sd TN_I.C.1.b
 \de similar to
 \xv Ɩdɛ mɩ bwɛ fɛ nɔpʋ tswɩ nfɩ.
 \xe It seems as if I put it down here.
@@ -7086,7 +7092,7 @@
 \xe All human beings are like sheep
 \rf Tape:2-1-458
 \nt From ths: words dealing with similarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as) - also contrast with kɛn,
-\dt 28/Dec/2012
+\dt 29/Sep/2013
 
 \lx fɛ́ɛ́
 \ph fɛ́ː(H)
@@ -7121,14 +7127,18 @@
 \ge sweep
 \sd TN_
 \de sweep
-\xv ɔtsra dɛfɛɩ
-\xe the moon is shining
-\rf Tape:2-1-478
 \xv Nɔ́hɔ ɔfɛsɩ, antsia pʋ fɛɩ obuto.
 \xe I will buy a broom in order that I will always take it and sweep the room.
 \rf Tape:2-1-480
 \rf Stewart List:2814
-\dt 17/Dec/2012
+\se fɛɩ (ɔtsra /ntsrakpabi)
+\ps v
+\ge shine
+\de to shine; used of moon and stars
+\xv ɔtsra dɛfɛɩ
+\xe the moon is shining
+\rf Tape:2-1-478
+\dt 28/Sep/2013
 
 \lx fɛkɩ
 \ph fɛ́kɪʔ (L)
@@ -7785,7 +7795,7 @@
 \xv Abɛ amʋ lafʋ, sʋ abɔ́gyɔɩ mʋ́ ndɛ.
 \xe The palm nuts have loosened so we will remove them today.
 \rf Tape:2-2-293
-\dt 15/Sep/2012
+\dt 29/Sep/2013
 
 \lx fʋa
 \hm 1
@@ -8017,6 +8027,18 @@
 \de garlic
 \bw English fi\garlic
 \dt 27/Aug/2012
+
+\lx galɔn
+\ph galɔ̃
+\ps n
+\ge gallon
+\sd TN_II.C.2.f
+\de a gallon container; also used of the amount.
+\pl agalɔn
+\ph agalɔ̃
+\bw English fi:gallon
+\np needs tone and plural
+\dt 29/Sep/2013
 
 \lx ganu
 \ph ganú
@@ -8533,7 +8555,7 @@
 \ph ʤí
 \ps vn
 \ge is
-\sd TN_
+\sd TN_I.C.1.b
 \de is; equative
 \xv Ɔnɩ gyi oyin amʋ ɔlɛba nfɩ amʋ nɩ.
 \xe That one is the man that came here.
@@ -8541,7 +8563,7 @@
 \xv Ndɛ gyi fʋ klɛ, ɔkɛ megyi fʋ klɛ.
 \xe Today is yours, tomorrow isn't yours.
 \rf Tape:4-2-576
-\dt 01/Sep/2012
+\dt 29/Sep/2013
 
 \lx -gyi-
 \hm 3
@@ -10632,7 +10654,7 @@
 \ps n
 \sn 1
 \ge part
-\sd TN_
+\sd TN_I.C.1.c
 \de part of a whole
 \xv Ha mɩ ɩfʋn.
 \xe Give me a part
@@ -10640,22 +10662,22 @@
 \xe What has been divided (among people), cannot be made whole again.
 \sn 2
 \ge half
-\sd TN_
+\sd TN_I.C.1.c; I.C.2.a
 \de half
 \sn 3
 \ge side
-\sd TN_
+\sd TN_I.C.1.c
 \de one side of a person
 \se ɩfʋn wu
 \ge stroke
-\sd TN_
+\sd TN_II.A.6.c
 \de to have a stroke
 \lt side die
 \sn 4
 \ge direction
 \sd TN_
 \de a certain direction
-\dt 17/Sep/2012
+\dt 28/Sep/2013
 
 \lx ɩfʋnka
 \ph ɪ
@@ -10671,6 +10693,14 @@
 \xe One side is red and the other is black.
 \rf Tape:2-2-076
 \dt 12/Jan/2012
+
+\lx ɩfʋntɔ fʋn
+\ph ɪfʊ̃ntɔfʊ̃
+\ps n
+\ge quarter
+\sd TN_I.C.1.c; I.C.2.a
+\de quarter
+\dt 28/Sep/2013
 
 \lx ɩfwɩ
 \ph ɪfwɪ (H)
@@ -11296,17 +11326,20 @@
 \lx ɩnyɩn
 \ph ɪɲɪ̃ʔ (H)
 \ps n
+\sn 1
 \ge rage
-\sd TN_
+\sd TN_II.B.3
 \de rage
 \nt in fast speech wa ɩnyɩ -> waɩn
 \xv Ɔblɔ lɛkɩta mʋ; sʋ ɔlɔwa ɩnyɩn
 \xe He became angry (Anger caught him). He was raging.
 \rf Tape:3-1-115
+\sn 2
+\ge worse
 \xv Ɩlɔ amʋ lawa ɩnyɩn.
 \xe The sickness has gotten very serious.
 \rf Tape:3-1-120
-\dt 19/Oct/2005
+\dt 29/Sep/2013
 
 \lx ɩpa
 \hm 1
@@ -11366,7 +11399,7 @@
 \xv Nɩ ɔkɛ bakɛ fonu batɛ ɩbɔn a, mɩdɛ fʋ pan da.
 \xe If tomorrow dawn you hear a rooster's crowing I am thanking you.
 \rf Tape:3-1-138
-\dt 25/Dec/2012
+\dt 29/Sep/2013
 
 \lx ɩpɩn
 \ph ɪpɪ̃̂ʔ
@@ -11599,9 +11632,10 @@
 \ph ɪswɪ́ (H)
 \ps n
 \sn 1
-\ge height, length
-\sd TN_
-\de height of something vertical or length of something horizontal
+\ge height
+\ge length
+\sd TN_I.C.3.a
+\de height of something vertical; length of something horizontal
 \xv Agode oyi bʋ swɩ dʋn baflɛ oyi.
 \xe Coconut trees are taller than pawpaw trees.
 \rf Tape:7-1-270
@@ -11624,7 +11658,7 @@
 \xv Amʋ́ swɩtɔ gyi kɛkɛ.
 \xe They are the same height.
 \rf Tape:7-1-280
-\dt 04/Nov/2012
+\dt 29/Sep/2013
 
 \lx ɩta
 \ph ɪtaʔ
@@ -12223,7 +12257,7 @@
 \ph kálá
 \ps v
 \ge reduce
-\sd TN_
+\sd TN_I.C.3.a
 \de reduce
 \xv Kala fʋ ɩdɔ sʋ mɛnɩ fʋ mɔ́ɔwa ɔsa wu.
 \xe Reduce your farm work so that you won't die young.
@@ -12231,7 +12265,7 @@
 \xv Fakala bʋ, Fakala sɩsɩ.
 \xe You have lost weight.
 \rf Tape:3-1-359
-\dt 28/Dec/2012
+\dt 28/Sep/2013
 
 \lx kala bwɛ
 \ph kálá bwɛ́ʔ
@@ -12256,7 +12290,8 @@
 \rf Tape:3-1-363
 \nt From ths: words used in measuring kapʋ (measure height/depth), susu (measure amount), kali (weigh)
 \rf Stewart List:2827
-\dt 26/Dec/2012
+\cf susu
+\dt 29/Sep/2013
 
 \lx kan
 \hm 1
@@ -12427,14 +12462,15 @@
 \ph kápʊ́
 \ps v
 \ge measure
-\sd TN_
+\sd TN_II.D.6.h
 \de measure depth, height
 \xv Ba, akapʋ aba akɩ ɔha odua ɔbʋ ɩswɩ dʋn mʋ ba.
 \xe Come, we should measure each other, we should see which one is taller than his mate.
 \rf Tape:3-1-441
 \nt From ths: words used in measuring kapʋ (measure height/depth), susu (measure amount), kali (weigh)
 \rf Stewart List:2826
-\dt 05/Jul/2012
+\cf susu
+\dt 29/Sep/2013
 
 \lx kasɛ
 \ph kásɛ
@@ -12591,15 +12627,15 @@
 \ph kɛ́kɛʔ
 \ps ADJ
 \ge same
-\sd TN_
+\sd TN_I.C.1.b
 \de same
 \an ɔtsan
 \xv Amʋ́ swɩtɔ gyi kɛkɛ.
 \xe They are the same height.
 \rf Tape:3-1-494
 \rf Stewart List:1699
-\nt From ths: words dealing with similarities:fɛ́ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛɩn,
-\dt 28/Dec/2012
+\nt From ths: words dealing with similarities:fɛ́ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛn,
+\dt 29/Sep/2013
 
 \lx kɛkɛ
 \hm 2
@@ -12672,7 +12708,7 @@
 \ph kɛ̃́(H)
 \ps ADJ
 \ge same
-\sd TN_
+\sd TN_I.C.1.b
 \de the same as
 \va gyein
 \ve South
@@ -12689,7 +12725,7 @@
 \rf Tape:3-1-475
 \xv Omefi mʋ́ asɩ wanklaan, alɩ kɛn ɔbʋ mʋ́sʋ nɩ.
 \xe He didn't start well so he is continuing in the same way.
-\dt 15/Aug/2012
+\dt 29/Sep/2013
 
 \lx kɛn
 \hm 2
@@ -12714,6 +12750,15 @@
 \sd TN_
 \de to grunt
 \dt 10/Jan/2012
+
+\lx kɛn
+\hm 4
+\ph kɛ̃ʔ(L)
+\ps v
+\ge enlarge
+\sd TN_I.C.5
+\de to become larger
+\dt 30/Sep/2013
 
 \lx kɛnkɛ
 \hm 1
@@ -13645,9 +13690,10 @@
 \ph klúkluː́klú
 \ps ADJ
 \ge very deep
-\sd TN_
+\sd TN_I.C.3.a
 \de very deep
-\dt 10/Jan/2012
+\va kluklu
+\dt 29/Sep/2013
 
 \lx klun
 \ph klũʔ
@@ -15013,9 +15059,9 @@ cf fonflo
 \ph k͡pɪk͡pɪ̂ːʔ
 \ps v
 \ge shrink
-\sd TN_
+\sd TN_I.C.4.a.ii; II.A.4.d
 \de shrink
-\dt 09/Aug/2012
+\dt 28/Sep/2013
 
 \lx kpɩnkɩ
 \ph k͡pɪ̃́ŋkɪ́
@@ -16871,9 +16917,10 @@ cf fonflo
 \ph lɪã
 \ps v
 \ge resemble
-\sd TN_
+\sd TN_I.C.1.b
 \de resemble
-\cf kɛkɛ the same
+\cf kɛkɛ
+\ce the same
 \xv Kebi amʋ lɛlɩan mʋ sɩ.
 \xe The child resembles his father. The nominal is ɩlɩan
 \xv Krantɩɛ anfɩ lɛlɩan mɩ klɛ.
@@ -16881,7 +16928,7 @@ cf fonflo
 \rf Tape:4-1-510
 \rf Stewart List:1699
 \nt From ths: words dealing with similarities: fɛ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛɩn (in the same way as) - also contrast with kɛɩn,
-\dt 28/Dec/2012
+\dt 29/Sep/2013
 
 \lx lɩɩ
 \sn 1
@@ -16930,7 +16977,7 @@ cf fonflo
 \ps v
 \sn 1
 \ge be evident
-\sd TN_
+\sd TN_II.A.3.a
 \de something making itself evident
 \xv Fʋdɛ apipi lɩn.
 \xe You are sweating.
@@ -16941,7 +16988,7 @@ cf fonflo
 \rf Stewart List:2346
 \sn 2
 \ge shine
-\sd TN_
+\sd TN_II.A.3.a
 \de to shine (sun)
 \xv Owí dɛlɩn.
 \xe The sun is shining
@@ -16951,13 +16998,13 @@ cf fonflo
 \rf Tape:4-1-525
 \sn 3
 \ge inexpensive
-\sd TN_
+\sd TN_II.D.5.b
 \de to be inexpensive; plentiful
 \xv Fʋ atɔfɛhɛ amʋ lɛlɩn. Mʋ́ bia ma ɔnlɩn
 \xe The things you are selling are cheap. Their prices are low.
 \rf Tape:4-1-532
 \rf Stewart List:1707
-\dt 07/Sep/2012
+\dt 28/Sep/2013
 
 \lx lɩn
 \hm 2
@@ -17155,11 +17202,13 @@ cf fonflo
 \ph ma
 \ps v
 \ge not
+\sd TN_I.C.1.b
 \de is not
 \xv Tɔtɔɔtɔ ma ɔbɔ amʋtɔ.
 \xe Nothing is in the hole.
 \rf Tape:4-1-564
-\dt 13/Oct/2005
+\an bʋ
+\dt 29/Sep/2013
 
 \lx ma
 \hm 3
@@ -17633,8 +17682,8 @@ cf fonflo
 \de what about?
 \xv Fʋ ka mɛ?
 \xe Where is your wife? / How is your wife?
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
-\dt 28/Dec/2012
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\dt 28/Sep/2013
 
 \lx mɛ-
 \hm 3
@@ -17971,7 +18020,7 @@ cf fonflo
 \ph móní
 \ps vi
 \ge big
-\sd TN_
+\sd TN_I.C.3.a
 \de to attain largeness
 \xv Bonbolintsu gyi oyi ánɩ́ tomoni swie flawasɩ pɛpɛ.
 \xe The tulip tree is a big tree that bears red flowers.
@@ -17983,7 +18032,7 @@ cf fonflo
 \xe The chief's yam is very big.
 \nt From ths: words for big: yile, kpɔnkpɔntɩ, moni (vi), tsɔtsɔɔtsɔ - large in quantity
 \rf Stewart List:2285
-\dt 14/May/2012
+\dt 29/Sep/2013
 
 \lx mɔ
 \ph mɔ́ʔ(H)
@@ -18050,8 +18099,8 @@ cf fonflo
 \rf Tape:4-2-385
 \xv Sukuu amʋ mɔmʋtɔ fɔ́yɔ?
 \xe Which of the school are you going?
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
-\dt 28/Dec/2012
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\dt 28/Sep/2013
 
 \lx mɔsɩ
 \ph mɔ́sɪ́ʔ
@@ -18371,11 +18420,11 @@ cf fonflo
 \ge and
 \sd TN_
 \de used to link two inanimate items
-\xv Bulu lɔbwɛ owí mʋamʋ ɔtsɩra,
+\xv Bulu lɔbwɛ owí mʋamʋ ɔtsra,
 \xe God has made the sun and moon.
 \rf Tape:4-2-320
 \rf Stewart List:1846
-\dt 08/Sep/2012
+\dt 28/Sep/2013
 
 \lx mʋamʋ
 \hm 2
@@ -19108,9 +19157,9 @@ cf fonflo
 \xv Nkalɩ ɔdɛ ɩlʋ amʋ wa.
 \xe How is he singing the song (what are the words of the song).
 \rf Tape:5-1-167
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \rf Stewart List:1603
-\dt 28/Dec/2012
+\dt 28/Sep/2013
 
 \lx nkandʋ
 \ph ŋkandʊ
@@ -19439,9 +19488,9 @@ cf fonflo
 \xv Nkʋnʋ fotsu? Nkʋnʋ fɔyɔ?
 \xe Where do you come from? where are you going to?
 \rf Tape:5-1-271
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \rf Stewart List:1601
-\dt 28/Dec/2012
+\dt 28/Sep/2013
 
 \lx nkwanta
 \ph ŋkwanta
@@ -19493,13 +19542,13 @@ cf fonflo
 \ph nɔʔ
 \ps v
 \ge bend
-\sd TN_
+\sd TN_I.C.3.b
 \de bend
-\xv Ɔkpa amʋ mo tswii, ɩlɔnɔ.
+\xv Ɔkpa amʋ motswii, ɩlɔnɔ.
 \xe The road isn't straight, it has a bend.
 \rf Tape:5-1-291
 \rf Stewart List:2305
-\dt 26/Dec/2012
+\dt 27/Sep/2013
 
 \lx -nsa
 \ph nsa
@@ -19851,11 +19900,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:5-1-380
 \xv Ntɔ fʋdɛklɛ?
 \xe What do you want?
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \rf Stewart List:1607
 \lf Compound = ntogyi sʋ (ntɔ igyi sʋ)
 \le Why?
-\dt 28/Dec/2012
+\dt 28/Sep/2013
 
 \lx ntsalabi
 \ph nt͡salabiʔ
@@ -19882,6 +19931,16 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:5-1-403
 \rf Stewart List:1171
 \dt 23/Aug/2012
+
+\lx ntsrakpabifɛɩ
+\ph nt͡srak͡pabifɛɪ́
+\ps n
+\ge starlight
+\sd TN_I.A.2.a
+\de starlight
+\cf ɔtsrakpabi
+\cf fɛɩ
+\dt 29/Sep/2013
 
 \lx ntsu
 \ph nt͡su(H)
@@ -20920,7 +20979,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ŋlaɪ̃́
 \ps v
 \ge melt
-\sd TN_
+\sd TN_II.A.4.d
 \de melt
 \xv Bɔpʋ nfɔ dɩnka ogya a, ɩtɛŋlaɩn.
 \xe If they put grease on the fire, it melts.
@@ -20929,7 +20988,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If fire heats plastic it melts.
 \rf Tape:5-2-051
 \rf Stewart List:2257
-\dt 05/Jul/2012
+\dt 29/Sep/2013
 
 \lx ŋlanwun
 \ph ŋlanwũʔ
@@ -21492,7 +21551,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph odu(H)
 \ps ADJ
 \ge type
-\sd TN_
+\sd TN_I.C.1.b
 \de type, kind
 \cf odua
 \xv Ɩnɩ odu ndekle nɩ.
@@ -21510,13 +21569,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe This is the one I like.
 \xv Ɩnɩ aná gyi mʋ́ ánɩ́ ndekle.
 \xe These are the ones I like/want.
-\dt 08/Sep/2012
+\dt 29/Sep/2013
 
 \lx odua
 \ph oduá
 \ps DEIC
 \ge which
-\sd TN_
+\sd TN_I.C.1.b
 \de which
 \ng contraction of "odu ánɩ́"
 \xv Atɔ odua ɩbʋ akɩlɛ.
@@ -21526,8 +21585,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe A loving household is pleasant to live in.
 \rf Tape:1-2-106
 \rf Tape:6-2-406
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
-\dt 28/Dec/2012
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\dt 29/Sep/2013
 
 \lx odudu
 \ph odudu
@@ -22189,6 +22248,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe A shrew always eats chicks.
 \rf Tape:6-2-563
 \dt 28/Jul/2013
+
+\lx oklu
+\ph oklu
+\np needs tone
+\ps n
+\ge depth
+\sd TN_I.C.3.a
+\de dpeth of something
+\dt 29/Sep/2013
 
 \lx okluklukpa
 \ph okluklúk͡pá
@@ -23714,39 +23782,48 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Stewart List:1002
 \dt 09/Aug/2012
 
+\lx owi
+\ph owi(H)
+\ps n
+\ge theft
+\sd TN_II.B.4
+\de nominal form of 'to steal'
+\nt This is a minimal tonal pair with owí 'sun'
+\dt 28/Sep/2013
+
 \lx owi opuekpa
 \ph owí opuek͡pa
 \ps n
 \ge east
-\sd TN_
+\sd TN_I.C.3.c
 \de where the sun rises from
-\dt 20/Sep/2005
+\dt 29/Sep/2013
 
 \lx owi owiekpa
 \ph owíowiek͡pa
 \ps n
 \ge west
-\sd TN_
+\sd TN_I.C.3.c
 \de where the sun sets
-\dt 20/Sep/2005
+\dt 29/Sep/2013
 
 \lx owi ɔdalɩkpa
 \ph owí ɔdalɪ̋k͡pa
 \ps n
 \ge east
-\sd TN_
+\sd TN_I.C.3.c
 \de east
 \lt sun coming out place
-\dt 09/Aug/2012
+\dt 29/Sep/2013
 
 \lx owi ɔkplɩwiekpa ɩfʋn
 \ph owí ɔk͡plɪwiek͡pa ɪfʊ̃́
 \ps n
 \ge west
-\sd TN_
+\sd TN_I.C.3.c
 \de west
 \lt sun getting down reaching place part
-\dt 09/Aug/2012
+\dt 29/Sep/2013
 
 \lx owi pɔnhɛ
 \ph owi pɔ̃hɛ
@@ -23810,12 +23887,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \dt 26/Aug/2013
 
 \lx owilɩn
-\ph owilɪ̃́ʔ
+\ph owilɪ̃̂ʔ
 \ps n
 \ge sunshine
-\sd TN_
+\sd TN_I.A.2.d
 \de sunshine
-\dt 29/Aug/2012
+\dt 29/Sep/2013
 
 \lx owisʋ
 \ph owísʊ́
@@ -24242,6 +24319,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-156
 \rf Stewart List:1271
 \dt 26/Dec/2012
+
+\lx ɔbɩlɔ
+\ph ɔbɪlɔ
+\np needs tone
+\ps n
+\ge handful
+\sd TN_I.C.3.a
+\de handful
+\va ɛbɩlɔ
+\ve South
+\dt 29/Sep/2013
 
 \lx ɔbɩma
 \ph ɔbɪmâʔ
@@ -25927,9 +26015,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ak͡pɪpʊ́
 \xv Ɔkpɩpʋ tɛha ɔkpɩ igyi nɩ.
 \xe It is the fetish priest who gives sacrifices to the fetish.
-\xv Ɔkpɩpʋ amʋ lawi batɛ mʋ́ sʋ bawa mʋ obu tsɩra nu.
+\xv Ɔkpɩpʋ amʋ lawi batɛ mʋ́ sʋ bawa mʋ obu tsra nu.
 \xe The fetish priest has stolen fowl so he has been jailed for five months.
-\dt 15/Aug/2013
+\dt 28/Sep/2013
 
 \lx ɔkpɩtsa
 \ph ɔk͡pɪt͡saʔ
@@ -26240,6 +26328,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ɔlanka
 \rf Stewart List:1209
 \dt 05/Jul/2012
+
+\lx ɔlɔkʋ
+\ph ɔlɔkʊ
+\np Needs tone
+\ps n
+\ge someone
+\sd TN_I.C.1.a
+\de someone
+\cf tɔkʋ
+\ce something
+\dt 29/Sep/2013
 
 \lx ɔlɔpʋ
 \ph ɔlɔpʊ́
@@ -27180,13 +27279,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔplɔ́ɪk͡pãʔ(L)
 \ps n
 \ge bad joke
-\sd TN_
+\sd TN_II.E.4.a
 \de bad joke; rough housing
 \cf igyi mɔsɩla
 \xv Ɔplɔɩ bʋ ɔdwɛ, tamɛ ɔplɔɩkpan tɔpʋ ɩkɔ ba.
 \xe Joking is sweet but fooling around, rough housing, empty joking brings fighting.
 \rf Tape:6-1-326
-\dt 17/Aug/2012
+\dt 29/Sep/2013
 
 \lx ɔpɔnkɔ
 \ph ɔpɔŋkɔ(H)
@@ -28210,7 +28309,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge moon
 \sd TN_TN_I.A.1
 \de moon
-\xv Ɔtsɩra amʋ dɛfɛɩ dʋbɩ.
+\xv Ɔtsra amʋ dɛfɛɩ dʋbɩ.
 \xe The moon is shining brightly.
 \rf Tape:6-1-538
 \rf Stewart List:1003
@@ -28220,11 +28319,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_I.C.4.b
 \va tsra
 \de month
-\xv Ɔtsɩra latsʋn mʋsʋ.
+\xv Ɔtsra latsʋn mʋsʋ.
 \xe The month has passed on her. She has missed her period. She is conceived.
 \nt idiom
 \rf Tape:6-1-541
-\dt 16/Sep/2013
+\dt 28/Sep/2013
 
 \lx ɔtsrafɛɩ
 \ph ɔt͡srafɛɪ
@@ -28235,6 +28334,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ec ɔtsra "moon" fɛɩ "sweep"
 \dt 16/Sep/2013
 
+\lx ɔtsrafɛɩ
+\ph ot͡srafɛɪ́
+\ps n
+\ge moonlight
+\sd TN_I.A.2.a; I.C.4.b
+\de moonlight
+\cf ɔtsra
+\cf fɛɩ
+\dt 29/Sep/2013
+
 \lx ɔtsrakpabi
 \ph ɔt͡srak͡pabiʔ
 \ps n
@@ -28243,14 +28352,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de star
 \pl ntsrakpabi
 \ph nt͡srak͡pabiʔ
-\xv Ntsrakpabi bugyi nkpabi ha ɔtsɩra.
+\xv Ntsrakpabi bugyi nkpabi ha ɔtsra.
 \xe The stars are servants to the moon.
 \rf Tape:6-1-544
 \xv Ntsrakpabi bʋtɛdɩnka onye.
 \xe The stars come out at night.
 \rf Tape:6-1-548
 \rf Stewart List:1004
-\dt 26/Dec/2012
+\dt 28/Sep/2013
 
 \lx ɔtsrasʋ
 \ph ɔt͡srasʊ
@@ -28889,13 +28998,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph pɛ́pɛ́ːpɛ́
 \ps ADV
 \ge exactly
-\sd TN_
+\sd TN_I.C.1.b
 \de exactly
 \xv Ɔlɔbwɛ mʋ agyʋma amʋ pɛpɛɛpɛ.
 \xe He did his work precisely.
 \xv Atɔ amʋ́ʋ́ lɔfwɩ amʋ pɛpɛɛpɛ nɩ.
 \xe That is exactly the lost things.
-\dt 10/Jan/2012
+\dt 29/Sep/2013
 
 \lx pɛtɛplɛ
 \ph pɛ́tɛ́plɛ́
@@ -29372,13 +29481,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph plɔ́
 \ps vi
 \ge rotten
-\sd TN_
+\sd TN_I.C.1.c; I.C.6.e
 \de rotten
 \xv Iye amʋ laplɔ wa anyambi.
 \xe The meat has gotten rotten and has maggots.
 \cf plɔhɛ -atɔ plɔhɛ Eng:rotten things
 \rf Stewart List:2265
-\dt 10/Jan/2012
+\dt 28/Sep/2013
 
 \lx po
 \ph pó
@@ -30488,9 +30597,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge seventh
 \sd TN_I.C.2.a
 \de seventh
-\xv Ɔtsɩra sienɔsɩtɔ anɩ bʋ sei a.
+\xv Ɔtsra sienɔsɩtɔ anɩ bʋ sei a.
 \xe We are in the seventh month.
-\dt 26/Aug/2013
+\dt 28/Sep/2013
 
 \lx siesɩ
 \ph síésɪ́
@@ -31181,7 +31290,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge measure
-\sd TN_
+\sd TN_II.D.6.h
 \de to measure an amount or spatial dimension
 \xv Ɔdɛ kpoli amʋ susu gbɔngbɔtɔ.
 \xe He is measuring corn in a kerosene tin.
@@ -31192,16 +31301,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf kapʋ
 \cf kali
 \rf Stewart List:2826
+\se atɔ susuhɛ
+\ps n
+\ge measurement
+\de something used in measuring
 \sn 2
 \ge think
-\sd TN_
+\sd TN_II.B.1
 \de to think something
 \xv Ɔmɔyɔ sukuu, mʋ́sʋ olosusu ánɩ́ mʋ sɩ ɔbɛ́da mʋ.
 \xe He didn't go to school, so he thought that his father would hit him.
 \rf Tape:7-1-139
 \rf Stewart List:2079
 \nt From ths: words used in measuring kapʋ(measure height/depth), susu(measure amount), kali (weigh)
-\dt 13/Sep/2012
+\dt 29/Sep/2013
 
 \lx sutin
 \ph sútĩ́ʔ
@@ -31495,9 +31608,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph swɪ́
 \ps v
 \ge long
-\sd TN_
-\de to be long or tall 
-\dt 29/Aug/2012
+\sd TN_I.C.3.a
+\de to be long or tall
+\cf ɩswɩ
+\dt 29/Sep/2013
 
 \lx swɩɩ
 \ph swɪ̌ː
@@ -31923,7 +32037,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ps vi
 \ge wide
-\sd TN_
+\sd TN_I.C.3.a
 \de to be wide
 \xv Ɔkpa amʋ mɛtɛɩ, igyi kpafʋtɩ.
 \xe The road is not wide it is narrow.
@@ -31950,7 +32064,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Tɛɩ ɩbɩtɔ afʋhɔ.
 \xe Open your hand so that you can take.
 \rf Tape:7-1-411
-\dt 13/Sep/2012
+\dt 29/Sep/2013
 
 \lx tɛkɩ
 \ph tɛkɪ
@@ -32628,11 +32742,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Tɔkʋ bʋ mɩ atadɩɛtɔ ɩdɛ mɩ dun.
 \xe Something is inside my uniform biting me.
 \rf Tape:7-1-003
-\cf toku kʋlɛ "one thing"
-\cf atoku anyɔ "two things"
-\cf atoku asa "three things"
-\cf atoku ana "four things"
-\dt 07/Dec/2009
+\xv tɔkʋ kʋlɛ
+\xe one thing
+\cf atɔkʋ anyɔ
+\xe two things
+\cf
+\cf ɔlɔkʋ
+\dt 29/Sep/2013
 
 \lx tɔkʋtɔkʋ
 \ph tɔkʊtɔ́kʊ̂ʔ(L)
@@ -33081,9 +33197,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Tse fɩnɩ fɔ́yɔ ntsu amʋtɔ? Ɔtsawʋlɛ pɛ.
 \xe How many times will you go for the water? Only once.
 \rf Tape:6-1-527
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
+\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \rf Stewart List:1524
-\dt 28/Dec/2012
+\dt 28/Sep/2013
 
 \lx tsebi
 \ph t͡sébi(L)
@@ -33497,14 +33613,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsitsi
 \hm 1
 \ph t͡sit͡si
+\sn 1
 \ps vt
 \ge clean
-\sd TN_
-\de to clean by rubbing
+\sd TN_II.A.5
+\de to clean something
 \xv Otutu labwɛ atɔ amʋ ɩwɩ sʋ tsitsi mʋ́ ha mɩ.
 \xe The things are dusty so clean them for me.
 \rf Tape:7-2-379
-\dt 13/Sep/2012
+\sn 2
+\ge rub
+\sd TN_II.A.3.d
+\de to rub something
+\dt 29/Sep/2013
 
 \lx tsitsi
 \hm 2
@@ -34419,7 +34540,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge put on
-\sd TN_
+\sd TN_II.C.4.a
 \de put on
 \xv Ɔlɔwa atadɩɛ.
 \xe He put on his shirt.
@@ -34437,53 +34558,62 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe he tethered him.
 \rf Stewart List:2772
 \se wa ogya
+\ps v
 \ge set alight
-\sd TN_
+\sd TN_I.C.4.d.i
 \de to set something on fire
 \rf Stewart List:2533
-\sn 2
+\se wa bɩ
+\ps v
 \ge continue
 \sd TN_
 \de to continue doing something wa X bɩ
 \xv Ɔlɔwa gyi bɩ.
 \xe He continued eating.
 \rf Tape:8-2-115
-\sn 3
+\se wa ɩnyɩn
+\ps v
+\ge be aggressive
+\de to be aggresive; to rage; to become serious
+\xv Ɩlɔ amʋ lawa ɩnyɩn.
+\xe The sickness has gotten very serious.
+\rf Tape:3-1-120
+\sn 2
 \ge force
-\sd TN_
+\sd TN_II.E.4.c
 \de to force someone to do something
 \xv Ɔlɔwa mʋ ánɩ́ ɔyɔ.
 \xe He forced him to go. (He forced him; he said he should go)
 \rf Tape:8-1-119
-\sn 3a
+\sn 2a
 \ge send
-\sd TN_
+\sd TN_II.B.2; II.E.4.c
 \de to send someone to do something
 \xv Sʋ anɩ lefia a, lehian ánɩ́ abɔ́wa abi akʋ mlɩ wa, buo Banabas mʋa Paulo.
 \xe So we met, it was necessary that we would send messengers to you accompanying Barnabas and Paul.
 \rf Tape:8-1-146
-\sn 4
+\sn 3
 \ge make
-\sd TN_
+\sd TN_II.A.6.d
 \de to make (only used with certain objects)
 \xv Ɔlɔwa akʋnta.
 \xe He made a household juju.
 \rf Tape:8-1-123
-\sn 5
+\sn 4
 \ge tell
-\sd TN_
+\sd TN_II.B.2
 \de to make some types of speech acts
-\se wa ɩlɔ
+\se wa ɩlʋ
 \ge sing
-\sd TN_
+\sd TN_II.E.5.d.i
 \de to sing a song
-\xv Ɔlɔwa ɩlɔ.
+\xv Ɔlɔwa ɩlʋ.
 \xe He sang a song.
 \rf Tape:8-1-126
 \rf Stewart List:2045
 \se wa ɔtɛ
 \ge tell story
-\sd TN_
+\sd TN_II.B.2
 \de to tell a story
 \xv Ɔlɔwa ɔtɛ.
 \xe He told a story.
@@ -34491,9 +34621,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔlɔkplʋn wa mɩ.
 \xe He shouted at me. (It can also mean "He charmed me". )
 \rf Tape:8-1-142
-\xv Ɔleyia opuli wa kɛntɛtɔ.
-\xe He stuffed cotton into a bag.
-\rf Tape:8-1-555
 \rf Stewart List:2661
 \xv wa ifu
 \xe frighten
@@ -34506,21 +34633,24 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-169
 \sn 5
 \ge put in
-\sd TN_
+\sd TN_II.A.4.c
 \de to put something in something
 \xv Bʋtamakiki ɔfɛ ɔbwɩ amʋ ansɩtɔ. Nɩ megyi alɩa ɔmɔ́ɔpʋ nwun wa mʋ́tɔ.
 \xe They don't twist the rope (make a halter) in the animal' s face. If you do that he won't put his head in it.
 \xe Free: Don't signal your intentions.
 \nt proverb
 \rf Tape:3-1-543
+\xv Ɔleyia opuli wa kɛntɛtɔ.
+\xe He stuffed cotton into a bag.
+\rf Tape:8-1-555
 \se wa ɩbɩ
 \ge shake hands
-\sd TN_
+\sd TN_II.E.4.a
 \de to shake hands
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
 \rf Tape:8-1-174
-\dt 28/Dec/2012
+\dt 28/Sep/2013
 
 \lx wa bɩ
 \ph wá bɪ
@@ -35100,7 +35230,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mɩ yibi ɔwʋlʋ lawu.
 \xe My car papers have expired.
 \rf Tape:8-1-342
-\xv Ɔtsɩra lawu.
+\xv Ɔtsra lawu.
 \xe The month has ended
 \lt The moon has died.
 \sn 3
@@ -35125,7 +35255,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to become weak
 \xv Nakɩ anwunsʋ lawa ɔpa dʋbɩ. Mɩ oboyi lawu.
 \xe I have looked up for too long. My neck has gotten stiff.
-\dt 14/Sep/2012
+\dt 28/Sep/2013
 
 \lx wuli
 \ph wúli
@@ -35948,14 +36078,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ps vt
 \ge spoil
-\sd TN_
+\sd TN_I.C.1.a
 \de spoil
 \xv Alayinta mɩ sika.
 \xe He has wasted my money.
 \rf Tape:8-2-009
 \se ɩwɩ yinta X
 \ge defile
-\sd TN_
+\sd TN_II.B.5.b.i
 \de to defile oneself
 \xv Ɩwɩ layinta fʋ
 \xe You are defiled.
@@ -35966,7 +36096,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Owie ntɛ ɔkpɩpʋ tamagyi ɔblafɔ atɔ. Nɩ ogyi a, alayita ɩwɩ.
 \xe A chief or a fetish priest never eats food prepared by a woman under menstruation. When he eats he has defiled himself.
 \rf Stewart List:2267
-\dt 14/Sep/2012
+\dt 29/Sep/2013
 
 \lx yinta
 \ph yíntá
