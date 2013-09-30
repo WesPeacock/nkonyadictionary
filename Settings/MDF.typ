@@ -290,7 +290,7 @@
 \nam Gloss (E)
 \desc Intended for interlinear morpheme-level glossing. Join multi-word glosses with (_), e.g. wild_boar; use (space semicolon space) for multiple glosses, e.g. hut ; house ; shack. Used for reversing the dictionary if an \re field is not present (or is present but empty); also as an English definition in a formatted dictionary if there is no \de field (or it is present but empty).
 \lng English
-\mkrOverThis lx
+\mkrOverThis sn
 \CharStyle
 \-mkr
 
@@ -604,7 +604,7 @@
 \Italic
 \rgbColor 0,0,0
 \-fnt
-\mkrOverThis lx
+\mkrOverThis se
 \CharStyle
 \-mkr
 
@@ -628,7 +628,7 @@
 \nam Reference
 \desc Used to note the reference for the following example sentence.
 \lng English
-\mkrOverThis sn
+\mkrOverThis xv
 \CharStyle
 \-mkr
 
@@ -864,7 +864,7 @@
 \nam Example (v)
 \desc Used to give an example or illustrative sentence in the vernacular to exemplify each separate sense and demonstrate legitimacy of translation equivalents. Should be short and natural. Use capitalization and punctuation as needed.
 \lng vernacular
-\mkrOverThis rf
+\mkrOverThis sn
 \mkrFollowingThis xe
 \CharStyle
 \-mkr
