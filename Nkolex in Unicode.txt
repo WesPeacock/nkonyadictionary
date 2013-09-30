@@ -2321,6 +2321,25 @@
 \rf Tape:7-1-554
 \dt 05/Jul/2005
 
+\lx anyɩnapɛpɛ
+\ph aɲɪnapɛpɛʔ(L)
+\ps n
+\ge very tiny red ant
+\sd TN_I.B.3.b
+\de tiny red ant
+\pl agyawugya
+\ph anyɩnapɛpɛ
+\ph aɲɪnapɛpɛ
+\cf gyawugya
+\cf baba
+\cf damantsu
+\cf finfi
+\cf konya
+\cf ɔkpan
+\cf ɔtɔntrɔbwɩ
+\cf kɔklɔ
+\dt 30/Sep/2013
+
 \lx anyɔ
 \ph aɲɔ(H)
 \ps NUM
@@ -4443,15 +4462,14 @@
 \dt 29/Sep/2013
 
 \lx blanwɛbi
-\ph blanwɛbi
-\np Needs tone
+\ph blanwébi
 \ps n
 \ge small pan
 \sd TN_II.C.2.f
 \de a small pan; also used of the amount that a small pan can hold
-\pl ablanwɛbi
+\pl ablanwébi
 \ph ablanwɛbi
-\dt 29/Sep/2013
+\dt 30/Sep/2013
 
 \lx blawunu
 \ph blawunuʔ
@@ -8030,16 +8048,15 @@
 \dt 27/Aug/2012
 
 \lx galɔn
-\ph galɔ̃
+\ph gálɔ̃ʔ
 \ps n
 \ge gallon
 \sd TN_II.C.2.f
 \de a gallon container; also used of the amount.
 \pl agalɔn
-\ph agalɔ̃
+\ph agálɔ̃ʔ
 \bw English fi:gallon
-\np needs tone and plural
-\dt 29/Sep/2013
+\dt 30/Sep/2013
 
 \lx ganu
 \ph ganú
@@ -8078,7 +8095,8 @@
 \ge locust
 \sd TN_I.B.3.b
 \de locust
-\dt 28/Jul/2013
+\cf tsantsankʋ
+\dt 30/Sep/2013
 
 \lx gbede
 \hm 1
@@ -10323,12 +10341,12 @@
 \lx ɩbɛ
 \ph ɪbɛʔ(H)
 \ps n
-\ge adder
+\ge puff adder
 \sd TN_I.B.3.b
 \de puff adder
 \pl abɛ
 \ph abɛʔ(H)
-\dt 24/Dec/2012
+\dt 30/Sep/2013
 
 \lx ɩbɛtɛ
 \ph ɪbɛ́tɛʔ
@@ -18698,7 +18716,13 @@ cf fonflo
 \xe Spider has caught my legs.
 \xe Free: I'm having pins and needles (paresthesia) in my legs.
 \rf Stewart List:0806
-\dt 08/Sep/2012
+\se natɩ kɛsɩɛ
+\ph natɪ kɛsɪɛʔ (H)
+\pl anatɩ kɛsɩɛ
+\ph anatɪ kɛsɪɛ(H)
+\ge black spider
+\de black spider with hairy body
+\dt 30/Sep/2013
 
 \lx natɩ
 \hm 2
@@ -20665,7 +20689,8 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe If a scorpion stings you it is painful.
 \rf Tape:5-1-542
 \rf Stewart List:0802
-\dt 28/Jul/2013
+\cf aganɛ
+\dt 29/Sep/2013
 
 \lx nyankpʋsa
 \ph ɲaŋ͡mk͡pʊsaʔ
@@ -20818,26 +20843,6 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Stewart List:2842
 \rf Stewart List:2866
 \dt 03/Apr/2012
-
-\lx nyɩnapɛpɛ
-\ph ɲɪnapɛpɛ
-\np check tone
-\ps n
-\ge very tiny red ant
-\sd TN_I.B.3.b
-\de tiny red ant
-\pl agyawugya
-\ph anyɩnapɛpɛ
-\ph aɲɪnapɛpɛ
-\cf gyawugya
-\cf baba
-\cf damantsu
-\cf finfi
-\cf konya
-\cf ɔkpan
-\cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
-\dt 29/Sep/2013
 
 \lx nyɔ
 \ph ɲɔ
@@ -22271,13 +22276,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \dt 28/Jul/2013
 
 \lx oklu
-\ph oklu
-\np needs tone
+\ph oklúʔ(H)
 \ps n
 \ge depth
 \sd TN_I.C.3.a
 \de dpeth of something
-\dt 29/Sep/2013
+\dt 30/Sep/2013
 
 \lx okluklukpa
 \ph okluklúk͡pá
@@ -23556,8 +23560,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \dt 14/Aug/2013
 
 \lx otobon
-\ph otobõʔ(L)
-\np check tone
+\ph otobõʔ(H)
 \ps n
 \ge ant
 \sd TN_I.B.3.b
@@ -23570,7 +23573,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf konya
 \cf ɔtɔntrɔbwɩ
 \cf kɔklɔ
-\dt 29/Sep/2013
+\dt 30/Sep/2013
 
 \lx otonklo
 \ph otóŋkló
@@ -24359,15 +24362,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \dt 26/Dec/2012
 
 \lx ɔbɩlɔ
-\ph ɔbɪlɔ
-\np needs tone
+\ph ɔbɪlɔʔ(L)
 \ps n
 \ge handful
 \sd TN_I.C.3.a
 \de handful
 \va ɛbɩlɔ
 \ve South
-\dt 29/Sep/2013
+\pl mbɩlɔ
+\ph mbɪlɔʔ(L)
+\dt 30/Sep/2013
 
 \lx ɔbɩma
 \ph ɔbɪmâʔ
@@ -26368,15 +26372,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \dt 05/Jul/2012
 
 \lx ɔlɔkʋ
-\ph ɔlɔkʊ
-\np Needs tone
+\ph ɔlɔkʊ(H)
 \ps n
 \ge someone
 \sd TN_I.C.1.a
 \de someone
 \cf tɔkʋ
 \ce something
-\dt 29/Sep/2013
+\dt 30/Sep/2013
 
 \lx ɔlɔpʋ
 \ph ɔlɔpʊ́
@@ -29546,6 +29549,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The olden times people beat poli bark to make loincloths and towels.
 \dt 28/Dec/2012
 
+\lx posoglo
+\ph posoglo(L)
+\ps n
+\ge wasp
+\sd TN_I.B.3.c
+\de k.o. wasp
+\pl aposoglo
+\ph aposoglo(L)
+\dt 30/Sep/2013
+
 \lx potofi
 \ph potofi(H)
 \ps n
@@ -30790,11 +30803,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de housefly
 \pl asisa
 \ph asísa
-\xv Sisa ɔbɛɛ, Ɔyɩ bʋ nkpa, ɩbʋ ɔma.
+\xv Sisa ɔbɛɛ, "Ɔyɩ bʋ nkpa, ɩbʋ ɔma."
 \xe The fly says "The world is in front and behind" (referring to when the fly rubs its head with its front legs)
 \nt proverb
 \rf Stewart List:0801
-\dt 28/Jul/2013
+\dt 30/Sep/2013
 
 \lx sisi
 \ph sísi
@@ -31526,7 +31539,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph asʊramá
 \xv Asʋrama bʋtekle atɔ debidebi, mʋ́sʋ bʋtetsia nta futututɔ.
 \xe Wasps like sweet things that is why the like palm wine.
-\dt 28/Jul/2013
+\dt 30/Sep/2013
 
 \lx sʋsʋpʋ
 \hm 1
@@ -33152,6 +33165,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsankasɩ
 \ph t͡sãŋkasɪ
 \ps n
+\sn 1
 \ge earthworm
 \sd TN_I.B.3.b
 \de earthworm
@@ -33161,11 +33175,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe An earthworm is in the ground, he is defecating, he says, no one is seeing him, unexpectedly it is coming out.
 \rf Tape:7-2-212
 \nt You can't do anything in secret.
+\sn 2
+\ge worm
+\de worm; generic term
 \xv Atsankasɩ bʋbʋ kebi amʋ ɩwɩtɔ.
 \xe The child has stomach worms.
 \rf Tape:7-2-219
 \rf Stewart List:0769
-\dt 28/Jul/2013
+\se tsankasɩ bibi
+\ph t͡saŋkasɪ bibiʔ(L)
+\ge black earthworm
+\de black earthworm
+\dt 30/Sep/2013
 
 \lx tsankɩ
 \ph t͡sã́ŋkɪ́
@@ -33194,10 +33215,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph t͡sant͡saŋkʊ
 \ps n
 \ge locust
-\sd TN_
+\sd TN_I.B.3.c
 \de locust
 \cf gbablama
-\dt 29/Aug/2012
+\dt 30/Sep/2013
 
 \lx tsantsraku
 \ph t͡sant͡sraku
@@ -34551,6 +34572,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf tʋn
 \dt 28/Aug/2013
 
+\lx vunvun
+\ph vũvũ̂ʔ
+\ps n
+\ge wasp
+\sd TN_I.B.3.c
+\de k.o. wasp
+\pl avunvun
+\ph avṹvũ̂ʔ
+\dt 30/Sep/2013
+
 \lx wa
 \hm 1
 \ph wáʔ(H)
@@ -35565,7 +35596,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Wʋlʋ todun aha, kpɩ amʋ́ obugya.
 \xe A tsetse fly bites people and sucks their blood.
 \rf Tape:8-2-315
-\dt 28/Jul/2013
+\xv Obugya tamakpa wʋlʋ nwuntɔ.
+\xe Lit: Blood doesn't finish in the tsetse fly's head.
+\xe Any wicked person will always be wicked no matter how well reformed he is.
+\xv Wʋlʋ dɛ fʋ dun, ɔdɛ afú fwi wa.
+\xe Lit: When the tsetse fly bites you, he blows cool air on it. Free: When (evil) people hurt you, they will turn around and console you. 
+\dt 30/Sep/2013
 
 \lx wʋna
 \ph wʊ́na
@@ -35586,7 +35622,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph wʊnsaʔ
 \ps n
 \ge bee
-\sd TN_
+\sd TN_I.B.3.b
 \de bee
 \pl awʋnsa
 \ph awʊ́nsâʔ
@@ -35594,7 +35630,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Bees make honey.
 \rf Tape:8-1-427
 \rf Stewart List:0808
-\dt 05/Jul/2005
+\dt 30/Sep/2013
 
 \lx wʋsʋ
 \ph wʊ́sʊ
