@@ -115,6 +115,12 @@
 \mkrOverThis key
 \-mkr
 
+\+mkr ph
+\lng phonetic
+\mkrOverThis key
+\CharStyle
+\-mkr
+
 \+mkr ps
 \lng Default
 \mkrOverThis key
@@ -175,12 +181,6 @@
 \+mkr txt
 \nam Content text
 \lng Default
-\+fnt 
-\Name Times New Roman
-\Size 13
-\charset 00
-\rgbColor 0,0,0
-\-fnt
 \mkrOverThis key
 \-mkr
 

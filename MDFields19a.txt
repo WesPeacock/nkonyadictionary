@@ -1954,6 +1954,27 @@ specify a unique font for this field in the document template for MS-Word.
 
 \typ <Optional>
 
+\key ph KeyStrokes
+\shd Valid keystrokes for \ph fields
+\txt '  ́       c Combining accute accent use for high tone
+? ʔ       c glottal stop
+: ː       c colon use for lengthened vowel e.g.fɛ́ː for fɛ́ɛ́
+~   ̃       c Overstrike tilde use for nasalized vowels
+^   ̂       c Combining Circumflex accent use for falling tone
+$  ̌        c Combining Chevron use for rising tone.
+%  ͡       c joining ligature use for k͡p g͡b t͡ʃ
+[ ɛ       c epsilon
+] ɔ       c rotated c
+x ɪ       c Small cap I use for ɩ
+q ʊ       c Bowl u use for ʋ
+= ŋ       c Eng
+N ɲ       c Patalized nasal use for ny
+M ɱ       c m with hook, use for n in front of f e.g. aɱfɪ for anfɩ
+S ʃ       c ESH use  t͡ʃ for ky 
+J ʤ       c use for gy e.g. ʤadɪ for gyadɩ
+W ʷ       c use for consonant rounding e.g. bʷɛ for bwɛ
+
+
 \key pl
 \shd \pl  plural form
 \txt This is a special field used to give the plural form of the lexeme, e.g. in Selaru,
@@ -2563,7 +2584,7 @@ II.C. 3.e     pito II.C.3.e
 \typ <Optional>
 
 \key sd Tony Naden
-\txt Semantic Domain listing per: Tony Naden
+\shd Semantic Domain listing per: Tony Naden
 \txt 
  I. NON-HUMAN WORLD I.
  A.  The Physical World
