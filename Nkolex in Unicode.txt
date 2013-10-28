@@ -4768,15 +4768,29 @@
 \lx bɔ
 \ph bɔ́
 \ps v
+\sn 1
 \ge render
 \sd TN_
 \de render
 \bw Akan fi:bɔ
+\se bɔ mpaɩ
+\ge pray
+\de to pray
+\nt used for Christian, Muslim and traditional prayers
 \xv Bɔ mpaɩ fɛɛ onya ɔdɩkpa wanklaan.
-\xe Pray, say that he should get a good resting place.
+\xe Pray that he should get a good resting place.
 \rf Tape:1-2-565
-\nt also used with dablun, ampesie
-\dt 17/Dec/2012
+\se bɔ mbɔdɩ
+\ge try
+\de to expend effort
+\sn 2
+\ge prepare
+\de to prepare some kinds of foods
+\xv bɔ dablun
+\xe cook dablun soup
+\xv bɔ ampesie
+\xe cook yam slices
+\dt 28/Oct/2013
 
 \lx bɔbwɛ
 \ph bɔbwɛʔ(L)
@@ -5592,29 +5606,15 @@
 \ps vt
 \sn 1
 \ge hit
-\sd TN_
+\sd TN_II.E.4.d
 \de to hit
 \xv Da mʋ!
 \xe Hit him!
 \rf Tape:2-1-169
 \rf Stewart List:2754
-\sn 2
-\ge touch
-\sd TN_
-\de to touch something
-\se pʋ da
-\ge dip
-\sd TN_
-\de dip
-\rf Stewart List:2679
-\se da ɔnɔ
-\ge taste
-\sd TN_
-\de to taste something
-\rf Stewart List:3308
 \se atɔ lada
 \ge grow boil
-\sd TN_
+\sd TN_II.A.6.b
 \de to grow a boil
 \lt things have hit 
 \xv Atɔ lada mɩ.
@@ -5625,7 +5625,25 @@
 \xv Nɩ ɩtɔ da fʋ a, kwɛ tɩtɩfobi manta mʋ́ ɩbɛ́fa, fʋ ɩwɩ bólwii fʋ.
 \xe If you have a boil, grind the herb on it and the boil will burst and you will be free.
 \rf Stewart List:3308
-\dt 24/Aug/2012
+\sn 2
+\ge touch
+\sd TN_II.A.3.d
+\de to touch something
+\se pʋ da
+\ge dip
+\sd TN_II.C.2.a
+\de dip
+\rf Stewart List:2679
+\se da ɔnɔ
+\ge taste
+\sd TN_II.A.3
+\de to taste something
+\rf Stewart List:3308
+\se da bubu
+\ge Exclaim
+\sd TN_II.A.6.f
+\de express surprise/dismay by tapping the mouth while saying "Uuuuuuuuuu"
+\dt 28/Oct/2013
 
 \lx da
 \hm 2
@@ -5633,16 +5651,24 @@
 \ps vn
 \sn 1
 \ge lie
-\sd TN_
+\sd TN_II.A.2.c
 \de to lie (prone)
 \xv Nɛfɩtɛ Kwaku mbɛɛ, mɩ ɔtɩ amʋ mɛ? Ɔbɛɛ ɩda ɔsʋlʋtɔ.
 \xe I asked Kwaku, "Where is my hoe?" He said it is lying on the ground.
 \rf Tape:2-2-526
 \xv Kɔba amʋ da kebi amʋ adɩawun.
 \xe The money is lying above the head of the child.
+\cf kpada
+\ce fall and lie prone
+\se da ɔfɛtɔ
+\ge tied
+\sd TN_II.A.4.e
+\de to be tied up
+\xv Sankɩ ɔfɛ amʋ lɛ batɛ amʋ ayabi tsufɛ ɔda ɔfɛtɔ lawa ɔpá.
+\xe Untie the rope from the chicken's legs because it has been tied up for a long time.
 \sn 2
 \ge be fine
-\sd TN_II.A.2.c
+\sd TN_II.B.3
 \de to be fine or quiet
 \xv Funaa! Woyi da?
 \xe Hi! How's your household?
@@ -5659,8 +5685,15 @@
 \xv Anɩ wulutɔ da pisii
 \xe Our town is peaceful.
 \xv Tɛkɩ asʋn amʋ lasi ɩda diin; tamɛ ɔkʋ layowuli mʋ́tɔ.
-\xe The case would have remained quiet, but someone gone and stirred it up. 
-\dt 05/Jul/2013
+\xe The case would have remained quiet, but someone gone and stirred it up.
+\sn 3
+\ge stay
+\de to stay somewhere
+\se da akuda
+\ge stay on farm
+\sd TN_II.A.4.a
+\de to stay on one's farm rather than in town
+\dt 28/Oct/2013
 
 \lx da
 \hm 3
@@ -5668,19 +5701,10 @@
 \ps vt
 \sn 1
 \ge render
-\sd TN_
 \de to render
-\se da akuda
-\ge stay on farm
-\sd TN_
-\de to stay on one's farm rather than in town
-\se da bubu
-\ge Exclaim
-\sd TN_
-\de express surprise by tapping the mouth while saying "Uuuuuuuuuu"
 \se da ɩpan
 \ge thank
-\sd TN_
+\sd TN_II.E.4.a
 \de to thank someone
 \xv Nɛda fʋ ɩpan.
 \xe I thank you.
@@ -5688,19 +5712,13 @@
 \rf Stewart List:3239
 \se da ɩwɩsʋ
 \ge be alert
-\sd TN_
+\sd TN_II.B.1.b
 \de to be alert or to be prepared
 \rf Tape:2-1-18
 \se da ɔbʋn
 \ge gather around
 \sd TN_
 \de gather around to pay close attention to
-\se da ɔfɛtɔ
-\ge tied
-\sd TN_
-\de to be tied up
-\xv Sankɩ ɔfɛ amʋ lɛ batɛ amʋ ayabi tsufɛ ɔda ɔfɛtɔ lawa ɔpá.
-\xe Untie the rope from the chicken's legs because it has been tied up for a long time.
 \se da ɔkpa
 \ge righteous
 \sd TN_
@@ -5711,7 +5729,7 @@
 \de to rest
 \sn 2
 \ge plant
-\sd TN_
+\sd TN_II.D.1.c
 \de to plant a root vegetable
 \xv da igyo
 \xe plant yam
@@ -5736,7 +5754,7 @@
 \xv Mɩ atɔ dahɛ amʋ lada ɔbaan.
 \xe My setting out things (yams, water yams, ) have grown shoots.
 \rf Tape:5-2-138
-\dt 05/Jul/2013
+\dt 28/Oct/2013
 
 \lx da wa
 \ph dá wá
@@ -5754,7 +5772,7 @@
 \ph dablũ(H)
 \ps n
 \ge stew
-\sd TN_
+\sd TN_II.D.5.d
 \de a stew made with pieces of meat and water yam and with salt, pepper, tomatoes and onions
 \bw Ewe fi:dablu
 \xv Mmɛ́ɛtalɩ gyi ampesie kpan, sʋ bɔ dablun, mɛnɩ nénya oputsu fɩ.
@@ -5762,7 +5780,7 @@
 \rf Tape:2-1-194
 \xv Nɩ fówuli nyɔmba a, fégyankpa bɔ mʋ́ dablun, fówun fasa oputsu amʋ lɛ mʋ́tɔ, wuli faasɩ amʋ, wa nfɔ mʋ́tɔ, bwɛ nyɔmba.
 \xe If you will make nyɔmba, you will first make dablun so that then you will take soup stock from it, and stir the water yam, and put oil in it, and so make nyɔmba.
-\dt 15/Sep/2012
+\dt 28/Oct/2013
 
 \lx dada
 \ph dáda
@@ -5772,7 +5790,7 @@
 \de old
 \pl adada
 \ph adáda
-\nt seems to be reduplication because you have tatida - rag (old cloth
+\nt seems to be reduplication because you have tatida - rag (old cloth)
 \xv Mɩ tati amʋ labwɛ dada, sʋ nɔ́pʋbwɛ tatida. Fɔkwɩɩ a, fapʋ kebi amʋ tswɩ mʋ́sʋ.
 \xe My cloth has become old, so I will take and make it into rags. If you bring forth put the child down on it.
 \rf Tape:2-1-200
@@ -5781,40 +5799,40 @@
 \rf Tape:2-1-209
 \an pɔpwɛ
 \rf Stewart List:1666
-\dt 17/Dec/2012
+\dt 28/Oct/2013
 
 \lx dadɩsɛɩn
 \ph dadɪsɛ́ɪ̃́
 \ps n
 \ge cooking pot
-\sd TN_
-\de large aluminium cooking pot with handles
+\sd TN_II.2.a
+\de large cooking pot with handles
 \pl adadɩsɛɩn
 \ph adadɪsɛ́ɪ̃́
 \xv Mɩ dadɩsɛɩn bʋ odwɩn dʋn fʋ klɛ, tamɛ fʋklɛ bʋ akɩlɛ dʋn mɩ klɛ
-\xe My iron pot is heavier than yours, but yours is looks nicer than mine.
+\xe My aluminium pot is heavier than yours, but yours is looks nicer than mine.
 \nt They come in different numbered sizes with the size number stamped on them
 \xv Mbʋ adadɩsɛɩn tsɔtsɔɔtsɔ mɩ woyitɔ, mʋ́tɔ ntɛnɩna atɔ nɩ.
 \xe I have many large aluminium cooking pots in my house, in which I cook.
-\dt 17/Dec/2012
+\dt 28/Oct/2013
 
 \lx dafa
 \ph dáfá
 \ps ADJ
 \ge far
-\sd TN_
+\sd TN_I.C.6.d
 \de so far (deeply)
 \xv Abraham lɛdɩdɩ dafa.
 \xe Abraham slept so deeply.
 \xv Ɔblɔ tɛha ɔha tɔtɔɩ dafa ha asʋn tɛba.
 \xe Anger makes people talk too far to create problems.
-\dt 17/Dec/2012
+\dt 28/Oct/2013
 
 \lx daɩ
 \ph daɪ
 \ps vt
 \ge smith
-\sd TN_
+\sd TN_II.D.6.g
 \de hammer as a blacksmith
 \xv Mɩ otsobi amʋ ɔnɔ lawu. Nɔpʋ ya abʋdaɩ mʋ́ ɔnɔ ha mɩ.
 \xe My hoe's edge has become dull. I will take it there that they should hammer its edge for me.
@@ -5824,14 +5842,14 @@
 \rf Tape:2-1-218
 \xv Daɩ ɔtɩ ha mɩ.
 \xe Smith a hoe for me.
-\dt 17/Dec/2012
+\dt 28/Oct/2013
 
 \lx daka
 \ph dáka(H)
 \ps n
 \sn 1
 \ge box
-\sd TN_
+\sd TN_II.C.2.d
 \de box
 \xv Atɛplɛ bawie mɩ dakatɔ, bʋdɛ atɔ yinta. Sʋ ndɛ afa kle ampʋwʋlɩ amʋ́sʋ.
 \xe Cockroaches have entered my box. They are spoiling things, so I want medicine to sprinkle on them.
@@ -5842,13 +5860,13 @@
 \cf dakabi HLH Eng:small box, chest
 \sn 2
 \ge coffin
-\sd TN_
+\sd TN_1.C.1.d
 \de a coffin
 \xv Nyankpʋsa-gyi-nyankpʋsa obu trahɛ gyi mʋ daka.
 \xe Every person's last house is his coffin.
 \nt proverb
 \rf Tape:2-1-221
-\dt 17/Dec/2012
+\dt 28/Oct/2013
 
 \lx dakpadakpa
 \ph dak͡padak͡pa
@@ -5884,15 +5902,19 @@
 \lx dalɩ tsu
 \ph dálɪ́ t͡súʔ
 \ps v
+\sn 1
 \ge proceed from
 \de to proceed in a sequence
-\xv "Yinti" lɛdalɩ tsu "oyi tin"tɔ.
-\xe "stump" comes from "tree cut off"
-\rf Tape:2-1-235
 \xv Nɩ fɛdalɩ tsu asienɔ a, fɔyɔ ikwe.
 \xe If you leave seven you are going to eight.
 \rf Stewart List:2459
-\dt 05/Jul/2013
+\sn 2
+\ge derived
+\de to be derived from
+\xv "Yinti" lɛdalɩ tsu "oyi tin"tɔ.
+\xe "stump" comes from "tree cut off"
+\rf Tape:2-1-235
+\dt 28/Oct/2013
 
 \lx damantsu
 \ph damant͡sú
@@ -6020,7 +6042,7 @@
 \ph dátɔ (L)
 \ps n
 \ge metal
-\sd TN_
+\sd TN_II.D.1.b
 \de metal
 \xv Matsu oyi ɔtʋ amʋ, mboun tsu datɔ klɛ amʋ.
 \xe Don't take the wooden ladle, instead take the metal one.
@@ -6034,8 +6056,9 @@
 \xe Wire (metal rope) tangles more easily than vine.
 \rf Tape:4-2-292
 \rf Stewart List:1032
-\pl adátɔ (L)
-\dt 28/Jul/2013
+\pl adatɔ
+\ph adátɔ (L)
+\dt 28/Oct/2013
 
 \lx datu
 \ph datu
@@ -6071,10 +6094,10 @@
 \sd TN_
 \de evidence
 \xv Oyin amʋ lɛblɩ asʋn yɔ mɩ, sʋ nɛkɩta asʋn amʋ dedua ánɩ́ nɛ́tɩ mʋ ɔkʋ wa.
-\xe The man spoke against me, I had an evidence in his speech and I will call him before an Elder.
+\xe The man spoke against me, I had an evidence in his speech and I will call him before an elder.
 \xv Anɩlakɩta mʋ́ dedua.
 \xe We have had an evidence.
-\dt 25/Aug/2012
+\dt 28/Oct/2013
 
 \lx deyi
 \ph déiʔ
@@ -18170,7 +18193,7 @@ cf fonflo
 \ph mpáɪ
 \ps n
 \ge prayer
-\sd TN_
+\sd TN_II.B.6.c
 \de prayer
 \bw Akan fi:mpae
 \nt co-occurs only with bɔ
@@ -18179,7 +18202,7 @@ cf fonflo
 \rf Tape:4-2-403
 \xv Bulu dɛ anɩ mpaɩtɔ nu sʋ, alaha nyankpo detswɩe ha anɩ.
 \xe God is hearing our prayers so it is raining for us.
-\dt 10/Jan/2012
+\dt 28/Oct/2013
 
 \lx mpesie
 \ph mpesie
@@ -18195,7 +18218,8 @@ cf fonflo
 \rf Tape:4-2-408
 \xv Igyo ampesie mʋa kontomere aboun bʋ ɔdwɛ.
 \xe Yam slice with kontomere stew is sweet.
-\dt 16/Jul/2012
+\cf bɔ
+\dt 28/Oct/2013
 
 \lx mpɛsɛ
 \ph mpɛsɛ
@@ -29458,15 +29482,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The children are playing behind the house there.
 \xv Apleipʋ amʋ bʋdeplei olitɔ nʋ.
 \xe The dance groups are playing at the funeral there.
-\xv Kofi ladan dʋn fʋ, sʋ maplei mʋ sʋ.
-\xe Kofi is older than you so don't be rude to him.
-\rf Tape:2-1-251
-\xv maplei mʋtɔ.
-\xe Don't be involved with him.
 \xv Plei dɛsɔ a, owí dɛ nkudasɩfɔ.
 \xe Because of play the sun has set on those who have to return to their villages.
 \rf Stewart List:2024
-\dt 05/Jul/2012
+\se plei X sʋ
+\ge be rude to
+\de To be rude to someone
+\xv Kofi ladan dʋn fʋ, sʋ maplei mʋ sʋ.
+\xe Kofi is older than you so don't be rude to him.
+\rf Tape:2-1-251
+\se plei X tɔ
+\ge not take seriously
+\de to underestimate s.o. or s.t.
+\xv Ɔtɔwa ɔsa nya ɔblɔ. Maplei mʋtɔ.
+\xe He gets angry quickly. Don't underestimate him.
+\dt 28/Oct/2013
 
 \lx pleia
 \ph pléíáʔ(L)
@@ -32596,11 +32626,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph tɪtɪfobí
 \ps n
 \ge grass
-\sd TN_
+\sd TN_I.B.5.a; TN_II.A.6.d
 \de it is a herb that cures many diseases
 \xv Nɩ ɩtɔ da fʋ a, kwɛ tɩtɩfobi manta mʋ́ ɩbɛ́fa, fʋ ɩwɩ bólwii fʋ.
 \xe If you have a boil, grind the herb on it and the boil will burst and you will be free.
-\dt 16/Jul/2012
+\dt 28/Oct/2013
 
 \lx tɩtɩɩtɩ
 \ph tɪtɪːtɪ
