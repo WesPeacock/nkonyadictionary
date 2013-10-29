@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.6.0 Apr 2013 for Linux Wine Windows emulator
+\ProgramVersion 1.6.1 Jun 2013
 \ProjectPath C:\My Toolbox Projects\Nkonya\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -41,7 +41,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain max 0 24 -4 22 30 76 1373 859
+\placementMain max -1 -1 -1 -1 30 76 1373 859
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
@@ -67,7 +67,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 792
+\width 784
 \-brf
 \-brflst
 \+ind 
@@ -80,7 +80,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri fɛ́ɛ́
+\fldPri faan
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -98,7 +98,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 698 0 25 30 30 1216 476
-\z 7
+\z 5
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -117,7 +117,7 @@
 \-brf
 \+brf 
 \mkr mr
-\width 402
+\width 394
 \-brf
 \-brflst
 \+ind 
@@ -130,7 +130,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri fɛ́ɛ́
+\fldPri faan
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -149,7 +149,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 637 0 25 164 2 1206 555
-\z 10
+\z 8
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -172,7 +172,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 364
+\width 356
 \-brf
 \-brflst
 \+ind 
@@ -225,7 +225,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 213
+\width 205
 \-brf
 \-brflst
 \+ind 
@@ -252,7 +252,7 @@
 \-wnd
 \+wnd 
 \placement normal 0 25 0 24 367 0 1274 780
-\z 4
+\z 11
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -284,7 +284,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 148
+\width 139
 \-brf
 \-brflst
 \+ind 
@@ -293,8 +293,8 @@
 \mkrSecKey ph
 \-ind
 \+rec 
-\fldPriKey ɔwanpʋ
-\fldSecKey ɔwãmpʊ
+\fldPriKey faan
+\fldSecKey fãː
 \-rec
 \+keySearch 
 \fldPri LUK.12:1
@@ -307,7 +307,7 @@
 \-wnd
 \+wnd 
 \placement normal 0 875 0 24 109 64 1329 710
-\z 5
+\z 4
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -330,7 +330,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 542
+\width 534
 \-brf
 \-brflst
 \+ind 
@@ -356,7 +356,7 @@
 \-wnd
 \+wnd 
 \placement min 21 698 0 24 54 80 1494 726
-\z 8
+\z 6
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -383,7 +383,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 745
+\width 737
 \-brf
 \-brflst
 \+ind 
@@ -412,7 +412,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 120 120 1306 566
-\z 9
+\z 7
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -431,7 +431,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 386
+\width 377
 \-brf
 \-brflst
 \+ind 
@@ -444,7 +444,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri fɛ́ɛ́
+\fldPri faan
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -470,7 +470,7 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr ref
-\width 1122
+\width 1114
 \-brf
 \-brflst
 \+ind 
@@ -481,7 +481,7 @@
 \fldPriKey 2
 \-rec
 \+keySearch 
-\fldPri Asʋhompeiin
+\fldPri References
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -499,7 +499,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 729 0 24 348 230 960 684
-\z 11
+\z 9
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -521,7 +521,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 79
+\width 71
 \-brf
 \-brflst
 \+ind 
@@ -529,7 +529,7 @@
 \srtPriKey Default
 \-ind
 \+rec 
-\fldPriKey ph KeyStrokes
+\fldPriKey sd Tony Naden
 \-rec
 \+keySearch 
 \fldPri LUK.12:1
@@ -540,9 +540,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 7
-\CaretLineScroll 7
-\CaretChar 326
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \-wnd
 \-wndlst
 \-db
@@ -565,7 +565,7 @@
 \-brf
 \+brf 
 \mkr is
-\width 195
+\width 187
 \-brf
 \-brflst
 \+ind 
@@ -578,7 +578,7 @@
 \fldSecKey I.C.6.b
 \-rec
 \+keySearch 
-\fldPri speech
+\fldPri References
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -591,7 +591,7 @@
 \-wnd
 \+wnd 
 \placement normal 0 24 0 24 253 253 1436 798
-\z 6
+\z 10
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -608,7 +608,7 @@
 \-brf
 \+brf 
 \mkr is
-\width 401
+\width 393
 \-brf
 \-brflst
 \+ind 
