@@ -3474,7 +3474,8 @@
 \xe If you give generously to your friends it's good. God will bless you because he also always gives to everyone generously.
 \rf Tape:1-2-265
 \cf faan
-\dt 17/Dec/2012
+\ce freely
+\dt 29/Oct/2013
 
 \lx awulusʋfɔ
 \ph awulusʊfɔʔ (H)
@@ -6375,15 +6376,9 @@
 \ge rest on
 \sd TN_
 \de rest on
-\sn 2
-\ge persecute
-\sd TN_
-\de persecute
 \ng inanimate object rests on an object. A corpse can dɩn but not a living person.
 \ng continuous aspect
-\xv Mɩ ansɩ dɩn Kwaku Kebisʋ.
-\xe I rely on Kwaku Kebi.
-\xv mʋ́ʋ́ nɛfɩtɛ mʋ mɩ ɔwʋlʋ amʋ ɛ sʋ, ɔbɛɛ, ɩdɩn ɔprʋnsʋ.
+\xv Mʋ́ʋ́ nɛfɩtɛ mʋ mɩ ɔwʋlʋ amʋ ɛ sʋ, ɔbɛɛ, ɩdɩn ɔprʋnsʋ.
 \xe Then I asked him about my book also and he said, it is on the table.
 \rf Tape:2-2-535
 \xv Nobwii pa, mɩ ɔwʋlʋ dɩn ɔprʋn amʋsʋ, dɩnkɩ mʋ ha mɩ.
@@ -6394,11 +6389,21 @@
 \xv Nfɔ amʋ́ʋ́ ɩdɩn ogya amʋ dɛ tutu dʋbɩ.
 \xe The oil that is on the fire is spitting too much.
 \rf Tape:8-1-014
-\cf dɩndɩn Eng:repetive
-\xv Ntsu dɩn ɔsʋlʋ amʋsʋ. or Ntsu yɔhɔ ɔsʋlʋ amʋsʋ fɛ́ɛ́.
-\xe Water covered all the earth.
+\xv Ntsu dɩn ɔsʋlʋ amʋsʋ.
+\xe Water covered the ground.
 \rf Stewart List:2522
-\dt 17/Dec/2012
+\se ansɩ dɩn Xsʋ
+\ge rely on X
+\de to rely on someone or something
+\xv Mɩ ansɩ dɩn Kwaku Kebisʋ.
+\xe I rely on Kwaku Kebi.
+\sn 2
+\ge persecute
+\sd TN_II.E.4.d
+\de persecute
+\xv Bʋ dɩn mlɩsʋ.
+\xe They persecute you.
+\dt 29/Oct/2013
 
 \lx dɩnka
 \ph dɪ́ŋká
@@ -6407,7 +6412,7 @@
 \ge put on
 \sd TN_
 \de put on top of
-\cf dɩndɩnka Eng:redup
+\ng Dɩnka is the non-stative form of dɩn.
 \xv Nɔpʋ ogyatin amʋ dɩnka mɩ nkanta ba woyitɔ
 \xe I carried a stick of firewood to my house on my shoulder.
 \rf Tape:3-1-196
@@ -6415,16 +6420,6 @@
 \xe The man climbed on to the mountain top.
 \rf Tape:6-1-457
 \rf Stewart List:2527
-\se dɩnka ansɩ
-\ge aware
-\sd TN_
-\de to be aware of something
-\xv Dɩnka ansɩ mʋ́sʋ.
-\xe Be aware of it (don't forget)
-\rf Tape:2-1-340
-\xv Dɩnka ansɩ wɩsʋ.
-\xe Beware of yourself
-\rf Tape:2-1-343
 \sn 2
 \ge evident
 \sd TN_
@@ -6435,7 +6430,17 @@
 \xv Nyankpʋtaa ladɩnka bʋsʋ, sʋ nyankpʋ amʋ móotswie.
 \xe A rainbow has come on the mountain, so it will not rain.
 \rf Tape:5-1-533
-\dt 15/Sep/2012
+\se dɩnka ansɩ Xsʋ
+\ge aware of X
+\sd TN_
+\de to be aware of something
+\xv Dɩnka ansɩ mʋ́sʋ.
+\xe Be aware of it (don't forget)
+\rf Tape:2-1-340
+\xv Dɩnka ansɩ wɩsʋ.
+\xe Beware of yourself
+\rf Tape:2-1-343
+\dt 29/Oct/2013
 
 \lx dɩnkɩ
 \ph dɪ́ŋkɪ́
@@ -6454,15 +6459,13 @@
 \xv Napʋ atɔ amʋ dɩnka ɔprʋn amʋsʋ. Dɩnkɩ mʋ́ lɛ mʋ́sʋ.
 \xe I have put the things on top of the table. Lift it and remove it.
 \rf Tape:7-1-162
-\nt From ths: words that cut: ka (general term), kaka (chop), kun (gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife, pound), pɩtɩ (cut apart ), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \se dinkɩ imi
-\ge haircut
-\sd TN_
+\ge cut hair
 \de to get a haircut
 \xv Anɩtɔpʋ akapɛ dɩnkɩ anɩ mi nɩ ɩbʋla.
 \xe We take scissors and cut our hair when it is full.
 \cf kpa nwun
-\dt 03/Sep/2012
+\dt 29/Oct/2013
 
 \lx dɩnsʋ
 \ph dɪnsʊ
@@ -6481,39 +6484,44 @@
 \ge already
 \sd TN_
 \de already
-\cf dodoodo Eng:a long time
 \xv Nɔwa fʋ sumbi dodoodo amʋ a, biansʋ faba nɩ?
 \xe I sent you on an errand a long time ago and just now you have come? (That is, what took you so long?)
 \rf Tape:1-2-435
-\dt 17/Dec/2012
+\dt 29/Oct/2013
 
 \lx dɔ
 \hm 1
 \ph dɔʔ(L)
 \ps v
+\sn 1
 \ge weed
-\sd TN_
-\de weed by hoeing, make a farm
+\sd TN_II.D.1.a
+\de weed with a cutlass
 \xv Dɔ ndɔ amʋ ɩpɩn wanklaan ha mɩ.
 \xe Weed the farm well for me close to the ground
 \rf Tape:2-1-354
 \rf Stewart List:2798
-\dt 14/Aug/2012
+\sn 2
+\ge farm
+\de to make a farm
+\dt 29/Oct/2013
 
 \lx dɔ
 \hm 2
 \ph dɔ
 \ps n
 \ge hour
-\sd TN_
+\sd TN_I.C.4.a
 \de hour
+\se dɔ fɩnɩ
+\ge when
+\de what time
 \xv Dɔ fɩnɩ lada?
 \xe What time is it?
 \lt How many bells have struck?
 \nt this is a unique form of ɔdɔn which occurs only in this expresion.
 \rf Tape:2-1-354
-\nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
-\dt 28/Sep/2013
+\dt 29/Oct/2013
 
 \lx dɔkɩta
 \ph dɔkɪ́ta
@@ -6523,11 +6531,11 @@
 \de doctor
 \pl adɔkɩtafɔ
 \ph adɔkɪ́tafɔ
-\xv Oyin amʋ la suna ɔwʋlʋ alɩa, alabwɛ ɔwʋlʋtɔ ɔbɩntɔpʋ Dɔkɩta.
+\xv Oyin amʋ lasuna ɔwʋlʋ alɩa, alabwɛ ɔwʋlʋtɔ ɔbɩntɔpʋ Dɔkɩta.
 \xe The man has studied hard to become a doctor.
 \xv Dɔkɩta amʋ latsa ɔtsɩ anfɩ ɔdɛ kwata ɩlɔ amʋ.
 \xe The doctor has cured this leprous woman
-\dt 14/Aug/2013
+\dt 29/Oct/2013
 
 \lx dɔkʋnʋ
 \ph dɔkʊ́nʊ́
@@ -6600,9 +6608,10 @@
 \sd TN_
 \de reduplication of dua - daub repetitively
 \xv Akɔmfɔ amʋ bapʋ ofuli duadua atabi amʋ wɩ.
-\xe Priestesses have taken white and daubed it on the twins (sometimes they use the mouth of a bottle to put the clay on in white circles)
+\xe Priestesses have taken white and daubed it on the twins.
+\nt They use the mouth of a bottle to put the clay on in white circles.
 \rf Tape:2-1-371
-\dt 22/Aug/2012
+\dt 29/Oct/2013
 
 \lx duana
 \ph dúana
@@ -6627,10 +6636,10 @@
 \sd TN_
 \de leak
 \xv Bokiti amʋ dedudu, sʋ ntsu dɛdwɩɩ da ɔsʋlʋtɔ.
-\xe The bucket is leaking. Water is dripping hitting the ground.
+\xe The bucket is leaking. Water is dripping onto the ground.
 \rf Tape:2-1-377
 \rf Stewart List:2495
-\dt 17/Dec/2012
+\dt 29/Oct/2013
 
 \lx duku
 \ph dúkuʔ
@@ -6736,13 +6745,12 @@
 \ph dʊbɪʔ
 \ge too much
 \sd TN_
-\de too much,
+\de too much
 \ps ADV
-\ps v
 \xv Aha amʋ bʋdɛtɔɩ dʋbɩ, sʋ mmɛdɛ fʋ asʋn amʋ nu.
 \xe The people are talking too much so I am not hearing you.
 \rf Tape:2-1-402
-\dt 17/Dec/2012
+\dt 29/Oct/2013
 
 \lx dʋn
 \ph dʊ̃ʔ
@@ -6872,15 +6880,16 @@
 \ve North
 \va ɔfɛ bangya
 \ve North
-\ph ɔfɛ́ bã́ʤá
+\ph ɔfɛ́ bã́nʤá
 \pl nfɛ
 \ph ɱfɛ́
 \xv Mbʋ ɛfɛ kʋ, mʋ́ ɔnɔ bʋ ogya.
 \xe I have an axe, it is sharp.
 \rf Tape:5-2-334
-\cf limba (large axe for felling trees)
+\cf limba
+\ce large axe for felling trees
 \rf Stewart List:1201
-\dt 14/Aug/2013
+\dt 29/Oct/2013
 
 \lx ɛkɛ
 \ph ɛkɛ
@@ -6948,7 +6957,7 @@
 \ph fáʔ(H)
 \ps v
 \ge cross
-\sd TN_
+\sd TN_I.C.3.d
 \de go across through water
 \xv Alafa ntsu amʋ yɛlɩɩ mʋ́ ɔbɩn.
 \xe He has crossed the river and stood on the far bank.
@@ -6958,7 +6967,7 @@
 \rf Tape:4-1-482
 \rf Stewart List:2480
 \cf nyankɩ2
-\dt 14/Aug/2012
+\dt 29/Oct/2013
 
 \lx fa
 \hm 2
@@ -6966,46 +6975,47 @@
 \ps v
 \sn 1
 \ge burst
-\sd TN_
+\sd TN_II.A.4.e
 \de to burst
 \xv Apubeble dɛmɔsɩ alɩɩ mʋ apu lɛfa.
-\xe Big-belly is laughing so hard that his belly burst.
+\xe Big-belly was laughing so hard that his belly burst.
 \rf Tape:2-1-436
+\xv Mɩ kɛklɛ lafa.
+\xe My boil has burst.
+\rf Stewart List:2328
 \sn 2
 \ge start suddenly
-\sd TN_
+\sd TN_I.C.6.d
 \de to start suddenly
 \xv ɩtrɛ lafa.
 \xe a quarrel has broken out
 \rf Tape:2-1-439
-\xv Mɩ kɛklɛ lafa.
-\xe My boil has burst.
-\rf Stewart List:2328
-\dt 22/Aug/2012
+\dt 29/Oct/2013
 
 \lx fa
+\hm 3
 \ph fáʔ(H)
 \ps v
-\hm 3
 \ge charm
-\sd TN_
+\sd TN_II.B.5.b
 \de to charm someone
 \xv Osumani amʋ lɛfa otsibi amʋsʋ odewu nɩ.
 \xe The magic practitioner charmed the girl that was why she died.
-\dt 06/Jan/2012
+\dt 29/Oct/2013
 
 \lx faan
 \hm 1
 \ph fãː
 \ps ADV
 \ge freely
-\sd TN_
+\sd TN_II.B.5.a.i ; II.E.4.c
 \de freely
 \xv Fapʋ kie mɩ faan.
 \xe You have given me freely.
 \rf Tape:2-1-442
 \cf awɩtɔlɛ
-\dt 22/Aug/2012
+\ce generosity
+\dt 29/Oct/2013
 
 \lx faan
 \hm 2
@@ -20649,14 +20659,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ph ɲáŋkɪ́
 \ps v
 \ge cross
-\sd TN_
+\sd TN_I.C.3.d
 \de cross over without touching
 \xv Olofuli nyankɩ ntsu amʋsʋ.
 \xe He jumped over the water.
 \rf Tape:5-1-526
 \cf fa
 \nt to cross through
-\dt 23/Aug/2012
+\dt 29/Oct/2013
 
 \lx nyankpʋ
 \ph ɲaŋ͡mk͡pʊʔ(L)
