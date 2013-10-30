@@ -96,17 +96,6 @@
 \dt 28/Jul/2013
 
 \lx aba
-\hm 1
-\ph aba(H)
-\ps n
-\ge people
-\sd TN_II.E.1.a
-\de people
-\nt abanyɔ (two people) abasa (three people), abana (four people), abanu (five people), abasie (six people)
-\cf tɔkʋ for inanimate objects
-\dt 13/Aug/2013
-
-\lx aba
 \hm 2
 \ph aba(H)
 \ps n
@@ -121,6 +110,29 @@
 \xe Our cloths will touch each other. Meaning: We will meet later
 \nt Idiom
 \dt 28/Jul/2013
+
+\lx aba-
+\hm 1
+\ph aba(H)
+\ps n
+\ge number marker
+\sd TN_II.E.1.a
+\de a number marker indicating people
+\xv atsɩ abanyɔ
+\xe two women
+\cf abanyɔ
+\ce two people
+\cf abasa
+\ce three people
+\cf abana
+\xe four people
+\cf abanu
+\xe five people
+\cf abasie
+\xe six people
+\cf ɔba
+\ce companion
+\dt 29/Oct/2013
 
 \lx Aban
 \ph abãʔ(H)
@@ -161,12 +173,11 @@
 \ge two people
 \sd TN_II.E.1.a
 \de two people
-\nt from aba anyɔ
 \xv Nɩ abanyɔ natɩ bʋ alɛ, tsufɛ bʋtɔtɔɩ kpla aba.
 \xe If two people are walking it is good, because they advise each other.
-\cf abasa (three people), abana (four people), abanu (five people), abasie (six people)
-\cf tɔkʋ for in-animate objects
-\dt 28/Dec/2012
+\cf aba-
+\ce number marker
+\dt 29/Oct/2013
 
 \lx abasa
 \ph abasá
@@ -222,16 +233,23 @@
 \nt lɛ mʋ́ lɛ means to take something out of something
 \xe When you pound palm nuts you take out the fibres and kernels.
 \rf Tape:1-1-060
-\cf ɔbɛ́ for list of palm related words
-\cf akɛnkɛ -unmatured palm nuts
-\cf nkɩsɛ - without seed
-\cf opegya - about to ripen
-\cf atoli - palm kernal that has been sprayed by squirrel
-\cf abɛ - ready for food
-\cf ibian - kind of palm fruit
-\cf lɛbɛ - kind of palm fruit
-\cf ɔbɛkʋtʋ - kind of palm fruit
-\dt 28/Dec/2012
+\cf ɔbɛ́
+\ce oil palm tree
+\cf akɛnkɛ
+\ce unmatured palm fruit
+\cf nkɩsɛ
+\ce palm fruit without seed
+\cf opegya
+\ce palm fruit about to ripen
+\cf atoli
+\ce palm kernel that has been sprayed by squirrel
+\cf ibian
+\ce k.o. palm fruit
+\cf lɛbɛ
+\ce k.o. palm fruit
+\cf ɔbɛkʋtʋ
+\ce k.o. palm fruit
+\dt 29/Oct/2013
 
 \lx abi
 \ph abi(H)
@@ -243,6 +261,11 @@
 \xv Nɛ́fɛ mɩ abi amʋ, ampʋ bwɛ abi ofobi. Tsufɛsɛ, ndekle ánɩ́ nɔ́bʋa iyie.
 \xe I will crack my palm kernels, in order to take(them) and make palm kernel oil, because I want that I will fry fish.
 \dt 16/Dec/2012
+
+\lx abi
+\ps n
+\cf obi
+\dt 29/Oct/2013
 
 \lx abi atsulii
 \ph abi at͡sulîː
@@ -302,10 +325,11 @@
 \de a person's side
 \cf abɩntɔ
 \cf abɩn iwu
+\ce rib
 \xv Fʋ abɩn gyi tsu fʋ klɛtɔ bɔfʋn fʋ ɔmɛtɔ.
 \xe Your side goes from your armpit to your abdomen. It describes that area where the ribs are.
 \rf Stewart List:0036
-\dt 28/Jul/2013
+\dt 29/Oct/2013
 
 \lx abɩn iwu
 \ph abɪ̃ʔ iwú
@@ -451,10 +475,18 @@
 \xv Anɩ abusuan bʋswɩ dʋn abrɔfɔ klɛ.
 \xe Our family is bigger than westerner's family.
 \rf Tape:1-1-106
-\cf Abusuanfɔ Eng:family, the people that make up the family
+\cf abusuanfɔ
+\ce family people
 \nt Not literally, but in terms of obligation. That's why people don't trade in town, because everyone claims they are family and should get a reduced price. So you end up with no profit.
 \nt Father (ɔsɩ/sɩ), Mother (oyin/yin), child (kebi), baby (kebi bɔbwɛ), daughter(obitsibi), girl (otsibi), boy (oyinbi),
-\dt 13/Aug/2013
+\dt 29/Oct/2013
+
+\lx abusuanfɔ
+\ph abusuãfɔ́
+\ps n
+\ge family
+\de the people that make up a family
+\dt 29/Oct/2013
 
 \lx abususʋ
 \ph abususʊ
@@ -468,12 +500,11 @@
 \ph abwi
 \ps n
 \ge stones
-\sd TN_
+\sd TN_I.A.3.c
 \de hard substance
-\xv Nɩ bɔtswɩ abwi da fʋ a, fépilan
-\xe If the throw a stone at you, it will hurt you.
 \cf ibwi
-\dt 29/Aug/2013
+\ce stone
+\dt 29/Oct/2013
 
 \lx adabi
 \ph adábi
@@ -541,10 +572,6 @@
 \rf Tape:1-1-130
 \dt 02/Apr/2012
 
-\lx adanyɔ
-\cf adʋanyɔ
-\dt 08/Dec/2012
-
 \lx adɩawun
 \ph adɪawũ(H)
 \ps n
@@ -572,12 +599,13 @@
 \ge farming area
 \sd TN_
 \de farming area
-\xv Fʋ adɔbʋʋ gyi ɔtɩnɛ ánɩ́ fʋtɔdɔ.
+\xv Fʋ adɔbʋ gyi ɔtɩnɛ ánɩ́ fʋtɔdɔ.
 \xe Your farming area is the place that you farm.
 \xv Anɩ adɔbʋ bʋ Oduabone abɔɩtɔ.
 \xe Our farming area is in Oduabone area.
 \cf ɔdɔbʋtsa
-\dt 29/Aug/2013
+\ce farm boundary
+\dt 29/Oct/2013
 
 \lx adɔmpɔ
 \ph adɔmpɔ (H)
@@ -661,7 +689,8 @@
 \rf Tape:1-1-138
 \xv Idu, adʋanyɔ, adʋasa, adʋana, aduenu, aduesie, aduesienɔ, adukwe, adukweba, lafa.
 \xe Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
-\dt 26/Aug/2013
+\va adanyɔ
+\dt 29/Oct/2013
 
 \lx adʋasa
 \ph adʊasa(H)
@@ -777,9 +806,9 @@
 \de foam, from soap or bubbles
 \xv Ɔkwaɩ amʋ ma ogya, mʋ́ sʋ ɩtama lɩn afu.
 \xe The soap is not good and so it does not produce foam.
-\nt plura of ifu1 (lump)
 \cf ifu1
-\dt 13/Aug/2012
+\ce lump
+\dt 29/Oct/2013
 
 \lx afu
 \hm 1
@@ -817,14 +846,16 @@
 \xe Wind always spoils plantain in the farms.
 \rf Tape:1-1-173
 \rf Stewart List:1047
+\cf alankpla
+\ce storm
+\cf atsufu
+\ce gale
 \sn 2
 \ge air
 \sd TN_I.A.2.a
 \de air
 \rf Stewart List:1009
-\cf alankpla
-\cf atsufu
-\dt 29/Sep/2013
+\dt 29/Oct/2013
 
 \lx Afua
 \ph afúá(H)
@@ -920,9 +951,10 @@
 \de little brown scorpion
 \nt Southern dialect
 \cf nyankpʋkpie
+\ce scorpion (Northern dialect)
 \xv Bamɔ aganɛ amʋ́ʋ́ ɔlɔsʋra kebi amʋ.
 \xe They have killed the scorpion that stung the child.
-\dt 28/Jul/2013
+\dt 29/Oct/2013
 
 \lx Agbagya
 \ph ag͡baʤáʔ
@@ -1025,8 +1057,9 @@
 \xe Those who lived in olden times used tree bark to roof their houses.
 \nt It was used for walls rather than roof -FO
 \cf oyi ɔma
+\ce bark
 \rf Tape:1-1-218
-\dt 16/Dec/2012
+\dt 29/Oct/2013
 
 \lx agyabi
 \ph aʤabi
@@ -1099,15 +1132,16 @@
 \ph aʤɪna(H)
 \ps n
 \ge whisper
-\sd TN_
+\sd TN_II.B.2.b.i
 \de whisper
 \bw Akan fi:agyina LLH
 \xv Omedekle ánɩ́ ɔhaa onu amʋ́ asʋn amʋtɔ sʋ a, olotu mʋ agyɩna.
 \xe She isn't wanting that nobody he hears their matter, so she advised him in a whisper.
 \xe She didn't want anyone to hear so she whispered her advice.
 \rf Tape:1-1-254
-\cf nklobitɔ (mutter under ones breath)
-\dt 01/Sep/2012
+\cf nklobitɔ
+\ce mutter
+\dt 29/Oct/2013
 
 \lx agyɩndɩ
 \ph aʤɪndɪ(H)
@@ -1182,12 +1216,14 @@
 \xv Bʋdɛ agyʋma yɔ, amʋ́ ndɔtɔ.
 \xe They are working on their farms.
 \rf Tape:2-1-117
-\cf agyʋma ɔyɔpʋ / ayɔpʋ "hired workers"
-\cf gyumagyihɛ Eng:work
+\cf agyʋma ɔyɔpʋ
+\ce hired workers
+\cf gyumagyihɛ
+\ce work
 \xv Ɔma gyumagyihɛ. Mʋ́ sʋ ɔtɛnatɩ ki ahasʋ.
 \xe He has no work. That's why he always roams from person to person.
 \rf Stewart List:1403
-\dt 05/Oct/2012
+\dt 29/Oct/2013
 
 \lx agyʋma ɔyɔpʋ
 \ph aʤʊ́má ɔyɔpʊ́
@@ -1218,11 +1254,15 @@
 \xv Tsufɛsɛ mʋ agywɩɩn igyi anyɔ, ɔmɛ́ɛtalɩ lɩɩ tsukʋlɛ.
 \xe Because he is double minded, he can't stand at one place.
 \rf Tape:3-1-235
-\cf kɩta agywɩɩn
-\cf bwɛ agywɩɩn
+\se kɩta agywɩɩn
+\ps v
+\ge plan
+\se bwɛ agywɩɩn
+\ps v
+\ge decide
 \rf Tape:1-1-146
 \rf Stewart List:1443
-\dt 16/Dec/2012
+\dt 29/Oct/2013
 
 \lx ahin
 \ph ahĩ(H)
@@ -1266,11 +1306,9 @@
 \sd TN_II.D.5.c
 \de A variety of plantain. Ahʋrotia has short fingers that are similar to bananas.
 \cf blɔdɩ
-\cf apantu
-\cf apɩmba
-\cf ata anyɔ
-\cf oniaba
-\dt 28/Jan/2013
+\ce plantain (generic)
+\nt see blɔdɩ entry for other kinds of plantain
+\dt 29/Oct/2013
 
 \lx akanlɛ
 \ph akanlɛ́(H)
@@ -1418,14 +1456,8 @@
 \dt 15/Aug/2013
 
 \lx akonya
-\ph akoɲa(H)
-\ps n
-\ge soldier ants
-\sd TN_
-\de soldier ants
-\xv Akonya amʋ babla ndɔ amʋtɔ, sʋ ɔha mɛ́ɛtalɩ yɔ agyuma ɩnʋ.
-\xe The soldier ants have invaded the farm so no one can work on the farm there.
-\dt 16/Dec/2012
+\cf konya
+\dt 29/Oct/2013
 
 \lx akoo
 \hm 1
@@ -1530,10 +1562,11 @@
 \xv Aha botsu ndɔtɔ ba woyitɔ a, bʋtekle akpasatɔ kpɩsa pʋ tswii amʋ́ ɔma.
 \xe When people come back from farm to the house, they like akpasa to lean and straighten their backs.
 \rf Tape:1-1-343
-\cf asesegua
-\cf kantankua
+\cf obia
+\ce stool
+\nt see obia entry for other kinds of stools / chairs
 \rf Stewart List:1180
-\dt 27/Aug/2013
+\dt 29/Oct/2013
 
 \lx akpekpe
 \ph ak͡pek͡pe
@@ -1628,12 +1661,11 @@
 \xe I sleep at (my) village so my farm work always goes quickly for me.
 \xe Because I sleep at my village I can get my farm work done quickly.
 \rf Tape:1-1-358
-\cf nkudasɩfɔ - people who are living in their farms
 \xv Plei dɛsɔ a, owi dɛ nkudasɩfɔ ta.
 \xe Because of playing the sun has set for the villagers.
 \nt A proverb used to imply that it is time to stop playing and get to work. The people living out on their farms should have stopped in time to walk home before darkness fell.
 \rf Stewart List:1152
-\dt 01/Dec/2012
+\dt 29/Oct/2013
 
 \lx akudasɩ
 \ph akudasɪ
@@ -1643,7 +1675,9 @@
 \de a small town
 \xv Nɩ fʋda akudasɩ tamɛ fʋtamayɔ ndɔtɔ agyuma a, fʋ mɛ́ɛdɛ tɔtɔ bwɛ.
 \xe If you are in the village, but you are not farming, you are doing nothing.
-\dt 05/Oct/2012
+\cf nkudasɩfɔ
+\ce people who are living in their farms
+\dt 29/Oct/2013
 
 \lx akunta
 \hm 1
@@ -1719,13 +1753,8 @@
 \dt 14/Aug/2013
 
 \lx akwɛ
-\ph akwɛ
-\ps n
-\ge drums
-\sd TN_II.E.5.d.i
-\de drums
 \cf ɩkwɛ
-\dt 28/Jul/2013
+\dt 29/Oct/2013
 
 \lx alankpla
 \ph alaŋ͡mk͡pla
@@ -1742,20 +1771,23 @@
 \sn 1
 \ps n
 \ge good
-\sd TN_
+\sd TN_II.B.5.a.1
 \de good
 \cf yile
+\ce good
 \xv Ɩbʋ alɛ
 \xe It is good.
 \rf Tape:1-1-383
 \sn 2
 \ps NOMR
 \ge easy
-\sd TN_
+\sd TN_I.C.5
 \de with verb infix X, a-X-lɛ is the quality of easy or pleasant to X
 \xv kɩ; akɩlɛ
 \xe look at; beautiful
-\dt 25/Aug/2012
+\xv kla; aklalɛ
+\xe read, easy to read
+\dt 29/Oct/2013
 
 \lx alɩ
 \ph alɪ (H)
@@ -1807,24 +1839,30 @@
 \xv Fɛ alɩa ɔtsɩ tɛdalɩ mʋ kulu ɔma a, mlɩ ɛ, mlɩma ɔnɔkwalɩ ha Bulu.
 \xe As an unfaithful wife, you also are unfaithful to God.
 \rf Tape:4-1-166
-\cf alɩagyialɩa Eng:anyhow, no matter how
-\cf alɩagyialɩa igyi Eng:by all means
+\cf alɩagyialɩa
+\ce anyhow, no matter how
+\cf alɩagyialɩa igyi
+\ce by all means
 \cf alɩ
-\dt 05/Jul/2012
+\dt 29/Oct/2013
 
 \lx alɩagyialɩa
 \ph alɪáʤialɪá
 \ps ADV
 \ge anyhow
 \de no matter how
-\dt 16/Sep/2013
+\cf alɩa
+\ce as
+\dt 29/Oct/2013
 
 \lx alɩagyialɩa igyi
 \ph alɪáʤialɪá iʤi
 \ps ADV
 \ge by all means
 \de by all means
-\dt 16/Sep/2013
+\cf alɩa
+\ce as
+\dt 29/Oct/2013
 
 \lx alɩɩ
 \ph alɪː(H)
@@ -1843,13 +1881,15 @@
 \ph alóː
 \ps ADV
 \va loo
-\ge or
+\ge or; instead of
 \sd TN_
 \de or
 \bw Ewe fi:aloo LHH
-\cf anaasɛ (Twi)
-\cf ntɛ (Nkonya)
-\dt 02/Aug/2012
+\cf anaasɛ
+\ce or (Twi)
+\cf ntɛ
+\ce or (Nkonya)
+\dt 29/Oct/2013
 
 \lx amandɩɛ
 \hm 1
@@ -1912,7 +1952,8 @@
 \xv Magyi ɔha anfɩ ɔba anfɩ? Mɩ bitɛpʋ nɩ.
 \xe Who is that coming? He is my uncle.
 \cf ɔmɛnkɛ
-\dt 14/Aug/2013
+\nt see ɔmɛnkɛ entry for notes on -mɛ- questions.
+\dt 29/Oct/2013
 
 \lx Amma
 \ph ámːa
@@ -2018,9 +2059,11 @@
 \xv Fɔyɔ Nkran anaasɛ, fétsia woyi tsia natɩ ki awulu?
 \xe Will you go to Accra or you will stay at home and be roaming the town?
 \cf aloo
+\ce or (Twi)
 \cf ntɛ
+\ce or (Ewe)
 \rf Stewart List:1851
-\dt 01/Sep/2012
+\dt 29/Oct/2013
 
 \lx anamu
 \ph anamu(H)
@@ -2162,7 +2205,8 @@
 \sd TN_II.A.1.b
 \de eyes
 \cf nsibi
-\dt 29/Aug/2013
+\ce eye
+\dt 29/Oct/2013
 
 \lx ansibi klambi
 \ph ansibi klambi
@@ -2268,10 +2312,15 @@
 \xv Bulu tɛkɩ klʋntɔ ha pɔn, tamɛ nyankpʋsa tɛkɩ aha ansɩtɔ ha pɔn.
 \xe God looks in the heart to judge guilt but humans look at people's faces to judge guilt.
 \rf Tape:1-1-520
-\cf Ansɩtɔ dɛ mʋ bi. Eng:He is feeling dizzy
+\se ansɩtɔ bi
+\ps v
+\ge lose consciousness
+\de to be losing consciousness, fainting
+\xv Ansɩtɔ dɛ mʋ bi.
+\xe He is feeling dizzy
 \rf Stewart List:0008
 \rf SIL-AWL:0005
-\dt 26/Aug/2013
+\dt 29/Oct/2013
 
 \lx anu
 \ph anu(H)
@@ -2330,15 +2379,10 @@
 \pl agyawugya
 \ph anyɩnapɛpɛ
 \ph aɲɪnapɛpɛ
-\cf gyawugya
-\cf baba
-\cf damantsu
-\cf finfi
-\cf konya
-\cf ɔkpan
 \cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
-\dt 30/Sep/2013
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
+\dt 29/Oct/2013
 
 \lx anyɔ
 \ph aɲɔ(H)
@@ -2393,11 +2437,9 @@
 \sd TN_II.D.5.c
 \de A variety of plantain. Apantu has large fingers and is used for fufu.
 \cf blɔdɩ
-\cf ahʋrotia
-\cf apɩmba
-\cf ata anyɔ
-\cf oniaba
-\dt 28/Jan/2013
+\ce plantain (generic)
+\nt see blɔdɩ entry for other kinds of plantain
+\dt 29/Oct/2013
 
 \lx apɛ
 \ph apɛ́(H)
@@ -2449,11 +2491,9 @@
 \sd TN_II.D.5.c
 \de A variety of plantain. Apɩmba has smaller fingers that have small black seeds. It is primarily used for ampesie. An apɩmba tree can have 50 to 79 fingers of plantain.
 \cf blɔdɩ
-\cf ahʋrotia
-\cf apantu
-\cf ata anyɔ
-\cf oniaba
-\dt 28/Jan/2013
+\ce plantain (generic)
+\nt see blɔdɩ entry for other kinds of plantain
+\dt 29/Oct/2013
 
 \lx apondo
 \ph apondó(H)
@@ -2565,14 +2605,16 @@
 \ph asawu(L)
 \ps n
 \ge fishing net
-\sd TN_
+\sd TN_II.D.3
 \de fishing net, thrown at the waters edge to catch small fish
 \bw Ewe fi:asabu LLL
-\cf awʋlɛ
-\cf ɔdadʋwa
 \xv Asawu a, fɔ́tswɩ mʋ́ wa ntsu amʋtɔ, fówun fabɩtɩa mʋ́ lɛ.
 \xe This net, you will throw it into the water and then you pull it out.
-\dt 15/Sep/2012
+\cf awʋlɛ
+\ce weighted fishing net
+\cf ɔdadʋwa
+\ce fishing line with hooks
+\dt 29/Oct/2013
 
 \lx asendua
 \ph aséndua(H)
@@ -2597,9 +2639,10 @@
 \xv Asesegua gyi obia ánɩ́ awie bʋtekle mʋ́sʋ tsia. Oyi bʋtɔpʋ sre mʋ́.
 \xe Asesegua is a stool that chiefs like to sit on. They carve them out of a tree (section of log)
 \rf Tape:1-1-591
-\cf kantankua
-\cf akpasa
-\dt 27/Aug/2013
+\cf obia
+\ce stool
+\nt see obia entry for other kinds of stools / chairs
+\dt 29/Oct/2013
 
 \lx asiabi
 \ph asiabí
@@ -2664,17 +2707,17 @@
 \ph asíɛntɔʔ
 \ps n
 \ge dowry
-\sd TN_
+\sd TN_II.E.1.c
 \de an amount of money a man gives to the family of a woman as a wife
-\cf sien
-\cf ɔ- -tɔ
 \xv Nɩ oyin obétsiaa ɔtsɩ a, ɔbɔ́pʋ nta yɛlɛ wɩ ɔnwan ha ɔtsɩ amʋ akwɩɩpʋ, pʋ kɔba manta nta amʋsʋ. Kɔba amʋ gyi asientɔ nɩ.
 \xe If a man, will marry, he will take drinks to show his intentions, give them to the woman's parents, and bring money along with the drinks. The money is the dowry.
 \xv Igyi anɩ amadɩɛ ánɩ́ nɩ fʋ mɔkʋka fʋ asientɔ a, ɔtsɩ amʋ mégyi fʋ ka nɩ.
 \xe It is our costume that if you don't pay your dowry to the family of the woman, then she is not your wife.
 \rf Tape:1-1-570
 \na The asientɔ is normally given to a senior woman relative of the bride. She then will counsel the bride in case of marriage breakdown, so that she doesn't have to pay it back to the groom's family.
-\dt 17/Sep/2012
+\cf siɛn
+\ce marry
+\dt 29/Oct/2013
 
 \lx asikre
 \ph asíkréʔ (H)
@@ -2710,7 +2753,7 @@
 \sd TN_
 \de meaning
 \xv Mʋ asʋn amʋ asɩ mɛ?
-\xe What did he mean? (His word what about its meaning?
+\xe What did he mean? (His word what about its meaning?)
 \rf Tape:1-1-586
 \sn 2
 \ge offspring
@@ -2720,8 +2763,9 @@
 \xe Her offspring will multiply.
 \xe She will have many descendants.
 \rf Tape:1-1-588
-\cf abi
-\dt 15/Sep/2012
+\cf obi
+\ce child
+\dt 29/Oct/2013
 
 \lx asɩ
 \hm 2
@@ -2956,11 +3000,12 @@
 \sd TN_
 \de disobedience
 \lt asʋtɔ ɔnlɩn: inside ear hard
-\cf ma bu
 \xv Kebi ánɩ́ ɔbʋ asʋtɔlɩn a, mʋ akwɩɩpʋ ansɩ tamagyi mʋ wɩ.
 \xe The child that is disobedience, his parents are never happy with him.
 \xe Parents of a disobedient child are never happy with him.
-\dt 24/Aug/2012
+\cf ma bu
+\ce disrespect
+\dt 29/Oct/2013
 
 \lx ata anyɔ
 \ph ataɲɔʔ(H)
@@ -2969,11 +3014,9 @@
 \sd TN_II.D.5.c
 \de A variety of plantain. Ata anyɔ has only two bunches on a plant.
 \cf blɔdɩ
-\cf ahʋrotia
-\cf apantu
-\cf apɩmba
-\cf oniaba
-\dt 28/Jan/2013
+\ce plantain (generic)
+\nt see blɔdɩ entry for other kinds of plantain
+\dt 29/Oct/2013
 
 \lx atadɩɛ
 \ph atadɪɛ (H)
@@ -3016,27 +3059,29 @@
 \ph atɪ́kɔ (H)
 \ps n
 \ge millet
-\sd TN_
+\sd TN_II.D.1.c
 \de millet
 \xv Bʋtɔkwɛ atɩkɔ nfuo pʋ wuli wʋdɩ. Bʋtɔpʋ bwɛ nta ánɩ́ igyi pitoo.
 \xe They grind millet flour and stir it into a porridge. They make a fermented drink called Pito from it.
 \rf Tape:1-2-076
 \xv Atɩkɔ lawʋlɩ bwɛ wɩsɩɩ.
 \xe The millet has become dry.
-\bw Akan fi:atɪkɔ 
-\dt 27/Aug/2012
+\bw Akan fi:atɪkɔ
+\cf ayo
+\ce millet
+\dt 29/Oct/2013
 
 \lx atogyihɛ
 \ph atoʤihɛ
 \ps n
 \ge food
-\sd TN_
+\sd TN_II.C.3.c
 \de food
 \nt etym atɔ gyi hɛ - things eat ADJizer
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi; gari, konkonte pʋ́ agbodi mbɔdɩ.
 \xe They take cassava and make many foods. Some of these are, gari, konkonte, and cassava porridge.
 \xe They use cassava to make many foods including gari, konkonte, and cassava porridge.
-\dt 05/Oct/2012
+\dt 29/Oct/2013
 
 \lx atohianhɛ
 \ph atohiã́hɛʔ
@@ -3052,12 +3097,13 @@
 \ph atosunáhɛ́
 \ps n
 \ge teachings
-\sd TN_
+\sd TN_II.B.1
 \de teachings
 \xv Nɩ fégyi dɩnka anɩ wie Yesu Kristo atosunahɛsʋ a, ɩtɔwa alɛ ha fʋ nkpa anfɩtɔ.
 \xe If you abide by the teachings of our Lord Jesus Christ, it becomes well with you in this life.
 \cf suna
-\dt 05/Oct/2012
+\ce show
+\dt 29/Oct/2013
 
 \lx atɔ
 \ph atɔ́ʔ(H)
@@ -3072,9 +3118,7 @@
 \xe God made all the things that are in this world for mankind.
 \rf Tape:1-2-087
 \sg ɩtɔ
-\cf atogyihɛ Eng:food
-\cf ndɔtɔ atɔ Eng:crops
-\dt 08/Aug/2012
+\dt 29/Oct/2013
 
 \lx atɔ owunpʋ
 \ph atɔ owũ̂mpʊʔ
@@ -3112,9 +3156,11 @@
 \ph atɔ́ afɛpʊ́
 \xv Atɔ ɔfɛpʋ amʋ ɔlɔhɔ atɔ ba bɛfɛ.
 \xe The petty trader bought things in order to come and sell.
-\cf bia ogyipʋ (merchant)
-\cf fɛ (sell)
-\dt 14/Aug/2013
+\cf bia ogyipʋ
+\ce merchant
+\cf fɛ
+\ce sell
+\dt 29/Oct/2013
 
 \lx atɔ ɔlapʋ
 \ph atɔ́ ɔlapʊ́
@@ -3183,15 +3229,6 @@
 \de intestinal worm
 \dt 28/Jul/2013
 
-\lx atsantsankʋ
-\ph at͡sant͡saŋkʊ
-\ps n
-\ge locust
-\sd TN_
-\de locust
-\cf gbablama
-\dt 24/Aug/2012
-
 \lx atse
 \ph at͡séʔ
 \ps n
@@ -3241,8 +3278,8 @@
 \ps n
 \ge storm
 \sd TN_I.A.2.d
-\de storm
-\dt 29/Sep/2013
+\de strong wind
+\dt 29/Oct/2013
 
 \lx atsuli bibi
 \ph at͡sulîbibi
@@ -3303,16 +3340,17 @@
 \ph at͡sʊ́nlɛ
 \ps ADJ
 \ge passable
-\sd TN_
+\sd TN_I.C.3.d
 \de able to be passed or travelled on
-\cf tsʋn
 \xv Anɩ ndɔtɔ ɔkpa bʋ atsʋnlɛ.
 \xe Our farm path is passable.
 \xv Anɩ ndɔtɔ ɔkpa ma atsʋnlɛ, tsufɛsɛ mʋ́sʋ lɛkpakpawie.
 \xe Our farm path is not easily passable because it has developed potholes.
 \xv Anɩ ndɔtɔ ɔkpasʋ lɛkpakpawie, mʋ́ sʋ ɩma atsʋnlɛ.
 \xe Our farm path has developed potholes so it is not easily passable.
-\dt 16/Dec/2012
+\cf tsʋn
+\ce pass
+\dt 29/Oct/2013
 
 \lx atsʋnɔ
 \ph at͡sʊnɔ́ʔ
@@ -3392,13 +3430,14 @@
 \ph awãwã́ʔ (H)
 \ps n
 \ge dried okra
-\sd TN_
+\sd TN_II.C.3.a
 \de dried okra
 \xv Nyankpʋ tswie brɛ a, bʋtɛkaka ndawuntɔ, fɩta mʋ́ yaɩ, mʋ́ gyi awanwan nɩ. Lɩlɩtɔ a, bawɔ mʋ́ pʋ lɛ oputsu tsufɛ ndawun ma nʋ.
 \xe In the rainy season they chop okra and dry it. This is awanwan. In harmattan they pounded it put it in the soup because okra is not there.
 \rf Tape:1-2-237
 \cf ndawun
-\dt 01/Sep/2012
+\ce okra
+\dt 29/Oct/2013
 
 \lx awɛ
 \ph awɛ
@@ -3424,15 +3463,16 @@
 \ph awiɛɪ́(H)
 \ps n
 \ge end
-\sd TN_
+\sd TN_I.C.4.c
 \de end of a month; of a person, his final state
 \bw Akan fi:
-\cf ɔnɔ mɔ
 \xv Ɔtsra anfɩ awiɛɩ nɔ́yɔ Nkra.
 \xe At the end of this month I will go to Accra.
 \xv Ɔtsra anfɩ mɔ ɔnɔ nɔ́yɔ Nkra.
 \xe At the end of this month I will go to Accra.
-\dt 28/Sep/2013
+\cf ɔnɔ mɔ
+\ce ending
+\dt 29/Oct/2013
 
 \lx awikpan
 \ph awik͡pã
@@ -3509,14 +3549,16 @@
 \ph awʊ́lɛ́ʔ
 \ps n
 \ge net
-\sd TN_
+\sd TN_II.D.3
 \de a weighted fishing net that is put out in the afternoon and brought back in the mornings
 \bw Akan fi:awʋ́lɛ́
-\cf asawu
-\cf ɔdadʋwa
 \xv Awʋlɛ mʋ́ fɔpʋ wa ntsutso a, bʋtamalɛ mʋ́ nʋnʋ.
 \xe This net, you put it into the water, you don't take it out at the same time.
-\dt 15/Sep/2012
+\cf asawu
+\ce throwing fishing net
+\cf ɔdadʋwa
+\ce fishing line with hooks
+\dt 29/Oct/2013
 
 \lx awʋlɩ
 \ph awʊlɪ
@@ -3527,9 +3569,11 @@
 \xv Oyin amʋ awʋlɩ bʋ ɔnlɩn dʋbɩ.
 \xe The skin of the man is too hard.
 \cf ɔwʋlʋ
-\cf ɔyɩlʋ
+\ce skin removed from body
+\cf ɔyʋlʋ
+\ce skin on the body
 \rf SIL-AWL:0002
-\dt 26/Aug/2013
+\dt 29/Oct/2013
 
 \lx ayasɩ
 \ph ayasɪ
@@ -3558,11 +3602,12 @@
 \sd TN_I.C.1.f
 \de praise
 \bw Akan fi:ayɛ LHH
-\cf yi ayɛ
 \xv Nɩ ansɩ dɛ ɔkʋ gyi a, ɔha amʋ ɔpʋ ɩlʋwa yi Bulu ayɛ.
 \xe If someone is happy. That person especially should sing and praise God.
 \rf Tape:8-1-540
-\dt 27/Aug/2013
+\cf yi ayɛ
+\ce praise
+\dt 29/Oct/2013
 
 \lx ayintiase
 \ph ayintiase (H)
@@ -3600,10 +3645,11 @@
 \ph ayó
 \ps n
 \ge millet
-\sd TN_
+\sd TN_II.D.1.c
 \de millet
 \cf atɩkɔ
-\dt 10/Jan/2012
+\ce millet
+\dt 29/Oct/2013
 
 \lx aza
 \ph azáʔ
@@ -3622,27 +3668,29 @@
 \ph ba(L)
 \ps v
 \sn 1
-\ge come (place)
-\sd TN_
+\ge come
+\sd TN_I.C.3.d
 \de to come to a place
 \xv Nɛbla ɔtsɩ amʋ ánɩ́ nɛ́ba, tamɛ mmɛtalɩ yɔ.
 \xe I told the woman that I will (would) come but I wasn't able to go.
 \rf Tape:1-2-286
-\cf ɩbá Eng:arrival (n)
 \xv Mlɩ ɛ, mlɩnya klʋn amlɩkɩ Anɩ Wie ɔkpa. Mʋ ba lawie woyi.
 \xe You(pl) also get your heart (be patient) and you should and watch Our Lord's road (expect him). His coming has reached the house (his return is imminent).
 \xe You also should patiently expect Our Lord. His return is imminent.
 \rf Stewart List:2452
-\xv ba asɩ
-\xe be humble
+\cf ɩba
+\ce arrival
+\se ba asɩ
+\ge humble
+\de to be humble
 \rf Stewart List:2490
 \sn 2
 \ge come (time)
-\sd TN_
+\sd TN_I.C.4.b.ii
 \de to come to a time
 \xv Ɔhagyiɔha mʋ owukɛ bɛ́ba.
 \xe For everybody , the day of their death will come.
-\dt 01/Sep/2012
+\dt 29/Oct/2013
 
 \lx ba
 \hm 2
@@ -3688,16 +3736,11 @@
 \rf Tape:1-2-303
 \xv Bʋtɔpwɛ isín tsia mʋ́tɔ. Bʋtɔkwɛ atɛ.
 \xe They sculpt clay and live in it. They sprout feathers (wings).
-\cf baba
-\cf damantsu
-\cf finfi
-\cf gyawugya
-\cf konya
-\cf ɔkpan
 \cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
 \rf Stewart List:0811
-\dt 28/Jul/2013
+\dt 29/Oct/2013
 
 \lx baflɛ
 \ph baflɛ́ʔ
@@ -4608,19 +4651,18 @@
 \sd TN_II.D.5.c
 \de plantain
 \va brɔdɩ
-\nt There are different kinds of plantain and their names in Nkonya, they are: "apantu" "apɩmba" "ahʋrotia" "ata anyɔ" "oniaba"
 \bw Akan fi:brɔdɩ LH
-\cf apantu
-\cf apɩmba
-\cf ahʋrotia
-\cf ata anyɔ
-\cf oniaba
 \xv Blɔdɩ pɛpɛ tɔhɛ mʋ́a kɩtɩba bwahɛ bʋ agyilɛ.
 \xe Baked (over coals) ripe plantain and dry fried peanuts are good to eat.
 \xe Roast plantain and peanuts are good to eat.
 \rf Tape:1-2-527
 \rf Stewart List:0906
-\dt 28/Jan/2013
+\cf ahʋrotia
+\cf apantu
+\cf apɩmba
+\cf ata anyɔ
+\cf oniaba
+\dt 29/Oct/2013
 
 \lx blɔpʋ
 \ph blɔpʊ́
@@ -5926,16 +5968,12 @@
 \va damantu
 \pl adamantsu
 \ph adamant͡sú
-\cf baba
-\cf finfi
-\cf gyawugya
-\cf konya
-\cf ɔkpan
-\cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
 \xv Adamantsu boputa ɔdɔtɔpʋ ɔkʋ mʋ ndɔtɔ olesi ɔlɩɩ ɔdɛ amʋ́ kpakpa.
 \xe Red ants went all over the body of a certain farmer on his farm and he stood up in order to rub them off.
-\dt 29/Sep/2013
+\cf ɔtɔntrɔbwɩ
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
+\dt 29/Oct/2013
 
 \lx damli
 \ph dámlí
@@ -6750,6 +6788,7 @@
 \xv Aha amʋ bʋdɛtɔɩ dʋbɩ, sʋ mmɛdɛ fʋ asʋn amʋ nu.
 \xe The people are talking too much so I am not hearing you.
 \rf Tape:2-1-402
+\ce paa
 \dt 29/Oct/2013
 
 \lx dʋn
@@ -7361,14 +7400,10 @@
 \lt I have stepped on all the ants in your house, killed them but you were not there.
 \xe Free: I've been to your house over and over again but you were never there.
 \rf Tape:2-1-511
-\cf baba
-\cf damantsu
-\cf gyawugya
-\cf konya
-\cf ɔkpan
 \cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
-\dt 28/Jul/2013
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
+\dt 29/Oct/2013
 
 \lx finifini
 \ph fínífíní
@@ -8129,7 +8164,10 @@
 \sd TN_I.B.3.b
 \de locust
 \cf tsantsankʋ
-\dt 30/Sep/2013
+\ce locust
+\cf ɔkɛkɛ
+\ce grasshopper
+\dt 29/Oct/2013
 
 \lx gbede
 \hm 1
@@ -8480,14 +8518,10 @@
 \xv Agyawugya babʋla asikre daka amʋ.
 \xe The little red ants have filled the sugar box.
 \rf Tape:2-2-217
-\cf baba
-\cf damantsu
-\cf finfi
-\cf konya
-\cf ɔkpan
 \cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
-\dt 29/Sep/2013
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
+\dt 29/Oct/2013
 
 \lx gyawunu
 \ph ʤawunuʔ
@@ -9425,7 +9459,7 @@
 \ps n
 \sn 1
 \ge stone
-\sd TN_
+\sd TN_I.A.3.c
 \de stones; euphemism for money
 \pl abwi
 \ph abwi (H)
@@ -9434,12 +9468,14 @@
 \nt idiom
 \rf Tape:2-2-381
 \rf Stewart List:1024
+\xv Nɩ bɔtswɩ abwi da fʋ a, fépilan
+\xe If the throw a stone at you, it will hurt you.
 \sn 2
 \ge money
 \de slang term for money (plural only)
 \lf Idiom = sika
 \le money
-\dt 24/Dec/2012
+\dt 29/Oct/2013
 
 \lx ibwi alatɔ
 \ph ibwi alatɔ(H)
@@ -10341,7 +10377,9 @@
 \xv Mlɩ ɛ, mlɩnya klʋn amlɩkɩ anɩ Wie ɔkpa. Mʋ ɩbá lawie woyi.
 \xe You(pl) also get your heart (be patient) and you should and watch Our Lord's road (expect him). His coming has reached the house (his return is imminent).
 \xe You also should patiently expect Our Lord. His return is imminent.
-\dt 24/Dec/2012
+\cf ba
+\ce come
+\dt 29/Oct/2013
 
 \lx ɩban
 \ph ɪbã (H)
@@ -12096,13 +12134,13 @@
 \ph káʔ
 \ps vi
 \ge lay egg
-\sd TN_
+\sd TN_I.B.2.a
 \de to lay an egg
 \xv Abatɛ amʋ fɛ́ɛ́ bɛ́ka tsɔtsɔɔtsɔ.
 \xe All of the chickens will lay plenty of eggs.
 \rf Tape:3-1-282
 \rf Stewart List:2209
-\dt
+\dt 29/Oct/2013
 
 \lx ka
 \hm 3
@@ -12134,9 +12172,9 @@
 \ph ka anim
 \ps v
 \ge rebuke
-\sd TN_
+\sd TN_II.B.2
 \de to rebuke s.o. for s.t.
-\dt
+\dt 29/Oct/2013
 
 \lx ka hʋn
 \ph ka hʊ̃
@@ -12471,9 +12509,11 @@
 \xv Afɔɔ amʋ ba ba sʋ yo tsu nkantankua ba abʋ tsia mʋ́ sʋ.
 \xe The strangers have come so go bring chairs so that they should sit on them.
 \rf Tape:3-1-422
-\nt From ths: things to sit on obia (stool), asɩsɩgua (carved stool) , kantankua (chair with straight back), akpasa (reclining chair)
+\cf obia
+\ce stool
+\nt see obia entry for other kinds of stools / chairs
 \rf Stewart List:1180
-\dt 27/Aug/2013
+\dt 29/Oct/2013
 
 \lx kantɩ
 \ph kantɪ
@@ -12784,7 +12824,7 @@
 \ph kɛ̃́(H)
 \ps ADV
 \ge indeed
-\sd TN_
+\sd TN_II.B.2
 \de indeed; for sure
 \xv Ɩlehian ánɩ́ abówun Igna kɛn.
 \xe Without a doubt, it is necessary we see Igna.
@@ -12792,7 +12832,7 @@
 \xv Ndɛ mʋ́ ɔkpa kɩ ánɩ́ bɛ́ba kɛn.
 \xe By all means, I am expecting it. I am certain it will happen.
 \rf Tape:3-1-479
-\dt
+\dt 29/Oct/2013
 
 \lx kɛn
 \hm 3
@@ -13140,12 +13180,12 @@
 \ph kɪ sʊ
 \ps vt
 \ge care for
-\sd TN_
+\sd TN_I.C.6.d
 \de to care for s.t.
 \xv Bɛlɛ owie pɔpwɛ amʋ obitɛpʋ odua ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
 \rf Tape:3-1-580
-\dt
+\dt 29/Oct/2013
 
 \lx kɩaɩ
 \ph kɪaɪʔ
@@ -13936,14 +13976,12 @@ cf fonflo
 \xv Bʋtamalɩɩ akonyatɔ tsii akonya.
 \xe They don't stand in driver ants and pick them off.
 \rf Tape:4-1-286
-\cf baba
-\cf damantsu
-\cf finfi
-\cf gyawugya
-\cf ɔkpan
+\xv Akonya amʋ babla ndɔ amʋtɔ, sʋ ɔha mɛ́ɛtalɩ yɔ agyuma ɩnʋ.
+\xe The soldier ants have invaded the farm so no one can work on the farm there.
 \cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
-\dt 28/Jul/2013
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
+\dt 29/Oct/2013
 
 \lx kooko
 \ph kóːkó
@@ -14091,14 +14129,10 @@ cf fonflo
 \de ant that scurries around, are attracted to the sweet palm and gather when it is tapped
 \pl akɔklɔ
 \ph akɔklɔ
-\cf baba
-\cf damantsu
-\cf finfi
-\cf gyawugya
-\cf konya
-\cf ɔkpan
 \cf ɔtɔntrɔbwɩ
-\dt 29/Sep/2013
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
+\dt 29/Oct/2013
 
 \lx kɔnkɩ
 \ph kɔŋkɪ́
@@ -17300,6 +17334,13 @@ cf fonflo
 \rf Tape:4-1-570
 \dt 11/Sep/2012
 
+\lx ma bu
+\ps v
+\ge disrespect
+\sd TN_II.B.3
+\de to disrepect s. o.
+\dt 29/Oct/2013
+
 \lx ma nɩ mɩ nɩ
 \ph manɪmɪ́nɪ́
 \ps TIME
@@ -18108,14 +18149,14 @@ cf fonflo
 \ph mɔ ɔnɔ́ʔ (H)
 \ps v
 \ge finish
-\sd TN_
+\sd TN_I.C.4.c
 \de to finish something
 \lt kill mouth
 \se ɔnɔ ɔmɔkpa
 \ge ending
-\sd TN_
+\sd TN_I.C.4.c
 \de the ending of something
-\dt 01/Sep/2012
+\dt 29/Oct/2013
 
 \lx mɔkʋ
 \ph mɔkʊ́ʔ
@@ -18219,7 +18260,7 @@ cf fonflo
 \ps n
 \ge yam slice
 \sd TN_
-\de sliced yam
+\de sliced yam or plantain
 \bw Akan fi:ampesie
 \pl ampesie
 \ph ampesie
@@ -18229,7 +18270,7 @@ cf fonflo
 \xv Igyo ampesie mʋa kontomere aboun bʋ ɔdwɛ.
 \xe Yam slice with kontomere stew is sweet.
 \cf bɔ
-\dt 28/Oct/2013
+\dt 29/Oct/2013
 
 \lx mpɛsɛ
 \ph mpɛsɛ
@@ -18828,7 +18869,7 @@ cf fonflo
 \ph ndawṹ
 \ps n
 \ge okra
-\sd TN_
+\sd TN_II.C.3.a
 \de okra
 \xv Mbɔdɩ pʋ́ ndawun oputsu bʋ agyilɛ.
 \xe Porridge with okra soup is easy to eat.
@@ -18837,8 +18878,9 @@ cf fonflo
 \xe The okra has stickiness.
 \rf Tape:4-2-573
 \cf awanwan
+\ce dried okra
 \rf Stewart List:0915
-\dt 05/Jul/2012
+\dt 29/Oct/2013
 
 \lx ndɛ
 \ph ndɛ
@@ -19355,13 +19397,14 @@ cf fonflo
 \ph ŋklobítɔ́ʔ
 \ps ADV
 \ge mutter
-\sd TN_
+\sd TN_II.B.2.b.i
 \de say under your breath, not intended for others to hear
 \xv Kebi amʋ dɛtɔɩ nklobitɔ
 \xe The child is talking to himself under his breath.
 \rf Tape:5-1-217
 \cf agyɩna
-\dt 15/Sep/2012
+\ce whisper
+\dt 29/Oct/2013
 
 \lx nkonto
 \ph ŋkõnto
@@ -19527,6 +19570,12 @@ cf fonflo
 \xv Owisʋ ɩkɩta fu a, nkrawa bʋalɛ ha fʋ
 \xe If you have fever, light soup is very good for you
 \dt 14/May/2012
+
+\lx nkudasɩfɔ
+\ps n
+\ge farm people
+\de people living on their farms
+\dt 29/Oct/2013
 
 \lx nkʋlɛ
 \ph ŋkʊlɛ
@@ -21125,29 +21174,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe It is good that everybody will have one child before their death.
 \rf Tape:1-2-406
 \rf Stewart List:0308
-\dt 26/Aug/2013
+\dt 29/Oct/2013
 
 \lx obia
 \hm 1
-\ph obia(H)
-\ps n
-\ge torch
-\sd TN_
-\de torch
-\pl mbia
-\ph mbia(H)
-\xv Bʋtɔpʋ obia fwi ɩbɛ́.
-\xe They use a torch to fire a palm tree.
-\rf Tape:6-2-291
-\xv Butofwi ɩbɛ, mɛnɩ nta amʋ bɛ́paɩ.
-\xe They smoke palm trees so that the wine will ferment.
-\xv Nɩ fɔ́bwɛ obia a, fɔ́bɔbɔɩ awaimbi putuputi, lɛ mʋ́tɔ gyo tsitsa, fɩta mʋ́ fɛ nkɛnsa. Ɩwʋlɩ a, fakpa mʋ́ pʋ́ ɔblakwɛ klɩ mʋ́ alɩ ánɩ́ bowie ɔbɛkpʋn amʋtɔ, fówun fapʋsʋta ogya. Ɩtsankɩ a, fapʋ yofwi ɩbɛ.
-\xe If you want to make a torch, you split the central stalk of a palm branch into small pieces, removing and throwing away the core(which is soft). Then you dry the small pieces for three days (or so). When they are dry you gather them and tie them with the new leaves of a palm tree so that they go into the hole in the felled palm tree. You put one end of it in the fire to catch fire and then you put it into the hole to smoke the tree (so that the wine ferments. )
-\rf Stewart List:1267
-\dt 11/Sep/2012
-
-\lx obia
-\hm 2
 \ph obíáʔ(H)
 \ps n
 \ge stool
@@ -21165,9 +21195,33 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-2-286
 \xv Fɛtɩ ɔha da a, fatsu obia yaɩ mʋ́.
 \xe If you should call someone's name you have brought a chair and put it down for him.
-\nt From ths: things to sit on; obia (stool), asesegua (carved stool) , kantankua (chair with straight back), akpasa (reclining chair)
+\cf akpasa
+\ce reclining chair
+\cf asesegua
+\ce carved stool
+\cf kantankua
+\ce straight backed chair
 \rf Stewart List:1179
-\dt 05/Jul/2012
+\dt 29/Oct/2013
+
+\lx obia
+\hm 2
+\ph obia(H)
+\ps n
+\ge torch
+\sd TN_
+\de torch
+\pl mbia
+\ph mbia(H)
+\xv Bʋtɔpʋ obia fwi ɩbɛ́.
+\xe They use a torch to fire a palm tree.
+\rf Tape:6-2-291
+\xv Butofwi ɩbɛ, mɛnɩ nta amʋ bɛ́paɩ.
+\xe They smoke palm trees so that the wine will ferment.
+\xv Nɩ fɔ́bwɛ obia a, fɔ́bɔbɔɩ awaimbi putuputi, lɛ mʋ́tɔ gyo tsitsa, fɩta mʋ́ fɛ nkɛnsa. Ɩwʋlɩ a, fakpa mʋ́ pʋ́ ɔblakwɛ klɩ mʋ́ alɩ ánɩ́ bowie ɔbɛkpʋn amʋtɔ, fówun fapʋsʋta ogya. Ɩtsankɩ a, fapʋ yofwi ɩbɛ.
+\xe If you want to make a torch, you split the central stalk of a palm branch into small pieces, removing and throwing away the core(which is soft). Then you dry the small pieces for three days (or so). When they are dry you gather them and tie them with the new leaves of a palm tree so that they go into the hole in the felled palm tree. You put one end of it in the fire to catch fire and then you put it into the hole to smoke the tree (so that the wine ferments. )
+\rf Stewart List:1267
+\dt 29/Oct/2013
 
 \lx obian
 \ph obíã́ʔ
@@ -22897,11 +22951,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_II.D.5.c
 \de A variety of plantain. Oniaba is similar to apɩmba, but has no black seeds in the finger. It is good for ampesie.
 \cf blɔdɩ
-\cf ahʋrotia
-\cf apantu
-\cf apɩmba
-\cf ata anyɔ
-\dt 28/Jan/2013
+\ce plantain (generic)
+\nt see blɔdɩ entry for other kinds of plantain
+\dt 29/Oct/2013
 
 \lx onopi
 \ph onopiʔ
@@ -23599,15 +23651,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge ant
 \sd TN_I.B.3.b
 \de ant with a very bad smell
-\cf ɔkpan
-\cf baba
-\cf damantsu
-\cf finfi
-\cf gyawugya
-\cf konya
 \cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
-\dt 30/Sep/2013
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
+\dt 29/Oct/2013
 
 \lx otonklo
 \ph otóŋkló
@@ -24073,6 +24120,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de fruit
 \pl oyí abí
 \dt 18/Jul/2005
+
+\lx oyi ɔma
+\ph oyi ɔma
+\ps n
+\ge bark
+\cf agya fwɩ
+\dt 29/Oct/2013
 
 \lx oyi yiahɛ
 \ph oyiːyahɛ
@@ -24779,19 +24833,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdadʋwa
 \ph ɔdadʊwa(H)
 \ps n
-\ge fishhook
-\sd TN_
-\de fish hook
+\ge fish hook
+\sd TN_II.D.3
+\de fishing line with hooks
 \pl ndadʋwa
 \ph ndadʊwa
 \nt ndadʋwa is also a multihooked, baited, weighted fishing line that is laid from a boat into deep water to catch large fish.
-\cf asawu
-\cf awʋlɛ
 \xv Fɔpʋ ɔtsabi yi ɔdadʋwa ɔnɔ a, fɛ́lɛ iyie yile.
 \xe If you bait a hook with a small fish you will catch a big fish.
 \xv Fɔpʋ ndadʋwa sian ɔfɛsʋ a, fówun fapʋ ɔtsabi yi mʋ́ ɔnɔ pʋ wa ntsutso. Fanatɩ ɔyɩkɛhɛ fayɛlɛ mʋ́. Mʋ́ bʋtɔpʋ lɛ akuabi aná nɩ.
-\xe When you hang hooks on a line then you bait them with small fish and put them in the water, so that you will go out in the morning and remove it. They use it to catch akuabi and other large fish.
-\dt 16/Jul/2012
+\xe When you hang hooks on a line then you bait them with small fish and put them in the water, so that you will go out in the morning and remove it. They use it to catch akuabi and other large fish..
+\cf asawu
+\ce throwing fishing net
+\cf awʋlɛ
+\ce weighted fishing net
+\dt 29/Oct/2013
 
 \lx ɔdaɩ
 \ph ɔdáɪ
@@ -25047,6 +25103,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de royal
 \bw Akan fi:ɔdɩhɩɛ
 \dt 14/Aug/2013
+
+\lx ɔdɔbʋtsa
+\ph ɔdɔbʋt͡saʔ(H)
+\ps n
+\ge boundary
+\de boundary between farming areas
+\dt 29/Oct/2013
 
 \lx ɔdɔm
 \ph ɔdɔm
@@ -25637,11 +25700,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de small grasshopper
 \pl nkɛkɛ
 \ph ŋkɛkɛ́
-\cf gbablama
 \xv Ɔkɛkɛ amʋ gyon buntisʋ, batɛ lofuli ánɩ́ ɔbɔ́tswɛ mʋ alɩ a, olotu si mʋ.
 \xe The grasshopper was perched on the wall, a chicken flew in order to catch him so, he took off and left him.
 \rf Tape:5-2-424
-\dt 28/Jul/2013
+\cf gbablama
+\ce locust
+\dt 29/Oct/2013
 
 \lx ɔkɛkɛɛkɛ
 \ph ɔkɛkɛːkɛ
@@ -25997,14 +26061,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-527
 \xv Bebi tuun, bʋtetsia ɔbɔtɔ, bʋtɛkɩta ababa. Bomoni, bʋtobon, bʋtɔsʋra. Nɩ bɔsʋra a, ɩtɔhɔ ɔsɩn dʋn atrahɛ fɛ́ɛ́.
 \xe They are pure black, they live in a hole and they catch termites. They are big, they stink, and they sting. When they sting, it is painful than the rest.
-\cf baba
-\cf damantsu
-\cf finfi
-\cf gyawugya
-\cf konya
 \cf ɔtɔntrɔbwɩ
-\cf kɔklɔ
-\dt 29/Sep/2013
+\ce ant
+\nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
+\dt 29/Oct/2013
 
 \lx ɔkpankpa
 \ph ɔk͡pãŋ͡mk͡pá
@@ -26639,14 +26699,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe When did you come here?
 \rf Tape:6-1-118
 \xv Ɔmɛnkɛ abɔ́yɔ?
-\xe When shall we go?
+\xe When (what day) shall we go?
 \xv Ɔmɛnkɛ nɩ?
-\xe When was that?
+\xe When (what day) was that?
 \xv Ɔmɛnkɛ gyi obiakɛ?.
 \xe When will be the market day?
 \rf Stewart List:1602
 \cf brɛ mɔmʋ
-\dt 28/Dec/2012
+\ce what time
+\cf dɔ fɩnɩtɔ
+\ce what hour
+\dt 29/Oct/2013
 
 \lx ɔmɛsɩ
 \ph ɔmɛsɪ(H)
@@ -28118,29 +28181,40 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtɔntrɔbwɩ
 \ph ɔtɔntrɔbwɪ(H)
 \ps n
-\ge ants
+\ge ant
 \sd TN_I.B.3.b
-\de small, black, non-biting ants
+\de small, black, non-biting ant
 \pl ntɔntrɔbwɩ
 \ph ntɔntrɔbwɪ(H)
 \xv Ntɔntrɔbwɩ bʋ gyi mbwɩ ánɩ́ bʋtamadun, mboun bʋtoputa aha.
 \xe Ntɔntrɔbwɩ are insects that don't bite but crawl all over people.
 \xv Fenya ɩklʋn bio ɔtɔntrɔbwɩ a, fʋtowun mʋ mpuni.
-\xe If you patiently dissect an ant you always see its stomach.
+\xe If you patiently dissect an ant you see its stomach.
 \rf Tape:5-1-383
+\cf anyɩnapɛpɛ
+\ce tiny red ant
 \cf baba
+\ce termite
 \cf damantsu
+\ce tree dwelling ant
 \cf finfi
+\ce small black biting ant
 \cf gyawugya
+\ce tiny red ant
 \cf konya
-\cf ɔkpan
+\ce driver ant
 \cf kɔklɔ
+\ce red non-biting ant
+\cf otobon
+\ce stinking ant
+\cf ɔkpan
+\ce big black stinging ant
 \se ɔtɔntrɔbwɩ nsibi
 \ge smallest part
 \sd TN_I.C.3.a
 \de the smallest morsel imaginable
 \lt ant's eye
-\dt 29/Aug/2013
+\dt 29/Oct/2013
 
 \lx ɔtɔtɔ
 \ph ɔtɔ́tɔ́
@@ -28648,40 +28722,42 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge skin
-\sd TN_
+\sd TN_II.A.1.h
 \de skin
 \xv Ɔyɩtɔ gyi fɛ ologyo (ɔkɔnfɔbowuo) ɔwʋlʋ, ɩtɛtsɛ.
 \xe The world is like chameleon's skin it always changes.
 \nt proverb
 \rf Tape:6-2-002
+\cf ɔyɩlʋ
 \sn 2
 \ge book
-\sd TN_
+\sd TN_II.B.6.b; II.B.6.c; II.E.3.c
 \de paper; book; letter
 \pl nwʋlʋ
 \ph nwʊlʊ́ʔ
 \xv Anɩdɛ ɔwʋlʋ wanlɩn.
 \xe We are writing a letter (or book).
 \rf Tape:6-2-013
-\cf ɔwʋlʋkpakpa 
+\cf ɔwʋlʋ kpakpa 
 \xv Otsibi anfɩ yin ɔwʋlʋ wanklaan.
 \xe This girl is very clever.
-\xe This girl knows book.
-\cf ɔyɩlʋ
+\xe This girl knows books.
 \rf Stewart List:0029
 \rf Stewart List:1176
-\dt 11/Sep/2012
+\cf ɔyʋlʋ
+\ce skin on the body
+\dt 29/Oct/2013
 
-\lx ɔwʋlʋkpakpa
-\ph ɔwʊlʊk͡pak͡pa
+\lx ɔwʋlʋ kpakpa
+\ph ɔwʊlʊ k͡pak͡pa
 \ps n
 \ge dry skin
 \sd TN_
 \de dried skin; leather
-\xv Anɩtɔpʋ ɔwʋlʋkpakpa sun akwɛ.
+\xv Anɩtɔpʋ ɔwʋlʋ kpakpa sun akwɛ.
 \xe We put dried skins stretch them on top of the drums.
 \rf Tape:6-2-019
-\dt 23/Aug/2012
+\dt 29/Oct/2013
 
 \lx ɔwʋnlɩn
 \ph ɔwʊ̃nlɪ́ʔ
@@ -28830,17 +28906,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge skin
 \sd TN_II.A.1.h
-\de skin
+\de skin on the body
 \xv Abibifɔ ɔyʋlʋ lebi, abrɔfɔ klɛ ɛ lofuli.
 \xe Black people's skin is black, white man's is white.
 \rf Tape:6-2-074
 \rf Stewart List:0006
 \rf SIL-AWL:0001
+\cf ɔwʋlʋ
+\ce skin by itself
 \sn 2
 \ge body
 \sd TN_II.A.1.a
 \de body
-\dt 26/Aug/2013
+\dt 29/Oct/2013
 
 \lx paa
 \ph páː
@@ -30708,13 +30786,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph sĩɛ̃
 \ps v
 \ge marry
-\sd TN_
+\sd TN_II.E.1.c
 \de to perform marriage customs
-\cf asientɔ
+\cf asiɛntɔ
 \nt tsia is to live with a woman; sien is to perform the marriage custom
 \xv Fʋ ma ɔkpa tɩ ɔtsɩ ánɩ́ fʋ mɔkʋ sien mʋ fɛɛ fʋ ka.
 \xe You have no right to call a woman you have not perform the marriage rites as your wife.
-\dt 17/Sep/2012
+\dt 29/Oct/2013
 
 \lx sika
 \ph sika
@@ -31339,7 +31417,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge show
-\sd TN_
+\sd TN_II.B.1
 \de to show someone something
 \rf Stewart List:3265
 \xv suna ɔkpa
@@ -31349,11 +31427,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se lɛ suna
 \ph lɛ́ súná
 \ge reveal
-\sd TN_
+\sd TN_II.B.1
 \de to reveal something to someone
 \sn 2
 \ge teach
-\sd TN_
+\sd TN_II.B.1
 \de to teach someone something
 \xv Alasuna mɩ nyansa. Nɛpan mʋ sika. Ɩlɔfʋn mbrɛ a, ɔbɛ́ka kɔ a, ɔbɛɛ ɔma.
 \xe He has taught me sense. I gave him money. When it came time to pay it he said he didn't have it.
@@ -31361,10 +31439,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Atɔ osunapʋ anfɩ yin atɔ suna wanklaan.
 \xe This teacher knows how to teach well.
 \cf osunapʋ/ asunapo Eng:teacher/teachers
-\cf atosunahɛ Eng:teachings
+\cf atosunahɛ
+\ce teachings
 \rf Stewart List:3111
 \rf Stewart List:3228
-\dt 16/Jul/2012
+\dt 29/Oct/2013
 
 \lx sunki
 \ph suŋkí
@@ -32812,7 +32891,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph tɔ́ɪ́ k͡plá(H)
 \ps v
 \ge advise
-\sd TN_
+\sd TN_II.B.1
 \de to advise someone
 \xv Tɔɩ kpla mʋ osi mʋ lakpan amʋ bwɛ.
 \xe Advise him that he should stop his evil doings.
@@ -32823,7 +32902,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Advise him that he shouldn't mind him but forgive him.
 \rf Tape:3-2-575
 \rf Stewart List:2884
-\dt
+\dt 29/Oct/2013
 
 \lx tɔkʋ
 \ph tɔkʊ
@@ -33261,8 +33340,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge locust
 \sd TN_I.B.3.c
 \de locust
+\pl atsantsankʋ
+\ph at͡sant͡saŋkʊ
 \cf gbablama
-\dt 30/Sep/2013
+\dt 29/Oct/2013
+
 
 \lx tsantsraku
 \ph t͡sant͡sraku
@@ -36087,7 +36169,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge good
-\sd TN_
+\sd TN_II.B.5.a
 \de good
 \pl ayile
 \ph ayilé
@@ -36098,6 +36180,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Only good should be ours.
 \rf Tape:8-1-581
 \cf alɛ
+\ce good
 \xv Fɔbwɛ yile a, fénya mʋ́sʋ mfasʋ tsɔtsɔɔtsɔ.
 \xe If you do good a , you will get a big profit from it. .
 \nt proverb
@@ -36117,7 +36200,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge good person
 \sd TN_
 \de a good person
-\dt 10/Jan/2012
+\dt 29/Oct/2013
 
 \lx yin
 \hm 1
