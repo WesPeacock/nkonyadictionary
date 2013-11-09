@@ -30,6 +30,11 @@
 \mkrOverThis wd
 \-mkr
 
+\+mkr id
+\lng English
+\mkrOverThis wd
+\-mkr
+
 \+mkr is
 \nam Index of Semantics
 \lng ThesClass

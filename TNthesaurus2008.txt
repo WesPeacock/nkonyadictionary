@@ -1,4 +1,4 @@
-\_sh v3.0  400  ThesAlf
+\_sh v3.0  745  ThesAlf
 
 \wd aardvark
 \thes aardvark
@@ -134,6 +134,11 @@ absent-mindedness
 \wd accustomed to sth., to be
 \thes accustomed to sth., to be
 \is II.B.1.b
+
+\wd acha grass, fonio, 'hungry-grass/rice'
+\thes acha grass, fonio, 'hungry-grass/rice'
+\is II.D.4.b
+\td 11/Jul/2013
 
 \wd aches (it does)
 \thes aches (it does)
@@ -656,6 +661,12 @@ absent-mindedness
 \thes antelope
 \is I.B.1.b
 
+\wd anthrax
+\thes anthrax
+\is II.D.2.c
+\is
+\td 24/Aug/2013
+
 \wd ant-lion
 \thes ant-lion
 \is I.B.3.c
@@ -692,6 +703,12 @@ absent-mindedness
 \is II.C.1
 \is II.D.6.h
 \td 29/Sep/2008
+
+\wd aphrodisiac
+\thes aphrodisiac
+\is II.A.2.f
+\is II.A.6.d
+\td 02/Oct/2013
 
 \wd apology
 \thes apology
@@ -930,6 +947,11 @@ absent-mindedness
 \is II.A.6.b
 \td 24/Jul/2010
 
+\wd astringent
+\thes astringent
+\is I.C.6.g
+\td 07/Feb/2013
+
 \wd astrologer/astronomer
 \thes astrologer/astronomer
 \is I.A.1
@@ -974,6 +996,16 @@ absent-mindedness
 \thes attention, pay ~
 \is II.B.1
 \td 26/Aug/2009
+
+\wd attractive
+\thes attractive
+\is II.B.5.a.i
+\td 28/Jun/2013
+
+\wd auction
+\thes auction
+\is II.D.5.b
+\td 20/May/2013
 
 \wd audible, be
 \thes audible, be
@@ -1031,6 +1063,11 @@ absent-mindedness
 \thes awkwardly, the wrong way
 \is I.C.6.d
 \td 16/Aug/2012
+
+\wd awl, marlinspike (tool for stripping corn)
+\thes awl, marlinspike (tool for stripping corn)
+\is II.D.1.g
+\td 12/Sep/2013
 
 \wd axe (splitting-) _see_ wedge
 \thes axe (splitting-) _see_ wedge
@@ -1093,6 +1130,12 @@ absent-mindedness
 \is II.B.5.b.i
 \is II.E.1.a
 \td 13/May/2008
+
+\wd bad person
+\thes bad person
+\is II.B.5.b.i
+\is II.E.1.e
+\td 12/Sep/2013
 
 \wd bad (behaviour)
 \thes bad (behaviour)
@@ -1395,6 +1438,11 @@ absent-mindedness
 \wd beans
 \thes beans
 \is II.D.1.d
+
+\wd beans (other)
+\thes beans (other)
+\is II.D.1.d
+\td 13/Jul/2013
 
 \wd beans, red
 \thes beans, red
@@ -1718,7 +1766,9 @@ absent-mindedness
 
 \wd beware
 \thes beware
+\is II.B.2.b.i
 \is II.B.3
+\td 05/Aug/2013
 
 \wd Bible
 \thes Bible
@@ -1797,6 +1847,11 @@ absent-mindedness
 \is I.B.1.c
 \is II.D.2.c
 \td 03/Dec/2008
+
+\wd birthmark
+\thes birthmark
+\is II.A.1.h
+\td 03/Oct/2013
 
 \wd birth-pains, -pangs [_see also_ travail]
 \thes birth-pains, -pangs [_see also_ travail]
@@ -1942,6 +1997,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes blind
 \is II.A.6.c
 
+\wd blindness
+\thes blindness
+\is II.A.6.c
+\td 12/Sep/2013
+
 \wd blind-person
 \thes blind-person
 \is II.A.6.c
@@ -1982,6 +2042,21 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes blood-letting, cupping
 \is II.A.6.d.i
 \td 09/Dec/2008
+
+\wd bloodstained
+\thes bloodstained
+\is II.A.4.d
+\td 09/Oct/2013
+
+\wd bloodvessel, vein
+\thes bloodvessel, vein
+\is II.A.1.h
+\td 17/Apr/2013
+
+\wd blood, to stain/smear with blood
+\thes blood, to stain/smear with blood
+\is II.A.4.d
+\td 09/Oct/2013
 
 \wd blotched
 \thes blotched
@@ -2039,7 +2114,10 @@ III [Legon : University of Ghana Linguistics Department] pp.
 
 \wd bobbin
 \thes bobbin
+\is II.D.6.a
 \is II.D.6.b
+\is II.D.4.a
+\td 08/Jul/2013
 
 \wd bodice
 \thes bodice
@@ -2189,8 +2267,9 @@ III [Legon : University of Ghana Linguistics Department] pp.
 
 \wd bother sb., to
 \thes bother sb., to
+\is II.B.5.b.ii
 \is II.E.4.b`
-\td 03/Nov/2008
+\td 10/Jul/2013
 
 \wd bothered, concerned, puzzled, worried, to be ~
 \thes bothered, concerned, puzzled, worried, to be ~
@@ -2530,6 +2609,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes bridge
 \is II.D.7.e
 
+\wd bridge of the nose
+\thes bridge of the nose
+\is II.A.1.b
+\td 03/May/2013
+
 \wd bridge (to ~ a gap)
 \thes bridge (to ~ a gap)
 \is II.A.4.c
@@ -2609,6 +2693,20 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.B.6.c
 \is II.E.4.a
 \td 25/Apr/2008
+
+\wd brown
+\thes brown
+\is I.C.6.a
+\bb Naden, Tony 2005. Three cheers for the red, white and black. fu:in
+Dakubu/Osam [eds.] Studies in the Languages of the Volta Basin
+III [Legon : University of Ghana Linguistics Department] pp. 
+173-192
+\td 20/May/2013
+
+\wd brow-ridge, bone under the eyebrow
+\thes brow-ridge, bone under the eyebrow
+\is II.A.1.b
+\td 12/Sep/2013
 
 \wd bruise
 \thes bruise
@@ -2706,6 +2804,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes burial
 \is II.E.5.b
 \td 15/Oct/2004
+
+\wd burn an offering (incense ...)
+\thes burn an offering (incense ...)
+\is II.B.6
+\td 07/Aug/2013
 
 \wd burned (food); spoiled (food)
 \thes burned (food); spoiled (food)
@@ -2889,9 +2992,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.C.6
 \td 16/Oct/2004
 
-\wd calabash
-\thes calabash
-\is II.C.2.a
+\wd cairn, pile/heap of stones
+\thes cairn, pile/heap of stones
+\is II.A.4.c
+\is II.D.1
+\td 08/Jul/2013
 
 \wd calabash types
 \thes calabash types
@@ -2908,6 +3013,13 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.C.1
 \is II.D.1.e
 \td 25/Apr/2008
+
+\wd calabash-shard, broken piece of calabash
+\thes calabash-shard, broken piece of calabash
+\is II.C.2.a
+\is II.C.2.e
+\is II.C.2.f
+\td 22/Oct/2013
 
 \wd calabash-tree
 \thes calabash-tree
@@ -2991,6 +3103,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes cane-rat _see_ 'cutting-grass'
 \is X-ref.
 
+\wd canine (tooth)
+\thes canine (tooth)
+\is II.A.1.b
+\td 02/Oct/2013
+
 \wd canopy, tent
 \thes canopy, tent
 \is II.C.1
@@ -3020,6 +3137,12 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.C.1.a
 \is II.E.3.a
 \td 09/Dec/2008
+
+\wd capital (trading-)
+\thes capital (trading-)
+\is II.D.5.a.ii
+\is II.D.8
+\td 13/Jul/2013
 
 \wd capon, castrated fowl
 \thes capon, castrated fowl
@@ -3179,8 +3302,8 @@ III [Legon : University of Ghana Linguistics Department] pp.
 
 \wd catch a disease
 \thes catch a disease
-\is II.A.6.a
-\td 09/Jul/2008
+\is II.A.6.b
+\td 25/Jun/2013
 
 \wd catch fire, to
 \thes catch fire, to
@@ -3299,12 +3422,16 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \wd chair
 \thes chair
 \is II.C.2.d
-\td 27/Aug/2013
 
 \wd chalk
 \thes chalk
 \is II.E.3.c
 \is II.E.3
+
+\wd challenge, to ~
+\thes challenge, to ~
+\is II.E.4.c
+\td 07/Feb/2013
 
 \wd chamberpot
 \thes chamberpot
@@ -3372,6 +3499,12 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.C.2.b
 \is II.D.4
 \td 06/Jun/2011
+
+\wd charcoal-burning techniques/equipment:
+\thes charcoal-burning techniques/equipment:
+\is II.C.2.b
+\is II.D.4
+\td 21/May/2013
 
 \wd charge sb., make them pay
 \thes charge sb., make them pay
@@ -3466,6 +3599,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.E.2.a
 \td 30/Aug/2008
 
+\wd chief's wife/wives (titles)
+\thes chief's wife/wives (titles)
+\is II.E.2.b
+\td 20/May/2013
+
 \wd chiefship
 \thes chiefship
 \is II.E.2.a
@@ -3480,6 +3618,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes child of, offspring
 \is II.E.1.c
 \td 09/Jun/2008
+
+\wd child with junior sibling
+\thes child with junior sibling
+\is II.E.1.c.i
+\td 25/Sep/2013
 
 \wd child (young)
 \thes child (young)
@@ -3646,6 +3789,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \wd civet
 \thes civet
 \is I.B.1.b
+
+\wd civil servant, government official
+\thes civil servant, government official
+\is II.E.3.a
+\td 18/Apr/2013
 
 \wd clan
 \thes clan
@@ -4011,6 +4159,16 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.E.3.a
 \td 26/Oct/2004
 
+\wd collector (or market dues, &c.)
+\thes collector (or market dues, &c.)
+\is II.D.5.b
+\td 25/Jun/2013
+
+\wd college
+\thes college
+\is II.E.3.c
+\td 25/Jun/2013
+
 \wd colour
 \thes colour
 \is I.C.6.a
@@ -4063,6 +4221,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \wd communication
 \thes communication
 \is II.B.2
+
+\wd compact, close together
+\thes compact, close together
+\is I.C.3.c
+\td 21/May/2013
 
 \wd companion
 \thes companion
@@ -4172,6 +4335,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.E.2
 \is II.E.3.b
 \td 13/Dec/2008
+
+\wd conductor (of vehicle)
+\thes conductor (of vehicle)
+\is II.D.7.c
+\td 25/Jun/2013
 
 \wd confident
 \thes confident
@@ -4410,6 +4578,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.E.3.b
 \td 19/Jul/2008
 
+\wd cosmetics, make-up (types):
+\thes cosmetics, make-up (types):
+\is II.C.4.d
+\td 12/Sep/2013
+
 \wd cosmetics, make-up, to apply ~
 \thes cosmetics, make-up, to apply ~
 \is II.C.4.d
@@ -4428,6 +4601,21 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes cotton-container
 \is II.D.1.f
 \td 27/Jul/2009
+
+\wd cotton-reel [Br.] _see_ bobbin
+\thes
+\is X-ref
+\td 08/Jul/2013
+
+\wd cotton-wool, 'cotton' [Am.]
+\thes cotton-wool, 'cotton' [Am.]
+\is II.A.6.d
+\td 17/May/2013
+
+\wd cotton-working tools:
+\thes cotton-working tools:
+\is II.D.6.a
+\td 17/May/2013
 
 \wd cough (action)
 \thes cough (action)
@@ -4453,8 +4641,9 @@ III [Legon : University of Ghana Linguistics Department] pp.
 
 \wd council
 \thes council
-\is II.E.3.a
 \is II.E.3
+\is II.E.3.a
+\td 13/Jul/2013
 
 \wd counsellor, advisor
 \thes counsellor, advisor
@@ -4520,6 +4709,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \wd cover-cloth
 \thes cover-cloth
 \is II.C.4.b
+
+\wd cover-cloth, to wear ~
+\thes cover-cloth, to wear ~
+\is II.C.4.a
+\td 18/Apr/2013
 
 \wd cover, be all over sth.
 \thes cover, be all over sth.
@@ -4792,6 +4986,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is X-ref
 \td 31/Mar/2012
 
+\wd cultivated land, farmed area
+\thes cultivated land, farmed area
+\is II.D.1
+\td 09/Oct/2013
+
 \wd cunning, craftiness, perverted ingenuity
 \thes cunning, craftiness, perverted ingenuity
 \is II.B.5.b.i
@@ -4864,6 +5063,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.C.5
 \td 25/May/2011
 
+\wd cut with the hand
+\thes cut with the hand
+\is II.A.4.f.iii
+\td 23/May/2013
+
 \wd cut-grass, to
 \thes cut-grass, to
 \is II.D.1.a
@@ -4884,6 +5088,8 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \wd 'cutting-grass'; cane-rat
 \thes 'cutting-grass'; cane-rat
 \is I.B.1.b
+\ee Thryonomys swinderianus
+\td 06/Apr/2013
 
 \wd cut, to
 \thes cut, to
@@ -4911,7 +5117,9 @@ III [Legon : University of Ghana Linguistics Department] pp.
 
 \wd dais
 \thes dais
+\is II.C.2.d
 \is II.E.2
+\td 17/May/2013
 
 \wd dam for fishing _see_ fishing - weir or dam
 \thes
@@ -5230,6 +5438,12 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.E.3.b
 \td 25/Apr/2008
 
+\wd defilement, ritual impurity
+\thes defilement, ritual impurity
+\is I.C.6.e
+\is II.B.6
+\td 25/Sep/2013
+
 \wd delay
 \thes delay
 \is II.D.4.b
@@ -5309,6 +5523,16 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes desert
 \is I.A.3
 
+\wd deserved, merited
+\thes deserve, merit to ~
+\is II.B.5.a.i
+\td 24/Aug/2013
+
+\wd deserve, merit to ~
+\thes deserve, merit to ~
+\is II.B.5.a.i
+\td 24/Aug/2013
+
 \wd desiccated
 \thes desiccated
 \is I.C.6.e
@@ -5335,6 +5559,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \wd despise
 \thes despise
 \is II.E.4.b
+
+\wd despot, tyrant
+\thes despot, tyrant
+\is II.E.2.a
+\td 24/Aug/2013
 
 \wd de-stone
 \thes de-stone
@@ -5436,6 +5665,12 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is I.C.5.b
 \is I.C.6.d
 \td 29/May/2008
+
+\wd difficulty
+\thes difficulty
+\is I.C.5.b
+\is I.C.6.d
+\td 17/May/2013
 
 \wd diffident
 \thes diffident
@@ -5605,7 +5840,7 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \wd diseases (named):
 \thes diseases (named):
 \is II.A.6.b
-\td 04/Jun/2009
+\td 28/Aug/2013
 
 \wd disease/parasite of crops
 \thes disease/parasite of crops
@@ -5957,7 +6192,8 @@ III [Legon : University of Ghana Linguistics Department] pp.
 
 \wd dragonfly
 \thes dragonfly
-\is I.B.3.b
+\is I.B.3.c
+\td 08/Jul/2013
 
 \wd drag; pull
 \thes drag; pull
@@ -6319,6 +6555,11 @@ drops/drip
 \thes dye, to
 \is II.D.6.a
 
+\wd dysmenorrhœa
+\thes dysmenorrhœa 
+\is II.A.6.b
+\td 30/May/2013
+
 \wd 'each-other' _see_ buddy [pl.]
 \thes 'each-other' _see_ buddy [pl.]
 \is X-ref.
@@ -6501,8 +6742,10 @@ CG *gia-li
 \td 17/Jul/2010
 
 \wd electricity
+\id 0426
 \thes electricity
 \is II.C.2.b
+\td 01/Mar/2013
 
 \wd elephant
 \ee Loxodonta africana
@@ -6736,6 +6979,11 @@ CG *gia-li
 \thes escort, to _see_ lead, to
 \is X-ref.
 
+\wd establish a new farm
+\thes establish a new farm
+\is II.D.1.a
+\td 11/Apr/2013
+
 \wd ethnic group; tribe
 \thes ethnic group; tribe
 \is II.E.1.b
@@ -6929,6 +7177,11 @@ CG *gia-li
 \thes explanation
 \is I.C.5
 
+\wd exposure of a secret
+\thes exposure of a secret
+\is II.B.2.b.i
+\td 21/May/2013
+
 \wd extinguished, to be; go out (fire. light)
 \thes extinguished, to be; go out (fire. light)
 \is II.C.2.b
@@ -6949,6 +7202,11 @@ CG *gia-li
 \thes eye
 \is II.A.1.b
 \td 26/Jun/2008
+
+\wd eye disease, conjunctivitis
+\thes eye disease, conjunctivitis
+\is I.A.6.b
+\td 12/Sep/2013
 
 \wd eyeball
 \thes eyeball
@@ -7275,8 +7533,8 @@ CG *gia-li
 
 \wd fear sb./sth., to
 \thes fear sb./sth., to
-\is II.B.3
-\td 11/Jun/2008
+\is II.B.3.ii
+\td 27/May/2013
 
 \wd feast _see_ party
 \thes feast _see_ party
@@ -7392,7 +7650,7 @@ CG *gia-li
 \wd ferry
 \thes ferry
 \is II.D.7.b
-\td 26/Oct/2004
+\td 25/Jul/2013
 
 \wd fertile soil
 \thes fertile soil
@@ -7448,6 +7706,11 @@ CG *gia-li
 \thes fibre; sponge
 \is II.A.5
 
+\wd fiddler, one-stringed-fiddle player
+\thes fiddler, one-stringed-fiddle player
+\is II.E.5.d.i
+\td 17/May/2013
+
 \wd fiddle, one-stringed-~
 \thes fiddle, one-stringed-~
 \is II.E.5.d.i
@@ -7498,6 +7761,11 @@ CG *gia-li
 \wd fight, to
 \thes fight, to
 \is II.E.4.b
+
+\wd file (tool)
+\thes file (tool)
+\is II.D.6.g
+\td 05/Aug/2013
 
 \wd fill
 \thes fill
@@ -7680,6 +7948,11 @@ CG *gia-li
 \is II.D.3
 \td 23/Oct/2004
 
+\wd fishing spear, harpoon
+\thes fishing spear, harpoon
+\is II.D.3
+\td 24/Jun/2013
+
 \wd fishing-float
 \thes fishing-float
 \is II.D.3
@@ -7804,6 +8077,11 @@ CG *gia-li
 \is II.D.7.b
 \td 25/Apr/2008
 
+\wd flock, herd of animals
+\thes flock, herd of animals
+\is II.D.2
+\td 04/Nov/2013
+
 \wd flood, a
 \thes flood, a
 \is I.A.4.b
@@ -7830,6 +8108,11 @@ CG *gia-li
 \is II.D.4.b
 \nt hardening-solution for floors and walls, burnish, glaze
 \td 23/Oct/2009
+
+\wd floppily, heavily, loosely
+\thes floppily, heavily, loosely
+\is I.C.6.d
+\td 24/Aug/2013
 
 \wd floppy, loose, slack
 \thes floppy, loose, slack
@@ -7978,6 +8261,11 @@ CG *gia-li
 \thes follow, to ; come next
 \is I.C.3.c
 \td 21/Apr/2012
+
+\wd fonio _see_ acha grass, fonio, 'hungry-grass/rice'
+\thes
+\is X-ref
+\td 11/Jul/2013
 
 \wd fontanelle
 \thes fontanelle
@@ -8215,6 +8503,11 @@ CG *gia-li
 \is II.E.1.e
 \td 05/Nov/2008
 
+\wd freedom
+\thes freedom
+\is II.E.1.e
+\td 26/Jul/2013
+
 \wd freeze
 \thes freeze
 \is I.A.2.a
@@ -8365,6 +8658,11 @@ CG *gia-li
 \thes funeral
 \is II.E.5.b
 
+\wd funeral customs
+\thes funeral customs
+\is II.E.5.b
+\td 07/Feb/2013
+
 \wd fungus
 \thes fungus
 \is I.B.5.b
@@ -8451,6 +8749,11 @@ CG *gia-li
 \is II.D.4.a
 \is II.D.5.d
 \td 04/Dec/2008
+
+\wd gap between teeth
+\thes gap between teeth
+\is II.A.1.b
+\td 02/Oct/2013
 
 \wd garbage _see_ rubbish
 \thes garbage _see_ rubbish
@@ -8707,9 +9010,19 @@ CG *gia-li
 \is II.E.4.c
 \td 25/Apr/2008
 
+\wd glove
+\thes glove
+\is II.C.4.b
+\td 25/Sep/2013
+
 \wd glutton
 \thes glutton
 \is II.E.1.e
+
+\wd glut, unsold surplus
+\thes glut, unsold surplus
+\is II.D.5.b 
+\td 21/May/2013
 
 \wd gnaw _see_ nibble, gnaw
 \thes
@@ -8886,6 +9199,12 @@ CG *gia-li
 \is II.E.1.a
 \td 13/May/2008
 
+\wd good person
+\thes good person
+\is II.B.5.a.i
+\is II.E.1.e
+\td 12/Sep/2013
+
 \wd good (general)
 \thes good (general)
 \is II.B.5.a.i
@@ -8911,8 +9230,9 @@ CG *gia-li
 \wd gore
 \thes gore
 \is I.B.1.a
-\is II.C.1
-\td 13/Jul/2008
+\is II.A.6.e
+\is II.D.2.a
+\td 18/Apr/2013
 
 \wd gospel, the
 \thes gospel, the
@@ -8946,7 +9266,9 @@ CG *gia-li
 
 \wd gourds (types:-)
 \thes gourds (types:-)
-\is II.D.1.e
+\is II.C.2.a
+\is II.D.1.f
+\td 21/May/2013
 
 \wd government
 \thes government
@@ -9018,6 +9340,11 @@ CG *gia-li
 \thes grasshopper
 \is I.B.3.b
 \td 20/Jul/2007
+
+\wd grass, cutter of ~ _see_ haymaker, cutter of grass
+\thes
+\is X-ref
+\td 10/Aug/2013
 
 \wd grass: named types:-
 \thes grass: named types:-
@@ -9136,6 +9463,11 @@ III [Legon : University of Ghana Linguistics
 Department] pp.  173-192
 \td 21/Apr/2012
 
+\wd griddle
+\thes griddle
+\is II.C.2.b
+\td 29/May/2013
+
 \wd grill, to _see_ roast, to
 \thes grill, to _see_ roast, to
 \is X-ref.
@@ -9169,6 +9501,11 @@ Department] pp.  173-192
 \thes grind (~ wet, to)
 \is II.D.6.d
 \td 20/Oct/2004
+
+\wd grinding-mill
+\thes grinding-mill
+\is II.D.6.d
+\td 26/Jul/2013
 
 \wd grinding-room
 \thes grinding-room
@@ -9211,6 +9548,13 @@ Department] pp.  173-192
 \is II.D.6.e
 \is II.D.6.g
 \td 09/Jun/2011
+
+\wd gristle
+\thes gristle
+\is II.C.3.f
+\is II.D.5.d
+\nt roasted skin, sinew --  chewy bits of meat
+\td 17/May/2013
 
 \wd groan, to
 \thes groan, to
@@ -9260,6 +9604,12 @@ Department] pp.  173-192
 \thes grow-up, to
 \is II.E.1.c.i
 \td 03/May/2008
+
+\wd grudge [n.]
+\thes grudge [n.]
+\is II.B.3.a.ii
+\is II.E.4.b
+\td 26/Jul/2013
 
 \wd gruel; 'koko'
 \thes gruel; 'koko'
@@ -9323,6 +9673,11 @@ Department] pp.  173-192
 \thes guineafowl (male)
 \is II.D.2.b
 
+\wd guineafowl, bush ~
+\thes guineafowl, bush ~
+\is I.B.2.b
+\td 13/Jul/2013
+
 \wd guineahen
 \thes guineahen
 \is II.D.2.b
@@ -9359,14 +9714,19 @@ Department] pp.  173-192
 \thes gun
 \is II.D.4.a
 \is II.E.5.i
-\td 25/Apr/2008
+\td 25/Jun/2013
 
 \wd gunpowder
 \thes gunpowder
 \is II.D.4.a
+\is II.E.5.i
+\td 08/Jul/2013
+
+\wd gunpowder-horn
+\thes gunpowder-horn
 \is II.D.4.a
 \is II.E.5.i
-\td 25/Apr/2008
+\td 08/Jul/2013
 
 \wd guts
 \thes guts
@@ -9443,6 +9803,7 @@ Department] pp.  173-192
 \wd hand
 \thes hand
 \is II.A.1.f
+\td 25/Sep/2013
 
 \wd hand sth. to sb., make sb. hold sth.
 \thes hand sth. to sb., make sb. hold sth.
@@ -9479,6 +9840,11 @@ Department] pp.  173-192
 \wd handle (tool-)
 \thes handle (tool-)
 \is II.D.1.b
+
+\wd hand, back of the ~
+\thes hand, back of the ~
+\is II.A.1.f
+\td 25/Sep/2013
 
 \wd hang on shoulder
 \thes hang on shoulder
@@ -9566,6 +9932,11 @@ Department] pp.  173-192
 \is II.D.2.c
 \td 14/May/2008
 
+\wd harpoon _see_ fishing spear, harpoon
+\thes
+\is X-ref
+\td 24/Jun/2013
+
 \wd harrow, to ~
 \thes harrow, to ~
 \is II.D.1.c
@@ -9581,10 +9952,20 @@ Department] pp.  173-192
 \is I.B.1.b
 \td 01/Dec/2010
 
+\wd harvest groundnuts
+\thes harvest groundnuts
+\is II.D.1.d
+\td 08/Jul/2013
+
 \wd harvest [n.]
 \thes harvest [n.]
 \is II.D.1.c
 \td 18/Aug/2012
+
+\wd harvested grain: stalks, leaves ...
+\thes harvested grain: stalks, leaves ... 
+\is II.D.1.c
+\td 20/May/2013
 
 \wd harvest-season
 \thes harvest-season
@@ -9650,6 +10031,11 @@ Department] pp.  173-192
 \thes
 \is X-ref
 \td 14/Aug/2012
+
+\wd haymaker, cutter of grass
+\thes haymaker, cutter of grass
+\is II.D.4
+\td 10/Aug/2013
 
 \wd haze (heat, dust)
 \thes haze (heat, dust)
@@ -9778,6 +10164,11 @@ Department] pp.  173-192
 \thes heavens, sky
 \is I.A.1
 
+\wd heavily _see_ floppily, heavily, loosely
+\thes
+\is X-ref
+\td 24/Aug/2013
+
 \wd heaviness, weight
 \thes heaviness, weight
 \is I.C.3.a
@@ -9860,6 +10251,11 @@ Department] pp.  173-192
 \wd help, to
 \thes help, to
 \is II.E.4.c
+
+\wd helter-skelter, pell-mell
+\thes helter-skelter, pell-mell
+\is I.C.6.d
+\td 07/Aug/2013
 
 \wd hemp (fibre)
 \thes hemp (fibre)
@@ -9989,7 +10385,7 @@ Department] pp.  173-192
 \wd hire, rent
 \thes hire, rent
 \is II.D.8
-\td 31/Jul/2009
+\td 21/May/2013
 
 \wd history
 \thes history
@@ -10012,6 +10408,12 @@ Department] pp.  173-192
 \wd hither, to here
 \thes hither, to here
 \is I.C.3.d
+
+\wd hoarse
+\thes hoarse
+\is II.A.6.b
+\is II.B.2.b.i
+\td 21/May/2013
 
 \wd hobble (an animal), to ~
 \thes hobble (an animal), to ~
@@ -10242,6 +10644,13 @@ Department] pp.  173-192
 \is II.E.2.a
 \td 26/Jun/2008
 
+\wd horse fodder
+\thes horse fodder
+\is II.D.2.a
+\is II.D.7.a
+\is II.E.2.a
+\td 21/May/2013
+
 \wd horserider
 \thes horserider
 \is II.D.2.a
@@ -10252,6 +10661,8 @@ Department] pp.  173-192
 \wd hospital
 \thes hospital
 \is II.A.6.d
+\is II.E.3.b
+\td 04/Nov/2013
 
 \wd hospitality, gift/service to 'stranger'
 \thes hospitality, gift/service to 'stranger'
@@ -10432,6 +10843,11 @@ Department] pp.  173-192
 \wd hungry
 \thes hungry
 \is II.A.2.a
+
+\wd hungry-grass/rice _see_ acha grass, fonio, 'hungry-grass/rice'
+\thes
+\is X-ref
+\td 11/Jul/2013
 
 \wd hungry-season
 \thes hungry-season
@@ -10623,6 +11039,11 @@ Department] pp.  173-192
 \thes imprison
 \is II.E.3.b
 
+\wd improper, wrong, incorrect
+\thes improper, wrong, incorrect
+\is II.B.5.b
+\td 24/Aug/2013
+
 \wd in
 \thes in
 \is I.C.3.c
@@ -10630,6 +11051,11 @@ Department] pp.  173-192
 \wd inaudible; quiet
 \thes inaudible; quiet
 \is II.A.3.b
+
+\wd incisor (tooth)
+\thes incisor (tooth)
+\is II.A.1.b
+\td 02/Oct/2013
 
 \wd incite sb. to ...
 \thes incite sb. to ...
@@ -10923,6 +11349,11 @@ Department] pp.  173-192
 \is II.B.6.b
 \td 09/Feb/2012
 
+\wd island
+\thes island
+\is I.A.3.d
+\td 17/May/2013
+
 \wd itch
 \thes itch
 \is II.A.2.e
@@ -10954,6 +11385,11 @@ Department] pp.  173-192
 \wd jaw
 \thes jaw
 \is II.A.1.b
+
+\wd jaw _see_  jowl, underside of lower jaw
+\thes
+\is X-ref
+\td 03/May/2013
 
 \wd jealousy
 \thes jealousy
@@ -11033,6 +11469,11 @@ Department] pp.  173-192
 \wd journey
 \thes journey
 \is II.A.4.a
+
+\wd jowl, underside of lower jaw
+\thes jowl, underside of lower jaw
+\is II.A.1.b
+\td 03/May/2013
 
 \wd Judgement Day _see_ Day of Judgement
 \thes Judgement Day _see_ Day of Judgement
@@ -11224,6 +11665,11 @@ Department] pp.  173-192
 \thes knee
 \is II.A.1.g
 
+\wd kneecap
+\thes kneecap
+\is II.A.1.g
+\td 17/Apr/2013
+
 \wd kneel down, to
 \thes kneel down, to
 \is II.A.2.c
@@ -11233,6 +11679,11 @@ Department] pp.  173-192
 \thes kneeling, to be in a ~ position
 \is II.A.2.c
 \td 11/Sep/2012
+
+\wd 'kneepit', hollow behind the knee
+\thes 'kneepit', hollow behind the knee
+\is II.A.1.g
+\td 17/Apr/2013
 
 \wd knife
 \thes knife
@@ -11312,6 +11763,17 @@ jocular attention-getter, especially if the recipient is a junior or a child
 \thes 'koko' _see_ gruel
 \is X-ref.
 
+\wd kola trade terms:
+\thes kola trade terms:
+\is II.D.5.c
+\td 17/May/2013
+
+\wd kola-grater
+\thes kola-grater
+\is II.D.5.c
+\is II.E.5.g
+\td 17/May/2013
+
 \wd kolanut
 \thes kolanut
 \is II.D.5.c
@@ -11322,9 +11784,10 @@ jocular attention-getter, especially if the recipient is a junior or a child
 \thes 'koosi' (fried-beancakes); akara
 \is II.D.5.d
 
-\wd kraal; coraal; 'cattle garage'
-\thes kraal; coraal
+\wd kraal; corral; 'cattle garage'
+\thes kraal; corral
 \is II.D.2.c
+\td 24/Aug/2013
 
 \wd 'kuli-kuli'
 \thes 'kuli-kuli'
@@ -12156,6 +12619,11 @@ underwear
 \is II.D.6.b
 \td 01/Aug/2009
 
+\wd loosely _see_ floppily, heavily, loosely
+\thes
+\is X-ref
+\td 24/Aug/2013
+
 \wd loosen
 \thes loosen
 \is II.C.4.a.i
@@ -12328,6 +12796,11 @@ underwear
 \is I C.3.f
 \td 24/Aug/2012
 
+\wd lymph
+\thes lymph
+\is II.A.1.h
+\td 08/Jul/2013
+
 \wd 'maasa' (fried corncakes)
 \thes 'maasa' (fried corncakes)
 \is II.D.5.d
@@ -12463,6 +12936,11 @@ underwear
 \thes manage to
 \is I.C.5
 
+\wd manager
+\thes manager
+\is II.D.8
+\td 26/Jul/2013
+
 \wd mane
 \thes mane
 \is I.B.1.a
@@ -12559,6 +13037,11 @@ underwear
 \is II.D.6.h
 \is II.E.3.c
 \td 24/Aug/2012
+
+\wd marlinspike _see_ awl, marlinspike (tool for stripping corn)
+\thes
+\is X-ref
+\td 12/Sep/2013
 
 \wd marriage
 \thes marriage
@@ -12758,6 +13241,11 @@ underwear
 \thes medicine (tradit.)
 \is II.A.6.d
 
+\wd medicine (tradit.), to prepare ~
+\thes medicine (tradit.), to prepare ~
+\is II.A.6.d
+\td 17/Apr/2013
+
 \wd medicine-man; 'herbalist'
 \thes medicine-man; 'herbalist'
 \is II.A.6.d
@@ -12789,6 +13277,11 @@ underwear
 \thes meet (on-the-way), to
 \is II.E.1.e
 
+\wd meeting, a ~
+\thes meeting, a ~
+\is II.E.4.c
+\td 13/Jul/2013
+
 \wd melon (water-~)
 \thes melon (water-~)
 \is II.D.1.e
@@ -12808,6 +13301,12 @@ underwear
 \wd member; limb
 \thes member; limb
 \is II.A.1
+
+\wd membrane
+\thes membrane
+\is I.C.6.c
+\is II.A.1.h
+\td 21/May/2013
 
 \wd 'mend' the fire
 \thes 'mend' the fire
@@ -12949,6 +13448,11 @@ underwear
 \is II.D.5.d
 \td 25/Apr/2008
 
+\wd milk-tooth
+\thes milk-tooth
+\is II.A.1.b
+\td 03/Oct/2013
+
 \wd milk, to
 \thes milk, to
 \is II.D.2.a
@@ -13065,10 +13569,20 @@ underwear
 \is X-ref
 \td 02/May/2008
 
+\wd molar (tooth)
+\thes molar (tooth)
+\is II.A.1.b
+\td 02/Oct/2013
+
 \wd mold [Am.] _see_ mould
 \thes
 \is X-ref
 \td 23/Sep/2008
+
+\wd mole
+\thes mole
+\is I.B.1.b
+\td 21/May/2013
 
 \wd moment
 \thes moment
@@ -13081,6 +13595,11 @@ underwear
 \wd money
 \thes money
 \is II.D.5.a
+
+\wd money-changer
+\thes money-changer
+\is II.D.8
+\td 13/Jul/2013
 
 \wd money: large denominations ('small-sack'...)
 \thes money: large denominations ('small-sack'...)
@@ -13195,6 +13714,17 @@ underwear
 \wd mosquito
 \thes mosquito
 \is I.B.3.b
+
+\wd mosquito net
+\thes mosquito net
+\is II.C.2.d
+\is II.A.6.d.ii
+\td 29/May/2013
+
+\wd mosquito-wire _see_ screen(ing), mosquito-wire
+\thes
+\is X-ref
+\td 05/Aug/2013
 
 \wd moss
 \thes moss
@@ -13388,9 +13918,9 @@ Department] pp.  173-192
 
 \wd mushroom
 \thes mushroom
-\is II.D.4.b
+\is II.D.4.c
 \is I.B.5.b
-\td 27/Aug/2013
+\td 19/Oct/2004
 
 \wd music
 \thes music
@@ -13501,6 +14031,11 @@ Department] pp.  173-192
 \thes nape
 \is II.A.1.c
 
+\wd nap, a short sleep
+\thes nap, a short sleep
+\is II.A.2.b
+\td 17/May/2013
+
 \wd narrow [adj.]
 \thes narrow [adj.]
 \is I.C.3.a
@@ -13509,6 +14044,11 @@ Department] pp.  173-192
 \thes narrow, to be ~
 \is I.C.3.a
 \td 22/Oct/2004
+
+\wd nasal septum
+\thes nasal septum
+\is II.A.1.b
+\td 02/Oct/2013
 
 \wd nasty
 \thes nasty
@@ -13560,6 +14100,16 @@ Department] pp.  173-192
 \wd needle
 \thes needle
 \is II.D.6.b
+
+\wd needle for closing/mending sacks
+\thes needle for closing/mending sacks
+\is II.D.5.c
+\td 12/Sep/2013
+
+\wd neglect
+\thes neglect
+\is I.C.5.b
+\td 24/Aug/2013
 
 \wd negroid _see_ black-African
 \thes negroid _see_ black-African
@@ -13619,11 +14169,6 @@ Department] pp.  173-192
 \is II.C.2.a
 \td 22/Oct/2004
 
-\wd net (fisherman's)
-\thes net (fishing')
-\is II.D.3
-\td 29/Oct/2013
-
 \wd net (hunters')
 \thes net (hunters')
 \is II.D.4.a
@@ -13659,8 +14204,8 @@ Department] pp.  173-192
 \wd next in age, nextborn
 \thes next in age, nextborn
 \is II.E.1.c.i
-\nt usually '... of the same sex'
-\td 25/Jun/2008
+\nt usually '... of the same sex' : see also 'child with junior sibling'
+\td 25/Sep/2013
 
 \wd next year
 \thes next year
@@ -14040,10 +14585,11 @@ Department] pp.  173-192
 \is II.B.2.c
 \td 27/Aug/2008
 
-\wd okra powder
-\thes okra powder
+\wd okra soup
+\thes okra soup
+\is II.C.3.a
 \is II.C.3.d
-\td 11/Sep/2012
+\td 05/Aug/2013
 
 \wd okra, okro
 \thes okra, okro
@@ -14071,9 +14617,9 @@ Department] pp.  173-192
 
 \wd old woman
 \thes old woman
-\is II.E.1.c.i
 \is II.E.1.a
-\td 21/Oct/2004
+\is II.E.1.c.i
+\td 30/Oct/2013
 
 \wd old (not new)
 \thes old (not new)
@@ -14215,9 +14761,7 @@ Department] pp.  173-192
 \thes orange
 \is II.D.1.e 
 \is II.D.5.c
-\is II.D.1.e
-\is II.D.5.c
-\td 25/Apr/2008
+\td 15/Jul/2013
 
 \wd order sb., to
 \thes order sb., to
@@ -14268,6 +14812,11 @@ Department] pp.  173-192
 \wd outside
 \thes outside
 \is I.C.3.c
+
+\wd outstanding
+\thes outstanding
+\is II.B.5.a.i
+\td 23/May/2013
 
 \wd oven (bread-~)
 \thes oven (bread-~)
@@ -14410,6 +14959,11 @@ Department] pp.  173-192
 \is II.E.2
 \td 27/May/2008
 
+\wd 'palace', chief's house: parts -
+\thes 'palace', chief's house: parts -
+\is II.E.2
+\td 20/May/2013
+
 \wd 'palaver'
 \thes 'palaver'
 \is II.B.5.b.ii
@@ -14538,6 +15092,11 @@ Department] pp.  173-192
 \thes part
 \is I.C.1.c
 
+\wd partition, screen
+\thes partition, screen
+\is II.C.1
+\td 25/Jun/2013
+
 \wd partridge, francolin
 \thes partridge, francolin
 \is I.B.2.b
@@ -14633,7 +15192,7 @@ Department] pp.  173-192
 \is I.A.3.b
 \is II.D.7.e
 \is I.A.3.b
-\td 25/Apr/2008
+\td 26/Jul/2013
 
 \wd patience
 \thes patience
@@ -14664,6 +15223,8 @@ Department] pp.  173-192
 \wd pawpaw; papaya
 \thes pawpaw; papaya
 \is II.D.1.e
+\ee Carica papaya
+\td 18/Apr/2013
 
 \wd pay for goods/work, to
 \thes pay for goods/work, to
@@ -14725,6 +15286,11 @@ Department] pp.  173-192
 \is II.D.2.c
 \is II.E.3.b
 \td 06/Aug/2012
+
+\wd pell-mell _see_ helter-skelter, pell-mell
+\thes
+\is X-ref
+\td 07/Aug/2013
 
 \wd pen _see_ stable, pen, animal-room
 \thes
@@ -14842,6 +15408,11 @@ Department] pp.  173-192
 \thes persuade
 \is II.B.2.b.i
 \td 20/Oct/2004
+
+\wd persuasive
+\thes persuasive
+\is II.B.2.b.i
+\td 24/Aug/2013
 
 \wd pesewa, 'penny'
 \thes pesewa, 'penny'
@@ -15182,8 +15753,9 @@ Department] pp.  173-192
 \wd plaster, to
 \thes plaster, to
 \is II.A.4.c
+\is II.C.1
 \is II.D.6.h.i
-\td 07/Jun/2008
+\td 05/Aug/2013
 
 \wd plastic
 \thes plastic
@@ -15207,6 +15779,11 @@ Department] pp.  173-192
 \thes play (musical instrument)
 \is II.E.5.d.i
 \td 30/May/2008
+
+\wd playmate
+\thes playmate
+\is II.E.5.a 
+\td 10/Jul/2013
 
 \wd play, to
 \thes play, to
@@ -15832,6 +16409,13 @@ Department] pp.  173-192
 \is II.B.6.c
 \td 25/Apr/2008
 
+\wd prop, support [n.]
+\thes prop, support [n.]
+\is II.A.4.e
+\is II.C.2.a
+\is II.C.4.b
+\td 25/Jul/2013
+
 \wd prostitute
 \thes prostitute
 \is II.D.5.b
@@ -15990,6 +16574,11 @@ Department] pp.  173-192
 \nt longitudinal member in roof-frame
 \td 07/Jun/2008
 
+\wd purpose
+\thes purpose
+\is I.C.5.b
+\td 24/Aug/2013
+
 \wd purse, wallet, money-bag
 \thes purse, wallet, money-bag
 \is II.C.4.c
@@ -16131,8 +16720,9 @@ worried, to be ~
 
 \wd question
 \thes question
+\is I.C.5
 \is II.B.2
-\td 20/Oct/2004
+\td 19/Apr/2013
 
 \wd queue, to ; line up, stand in line
 \thes queue, to ; line up, stand in line
@@ -16150,6 +16740,11 @@ worried, to be ~
 \wd quiet _see_ inaudible, shut up
 \thes quiet _see_ inaudible, shut up
 \is X-ref.
+
+\wd quietly
+\thes quietly
+\is II.A.3.b
+\td 17/Nov/2012
 
 \wd quiet(ness)
 \thes quiet(ness)
@@ -16180,6 +16775,11 @@ worried, to be ~
 \thes race, racing _see_ speed
 \is X-ref
 \td 03/May/2008
+
+\wd raffia
+\thes raffia
+\is II.D.6.i
+\td 11/Jul/2013
 
 \wd rafter
 \thes rafter
@@ -16270,6 +16870,11 @@ worried, to be ~
 \thes ram, male sheep
 \is II.D.2.a
 \td 15/Dec/2008
+
+\wd rank, military ~
+\thes rank, military ~
+\is II.E.3.d
+\td 25/Jun/2013
 
 \wd rape
 \thes rape
@@ -16491,6 +17096,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes relationship
 \is I.C.3.c
 
+\wd relatives (general)
+\thes relatives (general)
+\is II.E.1.c
+\td 10/Jul/2013
+
 \wd relatives(father's-side-); agnates
 \thes relatives(father's-side-); agnates
 \is II.E.1.c
@@ -16507,6 +17117,12 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes release
 \is I.C.5
 \td 04/Nov/2009
+
+\wd release sb., let sb. out, liberate
+\thes release sb., let sb. out, liberate
+\is II.A.4.c
+\is II.E.3.b
+\td 23/Oct/2013
 
 \wd release (from trap)
 \thes release (from trap)
@@ -16615,6 +17231,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is I.B.4.a
 \is I.B.5.a
 \td 13/Feb/2009
+
+\wd resist, struggle against
+\thes resist, struggle against
+\is II.A.4.b
+\td 10/Aug/2013
 
 \wd resolve (argument, quarrel)
 \thes resolve (argument, quarrel)
@@ -16945,6 +17566,16 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes roll along
 \is II.A.4.a.i
 
+\wd roll sth. along
+\thes roll sth. along
+\is II.A.4.a.i
+\td 28/Mar/2013
+
+\wd roll sth. into balls
+\thes roll sth. into balls
+\is II.A.4.d
+\td 11/Jul/2013
+
 \wd roll sth. up (mat)
 \thes roll sth. up (mat)
 \is II.A.4.d
@@ -17196,6 +17827,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.D.7.b
 \td 22/Oct/2009
 
+\wd saint
+\thes saint
+\is II.B.6.c
+\td 12/Sep/2013
+
 \wd 'salad' _see_ lettuce
 \thes 'salad' _see_ lettuce
 \is X-ref.
@@ -17367,8 +18003,10 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is X-ref
 \td 03/May/2008
 
-\wd scare (birds)
-\td 08/Aug/2008
+\wd scare away (as: birds)
+\thes scare away (as: birds)
+\is II.D.1.c
+\td 17/Apr/2013
 
 \wd scar, keloid _see_ tribal-marks
 \thes
@@ -17395,6 +18033,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.A.3.c 
 \is II.D.4.a
 \td 25/Apr/2008
+
+\wd scheme, plot, to~
+\thes scheme, plot, to~
+\is II.B.2.b.i
+\td 21/May/2013
 
 \wd schnapps
 \thes schnapps
@@ -17498,6 +18141,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes scream, shriek
 \is II.B.2.b.i
 \td 07/Mar/2011
+
+\wd screen(ing), mosquito-wire
+\thes screen(ing), mosquito-wire
+\is II.C.1
+\td 05/Aug/2013
 
 \wd screw [n.]
 \thes screw [n.]
@@ -17628,6 +18276,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is I.D.1
 \td 20/Nov/2004
 
+\wd segment (of a stalk, stem)
+\thes segment (of a stalk, stem)
+\is I.B.5.a
+\td 20/Jun/2013
+
 \wd seize _see_ 'confiscate'
 \thes
 \is X-ref
@@ -17646,6 +18299,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes self-control
 \is II.B.5.a.i
 \td 18/Dec/2008
+
+\wd self-help
+\thes self-help
+\is I.C.5.b
+\td 26/Jul/2013
 
 \wd selfish(-ness)
 \thes selfish(-ness)
@@ -17764,6 +18422,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes sesame
 \is II.D.1.d
 \td 21/Oct/2004
+
+\wd set a fowl  (put it to brood eggs)
+\thes set a fowl  (put it to brood eggs)
+\is II.D.2.b
+\td 23/Oct/2013
 
 \wd set a trap _see_ bait
 \thes set a trap _see_ bait
@@ -17888,6 +18551,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes shake (rattle, sistrum)
 \is II.E.5.d
 \td 27/Jul/2009
+
+\wd shake, brush, flip sth. off
+\thes shake, brush, flip sth. off
+\is II.A.4.c
+\td 05/Aug/2013
 
 \wd shake, tremble, quiver (with fear)
 \thes shake, tremble, quiver (with fear)
@@ -18204,6 +18872,12 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is X-ref
 \td 07/Mar/2011
 
+\wd shrimp
+\thes shrimp
+\is I.B.3.d
+\is II.D.3
+\td 08/Jul/2013
+
 \wd shrine (diviner's)
 \thes shrine (diviner's)
 \is II.B.6.a
@@ -18238,9 +18912,9 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \td 19/Oct/2004
 
 \wd shrub/s (edible leaves)
-\thes shrub/s (edible leaves)
+\thes shrub/s (edible leaves/berries)
 \is I.D.4.b
-\td 20/Aug/2008
+\td 24/Sep/2013
 
 \wd shrug (shoulders)
 \thes shrug (shoulders)
@@ -18259,6 +18933,12 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \wd shut mouth, to
 \thes shut mouth, to
 \is II.A.2.d
+
+\wd shut sb. up, incarcerate
+\thes shut sb. up, incarcerate
+\is II.A.4.c
+\is II.E.3.b
+\td 23/Oct/2013
 
 \wd shut up, to ; be quiet
 \thes shut up, to ; be quiet
@@ -18374,6 +19054,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.D.6.g
 \td 21/Oct/2004
 
+\wd similar
+\thes similar
+\is I.C.1.b
+\td 22/Oct/2013
+
 \wd sin
 \thes sin
 \is II.B.6.b 
@@ -18416,6 +19101,11 @@ single-/Indian-file
 \thes
 \is X-ref
 \td 09/Aug/2008
+
+\wd single, unmarried
+\thes single, unmarried
+\is II.E.1 c
+\td 23/Oct/2013
 
 \wd sink, to
 \thes sink, to
@@ -18564,6 +19254,11 @@ single-/Indian-file
 \thes slave
 \is II.E.1.e
 
+\wd slavery
+\thes slavery
+\is II.E.1.e
+\td 26/Jul/2013
+
 \wd sleep _see_ asleep, be
 \thes sleep _see_ asleep, be
 \is X-ref
@@ -18588,6 +19283,11 @@ single-/Indian-file
 \thes sleeping room
 \is II.C.1
 \td 21/Oct/2004
+
+\wd sleeping-sickness (trypanosomiasis)
+\thes sleeping-sickness (trypanosomiasis)
+\is II.A.6.b
+\td 07/Feb/2013
 
 \wd sleepless night, to pass ~
 \thes sleepless night, to pass ~
@@ -18863,8 +19563,8 @@ single-/Indian-file
 
 \wd snacks
 \thes snacks
-\is II.5.d.i
-\td 29/Jan/2009
+\is II.D.5.d.i
+\td 25/Jun/2013
 
 \wd snail
 \thes snail
@@ -18954,6 +19654,11 @@ in the Languages of the Volta Basin 2. Legon
 \is II.D.5.c
 \is II.A.5
 \td 27/Jul/2009
+
+\wd soccer _see_ football (game), soccer
+\thes
+\is X-ref
+\td 13/Apr/2013
 
 \wd Social activities
 \thes Social activities
@@ -19141,6 +19846,12 @@ in the Languages of the Volta Basin 2. Legon
 \wd sow, to
 \thes sow, to
 \is II.D.1.c
+
+\wd soya-bean
+\thes soya-bean
+\is I.B.5
+\is II.D.1.d
+\td 01/Mar/2013
 
 \wd so, therefore
 \thes so, therefore
@@ -19376,6 +20087,11 @@ in the Languages of the Volta Basin 2. Legon
 \is II.D.1.f
 \td 03/May/2008
 
+\wd spread out, dispersed
+\thes spread out, dispersed
+\is I.C.3.c
+\td 21/May/2013
+
 \wd spread out, extend in area
 \thes spread out, extend in area
 \is I.C.3.a
@@ -19406,6 +20122,13 @@ in the Languages of the Volta Basin 2. Legon
 \thes spread, get bigger/worse (a sore does)
 \is II.A.6.b
 \td 21/Aug/2012
+
+\wd springy
+\thes springy
+\is I.C.6.c
+\is I.A.4.a
+\is II.C.2.e
+\td 19/Mar/2013
 
 \wd spring, a
 \thes spring, a
@@ -19554,7 +20277,7 @@ in the Languages of the Volta Basin 2. Legon
 \wd stand (sth.) up
 \thes stand (sth.) up
 \is II.A.4.c
-\td 20/Oct/2004
+\td 18/Jun/2013
 
 \wd standing-place ; position
 \thes standing-place ; position
@@ -19611,6 +20334,11 @@ in the Languages of the Volta Basin 2. Legon
 \thes 'station', lorry-park
 \is II.D.7.c
 \td 20/Oct/2004
+
+\wd station, petrol-~/gas-~/service-~
+\thes station, petrol-~/gas-~/service-~
+\is II.D.7.c
+\td 30/Oct/2013
 
 \wd stay
 \thes stay
@@ -19815,6 +20543,11 @@ in the Languages of the Volta Basin 2. Legon
 \is II.A.2.c
 \td 21/Oct/2004
 
+\wd storekeeper, shopkeeper
+\thes storekeeper, shopkeeper
+\is II.D.5.b
+\td 30/Sep/2013
+
 \wd 'storey-building', multi-storey building
 \thes 'storey-building', multi-storey building
 \is II.C.1 
@@ -19824,7 +20557,7 @@ in the Languages of the Volta Basin 2. Legon
 \wd store, shop
 \thes store, shop
 \is II.D.5.b
-\td 21/Oct/2004
+\td 30/Sep/2013
 
 \wd store, to ~ sth.
 \thes store, to ~ sth.
@@ -19885,6 +20618,11 @@ in the Languages of the Volta Basin 2. Legon
 \thes strain, filter, to ~
 \is II.C.2.c
 \td 16/Jan/2009
+
+\wd strand, single fibre (of ...)
+\thes strand, single fibre (of ...)
+\is I.C.1.c
+\td 05/Aug/2013
 
 \wd 'stranger'; guest
 \thes 'stranger'; guest
@@ -20070,6 +20808,11 @@ in the Languages of the Volta Basin 2. Legon
 \is II.B.1
 \is II.E.1.e
 \td 25/Oct/2011
+
+\wd stye (on the eyelid)
+\thes stye (on the eyelid)
+\is II.A.6.b
+\td 12/Sep/2013
 
 \wd subject to (to-be-~)
 \thes subject to (to-be-~)
@@ -20521,7 +21264,7 @@ in the Languages of the Volta Basin 2. Legon
 \wd talkative, loquacious person; blabbermouth
 \thes talkative, loquacious person; blabbermouth
 \is II.B.2
-\td 20/Oct/2004
+\td 24/Aug/2013
 
 \wd talk, to
 \thes talk, to
@@ -20541,7 +21284,8 @@ in the Languages of the Volta Basin 2. Legon
 \wd tamarind tree
 \thes tamarind tree
 \is I.B.4.b
-\td 20/Oct/2004
+\ee Tamarindus indica
+\td 17/Apr/2013
 
 \wd tame, domesticated
 \thes tame, domesticated
@@ -20581,6 +21325,12 @@ in the Languages of the Volta Basin 2. Legon
 \is X-ref.
 \td 20/Oct/2004
 
+\wd target
+\thes target
+\is II.D.4.a
+\is II.E.5.f
+\td 09/Jul/2013
+
 \wd tassel, fringe (on cloth)
 \thes tassel, fringe (on cloth)
 \is II.C.4
@@ -20589,8 +21339,8 @@ in the Languages of the Volta Basin 2. Legon
 
 \wd taste
 \thes taste
-\is II.A.3
-\td 20/Oct/2004
+\is II.A.3.e
+\td 25/Jun/2013
 
 \wd tasteless; without salt
 \thes tasteless; without salt
@@ -20668,6 +21418,12 @@ in the Languages of the Volta Basin 2. Legon
 \is II.E.5.f
 \td 25/Apr/2008
 
+\wd tear of tissue (in childbirth)
+\thes tear of tissue (in childbirth)
+\is II.A.2.f
+\is II.A.6.e
+\td 22/Oct/2013
+
 \wd tear sth. (cloth)
 \thes tear sth. (cloth)
 \is II.A.4.e
@@ -20744,6 +21500,11 @@ in the Languages of the Volta Basin 2. Legon
 \is II.E.4.b
 \td 03/Dec/2008
 
+\wd temperature, measure of heat
+\thes temperature, measure of heat
+\is I.C.6.g
+\td 14/Sep/2013
+
 \wd termite
 \thes termite
 \is I.B.3.b
@@ -20811,6 +21572,14 @@ in the Languages of the Volta Basin 2. Legon
 \thes the [definite article]
 \is I.C.5
 \td 15/Nov/2004
+
+\wd theft
+\thes theft
+\is II.B.4
+\is II.B.5.b.i
+\is II.E.1.e
+\is II.E.3.b
+\td 10/Sep/2013
 
 \wd then
 \thes then
@@ -21068,6 +21837,11 @@ in the Languages of the Volta Basin 2. Legon
 \thes thus
 \is I.C.5
 \td 20/Oct/2004
+
+\wd tic (facial ~ )
+\thes tic (facial ~ )
+\is II.A.6.c
+\td 07/Feb/2013
 
 \wd tick (parasite)
 \thes tick (parasite)
@@ -21562,6 +22336,11 @@ in the Languages of the Volta Basin 2. Legon
 \is II.D.4.a
 \td 20/Oct/2004
 
+\wd trap (unspecified)
+\thes trap (unspecified)
+\is II.D.4.a
+\td 21/May/2013
+
 \wd trappings (horse), 'tack'
 \thes trappings (horse), 'tack'
 \is II.D.7.a
@@ -21759,12 +22538,17 @@ in the Languages of the Volta Basin 2. Legon
 \is II.B.2
 \td 18/Oct/2004
 
+\wd trypanosomiasis _see_ sleeping-sickness (trypanosomiasis)
+\thes
+\is X-ref
+\td 07/Feb/2013
+
 \wd try, make an attempt
 \thes try, make an attempt
 \is I.C.5.b
-\is II.A.3.b
+\is II.A.4.b
 \is II.B.5.a.i
-\td 11/Jun/2008
+\td 10/Aug/2013
 
 \wd tsetse fly
 \thes tsetse fly
@@ -21903,6 +22687,11 @@ in the Languages of the Volta Basin 2. Legon
 \is X-ref
 \td 18/Nov/2004
 
+\wd tyrant _see_ despot, tyrant
+\thes
+\is X-ref
+\td 24/Aug/2013
+
 \wd tyre (rubber-~); tire [Am.]
 \thes tyre (rubber-~); tire [Am.]
 \is II.D.7.c
@@ -22034,6 +22823,11 @@ porridge'  pronounced 'tee zed'
 \is II.B.1
 \is II.B.2
 \td 03/May/2008
+
+\wd undeserved, unmerited
+\thes undeserved, unmerited
+\is II.B.5.b.i
+\td 24/Aug/2013
 
 \wd undo (handcuffs)
 \thes undo (handcuffs)
@@ -22212,12 +23006,6 @@ porridge'  pronounced 'tee zed'
 \is II.E.4.b
 \td 19/Mar/2009
 
-\wd untrustworthiness, dishonesty
-\thes trustworthiness, honesty
-\is II.B.5.a.i 
-\is II.E.4.a
-\td 16/Oct/2009
-
 \wd untruth _see_ lie [n.]
 \thes untruth _see_ lie [n.]
 \is X-ref.
@@ -22283,6 +23071,11 @@ porridge'  pronounced 'tee zed'
 \is II.B.5.b.i
 \td 19/Jun/2008
 
+\wd use, to make use of
+\thes use, to make use of
+\is II.A.4.b
+\td 29/May/2013
+
 \wd uterine-kin _see_ relatives (mother's-side-)
 \thes uterine-kin _see_ relatives (mother's-side-)
 \is X-ref.
@@ -22292,6 +23085,11 @@ porridge'  pronounced 'tee zed'
 \thes
 \is X-ref
 \td 27/Aug/2012
+
+\wd 'vacation' [Am.] _see_ holiday
+\thes
+\is X-ref
+\td 30/Oct/2013
 
 \wd vagina
 \thes vagina
@@ -22420,6 +23218,11 @@ porridge'  pronounced 'tee zed'
 \thes viper
 \is I.B.3.b
 \td 23/Oct/2004
+
+\wd 'virgin' land, uncultivated
+\thes 'virgin' land, uncultivated
+\is II.D.1
+\td 09/Oct/2013
 
 \wd viscous, thick
 \thes viscous, thick
@@ -22776,6 +23579,11 @@ porridge'  pronounced 'tee zed'
 \is II.D.1.e
 \td 20/Oct/2004
 
+\wd wattle (of cock/rooster)
+\thes wattle (of cock/rooster)
+\is II.D.2.b
+\td 13/Jul/2013
+
 \wd wave, a
 \thes wave, a
 \is I.A.4.b
@@ -22873,6 +23681,11 @@ porridge'  pronounced 'tee zed'
 \thes weave, to (cloth)
 \is II.D.6.a
 \td 28/Apr/2008
+
+\wd weaving equipment
+\thes weaving equipment
+\is II.D.6.a
+\td 10/Jul/2013
 
 \wd web
 \thes web
@@ -22991,10 +23804,16 @@ porridge'  pronounced 'tee zed'
 \thes West
 \is I.C.3.c
 
+\wd wet sth. (_e.g._ with spit, urine)
+\thes wet sth. (_e.g._ with spit, urine)
+\is I.C.6.e
+\td 30/Mar/2013
+
 \wd wet sth., to; moisten
 \thes wet sth., to; moisten
 \is I.A.4.c
-\td 07/Aug/2008
+\is II.A.4.d
+\td 26/Jul/2013
 
 \wd wet [adj.]
 \thes wet [adj.]
@@ -23030,6 +23849,11 @@ porridge'  pronounced 'tee zed'
 \is I.C.6.g
 \td 31/Oct/2008
 
+\wd what sort?
+\thes what sort?
+\is II.B.2
+\td 18/Jun/2013
+
 \wd what?
 \thes what?
 \is II.B.2
@@ -23056,6 +23880,11 @@ porridge'  pronounced 'tee zed'
 \is I.C.4.b
 \is II.B.2
 \td 25/Apr/2008
+
+\wd when, time at which
+\thes when, time at which
+\is I.C.4.b
+\td 11/Jun/2013
 
 \wd where?
 \thes where?
@@ -23156,6 +23985,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \thes whole
 \is I.C.1.c
 \td 23/Oct/2004
+
+\wd wholly, completely
+\thes wholly, completely
+\is I.C.1.c
+\td 24/Sep/2013
 
 \wd whooping cough
 \thes whooping cough
@@ -23299,6 +24133,11 @@ III [Legon : University of Ghana Linguistics Department] pp.
 \is II.D.6.e
 \is II.D.6.h.iii
 \td 07/Jun/2008
+
+\wd windpipe
+\thes windpipe
+\is II.A.1.c
+\td 08/Jul/2013
 
 \wd wind, to; wind up thread, rope
 \thes wind, to; wind up thread, rope
@@ -23448,6 +24287,12 @@ different in detail in each ethnic group.
 \thes womb; pregnancy
 \is II.A.1.c
 
+\wd women's-group leader, 'chaperone'
+\thes women's-group leader, 'chaperone'
+\is II.E.2.b
+\is II.E.5.d.ii
+\td 26/Jul/2013
+
 \wd wonder about, debate internally
 \thes wonder about, debate internally
 \is II.B.3
@@ -23574,6 +24419,11 @@ worried, to be ~
 \thes wrestling
 \is II.E.5.f
 
+\wd wring sth.
+\thes wring sth.
+\is II.A.4.d
+\td 22/Oct/2013
+
 \wd wrinkle
 \thes wrinkle
 \is I.C.6.c
@@ -23634,6 +24484,11 @@ worried, to be ~
 \thes yam-stick
 \is II.D.1.d
 \td 05/Feb/2011
+
+\wd yam-vine
+\thes yam-vine
+\is II.D.1.d
+\td 03/Oct/2013
 
 \wd yawn
 \thes yawn
@@ -23897,10 +24752,10 @@ worried, to be ~
 
 \wd [exclamations]
 \thes [exclamations]
-\is II.B.2 
+\is II.B.2.b.ii
 \is II.B.3.b
 \is I.C.1.f
-\td 23/Jul/2010
+\td 21/May/2013
 
 \wd [Grammatical particles]
 \thes [Grammatical particles]
@@ -23922,7 +24777,7 @@ worried, to be ~
 \wd [pronouns]
 \thes [pronouns]
 \is II.E.1.a
-\td 06/Aug/2012
+\td 08/Jul/2013
 
 \wd [purpose]
 \thes [purpose]
