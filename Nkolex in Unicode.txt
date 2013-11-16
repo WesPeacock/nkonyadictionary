@@ -3788,22 +3788,15 @@
 \ph bakɛ
 \ps TIME
 \ge predawn
-\sd TN_
+\sd TN_I.C.4.b
 \de early morning hours before sunrise
 \xv Nɩ ɔkɛ bakɛ fonu batɛ ɔbɔn a, mɩdɛ fʋ ɩpan da.
 \xe If tomorrow dawn you should hear a rooster crow I am thanking you.
 \rf Tape:1-2-323
-\cf bakɛ
-\cf maa nɩ mɩ nɩ
-\cf ntʋpwɛ
-\cf ntʋpwɛnye
-\cf nyankɩ
-\cf onye
-\cf ɔpa
-\cf ɔpawisʋ
-\cf ɔyɩ lakɛ
-\cf ɔyɩ nsɩnɛ
-\dt 17/Dec/2012
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
+\dt 09/Nov/2013
 
 \lx balɩ
 \ph bálɪ́
@@ -3880,7 +3873,7 @@
 \xe The place that hatred and jealousy is, only confusion is there.
 \xe Where there is hatred and jealousy there will be confusion.
 \rf Tape:1-2-344
-\dt 06/Aug/2012
+\dt 16/Nov/2013
 
 \lx batafɔ
 \ph batafɔʔ(H)
@@ -7692,11 +7685,15 @@
 \lx fɔɔn
 \ph fɔ̃ː
 \ps TIME
-\ge after sunset
-\sd TN_
+\ge twilight
+\sd TN_I.C.4.b
 \de evening after sunset
 \cf ma nɩ mɩ nɩ
-\dt 27/Aug/2012
+\ce dusk
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
+\dt 09/Nov/2013
 
 \lx fra
 \ph frá
@@ -17345,19 +17342,14 @@ cf fonflo
 \ph manɪmɪ́nɪ́
 \ps TIME
 \ge dusk
-\sd TN_
+\sd TN_I.C.4.b
 \de dusk
 \cf fɔɔn
-\cf ntʋpwɛnye
-\cf bakɛ
-\cf ntʋpwɛ
-\cf nyankɩ
-\cf onye
-\cf ɔpa
-\cf ɔpawisʋ
-\cf ɔyɩ lakɛ
-\cf ɔyɩ nsɩnɛ
-\dt 27/Aug/2012
+\ce dusk
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
+\dt 09/Nov/2013
 
 \lx ma ɔdwɛ
 \ph ma ɔdwɛ
@@ -20184,37 +20176,29 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ph ntʊ́pwɛ́
 \ps n
 \ge evening
-\sd TN_
+\sd TN_I.C.4.b
 \de evening
 \xv Nɩ akʋ bɔyɔ ndɔtɔ a, ntʋpwɛ bʋtɛba woyitɔ, tsufɛ owí ɔnɔ tɔwa ɔlɩn ɔpa.
 \xe When some people go to farm, they come back home in the evening, because the sun becomes hot in the afternoon.
-\cf bakɛ
-\cf maa nɩ mɩ nɩ
-\cf ntʋpwɛnye
-\cf nyankɩ
-\cf onye
-\cf ɔpa
-\cf ɔpawisʋ
-\cf ɔyɩ lakɛ
-\cf ɔyɩ nsɩnɛ
-\dt 06/Aug/2012
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
+\dt 09/Nov/2013
 
 \lx ntʋpwɛnye
 \ph ntʊpwɛɲé
 \ps n
 \ge dusk
-\sd TN_
+\sd TN_I.C.4.b
 \de dusk
-\cf maa nɩ mɩ nɩ
-\cf bakɛ
-\cf ntʋpwɛ
-\cf nyankɩ
-\cf onye
-\cf ɔpa
-\cf ɔpawisʋ
-\cf ɔyɩ lakɛ
-\cf ɔyɩ nsɩnɛ
-\dt 06/Aug/2012
+\cf ma nɩ mɩ nɩ
+\ce dusk
+\cf fɔɔn
+\ce dusk
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
+\dt 09/Nov/2013
 
 \lx nu
 \ph núʔ(H)
@@ -20686,22 +20670,39 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ph ɲaŋkɪ
 \ps TIME
 \ge morning
-\sd TN_
+\sd TN_I.C.4.b
 \de morning
 \xv Ɔkɛ nyankɩ notua yɔ ndɔ.
 \xe Tomorrow morning I will get up early and go to farm.
 \rf Tape:5-1-530
 \rf Stewart List:1105
+\nt Words and expressions describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ lakɛ (sunrise, world lightening), nyankɩ (morning), ɔpawisʋ (noon), ɔpa (early afternoon), owi lapɔn (late afternoon), ntʋpwɛ (evening), maa nɩ mɩ nɩ (dusk), fɔɔn (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12 - 1 a.m.)
 \cf bakɛ
-\cf maa nɩ mɩ nɩ
-\cf ntʋpwɛ
-\cf ntʋpwɛnye
-\cf onye
-\cf ɔpa
-\cf ɔpawisʋ
+\ce predawn
 \cf ɔyɩ lakɛ
+\ce dawn
+\cf ɔpawisʋ
+\ce noon
+\cf ɔpablɩsʋ
+\ce noon
+\cf ɔpa
+\ce early afternoon
+\cf ntʋpwɛ
+\ce evening
+\cf owi lapɔn
+\ce late afternoon
+\nt entry for owi lapɔn is under "pɔn"
+\cf fɔɔn
+\ce after sunset
+\cf ma nɩ mɩ nɩ
+\ce dusk
+\cf ntʋpwɛnye
+\ce dusk
+\cf onye
+\ce night time
 \cf ɔyɩ nsɩnɛ
-\dt 17/Aug/2012
+\ce midnight
+\dt 16/Nov/2013
 
 \lx nyankɩ
 \hm 2
@@ -23066,7 +23067,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph oɲéʔ
 \ps n
 \ge night
-\sd TN_
+\sd TN_TN_I.C.4.b; I.A.1
 \de night
 \va enye
 \ve South
@@ -23076,9 +23077,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ntsrakpabi tɛdɩnka onye.
 \xe The stars come out at night.
 \rf Tape:6-1-548
-\nt From ths: words describing time of day: bakɛ (early morning hours before sunrise), ɔyɩ lakɛ (sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ (noon), ntʋpwɛ (evening), maa nɩ mɩ nɩ (dusk), onye (night), ɔyɩ nsɩnɛ (midnight 12 - 1 a.m. )
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
 \rf Stewart List:1104
-\dt 20/Sep/2012
+\dt 09/Nov/2013
 
 \lx onyelulu
 \ph oɲelulúʔ
@@ -27204,24 +27207,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔpa(H)
 \ps n
 \ge early afternoon
-\sd TN_
+\sd TN_I.C.4.b
 \de early afternoon
 \va ɛpa
 \ve South
 \xv Ɔkpa natɩ ɔpa ma alɛ tsufɛ owí tɛlɩn dʋbɩ, mʋ́ titriu ɔpawisʋ.
 \xe Walking in the early afternoon is bad because the sun shines too much, especially at noon.
 \rf Tape:6-1-275
-\cf bakɛ
-\cf maa nɩ mɩ nɩ
-\cf ntʋpwɛ
-\cf ntʋpwɛnye
-\cf nyankɩ
-\cf onye
 \cf ɔpawisʋ
-\cf ɔyɩ lakɛ
-\cf ɔyɩ nsɩnɛ
+\ce noon
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
 \rf Stewart List:1106
-\dt 01/Oct/2012
+\dt 09/Nov/2013
 
 \lx ɔpá
 \ph ɔpá
@@ -27250,6 +27249,23 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔyɩ ɔpá amʋ́ʋ́ nɔwa fʋ sumbi amʋ a, bɩansʋ fɛba nɩ?
 \xe I sent you on the errand long ago, are you now coming?
 \dt 09/Aug/2012
+
+\lx ɔpablɩsʋ
+\ph ɔpablɪ́sʊ́
+\ps n
+\ge noon
+\sd TN_I.C.4.b
+\de noon
+\va ɛpablɩsʋ
+\ve South
+\cf ɔpa
+\ce early afternoon
+\cf ɔpablɩsʋ
+\ce noon
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
+\dt 16/Nov/2013
 
 \lx ɔpalɩ
 \ph ɔpalɪ́
@@ -27300,23 +27316,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔpawísʊ́
 \ps n
 \ge noon
-\sd TN_
+\sd TN_I.C.4.b
 \de noon
 \va ɛpawisʋ
 \ve South
 \xv Ɔkpa natɩ ɔpa ma alɛ tsufɛ owí tɛlɩn dʋbɩ, mʋ́ titriu ɔpawisʋ.
 \xe Walking in the early afternoon is bad because the sun shines too much, especially at noon.
 \rf Tape:6-1-275
-\cf bakɛ
-\cf maa nɩ mɩ nɩ
-\cf ntʋpwɛ
-\cf ntʋpwɛnye
-\cf nyankɩ
-\cf onye
 \cf ɔpa
-\cf ɔyɩ lakɛ
-\cf ɔyɩ nsɩnɛ
-\dt 06/Aug/2012
+\ce early afternoon
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
+\dt 09/Nov/2013
 
 \lx ɔpayin
 \ph ɔpayĩʔ
@@ -28850,24 +28862,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps TIME
 \nt JG contrast with ɔyɩkɛhɛ/ɛyɩkɛhɛ
 \ge dawn
-\sd TN_
-\de dawn
-\cf bakɛ
-\cf maa nɩ mɩ nɩ
-\cf ntʋpwɛ
-\cf ntʋpwɛnye
-\cf nyankɩ
-\cf ɔpa
-\cf ɔpawisʋ
-\cf onye (night)
-\cf ɔyɩ nsɩnɛ
-\dt 06/Aug/2012
+\sd TN_I.C.4.b; I.A.1
+\de the time that the sun rises
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
+\dt 09/Nov/2013
 
 \lx ɔyɩ nsɩnɛ
 \ph ɔyɪ́nsɪnɛ́
 \ps n
 \ge midnight
-\sd TN_
+\sd TN_TN_I.C.4.b
 \de midnight
 \cf bakɛ
 \cf maa nɩ mɩ nɩ
@@ -28878,7 +28884,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ɔpa
 \cf ɔpawisʋ
 \cf ɔyɩ lakɛ
-\dt 06/Aug/2012
+\dt 09/Nov/2013
 
 \lx ɔyɩkɛhɛtɔ
 \ph ɔyɪkɛhɛtɔ
@@ -29720,6 +29726,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to become weak
 \xv Mɩ bi lɔpɔn sʋ, mʋ aba bʋtɛda mʋ.
 \xe My son is weak, so his mates always hit him.
+\se owi lapon
+\ph owi lapɔ̃ʔ(L)
+\ge late afternoon
+\de In the afternoon when it is getting cooler
+\lt sun has weakened
+\cf nyankɩ1
+\ce morning
+\nt see nyankɩ1 for other words for time of day
 \sn 2
 \ge soft
 \sd TN_
@@ -29741,7 +29755,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_
 \de to declare guilty
 \rf Stewart List:3250
-\dt 23/Aug/2012
+\dt 09/Nov/2013
 
 \lx pɔntɔ
 \ph pɔ̃ntɔ(H)
