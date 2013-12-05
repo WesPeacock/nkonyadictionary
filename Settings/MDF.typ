@@ -891,8 +891,8 @@
 \match_char c
 \-fil
 
-\+fil MarkerPresent
-\mkr np
+\+fil MarkercfPresent
+\mkr cf
 \match_char c
 \-fil
 
@@ -1015,6 +1015,7 @@
 \-expMDF
 
 \+expRTF Rich Text Format
+\exportedFile C:\My Toolbox Projects\Nkonya\tmp\nyanke.rtf
 \+rtfPageSetup 
 \paperSize letter
 \topMargin 1
@@ -1032,7 +1033,8 @@
 \+expSF Standard Format
 \-expSF
 
-\expDefault Multi-Dictionary Formatter
+\expDefault Rich Text Format
+\CurrentRecord
 \-expset
 \PreventNumbering
 \DisableNumbering

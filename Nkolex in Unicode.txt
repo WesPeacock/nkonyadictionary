@@ -912,11 +912,13 @@
 \bw Akan fi:afutu LLH
 \xv Ha mʋ afutuo, osi atɔ wi.
 \xe Advise him to stop stealing.
-\cf ɔfʋ
+\cf tu ɔfʋ
+\ce advise
 \cf tɔɩ kpla
+\ce advise
 \xv afutuo ɔhapʋ
 \xe counsellor
-\dt 05/Oct/2012
+\dt 16/Nov/2013
 
 \lx afʋfʋ
 \ph afʊfʊʔ
@@ -1084,7 +1086,8 @@
 \xe Nkonyas inherit fathers' possessions, but Ashantis inherit their maternal uncle's.
 \rf Tape:1-1-229
 \cf ɩtonya
-\dt 16/Dec/2012
+\ce possessions
+\dt 16/Nov/2013
 
 \lx agyawunu
 \ph aʤawunu(H)
@@ -1952,8 +1955,9 @@
 \xv Magyi ɔha anfɩ ɔba anfɩ? Mɩ bitɛpʋ nɩ.
 \xe Who is that coming? He is my uncle.
 \cf ɔmɛnkɛ
+\ce what day
 \nt see ɔmɛnkɛ entry for notes on -mɛ- questions.
-\dt 29/Oct/2013
+\dt 16/Nov/2013
 
 \lx Amma
 \ph ámːa
@@ -2445,14 +2449,15 @@
 \ph apɛ́(H)
 \ps n
 \ge will
-\sd TN_
+\sd TN_II.B.4
 \de will; desire
 \bw Akan fi:apɛ LH
 \cf ɔdwɛla
+\ce will
 \xv Lowu igyi Bulu ɔdwɛla.
 \xe Death is God's will.
 \rf Tape:1-1-532
-\dt 01/Sep/2012
+\dt 16/Nov/2013
 
 \lx apinabwɛbi
 \ph apinabwɛbí
@@ -2624,9 +2629,10 @@
 \de cross
 \bw Akan fi:asendua LHLL
 \cf oyikpalihɛ
+\ce cross
 \xv Bɛda mʋ sian asenduasʋ.
 \xe He was nailed on the cross.
-\dt 05/Oct/2012
+\dt 16/Nov/2013
 
 \lx asesegua
 \ph aséségúá
@@ -34484,19 +34490,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to ferment with yeast
 \dt 14/Sep/2012
 
-\lx tu
-\hm 3
-\ph túʔ(H)
+\lx tu ɔfʋ
+\ph túʔ(H) ɔfʊ
 \ps v
 \ge advise
-\sd TN_
+\sd TN_II.B.2.b
 \de to advise
-\nt The equivalent of "tu fʋ" in Nkonya is "tɔɩ kpla".
-\bw Akan fi:tu
-\xv Ototu amʋ́ fʋ.
+\nt The equivalent of "tu ɔfʋ" in Nkonya is "tɔɩ kpla".
+\bw Akan fi:tu fʋ
+\xv Ototu amʋ́ ɔfʋ.
 \xe He always advised them.
 \rf Tape:7-2-570
-\dt 28/Dec/2012
+\dt 16/Nov/2013
 
 \lx tua
 \hm 1
