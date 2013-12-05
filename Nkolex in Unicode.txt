@@ -207,19 +207,17 @@
 \ps PropN
 \ge Abena
 \sd TN_II.E.1.d
-\de name given to a girl born on Tuesday
+\de name of a female born on Tuesday
 \bw Akan fi:Abena LHH
 \xv Branda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Abena.
 \xe I was born on Tuesday, so they call me Abena.
-\cf Kwabena
+\cf kwɩɩda
+\ce day name
 \cf Branda
-\cf Agyoa
-\cf Akua
-\cf Yaa
-\cf Afua
-\cf Amma
-\cf Akosua
-\dt 14/Nov/2012
+\ce Tuesday
+\cf Kwabena
+\ce Tuesday born man
+\dt 05/Dec/2013
 
 \lx abɛ
 \ph abɛ́
@@ -863,19 +861,18 @@
 \ge Afua
 \sd TN_II.E.1.d
 \de girl's name; Friday born
+\va Afia
+\ve Efia
 \xv Afua mʋa Kofibi bɔkwɩɩ ɔkɛwʋlɛ nɩ, tamɛ Kofibi ladan dʋn Afua.
 \xe Afua and Kofibi were born on the same day, but Kofibi is older than Afua.
 \bw Akan fi:Afua/Efia LHH
-\cf Kofi
+\cf kwɩɩda
+\ce day name
 \cf Fieda
-\cf Agyoa
-\cf Abena
-\cf Akua
-\cf Yaa
-\cf Amma
-\cf Akosua
-\va Afia
-\dt 28/Dec/2012
+\ce Friday
+\cf Kofi
+\ce Friday born man
+\dt 05/Dec/2013
 
 \lx afunu
 \ph afunuʔ(L)
@@ -1166,23 +1163,21 @@
 \ps PropN
 \ge Adjua
 \sd TN_II.E.1.d
-\de name of female born on Monday
+\de name of a female born on Monday
+\va Agyua
+\va Adwoa
 \xv Gyɔda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Agyoa.
 \xe I was born on Monday, so they call me Adjua.
 \xv Agyua gyi ɔtsɩ lalahɛ ánɩ́ ɔtamatsia woyitɔ.
 \xe Agyua is a bad woman who never stays in the house
 \bw Akan fi:adwoa LHH
+\cf kwɩɩda
+\ce day name
 \cf Gyɔda
-\cf Kujo
-\cf Abena
-\cf Akua
-\cf Yaa
-\cf Afua
-\cf Amma
-\cf Akosua
-\va Agyua
-\va Adwoa
-\dt 28/Dec/2012
+\ce Monday
+\cf Kudjo
+\ce Monday born man
+\dt 05/Dec/2013
 
 \lx agyonwun
 \ph aʤonwũ(H)
@@ -1490,19 +1485,18 @@
 \ge Akosua
 \sd TN_II.E.1.d
 \de name of a female born on Sunday
-\xv Akosua tɔyɔ Bulu osumkpa ekekegyiɔkɛ tamɛ ɔbʋ owuntɔ ɔnlɩn dʋn Kpankpamayin.
-\xe Akwasua goes to church all the times, but she is more wicked than a Konkomba man.
-\bw Akan fi:Akosua
-\cf Kwasi
-\cf Kwasieda
-\cf Agyoa
-\cf Abena
-\cf Akua
-\cf Yaa
-\cf Afua
-\cf Amma
 \va Akwasua
-\dt 28/Dec/2012
+\va Akos
+\xv Akosua tɔyɔ Bulu osumkpa ekekegyiɔkɛ tamɛ ɔbʋ owuntɔ ɔnlɩn dʋn Kpankpamayin.
+\xe Akwasua goes to church all the time, but she is more wicked than a Konkomba man.
+\bw Akan fi:Akosua
+\cf kwɩɩda
+\ce day name
+\cf Kwasieda
+\ce Saturday
+\cf Kwasi
+\ce Saturday born man
+\dt 05/Dec/2013
 
 \lx akɔklɔ
 \ph akɔklɔ(L)
@@ -1637,19 +1631,17 @@
 \ps PropN
 \ge Akua
 \sd TN_II.E.1.d
-\de name given to a girl born on Wednesday
+\de name of a female born on Wednesday
+\bw Akan fi:Akua
 \xv Kuoda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Akua.
 \xe I was born on Wednesday, so they call me Akua.
-\cf Kwaku
+\cf kwɩɩda
+\ce day name
 \cf Kuoda
-\cf Agyoa
-\cf Abena
-\cf Yaa
-\cf Afua
-\cf Amma
-\cf Akosua
-\bw Akan fi:Akua
-\dt 28/Dec/2012
+\ce Wednesday
+\cf Kwaku
+\ce Wednesday born man
+\dt 05/Dec/2013
 
 \lx akuda
 \ph akuda(H)
@@ -1965,19 +1957,17 @@
 \ge Amma
 \sd TN_II.E.1.d
 \de name of a female born on Saturday
+\va Amba
 \xv Amba ɔwʋlʋ bɩ sʋ, mʋgyi sukuusʋ ɔkɩpʋ nɩ.
 \xe Because of Amba's cleverness, she is now the Inspector of schools.
 \bw Akan fi:Amma
-\cf Kwame
+\cf kwɩɩda
+\ce day name
 \cf Mɩmɩnɩda
-\cf Agyoa
-\cf Abena
-\cf Akua
-\cf Yaa
-\cf Afua
-\cf Akosua
-\va Amba
-\dt 28/Dec/2012
+\ce Saturday
+\cf Kwame
+\ce Saturday born man
+\dt 05/Dec/2013
 
 \lx amʋ
 \ph amʊ
@@ -2959,13 +2949,14 @@
 \de word
 \rf Tape:1-2-036
 \cf kɩta asʋn
+\ce plan
 \cf gyi asʋn
-\cf gyi asʋn
+\ce judge
 \xv Mméekle asʋn ha wɩ; Asʋn bʋ pututɔ a, bʋtamayɔwa mʋ́ ɔfɛ ba woyitɔ.
 \xe (I won't want trouble for myself) I won't borrow trouble. A case is in the bush; they don't take a rope and drag it to the house.
 \rf Tape:1-2-043
 \cf nu asʋn asɩ
-\dt 05/Oct/2012
+\dt 05/Dec/2013
 
 \lx asʋn blɩhɛ
 \ph asʊn blɪ́hɛ́ (L)
@@ -3011,7 +3002,7 @@
 \xe Parents of a disobedient child are never happy with him.
 \cf ma bu
 \ce disrespect
-\dt 29/Oct/2013
+\dt 05/Dec/2013
 
 \lx ata anyɔ
 \ph ataɲɔʔ(H)
@@ -3873,13 +3864,14 @@
 \ps n
 \ge confusion
 \sd TN_
-\de confusion
+\de confusion; disruption
 \cf basaa
+\ce confusion
 \xv Ɔtɩnɛ ánɩ́ olu pʋ́ ɔnsɩpɛ bʋ a, basabasa sɔɔn tetsia nʋ.
 \xe The place that hatred and jealousy is, only confusion is there.
 \xe Where there is hatred and jealousy there will be confusion.
 \rf Tape:1-2-344
-\dt 16/Nov/2013
+\dt 05/Dec/2013
 
 \lx batafɔ
 \ph batafɔʔ(H)
@@ -4025,6 +4017,7 @@
 \sd TN_
 \de draw near
 \cf manta
+\ce next to
 \bw Akan fi:bɛn L
 \xv Ntsu amʋ bʋ bɛɩn anɩ.
 \xe The river is near us.
@@ -4032,7 +4025,7 @@
 \xv Ntsu amʋ lɛbɛɩn anɩ.
 \xe The river is near us.
 \xv Ntsu amʋ lɛmanta anɩ.
-\dt 17/Dec/2012
+\dt 05/Dec/2013
 
 \lx bɛlɛtɩ
 \ph bɛ́lɛtɪʔ
@@ -4072,7 +4065,8 @@
 \xe If you will come, buy a food bowl and a carrying basin for me.
 \rf Tape:1-2-394
 \cf blanwɛ
-\dt 17/Dec/2012
+\ce pan
+\dt 05/Dec/2013
 
 \lx bi
 \hm 2
@@ -4126,12 +4120,13 @@
 \xe My corn is ripe, please harvest, break it off for me.
 \rf Tape:1-2-424
 \rf Stewart List:2802
-\cf biabia Eng:break repetitively
+\cf biabia
+\ce break repetitively
 \xv Olebiabia mʋ́tɔ ha aha amʋ́ʋ́ bʋtsie nʋ amʋ.
 \xe He borke it up for the people sitting there.
 \nt words for harvesting: bia/sɩɛtɩ (break off - corn), kpɔtɩ (pluck - fruit, leaves), tɩn (cut a stalk or head of - plantain, palm nuts), puli (harvest from underground - peanuts), kwi (dig - cassava, yam)
 \nt words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off), flɔɩ (peel), maɩn: (separate from)
-\dt 28/Dec/2012
+\dt 05/Dec/2013
 
 \lx biagyi
 \ph biaʤi
@@ -4216,13 +4211,14 @@
 \xe They put on white cloths on the day that they wash their souls.
 \rf Stewart List:2787
 \cf bie ɔkla
+\ce purify
 \sn 2
 \ge menstruate
 \sd TN_
 \de menstruate
 \xv Nɩ atsɩ bebie a, bʋtamatsia akpɩpʋ woyitɔ, tsufɛ bʋtekisi.
 \xe When women menstruate, they do not stay in fetish priests' house, because it is a taboo.
-\dt 08/Aug/2012
+\dt 05/Dec/2013
 
 \lx bie ɔkla
 \ph bie ɔkláʔ
@@ -4232,8 +4228,10 @@
 \de perform a ritual for purification
 \lt bathe soul
 \cf bie
+\ce bathe
 \cf ɔkla
-\dt 09/Aug/2012
+\ce soul
+\dt 05/Dec/2013
 
 \lx bila
 \ph bílá (H)
@@ -4377,26 +4375,35 @@
 \ge left
 \sd TN_
 \de left (vs. right)
+\na The left is considered impure. Only the right hand is used for eating.
+Nothing is received or given with the left hand.
+If the right hand is soiled or can't be used for some other reason, the person will place the left hand on the back of the right wrist ot give or receive an object.
 \nt Traditionally, something put down on the left will be lost.
 \xv Napʋ tswɩ bɩnasʋ, sʋ mmowun mʋ́.
-\xe I have lost it. Lit: I put it down on the left side. So I can't find it.
+\xe I have lost it. So I can't find it. Lit: I put it down on the left side.
 \rf Tape:1-2-475
 \xv Ɔhaa tamapʋ bɩna suna mʋ woyi ɔkpa.
 \xe Nobody shows the way to his house with the left hand.
 \xe We show people our good sides not our bad sides.
 \nt Proverb
 \rf Tape:1-2-478
-\cf bɩnasʋ Eng:lefthand side, therefore north (when you stand facing east)
+\cf bɩnasʋ
+\ce lefthand side
 \rf Stewart List:0019
-\dt 23/Jul/2012
+\dt 05/Dec/2013
 
 \lx bɩnasʋ
 \ph bɪnasʊ
 \ps CNJ
+\sn 1
 \ge left side
 \sd TN_
 \de on the left
-\dt 20/Sep/2005
+\sn 2
+\ge North
+\de North
+\nt On the left when you stand facing east.
+\dt 05/Dec/2013
 
 \lx bɩsɩ
 \ph bɪsɪ(H)
@@ -4657,11 +4664,16 @@
 \rf Tape:1-2-527
 \rf Stewart List:0906
 \cf ahʋrotia
+\ce k. o. plantain
 \cf apantu
+\ce k. o. plantain
 \cf apɩmba
+\ce k. o. plantain
 \cf ata anyɔ
+\ce k. o. plantain
 \cf oniaba
-\dt 29/Oct/2013
+\ce k. o. plantain
+\dt 05/Dec/2013
 
 \lx blɔpʋ
 \ph blɔpʊ́
@@ -4710,13 +4722,25 @@
 \sd TN_
 \de bread
 \nt etymologically from bʋdo "round"
-\cf bodobodo maɩnhɛ- buns
+\cf bodobodo maɩnhɛ
+\ce buns
 \xv Oyinbi ɔkʋ bʋ nfɩ ánɩ́ ɔbʋ atɩkɔ bodobodo atuntu anu.
 \xe A boy is here that has five millet bread buns.
 \xv Bʋdɛ bodobodo amʋtɔ obuntɔ.
 \xe They are baking bread in an oven.
 \rf Tape:6-2-381
-\dt 17/Dec/2012
+\dt 05/Dec/2013
+
+\lx bodobodo maɩnhɛ
+\ps n
+\ge buns
+\de buns
+\lt detached bread
+\cf bodobodo
+\ce bread
+\cf maɩn
+\ce detach
+\dt 05/Dec/2013
 
 \lx bokiti
 \ph bókitiʔ
@@ -4926,14 +4950,22 @@
 \xe My name is Kwabena because they bore me on Tuesday.
 \rf Tape:4-1-344
 \cf Kwabena
+\ce Tuesday born man
 \cf Abena
+\ce Tuesday born woman
 \cf Gyɔda
+\ce Monday
 \cf Kuoda
+\ce Wednesday
 \cf Yaoda
+\ce Thurday
 \cf Fieda
-\cf Mɩmlɩda
+\ce Friday
+\cf Mɩmɩnɩda
+\ce Saturday
 \cf Kwasieda
-\dt 15/Sep/2013
+\ce Sunday
+\dt 05/Dec/2013
 
 \lx bregyibrɛ
 \ph bréʤíbrɛ́
@@ -7350,14 +7382,22 @@
 \xv Nkrambofɔ bʋtɔyɔ asɔrɩ Fieda.
 \xe Muslims go to church on Fridays.
 \cf Kofi
-\cf Afia
+\ce Friday born man
+\cf Afua
+\ce Friday born woman
 \cf Gyɔda
+\ce Monday
 \cf Branda
+\ce Tuesday
 \cf Kuoda
+\ce Wednesday
 \cf Yaoda
+\ce Thurday
 \cf Mɩmɩnɩda
+\ce Saturday
 \cf Kwasieda
-\dt 15/Sep/2013
+\ce Sunday
+\dt 05/Dec/2013
 
 \lx fin
 \ph fĩʔ
@@ -8838,16 +8878,23 @@
 \xe Time went by.
 \lt Sunday again gave birth to Monday
 \nt Idiom
-\cf Kwagyo
+\cf Kudjo
+\ce Monday born man
 \cf Agyoa
-\cf Gyɔda
+\ce Monday born woman
 \cf Branda
+\ce Tuesday
 \cf Kuoda
+\ce Wednesday
 \cf Yaoda
+\ce Thurday
 \cf Fieda
-\cf Mɩmlɩda
+\ce Friday
+\cf Mɩmɩnɩda
+\ce Saturday
 \cf Kwasieda
-\dt 15/Sep/2013
+\ce Sunday
+\dt 05/Dec/2013
 
 \lx gyɔɩ
 \ph ʤɔ́ɪ́
@@ -13830,15 +13877,13 @@
 \xv Fieda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kofi.
 \xe I was born on Thursday, so they call me Kofi.
 \rf Tape:4-1-339
-\cf Afia
+\cf kwɩɩda
+\ce day name
 \cf Fieda
-\cf Kwagyo
-\cf Kwabena
-\cf Kwaku
-\cf Yao
-\cf Kwame
-\cf Kwasi
-\dt 28/Dec/2012
+\ce Friday
+\cf Afua
+\ce Friday born woman
+\dt 05/Dec/2013
 
 \lx koko
 \ph koko
@@ -15675,24 +15720,20 @@ cf fonflo
 \ps PropN
 \ge Kudjo
 \sd TN_II.E.1.d
-\de male born on Monday
+\de name of a male born on Monday
 \xv Gyɔda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kudjo.
 \xe I was born on Monday, so they call me Kudjo.
 \rf Tape:4-1-339
-\cf Agyoa
-\cf Gyɔda
-\cf Kwabena
-\cf Kwaku
-\cf Yao
-\cf Kofi
-\cf Kwame
-\cf Kwasi
 \va Kwadjo
 \va Kwadwo
 \va Kujo
-\nt From ths: day names: Kwasieda (Kwasi, Akwasi, Akwasua ), Gyɔda (Kwagyo, Agyua ), Branda (Kɔmɩna, Abɩna), Kuoda (Kwaku, Akua), Yaoda (Yao, Yaa), Fieda (Kofi, Afua, Afia), Mɩmɩnɩda (Kwamɩ, Amba)
-\nt From ths: day names in Akan: Sunday (Kwesi, Akosua) Monday (Kujo, , Adjua) Tuesday (Kwabena, Abena) Wednesday (, Akua) Thursday, Friday (Kofi, Afua. Afia), Saturday (Amma, Kwamɩ)
-\dt 28/Dec/2012
+\cf kwɩɩda
+\ce day name
+\cf Gyɔda
+\ce Monday
+\cf Agyoa
+\ge Monday born woman
+\dt 05/Dec/2013
 
 \lx kufa
 \ph kufa
@@ -15917,16 +15958,24 @@ cf fonflo
 \bw Akan:kuoda (LL)
 \xv Nɩ bɔkwɩɩ ɔtsɩ Kuoda, bɛtra kwɩɩ ɔtsɩ buo mʋ Kuoda a, bɛtɩ kebi amʋ Akuakuma.
 \xe If they bear a girl on Wednesday, and the next child is also a girl born on Wednesday they call the child Akuakuma.
-\cf Akua
 \cf Kwaku
+\ce Wednesday born man
+\cf Akua
+\ce Wednesday born woman
 \cf Gyɔda
+\ce Monday
 \cf Branda
+\ce Tuesday
 \cf Yaoda
+\ce Thurday
 \cf Fieda
-\cf Mɩmlɩda
+\ce Friday
+\cf Mɩmɩnɩda
+\ce Saturday
 \cf Kwasieda
+\ce Sunday
 \rf Tape:5-1-257
-\dt 28/Jul/2013
+\dt 05/Dec/2013
 
 \lx kusubi
 \ph kusubi
@@ -16183,7 +16232,8 @@ cf fonflo
 \ps PropN
 \ge Kwabena
 \sd TN_II.E.1.d
-\de male born on Tuesday
+\de name of a male born on Tuesday
+\va Kɔmla
 \nt Akan: Kwabɩna; Ewe: Kɔmla
 \xv Mɩ da gyi Kɔmɩna tsufɛsɛ bɔkwɩɩ mɩ Branda.
 \xe My name is Kwabena because they gave birth to me on Tuesday.
@@ -16191,17 +16241,13 @@ cf fonflo
 \xv Branda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kwabena.
 \xe I was born on Tuesday, so they call me Kwabena.
 \rf Tape:4-1-339
+\cf kwɩɩda
+\ce day name
 \cf Branda
+\ce Tuesday
 \cf Abena
-\cf Kujo
-\cf Kwaku
-\cf Yao
-\cf Kofi
-\cf Kwame
-\cf Kwasi
-\nt From ths: day names: Kwasieda (Kwasi, Akwasi, Akwasua ), Gyɔda (Kwagyo, Agyua ), Branda (Kɔmɩna, Abɩna), Kuoda (Kwaku, Akua), Yaoda (Yao, Yaa), Fieda (Kofi, Afua, Afia), Mɩmɩnɩda (Kwamɩ, Amba)
-\nt From ths: day names in Akan: Sunday (Kwesi, Akosua) Monday (Kujo, , Adjua) Tuesday (Kwabena, Abena) Wednesday (, Akua) Thursday, Friday (Kofi, Afua. Afia), Saturday (Amma, Kwamɩ)
-\dt 28/Dec/2012
+\ce Tuesday born woman
+\dt 05/Dec/2013
 
 \lx kwadu
 \ph kwadú
@@ -16231,21 +16277,18 @@ cf fonflo
 \ps PropN
 \ge Kwaku
 \sd TN_II.E.1.d
-\de male born on Wednesday
+\de name of a male born on Wednesday
+\va Kweku
 \xv Kuoda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kwaku.
 \xe I was born on Wednesday, so they call me Kwaku.
 \rf Tape:4-1-339
-\cf Akua
+\cf kwɩɩda
+\ce day name
 \cf Kuoda
-\cf Kujo
-\cf Kwabena
-\cf Kwaku
-\cf Yao
-\cf Kofi
-\cf Kwame
-\cf Kwasi
-\va Kweku
-\dt 28/Dec/2012
+\ce Wednesday
+\cf Akua
+\ce Wednesday born woman
+\dt 05/Dec/2013
 
 \lx Kwame
 \ph kʷamɪ
@@ -16256,15 +16299,13 @@ cf fonflo
 \xv Mɩmnɩda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kwame.
 \xe I was born on Saturday, so they call me Kwame.
 \rf Tape:4-1-339
-\cf Amma
+\cf kwɩɩda
+\ce day name
 \cf Mɩmɩnɩda
-\cf Kujo
-\cf Kwabena
-\cf Kwaku
-\cf Yao
-\cf Kofi
-\cf Kwasi
-\dt 28/Dec/2012
+\ce Saturday
+\cf Amma
+\ce Saturday born woman
+\dt 05/Dec/2013
 
 \lx kwankwadabi
 \ph kwaŋkwadabi
@@ -16284,22 +16325,19 @@ cf fonflo
 \ge Kwesi
 \sd TN_II.E.1.d
 \de name of a male born on Sunday
+\va Kwesi
 \xv Bɔkwɩɩ mɩ Kwasieda, sʋ Kwasi bʋtɛtɩ mɩ.
 \xe I was born on Sunday, so am called Kwasi.
 \rf Tape:4-1-356
 \xv Akwasi gyi ɔha ánɩ́ ɔtamakɩ aha ansɩtɔ gyi asʋn.
 \xe Akwasi is a person who does not look in to people's face to judge people.
-\cf Akosua
+\cf kwɩɩda
+\ce day name
 \cf Kwasieda
-\cf Kujo
-\cf Kwabena
-\cf Kwaku
-\cf Yao
-\cf Kofi
-\cf Kwame
-\va Akwasi
-\va Kwesi
-\dt 28/Dec/2012
+\ce Sunday
+\cf Akosua
+\ce Sunday born woman
+\dt 05/Dec/2013
 
 \lx Kwasieda
 \ph kʷasieda
@@ -16312,19 +16350,27 @@ cf fonflo
 \xv Akristofɔ bʋtɔyɔ asɔrɩ Kwasieda.
 \xe Christians goes to church On Sundays.
 \cf Kwasi
+\ce Sunday born man
 \cf Akosua
+\ce Sunday born woman
 \cf Gyɔda
+\ce Monday
 \cf Branda
+\ce Tuesday
 \cf Kuoda
-\cf Yawda
+\ce Wednesday
+\cf Yaoda
+\ce Thurday
 \cf Fieda
+\ce Friday
 \cf Mɩmɩnɩda
+\ce Saturday
 \sn 2
 \ps n
 \ge week
 \sd TN_I.C.4.b
 \de a week, seven days
-\dt 15/Sep/2013
+\dt 05/Dec/2013
 
 \lx kwasɩa
 \ph kwasɪaʔ(L)
@@ -16485,6 +16531,50 @@ cf fonflo
 \xe You have taken out your womb and thrown it away and you have put leaves in (an idiomatic expression for loving other children more than yours)
 \rf SIL-AWL:0041
 \dt 26/Aug/2013
+
+\lx kwɩɩda
+\ph kwɪ̌ːdâʔ
+\ps n
+\ge day name
+\sd TN_I.C.4.b
+\de the name given based on what day of the week one is born
+\na A person has an affinity for those born on the same day of the week.
+They are considered to have a similar personality, and can call each other opio (sibling).
+\nt The day names are Akan loans used widely throughout Southern Ghana.
+Akans have a seven day traditional week; Nkonyas have a six day traditional week.
+\cf kwɩɩ
+\ce give birth
+\cf ɩda
+\ce name
+\cf Kudjo
+\ce Monday born man
+\cf Agyoa
+\ge Monday born woman
+\cf Kwabena
+\ce Tuesday born man
+\cf Abena
+\ge Tuesday born woman
+\cf Kwaku
+\ce Wednesday born man
+\cf Akua
+\ge Wednesday born woman
+\cf Yao
+\ce Thursday born man
+\cf Yaa
+\ge Thursday born woman
+\cf Kofi
+\ce Friday born man
+\cf Afua
+\ce Friday born woman
+\cf Kwame
+\ce Saturday born man
+\cf Amma
+\ge Saturday born woman
+\cf Kwasi
+\ce Sunday born man
+\cf Akosua
+\ge Sunday born woman
+\dt 05/Dec/2013
 
 \lx la
 \hm 1
@@ -17934,15 +18024,24 @@ cf fonflo
 \bw Akan fi:Memeneda HH
 \xv SDAfɔ bʋtɔyɔ asɔrɩ Mɩmɩnɩda.
 \xe Seventh Day Adventists go to church on Saturdays.
+\va Mimlɩda
 \cf Kwame
+\ce Saturday born man
 \cf Amma
+\ce Saturday born woman
 \cf Gyɔda
+\ce Monday
 \cf Branda
+\ce Tuesday
 \cf Kuoda
+\ce Wednesday
 \cf Yaoda
+\ce Thurday
 \cf Fieda
+\ce Friday
 \cf Kwasieda
-\dt 15/Sep/2013
+\ce Sunday
+\dt 05/Dec/2013
 
 \lx mla
 \ph mla
@@ -35821,19 +35920,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PropN
 \ge Yaa
 \sd TN_II.E.1.d
-\de name given to a girl born on Thursday
+\de name given to a female born on Thursday
 \xv Yaoda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Yaa.
 \xe I was born on Thursday, so they call me Yaa.
-\cf Yao
+\cf kwɩɩda
+\ce day name
 \cf Yaoda
-\cf Agyoa
-\cf Abena
-\cf Akua
-\cf Afua
-\cf Amma
-\cf Akosua
-\bw Akan fi:Akua
-\dt 28/Dec/2012
+\ce Thursday
+\cf Yao
+\ce Thursday born man
+\dt 05/Dec/2013
 
 \lx yaa
 \hm 1
@@ -35928,20 +36024,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PropN
 \ge Yao
 \sd TN_II.E.1.d
-\de male born on Thursday
+\de name of a male born on Thursday
 \xv Yaoda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Yao.
 \xe I was born on Thursday, so they call me Yao.
 \rf Tape:4-1-339
-\cf Yaa
+\cf kwɩɩda
+\ce day name
 \cf Yaoda
-\cf Kujo
-\cf Kwabena
-\cf Kwaku
-\cf Kofi
-\cf Kwame
-\cf Kwasi
-\cf Kweku
-\dt 02/Jan/2013
+\ce Thursday
+\cf Yaa
+\ce Thursday born woman
+\dt 05/Dec/2013
 
 \lx Yaoda
 \ph yáoda(H)
@@ -35954,14 +36047,22 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Last Thursday, I went to the city.
 \rf Tape:3-1-108
 \cf Yao
+\ce Thursday born man
 \cf Yaa
+\ce Thursday born woman
 \cf Gyɔda
+\ce Monday
 \cf Branda
+\ce Tuesday
 \cf Kuoda
+\ce Wednesday
 \cf Fieda
-\cf Mɩmlɩda
+\ce Friday
+\cf Mɩmɩnɩda
+\ce Saturday
 \cf Kwasieda
-\dt 16/Sep/2013
+\ce Sunday
+\dt 05/Dec/2013
 
 \lx yaya
 \ph yayá
