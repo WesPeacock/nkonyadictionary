@@ -803,6 +803,8 @@
 \xv Afrimu tɔsʋra atɔ dʋn ɔpɔnkɔ.
 \xe A donkey carries things more than a horse.
 \rf Stewart List:0630
+\sy landuu
+\dt 22/Dec/2013
 \dt 28/Jul/2013
 
 \lx afu
@@ -1394,6 +1396,16 @@
 \rf Tape:1-1-319
 \dt 01/Sep/2012
 
+\lx akisitɔ
+\ph akisitɔ
+\ps n
+\ge forbidden things
+\sd TN_II.B.6.a
+\de things that have been forbidden
+\cf kisi
+\ce taboo (v)
+\dt 22/Dec/2013
+
 \lx akɩankpatɔ
 \ph akɪ́aŋ͡mk͡patɔʔ(L)
 \ps n
@@ -1736,8 +1748,8 @@
 \de to put things together
 \bw English fi:account
 \xv Nɩ fʋmeyin akunta a, fʋmɛtalɩ yɔ kɔba ɔyaɩkpa.
-\xe If you don't know calculations you can't work at the bank.
-\dt 05/Oct/2012
+\xe If you don't know calculations you can't go to the bank.
+\dt 11/Dec/2013
 
 \lx akʋkrʋwa
 \ph akʊkrʊwa(H)
@@ -5057,10 +5069,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-2-593
 \rf Stewart List:1101
 \xv brɛ mɔmʋ?
-\xe When - What time?
+\xe when - what time?
 \rf Stewart List:1602
 \cf ɔmɛnkɛ
-\dt 28/Jul/2013
+\ce when - what day?
+\dt 11/Dec/2013
 
 \lx brɛkʋ
 \ph brɛ́kʊ
@@ -5181,14 +5194,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge count
 \sd TN_
 \de to count s.t.
+\cf akunta
+\ce calculations
 \sn 3
 \ge fold
 \sd TN_
 \de to fold something a certain number of times (requires a number)
 \xv Bu tati amʋtɔ anyɔ afʋpʋ dɩda kebi amʋ.
 \xe Fold the cloth in two so that you can wrap it around the child.
-\cf kunta
-\dt 15/Sep/2012
+\dt 11/Dec/2013
 
 \lx bu
 \ph búʔ (H)
@@ -5351,12 +5365,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \pl abuto
 \ph abutó
 \cf butobi
+\ce small bead
 \xv Ɔtsɩ amʋ́ʋ́ ɔtɛfɛ abuto amʋ laba nfɩ igye.
 \xe The woman that sells the beads, came here yesterday.
 \xv Ɔtsɩ amʋ dɩdɩ abuto mʋ osiesʋ.
 \xe The woman wore beads about her waist
 \rf Stewart List:1246
-\dt 05/Jul/2013
+\dt 12/Dec/2013
 
 \lx buto wʋlɩhɛ
 \ph buto
@@ -5461,6 +5476,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe He got drunk on drink (palm wine), so he wasn't able to eat yesterday evening.
 \rf Tape:2-1-111
 \cf nta ɔbʋpʋ
+\ce drunkard
 \xv Bʋmabwɛ nta abʋpʋ.
 \xe They shouldn't be drunkards.
 \rf Stewart List:2076
@@ -5475,7 +5491,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge wilt
 \sd TN_I.C.5; I.C.6.d; I.C.6.e
 \de to wilt
-\dt 29/Aug/2013
+\dt 12/Dec/2013
 
 \lx bʋ-
 \hm 4
@@ -5552,8 +5568,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe He should go today because his corn is full of weeds.
 \rf Tape:6-2-094
 \cf ɔbɔ
+\ce full
 \rf Stewart List:2488
-\dt 06/Aug/2012
+\dt 12/Dec/2013
 
 \lx bʋmblaan
 \ph bʊ́mblã́ː
@@ -5655,10 +5672,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge make
 \sd TN_II.A.4.e
 \de to make something
-\nt From ths: words used for making: bwɛ: ɔfɛ, nta, abiofobi, atogyihɛ, agywɩɩn, etc; la: oli, isia, ɩká; lʋ: lakpa, blawunu, tati; sre: ɔklʋn, atɔ; gyi: ɩban, mba; da: kakaʋ, kantankpa, atukeekee; dɔ: ndɔ, lɛ: oputsu; yi: obu, ɔka; pwɛ: ɔswɩ, obu
 \rf Stewart List:2089
 \cf bwɛ agywɩɩn
-\dt 28/Jul/2013
+\ce decide
+\dt 12/Dec/2013
 
 \lx bwɛ agywɩɩn
 \ph bʷɛ́ aʤwɪ̃ː(H)
@@ -5667,7 +5684,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_II.B.1
 \de decide; make up your mind
 \cf agywɩɩn
-\dt 05/Jul/2013
+\ce mind
+\dt 12/Dec/2013
 
 \lx bwie
 \ph bwie
@@ -5992,7 +6010,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Stewart List:1182
 \pl adaka
 \ph adáka(H)
-\cf dakabi HLH Eng:small box, chest
+\cf dakabi
+\ce small box
 \sn 2
 \ge coffin
 \sd TN_1.C.1.d
@@ -6001,7 +6020,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Every person's last house is his coffin.
 \nt proverb
 \rf Tape:2-1-221
-\dt 28/Oct/2013
+\dt 12/Dec/2013
+
+\lx dakabi
+\ph dakábiʔ
+\ps n
+\ge small box
+\de a small box; chest
+\dt 12/Dec/2013
 
 \lx dakpadakpa
 \ph dak͡padak͡pa
@@ -6074,6 +6100,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de turn around
 \cf damli ɩklʋntɔ
+\ce repent
 \xv Nɩ fɔyɔ nkpa kpalobi a, fayinki damli ba.
 \xe When you go further you should turn back.
 \rf Tape:2-1-240
@@ -6086,7 +6113,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-244
 \rf Stewart List:2018
 \rf Stewart List:2752
-\dt 08/Sep/2012
+\dt 12/Dec/2013
 
 \lx damli ɩklʋntɔ
 \ph dámlí ɪklʊ̃tɔ
@@ -6211,12 +6238,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ntɔntrɔbwɩ bʋtekle atɔ debidebi puta.
 \xe Small black ants like gathering on, crawling over sweet things.
 \cf dɛdɛ
+\ce sweet
 \rf Tape:2-1-274
 \xv Bʋdɛ nta debidebi fɛ biasʋ.
 \xe They are selling sweet drinks (akɔklɔ, liha, minerals) in the market.
 \rf Tape:2-1-277
 \rf Stewart List:1678
-\dt 28/Jul/2013
+\dt 12/Dec/2013
 
 \lx dedua
 \ph dedua(H)
@@ -6439,7 +6467,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \ge fall
 \sd TN_II.A.4.c
-\de fall down
+\de fall down from a standing position
 \xv Ɔlɛsrɛɩ dɩda bʋsʋ nʋ, tsufɛ nʋ lɔwa ɔplɩ.
 \xe He slipped and fell down on the mountain because it was slippery there.
 \rf Tape:2-1-316
@@ -6447,7 +6475,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Our bathing area is slippery, so yesterday I fell down there.
 \nt From ths: words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpawie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
 \rf Stewart List:2485
-\dt 28/Jul/2013
+\cf kpada
+\ce fall from height
+\dt 22/Dec/2013
 
 \lx dɩdá
 \hm 2
@@ -6595,7 +6625,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Anɩtɔpʋ akapɛ dɩnkɩ anɩ mi nɩ ɩbʋla.
 \xe We take scissors and cut our hair when it is full.
 \cf kpa nwun
-\dt 29/Oct/2013
+\ce shave head
+\dt 12/Dec/2013
 
 \lx dɩnsʋ
 \ph dɪnsʊ
@@ -6908,8 +6939,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-413
 \nt nominal form ɔdwɛ
 \cf ɔdwɛpʋ
+\ce lover
 \rf Stewart List:3253
-\dt 17/Dec/2012
+\dt 12/Dec/2013
 
 \lx dwiin
 \ph dwĩ̌ː
@@ -6941,11 +6973,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-420
 \rf Stewart List:2812
 \cf dudu
+\ce leak
 \xv Bokiti amʋ latii, sʋ ntsu amʋ dɛdwɩɩ. Sʋ nɩ fʋmɔwa ɔsa tin mʋ́ a, bodudu ta.
 \xe The bucket is torn so the water is dripping. So if you don't hurry and mend it (stop it) it will leak.
 \rf Tape:2-1-424
 \rf Stewart List:2494
-\dt 17/Dec/2012
+\dt 12/Dec/2013
 
 \lx ee
 \hm 1
@@ -7032,7 +7065,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ŋkɛ
 \va ɔkɛ
 \ve North
-\cf gyi nkɛ Eng:hold a celebration such as Easter
+\cf gyi nkɛ
+\ce celebrate
 \rf Tape:5-2-417
 \nt the elders when they count days greater than ten repeat ɔkɛ between the tens and the single digit. This is disappearing from the speech of the youth.
 \xv Ndɛ gyi nkɛ du ɔkɛ saasɩ.
@@ -7044,7 +7078,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Okekegyiɔkɛ bakɛ a, abatɛ bʋtɔbɔn.
 \xe Every early morning, roosters crow.
 \rf Stewart List:1102
-\dt 17/Dec/2012
+\dt 12/Dec/2013
 
 \lx ɛkɛkɛɛkɛ
 \ph ɛkɛkɛːkɛ (H)
@@ -7079,9 +7113,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Tsu ɛwɛ amʋ ha mɩ ansa ntsu.
 \xe Bring the calabash so that I can fetch water.
 \rf Tape:6-1-567
-\cf onuwe- a big drinking calabash
+\cf onuwe
+\ce drinking calabash
 \rf Stewart List:1210
-\dt 17/Dec/2012
+\dt 12/Dec/2013
 
 \lx fa
 \hm 1
@@ -7098,7 +7133,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:4-1-482
 \rf Stewart List:2480
 \cf nyankɩ2
-\dt 29/Oct/2013
+\ce cross
+\dt 12/Dec/2013
 
 \lx fa
 \hm 2
@@ -7189,7 +7225,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Atɔsʋrahɛ amʋtɔ gyi fakaa sʋ kebi amʋ ɔbɛ́talɩ tsu mʋ́ sʋra.
 \xe The load is light, so the small child can carry it.
 \cf fontroo
-\dt 22/Aug/2012
+\ce light (in weight)
+\dt 12/Dec/2013
 
 \lx fanfan
 \ph fã́fã́
@@ -7231,14 +7268,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge sell
 \sd TN_
 \de to sell
-\cf atɔfɛhɛ Eng:things being sold
 \xv Fɛ́fɛ mʋ́ fɛ́ɛ́.
 \xe You will sell it all.
 \rf Tape:2-1-461
 \xv Ndɛ atɔ fɛ biasʋ.
 \xe I am selling things at the market.
 \rf Tape:2-1-464
-\dt 14/Aug/2012
+\dt 12/Dec/2013
 
 \lx fɛ
 \hm 2
@@ -7302,7 +7338,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɩ fɔpʋ trʋkpa iye wuli fɛflɛ a, ɩtɔwa ɔfan dʋbɩ.
 \xe If you use billy goat meat and stir corn porridge, it has a fine scent.
 \rf Tape:2-1-474
-\dt 05/Jul/2012
+\dt 22/Dec/2013
 
 \lx fɛɩ
 \ph fɛɪ́
@@ -7378,10 +7414,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe It has satisfied my thirst.
 \lt It has met my throat.
 \rf Tape:2-1-493
-\lf Idiom = ki fia
-\le to go through exaustively
-\xv Oleki fia wulu amʋ kasian. Omowun mʋ kufa
-\xe He went through the whole town, but he couldn't find his sheep.
 \sn 2
 \ge assemble
 \sd TN_
@@ -7389,15 +7421,17 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ndɛ Nkonya awie bafia Ntumda.
 \xe Today the Nkonya chiefs have met in Ntumda.
 \rf Stewart List:2472
+\cf ki fia
+\ce search exaustively
 \cf tʋ
-\nt From ths: words for meeting: tʋ ( meet unintentionally, catch up to ), tii (meet unexpectedly, break through to), fia ( meet or assemble intentionally)
+\ce meet (on the way)
 \cf ofiakpa Eng:meeting place
 \xv Brɛ ánɩ́ nɔyɔ a, saa mʋ ɛ ɔba, sʋ anɩlefia aba ɔkpatɔ.
 \xe The time that I went, unexpectedly he also came so we met each other on the road.
 \rf Tape:2-1-495
 \rf Stewart List:2472
 \rf Stewart List:2476
-\dt 14/Aug/2012
+\dt 12/Dec/2013
 
 \lx fia
 \ph fía
@@ -7467,13 +7501,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de close; used of doors
 \cf bun
+\ce cover
 \xv Fin klʋn amʋ ha mɩ, tsufɛ nyankpʋ mʋ́a afu ɩbá.
 \xe Close the door for him because rain and wind are coming.
 \rf Tape:2-1-504
 \xv Ɔdɛdalɩ, sʋ alafin obu.
 \xe He's going out so he has shut up the room.
 \rf Stewart List:2309
-\dt 17/Dec/2012
+\dt 12/Dec/2013
 
 \lx finfɛ
 \ph fiɱfɛ
@@ -7643,13 +7678,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Ask him (you say) if he has heard the matter that has come.
 \rf Tape:2-1-537
 \cf ɔfɩtɛkpa
+\ce questioning place
 \xv Naba mɩ asʋn amʋ asɩ ɔfɩtɛkpa tsu fʋ wa.
 \xe I have come here to ask about my case.
 \xv Nɛba bɛfɩtɛ fʋ mɩ asʋn amʋ asɩ
 \nt Perhaps someone has told you about some matter that concerns you but you didn't understand it all so later you go to him for a further explanation.
 \rf Stewart List:3001
 \rf Stewart List:3223
-\dt 28/Dec/2012
+\dt 12/Dec/2013
 
 \lx flawasɩ
 \ph fláwasɪʔ
@@ -7688,8 +7724,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-544
 \rf Stewart List:2761
 \cf maɩn
-\cf piɛɩ
+\ce peel off
+\cf pɩɛɩ
+\ce scrape
 \cf sre
+\ce carve with knife
 \sn 2
 \ge hatch
 \sd TN_
@@ -7697,7 +7736,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Batɛ amʋ laflɔɩ abɔnɔ asa, lasi anyɔ.
 \xe The chicken has hatched three eggs. There are two left.
 \rf Stewart List:2204
-\dt 15/Sep/2012
+\dt 12/Dec/2013
 
 \lx fonflo
 \ph foɱfloʔ
@@ -7712,7 +7751,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fonflo tɛdamli bwɛ konkolibatɛ.
 \xe A caterpillar turns into a butterfly.
 \cf tɔsɩ
-\dt 28/Jul/2013
+\ce stinging caterpillar
+\dt 12/Dec/2013
 
 \lx fontroo
 \ph fóntróː (H)
@@ -7770,12 +7810,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de far
 \cf tsutsu
+\ce far
 \xv ɩbʋ fɔ
 \xe It is far.
 \xv Ndɔ amʋtɔ bʋ fɔ.
 \xe The farm is far from here.
 \rf Tape:2-1-558
-\dt 15/Aug/2012
+\dt 12/Dec/2013
 
 \lx -fɔ
 \hm 3
@@ -8326,7 +8367,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge crash
 \sd TN_II.B.3.b
 \de crash!
-\dt 27/Aug/2013
+\cf kploo
+\ce splat!
+\dt 22/Dec/2013
 
 \lx Gbome
 \ps PropN
@@ -8447,11 +8490,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \pl agyabɛ
 \ph aʤábɛ̂ʔ
 \cf ɔtɛ
+\ce ground squirrel
 \xv Gyabɛ tɛla sia.
 \xe Squirrels make nests (in trees).
 \rf Tape:2-2-169
 \rf Stewart List:0629
-\dt 28/Jul/2013
+\dt 12/Dec/2013
 
 \lx gyablɩ
 \ph ʤablɪ
@@ -8549,7 +8593,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Take the lead, we are going. Me too, I am coming.
 \rf Tape:2-2-202
 \cf gyankpapʋ
-\dt 01/Sep/2012
+\ce first
+\dt 12/Dec/2013
 
 \lx gyankpapʋ
 \ph ʤaŋ͡mk͡papʊ
@@ -8647,9 +8692,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Agyawunu atɔpʋ bʋtokwi ɔbɔ kʋla nyi wa mʋ́tɔ, fówun bawa ogya mʋ́tɔ yinki kpa sɩ bun mʋ́sʋ. Ɩhɔ ta a, balɛ agyawunu amʋ.
 \xe Charcoal burners dig a hole, and put trees in it, so you will see that they have set fire in it and returned gathered sand and covered it. When it finishes burning they remove the charcoal.
 \rf Tape:1-1-236
-\cf Agyawunu atɔpʋ Eng:Charcoal burners
+\cf agyawunu atɔpʋ
+\ce charcoal burners
 \rf Stewart List:1212
-\dt 17/Dec/2012
+\dt 12/Dec/2013
 
 \lx gyede
 \ph ʤede
@@ -8776,6 +8822,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Okekegyiɔkɛ bakɛ a, abatɛ bʋtɔbʋn.
 \xe Every early morning, roosters crow.
 \cf okugyiɔkʋ
+\ce everyone
 \xv Osunapʋ amʋ ɔbɛɛ nyebi amʋtɔ okugyiɔkʋ ɔba.
 \xe The teacher said that any one of the children should come.
 \xv Kɩta ɔbwɩ amʋ okugyiɔkʋ ba mɩankɩ amʋ́.
@@ -8794,18 +8841,26 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv togyitɔ
 \xv everything
 \rf Stewart List:1515
-\dt 01/Jan/2013
+\dt 12/Dec/2013
+
+\lx gyi nkɛ
+\ph ʤi ŋkɛ
+\ps v
+\ge celebrate
+\de to celebrate, particularly a festival
+\dt 12/Dec/2013
 
 \lx gyibi
 \ph ʤibi
 \ps v
 \ge cry over nothing
 \sd TN_
-\de cry over nothing, literally to eat children
+\de cry over nothing
 \cf kɛklɛ
+\ce show off
 \xv Kebi amʋ de bigyi tsufɛ mʋ yin dɛ ɔmɛ wa mbla ha mʋ osi bigyi.
 \xe The child is crying because his mother is pregnant and has ordered him to stop crying for nothing.
-\dt 01/Sep/2012
+\dt 12/Dec/2013
 
 \lx gyigyaa
 \ph ʤiʤâː
@@ -8968,10 +9023,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gyɔɩ
 \ph ʤɔ́ɪ́
 \ps vt
-\ge break
+\ge break off
 \sd TN_
 \de to break a fruit from a group, palm nuts, bananas, plantain
 \cf sɩɛtɩ
+\ce break off
 \xv Abɛ amʋ lafʋ, sʋ abɔ́gyɔɩ mʋ́ ndɛ.
 \xe The palm nuts have loosened so we will remove them today.
 \rf Tape:2-2-293
@@ -8979,7 +9035,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Break off two bananas and bring them to me.
 \rf Tape:2-2-297
 \nt From ths: words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off)
-\dt 15/Sep/2012
+\dt 12/Dec/2013
 
 \lx gyɔpɩ
 \ph ʤɔpɪʔ
@@ -8990,9 +9046,21 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Mapʋ bɩna gyi atɔ amʋ, pʋ gyɔpɩ gyi mʋ́.
 \xv Don't take your left hand to eat food, use your right.
 \rf Tape:2-2-301
-\cf gyɔpɩsʋ Eng:right side, or south
+\cf gyɔpɩsʋ
+\ce to the right
 \rf Stewart List:0020
-\dt 18/Dec/2012
+\dt 12/Dec/2013
+
+\lx gyɔpɩsʋ
+\sn 1
+\ps n
+\ge right
+\de on the right hand side
+\sn 2
+\ge south
+\de to the south
+\nt south is on the right as you are facing east
+\dt 12/Dec/2013
 
 \lx gyɔsɩ
 \ph ʤɔsɪ
@@ -9082,11 +9150,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de crack, as in a wall, glass, egg
 \dv nɩ tɔkʋ bwie ɩmɛmaɩn lɛ abasʋ
 \cf ba
+\ce crack
 \xv Bunti lahala.
-\xe The wall has cracked; i.e., we are being overheard.
+\xe The wall has cracked; 
+\nt Proverb: we are being overheard.
 \nt idiom
 \rf Tape:2-2-318
-\dt 18/Dec/2012
+\dt 12/Dec/2013
 
 \lx han
 \ph hãʔ (L)
@@ -9129,45 +9199,73 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph -hɛ
 \ps ADJR
 \ge ADJECTIVEizer
-\sd TN_
 \de changes a verb to an adjective
 \nt Nkonya adjectives are adjectival nouns and can stand alone as nouns and take plurals
 \xv tɛɩhɛ
 \xe wide
-\cf blɩhɛ - spoken thing
-\cf bʋahɛ - roasted thing
-\cf dahɛ - setting out things
-\cf dɩhɛ - sleeping things
-\cf kisihɛ - tabooed things
-\cf kulihɛ - ancestral day
-\cf Yinhɛ - male thing
-\cf tsɩhɛ - female thing
-\cf lalahɛ - evil/wrong thing
-\cf ɩbʋ fʋahɛ - mountain top
-\cf trahɛ - last thing, last
-\cf ɔtrahɛ - last person
+\cf asʋn blɩhɛ
+\ce spoken word
+\cf bʋahɛ
+\ce roasted thing
+\cf dahɛ
+\ce setting out things
+\cf dɩhɛ
+\ce sleeping things
+\cf kisihɛ
+\ce tabooed things
+\cf yinhɛ
+\ce male thing
+\cf tsɩhɛ
+\ce female thing
+\cf lalahɛ
+\ce evil/wrong thing
+\cf fʋahɛ
+\ce high
+\cf trahɛ
+\ce last thing, last
+\cf ɔtrahɛ
+\ce last person
 \cf bɔɩhɛ - split thing
-\cf botodua bɔɩhɛ - split bamboo
-\cf atogyihɛ - eaten thing - food
-\cf atosuanhɛ - learning (n)
-\cf bwɛhɛ - doings
-\cf oyi kpalihɛ - crossed wood thing
-\cf asʋnwunhɛ - trouble
-\cf asʋnblɩhɛ - sentence
-\cf plɔhɛ - rotten thing
-\cf wʋlɩhɛ - dry thing
-\cf sʋrahɛ - carried thing
-\cf tɔhɛ - baked thing
-\cf nyahɛ - gotten things, possessions
-\cf wulihɛ - stirred thing
-\cf oyi yiahɛ - walking stick
-\cf bunhɛ - covered/ nursed things
-\cf maɩnhɛ - detached things
-\cf bodobodo maɩnhɛ - buns
-\cf pihɛ - thickened things
-\cf asʋnpalihɛ - disrespectful talk
-\cf fɛhɛ - wares
-\cf kanahɛ - fitting thing
+\xv botodua bɔɩhɛ
+\xe split bamboo
+\cf atogyihɛ
+\ce food
+\cf atosuanhɛ
+\ce learning (n)
+\cf bwɛhɛ
+\ce actions
+\cf oyi kpalihɛ
+\ce cross
+\cf asʋnwunhɛ
+\ce trouble
+\cf plɔhɛ
+\ce rotten thing
+\cf wʋlɩhɛ
+\ce dry thing
+\cf sʋrahɛ
+\ce carried thing; burden
+\cf tɔhɛ
+\ce baked thing
+\cf nyahɛ
+\ce possessions
+\cf wulihɛ
+\ce stirred thing
+\cf oyi yiahɛ
+\ce walking stick
+\cf bunhɛ
+\ce covered / nursed things
+\cf maɩnhɛ
+\ce detached things
+\cf bodobodo maɩnhɛ
+\ce buns
+\cf pihɛ
+\ce thickened things
+\cf asʋnpalihɛ
+\ce disrespectful talk
+\cf fɛhɛ
+\ce wares
+\cf kanahɛ
+\ce fitting thing
 \dt 12/Dec/2013
 
 \lx hian
@@ -9177,7 +9275,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de need
 \xv Ndɛ tɔkʋ hian.
-\xe I am needing something.
 \xe I need something.
 \rf Tape:2-2-324
 \xv Nɩ mlɩtɔ ɔkʋ lehian nyansa a, ɔkʋlɩ Bulu, ɔbɛ́ha mʋ.
@@ -9186,8 +9283,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe What you want but you don't have.
 \rf Tape:2-2-326
 \cf ohiani
-\cf atohianhɛ Eng:essentials, necessary things
-\dt 22/Aug/2012
+\ce poor person
+\cf atohianhɛ
+\ce necessary things
+\dt 12/Dec/2013
 
 \lx hɩ
 \ph hɪ́
@@ -9251,10 +9350,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de to scar something to indicate ownership or presence, e.g. mark a trail, a pencil or an animal
 \cf nsʋ
+\ce brand (v)
 \xv Baka ɔbwɩ amʋ ɩsʋ pʋ hiɛ mʋ nsʋ.
 \xe They have cut the animal's ear to mark it.
 \bw Akan fi:ɔhyeɛ, bɔ hyɛ promise
-\dt 29/Aug/2012
+\dt 12/Dec/2013
 
 \lx hɩɛ nsʋ
 \ph hɪɛ nsʊ
@@ -9352,7 +9452,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge take
 \sd TN_
 \de to take something
-\cf swɩɩ
+\cf swɩɩ2
+\ce seize
 \rf Stewart List:3219
 \dt 04/Nov/2012
 
@@ -9426,7 +9527,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de bright white
 \cf fututuutu
-\dt 28/Aug/2012
+\ce white
+\dt 12/Dec/2013
 
 \lx hwɩɩ
 \ph hwɪːʔ
@@ -9441,7 +9543,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-367
 \xv Asi olu wa, nyankpʋsa megyi hwɩɩ.
 \xe We should stop hating, people are nothing.
-\dt 18/Dec/2012
+\na This is part of the lyrics to a song commonly sung at funerals. The theme of the song is about the temporary nature of life, and in light of that, we should not have disharmony.
+\cf kʋkʋ
+\ce nothing
+\cf hwɩɩ
+\ce nothing
+\dt 22/Dec/2013
 
 \lx hyira
 \ph cira
@@ -9451,7 +9558,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de bless
 \bw Akan fi:hyira
 \cf yula
-\dt 09/Aug/2012
+\ce bless
+\dt 12/Dec/2013
 
 \lx ibebi
 \ph ibébiʔ
@@ -9714,6 +9822,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Among the dead is the place that dead people go to live after they are buried.
 \na The ghost is present after death until burial occurs.
 \cf owupʋ
+\ce dead person
 \rf Stewart List:0055
 \xv Akʋ bɛɛ fuli ma ɔyɩtɔ, akʋ ɛ bɛɛ fuli bʋ nʋ. Mɔmʋ gyi ɔnɔkwalɩ ngya a?
 \xe Some people say there are no ghosts in this world, others too say they are there, which is correct now?
@@ -9721,7 +9830,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The child lied that, he saw a ghost yesterday.
 \xv Ɔha ánɩ́ alawu,
 \xe A dead person.
-\dt 29/Aug/2013
+\dt 12/Dec/2013
 
 \lx ifwie
 \ph ifwíeʔ
@@ -9744,11 +9853,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Yesterday storm clouds threatened but it didn't rain.
 \rf Tape:2-2-386
 \cf ɩnwɛn1
+\ce day before yesterday
 \cf ndɛ
+\ce today
 \cf ɔkɛ
+\ce tomorrow
 \cf klaɛ
+\ce day after tomorrow
 \rf Stewart List:1552
-\dt 24/Dec/2012
+\dt 12/Dec/2013
 
 \lx igyi
 \ph iʤí
@@ -9911,7 +10024,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_II.A.1.b
 \de chin
 \lt inside the beard
-\cf ɔdawʋ
+\cf ɔdawu
+\ce chin
 \sn 2
 \ge ceiling
 \sd TN_II.C.1
@@ -9919,7 +10033,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
 \xe The cat has climbed up into the ceiling and is catching mice.
 \rf Tape:2-2-409
-\dt 29/Aug/2013
+\dt 12/Dec/2013
 
 \lx imɛ
 \ph imɛ
@@ -9984,6 +10098,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Sweep so that you can gather the rubbish and throw it out.
 \rf Tape:2-2-434
 \cf mbepi
+\ce palm nut fibre
 \sn 2
 \ge thatch
 \sd TN_
@@ -9992,7 +10107,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Thatch doesn't stay long. It is used for thatching.
 \na Thatch dies in October
 \rf Stewart List:1520
-\dt 04/Nov/2012
+\dt 12/Dec/2013
 
 \lx ipian
 \ph ipiã(H)
@@ -10023,6 +10138,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph apu
 \va pu
 \cf ɔmɛ
+\ce womb
 \xv Nyimɛ ɔbwɩ amʋ ipu amʋ wʋlɩ pututɔ tsutsuutsu, mɛnɩ móobon ba woyitɔ.
 \xe Squeeze out the animals stomach far away in the bush so that the stench will not come to the house.
 \rf Tape:2-2-436
@@ -10106,12 +10222,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de victory
 \xv Bulu tɛha sugyi.
 \xe God gives victory.
-\cf ɩsʋ ogyipʋ Eng:a victor, also a ruler
+\cf ɩsʋ ogyipʋ
+\ce a victor, also a ruler
 \xv Ghana ɔmásʋ ogyipʋ gyi J. J. Rawlings.
 \xe J. J. Rawlings is the ruler of the country, Ghana.
 \xv Ɩsʋ ogyipʋ gyi ɔha ánɩ́ alagyi mʋ basʋ; ɩsatɔ ntɛ asʋngyihɛtɔ.
 \xe A victor is the one that has won over another in war or in a legal case.
-\dt 24/Dec/2012
+\dt 12/Dec/2013
 
 \lx isuna
 \ph isúna
@@ -10168,11 +10285,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe That's why Billy Goat's tail became short.
 \rf Tape:2-2-446
 \cf kutuklu
+\ce short
 \xv Ka fʋ ka amʋ tin ha mɩanwɩ.
 \xe Cut your sugar cane short for me so that I can eat it.
 \rf Tape:2-2-449
 \rf Stewart List:1519
-\dt 24/Dec/2012
+\dt 12/Dec/2013
 
 \lx itsia
 \ph it͡siáʔ
@@ -10323,10 +10441,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fʋdɛ aye asʋn a, aye tɛba.
 \xe If you hold a meat case, meat will come. - If you talk about a case, a similar case will occur. (You should not speak about bad news lest it happen to you. )
 \nt proverb
-\cf iye ɔlɛpʋ Eng:fisherman
+\cf iye ɔlɛpʋ
+\ce fisherman
 \rf Stewart List:0028
 \rf SIL-AWL:0089
-\dt 24/Dec/2012
+\dt 12/Dec/2013
 
 \lx iye
 \hm 2
@@ -10586,7 +10705,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge hand
 \sd TN_II.A.1.f
 \de hand; includes wrist
-\cf ɩbɩtatatɔ Eng:palm
+\cf ɩbɩtatatɔ
+\ce palm
 \cf ɔbɩma Eng:back of the hand
 \xv Aha ánɩ́ bakɩta krantɩɛ wa ɔpá a, amʋ́ bɩtatatɔ tɔwa ɔlɩn.
 \xe Those that have used a cutlass for a long time, their palms become hard.
@@ -10596,7 +10716,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-520
 \rf SIL-AWL:0056
 \rf SIL-AWL:0058
-\dt 26/Aug/2013
+\dt 12/Dec/2013
 
 \lx ɩbla
 \ph ɪbla(H)
@@ -10714,7 +10834,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪdã̂(L)
 \ps n
 \ge storage
-\sd TN_
+\sd TN_I.B.4
 \de a way of storing certain harvested items, e.g., corn, beans, yam, water yam,
 \pl ndan
 \ph ndã
@@ -10723,7 +10843,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nyɔɔsɩ gyi: Fɔ́pʋ abotodua bwɛ mʋ́. Fówun fatrɛ kpoli amʋ mʋ́ sʋ.
 \xe The second kind: You use bamboo to make it. You arrange the corn on it (usually in a circular pile)
 \cf ɔdankpa
-\dt 15/Aug/2012
+\ce storage place
+\dt 12/Dec/2013
 
 \lx ɩdan
 \hm 2
@@ -10783,14 +10904,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪfɛʔ
 \ps n
 \ge hip
-\sd TN_
+\sd TN_II.A.1.g
 \de hip
 \pl afɛ
 \ph afɛʔ
 \cf obiantɔ
+\ce thigh
 \xv Atɔ lada mɩ fɛsʋ.
 \xe I have a boil on my hip.
-\dt 24/Dec/2012
+\dt 12/Dec/2013
 
 \lx ɩfɩtaa
 \ph ɪfɪtâːʔ(L)
@@ -10842,6 +10964,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I will raise a garden bed in order to nurse my tomato seeds.
 \rf Tape:2-2-550
 \dt 25/Dec/2012
+
+\lx ɩfɔɩ
+\ph ɪfɔɪ (H)
+\ps n
+\ge canker
+\sd TN_II.A.6.b
+\de canker
+\cf mpumpu ngya
+\ce blister
+\dt 22/Dec/2013
 
 \lx ɩfʋ
 \ph ɪfʊʔ
@@ -11102,7 +11234,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Don't pay back evil for evil.
 \rf Tape:2-2-586
 \cf ɩkɔka
-\dt 28/Dec/2012
+\ce debt payment
+\dt 12/Dec/2013
 
 \lx ɩkpɩ
 \ph ɪk͡pɪ(H)
@@ -11115,9 +11248,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Akɔmfɔ bʋtɔtswɛ ɔkpɩ.
 \xe Fetish priests serve fetish.
 \rf Tape:5-2-545
-\cf ɔkpɩpʋ Eng:fetish priest
+\cf ɔkpɩpʋ
+\ce fetish priest
 \rf Stewart List:1226
-\dt 28/Dec/2012
+\dt 12/Dec/2013
 \xv Mʋ ɔkpɩ laba. Mʋ akɔm laba.
 \xe His fetish has come. His fetish dancing has come.
 \nt When the fetish people are drumming and people come and dance under possession by spirits that is akɔm. Akɔm is dancing a juju.
@@ -11133,7 +11267,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de a tight place, a bind
 \cf kplan
-\dt 10/Jan/2012
+\ce squeeze
+\dt 12/Dec/2013
 
 \lx ɩkpʋn
 \ph ɪk͡pʊ̃ʔ(L)
@@ -11160,18 +11295,20 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Some kinds of edible mushrooms are: afio, mpionkɛntɛ, deyi asʋ, atsuli bibi, mantɛpʋ, kikidiki, abi atsuli, kplokplobi.
 \pl akʋ
 \ph akʊ
-\cf ɔkʋ - animate form
+\cf ɔkʋ
+\ce some, animate form
 \rf Tape:3-1-002
 \rf Tape:2-2-592
 \xv Nɔyɔ ɔtɩnɛ ɩkʋ.
 \xe I will go somewhere.
-\cf kugyikʋ -every something- any
+\cf kugyikʋ
+\ce everything
 \rf Tape:3-1-009
 \rf Stewart List:1521
 \xv ɩkʋ ɛ
 \xe again
 \rf Stewart List:1849
-\dt 28/Dec/2012
+\dt 12/Dec/2013
 
 \lx ɩkʋɛ
 \ph ɪkʊɛ
@@ -11197,9 +11334,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Atɔ amʋ fɛɛ mbwɛ amʋ a, nabwɛ mʋ́ fɛ́ɛ́, tamɛ napan kʋlɛsʋ.
 \xe The things you said I should do, I made, I made all but I missed one.
 \rf Tape:3-1-015
-\cf tsukʋlɛ -one place
+\cf tsukʋlɛ
+\ce one place
 \rf Stewart List:1801
-\dt 24/Dec/2012
+\dt 12/Dec/2013
 
 \lx ɩkʋtʋ
 \ph ɪkʊtʊ
@@ -11232,13 +11370,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \ge behaviour
 \sd TN_
-\de behaviour
+\de behaviour; particularly bad behaviour
 \va la
 \xv Bʋtɛkɩ latɔ.
 \xe They always watched one another's behaviour. The implication is that because someone else is not doing something, you don't have to either.
 \rf Tape:3-1-033
 \cf lɛ ɩla
-\dt 25/Dec/2012
+\ce rebuke
+\dt 12/Dec/2013
 
 \lx ɩlan
 \ph ɪlã́ʔ
@@ -11260,12 +11399,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de Volta River
 \cf ɩlɩnsʋ
+\ce beside the river
 \cf ɩlɩntɔ
+\ce in the river
 \xv Bɛlɛ nkuku lɩntɔ.
 \xe Nkuku are caught in the lake.
 \va Lɩn
-\nt It would be good to elicit a text about fishing at lakeside. Who does it. How they do it. What kinds of fish are caught, and perhaps Nkonya attitudes to going fishing and the lake in general.
-\dt 02/Jan/2013
+\dt 12/Dec/2013
 
 \lx ɩlɩn
 \hm 2
@@ -11293,11 +11433,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de illness
 \xv Ɩlɔ bʋ ɔsɩn.
 \xe Illness is painful
-\cf ɔlɔpʋ Eng:sick person
+\cf ɔlɔpʋ
+\ce sick person
 \nt From ths: words for medical symptoms: lu (retch), kplai (vomit), kpɩnkɩ (shiver), pin (lose voice), plan (wound),
 \nt From ths: words for illnesses: aklodobi (hernia), ɩsʋn (catarh), ɔnamba(), ɔnamplɔɩ (), sɛsɛ (ringworm), kɛklɛ (boil), owisʋ (malaria), mfa (), ɔlɔ (sore), ɩlɔ pɛpɛ (leprosy), awidwiin (rheumatism), obubupʋ (cripple), etc.
 \rf Stewart List:1410
-\dt 28/Dec/2012
+\dt 12/Dec/2013
 
 \lx ɩlɔ pɛpɛ
 \ph ɪlɔ pɛpɛ
@@ -11327,7 +11468,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_II.A.6.b
 \de hernia
 \cf aklodobi
-\dt 26/Aug/2013
+\ce hernia
+\dt 12/Dec/2013
 
 \lx ɩma
 \ph ɪmaʔ
@@ -11492,10 +11634,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \na days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɩ
 \rf Stewart List:1559
 \cf igye
+\ce yesterday
 \cf ndɛ
+\ce today
 \cf ɔkɛ
+\cf tomorrow
 \cf klaɛ
-\dt 15/Sep/2012
+\ce day after tomorrow
+\dt 12/Dec/2013
 
 \lx ɩnwɛn
 \hm 2
@@ -11642,32 +11788,38 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Olegyi pɔn
 \xe He was found guilty.
 \rf Tape:3-1-145
-\cf pɔn Eng:(vi)
+\cf pɔn
+\ce weak
 \xv Fʋ Ee! bwɛ fʋ Ee!; fʋ O-o! bwɛ fʋ O-o!; mɛnɩ Bulu méegyi fʋ asʋn ha fʋ pɔn.
 \xe Your yes make yes, your no, no so that God will not judge you and find you guilty.
 \ng Bulu méegyi- no pronoun
 \xv Olegyi pɔn
 \xe He was found guilty.
 \rf Tape:3-1-145
-\cf pɔn Eng:(vi)
-\dt 25/Dec/2012
+\dt 12/Dec/2013
 
 \lx ɩpʋ
 \hm 1
 \ph ɪpʊʔ(L)
 \ps n
 \va pʋ
+\sn 1
 \ge group
-\sd TN_
-\de group, or standard measure of an object
+\sd TN_I.C.1.c
+\de group
 \cf iku
+\ce group
 \cf ɔdʋdʋɔ
+\ce group (from Akan)
+\sn 2
+\ge measure (n)
+\de a standard measure of s.t.
 \xv ɔtatibi pʋ kʋlɛ
 \xe one length of loincloth
 \xv Hɔ ɔtatibi pʋ ba anɩ apʋ la oli.
 \xe Buy one piece of loincloth so that we can make the funeral.
 \rf Tape:3-1-156
-\dt 16/Aug/2012
+\dt 12/Dec/2013
 
 \lx ɩpʋ
 \hm 2
@@ -11677,11 +11829,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_
 \de forest
 \cf putu
+\ce bush
 \xv Kɩ alɩa ogya plɛnplɛnbi tɛtalɩ wa pʋ yile ogya.
 \xe See how a spark can set fire to a big forest.
 \rf Tape:3-1-150
 \rf Stewart List:1022
-\dt 02/Jan/2013
+\dt 12/Dec/2013
 
 \lx Ɩpwɛ
 \ph ɪpʷɛ
@@ -11689,18 +11842,26 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge 1st day
 \sd TN_I.C.4.b
 \de day of rest in Nkonya week; first day of Nkonya week
-\na The Nkonya week has six days. The main days are the first and fourth. The first day is Ɩpwɛ, the day of the main fetish Sia. The fourth is Kulíhɛ, the day of the ancestors.
+\na The Nkonya week has six days. The main days are the first and fourth. The first day is Ɩpwɛ, the day of the main fetish Sia. The fourth is Kulíhɛ, the day of the ancestors. Various activities, such as funerals, are allowed on certain days but not on others. Farming is not allowed on Ɩpwɛ.
 \na In the Southern dialect the days are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, Kulihɛ, Kulihɛ Odekeyikɛ, Kulihɛ Ɔdɛkɛtrakɛ". In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulihɛ, Kulihɛ Odekeyikɛ, Ɔdɛkɛtrakɛ"
 \na The (folk) etymology says that the name of the day derives from "pwɛ" because people would stay at home and sculpt things.
 \cf pwɛ
+\ce mould
 \cf Ɩpwɛ Odekeyikɛ
+\ce second day
 \cf Ɩpwɛ Ɔdɛkɛtrakɛ
+\ce third day
 \cf Yinke
+\ce third day
 \cf Kulihɛ
+\ce ancestral day
 \cf Kulihɛ Odekeyikɛ
+\ce fifth day
 \cf Kulihɛ Ɔdɛkɛtrakɛ
+\ce sixth day
 \cf Ɔdɛkɛtrakɛ
-\dt 29/Aug/2013
+\ce third or sixth day
+\dt 22/Dec/2013
 
 \lx Ɩpwɛ Odekeyikɛ
 \ph ɪpʷɛ odekeyikɛ
@@ -11708,9 +11869,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge 2nd day
 \sd TN_I.C.4.b
 \de the day following Ɩpwɛ; the second day of the Nkonya week
-\dt 29/Aug/2013
+\cf Ɩpwɛ
+\ce first day
+\dt 22/Dec/2013
 
-\lx Ɩpwɛ Ɔdɛkɛtrákɛ
+\lx Ɩpwɛ Ɔdɛkɛtrakɛ
 \ph ɪpʷɛ ɔdɛkɛtrákɛ
 \ps TIME
 \ge 3rd day
@@ -11718,7 +11881,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
 \va Yinke
 \ve North
-\dt 15/Sep/2013
+\cf Ɩpwɛ
+\ce first day
+\dt 22/Dec/2013
 
 \lx ɩsa
 \ph ɪsáʔ
@@ -12395,10 +12560,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge Shoo!
 \sd TN_II.B.2; II.B.3.b; I.C.1.f
 \de exclamation used to chase away animals
-\cf Swɩ!
+\cf Swɩ
+\ce Shoo! (for fowls)
 \xv Kai!
 \xe Shoo!
-\dt 27/Aug/2013
+\dt 22/Dec/2013
 
 \lx kaɩn
 \ph kaɪ̃́
@@ -12510,7 +12676,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt From ths: words used in measuring kapʋ (measure height/depth), susu (measure amount), kali (weigh)
 \rf Stewart List:2827
 \cf susu
-\dt 29/Sep/2013
+\ce measure
+\dt 22/Dec/2013
 
 \lx kan
 \hm 1
@@ -12691,7 +12858,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt From ths: words used in measuring kapʋ (measure height/depth), susu (measure amount), kali (weigh)
 \rf Stewart List:2826
 \cf susu
-\dt 29/Sep/2013
+\ce measure
+\dt 22/Dec/2013
 
 \lx kasɛ
 \ph kásɛ
@@ -12712,7 +12880,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I fanned the fire unsuccessfully, it didn't flame. Unexpectedly, the wood was not dry.
 \rf Tape:3-1-447
 \cf kpali
-\dt 10/Jan/2012
+\ce uselessly
+\dt 22/Dec/2013
 
 \lx kasɩ
 \ph kásɪ́
@@ -12755,9 +12924,22 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Kebi amʋ ansɩ lagyi, tsufɛ mʋ sɩ labla mʋ ɔbɛɛ ɔbɔ́hɔ suku atadɩɛ pɔpwɛ ba mʋ.
 \xe The child has become happy because his father has told him that he will buy new school clothes and bring them for him.
 \rf Tape:3-1-463
-\cf kebi bɔbwɛ- newborn
+\cf kebi bɔbwɛ
+\ce newborn
 \rf Stewart List:0203
-\dt 14/Aug/2013
+\dt 22/Dec/2013
+
+\lx kebi bɔbwɛ
+\ph kebi bɔbʷɛ
+\ps n
+\ge newborn
+\sd TN_II.E.1.a
+\de a newborn child
+\cf kebi
+\ce child
+\cf bɔbwɛ
+\ce raw
+\dt 22/Dec/2013
 
 \lx kein
 \ph kẽ́ĩ́ː
@@ -12886,7 +13068,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 2
 \ph kɛklɛ(H)
 \ps n
-\ge boil
+\ge boil (n)
 \sd TN_
 \de boil (on the skin)
 \pl akɛklɛ
@@ -12894,7 +13076,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Mɩ kɛklɛ amʋ lafa sʋ ɩwɩ lalwii mɩ.
 \xv My boil has burst so I am at peace.
 \rf Tape:3-1-496
-\dt 22/Aug/2012
+\dt 12/Dec/2013
 
 \lx kɛlɩ
 \ph kɛlɪ (H)
@@ -13012,11 +13194,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \pl akɛntɛ
 \ph akɛntɛ
 \cf kotokuo
+\ce sack (n)
 \xv Napʋ tɔkʋ wa mɩ kɛntɛtɔ, lɛ mʋ́ ba mɩ. Megyi mɩ atadɩɛ kɛntɛtɔ, mboun kɛntɛ sʋra atɔ amʋtɔ.
 \xe I have put something in my bag, remove it and bring it to me. It isn't in my pocket but in the carrying bag.
 \rf Tape:3-1-510
 \nt From ths: words for carrying things: kɛntɛ (bag, pocket), kotokuo (sack), lakpa (basket), blawunu (palm frond basket), bɛnsɩ sʋratɔ (carrying basin)
-\dt 26/Dec/2012
+\dt 22/Dec/2013
 
 \lx kɛtsɛkɛtsɛ
 \ph kɛt͡sɛkɛt͡sɛ
@@ -13067,15 +13250,25 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to twist or spin something
 \dt 16/Sep/2012
 
+\lx ki fia
+\ph kí fíá
+\ps v
+\ge go through exhaustively
+\de to search exhaustively
+\xv Oleki fia wulu amʋ kasian. Omowun mʋ kufa
+\xe He went through the whole town, but he couldn't find his sheep.
+\dt 12/Dec/2013
+
 \lx kian
 \ph kiãʔ
 \ps n
 \ge larvae
 \sd TN_I.B.3.c
-\de large larvae of a black beetle; eaten by children and adults
+\de large larvae of a black beetle; eaten by children and adults; inhabits dead palm trees.
 \pl akian
 \ph akíã
 \cf kponkpoli
+\ce black beetle
 \xv Kponkpoli ma nfɔ; mʋ pio gyi kian.
 \xe The black beetle is not fatty; His brother is the larvae (which is fatty). Used of a person who is powerful, but has a poor relative.
 \nt proverb
@@ -13084,7 +13277,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The grub is short but if you pull on it, it stretches. Used of dragging a case out even if you are guilty, or cutting it short by accepting guilt even if you are innocent
 \nt proverb
 \rf Tape:3-1-529
-\dt 28/Jul/2013
+\dt 22/Dec/2013
 
 \lx kie
 \ph kíéʔ
@@ -13096,8 +13289,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe His other friends also will tie aba on his wrist and give him things.
 \rf Tape:3-1-534
 \rf Stewart List:3216
-\cf sikie
-\dt 16/Sep/2012
+\cf si kie
+\ce forgive
+\dt 22/Dec/2013
 
 \lx kiiki
 \ph kîːki
@@ -13227,9 +13421,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Wurupoŋfɔ bʋtekisi lembu.
 \xe Wurupong people, they abstain from turtle meat.
 \rf Tape:3-1-564
-\cf akisitɔ, or atɔ kisihɛ Eng:tabooed things
+\cf atɔ kisihɛ
+\ce tabooed things
+\cf akisitɔ
+\ce forbidden things
 \rf Stewart List:2096
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx kɩ
 \hm 1
@@ -13428,8 +13625,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge plan
 \sd TN_
 \de plan by yourself or with another person
-\cf kɩta asʋn - "group planning"
-\dt 15/Sep/2013
+\cf kɩta asʋn
+\ce group planning
+\dt 22/Dec/2013
 
 \lx kɩta asʋn
 \ph kɪ́táːsʊ̃́
@@ -13448,13 +13646,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \pl akɩtakɩta
 \ph akɪ́tákɪ́tá
 \cf ɔkɩta
+\ce bitterness
 \xv afa kɩtakɩta
 \xe bitter medicine
 \rf Tape:3-2-066
 \xv Nɩ afa bʋ ɔkɩta a, ɩma anunlɛ.
 \xe If medicine is bitter, it is not easy to drink.
 \rf Tape:3-2-069
-\dt 10/Jan/2012
+\dt 22/Dec/2013
 
 \lx kɩtɩ
 \ph kɪtɪʔ
@@ -13527,12 +13726,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe They are gossiping about their neighbours.
 \rf Tape:3-2-105
 \cf yiiyi
-\cf tsi
+\ce gossip
+\cf tsii
+\ge gossip
 \sn 4
 \ge count
 \sd TN_
 \de to count, reciting numbers
-\dt 22/Aug/2012
+\dt 22/Dec/2013
 
 \lx kla
 \hm 2
@@ -13574,10 +13775,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Klaɛ Fieda nótu ɔkpa.
 \xe Next Friday I will travel.
 \cf ɩnwɛn1
+\ce day before yesterday
 \cf igye
+\ce yesterday
 \cf ndɛ
+\ce today
 \cf ɔkɛ
-\dt 28/Aug/2012
+\ce tomorrow
+\dt 12/Dec/2013
 
 \lx klakla
 \ph klakla
@@ -13588,12 +13793,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ɔdayi amʋ bʋ ogya klakla.
 \xe The knife is very sharp.
 \rf Tape:3-2-141
-\cf Klaklakla Eng:redup
+\cf klaklakla
+\ce very sharp
 \xv Krantɩɛ amʋ ɔnɔ lawa ogya klaklakla.
 \xe The cutlass is very sharp.
 \rf Tape:3-2-143
 \rf Stewart List:1713
-\dt 16/Jul/2012
+\dt 22/Dec/2013
 
 \lx klamata
 \ph klamata(H)
@@ -13697,33 +13903,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \dt 10/Jan/2012
 
 \lx klɛ
-\hm 1
-\ph klɛ
-\ps ADJ
-\sn 1
-\ge POSS
-\sd TN_
-\de possessive
-\cf mɩklɛ
-\cf fʋklɛ
-\cf mʋklɛ
-\cf anɩklɛ
-\xv Mɩklɛ maa ɩnʋ.
-\xe I am guilty (Lit - Mine is not there. )
-\rf Tape:3-2-186
-\xv Anɩklɛ gyi sɛ, abétsia nkpa wanklaan gyo anɩ wie Yesu ɩba.
-\xe Our part is this, we should live life well and wait for our Lord Jesus' return.
-\rf Tape:1-1-474
-\rf Tape:3-2-189
-\cf mlɩklɛ
-\cf amʋ́klɛ
-\sn 2
-\ge made of
-\sd TN_
-\de made of X e.g. the one made of metal, the rubber one
-\dt 22/Aug/2012
-
-\lx klɛ
 \hm 2
 \ph klɛ
 \ps vi
@@ -13736,6 +13915,27 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ng klɛ yɔ: lean/yɔ -
 \rf Stewart List:2012
 \dt 22/Aug/2012
+
+\lx -klɛ
+\hm 1
+\ph klɛ
+\ps ADJ
+\sn 1
+\ge POSS
+\sd TN_
+\de possessive
+\xv Mɩklɛ maa ɩnʋ.
+\xe I am guilty (Lit - Mine is not there. )
+\rf Tape:3-2-186
+\xv Anɩklɛ gyi sɛ, abétsia nkpa wanklaan gyo anɩ wie Yesu ɩba.
+\xe Our part is this, we should live life well and wait for our Lord Jesus' return.
+\rf Tape:1-1-474
+\rf Tape:3-2-189
+\sn 2
+\ge made of
+\sd TN_
+\de made of X e.g. the one made of metal, the rubber one
+\dt 22/Dec/2013
 
 \lx klɛdɩ
 \ph klɛ́dɪ
@@ -14062,7 +14262,7 @@ cf fonflo
 \xv Nagyi konkonte wulihɛ mʋ́a kɩtɩba oputsu. Ɔkɛ nyankɩ ɛ, négyi mʋ́ odikpini.
 \xe I ate cooked konkonte with groundnut soup. Tomorrow morning also I will eat leftover konkonte.
 \rf Tape:3-2-287
-\dt 16/Jul/2012
+\dt 22/Dec/2013
 
 \lx konkonyin
 \ph kõkõɲĩʔ
@@ -14116,13 +14316,16 @@ cf fonflo
 \ge porridge
 \sd TN_
 \de corn porridge drink
-\cf nyɔmma
+\cf nyɔmba
+\ce mashed yam
 \cf konkonte
+\ce cassava porridge
 \cf fɛflɛ
+\ce corn porridge
 \xv Kooko amʋ ɩdɩn ogya amʋ lapi dʋbɩ, sʋ wa ntsu mʋ́tɔ.
 \xe The kooko on the fire has thickened too much so put some water in.
 \rf Tape:3-2-304
-\dt 12/Jan/2012
+\dt 22/Dec/2013
 
 \lx kosi
 \ph kósíʔ
@@ -14168,7 +14371,7 @@ cf fonflo
 \rf Tape:7-2-207
 \rf Stewart List:1184
 \nt From ths: words for carrying things: kɛntɛ (bag, pocket), kotokuo (sack), lakpa (basket), blawunu (palm frond basket), bɛnsɩ sʋratɔ (carrying basin)
-\dt 28/Aug/2012
+\dt 22/Dec/2013
 
 \lx kotoo
 \ph kótóː
@@ -14427,18 +14630,22 @@ cf fonflo
 \lf Serial = kpada
 \le fall and lie flat
 \cf da2
+\ce lie flat
 \lf Serial = kpayi
 \le fall and land upright
 \cf yi
+\ce erect
 \xv fuli kpayi
 \xe jump
 \rf Stewart List:2022
 \lf Serial = kpa sian
 \le fall and hang
 \cf sian
+\ce hang
 \lf Serial = kpa wie
 \le fall into
 \cf wie
+\ce reach into
 \rf Stewart List:2484
 \xv Kɛlɩ amʋ lakpakpa atɛ.
 \xe The silk cotton tree has dropped its leaves.
@@ -14472,7 +14679,7 @@ cf fonflo
 \sd TN_
 \de to take off a (man's) cloth
 \rf Stewart List:2794
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx kpa ogya
 \ph k͡pá oʤáʔ(H)
@@ -14481,7 +14688,8 @@ cf fonflo
 \sd TN_
 \de to shine or sparkle
 \cf ogya
-\dt 01/Sep/2012
+\ce fire
+\dt 22/Dec/2013
 
 \lx kpa tɩa
 \ph k͡pá tɪ́á
@@ -14529,14 +14737,18 @@ cf fonflo
 \sd TN_
 \de fall through the air and lie prone
 \cf dɩda
+\ce fall from standing
 \cf sunki
+\ce fall over
 \cf kpa
+\ce fall
 \cf kpayi
+\ce fall standing up
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, fɔ́dʋ mʋ a, fɛ́kpada. Nɩ fɔdʋ yɔ anwunsʋ a, fɛ́kpada.
 \xe The tree that is not supple, if you climb it, you will fall. If you climb high you will fall.
 \rf Tape:3-2-380
 \nt Some trees like the frangipani and the avocado trees have brittle branches that are likely to break under you. Others like the orange tree are good for climbing.
-\dt 16/Jul/2012
+\dt 22/Dec/2013
 
 \lx kpafʋtɩ
 \ph k͡pafʊ́tɪ̂ː
@@ -14996,7 +15208,8 @@ cf fonflo
 \sd TN_
 \de sack
 \cf kotokuo
-\dt 28/Aug/2012
+\ce sack (n)
+\dt 22/Dec/2013
 
 \lx kpekple
 \ph k͡pék͡plé
@@ -15015,14 +15228,15 @@ cf fonflo
 \ge irritate
 \sd TN_
 \de irritate, annoy
-\cf mblɩkpɛ Eng:(n) -irritation
+\cf mblɩkpɛ
+\ce irritation
 \xv Kebi amʋ lakpɛ mblɩ, sʋ bada mʋ. Mʋ́ sʋ aba mblɩkpɛ ma alɛ.
 \xe The child irritated (someone) so they (indefinite person) have beaten him, so friend irritation is bad.
 \rf Tape:3-2-515
 \xv Makpɛ mɩ mblɩ, mɛnɩ mménya ɔblɔ wa fʋ.
 \xe Don't irritate me so that I won't get angry with you.
 \rf Tape:3-2-518
-\dt 06/Sep/2012
+\dt 22/Dec/2013
 
 \lx kpɛblɩ
 \ph k͡pɛ́blɪ́
@@ -15065,13 +15279,14 @@ cf fonflo
 \ph k͡pɛk͡pɛ
 \ps v
 \ge annoy
-\sd TN_
+\sd TN_II.B.3
 \de to irritate by small repeated acts; to needle someone
 \xv Makpɛkpɛ mɩ.
 \xe Don't needle me.
 \rf Tape:3-2-506
 \cf kpɛ mblɩ
-\dt 06/Sep/2012
+\ce irritate
+\dt 22/Dec/2013
 
 \lx kpɛlɛ
 \ph k͡pɛlɛ́
@@ -15089,12 +15304,13 @@ cf fonflo
 \de lean against
 \nt This is intransitive, stative verb
 \cf kpɩsa
+\ce lean (sth.) against sth.
 \xv Botodua kpɛn buntisʋ.
 \xe Bamboo leaned against the wall.
 \rf Tape:3-2-521
 \nq is kpɛn only used with inanimate objects
 \rf Stewart List:2515
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx kpi
 \ph k͡píʔ(H)
@@ -15109,6 +15325,8 @@ cf fonflo
 \xv Nɩ bekpi ɔkpa amʋ wʋlɩ ɔtsatsa mʋ́ sʋ, bɔmɔwʋlɩ kotaa mʋ́ sʋ a, ɩbɔwa ɔsa yinta.
 \xe If they scrape the road, pour gravel on it, but don't put coal tar on it, it will quickly spoil
 \rf Tape:3-2-525
+\cf kwɛ
+\ce grind
 \sn 2
 \ge bump
 \sd TN_
@@ -15117,8 +15335,7 @@ cf fonflo
 \xe He has bumped into me with his load.
 \rf Tape:3-2-530
 \rf Stewart List:2523
-\cf kwɛ
-\dt 12/Jan/2012
+\dt 22/Dec/2013
 
 \lx kpie
 \hm 1
@@ -15134,9 +15351,10 @@ cf fonflo
 \xv Ahundwofɔ bʋtekisi kpie.
 \xe People in Ahundwo taboo burping.
 \cf nyankpʋkpie
+\ce thunder
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \rf Stewart List:2053
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx kpie
 \hm 2
@@ -15217,6 +15435,7 @@ cf fonflo
 \xe You have painted your hearth.
 \rf Tape:5-2-540
 \cf taan
+\ce draw/paint a picture
 \cf kpʋkpɛ
 \cf pi
 \sn 2
@@ -15224,7 +15443,7 @@ cf fonflo
 \sd TN_
 \de to rub something
 \rf Stewart List:1030
-\dt 06/Sep/2012
+\dt 22/Dec/2013
 
 \lx kpɩ
 \hm 1
@@ -15286,7 +15505,8 @@ cf fonflo
 \rf Tape:3-2-551
 \rf Stewart List:2034
 \cf kpɩ1
-\dt 05/Jul/2005
+\ce suck
+\dt 22/Dec/2013
 
 \lx kpɩkpɩɩ
 \ph k͡pɪk͡pɪ̂ːʔ
@@ -15335,6 +15555,7 @@ cf fonflo
 \sd TN_
 \de to lean something against something
 \cf kpɛn
+\ce lean
 \rf Stewart List:2516
 \sn 2
 \ge recline
@@ -15343,7 +15564,7 @@ cf fonflo
 \xv Mɩ bi, kpɩsa mɩ sʋ.
 \xe My child, lean against me.
 \rf Tape:3-2-564
-\dt 06/Sep/2012
+\dt 22/Dec/2013
 
 \lx kpla
 \hm 1
@@ -15406,7 +15627,8 @@ cf fonflo
 \rf Tape:4-1-002
 \rf Stewart List:2348
 \cf ɩkplan
-\dt 22/Aug/2012
+\ce difficulty
+\dt 22/Dec/2013
 
 \lx kplanhɛ
 \ph k͡planhɛ
@@ -15457,7 +15679,8 @@ cf fonflo
 \sd TN_II.B.3.b
 \de splat
 \cf gbloo
-\dt 28/Aug/2013
+\ce crash
+\dt 22/Dec/2013
 
 \lx kplɔɩ
 \ph k͡plɔ́ɪ
@@ -15545,6 +15768,7 @@ cf fonflo
 \sd TN_I.B.3.b
 \de black beetle that inhabits dead palm trees
 \cf kian
+\ce grub
 \pl akponkpoli
 \ph ak͡pṍk͡póli(H)
 \xv Akponkpoli bʋbʋ obebun amʋtɔ.
@@ -15554,7 +15778,7 @@ cf fonflo
 \xe The black beetle is not fatty; His brother is the larvae.
 \na A proverb of a person who is poor, but has a powerful relative.
 \rf Tape:3-2-331
-\dt 28/Jul/2013
+\dt 22/Dec/2013
 
 \lx kpoun
 \ph k͡póṹ(H)
@@ -15660,9 +15884,10 @@ cf fonflo
 \rf Tape:4-1-101
 \rf Stewart List:2350
 \rf Stewart List:2805
-\cf ɔkpɔtɩpʋ Eng:harvester
+\cf ɔkpɔtɩpʋ
+\ce harvester
 \nt words for harvesting: bia/sɩɛtɩ (break off - corn), kpɔtɩ (pluck - fruit, leaves), tɩn (cut a stalk or head of - plantain, palm nuts), puli (harvest from underground - peanuts), kwi (dig - cassava, yam)
-\dt 11/Sep/2012
+\dt 22/Dec/2013
 
 \lx kpʋ
 \ph k͡pʊ́ʔ (H)
@@ -15700,8 +15925,10 @@ cf fonflo
 \xe Draw close to God so that he also will dwell with you.
 \rf Tape:4-1-121
 \cf kpʋkpɛ ba
+\ce shift towards
 \cf kpʋkpɛ yɔ
-\dt 22/Aug/2012
+\ce shift away
+\dt 22/Dec/2013
 
 \lx kpʋkpɛ ba
 \ph k͡pʊ́k͡pɛ́ ba
@@ -15710,8 +15937,10 @@ cf fonflo
 \sd TN_
 \de to shift towards something
 \cf kpʋkpɛ
+\ce shift; approach
 \cf kpʋkpɛ yɔ
-\dt 22/Aug/2012
+\ce shift away
+\dt 22/Dec/2013
 
 \lx kpʋkpɛ yɔ
 \ph k͡pʊ́k͡pɛ́ yɔ́ʔ (H)
@@ -15720,8 +15949,10 @@ cf fonflo
 \sd TN_
 \de to shift away from something
 \cf kpʋkpɛ
+\ce shift
 \cf kpʋkpɛ ba
-\dt 22/Aug/2012
+\ce shift toward
+\dt 22/Dec/2013
 
 \lx kpʋkpʋ
 \hm 1
@@ -15737,7 +15968,9 @@ cf fonflo
 \xe shake corn (to remove the chaff)
 \rf Tape:4-1-128
 \cf wʋsʋ
+\ce shake
 \cf kpɩnkɩ
+\ce shake
 \xv Tsu sanu afʋ kpʋkpʋ nfuo amʋtɔ, asa afʋ wuli mʋ́.
 \xe Bring a sieve so that you can sieve the flour before you stir it (into the porridge) (because they didn't grind it smooth).
 \rf Tape:4-1-130
@@ -15746,7 +15979,7 @@ cf fonflo
 \xe When we shook hands he shook my hand hard.
 \rf Tape:4-1-138
 \rf Stewart List:2301
-\dt 22/Aug/2012
+\dt 22/Dec/2013
 
 \lx kpʋkpʋ
 \hm 2
@@ -15842,7 +16075,8 @@ cf fonflo
 \de sheep
 \pl akufa
 \ph akúfa
-\cf kufabi Eng:lamb
+\cf kufabi
+\ce lamb
 \nt ɔsantɩ (cognate with other Guang languages) is used for the name in fetish worship.
 \lf Etym=kun ɩfa
 \le cut grass
@@ -15850,7 +16084,7 @@ cf fonflo
 \xe When they come out from there they will slaughter a sheep under his feet.
 \rf Tape:4-1-159
 \rf Stewart List:0616
-\dt 26/Dec/2012
+\dt 22/Dec/2013
 
 \lx kufabi
 \ph kufabi
@@ -15892,17 +16126,12 @@ cf fonflo
 \ge ancestral day
 \sd TN_I.C.4.b
 \de ancestral day; fourth day of the traditional Nkonya week
+\na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \xv Kulihɛ gyi Nkonyafɔ nkɛ naasɩ nɩ.
 \xe Kulihɛ is the fourth day of they Nkonyas.
 \cf Ɩpwɛ
-\cf Ɩpwɛ Odekeyikɛ
-\cf Ɩpwɛ Ɔdɛkɛtrákɛ
-\cf Yinke
-\cf Kulihɛ
-\cf Kulihɛ Odekeyikɛ
-\cf Kulihɛ Ɔdɛkɛtrakɛ
-\cf Ɔdɛkɛtrakɛ
-\dt 29/Aug/2013
+\ce first day
+\dt 22/Dec/2013
 
 \lx Kulihɛ Odekeyikɛ
 \ph kulihɛ́ odekeyikɛ
@@ -15910,14 +16139,10 @@ cf fonflo
 \ge 5th day
 \sd TN_I.C.4.b
 \de day following ancestral day; the fifth day of the traditional Nkonya week
+\na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \cf Ɩpwɛ
-\cf Ɩpwɛ Odekeyikɛ
-\cf Ɩpwɛ Ɔdɛkɛtrákɛ
-\cf Yinke
-\cf Kulihɛ
-\cf Kulihɛ Ɔdɛkɛtrakɛ
-\cf Ɔdɛkɛtrakɛ
-\dt 29/Aug/2013
+\ce first day
+\dt 22/Dec/2013
 
 \lx Kulihɛ Ɔdɛkɛtrakɛ
 \ph kulihɛ́ odɛkɛtrákɛ
@@ -15925,15 +16150,10 @@ cf fonflo
 \ge 6th day
 \sd TN_I.C.4.b
 \de the second day following ancestral day; the sixth and final day of the traditional Nkonya week
-\na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week
+\na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \cf Ɩpwɛ
-\cf Ɩpwɛ Odekeyikɛ
-\cf Ɩpwɛ Ɔdɛkɛtrákɛ
-\cf Yinke
-\cf Kulihɛ
-\cf Kulihɛ Ɔdɛkɛtrakɛ
-\cf Ɔdɛkɛtrakɛ
-\dt 29/Aug/2013
+\ce first day
+\dt 22/Dec/2013
 
 \lx kuma
 \ph kuma
@@ -15955,7 +16175,9 @@ cf fonflo
 \xv Nakun wɩ, tamɛ mɛka.
 \xe I struck myself, but it didn't cut
 \cf kunkun
+\ce chop
 \cf ka
+\ce cut
 \xv Nɛdɩda pʋ mɩ ofin si (kun) ibwi. Sʋ mɩ ofin lapɩɛɩ bwɛ ɔlɔ.
 \xe I fell down and hit my shin on a stone. So my shin has peeled and made a sore.
 \rf Tape:4-1-184
@@ -15965,7 +16187,7 @@ cf fonflo
 \xv Igye onye nokun okude nowun fuli.
 \xe Last night I dreamt I saw a ghost.
 \rf Stewart List:2046
-\dt 16/Sep/2012
+\dt 22/Dec/2013
 
 \lx kun okude
 \ph kũ okudeʔ
@@ -16032,7 +16254,7 @@ cf fonflo
 \rf Tape:4-1-220
 \rf Stewart List:2839
 \rf Stewart List:2843
-\dt 28/Dec/2012
+\dt 11/Dec/2013
 
 \lx kuntu
 \ph kuntú
@@ -16117,9 +16339,11 @@ cf fonflo
 \xv Kuti atogyihɛ amʋ wanklaan, makukuti mʋ́ anwunsʋ.
 \xe Cut the food well (mʋ akasʋ) don't cut a littlie bit off the top.
 \rf Tape:4-1-236
-\cf kukuti Eng:cut pieces off repeditively
-\cf kutibi - pinch
-\dt 07/Sep/2012
+\cf kukuti
+\ce take pieces off repetitively
+\cf kutibi
+\ce pinch
+\dt 22/Dec/2013
 
 \lx kutibii
 \ph kutíbǐːʔ
@@ -16143,7 +16367,7 @@ cf fonflo
 \xe My father is not tall, he is short.
 \rf Tape:4-1-254
 \rf Stewart List:1660
-\dt 10/Jan/2012
+\dt 12/Dec/2013
 
 \lx kʋ
 \ph kʊ́(H)
@@ -16220,8 +16444,10 @@ cf fonflo
 \xe Nothing is there.
 \rf Tape:4-1-274
 \cf tɔtɔ
+\ce nothing
 \cf hwɩɩ
-\dt 05/Jul/2005
+\ce nothing
+\dt 22/Dec/2013
 
 \lx kʋkʋ
 \hm 2
@@ -16302,29 +16528,46 @@ cf fonflo
 \sd TN_
 \de get up
 \cf tsinki
+\ce wake up
 \cf tua
+\ce rise early
 \xv Ɔlɔkʋsʋ, ɔlɔtʋ Kofi
 \xe He got up and met Kofi.
 \rf Tape:4-1-309
 \ng kʋsʋ lɩɩ
-\xv Mlɩ kʋsʋ lɩɩ Ɔbʋnsam sʋ mɛnɩ ɔbɛ́srɩ natɩ mlɩ wa.
+\xv Mlɩ kʋsʋ lɩɩ Ɔbʋnsam sʋ mɛnɩ ɔbɛ́sɩrɩ natɩ mlɩ wa.
 \xe Resist Satan so that he will he will run away from you.
 \rf Tape:4-1-313
 \ng sɩrɩ natɩ
 \ng run away
 \xv Nɩ fatsinki a, kʋsʋ.
 \xe If you awake up, get up.
-\rf Tape:4-1-317
-\xv Matsia asɩ, mboun kʋsʋ lɩɩ.
-\xe Don't sit down, instead, stand up.
-\rf Tape:4-1-321
 \ng kʋsʋ lɩɩ
 \ng stand up
 \xv Anɩlatsia gyo mʋ, ɔmɛba sʋ a, kʋsʋ ayɔ woyi.
 \xe We have waited for him, he didn't come, so get up, and let us go to the house.
 \rf Tape:4-1-325
 \rf Stewart List:2014
-\dt 28/Dec/2012
+\dt 22/Dec/2013
+
+\lx kʋsʋ lɩɩ
+\ph kʊ́sʊ́ lɪ́ː
+\ps v
+\ge stand up
+\sd TN_II.A.4.b
+\de stand up
+\rf Tape:4-1-317
+\xv Matsia asɩ, mboun kʋsʋ lɩɩ.
+\xe Don't sit down, instead, stand up.
+\rf Tape:4-1-321
+\se kʋsʋ lɩɩ X sʋ
+\ph kʊ́sʊ́ lɪ́ɪ́ ... sʊ
+\ge resist
+\de to resist X
+\xv Mlɩ kʋsʋ lɩɩ Ɔbʋnsam sʋ mɛnɩ ɔbɛ́sɩrɩ natɩ mlɩ wa.
+\xe Resist Satan so that he will he will run away from you.
+\rf Tape:4-1-313
+\dt 22/Dec/2013
 
 \lx Kwabena
 \ph kʷabɪná
@@ -16420,11 +16663,11 @@ cf fonflo
 \ge crow
 \sd TN_I.B.2.b
 \de piebald crow
-\cf klankpa
+\sy klankpa
 \xv Kwankwadabi ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe A crow's back is black, his chest is white.
 \rf Tape:4-1-349
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx Kwasi
 \ph kʷasí
@@ -16498,7 +16741,7 @@ cf fonflo
 \de leprosy
 \bw Akan fi:kwata
 \xv Ɔdɛ kwata lɔ.
-\xe He has leprosy. .
+\xe He has leprosy.
 \rf Tape:4-1-361
 \rf Stewart List:1445
 \se ɔkwatayin
@@ -16506,8 +16749,8 @@ cf fonflo
 \sd TN_II.E.1.a; II.A.6.b; II.A.6.c
 \de leper
 \pl akwatafɔ
-\cf kwata ɔlɔpʋ
-\dt 14/Aug/2013
+\sy kwata ɔlɔpʋ
+\dt 22/Dec/2013
 
 \lx kwata ɔlɔpʋ
 \ph kwata ɔlɔpʊ́
@@ -16516,7 +16759,8 @@ cf fonflo
 \sd TN_II.E.1.a; II.A.6.b; II.A.6.c
 \de leper
 \cf ɔkwatayin
-\dt 14/Aug/2013
+\ce leper
+\dt 22/Dec/2013
 
 \lx kwatabi
 \ph kwatabi
@@ -16560,12 +16804,13 @@ cf fonflo
 \de sprout
 \xv . . . mʋa la kɔkwɛ amʋ ɔma.
 \xe . . which were shooting behind.
-\cf kɔkwɛ Eng:reduplication meaning scattered activity
+\cf kɔkwɛ
+\ce sprout all over
 \xv Mɩ kpoli lakwɛ.
 \xe My corn has sprouted.
 \rf Tape:4-1-374
 \rf Stewart List:2205
-\dt 16/Aug/2012
+\dt 22/Dec/2013
 
 \lx kwɛ
 \hm 2
@@ -16575,14 +16820,15 @@ cf fonflo
 \sd TN_
 \de grind
 \cf kpi
-\xv Nɔyɔ kwɛ mɩ kpoli .
+\ce scrape
+\xv Nɔyɔ kwɛ mɩ kpoli.
 \xe I am going to grind my corn.
 \rf Tape:4-1-382
 \xv Nakwɛ tɔnsɩ amʋ.
 \xe I have ground the pepper.
 \rf Tape:4-1-386
 \rf Stewart List:2809
-\dt 16/Aug/2012
+\dt 22/Dec/2013
 
 \lx kwi
 \ph kwíʔ(H)
@@ -16711,12 +16957,16 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Ɔkandɩɛ amʋ layinta, mʋ́ sʋ la mʋ́.
 \xe The lamp is spoiled therefore repair it.
 \rf Tape:4-1-412
-\cf bʋa
+\cf bʋa2
+\ce repair
 \cf bʋabʋa
-\cf trɛ
+\ce make ready
 \sn 2
 \ge prepare
 \sd TN_
+\de to prepare
+\cf trɛ
+\ce lay out
 \de to prepare
 \se la isia
 \ge make nest
@@ -16726,7 +16976,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Birds make nests but bats never make nests.
 \rf Stewart List:2885
 \rf Stewart List:2972
-\dt 26/Dec/2012
+\dt 22/Dec/2013
 
 \lx la-
 \hm 3
@@ -16942,8 +17192,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge donkey
 \sd TN_II.D.2.a
 \de donkey
-\cf afrimu
-\dt 28/Jul/2013
+\sy afrimu
+\dt 22/Dec/2013
 
 \lx lasa
 \ph lasaʔ
@@ -17300,7 +17550,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd TN_
 \de to form a line in order to do things in order
 \cf ɩlɩn2
-\dt 15/Sep/2012
+\ce generation
+\dt 22/Dec/2013
 
 \lx lɩnlɩnlɩn
 \ph lɪ̃lɪ̃lɪ̃ʔ
@@ -17342,7 +17593,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \nt proverb
 \rf Tape:4-1-539
 \rf Stewart List:1409
-\dt 05/Jul/2005
+\se
+\cf obugyatɔ lowu
+\ph obuʤaʔtɔ lowu (H)
+\sd TN_I.C.1d
+\ge bad death
+\lt death in blood
+\nt Bad deaths include death in childbirth, by car accident, by falling from a tree, killed with a knife.
+\dt 22/Dec/2013
 
 \lx lɔ
 \ph lɔ́
@@ -17355,11 +17613,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Ndɛ lɔ. Sʋ sɩ lɔ.
 \xe I am holding sickness. Let go of it then.
 \rf Stewart List:2066
-\cf ɩlɔ Eng:sickness
+\cf ɩlɔ
+\ce sickness
 \cf ɔlɔpʋ
 \cf a sick person
 \rf Stewart List:2066
-\dt 29/Aug/2012
+\dt 22/Dec/2013
 
 \lx lɔɔrɩ
 \ph lɔːrɪ
@@ -17384,13 +17643,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe You have hated / retched on (see sense 2) me but you will not be able to vomit me.
 \xe Free: You hate but you can't get rid of me.
 \rf Tape:4-1-546
-\cf olupʋ/alupʋ Eng:enemy/ enemies
+\cf olupʋ
+\ce enemies
 \rf Stewart List:3254
 \sn 2
 \ge retch
 \sd TN_
 \de to retch on something
-\dt 29/Aug/2012
+\dt 22/Dec/2013
 
 \lx luluulu
 \ph lúlúːlú
@@ -17473,6 +17733,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd TN_
 \de who?
 \cf manɩ mɩnɩ
+\ce early evening
 \xv Ma lɛba nfɩ igye?
 \xe Who came here yesterday?
 \rf Tape:4-1-573
@@ -17481,7 +17742,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-577
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \rf Stewart List:1606
-\dt 02/Jan/2013
+\dt 22/Dec/2013
 
 \lx ma
 \hm 2
@@ -17582,15 +17843,18 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-579
 \xv Maɩn ɔwʋlʋ amʋ́ʋ́ nɔpʋ manta buntisʋ amʋ ba mɩ.
 \xe Remove the paper I stuck on the wall, that one, and bring it to me.
-\cf piɛɩ
+\cf pɩɛɩ
+\ce scrape
 \cf sre
+\ce carve
 \cf flɔɩ
+\ce peel
 \xv Mahɔ bodobodo kahɛ, mboun hɔ maɩnhɛ ba mɩ.
 \xe Don't buy the cut bread, instead buy the separable kind (attached buns).
 \xv Mɩ kpoli lafuli. Nɛyɛmaɩn mʋ́ bɔwa ɔtsabitɔ.
-\xe My maize is ripe. I am going to harvest it and put it into the shelf above the hearth.
+\xe My maize is ripe. I am going to husk it and put it into the shelf above the hearth.
 \rf Tape:4-1-583
-\dt 15/Sep/2012
+\dt 22/Dec/2013
 
 \lx mama
 \ph mámáʔ (H)
@@ -17797,6 +18061,16 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-095
 \dt 15/Sep/2012
 
+\lx mblɩkpɛ
+\ph mblɪkpɛ
+\ps n
+\ge irritation
+\sd TN_II.B.3
+\de nominal form of kpɛ mblɩ
+\cf kpɛ mblɩ
+\ce irritate
+\dt 22/Dec/2013
+
 \lx mboun
 \ph mboṹʔ
 \ps ADV
@@ -17852,13 +18126,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de board
 \pl mbrɛtɩ
 \ph mbrɛtɪ
-\cf ntabʋ
 \xv Nabɔbɔɩ ndum, sʋ mbʋ mbrɛtɩ tsɔtsɔɔtsɔ.
 \xe I have split ndum so I have many boards.
 \xv Mbrɛtɩ tsɔtsɔɔtsɔ amʋ dɩn fʋ obusʋ amʋ laplɔ.
 \xe Many boards that are on top of your building are rotten.
 \rf Tape:4-2-140
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx mbuaɛ
 \ph mbuaɛ
@@ -17934,7 +18207,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge swallow
 \sd TN_
 \de swallow
-\cf ɔmɛ 'throat'
+\cf ɔmɛ
+\ce throat
 \xv Ɔdɛlɔ mʋ́sʋ mʋ sɩ lɛha mʋ afa; ɔlɛmɛ.
 \xe He was sick so his father gave him medicine and he took it.
 \xv Afa amʋ bʋ ɔkɩta sʋ mmɛtalɩ mɛ mʋ́.
@@ -17948,7 +18222,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd TN_
 \de to sink out of sight
 \cf mɩm
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx mɛ
 \hm 2
@@ -18265,14 +18539,15 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx mlɩyaa
 \ph mlɪyǎː
 \ps INTJ
-\ge greet AM
+\ge greet A.M.
 \sd TN_II.E.4.a
 \de greetings in the morning to multiple people
 \cf ɔyaa
+\ce greet A.M.
 \xv Nyankɩ, nɩ fɔtʋ ɔha a, ha mʋ ɩtɛ fɛɛ "Ɔyaa". Nɩ bʋ tsɔ a, "Mlɩyaa."
 \xe When you meet a person in the morning, greet him/her saying "Ɔyaa", if they are many say "Mlɩyaa"
 \rf Tape:6-1-039
-\dt 27/Aug/2013
+\dt 22/Dec/2013
 
 \lx mmɛ
 \ph mmɛ(H)
@@ -18340,14 +18615,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Yibi lamɔ batɛ amʋ.
 \xe A car has killed the chicken.
 \rf Tape:4-2-335
-\cf mɔ ɔnɔ
-\xv Ɩlasi kpalobi anɩla mɔ anɩ agyʋma ɔnɔ.
-\xe There is only a little left before we finish our work.
-\rf Tape:4-2-239
-\xv Ɔyɔmɔ kufa amʋ.
+\xv Ɔlɔmɔ kufa amʋ.
 \xe He killed the sheep.
 \rf Stewart List:2006
-\dt 09/Aug/2012
+\dt 22/Dec/2013
 
 \lx mɔ ɔnɔ
 \ph mɔ ɔnɔ́ʔ (H)
@@ -18360,7 +18631,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge ending
 \sd TN_I.C.4.c
 \de the ending of something
-\dt 29/Oct/2013
+\xv Ɩlasi kpalobi anɩla mɔ anɩ agyʋma ɔnɔ.
+\xe There is only a little left before we finish our work.
+\rf Tape:4-2-239
+\dt 22/Dec/2013
 
 \lx mɔkʋ
 \ph mɔkʊ́ʔ
@@ -18435,14 +18709,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd TN_
 \de sandals
 \bw Akan fi:mpabwa
-\pl mpabʋa
-\ph mpabʊa
 \cf ntʋkʋta
+\ce footwear
 \xv Wa fʋ mpabua amʋ, tsufɛsɛ nsaɩntɔ lablɩ ogya. Fɔlɔ.
 \xe Put on your sandals, the weather is hot, you will get sick.
 \rf Tape:4-2-397
 \cf ntʋkʋta
-\dt 16/Jul/2012
+\dt 22/Dec/2013
 
 \lx mpaɩ
 \ph mpáɪ
@@ -18474,7 +18747,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Igyo ampesie mʋa kontomere aboun bʋ ɔdwɛ.
 \xe Yam slice with kontomere stew is sweet.
 \cf bɔ
-\dt 29/Oct/2013
+\ce make
+\dt 22/Dec/2013
 
 \lx mpɛsɛ
 \ph mpɛsɛ
@@ -18493,14 +18767,16 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge cheek
 \sd TN_II.A.1.b
 \de cheeks
-\xv Ɔha ánɩ́ ɔdʋn fʋ mpie a; ɔdʋn fʋ atsɔnɔ.
-\xe He who has larger cheeks than you should have more saliva than you. (Meaning: one who has more resources than you will defeat you)
-\nt proverb
+\xv Ɔha ánɩ́ ɔdʋn fʋ mpie a; ɔdʋn fʋ atsʋnɔ.
+\xe He who has larger cheeks than you will have more saliva than you.
+\nt Proverb meaning One who has more resources than you will defeat you.
 \rf Tape:4-2-412
 \rf Stewart List:0033
 \cf nyewu
+\ce cheek
 \cf oswie
-\dt 26/Aug/2013
+\ce cheek
+\dt 22/Dec/2013
 
 \lx mpionkɛntɛ
 \ph mpioŋkɛ̃ntɛ
@@ -18520,7 +18796,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd TN_I.C.2.a
 \de many thousand
 \cf ɔpɩm
-\dt 26/Aug/2013
+\ce thousand
+\dt 22/Dec/2013
 
 \lx mpɩna
 \ph mpɪna
@@ -18543,7 +18820,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe He chewed on the bones and threw away the remnants.
 \rf Tape:4-2-417
 \cf mpupubi
-\dt 05/Jul/2005
+\ce food scraps
+\dt 22/Dec/2013
 
 \lx mpulu
 \ph mpúlu
@@ -18567,8 +18845,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge blister
 \sd TN_
 \de blister
-\cf ɩfɔɩ- also canker LL(H)
-\dt 01/Sep/2012
+\cf ɩfɔɩ
+\ce canker
+\dt 22/Dec/2013
 
 \lx mpuni
 \ph mpúniʔ
@@ -18611,13 +18890,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd TN_
 \de sponge made from dead plantain tree
 \cf ɔsapɔ
+\ce sponge
 \xv Blɔdɩ oyi plɔhɛ amʋ a, lɔfwɩ mʋ́ afʋ lɛ mpʋsa.
 \xe The rotten plantain tree, go wash it, so that you can remove the sponge.
 \rf Tape:4-2-433
 \xv Fʋ bi ɔkɔ dinka fʋ obiansʋ a, bʋtamapʋ ɔdayi ka mʋ́. Mpʋsa bʋtɔpʋ kpa mʋ́.
 \xe If your child defecates on your thigh, don't cut it off with a knife, use a sponge
 \nt proverb
-\dt 23/Jul/2012
+\dt 22/Dec/2013
 
 \lx mu
 \ph mú
@@ -18626,7 +18906,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd TN_
 \de to be mute
 \cf omumu
-\dt 29/Aug/2012
+\ce mute person
+\dt 22/Dec/2013
 
 \lx mumlun
 \ph mũmlũʔ
@@ -19100,10 +19381,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \nt From ths: days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
 \rf Stewart List:1551
 \cf ɩnwɛn1
+\ce day before yesterday
 \cf igye
+\ce yesterday
 \cf ɔkɛ
+\ce tomorrow
 \cf klaɛ
-\dt 28/Aug/2012
+\ce day after tomorrow
+\dt 12/Dec/2013
 
 \lx ndɛmba
 \ph ndɛmba
@@ -20038,7 +20323,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ge mark
 \sd TN_
 \de a scar on something to make it stand out
-\dt 08/Aug/2012
+\dt 12/Dec/2013
 
 \lx nsʋpa
 \ph nsʊ́pa(H)
@@ -21195,7 +21480,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The woman is stirring mashed water yam.
 \rf Tape:5-1-592
 \cf dablun
-\dt 02/Aug/2012
+\dt 22/Dec/2013
 
 \lx nyɔɔsɩ
 \ph ɲɔ́ːsɪ́
@@ -23116,12 +23401,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \dt 23/Jul/2012
 
 \lx olupʋ
-\ph olupʊ
+\ph olupʊ́
 \ps n
 \ge enemy
 \sd TN_II.E.4.b
 \de enemy
-\dt 14/Aug/2013
+\pl alupʋ
+\ph alupʊ́
+\dt 22/Dec/2013
 
 \lx omenyapʋ
 \ph omeɲapʊ́
@@ -23174,7 +23461,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Omumu-gyi-omumu tɔkɔsɩ nya ɔblɔ.
 \xe Every mute, becomes angry quickly.
 \rf Stewart List:1688
-\dt 14/Aug/2013
+\cf mu
+\ce be mute
+\dt 22/Dec/2013
 
 \lx oniaba
 \ph oníaba(H)
@@ -25224,12 +25513,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \pl ndawu
 \ph ndawuʔ
 \cf ikwitɔ
+\ce beard
 \xv Oyin anfɩ ɔdawu bʋ swɩ, mʋ pio amʋ ɛ klɛ bʋ alɛ.
 \xe This man's chin is long, his brother also is good.
 \rf Tape:5-2-274
 \rf SIL-AWL:0022
 \rf Stewart List:0074
-\dt 26/Dec/2012
+\dt 12/Dec/2013
 
 \lx ɔdayi
 \ph ɔdayí
@@ -25289,16 +25579,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge 3rd day
 \sd TN_I.C.4.b
-\de the Southern dialect has two days called Ɔdɛkɛtrakɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, two days following Ɩpwɛ and Kulihɛ Ɔdɛkɛtrakɛ, two days following 
-\na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week
+\de the Southern dialect has two days called Ɔdɛkɛtrakɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, two days following Ɩpwɛ and Kulihɛ Ɔdɛkɛtrakɛ, two days following. 
+\na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \cf Ɩpwɛ
-\cf Ɩpwɛ Odekeyikɛ
-\cf Ɩpwɛ Ɔdɛkɛtrakɛ
-\cf Yinke
-\cf Kulihɛ
-\cf Kulihɛ Ɔdɛkɛtrakɛ
-\cf Ɔdɛkɛtrakɛ
-\dt 29/Aug/2013
+\ce first day
+\dt 22/Dec/2013
 
 \lx ɔdɩ
 \ph ɔdɪ́
@@ -25921,10 +26206,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔkɛ Yaoda gyi nfɩ obiakɛ.
 \xe Tomorrow, which is Thursday, will be market day here.
 \cf ɩnwɛn1
+\ce day before yesterday
 \cf igye
+\ce yesterday
 \cf ndɛ
+\ce today
 \cf klaɛ
-\dt 28/Aug/2012
+\ce day after tomorrow
+\dt 12/Dec/2013
 
 \lx ɔkɛkɛ
 \ph ɔkɛkɛ́
@@ -26403,6 +26692,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:1-1-205
 \cf imu, needs work
 \dt 26/Dec/2012
+
+\lx ɔkpɔtɩpʋ
+\ph ɔk͡pɔtɪ́pʊ́
+\ps n
+\ge harvester
+\de someone who plucks something
+\dt 22/Dec/2013
 
 \lx ɔkpʋn
 \ph ɔk͡pʊ̃
@@ -27858,10 +28154,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \pl nsapɔ
 \ph nsapɔ
 \cf mpʋsa
+\ce sponge
 \xv Kebi amʋ lakpɔɩ ɩwɩ dʋbɩ sʋ kpita mʋ ɩwɩ ɔsapɔ wanklaan.
 \xe The child has gotten very dirty so scrub him well with a sponge.
 \rf Tape:6-1-365
-\dt 05/Jul/2012
+\dt 22/Dec/2013
 
 \lx ɔsasʋ
 \ph ɔsasʊ
@@ -28146,11 +28443,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ogya amʋ detsii ɔswɩtɔ.
 \xe The fire is burning in the hearth.
 \rf Tape:6-1-436
-\cf afɔdɩɛbɔ ɔswɩ - altar
+\cf afɔdɩɛbɔ ɔswɩ
+\ce altar
 \xv Nɩ fɔ́pwɛ ɔswɩ a, féhian ɩsɩ ánɩ́ mʋ́tɔ lɔsɔ fówun fawɔ mʋ́a mbepi wa mʋ́tɔ. Mbepi amʋ bɛ́ha ɔswɩ amʋ mɛ́ɛbaba. Fówun fapwɛ mʋ́.
 \xe When you want to make a hearth, you will need clay then you pound it together with palm nut rubbish. The palm nut rubbish will make the hearth not to crack. Then you start moulding it.
 \rf Stewart List:1159
-\dt 16/Jul/2012
+\dt 22/Dec/2013
 
 \lx ɔtabʋ
 \ph ɔtabʊ(H)
@@ -28159,11 +28457,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_
 \de oar
 \pl ntabʋ
-\xv Bʋtɔpʋ ɔtabʋ pla ɔkʋlʋn.
-\xe Paddle is used to row canoe.
+\xv Bʋtɔpʋ ɔtabʋ pla ɔklʋn.
+\xe They use paddles to row a canoe.
 \rf Tape:6-1-439
 \rf Stewart List:1223
-\dt 01/Oct/2012
+\dt 22/Dec/2013
 
 \lx ɔtan
 \hm 1
@@ -28470,6 +28768,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ntsusʋ ayɔpʋ bʋtɔyɔ ntsu ɔtɔtɔ yɛlɛ amʋ́ awʋlɛ.
 \xe Fishermen go deep into the water to remove their nets.
 \dt 05/Jul/2012
+
+\lx ɔtrahɛ
+\ps n
+\ge last person
+\de the last person
+\dt 12/Dec/2013
 
 \lx ɔtrapʋ
 \ph ɔtrá!pʊ́
@@ -29743,7 +30047,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_
 \de to prepare fufu
 \rf Stewart List:2120
-\dt 17/Aug/2012
+\dt 22/Dec/2013
 
 \lx pla
 \hm 2
@@ -29825,7 +30129,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to underestimate s.o. or s.t.
 \xv Ɔtɔwa ɔsa nya ɔblɔ. Maplei mʋtɔ.
 \xe He gets angry quickly. Don't underestimate him.
-\dt 28/Oct/2013
+\dt 12/Dec/2013
 
 \lx pleia
 \ph pléíáʔ(L)
@@ -30558,8 +30862,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Ataa looked at her money, alas, it wasn't much.
 \xv Brɛa nɔyɔ a, saa mʋ ɛ ɔba, sʋ anɩ lefia aba ɔkpatɔ.
 \xe The time that I went, unexpectedly he also came so we met each other on the road.
-\nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
-\dt 09/Aug/2012
+\va sanya
+\ve South
+\dt 22/Dec/2013
 
 \lx saafɩ
 \ph sâːfɪ
@@ -30919,6 +31224,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:2-1-521
 \dt 05/Jul/2012
 
+\lx si kie
+\ph si kié
+\ps vt
+\ge forgive
+\sd TN_
+\de forgive
+\xv Si asʋn kie fʋaba, mɛnɩ Bulu obési fʋklɛ kie fʋ.
+\xe Forgive your neighbour's case so that God will forgive yours.
+\xv Nɩ nafʋm fʋ a, kokoli sikie mɩ.
+\xe If I have offended you please forgive me.
+\lt leave give as gift 
+\cf si
+\cf kie
+\dt 22/Dec/2013
+
 \lx sia
 \ph siá
 \ps v
@@ -31088,21 +31408,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Gold is more valuable than silver.
 \dt 18/Jul/2005
 
-\lx sikie
-\ph sikié
-\ps vt
-\ge forgive
-\sd TN_
-\de forgive
-\xv Si asʋn kie fʋaba, mɛnɩ Bulu obési fʋklɛ kie fʋ.
-\xe Forgive your neighbour's case so that God will forgive yours.
-\xv Nɩ nafʋm fʋ a, kokoli sikie mɩ.
-\xe If I have offended you please forgive me.
-\ng si kie- forgive stop/give
-\cf si
-\cf kie
-\dt 16/Sep/2012
-
 \lx sila
 \ph sílá
 \ps v
@@ -31228,8 +31533,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Break off the tree branch for me.
 \xv Sɩɛtɩ blɔdɩ oblun ha mɩanpʋ fra agbodi amʋtɔ.
 \xe Break off green plantain for me to mix in with the cassava.
-\nt From ths: words that break: bwie ( break something ), bia ( break off , fracture ), gyɔɩ ( break off one piece at a time ), tʋn ( break a law, oath ), sɩɛtɩ ( break off )
-\dt 12/Sep/2012
+\dt 12/Dec/2013
 
 \lx sɩlva
 \ph sɪ́lva
@@ -31408,13 +31712,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to peel with a metallic instrument
 \xv Mapʋ krantɩɛ sre blɩbɛ amʋ, mboun pʋ ɔdayi sre mʋ mɛnɩ ɩbɔ́wa fʋ asrelɛ.
 \xe Don't take a krantɩɛ and peel the pineapple. Instead take a knife and peel it so that it will be easy for you to peel.
-\cf pie
+\cf pɩɛɩ
+\ce scrape
 \cf maɩn
+\ce detach
 \cf flɔɩ
-\cf asrelɛ
+\ce peel
 \nt From ths: words that cut: ka (general term), kaka (chop), kun (gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \rf Stewart List:2823
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx srɛɩ
 \ph srɛɪ́
@@ -31710,8 +32016,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Bunti amʋ lasunki da oyin amʋsʋ alawu.
 \xe The wall has fallen on the man and he is dead.
 \rf Tape:7-1-115
+\cf kpada
+\ce fall from height
 \nt From ths: words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpa wie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx susu
 \ph súsûʔ
@@ -32079,7 +32387,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge deny falsely
 \sd TN_
 \de to deny falsely
-\dt 29/Aug/2012
+\dt 12/Dec/2013
 
 \lx ta
 \ph tá
@@ -33239,7 +33547,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph tɔsɪʔ(L)
 \ps n
-\ge caterpillar
+\ge k.o. caterpillar
 \sd TN_I.B.3.b
 \de a kind of caterpillar. It stings, and is green with long hairs. It live under leaves
 \pl atɔsɩ
@@ -33250,7 +33558,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mɩ kufa lawɩ ɩfá. Sa, tɔsɩ bʋ mʋ́ sʋ, sʋ odekle ánɩ́ obowu.
 \xe My sheep has eaten grass. Unexpectedly, caterpillar was on it, so it is dying.
 \rf Tape:7-2-042
-\dt 28/Jul/2013
+\cf fonflo
+\ce non-stinging caterpillar
+\dt 12/Dec/2013
 
 \lx tɔsɩ
 \hm 2
@@ -33274,7 +33584,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_
 \de nothing
 \cf kʋkʋ
+\ce nothing
 \cf hwɩɩ
+\ce nothing
 \xv Tɔkʋ bʋ ɔbɔ amʋtɔ? Oo! Tɔtɔ ma mʋ́tɔ.
 \xe Is there anything in the hole? No, nothing is in it.
 \rf Tape:7-2-066
@@ -33282,7 +33594,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Tɔtɔɔtɔ ma ɔbɔ amʋtɔ.
 \xe Nothing at all is in the hole.
 \rf Tape:4-1-564
-\dt 28/Dec/2012
+\dt 22/Dec/2013
 
 \lx tɔtɔɔtɔ
 \ph tɔtɔːtɔ
@@ -34662,6 +34974,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mɩ ɩtswɩ mɛ? Ɩtswɩ ma nʋ?
 \xe Where is my dash? Aren't you going to dash me?
 \cf mfasʋɔ
+\ce benefit
 \se mʋ́sʋ tswɩ
 \ge iron
 \sd TN_
@@ -34672,7 +34985,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge dive
 \sd TN_
 \de to dive into something
-\dt 13/Aug/2013
+\dt 12/Dec/2013
 
 \lx tswɩ lala
 \ph t͡swɪ lala
@@ -36057,7 +36370,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv wʋsʋ ɩwɩ; afɩta dɛwʋsʋ.
 \xe shake body; leaves are shaking (in the wind).
 \rf Tape:8-1-434
-\xv Ɩla wʋsʋ amʋ́ klʋn
+\xv Ɩlawʋsʋ amʋ́ klʋn
 \xe It shook their hearts; it upset them
 \rf Tape:8-1-438
 \xv Nɩ bʋdɛ akwɛ da, akatsa ma mʋ́tɔ a, ɩma anulɛ. Mʋ́ sʋ agbagyafɔ bʋtɔwʋsʋ akatsa tsɔtsɔɔtsɔ wa amʋ́ pleitɔ nɩ.
@@ -36065,7 +36378,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:1-1-310
 \cf kpʋkpʋ
 \cf kpɩnkɩ
-\dt 20/Sep/2012
+\dt 22/Dec/2013
 
 \lx ya
 \ph ya
@@ -36529,9 +36842,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge 3rd day
 \sd TN_I.C.4.b
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
+\nt More information is available under the entry for Ɩpwɛ.
 \va Ɩpwɛ Ɔdɛkɛtrákɛ
 \ve South
-\dt 29/Aug/2013
+\cf Ɩpwɛ
+\ce first day
+\dt 22/Dec/2013
 
 \lx yinki
 \ph yíŋkí
@@ -36659,6 +36975,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf kla
 \cf tsii
 \dt 25/Aug/2012
+
+\lx yiyii
+\ph yiyîʔ
+\ps v
+\ge gossip
+\sd TN_II.B.2.b.i
+\de to gossip about someone
+\dt 22/Dec/2013
 
 \lx yɩlɔwɩ
 \ph yɪlɔ́wɪʔ
@@ -36821,4 +37145,5 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-2-059
 \rf Stewart List:3243
 \cf hyira
-\dt 17/Aug/2012
+\ce bless
+\dt 12/Dec/2013
