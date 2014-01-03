@@ -887,7 +887,7 @@
 \-fil
 
 \+fil Marker2Present
-\mkr hm
+\mkr sn
 \match_char c
 \-fil
 

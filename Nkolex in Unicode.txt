@@ -1,3 +1,5 @@
+\_sh v3.0  745  MDF 4.0
+
 \lx a
 \hm 4
 \ph a
@@ -227,10 +229,9 @@
 \sd TN_II.D.1.e
 \de palm fruits
 \nt singular is bebi
-\xv Nɩ fɔwɔ abɛ a, fɛ́lɛ abi pʋ mbepi lɛ mʋ́tɔ.
+\xv Nɩ fɔwɔ abɛ a, fɛ́lɛ abi pʋ́ mbepi lɛ mʋ́tɔ.
 \xe When you pound palm fruits you will take the kernels and the fibres out of it.
 \nt lɛ mʋ́ lɛ means to take something out of something
-\xe When you pound palm nuts you take out the fibres and kernels.
 \rf Tape:1-1-060
 \cf ɔbɛ́
 \ce oil palm tree
@@ -248,7 +249,7 @@
 \ce k.o. palm fruit
 \cf ɔbɛkʋtʋ
 \ce k.o. palm fruit
-\dt 29/Oct/2013
+\dt 04/Jan/2014
 
 \lx abi
 \ph abi(H)
@@ -4541,8 +4542,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \le pull (and move)
 \xv Bɩtɩ ɔfɛ amʋtɔ!
 \xe Pull on the rope.
-\bb Stewart List:2344 - tighten
-\bb Stewart List:2660 - pull
+\bb Stewart List:2344
+\bb Stewart List:2660
 \sn 2
 \ps vi
 \ge slither
@@ -4551,7 +4552,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ɔdɛ asʋntɔ bɩtɩ.
 \xe He is dragging out a case.
 \nt pull: bɩtɩ (pull), kpʋ (pull a thread gather), pio (pull out, extract), tsii, tsitsii (pull out suddenly), puli (uproot)
-\dt 04/Nov/2012
+\dt 03/Jan/2014
 
 \lx bɩtɩa
 \ph bɪ́tɪ́a
@@ -7697,8 +7698,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fɩta tati amʋ.
 \xe Dry that cloth.
 \bb Stewart List:2260
-\bb Stewart List:28082883
-\dt 17/Dec/2012
+\bb Stewart List:2259
+\dt 03/Jan/2014
 
 \lx fɩtɛ
 \ph fɪ́tɛ́ (H)
@@ -9484,12 +9485,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:3201
 \sn 3
 \ge take
-\sd TN_
+\sd TN_II.B.4
 \de to take something
 \cf swɩɩ2
-\ce seize
+\ce confiscate
 \bb Stewart List:3219
-\dt 12/Dec/2013
+\dt 03/Jan/2014
 
 \lx hɔ
 \ph hɔʔ
@@ -11828,11 +11829,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce weak
 \xv Fʋ Ee! bwɛ fʋ Ee!; fʋ O-o! bwɛ fʋ O-o!; mɛnɩ Bulu méegyi fʋ asʋn ha fʋ pɔn.
 \xe Your yes make yes, your no, no so that God will not judge you and find you guilty.
-\ng Bulu méegyi- no pronoun
 \rf Tape:3-1-145
 \xv Olegyi pɔn
 \xe He was found guilty.
-\dt 12/Dec/2013
+\dt 04/Jan/2014
 
 \lx ɩpʋ
 \hm 1
@@ -14856,15 +14856,14 @@ cf fonflo
 \ge crowded
 \sd TN_
 \de crowded
-\ve South
 \rf Tape:3-2-417
 \xv Aha bebla wulu amʋtɔ kpakpaakpa.
 \xe The town was very crowded.
 \sn 2
 \ge closed
 \de closed very tightly
-\nt This sense kpakpaakpa is used in the Southern dialect.
-\dt 02/Jan/2013
+\oe This sense is only Southern dialect.
+\dt 03/Jan/2014
 
 \lx kpakpahe
 \ph k͡pák͡pá!hé
@@ -27500,8 +27499,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge what woman
 \sd TN_II.E.1.a; II.B.2
 \de what sort of woman
-\le Obsolete
-\dt 16/Sep/2013
+\nt Obsolete
+\dt 03/Jan/2014
 
 \lx ɔmɛwʋlɩ
 \ph ɔmɛwʊ́lɪ
@@ -32677,7 +32676,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The things have become hot so remove them from the fire for me.
 \bb Stewart List:2528
 \sn 2
-\ge seize
+\ge confiscate
 \sd TN_II.B.4
 \de to grab or seize something by force
 \rf Tape:7-1-296
@@ -32695,7 +32694,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge deny falsely
 \sd TN_
 \de to deny falsely
-\dt 12/Dec/2013
+\dt 03/Jan/2014
 
 \lx ta
 \ph tá
@@ -35358,11 +35357,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_
 \de to separate
 \nt the core meaning seems to separate from oneself
-\se tu atsʋnɔ
-\xe spit
-\de to spit
-\rf Tape:7-2-568
-\bb Stewart List:2040
+\xv tu duku
+\xe take off headscarf
+\nt From ths: words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
 \se tu ɔkpa
 \ge travel
 \sd TN_
@@ -35375,16 +35372,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_
 \de to emigrate to somewhere
 \sn 3
-\ge drive away
+\ge expel
 \sd TN_
 \de to drive someone away
 \rf Tape:7-2-574
 \xv Ototu amʋ́ nʋ.
 \xe He always drives them away.
 \bb Stewart List:2483
-\nt From ths: words for dressing: wa (put on underwear, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie waist beads, belt, head scarf) bun (cover head with hat).
-\nt From ths: words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
-\dt 28/Dec/2012
+\se tu atsʋnɔ
+\ge spit
+\de to spit
+\rf Tape:7-2-568
+\bb Stewart List:2040
+\dt 03/Jan/2014
 
 \lx tu
 \hm 2
