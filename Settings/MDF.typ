@@ -915,9 +915,8 @@
 \-fil
 
 \+fil search
-\mkr sd
-\txt TN_
-\MatchWhole
+\mkr ge
+\txt [D]
 \match_char c
 \-fil
 
@@ -971,13 +970,16 @@
 \+expset 
 \MDF
 \verMDF 4.1
+\NoMDFReminder
 
 \+expMDF Multi-Dictionary Formatter
 \UTF8
-\copyright Copyright © 2012
+\copyright Copyright © 2014 GILLBT
+\EnglishGlossIndex
 \titleEnglishDiglot Nkonya English Dictionary
-\exportedEnglishDiglot C:\My Toolbox Projects\Dictionary-a.rtf
-\exportedGlossIndexEE C:\My Toolbox Projects\List_ee.rtf
+\titleGlossIndexEE English to Nkonya index
+\exportedEnglishDiglot C:\My Toolbox Projects\Nkonya\tmp\BeforeFix\nkolex-all.rtf
+\exportedGlossIndexEE C:\My Toolbox Projects\Nkonya\tmp\BeforeFix\nkolex-all-finderlist.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
@@ -985,6 +987,7 @@
 \IncludeNonMDF
 \typRTF MDF Rich Text Format
 \typHTML MDF SF-to-HTML
+\CheckConsistency
 \+mkrsubsetExcluded 
 \mkr dt
 \mkr ec
@@ -1015,7 +1018,9 @@
 \-expMDF
 
 \+expRTF Rich Text Format
-\exportedFile C:\My Toolbox Projects\Nkonya\tmp\nyanke.rtf
+\dotFile C:\My Toolbox Projects\Nkonya\Settings\MDF_e.dot
+\exportedFile C:\My Toolbox Projects\Nkonya\tmp\BeforeFix\nkolex-g.rtf
+\CheckConsistency
 \+rtfPageSetup 
 \paperSize letter
 \topMargin 1
@@ -1033,7 +1038,7 @@
 \+expSF Standard Format
 \-expSF
 
-\expDefault Rich Text Format
+\expDefault Multi-Dictionary Formatter
 \CurrentRecord
 \-expset
 \PreventNumbering
