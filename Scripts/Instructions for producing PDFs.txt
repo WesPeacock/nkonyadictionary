@@ -1,5 +1,5 @@
 rem remove empty \sd entries & produce cross refs from \va put result into tmp/nkolex.txt
-grep -v TN-$ <"Nkolex in Unicode.txt" >tmp\nkolex-all.txt
+grep -v TN_$ <"Nkolex in Unicode.txt" >tmp\nkolex-all.txt
 perl -f Scripts\create_va_xref.pl <"Nkolex in Unicode.txt" >>tmp\nkolex-all.txt
 rem build tmp\nkolex-X.txt files
 call Scripts\select_lx_bychar.cmd
