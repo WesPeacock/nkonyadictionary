@@ -197,6 +197,7 @@
 \+mrflst 
 \mkr lx
 \mkr va
+\mkr se
 \-mrflst
 \mkrOut mr
 \-triPref
@@ -217,6 +218,7 @@
 \+mrflst 
 \mkr lx
 \mkr va
+\mkr se
 \-mrflst
 \mkrOut mr
 \-triRoot
@@ -253,6 +255,7 @@
 \-drflst
 \+mrflst 
 \mkr lx
+\mkr se
 \-mrflst
 \mkrOut ge
 \-triLook
@@ -298,6 +301,10 @@
 \+jmpset 
 \+jmp Morphemes
 \+drflst 
+\+drf 
+\File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
+\mkr se
+\-drf
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \mkr lx
