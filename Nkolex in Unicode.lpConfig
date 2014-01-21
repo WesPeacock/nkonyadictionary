@@ -5,7 +5,7 @@
 <!-- Database: Nkolex in Unicode.txt -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2014-01-08T14:54:39">
+<lexiqueProConfig version="3.6" dateModified="2014-01-19T18:48:22">
 
  <encoding type="UTF-8"/>
 
@@ -523,9 +523,9 @@
    </view>
    <view type="multiple">
     <font>
-     <name>Lucida Sans Unicode</name>
+     <name>Doulos SIL</name>
      <size>9</size>
-     <style bold="false" italic="false" underline="false" />
+     <style bold="false" italic="true" underline="false" />
      <color>navy</color>
     </font>
    </view>

@@ -41,7 +41,7 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain max -1 -1 -1 -1 30 76 1373 859
+\placementMain max -32000 -32000 -1 -1 30 76 1373 859
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
@@ -499,7 +499,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 729 0 24 348 230 960 684
-\z 9
+\z 10
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -540,9 +540,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 275
+\CaretLineScroll 273
+\CaretChar 8013
 \-wnd
 \-wndlst
 \-db
@@ -591,7 +591,7 @@
 \-wnd
 \+wnd 
 \placement normal 0 24 0 24 253 253 1436 798
-\z 10
+\z 9
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget

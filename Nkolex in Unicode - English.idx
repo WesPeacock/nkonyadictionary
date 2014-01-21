@@ -58,8 +58,8 @@ amulet	2572
 ancestral day	1347
 anchor	2598
 ancient times	366
-and	0,1567,1569,1570,2531
-and these	172
+and	1,1567,1569,1570,2531
+and these	171
 angel	2073
 anger	2068
 animal	2082
@@ -105,7 +105,7 @@ aware of X	557
 axe	599,1449
 baboon	1258
 bachelor	1255
-back	2215,2216
+back	2216,2215
 back of hand	2056
 backbone	2343
 backyard	849,1537
@@ -134,7 +134,7 @@ batheable	20
 bathroom plant	889
 be aggressive	2922
 be alert	493
-be awake	1123,1125
+be awake	1125,1123
 be bright / cute	1027
 be constipated	2595
 be drunk	453
@@ -157,7 +157,7 @@ be wicked	1736
 beach	1999,2305
 bead	447,448
 beans	281
-bear	2668,2964
+bear	2668,2959
 beard	843
 beautiful	117
 beauty	184
@@ -199,7 +199,7 @@ bird	1815
 birdlime	960
 birth pains	1403
 birthday	2200
-bite	579,2960
+bite	579,2961
 bitter	1139
 bitterness	2155
 black	354
@@ -249,8 +249,8 @@ branch	329
 bravery	936
 bread	394
 break	347,473
-break law	2912
-break oath	2913
+break law	2913
+break oath	2914
 break off	763,2606
 breakable	19
 breast	1779
@@ -293,7 +293,7 @@ butcherable	21
 butterfly	1186
 buttocks	1897
 buy	795
-buy on credit	663
+buy on credit	662
 by all means	158,903
 cackle	1232
 calabash	603
@@ -319,6 +319,7 @@ cat	175
 catarrh	999
 catch	1264,2663
 caterpillar	652
+caterpillar, k.o.	2769
 cave	818,819
 cedi	2585
 ceiling	845
@@ -348,7 +349,7 @@ chase	2624,2885
 cheat	2603,2682
 cheek	1551,1772,1983
 chest	1071
-chew	2959
+chew	2960
 chief	1586,2016,2502
 child	1079,1794
 childhood	1771
@@ -445,7 +446,7 @@ corn cob	1895
 corn porridge	621
 corner	1887,1889
 corpse	826
-correct	2167,1412,2878,2879
+correct	2167,1412,2879,2878
 cotton	1957
 cotton wool	1958
 cough	2949
@@ -509,13 +510,13 @@ day time	2417
 days	1633
 dead	827,2026,2226
 dead palm tree	1792
-deaf	864
-deaf person	865,2665
+deaf	863
+deaf person	864,2665
 death	1461
 debt	942
-deceit	2242
+deceit	2241
 deceive	1526
-decide	102,472,781
+decide	472,102,781
 decrease	1444
 deep	1908,2364
 deep place	1884
@@ -726,8 +727,9 @@ farming area	47
 farming season	297
 farming season/major season	311
 fart	828
+father	2423
 Father	611
-father	2316,2423
+father	2316
 fatigue	852
 fear	825,1743
 feather	1008
@@ -750,7 +752,7 @@ fine	2944
 fine cloth	1998
 finger	1972
 fingernail	2982
-finish	2271,1541,2675
+finish	1541,2271,2675
 fire	86,1855
 fire place	1864
 firefly	1861
@@ -776,9 +778,9 @@ flour	1614
 flower	648,1707
 fluff	520
 flute	2354
-fly	662
+fly	663
 flying squirrel	2134
-foam	67,66
+foam	66,67
 foaming	1338
 fog	93
 fold	431,1355
@@ -801,7 +803,7 @@ forked stick	2174
 form water	1564
 forty	54
 foundation	1706
-four	171,1661
+four	172,1661
 fourteen	574
 fourth	1580
 Fourth day	1347
@@ -896,7 +898,7 @@ greet	2916
 greet A.M.	1535
 GREET AM	1007
 greet AM	2411
-greetings	867,2914
+greetings	867,2912
 grief	301
 grind	1399
 grinding mill	700
@@ -1095,13 +1097,12 @@ joke	2297
 jubilation	292
 judge	737
 juju	2635
-jump	2798,2905
+jump	2798,2906
 junction	1660,2173
 junior	1860
 just	1749
 jute	634
 k.o plantain	204
-k.o. caterpillar	2769
 k.o.rat	2401
 Kadjebi	1046
 kapok tree	1093
@@ -1217,7 +1218,7 @@ look in	1133
 loose tooth	0
 loosen	675,2977
 lorry	1464
-lose	800,2963
+lose	800,2964
 lose consciousness	194
 lose voice	2452
 lost	693
@@ -1461,7 +1462,7 @@ owl	1265
 own	452
 owner	2017
 pad	930
-paedophilia	2713,2712
+paedophilia	2712,2713
 pagan	2225
 pain	590,823,2319
 painful	2601
@@ -1500,7 +1501,7 @@ peck	2873,2875
 pedal	1469
 peel	650,926,2620
 peelings	96
-penis	2908
+penis	2905
 people	657,2460
 pepper	1556,2766
 perch	759
@@ -1524,12 +1525,12 @@ pinch	838
 pineapple	388
 pipe	1918
 pistol	2003,2091
-PL	1,1575
+PL	0,1575
 placate	1261
 place	572,2358,2048,3027
 place in hole	2731
 plain	2345,2715
-plan	1136,1137,101,1138
+plan	101,1136,1137,1138
 plant	497,570,2667
 plantain	389
 plantain, k.o.	108,210,262,1930
@@ -1716,7 +1717,7 @@ rubbish	850
 rule	746,871
 run	2623
 runner	2322
-rust	1630,2962
+rust	1630,2963
 sack	135,713,1270
 sacrifice	62,1508
 safe	1207
@@ -1812,8 +1813,8 @@ shirt	1044
 shiver	1298
 shiver strongly	1316
 shoes	1710
-shoo!	2666
 Shoo!	1048
+shoo!	2666
 shore	704,2267
 short	866,1362
 short mushroom	1552
@@ -1923,8 +1924,8 @@ soup	1963
 sour	1481,1751,2085
 source	2837
 soursop	1709
-South	2309
 south	766
+South	2309
 sower	3001
 space	39,2171
 spark	2486
@@ -1984,7 +1985,7 @@ stick	2029,2034,2293
 sticky very	1528
 stiff	2610
 sting	2655
-stink	399,2907
+stink	399,2908
 stir	1303,2474,2989
 stomach	854
 stone	816
@@ -2015,7 +2016,7 @@ strong magic	383
 strong person	2410
 strongly	1364
 stub	2647
-stub foot	863
+stub foot	865
 student	1974
 stumbling	1690
 stump	2838,3060
@@ -2066,7 +2067,7 @@ tall	2743
 tame	1492
 tassels	1669
 taste	484
-tastiness	2241
+tastiness	2242
 Tawiah	2699
 tax	1424
 Tayi	2700
@@ -2094,17 +2095,17 @@ thanks	982
 that	180
 that one	1571
 thatch	851,1947,2456
-the	167
+the	168
 the one	2244
 the one that	2246
 the only thing	2751
 theft	2009
-their	168
-them	168
+their	167
+them	167
 themselves only	3008
 then	624,1517,1572,1573
 there	968,1584
-they	168,456
+they	167,456
 thick	1283
 thicken	2447
 thief	2020
@@ -2136,7 +2137,7 @@ throat	1927,2227,2236
 throb	2971
 throw	2880
 throw away	2789
-throw off	2906
+throw off	2907
 thumb	1973
 thunder	1761,2300
 Thursday	3030
@@ -2180,7 +2181,7 @@ train	461,2746
 train (railway)	1086
 trample	2802
 transform	1529
-TRANSITIVE	2
+TRANSITIVE	3
 trap	78,724,3047
 travel	2529,2169,2893
 travel bag	133
@@ -2306,7 +2307,7 @@ water source	1700,1705
 water yam	610
 waterfall	1268
 wave	3016
-we	3
+we	2
 we/us	178
 weak	463,2496,3072
 weaken	2988
