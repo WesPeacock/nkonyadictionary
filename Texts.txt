@@ -1,4 +1,31 @@
-\_sh v3.0  621  Text
+\_sh v3.0  400  Text
+
+\id ants
+\ref
+\tx baba,   bɔnbɔntɩ, damantu  /   ntsu,        dɩba, finfi,
+\mb baba    bɔnbɔntɩ  damantsu */  ntsu         dɩba  finfi
+\ge termite daubing wasp red ant  *** water source bedbug ant
+\ps n       n            n        *** n            n      n
+
+\tx gyawugya, konya, anyɩnapɛpɛ,    kɔklɔ, ofutikokoni,
+\mb gyawugya  konya  anyɩnapɛpɛ     kɔklɔ  ofutikokoni
+\ge red ant   ant    very tiny red ant ant      ant lion
+\ps n         n      n                 n        n
+
+\tx ɔkpan, otobon nyankpʋkpie /   aganɛ,
+\mb ɔkpan  otobon nyankpʋkpie */  aganɛ   - ɛ
+\ge ant     ant    scorpion     *** scorpion - also
+\ps n       n      n            *** n        - ADV
+
+\tx natɩ kɛsɩɛ, tsankasɩbibi, ɔkɔtɔ, asaan, nat, sisa, sʋrama,
+wʋlʋ, wʋnsa, vunvun, tsantsankʋ,  fantɩ,  konkolibatɛ, 
+ɔtswɩnkɩ,  sisa, sʋrama  / aposoglo, wʋlʋ,  wʋnsa, 
+mlambwɩ, dankɔntɩ / dɔnkɔntɩ, nwunkpo, kpikplibi,
+sisankpa, ntumbua, okekrebegye, anantʋprɛdɛ / anansɩatɛ,
+bɔnbɔntɩ, tsitsifɔ, vunvuun
+\ft tsitsifɔ
+\ref
+\tx
 
 \id test
 \ref 1
@@ -13,12 +40,22 @@
 
 \id test
 \ref 2
-\tx Anɩ Sɩ          Bulu mʋa        anɩ Wíe  Yesu  Kristo bʋgyíi          mlɩ
-\mb anɩ ɔsɩ  - *́ Bulu mʋ    -a   anɩ owíe Yesu  Kristo bʋ-  -OBLIG-  gyi mlɩ
-\ge our  father - *** God  he/she -and our  ***    Jesus Christ they- -should- eat you(pl)
-\ps PRO  n      - *** n    PRO    -CNJ PRO  ***    PropN PropN  PRO-  -TAM-    v   PRO
+\tx Anɩ Sɩ    Bulu mʋa         anɩ Wíe  Yesu  Kristo bʋgyíi          mlɩ
+\mb anɩ ɔsɩ  Bulu mʋ     -a   anɩ owíe Yesu  Kristo bʋ-  -OBLIG-  gyi mlɩ
+\ge our  father God  him/her -and our  ***    Jesus Christ they- -should- eat you(pl)
+\ps POSS n      n    PRO     -CNJ PRO  ***    PropN PropN  PRO-  -TAM-    v   PRO
 
 \tx bʋalɛ, abʋha              mlɩ    iwilwii.
 \mb bʋalɛ  a-       bʋ-  ha   mlɩ    iwilwii
 \ge good     so_that- they- give you(pl) peace
 \ps ADJ      CNJ-     PRO-  v    PRO     n
+
+\id _some interesting stuff
+\nt echo "
+paste from a document here
+yada
+yada yada
+yada yada yada
+" >x.tmp
+tr "\n" "," <x.tmp | sed 's#/# / #g' | sed 's/,/, /g' |sed 's/ ,/, /g' |sed -e  's/ +/ /g' |tee xx.tmp
+
