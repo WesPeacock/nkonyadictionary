@@ -5,7 +5,7 @@
 <!-- Database: Nkolex in Unicode.txt -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2014-01-19T18:48:22">
+<lexiqueProConfig version="3.6" dateModified="2014-01-22T14:20:05">
 
  <encoding type="UTF-8"/>
 
@@ -17,9 +17,6 @@
    <displayNames>
     <form lang="en">Nkonya</form>
    </displayNames>
-
-   <abbrev>
-   </abbrev>
 
    <sortOrder type="simple">
     <sortLine>A Á a á</sortLine>
@@ -1297,214 +1294,10 @@
 
 
  <categories visible="true" style="user">
-  <category code="atsulii">
-  </category>
-
-  <category code="I.A.1">
-  </category>
-
-  <category code="I.B.5.b">
-  </category>
-
-  <category code="I.C.1.d">
-  </category>
-
-  <category code="I.C.1.f">
-  </category>
-
-  <category code="I.C.2.a">
-  </category>
-
-  <category code="I.C.4.b">
-  </category>
-
-  <category code="I.C.5">
-  </category>
-
-  <category code="I.C.6.d">
-  </category>
-
-  <category code="I.C.6.e">
-  </category>
-
-  <category code="I.D.5.f">
-  </category>
-
-  <category code="II.A.1.b">
-  </category>
-
-  <category code="II.A.1.h">
-  </category>
-
-  <category code="II.A.2.a">
-  </category>
-
-  <category code="II.A.2.d">
-  </category>
-
-  <category code="II.A.2.f">
-  </category>
-
-  <category code="II.A.4.a">
-  </category>
-
-  <category code="II.A.4.b">
-  </category>
-
-  <category code="II.A.4.c">
-  </category>
-
-  <category code="II.A.4.d">
-  </category>
-
-  <category code="II.A.6.a">
-  </category>
-
-  <category code="II.A.6.b">
-  </category>
-
-  <category code="II.A.6.c">
-  </category>
-
-  <category code="II.A.6.e">
-  </category>
-
-  <category code="II.A6.c">
-  </category>
-
-  <category code="II.B.1">
-  </category>
-
-  <category code="II.B.2">
-  </category>
-
-  <category code="II.B.2.b.i">
-  </category>
-
-  <category code="II.B.3">
-  </category>
-
-  <category code="II.B.3.b">
-  </category>
-
-  <category code="II.B.4">
-  </category>
-
-  <category code="II.B.5.a.i">
-  </category>
-
-  <category code="II.B.5.b.i">
-  </category>
-
-  <category code="II.B.6">
-  </category>
-
-  <category code="II.B.6.a">
-  </category>
-
-  <category code="II.B.6.c">
-  </category>
-
-  <category code="II.C.1">
-  </category>
-
-  <category code="II.C.3.b">
-  </category>
-
-  <category code="II.C.5">
-  </category>
-
-  <category code="II.D.1.b">
-  </category>
-
-  <category code="II.D.1.e">
-  </category>
-
-  <category code="II.D.2.b">
-  </category>
-
-  <category code="II.D.4">
-  </category>
-
-  <category code="II.D.4.a">
-  </category>
-
-  <category code="II.D.5.b">
-  </category>
-
-  <category code="II.D.5.e">
-  </category>
-
-  <category code="II.D.5.f">
-  </category>
-
-  <category code="II.D.6.b">
-  </category>
-
-  <category code="II.D.6.e">
-  </category>
-
-  <category code="II.D.6.h">
-  </category>
-
-  <category code="II.D.7">
-  </category>
-
-  <category code="II.D.8">
-  </category>
-
-  <category code="II.E.1.c.i">
-  </category>
-
-  <category code="II.E.1.d">
-  </category>
-
-  <category code="II.E.1.e">
-  </category>
-
-  <category code="II.E.2.c">
-  </category>
-
-  <category code="II.E.3">
-  </category>
-
-  <category code="II.E.3.b">
-  </category>
-
-  <category code="II.E.3.c">
-  </category>
-
-  <category code="II.E.3.d">
-  </category>
-
-  <category code="II.E.4.a">
-  </category>
-
-  <category code="II.E.4.b">
-  </category>
-
-  <category code="II.E.4.c">
-  </category>
-
-  <category code="II.E.5.b">
-  </category>
-
-  <category code="II.E.5.c">
-  </category>
-
-  <category code="II.E.5.e">
-  </category>
-
-  <category code="II.E.5.i">
-  </category>
-
-  <category code="obia">
-  </category>
-
   <category code="TN_">
-  </category>
-
-  <category code="TN_1.C.1.d">
+   <displayNames>
+    <displayName lang="en">Missing Category</displayName>
+   </displayNames>
   </category>
 
   <category code="TN_I.A.1">
@@ -2062,22 +1855,10 @@
   <category code="TN_II.E.5.i">
   </category>
 
-  <category code="TN_pentenplein">
-  </category>
-
-  <category code="TN_TN_I.B.3.c">
-  </category>
-
-  <category code="TN_TN_I.C.4.b">
-  </category>
-
-  <category code="TN_TN_II.B.2">
-  </category>
-
-  <category code="TN_TN_II.B.3">
-  </category>
-
-  <category code="TN_TN_II.C.2.c">
+  <category code="TN_I">
+   <displayNames>
+    <displayName lang="en">Non-Human World</displayName>
+   </displayNames>
   </category>
 
  </categories>
