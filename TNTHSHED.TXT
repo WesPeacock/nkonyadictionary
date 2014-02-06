@@ -21,8 +21,7 @@
 \tx 4.c     draw-water I.A.4.c
 \tx 5.    materials I.A.5
 \tx
-\tx I.B.  Animals I.B.
-\tx + Plants I.B
+\tx I.B.  Animals & Plants I.B
 \tx I.B.1.    animals-wild I.B.1
 \tx I.B.1.a     tail I.B.1.a
 \tx I.B.1.b     lion I.B.1.b
@@ -39,8 +38,8 @@
 \tx I.B.4.b      shea I.B.4.b
 \tx I.B.5.    plants : plant products I.B.5
 \tx I.B.5.a     leaf I.B.5.a
-\tx
-\tx C.  Abstract-relationships I.C.
+\tx 
+\tx C.  Abstract-relationships I.C
 \tx 1.a   existence I.C.1.a
 \tx 1.b   identity I.C.1.b
 \tx 1.c   integrity I.C.1.c
@@ -54,7 +53,7 @@
 \tx 3.c     relationship I.C.3.c
 \tx 3.d     motion I.C.3.d
 \tx 3.e     location I.C.3.e
-\tx 3.f     position  I C.3.f
+\tx 3.f     position  I.C.3.f
 \tx 4.    time I.C.4
 \tx 4.a.i   dimension I.C.4.a.i
 \tx 4.a.ii  change of ... I.C.4.a.ii
@@ -74,13 +73,13 @@
 \tx 6.f     pattern I.C.6.f
 \tx 6.g     wet, cold &c  I.C.6.g
 \tx 6.h     sound I.C.6.h
-\tx D.  States and Motions ??
-\tx D.1     fall in drops I D.1
-\tx
-\tx II.     HUMAN LIFE II.
-\tx
-\tx A.  Human-body II.A.1
-\tx 1     parts
+\tx D.  States and Motions I.D
+\tx D.1     fall in drops I.D.1
+\tx 
+\tx II.     HUMAN LIFE II
+\tx 
+\tx A.  Human-body II.A
+\tx 1     whole/parts II.A.1
 \tx 1.a     body(whole) II.A.1.a
 \tx 1.b     head II.A.1.b
 \tx 1.c     neck II.A.1.c
@@ -90,7 +89,7 @@
 \tx 1.g     foot-and-leg II.A.1.g
 \tx 1.h     skin,urine II.A.1.h
 \tx 1.i     shadow II.A.1.i
-\tx 2.    bodily-functions II.A.2 (do/act behave)
+\tx 2.    bodily-functions (do/act behave) II.A.2
 \tx 2.a     eat II.A.2.a
 \tx 2.b     be-awake II.A.2.b
 \tx 2.c     standing,be II.A.2.c
@@ -121,8 +120,8 @@
 \tx 6.d     medicine(modern)/(traditional) II.A.6.d
 \tx 6.e     injury II.A.6.e
 \tx 6.f     mental stress II.A.6.f
+\tx
 \tx B.  Intellect II.B
-\tx B.
 \tx 1.    mentation II.B.1
 \tx 1.a   calculation  II.B.1.a 
 \tx 1.b  expectation II.B.1.b
@@ -139,7 +138,7 @@
 \tx 4.    possession II.B.4 
 \tx 4.a  having, possessing II.B.4.a
 \tx 4.b  change of possession II.B.4.b
-\tx 4.c  desire
+\tx 4.c  desire II.B.4.c
 \tx 5.    values II.B.5
 \tx 5.a     Good II.B.5.a
 \tx 5.a.i     characteristics II.B.5.a.i
@@ -151,9 +150,9 @@
 \tx 6.a     pagan II.B.6.a
 \tx 6.b     Muslim II.B.6.b
 \tx 6.c     Christian II.B.6.c
-\tx
-\tx C.  Personal-Life II.C.
-\tx 1.    house (list)  II.C.1  [building see II.D.6.h]
+\tx 
+\tx C.  Personal-Life II.C
+\tx 1.    house (list) [building see II.D.6.h]  II.C.1
 \tx 1.bis  house (plan) II.C.1.bis
 \tx 2.    domestic-equipment II.C.2
 \tx 2.a     loads II.C.2.a
@@ -177,6 +176,7 @@
 \tx 4.e     wash(clothes),to II.C.4.e
 \tx 4.f     hairdressing  II.C.4.f
 \tx 5     child-care II.C.5
+\tx 
 \tx D.  Economic-life II.D.
 \tx 1.    farming II.D.1
 \tx 1.a     home-farm II.D.1.a
@@ -200,7 +200,7 @@
 \tx 5.    market/trade II.D.5
 \tx 5.a     money II.D.5.a
 \tx 5.a.i    personal II.D.5.a.i
-\tx 5.a.ii   bank, invest, interest...  II.D.5.a.ii
+\tx 5.a.ii   bank, invest, interest ...  II.D.5.a.ii
 \tx 5.a.iii   employ, wages, strike ... II.D.5.a.iii
 \tx 5.b     market II.D.5.b
 \tx 5.c     commodities - salt II.D.5.c
@@ -236,6 +236,7 @@
 \tx 7.f     train II.D.7.f
 \tx 7.g     aeroplane II.D.7.g
 \tx 8     cash economy II.D.8
+\tx
 \tx E.  Social Life II.E
 \tx 1.    human-classification II.E.
 \tx 1.a     person II.E.1.a
@@ -273,5 +274,3 @@
 \tx 5.g     cigarette II.E.5.g
 \tx 5.h     photograph II.E.5.h
 \tx 5.i     war II.E.5.i
-\tx
-\dp 25/Jun/2013
