@@ -1,4 +1,6 @@
 #ignore backup files
+*.idx
+*.bak
 *~
 Backup*
 nppBackup/
