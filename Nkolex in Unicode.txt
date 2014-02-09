@@ -1,4 +1,4 @@
-\_sh v3.0  400  MDF 4.0
+\_sh v3.0  745  MDF 4.0
 
 \lx a
 \hm 4
@@ -266,6 +266,13 @@
 \dt 04/Jan/2014
 
 \lx abi
+\ps n
+\sn
+\cf obi
+\ce child
+\dt 24/Dec/2013
+
+\lx abi
 \ph abi(H)
 \ps n
 \sn
@@ -276,13 +283,6 @@
 \xv Nɛ́fɛ mɩ abi amʋ, ampʋ bwɛ abi ofobi. Tsufɛsɛ, ndekle ánɩ́ nɔ́bʋa iyie.
 \xe I will crack my palm kernels, in order to take(them) and make palm kernel oil, because I want that I will fry fish.
 \dt 16/Dec/2012
-
-\lx abi
-\ps n
-\sn
-\cf obi
-\ce child
-\dt 24/Dec/2013
 
 \lx abi atsulii
 \ph abi at͡sulîː
@@ -329,13 +329,13 @@
 \ps ADJ
 \sn
 \ge butcherable
-\sd TN_I.D.5.f
+\sd TN_II.D.5.f
 \de easy to butcher (open and gut - remove the intestines)
 \xv Ɔbwɩ ánɩ́ aladan a, ɔbʋ abiolɛ dʋn ɔmʋa ɔmɔkʋ dan.
 \xe An animal that has grown is easier to butcher (open and remove the intestines) than one that has not grown.
 \xe It's easier to butcher an adult animal than a young one.
 \rf Tape:1-1-088
-\dt 15/Sep/2013
+\dt 08/Feb/2014
 
 \lx abɩn
 \ph abɪ̃ʔ
@@ -548,21 +548,21 @@
 \ps n
 \sn
 \ge appellation
-\sd TN_
+\sd TN_II.E.2.a
 \de appellation for drumming
 \nt to call the appelation of ɔkpɩ, akunta, suma is to invoke its power
 \na Usually in Akan. They are proverbs. Each clan has one which is used to summon the clan. Elders also have them. As with the Dagombas drummers at a funeral will drum appelations of passing elders in hopes of collecting a dash.
 \rf Tape:1-1-111
 \xv Nɩ bʋdɛ atumpa da, ɔhandɛn ɔkʋ dɛtsʋn a, bʋtɛda mʋ adabi pʋ tɩ mʋ.
 \xe If they are beating the talking drums and an elder is passing by, they beat his appellation and call him.
-\dt 28/Dec/2012
+\dt 08/Feb/2014
 
 \lx adagyi
 \ph adaʤi(H)
 \ps n
 \sn 1
 \ge space
-\sd TN_
+\sd TN_II.D.7.c
 \de space
 \nt Nkonya equivalent - nya ɩwɩ
 \bw Akan fi:adagyɩ LLH
@@ -570,23 +570,23 @@
 \xe They don't have room.
 \sn 2
 \ge opportunity
-\sd TN_
+\sd TN_I.C.5
 \de opportunity
 \xv Adagyi ma nʋ sʋ, tɛkɩ nɛ́bɛtsa fʋ agyʋma yɔ.
 \xe There was no chance else I would have helped you work.
-\dt 01/Sep/2012
+\dt 08/Feb/2014
 
 \lx adalɛ
 \ph adalɛ́ (H)
 \ps ADJ
 \sn
 \ge easy to beat
-\sd TN_
+\sd TN_II.E.5.d.i
 \de easy to beat
 \rf Tape:1-1-120
 \xv Nɩ fʋyin akwɛ da a, ɩbʋ adalɛ.
 \xe If you know how to drum, it is easy to drum.
-\dt 10/Jan/2012
+\dt 08/Feb/2014
 
 \lx adango
 \ph adaŋgó
@@ -604,14 +604,14 @@
 \ps n
 \sn
 \ge witness
-\sd TN_
+\sd TN_II.E.2.c
 \de witness
 \bw Akan fi:adansɩ LHH
 \xv Asa fɔ́yɔ asʋn ogyikpa a, fódunka ɔha ánɩ́ obégyi fʋ adansɩɛ.
 \xe Before you go to arbitration, you will search for the person that will be your witness.
 \xe Before you take your case to arbitration you look for a witness on your behalf.
 \rf Tape:1-1-130
-\dt 02/Apr/2012
+\dt 08/Feb/2014
 
 \lx Adenkensu
 \ph adɪ̃ŋkɪ̃nsúʔ (H)
@@ -872,20 +872,6 @@
 \hm 1
 \ph afu(H)
 \ps n
-\sn
-\ge foam
-\sd TN_
-\de foam, from soap or bubbles
-\xv Ɔkwaɩ amʋ ma ogya, mʋ́ sʋ ɩtama lɩn afu.
-\xe The soap is not good and so it does not produce foam.
-\cf ifu1
-\ce lump
-\dt 29/Oct/2013
-
-\lx afu
-\hm 1
-\ph afu(H)
-\ps n
 \sn 1
 \ge lumps
 \sd TN_
@@ -905,6 +891,20 @@
 \xe The soap makes suds (foam).
 \bb Stewart List:1058
 \dt 01/Feb/2014
+
+\lx afu
+\hm 1
+\ph afu(H)
+\ps n
+\sn
+\ge foam
+\sd TN_
+\de foam, from soap or bubbles
+\xv Ɔkwaɩ amʋ ma ogya, mʋ́ sʋ ɩtama lɩn afu.
+\xe The soap is not good and so it does not produce foam.
+\cf ifu1
+\ce lump
+\dt 29/Oct/2013
 
 \lx afú
 \hm 2
@@ -1797,24 +1797,24 @@
 \ps n
 \sn
 \ge liver
-\sd TN_II.A.1.c; TN_.D.5.f; TN_I.D.4.a; TN_I.D.5.f
+\sd TN_II.A.1.c; TN_.D.5.f; TN_I.D.4.a; TN_II.D.5.f
 \de liver
 \xv Olinkantɩ lafa wa akpʋn amʋtɔ, sʋ lawa ɔkɩta.
 \xe Bile has burst on the liver so it has made it bitter.
 \bb SIL-AWL:0083
-\dt 08/Jan/2014
+\dt 08/Feb/2014
 
 \lx akpʋn-manta
 \ph ak͡pʊ̃́manta
 \ps n
 \sn
 \ge gall bladder
-\sd TN_II.A.1.
+\sd TN_II.A.1
 \de gall bladder
 \xv Akpʋn-manta mʋ́a akpʋn fɛ́ɛ́ bʋ alɛ ha nyebi.
 \xe Gall bladder and liver are all good for children.
 \bb SIL-AWL:0087
-\dt 26/Aug/2013
+\dt 08/Feb/2014
 
 \lx Akua
 \ph akua
@@ -1969,7 +1969,7 @@
 \sn 1
 \ps n
 \ge good
-\sd TN_II.B.5.a.1
+\sd TN_II.B.5.a.i
 \de good
 \cf yile
 \ce good
@@ -1985,7 +1985,7 @@
 \xe look at; beautiful
 \xv kla; aklalɛ
 \xe read, easy to read
-\dt 29/Oct/2013
+\dt 08/Feb/2014
 
 \lx alɩ
 \ph alɪ (H)
@@ -5378,11 +5378,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge daubing wasp
-\sd TN_I.B3.b
+\sd TN_I.B.3.c
 \de wasp that build mud nest
 \pl abɔnbɔntɩ
 \ph abɔnbɔntɪ́
-\dt 29/Sep/2013
+\dt 08/Feb/2014
 
 \lx bɔnɔ
 \ph bɔnɔʔ (L)
@@ -6398,7 +6398,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge cooking pot
-\sd TN_II.2.a
+\sd TN_II.C.2.a
 \de large cooking pot with handles
 \pl adadɩsɛɩn
 \ph adadɪsɛ́ɪ̃́
@@ -6407,7 +6407,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt They come in different numbered sizes with the size number stamped on them
 \xv Mbʋ adadɩsɛɩn tsɔtsɔɔtsɔ mɩ woyitɔ, mʋ́tɔ ntɛnɩna atɔ nɩ.
 \xe I have many large aluminium cooking pots in my house, in which I cook.
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx dafa
 \ph dáfá
@@ -6545,33 +6545,34 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge turn
-\sd TN_I.C.2.d
+\sd TN_I.C.3.d
 \de turn around
 \cf damli ɩklʋntɔ
 \ce repent
+\sd TN_II.B.6.c
 \rf Tape:2-1-240
 \xv Nɩ fɔyɔ nkpa kpalobi a, fayinki damli ba.
 \xe When you go further you should turn back.
 \se damli ɔnɔ
 \ge turn around
-\sd TN_I.C.2.d
+\sd TN_I.C.3.d
 \de to turn around the opposite direction
 \rf Tape:2-1-244
 \xv Yibi amʋ ansɩtɔ kɩ Kwame wulutɔ, tamɛ ladamli ɔnɔ kɩ Ahenkro.
 \xe The car was headed towards Kwamekrom but it has turned around toward Ahenkro.
 \bb Stewart List:2018
 \bb Stewart List:2752
-\dt 12/Dec/2013
+\dt 08/Feb/2014
 
 \lx damli ɩklʋntɔ
 \ph dámlí ɪklʊ̃tɔ
 \ps v
 \sn
 \ge repent
-\sd TN_
+\sd TN_II.B.6.c
 \de repent
 \lt turn in the heart
-\dt 09/Aug/2012
+\dt 08/Feb/2014
 
 \lx dan
 \ph dãʔ(L)
@@ -7147,7 +7148,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge hour
-\sd TN_I.C.4.a
+\sd TN_I.C.4.c
 \de hour
 \se dɔ fɩnɩ
 \ge when
@@ -7157,7 +7158,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lt How many bells have struck?
 \nt this is a unique form of ɔdɔn which occurs only in this expresion.
 \rf Tape:2-1-354
-\dt 29/Oct/2013
+\dt 08/Feb/2014
 
 \lx dɔkɩta
 \ph dɔkɪ́ta
@@ -8461,6 +8462,17 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph fulí
 \ps v
 \sn
+\ge buy on credit
+\sd TN_
+\de to buy on credit
+\bb Stewart List:3203
+\dt 22/Aug/2012
+
+\lx fuli
+\hm 1
+\ph fulí
+\ps v
+\sn
 \ge fly
 \sd TN_
 \de to fly, as a bird
@@ -8471,17 +8483,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe jump
 \bb Stewart List:2022
 \bb Stewart List:2055
-\dt 22/Aug/2012
-
-\lx fuli
-\hm 1
-\ph fulí
-\ps v
-\sn
-\ge buy on credit
-\sd TN_
-\de to buy on credit
-\bb Stewart List:3203
 \dt 22/Aug/2012
 
 \lx fuli
@@ -13061,12 +13062,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass
-\sd TN_II.D.4.d
+\sd TN_I.B.5.a
 \de spear grass
 \nt It is the new shoots that are sharp like spears and dangerous to step on.
 \xv Ɩtʋn tɔwɔ aha. Butokun mʋ́ pʋ bua obu.
 \xe The spear grass pricks people. It is cut and used for roofing huts.
-\dt 25/Dec/2012
+\dt 08/Feb/2014
 
 \lx ɩwankɩ
 \ph ɪwaŋkɪ́ʔ
@@ -13145,66 +13146,66 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge lucky
-\sd TN_
+\sd TN_II.B.5.a.ii
 \de lucky
 \xv Fʋ ɩwɩ sɔɔn ánɩ́ mmɛdɛ oyi, tɛkɩ nɛ́da fʋ.
 \xe You are lucky that am not holding a cane, I should have hit you.
-\dt 09/Aug/2012
+\dt 08/Feb/2014
 
 \lx ɩwɩlwii
 \ph ɪwɪlwiː
 \ps n
 \sn
 \ge peaceful
-\sd TN_
+\sd TN_II.B.3; TN_II.E.4.a; TN_II.E.5.i
 \de peace
 \lt cool self
-\dt 09/Aug/2012
+\dt 08/Feb/2014
 
 \lx ɩwɩsɛ
 \ph ɪwɪsɛ
 \ps vt
 \sn
 \ge be bright / cute
-\sd TN_
+\sd TN_II.B.1
 \de to be smart / quick / bright
 \xv Fʋ mɛdɛ ɩwɩsɛ.
 \xe You are not bright.
 \xv sɛ ɩwɩ
 \xe beat oneself
 \xe hurry up!
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx ɩwɩtɔ puli
 \ph ɪwɪtɔ pulí
 \ps n
 \sn
 \ge nausea
-\sd TN_
+\sd TN_II.A.6.a
 \de to feel like vomiting
 \xv Nɩ atsɩ akʋ benya ɔmɛ, begyi klɛmɛtɩ bɔbwɛ oputsu a, ɩwɩtɔ topuli amʋ́.
 \xe When some women are pregnant and they eat soup made of fresh fish, they fell like vomiting.
-\dt 10/Jan/2012
+\dt 08/Feb/2014
 
 \lx ɩwɩtɔ sila
 \ph ɪwɪtɔ silá
 \ps n
 \sn
 \ge constipation
-\sd TN_
+\sd TN_II.A.6.a
 \de constipation
 \xv Nɩ fʋ ɩwɩtɔ isila a, gyi oyi abi tsɔtsɔ, afunu ntsu ɛ tsɔtsɔ.
 \xe When you have constipation, eat a lot of fruits and drink plenty water.
-\dt 10/Jan/2012
+\dt 08/Feb/2014
 
 \lx ɩwɩtɔ tu
 \ph ɪwɪtɔ tu
 \ps n
 \sn
 \ge diarrhoea
-\sd TN_
+\sd TN_II.A.6.a
 \de diarrhoea
-\dt 20/Sep/2005
+\dt 08/Feb/2014
 
 \lx ɩwɔ
 \ph ɪwɔʔ(H)
@@ -13226,7 +13227,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge nail
-\sd TN_
+\sd TN_II.A.1.f
 \de fingernail or toenail
 \pl awɔlʋ
 \ph awɔlʊ
@@ -13234,7 +13235,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ɔdɛ awɔlʋ laɩ.
 \xe He is clipping his fingernails.
 \bb Stewart List:0022
-\dt 16/Dec/2012
+\dt 08/Feb/2014
 
 \lx ɩyɛ
 \ph ɪyɛ̂ʔ
@@ -13296,7 +13297,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge unknown
-\sd TN_
 \de Akan loan word with uncertain core meaning ka hon - join; ka ntam - swear an oath; ka anim - rebuke
 \rf Tape:3-1-287
 \xv ka hon
@@ -13315,7 +13315,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The new chief also will swear an oath to the elders.
 \xv ka anim
 \xe rebuke
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx ka anim
 \ph ka anim
@@ -13331,7 +13331,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge join
-\sd TN_
+\sd TN_I.C.1.c
 \de to join
 \bw Akan fi:ka hʋn L H
 \xv Ka amʋ́ hʋn amlɩyɔ.
@@ -13339,31 +13339,31 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt Nkonya alternative is "wie amʋ́tɔ"
 \xv Wie amʋ́tɔ amlɩyɔ.
 \xe Join them so that you(pl) should go.
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx ka ɩkɔ
 \ph ka ɪkɔ
 \ps n
 \sn
 \ge payment
-\sd TN_
+\sd TN_II.D.5.b
 \de payment of a debt incurred; reward; wage
 \xv Nɩ fʋmɔdɔ ta a, fʋma ɩkɔka.
 \xe If you don't finish weeding you won't get wages.
 \xv Nɩ fʋmɔdɔ ta a, mmɛ́ɛka fʋ kɔ.
 \xe If you don't finish weeding I won't pay you.
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx ka ɩwɩ lɛ
 \ph ká ɪwɪ lɛ́ʔ (H)
 \ps n
 \sn
 \ge defend oneself
-\sd TN_
+\sd TN_II.E.2
 \de to defend oneself
 \xv Oyin amʋ lɛka ɩwɩ lɛ asʋn ogyikpa ɩnʋ, mʋ́sʋ besi mʋ ɩwɩ kie mʋ.
 \xe The man defended himself in the court and therefore he was set free.
-\dt 28/Aug/2012
+\dt 08/Feb/2014
 
 \lx ka ntam
 \ph ka ntam
@@ -13395,16 +13395,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge If only
-\sd TN_
+\sd TN_I.C.5
 \de if it were only
-\nt Doesn't take any tense markers
 \rf Tape:3-1-311
 \xv Nɩ kabɛ mɩsʋ a, tɛkɩ mmótsula. Tamɛ mɩ kulu lɛha mʋ ɔkpa.
 \xe If it were up to me I would not have agreed, But my husband allowed it.
 \rf Tape:3-1-317
 \xv Nɩ kabɛ anyankpʋsa sʋ a, tɛkɩ nyankpʋ tamatswie wʋlɩ amʋ alupʋ atɔ sʋ.
 \xe If it were up to humans rain would never fall on their enemies things.
-\dt 22/Aug/2012
+\dt 08/Feb/2014
 
 \lx Kadjebi
 \ph káʤábí
@@ -13422,11 +13421,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge surround
-\sd TN_
+\sd TN_I.C.3.c
 \de to be everywhere around something
 \xv Ɩsa-akɔpʋ amʋ bakafia wulu amʋ.
 \xe The soldiers have surrounded the town.
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx kai
 \ph káîʔ
@@ -13446,29 +13445,30 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ps vi
 \ge remember
-\sd TN_
+\sd TN_II.B.1
 \de to remember
 \sn 2
 \ps vt
 \ge remind
+\sd TN_II.B.1
 \de to remind s.o of s.t.
 \rf Tape:3-1-325
 \xv Nɩ ayɔ ɔkpa amʋ a, kaɩn mɩanhɔ mɩ atɔ amʋ.
 \xe If we should travel, remind me so that I can buy my things.
-\dt 16/Jul/2012
+\dt 08/Feb/2014
 
 \lx kaɩn sʋ
 \ph kaɪ̃́ sʊ
 \ps v
 \sn
 \ge miss
-\sd TN_
+\sd TN_II.B.1
 \de to miss s.o.
 \rf Tape:3-1-329
 \xv Nɩ mlɛnatɩ a, abɛ́kaɩn mlɩsʋ.
 \xe If you go we will miss you.
 \bb Stewart List:3158
-\dt 16/Jul/2012
+\dt 08/Feb/2014
 
 \lx kaka
 \ph kakáʔ (L)
@@ -13490,13 +13490,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge mat
-\sd TN_
+\sd TN_II.C.1
 \de stiff mat made from stripped palm branches
 \na This mat is made of stripped palm branches. Each waimbi is split once lengthwise.Three sticks of split bamboo are prepared and the palm branches are impaled on the bamboo in order to make a stiff mat used as a door for a kitchen, walls for a porch, or a platform for carrying a corpse, or drying cocoa on, etc.
 \rf Tape:3-1-341
 \xv Nɔyɔ kpa awaimbi da kakaʋ pʋ tin mɩ gyadɩ.
 \xe I will go strip palm branches and make a palm branch mat and block my kitchen door with.
-\dt 05/Jul/2012
+\dt 08/Feb/2014
 
 \lx kakayi
 \ph kakayi
@@ -14455,7 +14455,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge dog
-\sd TN_II.C.6
+\sd TN_II.D.2.a.ii
 \de dog
 \pl akɩaɩ
 \ph akɪ́aɪʔ
@@ -14467,16 +14467,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe They whistle to call dogs.
 \ng pʋ tɩ take/call pʋ ɔfʋlɩ tɩ
 \bb Stewart List:0612
-\dt 28/Jul/2013
+\dt 08/Feb/2014
 
 \lx kɩaɩbi
 \ph kɪaɪbi
 \ps n
 \sn
 \ge pup
-\sd TN_II.C.6
+\sd TN_II.D.2.a.ii
 \de small dog
-\dt 26/Aug/2013
+\dt 08/Feb/2014
 
 \lx kɩansɩ
 \ph kɪansɪ́
@@ -18776,7 +18776,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge death
-\sd TN_I.C.1d
+\sd TN_I.C.1.d
 \de death
 \xv Lowu mʋa Nkpa bʋ gyi atabi.
 \xe Death and Life are twins.
@@ -18785,11 +18785,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \bb Stewart List:1409
 \se obugyatɔ lowu
 \ph obuʤaʔtɔ lowu (H)
-\sd TN_I.C.1d
+\sd TN_I.C.1.d
 \ge bad death
 \lt death in blood
 \nt Bad deaths include death in childbirth, by car accident, by falling from a tree, killed with a knife.
-\dt 24/Dec/2013
+\dt 06/Feb/2014
 
 \lx lɔ
 \ph lɔ́
@@ -19244,6 +19244,22 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \dt 28/Dec/2012
 
 \lx mbla
+\ph mblâʔ
+\ps n
+\sn
+\ge palm frond
+\sd TN_
+\de palm branch with the leaves
+\se ɔfɛsɩ mbla
+\ge leaf
+\sd TN_
+\de the green leaf material surrounding the small sticks used in making brooms
+\rf Tape:4-2-095
+\xv Nɩ mlɔmɔ mʋ́ ɔnɔ a, mlɩ kpa ɔfɛsɩ mbla amʋ lɛ woyitɔ tsitsa.
+\xe If you (pl) finish, collect the leaves left over from your broom making. Take them from the house and throw them away.
+\dt 15/Sep/2012
+
+\lx mbla
 \ph mbla
 \ps n
 \sn
@@ -19261,22 +19277,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Mʋ yín lawa mbla ha mʋ ánɩ́ osi bigyi.
 \xe His mother has commanded him that he should stop crying for nothing.
 \dt 23/Jul/2012
-
-\lx mbla
-\ph mblâʔ
-\ps n
-\sn
-\ge palm frond
-\sd TN_
-\de palm branch with the leaves
-\se ɔfɛsɩ mbla
-\ge leaf
-\sd TN_
-\de the green leaf material surrounding the small sticks used in making brooms
-\rf Tape:4-2-095
-\xv Nɩ mlɔmɔ mʋ́ ɔnɔ a, mlɩ kpa ɔfɛsɩ mbla amʋ lɛ woyitɔ tsitsa.
-\xe If you (pl) finish, collect the leaves left over from your broom making. Take them from the house and throw them away.
-\dt 15/Sep/2012
 
 \lx mblɩkpɛ
 \ph mblɪkpɛ
@@ -19432,7 +19432,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 1
 \ge swallow
-\sd TN_II.A.2a.
+\sd TN_II.A.2.a
 \de swallow
 \cf ɔmɛ
 \ce throat
@@ -19446,11 +19446,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \bb Stewart List:2035
 \sn 2
 \ge sink
-\sd TN_
+\sd TN_I.C.3.c; TN_II.D.3; TN_II.D.7.b
 \de to sink out of sight
 \cf mɩm
 \ce sink
-\dt 26/Dec/2013
+\dt 08/Feb/2014
 
 \lx mɛ
 \hm 2
@@ -22406,44 +22406,44 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps ADJ
 \sn
 \ge lucky
-\sd TN_
+\sd TN_II.B.5.a.ii
 \de lucky
 \xv Nwun lawa fʋ olu.
 \xe You have been lucky.
-\dt 09/Aug/2012
+\dt 08/Feb/2014
 
 \lx nwuna
 \ph ŋʷuna
 \ps v
 \sn
 \ge frown
-\sd TN_
+\sd TN_II.A.2.d
 \de frown
 \xv Bɔwa kebi amʋ sumbi a, olonwuna, tsufɛ omedeklea ɔbɔ́yɔ.
 \xe When they sent the child on an errand he frowned because he did not want to go.
 \rf Tape:5-1-462
 \xv Akʋn nya ɩdɛ Yao a alanwuna.
 \xe When Yao is hungry then he frowns.
-\dt 16/Jul/2012
+\dt 08/Feb/2014
 
 \lx nwunasʋ
 \ph ŋwúná!sʊ́
 \ps n
 \sn
 \ge dunghill
-\sd TN_
+\sd TN_II.C.1
 \de garbage dump and public toilet area
 \rf Tape:5-1-474
 \xv Alasa bʋtekle nwunasʋ gyonka tsufɛ bʋtekle atɔ dada gyi.
 \xe Vultures like to perch on the dunghill because they like to eat old things.
-\dt 15/Sep/2012
+\dt 08/Feb/2014
 
 \lx nwunfa
 \ph ŋʷṹɱfá
 \ps v
 \sn
 \ge smell
-\sd TN_
+\sd TN_II.A.3.c
 \de to smell s.t.
 \rf Tape:5-1-478
 \xv Nwunfa ofobi amʋ kɩ bɛɛ ɩbʋ ɔfan.
@@ -22453,7 +22453,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe Animals smell grass before they eat.
 \bb Stewart List:3306
 \bb SIL-AWL:0136
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx nwunkpo
 \ph ŋwũŋ͡mk͡po
@@ -25071,11 +25071,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Stop making so much noise so we can hear a matter.
 \sn 2
 \ge blessing
-\sd TN_
+\sd TN_II.B.5.a.ii
 \de to be lucky
 \xv Fʋ nwun lawa olu ánɩ́ fabɔtʋ anɩ, tɛkɩ abɛ́natɩ asa fɛ́ba.
 \xe You are lucky that you have come to meet us, we would have gone before you came.
-\dt 18/Dec/2012
+\dt 08/Feb/2014
 
 \lx olulukpa
 \ph olulúk͡pa
@@ -27112,9 +27112,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge murderer
-\sd TN_II.E.3.b.
+\sd TN_II.E.3.b
 \de murderer
-\dt 14/Aug/2013
+\dt 08/Feb/2014
 
 \lx ɔbʋatɔ
 \ph ɔbʊátɔʔ
@@ -29716,7 +29716,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The machete is dull. LIT: Machete's mouth has died.
 \se damli ɔnɔ
 \ge turn around
-\sd TN_I.C.2.d
+\sd TN_I.C.3.d
 \de to turn around in the opposite direction
 \rf Tape:6-1-195
 \sn 4
@@ -29733,7 +29733,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-188
 \xv Anɩ asʋn amʋ ɔnɔ mɔtɔ pɛ, mʋ́ʋ́ oyin amʋ lɛba a.
 \xe Just as our matter finished, then the man came.
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
@@ -38608,7 +38608,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge loosen
-\sd TN_II.C.4.a.i
+\sd TN_II.A.4.e
 \de loosen a rope that has been tied around something
 \cf pɔn
 \ce soften
@@ -38619,7 +38619,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe You have tied the rope too much so loose it a little.
 \bb Stewart List:2342
 \bb Stewart List:2772
-\dt 25/Dec/2013
+\dt 08/Feb/2014
 
 \lx wɔɩ tɩa
 \ph wɔ́ɪ́ tɪa
@@ -38764,7 +38764,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge town
-\sd TN_
+\sd TN_II.C.1.a
 \de town
 \pl awulu
 \ph awúluʔ
@@ -38773,7 +38773,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Every town with it's own customs.
 \nt Apparently this expression is okay without a verb- EL
 \nt an alternative construction would be, "Wulugyiwulu bʋ mʋ́ amandɩɛ. " Every town has its own customs.
-\dt 01/Feb/2014
+\dt 08/Feb/2014
 
 \lx Wulubitɔ
 \ph wúlubitɔʔ (H)

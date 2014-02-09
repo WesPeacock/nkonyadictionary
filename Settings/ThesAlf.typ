@@ -92,7 +92,7 @@
 
 \+fil Index class
 \mkr is
-\txt [#]II.B.5.b.ii
+\txt [#]I.D.5
 \match_char c
 \-fil
 
