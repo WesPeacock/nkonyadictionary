@@ -1,2591 +1,2964 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 
 <!-- Lexique Pro Configuration File -->
 <!-- Language: Nkonya -->
 <!-- Database: Nkolex in Unicode.txt -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2014-02-01T11:59:44">
+<lexiqueProConfig version="3.6" dateModified="2014-02-08T21:04:15">
 
  <encoding type="UTF-8"/>
 
-   <writingSystems>
-    <!-- Main lexicon language -->
-    <writingSystem id="nko" type="main" enabled="true">
-      <displayNames>
-        <form lang="en">Nkonya</form>
-      </displayNames>
-      <sortOrder type="simple">
-        <sortLine>A A&#x301; a a&#x301;</sortLine>
-        <sortLine>B b</sortLine>
-        <sortLine>C c</sortLine>
-        <sortLine>D d</sortLine>
-        <sortLine>E E&#x301; e e&#x301;</sortLine>
-        <sortLine>&#x190; &#x190;&#x301; &#x25B; &#x25B;&#x301;</sortLine>
-        <sortLine>F f</sortLine>
-        <sortLine>G g</sortLine>
-        <sortLine>H h</sortLine>
-        <sortLine>I I&#x301; i i&#x301;</sortLine>
-        <sortLine>&#x196; &#x196;&#x301; &#x269; &#x269;&#x301;</sortLine>
-        <sortLine>J j</sortLine>
-        <sortLine>K k</sortLine>
-        <sortLine>L l</sortLine>
-        <sortLine>M m</sortLine>
-        <sortLine>N n</sortLine>
-        <sortLine>&#x14A; &#x14B;</sortLine>
-        <sortLine>O O&#x301; o o&#x301;</sortLine>
-        <sortLine>&#x186; &#x186;&#x301; &#x254; &#x254;&#x301;</sortLine>
-        <sortLine>P p</sortLine>
-        <sortLine>Q q</sortLine>
-        <sortLine>R r</sortLine>
-        <sortLine>S s</sortLine>
-        <sortLine>T t</sortLine>
-        <sortLine>U U&#x301; u u&#x301;</sortLine>
-        <sortLine>&#x1B2; &#x1B2;&#x301; &#x28B; &#x28B;&#x301;</sortLine>
-        <sortLine>V v</sortLine>
-        <sortLine>W w</sortLine>
-        <sortLine>X x</sortLine>
-        <sortLine>Y y</sortLine>
-        <sortLine>Z z</sortLine>
-        <sortLine>0</sortLine>
-        <sortLine>1</sortLine>
-        <sortLine>2</sortLine>
-        <sortLine>3</sortLine>
-        <sortLine>4</sortLine>
-        <sortLine>5</sortLine>
-        <sortLine>6</sortLine>
-        <sortLine>7</sortLine>
-        <sortLine>8</sortLine>
-        <sortLine>9</sortLine>
-      </sortOrder>
-      <trait name="IsSortNeeded" value="true"/>
-      <trait name="SortFromEnd" value="false"/>
-      <trait name="HasPartOfSpeechIndex" value="false"/>
-      <ignoreChars>- =</ignoreChars>
-      <ignoreSpaces ignore="false"/>
-      <alphabet display="true">A B C D E &#x190; F G H I &#x196; J K L M N &#x14A; O &#x186; P Q R S T U &#x1B2; V W X Y Z</alphabet>
-      <alphaButtons display="true" width="23" height="17">
-        <alphaButtonsAlphabet/>
-      </alphaButtons>
-      <alphaSelect selectby="lx"/>
-      <inputButtons display="true" width="23" height="17">
-        <inputButtonsAlphabet>A&#x301; E&#x301; &#x190; &#x190;&#x301; I&#x301; &#x196; &#x196;&#x301; O&#x301; &#x186; &#x186;&#x301; &#x14A; U&#x301; &#x1B2; &#x1B2;&#x301;</inputButtonsAlphabet>
-      </inputButtons>
-      <textDirection dir="LTR"/>
-      <keyboard id="1078" name="Afrikaans (South Africa)"/>
-      <defaultFontName>Doulos SIL</defaultFontName>
-    </writingSystem>
-    <!-- Languages used for glosses, definitions, translations -->
-    <writingSystem id="en" type="gloss" enabled="true">
-      <displayNames>
-        <form lang="en">English</form>
-        <form lang="fr">anglais</form>
-        <form lang="es">Ingl&#xE9;s</form>
-        <form lang="pt">Ingl&#xEA;s</form>
-        <form lang="bg">&#x430;&#x43D;&#x433;&#x43B;&#x438;&#x439;&#x441;&#x43A;&#x438;</form>
-        <form lang="rw">Icyongereza</form>
-        <form lang="id">Bahasa Inggris</form>
-        <form lang="zh-CHT">&#x82F1;&#x6587;</form>
-        <form lang="zh-CHS">&#x82F1;&#x6587;</form>
-        <form lang="km">&#x17A2;&#x1784;&#x17CB;&#x1782;&#x17D2;&#x179B;&#x17C1;&#x179F;</form>
-      </displayNames>
-      <markerChar>e</markerChar>
-      <trait name="IsDisplayedWithLabel" value="false"/>
-      <trait name="IsIndexed" value="true"/>
-      <lowerCase>a b c d e f g h i j k l m n o p q r s t u v w x y z</lowerCase>
-      <upperCase>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</upperCase>
-      <caseAssociations>
-        <caseLine>A a</caseLine>
-        <caseLine>B b</caseLine>
-        <caseLine>C c</caseLine>
-        <caseLine>D d</caseLine>
-        <caseLine>E e</caseLine>
-        <caseLine>F f</caseLine>
-        <caseLine>G g</caseLine>
-        <caseLine>H h</caseLine>
-        <caseLine>I i</caseLine>
-        <caseLine>J j</caseLine>
-        <caseLine>K k</caseLine>
-        <caseLine>L l</caseLine>
-        <caseLine>M m</caseLine>
-        <caseLine>N n</caseLine>
-        <caseLine>O o</caseLine>
-        <caseLine>P p</caseLine>
-        <caseLine>Q q</caseLine>
-        <caseLine>R r</caseLine>
-        <caseLine>S s</caseLine>
-        <caseLine>T t</caseLine>
-        <caseLine>U u</caseLine>
-        <caseLine>V v</caseLine>
-        <caseLine>W w</caseLine>
-        <caseLine>X x</caseLine>
-        <caseLine>Y y</caseLine>
-        <caseLine>Z z</caseLine>
-      </caseAssociations>
-      <sortOrder type="built-in"/>
-      <ignoreChars>- =</ignoreChars>
-      <ignoreSpaces ignore="false"/>
-      <inputButtons display="false" width="23" height="17">
-        <inputButtonsAlphabet/>
-      </inputButtons>
-      <textDirection dir="LTR"/>
-      <defaultFontName/>
-    </writingSystem>
-  </writingSystems>
-  <!-- Formatting styles, fonts and labels -->
-  <formatting>
-    <format type="list" lang="nko">
-      <view type="interface">
-        <font>
-          <name>Doulos SIL</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="list-title" lang="nko">
-      <view type="interface">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-    </format>
-    <format type="input-box" lang="nko">
-      <view type="interface">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="alpha-buttons" lang="nko">
-      <view type="interface">
-        <font>
-          <name>Doulos SIL</name>
-          <size>8</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="input-buttons" lang="nko">
-      <view type="interface">
-        <font>
-          <name>Doulos SIL</name>
-          <size>8</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="entry-name" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>16</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="sub-entry" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>13</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>10</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="example" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="lexical-function" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>maroon</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>maroon</color>
-        </font>
-      </view>
-      <trait name="link-style" value="entry"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="morph" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>green</color>
-        </font>
-        <label>
-          <form lang="en">Morph:</form>
-          <form lang="fr">Morph. :</form>
-          <form lang="es">Morf. :</form>
-          <form lang="pt">Morf. :</form>
-          <form lang="bg">&#x41C;&#x43E;&#x440;&#x444;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x44F;:</form>
-          <form lang="rw">Teg.:</form>
-          <form lang="id">Morf:</form>
-          <form lang="zh-CHT">&#x5F62;&#x614B;</form>
-          <form lang="zh-CHS">&#x5F62;&#x6001;</form>
-          <form lang="km">&#x179F;&#x178E;&#x17D2;&#x178B;&#x17B6;&#x1793;&#x17D6;</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>green</color>
-        </font>
-      </view>
-      <trait name="link-style" value="morphology"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="cross-ref" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>teal</color>
-        </font>
-        <label>
-          <form lang="en">See:</form>
-          <form lang="fr">Voir :</form>
-          <form lang="es">Ver :</form>
-          <form lang="pt">Ver :</form>
-          <form lang="bg">&#x412;&#x436;.:</form>
-          <form lang="rw">Reba:</form>
-          <form lang="id">Lihat: </form>
-          <form lang="zh-CHT">&#x6AA2;&#x8996;</form>
-          <form lang="zh-CHS">&#x67E5;&#x770B;</form>
-          <form lang="km">&#x1798;&#x17BE;&#x179B;&#x17D6;</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>teal</color>
-        </font>
-      </view>
-      <trait name="link-style" value="entry"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="main-cross-ref" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-        <label>
-          <form lang="en">See main entry:</form>
-          <form lang="fr">Voir entr&#xE9;e principale :</form>
-          <form lang="es">Ver entrada principal :</form>
-          <form lang="pt">Ver entrada principal :</form>
-          <form lang="bg">&#x412;&#x436;. &#x433;&#x43B;&#x430;&#x432;&#x43D;&#x430;&#x442;&#x430; &#x441;&#x442;&#x430;&#x442;&#x438;&#x44F;:</form>
-          <form lang="rw">Reba umwinjizo w'ingenzi:</form>
-          <form lang="id">Lihat entri utama:</form>
-          <form lang="zh-CHT">&#x6AA2;&#x8996;&#x4E3B;&#x8981;&#x8A5E;&#x689D;&#x6A19;&#x8A18;</form>
-          <form lang="zh-CHS">&#x67E5;&#x770B;&#x4E3B;&#x8981;&#x8BCD;&#x6761;&#x6807;&#x8BB0;</form>
-          <form lang="km">&#x1798;&#x17BE;&#x179B;&#x200B;&#x1798;&#x17C1;&#x200B;&#x1796;&#x17B6;&#x1780;&#x17D2;&#x1799;&#x17D6;</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <trait name="link-style" value="entry"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="paradigm" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <trait name="link-style" value="entry"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="variant" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-        <label>
-          <form lang="en">Variant:</form>
-          <form lang="fr">Variante :</form>
-          <form lang="es">Variante :</form>
-          <form lang="pt">Variante :</form>
-          <form lang="bg">&#x412;&#x430;&#x440;&#x438;&#x430;&#x43D;&#x442;:</form>
-          <form lang="rw">Ukundi yandikwa:</form>
-          <form lang="id">Varian: </form>
-          <form lang="zh-CHT">&#x8B8A;&#x5316;&#x5F62;</form>
-          <form lang="zh-CHS">&#x53D8;&#x5316;&#x578B;</form>
-          <form lang="km">&#x1780;&#x17D2;&#x179B;&#x17B6;&#x1799;&#x17D6;</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="encyc" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>10</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="gloss" lang="nko">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="part-of-speech">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>11</size>
-          <style bold="false" italic="true" underline="false"/>
-          <color>blue</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="true" underline="false"/>
-          <color>blue</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="phonetic">
-      <view type="single">
-        <font>
-          <name>Doulos SIL</name>
-          <size>10</size>
-          <style bold="false" italic="true" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Doulos SIL</name>
-          <size>9</size>
-          <style bold="false" italic="true" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="label">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="true" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="true" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="language-label">
-      <view type="single">
-        <font>
-          <name>Arial</name>
-          <size>8</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>blue</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Arial</name>
-          <size>7</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>blue</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="reference">
-      <view type="single">
-        <font>
-          <name>Lucida Sans Unicode</name>
-          <size>8</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Lucida Sans Unicode</name>
-          <size>7</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="scientific">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="true" underline="true"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="true" underline="true"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="google"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="borrowed-word">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-        <label>
-          <form lang="en">From:</form>
-          <form lang="fr">Source :</form>
-          <form lang="es">Del :</form>
-          <form lang="pt">De :</form>
-          <form lang="bg">&#x41E;&#x442;:</form>
-          <form lang="rw">Ryatiriwe ku:</form>
-          <form lang="id">Dari: </form>
-          <form lang="zh-CHT">&#x5F9E;</form>
-          <form lang="zh-CHS">&#x4ECE;</form>
-          <form lang="km">&#x1796;&#x17B8;&#x17D6;</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="etymology">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-        <label>
-          <form lang="en">Etym:</form>
-          <form lang="fr">Etym :</form>
-          <form lang="es">Etim :</form>
-          <form lang="pt">Etim. :</form>
-          <form lang="bg">&#x415;&#x442;&#x438;&#x43C;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x44F;:</form>
-          <form lang="rw">Kmk.:</form>
-          <form lang="id">Etim:</form>
-          <form lang="zh-CHT">&#x8A9E;&#x6E90;</form>
-          <form lang="zh-CHS">&#x8BED;&#x6E90;</form>
-          <form lang="km">&#x1780;&#x17C6;&#x178E;&#x17BE;&#x178F;&#x200B;&#x1796;&#x17B6;&#x1780;&#x17D2;&#x1799;&#x17D6;</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="category">
-      <view type="single">
-        <font>
-          <name>Arial</name>
-          <size>10</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>purple</color>
-        </font>
-        <label>
-          <form lang="en">Category:</form>
-          <form lang="fr">Cat&#xE9;gorie :</form>
-          <form lang="es">Categor&#xED;a :</form>
-          <form lang="pt">Categoria :</form>
-          <form lang="bg">&#x41A;&#x430;&#x442;&#x435;&#x433;&#x43E;&#x440;&#x438;&#x44F;:</form>
-          <form lang="rw">Icyiciro:</form>
-          <form lang="id">Kategori:</form>
-          <form lang="zh-CHT">&#x7BC4;&#x7587;&#x6B78;&#x985E;</form>
-          <form lang="zh-CHS">&#x8303;&#x7574;&#x5F52;&#x7C7B;</form>
-          <form lang="km">&#x1787;&#x17C6;&#x1796;&#x17BC;&#x1780;&#x17D6;</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Arial</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>purple</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="category-index">
-      <view type="interface">
-        <font>
-          <name>Arial</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>purple</color>
-        </font>
-      </view>
-    </format>
-    <format type="category-description">
-      <view type="interface">
-        <font>
-          <name>Arial</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="homonym-index">
-      <view type="single">
-        <font>
-          <name>Arial</name>
-          <size>8</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Arial</name>
-          <size>8</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="notes" tag="anthropology">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-        <label>
-          <form lang="en">Anth:</form>
-          <form lang="fr">Anth:</form>
-          <form lang="es">Anth:</form>
-          <form lang="pt">Anth:</form>
-          <form lang="bg">Anth:</form>
-          <form lang="rw">Anth:</form>
-          <form lang="id">Anth:</form>
-          <form lang="zh-CHT">Anth:</form>
-          <form lang="zh-CHS">Anth:</form>
-          <form lang="km">Anth:</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="notes" tag="discourse">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-        <label>
-          <form lang="en">Disc:</form>
-          <form lang="fr">Disc:</form>
-          <form lang="es">Disc:</form>
-          <form lang="pt">Disc:</form>
-          <form lang="bg">Disc:</form>
-          <form lang="rw">Disc:</form>
-          <form lang="id">Disc:</form>
-          <form lang="zh-CHT">Disc:</form>
-          <form lang="zh-CHS">Disc:</form>
-          <form lang="km">Disc:</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="notes" tag="grammar">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-        <label>
-          <form lang="en">Gram:</form>
-          <form lang="fr">Gram:</form>
-          <form lang="es">Gram:</form>
-          <form lang="pt">Gram:</form>
-          <form lang="bg">Gram:</form>
-          <form lang="rw">Gram:</form>
-          <form lang="id">Gram:</form>
-          <form lang="zh-CHT">Gram:</form>
-          <form lang="zh-CHS">Gram:</form>
-          <form lang="km">Gram:</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="notes" tag="phonology">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-        <label>
-          <form lang="en">Phon:</form>
-          <form lang="fr">Phon:</form>
-          <form lang="es">Phon:</form>
-          <form lang="pt">Phon:</form>
-          <form lang="bg">Phon:</form>
-          <form lang="rw">Phon:</form>
-          <form lang="id">Phon:</form>
-          <form lang="zh-CHT">Phon:</form>
-          <form lang="zh-CHS">Phon:</form>
-          <form lang="km">Phon:</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="notes" tag="questions">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-        <label>
-          <form lang="en">Ques:</form>
-          <form lang="fr">Ques:</form>
-          <form lang="es">Ques:</form>
-          <form lang="pt">Ques:</form>
-          <form lang="bg">Ques:</form>
-          <form lang="rw">Ques:</form>
-          <form lang="id">Ques:</form>
-          <form lang="zh-CHT">Ques:</form>
-          <form lang="zh-CHS">Ques:</form>
-          <form lang="km">Ques:</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="notes" tag="sociolinguistics">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-        <label>
-          <form lang="en">Socio:</form>
-          <form lang="fr">Socio:</form>
-          <form lang="es">Socio:</form>
-          <form lang="pt">Socio:</form>
-          <form lang="bg">Socio:</form>
-          <form lang="rw">Socio:</form>
-          <form lang="id">Socio:</form>
-          <form lang="zh-CHT">Socio:</form>
-          <form lang="zh-CHS">Socio:</form>
-          <form lang="km">Socio:</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="notes" tag="general">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-        <label>
-          <form lang="en">Note:</form>
-          <form lang="fr">Note :</form>
-          <form lang="es">Note:</form>
-          <form lang="pt">Note:</form>
-          <form lang="bg">&#x411;&#x435;&#x43B;&#x435;&#x436;&#x43A;&#x430;:</form>
-          <form lang="rw">Icyitonderwa:</form>
-          <form lang="id">Catatan:</form>
-          <form lang="zh-CHT">Note:</form>
-          <form lang="zh-CHS">Note:</form>
-          <form lang="km">&#x1785;&#x17C6;&#x178E;&#x17B6;&#x17C6;&#x17D6;</form>
-        </label>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="same"/>
-    </format>
-    <format type="user-style" tag="fv">
-      <trait name="user-style-type" value="MDF"/>
-      <description>Vernacular Font</description>
-      <view type="single">
-        <font>
-          <name>Lucida Sans Unicode</name>
-          <size>10</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Lucida Sans Unicode</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="user-style" tag="fe">
-      <trait name="user-style-type" value="MDF"/>
-      <description>English Font</description>
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="user-style" tag="fn">
-      <trait name="user-style-type" value="MDF"/>
-      <description>National Font</description>
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="user-style" tag="fr">
-      <trait name="user-style-type" value="MDF"/>
-      <description>Regional Font</description>
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>9</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="list" lang="en">
-      <view type="interface">
-        <font>
-          <name>Arial</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="list-title" lang="en">
-      <view type="interface">
-        <font>
-          <name>Arial</name>
-          <size>9</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>navy</color>
-        </font>
-      </view>
-    </format>
-    <format type="input-box" lang="en">
-      <view type="interface">
-        <font>
-          <name>Arial</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="input-buttons" lang="en">
-      <view type="interface">
-        <font>
-          <name>Arial</name>
-          <size>8</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-    <format type="gloss" lang="en">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>11</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="encyc" lang="en">
-      <view type="single">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <view type="multiple">
-        <font>
-          <name>Times New Roman</name>
-          <size>10</size>
-          <style bold="false" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-      <trait name="link-style" value="none"/>
-      <trait name="label-style" value="none"/>
-    </format>
-    <format type="title" lang="en">
-      <view type="interface">
-        <font>
-          <name>Times New Roman</name>
-          <size>16</size>
-          <style bold="true" italic="false" underline="false"/>
-          <color>black</color>
-        </font>
-      </view>
-    </format>
-  </formatting>
-  <fieldFormatting>
-    <fieldFormat area="part-of-speech" case="same"/>
-    <fieldFormat area="phonetic" style="3" dir="LTR"/>
-    <fieldFormat area="example-gloss" style="0"/>
-    <fieldFormat area="reference" style="3" position="before"/>
-  </fieldFormatting>
-  <multiEntryView>
-    <displayItem name="Examples" display="false"/>
-    <displayItem name="ScientificName" display="false"/>
-    <displayItem name="LexFunctions" display="false"/>
-    <displayItem name="Paradigms" display="false"/>
-    <displayItem name="EncycInfo" display="false"/>
-    <displayItem name="CrossRefs" display="false"/>
-    <displayItem name="Phonetic" display="false"/>
-    <displayItem name="Category" display="false"/>
-  </multiEntryView>
-  <permissions>
-    <permission area="ChangeConfig" allow="true"/>
-    <permission area="Distribute" allow="true"/>
-    <permission area="Edit" allow="true"/>
-    <permission area="Open" allow="true"/>
-    <permission area="Close" allow="true"/>
-    <permission area="Print" allow="true"/>
-    <permission area="ExportToWord" allow="true"/>
-    <permission area="ExportToWeb" allow="true"/>
-  </permissions>
-  <!-- Field marker definitions -->
-  <fieldMarkers>
-    <fieldMarker type="Lexeme" enabled="true">lx</fieldMarker>
-    <fieldMarker type="Homonym Number" enabled="true">hm</fieldMarker>
-    <fieldMarker type="Citation Form" enabled="true">lc</fieldMarker>
-    <fieldMarker type="Phonetic Form" enabled="true">ph</fieldMarker>
-    <fieldMarker type="CV Pattern" enabled="true">cv</fieldMarker>
-    <fieldMarker type="Sub Entry" enabled="true">se</fieldMarker>
-    <fieldMarker type="Part Of Speech" lang="English" enabled="true">ps</fieldMarker>
-    <fieldMarker type="Sense Number" enabled="true">sn</fieldMarker>
-    <fieldMarker type="Gloss" lang="English" enabled="true">ge</fieldMarker>
-    <fieldMarker type="Definition" lang="English" enabled="true">de</fieldMarker>
-    <fieldMarker type="Reversal" lang="English" enabled="true">re</fieldMarker>
-    <fieldMarker type="Example" enabled="true">xv</fieldMarker>
-    <fieldMarker type="Example Reference" enabled="true">rf</fieldMarker>
-    <fieldMarker type="Example Gloss" lang="English" enabled="true">xe</fieldMarker>
-    <fieldMarker type="Paradigm Label" enabled="true">pdl</fieldMarker>
-    <fieldMarker type="Paradigm Form" enabled="true">pdv</fieldMarker>
-    <fieldMarker type="Paradigm Gloss" lang="English" enabled="true">pde</fieldMarker>
-    <fieldMarker type="Plural Form" enabled="true">pl</fieldMarker>
-    <fieldMarker type="Singular Form" enabled="true">sg</fieldMarker>
-    <fieldMarker type="Literal Meaning" lang="English" enabled="true">lt</fieldMarker>
-    <fieldMarker type="Scientific Name" enabled="true">sc</fieldMarker>
-    <fieldMarker type="Lexical Function" enabled="true">lf</fieldMarker>
-    <fieldMarker type="Lexical Function Value" enabled="true">lv</fieldMarker>
-    <fieldMarker type="Lexical Function Gloss" lang="English" enabled="true">le</fieldMarker>
-    <fieldMarker type="Usage" lang="Nkonya" enabled="true">uv</fieldMarker>
-    <fieldMarker type="Usage" lang="English" enabled="true">ue</fieldMarker>
-    <fieldMarker type="Encyclopedic Information" lang="Nkonya" enabled="true">ev</fieldMarker>
-    <fieldMarker type="Encyclopedic Information" lang="English" enabled="true">ee</fieldMarker>
-    <fieldMarker type="Only/Restrictions" lang="Nkonya" enabled="true">ov</fieldMarker>
-    <fieldMarker type="Only/Restrictions" lang="English" enabled="true">oe</fieldMarker>
-    <fieldMarker type="Synonym" enabled="true">sy</fieldMarker>
-    <fieldMarker type="Antonym" enabled="true">an</fieldMarker>
-    <fieldMarker type="Morphology" enabled="true">mr</fieldMarker>
-    <fieldMarker type="Cross Reference" enabled="true">cf</fieldMarker>
-    <fieldMarker type="Cross Reference Gloss" lang="English" enabled="true">ce</fieldMarker>
-    <fieldMarker type="Main Entry Cross Reference" enabled="true">mn</fieldMarker>
-    <fieldMarker type="Variant Form" enabled="true">va</fieldMarker>
-    <fieldMarker type="Variant Comment" lang="English" enabled="true">ve</fieldMarker>
-    <fieldMarker type="Borrowed Word" enabled="true">bw</fieldMarker>
-    <fieldMarker type="Etymology" enabled="true">et</fieldMarker>
-    <fieldMarker type="Etymology Gloss" lang="Nkonya" enabled="true">eg</fieldMarker>
-    <fieldMarker type="Semantic Domain" enabled="true">sd</fieldMarker>
-    <fieldMarker type="Index of Semantics" enabled="true">is</fieldMarker>
-    <fieldMarker type="Academic Domain" enabled="true">ac</fieldMarker>
-    <fieldMarker type="Bibliography" enabled="true">bb</fieldMarker>
-    <fieldMarker type="Picture" enabled="true">pc</fieldMarker>
-    <fieldMarker type="Sound (main word)" enabled="true">sf</fieldMarker>
-    <fieldMarker type="Sound (in context)" enabled="true">sfx</fieldMarker>
-    <fieldMarker type="Attached File" enabled="true">ff</fieldMarker>
-    <fieldMarker type="Attached File Caption" lang="Nkonya" enabled="true">fv</fieldMarker>
-    <fieldMarker type="Attached File Caption" lang="English" enabled="true">fe</fieldMarker>
-    <fieldMarker type="Attached File Picture" enabled="true">fp</fieldMarker>
-    <fieldMarker type="Notes (anthropology)" enabled="true">na</fieldMarker>
-    <fieldMarker type="Notes (discourse)" enabled="true">nd</fieldMarker>
-    <fieldMarker type="Notes (grammar)" enabled="true">ng</fieldMarker>
-    <fieldMarker type="Notes (phonology)" enabled="true">np</fieldMarker>
-    <fieldMarker type="Notes (questions)" enabled="true">nq</fieldMarker>
-    <fieldMarker type="Notes (sociolinguistics)" enabled="true">ns</fieldMarker>
-    <fieldMarker type="Notes (general)" enabled="true">nt</fieldMarker>
-    <fieldMarker type="Date" enabled="true">dt</fieldMarker>
-    <fieldMarker type="Third dual" enabled="true">3d</fieldMarker>
-    <fieldMarker type="Third plural" enabled="true">3p</fieldMarker>
-    <fieldMarker type="Third singular" enabled="true">3s</fieldMarker>
-    <fieldMarker type="Non-animate dual" enabled="true">4d</fieldMarker>
-    <fieldMarker type="Non-animate plural" enabled="true">4p</fieldMarker>
-    <fieldMarker type="Non-animate singular" enabled="true">4s</fieldMarker>
-    <fieldMarker type="First dual" enabled="true">1d</fieldMarker>
-    <fieldMarker type="First plural exclusive" enabled="true">1e</fieldMarker>
-    <fieldMarker type="First plural inclusive" enabled="true">1i</fieldMarker>
-    <fieldMarker type="First plural" enabled="true">1p</fieldMarker>
-    <fieldMarker type="First singular" enabled="true">1s</fieldMarker>
-    <fieldMarker type="Second dual" enabled="true">2d</fieldMarker>
-    <fieldMarker type="Second plural" enabled="true">2p</fieldMarker>
-    <fieldMarker type="Second singular" enabled="true">2s</fieldMarker>
-    <fieldMarker type="Definition" lang="Nkonya" enabled="true">dv</fieldMarker>
-    <fieldMarker type="Gloss" lang="Nkonya" enabled="true">gv</fieldMarker>
-  </fieldMarkers>
-  <!-- Template to use when adding a new record -->
-  <template>
-    <templateLine>\lx </templateLine>
-    <templateLine>\ps </templateLine>
-    <templateLine>\ge </templateLine>
-    <templateLine>\de</templateLine>
-    <templateLine/>
-    <templateLine>\xv </templateLine>
-    <templateLine>\xe </templateLine>
-    <templateLine/>
-    <templateLine>\dt </templateLine>
-  </template>
-  <categories visible="true" style="user">
-    <category code="TN_">
-      <displayNames>
-        <displayName lang="en">Missing Category</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I">
-      <displayNames>
-        <displayName lang="en">Non-Human World</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A">
-      <displayNames>
-        <displayName lang="en">The Physical World TN_I.A</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.1">
-      <displayNames>
-        <displayName lang="en">the heavens : sun, sky, light/dark TN_I.A.1</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.2">
-      <displayNames>
-        <displayName lang="en">climate TN_I.A.2</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.2.a">
-      <displayNames>
-        <displayName lang="en">weather TN_I.A.2.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.2.b">
-      <displayNames>
-        <displayName lang="en">seasons TN_I.A.2.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.2.c">
-      <displayNames>
-        <displayName lang="en">wind TN_I.A.2.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.2.d">
-      <displayNames>
-        <displayName lang="en">sun(in-the) TN_I.A.2.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.3">
-      <displayNames>
-        <displayName lang="en">land TN_I.A.3</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.3.a">
-      <displayNames>
-        <displayName lang="en">world TN_I.A.3.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.3.b">
-      <displayNames>
-        <displayName lang="en">mountain TN_I.A.3.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.3.c">
-      <displayNames>
-        <displayName lang="en">stone(small) TN_I.A.3.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.3.d">
-      <displayNames>
-        <displayName lang="en">wet(land) TN_I.A.3.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.3.e">
-      <displayNames>
-        <displayName lang="en">geographical names TN_I.A.3.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.4">
-      <displayNames>
-        <displayName lang="en">water TN_I.A.4</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.4.a">
-      <displayNames>
-        <displayName lang="en">river TN_I.A.4.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.4.b">
-      <displayNames>
-        <displayName lang="en">flows(river-) TN_I.A.4.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.4.c">
-      <displayNames>
-        <displayName lang="en">draw-water TN_I.A.4.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.A.5">
-      <displayNames>
-        <displayName lang="en">materials TN_I.A.5</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B">
-      <displayNames>
-        <displayName lang="en">Animals &amp; Plants TN_I.B</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.1">
-      <displayNames>
-        <displayName lang="en">animals-wild TN_I.B.1</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.1.a">
-      <displayNames>
-        <displayName lang="en">tail TN_I.B.1.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.1.b">
-      <displayNames>
-        <displayName lang="en">lion TN_I.B.1.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.2">
-      <displayNames>
-        <displayName lang="en">birds-wild TN_I.B.2</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.2.a">
-      <displayNames>
-        <displayName lang="en">feather TN_I.B.2.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.2.b">
-      <displayNames>
-        <displayName lang="en">eagle TN_I.B.2.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.3">
-      <displayNames>
-        <displayName lang="en">smaller-creatures TN_I.B.3</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.3.a">
-      <displayNames>
-        <displayName lang="en">poison/venom TN_I.B.3.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.3.b">
-      <displayNames>
-        <displayName lang="en">snake,amphibian/scorpion,spider TN_I.B.3.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.3.c">
-      <displayNames>
-        <displayName lang="en">insects TN_I.B.3.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.3.d">
-      <displayNames>
-        <displayName lang="en">fish TN_I.B.3.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.4">
-      <displayNames>
-        <displayName lang="en">trees TN_I.B.4</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.4.a">
-      <displayNames>
-        <displayName lang="en">root TN_I.B.4.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.4.b">
-      <displayNames>
-        <displayName lang="en">shea TN_I.B.4.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.5">
-      <displayNames>
-        <displayName lang="en">plants : plant products TN_I.B.5</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B.5.a">
-      <displayNames>
-        <displayName lang="en">leaf TN_I.B.5.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.B3.b">
+ <writingSystems>
+
+ <!-- Main lexicon language -->
+
+  <writingSystem id="nko" type="main" enabled="true">
+   <displayNames>
+    <form lang="en">Nkonya</form>
+   </displayNames>
+
+   <sortOrder type="simple">
+    <sortLine>A Á a á</sortLine>
+    <sortLine>B b</sortLine>
+    <sortLine>C c</sortLine>
+    <sortLine>D d</sortLine>
+    <sortLine>E É e é</sortLine>
+    <sortLine>Ɛ Ɛ́ ɛ ɛ́</sortLine>
+    <sortLine>F f</sortLine>
+    <sortLine>G g</sortLine>
+    <sortLine>H h</sortLine>
+    <sortLine>I Í i í</sortLine>
+    <sortLine>Ɩ Ɩ́ ɩ ɩ́</sortLine>
+    <sortLine>J j</sortLine>
+    <sortLine>K k</sortLine>
+    <sortLine>L l</sortLine>
+    <sortLine>M m</sortLine>
+    <sortLine>N n</sortLine>
+    <sortLine>Ŋ ŋ</sortLine>
+    <sortLine>O Ó o ó</sortLine>
+    <sortLine>Ɔ Ɔ́ ɔ ɔ́</sortLine>
+    <sortLine>P p</sortLine>
+    <sortLine>Q q</sortLine>
+    <sortLine>R r</sortLine>
+    <sortLine>S s</sortLine>
+    <sortLine>T t</sortLine>
+    <sortLine>U Ú u ú</sortLine>
+    <sortLine>Ʋ Ʋ́ ʋ ʋ́</sortLine>
+    <sortLine>V v</sortLine>
+    <sortLine>W w</sortLine>
+    <sortLine>X x</sortLine>
+    <sortLine>Y y</sortLine>
+    <sortLine>Z z</sortLine>
+    <sortLine>0</sortLine>
+    <sortLine>1</sortLine>
+    <sortLine>2</sortLine>
+    <sortLine>3</sortLine>
+    <sortLine>4</sortLine>
+    <sortLine>5</sortLine>
+    <sortLine>6</sortLine>
+    <sortLine>7</sortLine>
+    <sortLine>8</sortLine>
+    <sortLine>9</sortLine>
+   </sortOrder>
+
+   <trait name="IsSortNeeded" value="true"/>
+   <trait name="SortFromEnd" value="false"/>
+   <trait name="HasPartOfSpeechIndex" value="false"/>
+
+   <ignoreChars>- =</ignoreChars>
+   <ignoreSpaces ignore="false"/>
+
+   <alphabet display="true">A B C D E Ɛ F G H I Ɩ J K L M N Ŋ O Ɔ P Q R S T U Ʋ V W X Y Z</alphabet>
+   <alphaButtons display="true" width="23" height="17">
+    <alphaButtonsAlphabet></alphaButtonsAlphabet>
+   </alphaButtons>
+   <alphaSelect selectby="lx"/>
+
+   <inputButtons display="true" width="23" height="17">
+    <inputButtonsAlphabet>Á É Ɛ Ɛ́ Í Ɩ Ɩ́ Ó Ɔ Ɔ́ Ŋ Ú Ʋ Ʋ́</inputButtonsAlphabet>
+   </inputButtons>
+
+   <textDirection dir="LTR"/>
+   <keyboard id="1078" name="Afrikaans (South Africa)"/>
+
+   <defaultFontName>Doulos SIL</defaultFontName>
+  </writingSystem>
+
+ <!-- Languages used for glosses, definitions, translations -->
+
+  <writingSystem id="en" type="gloss" enabled="true">
+   <displayNames>
+    <form lang="en">English</form>
+    <form lang="fr">anglais</form>
+    <form lang="es">Inglés</form>
+    <form lang="pt">Inglês</form>
+    <form lang="bg">английски</form>
+    <form lang="rw">Icyongereza</form>
+    <form lang="id">Bahasa Inggris</form>
+    <form lang="zh-CHT">英文</form>
+    <form lang="zh-CHS">英文</form>
+    <form lang="km">អង់គ្លេស</form>
+   </displayNames>
+
+   <markerChar>e</markerChar>
+
+   <trait name="IsDisplayedWithLabel" value="false"/>
+   <trait name="IsIndexed" value="true"/>
+
+   <lowerCase>a b c d e f g h i j k l m n o p q r s t u v w x y z</lowerCase>
+   <upperCase>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</upperCase>
+   <caseAssociations>
+    <caseLine>A a</caseLine>
+    <caseLine>B b</caseLine>
+    <caseLine>C c</caseLine>
+    <caseLine>D d</caseLine>
+    <caseLine>E e</caseLine>
+    <caseLine>F f</caseLine>
+    <caseLine>G g</caseLine>
+    <caseLine>H h</caseLine>
+    <caseLine>I i</caseLine>
+    <caseLine>J j</caseLine>
+    <caseLine>K k</caseLine>
+    <caseLine>L l</caseLine>
+    <caseLine>M m</caseLine>
+    <caseLine>N n</caseLine>
+    <caseLine>O o</caseLine>
+    <caseLine>P p</caseLine>
+    <caseLine>Q q</caseLine>
+    <caseLine>R r</caseLine>
+    <caseLine>S s</caseLine>
+    <caseLine>T t</caseLine>
+    <caseLine>U u</caseLine>
+    <caseLine>V v</caseLine>
+    <caseLine>W w</caseLine>
+    <caseLine>X x</caseLine>
+    <caseLine>Y y</caseLine>
+    <caseLine>Z z</caseLine>
+   </caseAssociations>
+
+   <sortOrder type="built-in"/>
+
+   <ignoreChars>- =</ignoreChars>
+   <ignoreSpaces ignore="false"/>
+
+   <inputButtons display="false" width="23" height="17">
+    <inputButtonsAlphabet></inputButtonsAlphabet>
+   </inputButtons>
+
+   <textDirection dir="LTR"/>
+
+   <defaultFontName></defaultFontName>
+  </writingSystem>
+ </writingSystems>
+
+ <!-- Formatting styles, fonts and labels -->
+ <formatting>
+  <format type="list" lang="nko">
+   <view type="interface">
+    <font>
+     <name>Doulos SIL</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="list-title" lang="nko">
+   <view type="interface">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="input-box" lang="nko">
+   <view type="interface">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="alpha-buttons" lang="nko">
+   <view type="interface">
+    <font>
+     <name>Doulos SIL</name>
+     <size>8</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="input-buttons" lang="nko">
+   <view type="interface">
+    <font>
+     <name>Doulos SIL</name>
+     <size>8</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="entry-name" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>16</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="sub-entry" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>13</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>10</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="example" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="lexical-function" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>maroon</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>maroon</color>
+    </font>
+   </view>
+   <trait name="link-style" value="entry"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="morph" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>green</color>
+    </font>
+    <label>
+     <form lang="en">Morph:</form>
+     <form lang="fr">Morph. :</form>
+     <form lang="es">Morf. :</form>
+     <form lang="pt">Morf. :</form>
+     <form lang="bg">Морфология:</form>
+     <form lang="rw">Teg.:</form>
+     <form lang="id">Morf:</form>
+     <form lang="zh-CHT">形態</form>
+     <form lang="zh-CHS">形态</form>
+     <form lang="km">សណ្ឋាន៖</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>green</color>
+    </font>
+   </view>
+   <trait name="link-style" value="morphology"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="cross-ref" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>teal</color>
+    </font>
+    <label>
+     <form lang="en">See:</form>
+     <form lang="fr">Voir :</form>
+     <form lang="es">Ver :</form>
+     <form lang="pt">Ver :</form>
+     <form lang="bg">Вж.:</form>
+     <form lang="rw">Reba:</form>
+     <form lang="id">Lihat: </form>
+     <form lang="zh-CHT">檢視</form>
+     <form lang="zh-CHS">查看</form>
+     <form lang="km">មើល៖</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>teal</color>
+    </font>
+   </view>
+   <trait name="link-style" value="entry"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="main-cross-ref" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+    <label>
+     <form lang="en">See main entry:</form>
+     <form lang="fr">Voir entrée principale :</form>
+     <form lang="es">Ver entrada principal :</form>
+     <form lang="pt">Ver entrada principal :</form>
+     <form lang="bg">Вж. главната статия:</form>
+     <form lang="rw">Reba umwinjizo w'ingenzi:</form>
+     <form lang="id">Lihat entri utama:</form>
+     <form lang="zh-CHT">檢視主要詞條標記</form>
+     <form lang="zh-CHS">查看主要词条标记</form>
+     <form lang="km">មើល​មេ​ពាក្យ៖</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <trait name="link-style" value="entry"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="paradigm" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <trait name="link-style" value="entry"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="variant" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+    <label>
+     <form lang="en">Variant:</form>
+     <form lang="fr">Variante :</form>
+     <form lang="es">Variante :</form>
+     <form lang="pt">Variante :</form>
+     <form lang="bg">Вариант:</form>
+     <form lang="rw">Ukundi yandikwa:</form>
+     <form lang="id">Varian: </form>
+     <form lang="zh-CHT">變化形</form>
+     <form lang="zh-CHS">变化型</form>
+     <form lang="km">ក្លាយ៖</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="encyc" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>10</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="gloss" lang="nko">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="part-of-speech">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>11</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>blue</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>blue</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="phonetic">
+   <view type="single">
+    <font>
+     <name>Doulos SIL</name>
+     <size>10</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Doulos SIL</name>
+     <size>9</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="label">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="true" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="language-label">
+   <view type="single">
+    <font>
+     <name>Arial</name>
+     <size>8</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>blue</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Arial</name>
+     <size>7</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>blue</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="reference">
+   <view type="single">
+    <font>
+     <name>Lucida Sans Unicode</name>
+     <size>8</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Lucida Sans Unicode</name>
+     <size>7</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="scientific">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="true" underline="true" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="true" underline="true" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="google"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="borrowed-word">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+    <label>
+     <form lang="en">From:</form>
+     <form lang="fr">Source :</form>
+     <form lang="es">Del :</form>
+     <form lang="pt">De :</form>
+     <form lang="bg">От:</form>
+     <form lang="rw">Ryatiriwe ku:</form>
+     <form lang="id">Dari: </form>
+     <form lang="zh-CHT">從</form>
+     <form lang="zh-CHS">从</form>
+     <form lang="km">ពី៖</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="etymology">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+    <label>
+     <form lang="en">Etym:</form>
+     <form lang="fr">Etym :</form>
+     <form lang="es">Etim :</form>
+     <form lang="pt">Etim. :</form>
+     <form lang="bg">Етимология:</form>
+     <form lang="rw">Kmk.:</form>
+     <form lang="id">Etim:</form>
+     <form lang="zh-CHT">語源</form>
+     <form lang="zh-CHS">语源</form>
+     <form lang="km">កំណើត​ពាក្យ៖</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="category">
+   <view type="single">
+    <font>
+     <name>Arial</name>
+     <size>10</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>purple</color>
+    </font>
+    <label>
+     <form lang="en">Category:</form>
+     <form lang="fr">Catégorie :</form>
+     <form lang="es">Categoría :</form>
+     <form lang="pt">Categoria :</form>
+     <form lang="bg">Категория:</form>
+     <form lang="rw">Icyiciro:</form>
+     <form lang="id">Kategori:</form>
+     <form lang="zh-CHT">範疇歸類</form>
+     <form lang="zh-CHS">范畴归类</form>
+     <form lang="km">ជំពូក៖</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Arial</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>purple</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="category-index">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>purple</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="category-description">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="homonym-index">
+   <view type="single">
+    <font>
+     <name>Arial</name>
+     <size>8</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Arial</name>
+     <size>8</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="notes" tag="anthropology">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+    <label>
+     <form lang="en">Anth:</form>
+     <form lang="fr">Anth:</form>
+     <form lang="es">Anth:</form>
+     <form lang="pt">Anth:</form>
+     <form lang="bg">Anth:</form>
+     <form lang="rw">Anth:</form>
+     <form lang="id">Anth:</form>
+     <form lang="zh-CHT">Anth:</form>
+     <form lang="zh-CHS">Anth:</form>
+     <form lang="km">Anth:</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="notes" tag="discourse">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+    <label>
+     <form lang="en">Disc:</form>
+     <form lang="fr">Disc:</form>
+     <form lang="es">Disc:</form>
+     <form lang="pt">Disc:</form>
+     <form lang="bg">Disc:</form>
+     <form lang="rw">Disc:</form>
+     <form lang="id">Disc:</form>
+     <form lang="zh-CHT">Disc:</form>
+     <form lang="zh-CHS">Disc:</form>
+     <form lang="km">Disc:</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="notes" tag="grammar">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+    <label>
+     <form lang="en">Gram:</form>
+     <form lang="fr">Gram:</form>
+     <form lang="es">Gram:</form>
+     <form lang="pt">Gram:</form>
+     <form lang="bg">Gram:</form>
+     <form lang="rw">Gram:</form>
+     <form lang="id">Gram:</form>
+     <form lang="zh-CHT">Gram:</form>
+     <form lang="zh-CHS">Gram:</form>
+     <form lang="km">Gram:</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="notes" tag="phonology">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+    <label>
+     <form lang="en">Phon:</form>
+     <form lang="fr">Phon:</form>
+     <form lang="es">Phon:</form>
+     <form lang="pt">Phon:</form>
+     <form lang="bg">Phon:</form>
+     <form lang="rw">Phon:</form>
+     <form lang="id">Phon:</form>
+     <form lang="zh-CHT">Phon:</form>
+     <form lang="zh-CHS">Phon:</form>
+     <form lang="km">Phon:</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="notes" tag="questions">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+    <label>
+     <form lang="en">Ques:</form>
+     <form lang="fr">Ques:</form>
+     <form lang="es">Ques:</form>
+     <form lang="pt">Ques:</form>
+     <form lang="bg">Ques:</form>
+     <form lang="rw">Ques:</form>
+     <form lang="id">Ques:</form>
+     <form lang="zh-CHT">Ques:</form>
+     <form lang="zh-CHS">Ques:</form>
+     <form lang="km">Ques:</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="notes" tag="sociolinguistics">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+    <label>
+     <form lang="en">Socio:</form>
+     <form lang="fr">Socio:</form>
+     <form lang="es">Socio:</form>
+     <form lang="pt">Socio:</form>
+     <form lang="bg">Socio:</form>
+     <form lang="rw">Socio:</form>
+     <form lang="id">Socio:</form>
+     <form lang="zh-CHT">Socio:</form>
+     <form lang="zh-CHS">Socio:</form>
+     <form lang="km">Socio:</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="notes" tag="general">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+    <label>
+     <form lang="en">Note:</form>
+     <form lang="fr">Note :</form>
+     <form lang="es">Note:</form>
+     <form lang="pt">Note:</form>
+     <form lang="bg">Бележка:</form>
+     <form lang="rw">Icyitonderwa:</form>
+     <form lang="id">Catatan:</form>
+     <form lang="zh-CHT">Note:</form>
+     <form lang="zh-CHS">Note:</form>
+     <form lang="km">ចំណាំ៖</form>
+    </label>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="same"/>
+  </format>
+
+  <format type="user-style" tag="fv">
+   <trait name="user-style-type" value="MDF"/>
+   <description>Vernacular Font</description>
+   <view type="single">
+    <font>
+     <name>Lucida Sans Unicode</name>
+     <size>10</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Lucida Sans Unicode</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="user-style" tag="fe">
+   <trait name="user-style-type" value="MDF"/>
+   <description>English Font</description>
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="user-style" tag="fn">
+   <trait name="user-style-type" value="MDF"/>
+   <description>National Font</description>
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="user-style" tag="fr">
+   <trait name="user-style-type" value="MDF"/>
+   <description>Regional Font</description>
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>9</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="list" lang="en">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="list-title" lang="en">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>9</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>navy</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="input-box" lang="en">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="input-buttons" lang="en">
+   <view type="interface">
+    <font>
+     <name>Arial</name>
+     <size>8</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+  <format type="gloss" lang="en">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>11</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="encyc" lang="en">
+   <view type="single">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <view type="multiple">
+    <font>
+     <name>Times New Roman</name>
+     <size>10</size>
+     <style bold="false" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+   <trait name="link-style" value="none"/>
+   <trait name="label-style" value="none"/>
+  </format>
+
+  <format type="title" lang="en">
+   <view type="interface">
+    <font>
+     <name>Times New Roman</name>
+     <size>16</size>
+     <style bold="true" italic="false" underline="false" />
+     <color>black</color>
+    </font>
+   </view>
+  </format>
+
+ </formatting>
+
+ <fieldFormatting>
+  <fieldFormat area="part-of-speech" case="same"/>
+  <fieldFormat area="phonetic" style="3" dir="LTR"/>
+  <fieldFormat area="example-gloss" style="0"/>
+  <fieldFormat area="reference" style="3" position="before"/>
+ </fieldFormatting>
+
+ <multiEntryView>
+  <displayItem name="Examples" display="false"/>
+  <displayItem name="ScientificName" display="false"/>
+  <displayItem name="LexFunctions" display="false"/>
+  <displayItem name="Paradigms" display="false"/>
+  <displayItem name="EncycInfo" display="false"/>
+  <displayItem name="CrossRefs" display="false"/>
+  <displayItem name="Phonetic" display="false"/>
+  <displayItem name="Category" display="false"/>
+ </multiEntryView>
+
+ <permissions>
+  <permission area="ChangeConfig" allow="true"/>
+  <permission area="Distribute" allow="true"/>
+  <permission area="Edit" allow="true"/>
+  <permission area="Open" allow="true"/>
+  <permission area="Close" allow="true"/>
+  <permission area="Print" allow="true"/>
+  <permission area="ExportToWord" allow="true"/>
+  <permission area="ExportToWeb" allow="true"/>
+ </permissions>
+
+ <!-- Field marker definitions -->
+ <fieldMarkers>
+  <fieldMarker type="Lexeme" enabled="true">lx</fieldMarker>
+  <fieldMarker type="Homonym Number" enabled="true">hm</fieldMarker>
+  <fieldMarker type="Citation Form" enabled="true">lc</fieldMarker>
+  <fieldMarker type="Phonetic Form" enabled="true">ph</fieldMarker>
+  <fieldMarker type="CV Pattern" enabled="true">cv</fieldMarker>
+  <fieldMarker type="Sub Entry" enabled="true">se</fieldMarker>
+  <fieldMarker type="Part Of Speech" lang="English" enabled="true">ps</fieldMarker>
+  <fieldMarker type="Sense Number" enabled="true">sn</fieldMarker>
+  <fieldMarker type="Gloss" lang="English" enabled="true">ge</fieldMarker>
+  <fieldMarker type="Definition" lang="English" enabled="true">de</fieldMarker>
+  <fieldMarker type="Reversal" lang="English" enabled="true">re</fieldMarker>
+  <fieldMarker type="Example" enabled="true">xv</fieldMarker>
+  <fieldMarker type="Example Reference" enabled="true">rf</fieldMarker>
+  <fieldMarker type="Example Gloss" lang="English" enabled="true">xe</fieldMarker>
+  <fieldMarker type="Paradigm Label" enabled="true">pdl</fieldMarker>
+  <fieldMarker type="Paradigm Form" enabled="true">pdv</fieldMarker>
+  <fieldMarker type="Paradigm Gloss" lang="English" enabled="true">pde</fieldMarker>
+  <fieldMarker type="Plural Form" enabled="true">pl</fieldMarker>
+  <fieldMarker type="Singular Form" enabled="true">sg</fieldMarker>
+  <fieldMarker type="Literal Meaning" lang="English" enabled="true">lt</fieldMarker>
+  <fieldMarker type="Scientific Name" enabled="true">sc</fieldMarker>
+  <fieldMarker type="Lexical Function" enabled="true">lf</fieldMarker>
+  <fieldMarker type="Lexical Function Value" enabled="true">lv</fieldMarker>
+  <fieldMarker type="Lexical Function Gloss" lang="English" enabled="true">le</fieldMarker>
+  <fieldMarker type="Usage" lang="Nkonya" enabled="true">uv</fieldMarker>
+  <fieldMarker type="Usage" lang="English" enabled="true">ue</fieldMarker>
+  <fieldMarker type="Encyclopedic Information" lang="Nkonya" enabled="true">ev</fieldMarker>
+  <fieldMarker type="Encyclopedic Information" lang="English" enabled="true">ee</fieldMarker>
+  <fieldMarker type="Only/Restrictions" lang="Nkonya" enabled="true">ov</fieldMarker>
+  <fieldMarker type="Only/Restrictions" lang="English" enabled="true">oe</fieldMarker>
+  <fieldMarker type="Synonym" enabled="true">sy</fieldMarker>
+  <fieldMarker type="Antonym" enabled="true">an</fieldMarker>
+  <fieldMarker type="Morphology" enabled="true">mr</fieldMarker>
+  <fieldMarker type="Cross Reference" enabled="true">cf</fieldMarker>
+  <fieldMarker type="Cross Reference Gloss" lang="English" enabled="true">ce</fieldMarker>
+  <fieldMarker type="Main Entry Cross Reference" enabled="true">mn</fieldMarker>
+  <fieldMarker type="Variant Form" enabled="true">va</fieldMarker>
+  <fieldMarker type="Variant Comment" lang="English" enabled="true">ve</fieldMarker>
+  <fieldMarker type="Borrowed Word" enabled="true">bw</fieldMarker>
+  <fieldMarker type="Etymology" enabled="true">et</fieldMarker>
+  <fieldMarker type="Etymology Gloss" lang="Nkonya" enabled="true">eg</fieldMarker>
+  <fieldMarker type="Semantic Domain" enabled="true">sd</fieldMarker>
+  <fieldMarker type="Index of Semantics" enabled="true">is</fieldMarker>
+  <fieldMarker type="Academic Domain" enabled="true">ac</fieldMarker>
+  <fieldMarker type="Bibliography" enabled="true">bb</fieldMarker>
+  <fieldMarker type="Picture" enabled="true">pc</fieldMarker>
+  <fieldMarker type="Sound (main word)" enabled="true">sf</fieldMarker>
+  <fieldMarker type="Sound (in context)" enabled="true">sfx</fieldMarker>
+  <fieldMarker type="Attached File" enabled="true">ff</fieldMarker>
+  <fieldMarker type="Attached File Caption" lang="Nkonya" enabled="true">fv</fieldMarker>
+  <fieldMarker type="Attached File Caption" lang="English" enabled="true">fe</fieldMarker>
+  <fieldMarker type="Attached File Picture" enabled="true">fp</fieldMarker>
+  <fieldMarker type="Notes (anthropology)" enabled="true">na</fieldMarker>
+  <fieldMarker type="Notes (discourse)" enabled="true">nd</fieldMarker>
+  <fieldMarker type="Notes (grammar)" enabled="true">ng</fieldMarker>
+  <fieldMarker type="Notes (phonology)" enabled="true">np</fieldMarker>
+  <fieldMarker type="Notes (questions)" enabled="true">nq</fieldMarker>
+  <fieldMarker type="Notes (sociolinguistics)" enabled="true">ns</fieldMarker>
+  <fieldMarker type="Notes (general)" enabled="true">nt</fieldMarker>
+  <fieldMarker type="Date" enabled="true">dt</fieldMarker>
+  <fieldMarker type="Third dual" enabled="true">3d</fieldMarker>
+  <fieldMarker type="Third plural" enabled="true">3p</fieldMarker>
+  <fieldMarker type="Third singular" enabled="true">3s</fieldMarker>
+  <fieldMarker type="Non-animate dual" enabled="true">4d</fieldMarker>
+  <fieldMarker type="Non-animate plural" enabled="true">4p</fieldMarker>
+  <fieldMarker type="Non-animate singular" enabled="true">4s</fieldMarker>
+  <fieldMarker type="First dual" enabled="true">1d</fieldMarker>
+  <fieldMarker type="First plural exclusive" enabled="true">1e</fieldMarker>
+  <fieldMarker type="First plural inclusive" enabled="true">1i</fieldMarker>
+  <fieldMarker type="First plural" enabled="true">1p</fieldMarker>
+  <fieldMarker type="First singular" enabled="true">1s</fieldMarker>
+  <fieldMarker type="Second dual" enabled="true">2d</fieldMarker>
+  <fieldMarker type="Second plural" enabled="true">2p</fieldMarker>
+  <fieldMarker type="Second singular" enabled="true">2s</fieldMarker>
+  <fieldMarker type="Definition" lang="Nkonya" enabled="true">dv</fieldMarker>
+  <fieldMarker type="Gloss" lang="Nkonya" enabled="true">gv</fieldMarker>
+ </fieldMarkers>
+
+ <!-- Template to use when adding a new record -->
+ <template>
+  <templateLine>\lx </templateLine>
+  <templateLine>\ps </templateLine>
+  <templateLine>\ge </templateLine>
+  <templateLine>\de</templateLine>
+  <templateLine></templateLine>
+  <templateLine>\xv </templateLine>
+  <templateLine>\xe </templateLine>
+  <templateLine></templateLine>
+  <templateLine>\dt </templateLine>
+ </template>
+
+
+ <categories visible="true" style="user">
+  <category code="TN_">
+   <displayNames>
+    <displayName lang="en">Missing Category</displayName>
+   </displayNames>
   </category>
-    <category code="TN_I.C">
-      <displayNames>
-        <displayName lang="en">Abstract-relationships TN_I.C</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.1">
+
+  <category code="TN_I">
+   <displayNames>
+    <displayName lang="en">Non-Human World</displayName>
+   </displayNames>
   </category>
-    <category code="TN_I.C.1.a">
-      <displayNames>
-        <displayName lang="en">existence TN_I.C.1.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.1.b">
-      <displayNames>
-        <displayName lang="en">identity TN_I.C.1.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.1.c">
-      <displayNames>
-        <displayName lang="en">integrity TN_I.C.1.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.1.d">
-      <displayNames>
-        <displayName lang="en">life TN_I.C.1.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.1.e">
+
+  <category code="TN_I.A">
+   <displayNames>
+    <displayName lang="en">The Physical World TN_I.A</displayName>
+   </displayNames>
   </category>
-    <category code="TN_I.C.1.f">
+
+  <category code="TN_I.A.1">
+   <displayNames>
+    <displayName lang="en">the heavens : sun, sky, light/dark TN_I.A.1</displayName>
+   </displayNames>
   </category>
-    <category code="TN_I.C.1d">
+
+  <category code="TN_I.A.2">
+   <displayNames>
+    <displayName lang="en">climate TN_I.A.2</displayName>
+   </displayNames>
   </category>
-    <category code="TN_I.C.2">
-      <displayNames>
-        <displayName lang="en">numeration TN_I.C.2</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.2.a">
-      <displayNames>
-        <displayName lang="en">numerals TN_I.C.2.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.2.b">
-      <displayNames>
-        <displayName lang="en">how much? TN_I.C.2.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.2.d">
+
+  <category code="TN_I.A.2.a">
+   <displayNames>
+    <displayName lang="en">weather TN_I.A.2.a</displayName>
+   </displayNames>
   </category>
-    <category code="TN_I.C.3">
-      <displayNames>
-        <displayName lang="en">space TN_I.C.3</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.3.a">
-      <displayNames>
-        <displayName lang="en">dimension TN_I.C.3.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.3.b">
-      <displayNames>
-        <displayName lang="en">form TN_I.C.3.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.3.c">
-      <displayNames>
-        <displayName lang="en">relationship TN_I.C.3.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.3.d">
-      <displayNames>
-        <displayName lang="en">motion TN_I.C.3.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.3.e">
-      <displayNames>
-        <displayName lang="en">location TN_I.C.3.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.3.f">
-      <displayNames>
-        <displayName lang="en">position TN_I.C.3.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4">
-      <displayNames>
-        <displayName lang="en">time TN_I.C.4</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4.a">
+
+  <category code="TN_I.A.2.b">
+   <displayNames>
+    <displayName lang="en">seasons TN_I.A.2.b</displayName>
+   </displayNames>
   </category>
-    <category code="TN_I.C.4.a.i">
-      <displayNames>
-        <displayName lang="en">dimension TN_I.C.4.a.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4.a.ii">
-      <displayNames>
-        <displayName lang="en">change of ... TN_I.C.4.a.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4.a.iii">
-      <displayNames>
-        <displayName lang="en">location in, duration TN_I.C.4.a.iii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4.b">
-      <displayNames>
-        <displayName lang="en">specific TN_I.C.4.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4.b.ii">
-      <displayNames>
-        <displayName lang="en">change of ... TN_I.C.4.b.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4.c">
-      <displayNames>
-        <displayName lang="en">time-relations TN_I.C.4.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4.d.i">
-      <displayNames>
-        <displayName lang="en">phase of event TN_I.C.4.d.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.4.d.ii">
-      <displayNames>
-        <displayName lang="en">verbal-tenses/aspects TN_I.C.4.d.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.5">
-      <displayNames>
-        <displayName lang="en">logic TN_I.C.5</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6">
-      <displayNames>
-        <displayName lang="en">qualities TN_I.C.6</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6.a">
-      <displayNames>
-        <displayName lang="en">colour TN_I.C.6.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6.b">
-      <displayNames>
-        <displayName lang="en">flavour TN_I.C.6.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6.c">
-      <displayNames>
-        <displayName lang="en">texture TN_I.C.6.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6.d">
-      <displayNames>
-        <displayName lang="en">actions TN_I.C.6.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6.e">
-      <displayNames>
-        <displayName lang="en">imperfections TN_I.C.6.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6.f">
-      <displayNames>
-        <displayName lang="en">pattern TN_I.C.6.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6.g">
-      <displayNames>
-        <displayName lang="en">wet, cold &amp;c TN_I.C.6.g</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.C.6.h">
-      <displayNames>
-        <displayName lang="en">sound TN_I.C.6.h</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.D">
-      <displayNames>
-        <displayName lang="en">States and Motions TN_I.D</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.D.1">
-      <displayNames>
-        <displayName lang="en">fall in drops TN_I.D.1</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_I.D.5.f">
+
+  <category code="TN_I.A.2.c">
+   <displayNames>
+    <displayName lang="en">wind TN_I.A.2.c</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II">
-      <displayNames>
-        <displayName lang="en">HUMAN LIFE TN_II</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.2.a">
+
+  <category code="TN_I.A.2.d">
+   <displayNames>
+    <displayName lang="en">sun(in-the) TN_I.A.2.d</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.A">
-      <displayNames>
-        <displayName lang="en">Human-body TN_II.A</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1">
-      <displayNames>
-        <displayName lang="en">whole/parts TN_II.A.1</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.">
+
+  <category code="TN_I.A.3">
+   <displayNames>
+    <displayName lang="en">land TN_I.A.3</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.A.1.a">
-      <displayNames>
-        <displayName lang="en">body(whole) TN_II.A.1.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.b">
-      <displayNames>
-        <displayName lang="en">head TN_II.A.1.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.c">
-      <displayNames>
-        <displayName lang="en">neck TN_II.A.1.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.d">
-      <displayNames>
-        <displayName lang="en">lungs TN_II.A.1.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.e">
-      <displayNames>
-        <displayName lang="en">pubes TN_II.A.1.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.f">
-      <displayNames>
-        <displayName lang="en">arm-and-hand TN_II.A.1.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.g">
-      <displayNames>
-        <displayName lang="en">foot-and-leg TN_II.A.1.g</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.h">
-      <displayNames>
-        <displayName lang="en">skin,urine TN_II.A.1.h</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.1.i">
-      <displayNames>
-        <displayName lang="en">shadow TN_II.A.1.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.2">
-      <displayNames>
-        <displayName lang="en">bodily-functions (do/act behave) TN_II.A.2</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.2.a">
-      <displayNames>
-        <displayName lang="en">eat TN_II.A.2.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.2.b">
-      <displayNames>
-        <displayName lang="en">be-awake TN_II.A.2.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.2.c">
-      <displayNames>
-        <displayName lang="en">standing,be TN_II.A.2.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.2.d">
-      <displayNames>
-        <displayName lang="en">open-eyes TN_II.A.2.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.2.e">
-      <displayNames>
-        <displayName lang="en">shiver TN_II.A.2.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.2.f">
-      <displayNames>
-        <displayName lang="en">urinate TN_II.A.2.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.2a.">
+
+  <category code="TN_I.A.3.a">
+   <displayNames>
+    <displayName lang="en">world TN_I.A.3.a</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.A.3">
-      <displayNames>
-        <displayName lang="en">perception TN_II.A.3</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.3.a">
-      <displayNames>
-        <displayName lang="en">sight TN_II.A.3.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.3.b">
-      <displayNames>
-        <displayName lang="en">hearing TN_II.A.3.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.3.c">
-      <displayNames>
-        <displayName lang="en">smell TN_II.A.3.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.3.d">
-      <displayNames>
-        <displayName lang="en">touch TN_II.A.3.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.3.e">
-      <displayNames>
-        <displayName lang="en">taste TN_II.A.3.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.a">
-      <displayNames>
-        <displayName lang="en">manipulation TN_II.A.4.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.b">
-      <displayNames>
-        <displayName lang="en">type-of-action TN_II.A.4.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.c">
-      <displayNames>
-        <displayName lang="en">position-of-object/s TN_II.A.4.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.d">
-      <displayNames>
-        <displayName lang="en">state-of-object TN_II.A.4.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.e">
-      <displayNames>
-        <displayName lang="en">construction/destruction TN_II.A.4.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.f">
-      <displayNames>
-        <displayName lang="en">active motion TN_II.A.4.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.f.i">
-      <displayNames>
-        <displayName lang="en">mode TN_II.A.4.f.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.f.ii">
-      <displayNames>
-        <displayName lang="en">source/goal TN_II.A.4.f.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.4.f.iii">
-      <displayNames>
-        <displayName lang="en">impact TN_II.A.4.f.iii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.5">
-      <displayNames>
-        <displayName lang="en">toilet TN_II.A.5</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.6">
-      <displayNames>
-        <displayName lang="en">health TN_II.A.6</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.6.a">
-      <displayNames>
-        <displayName lang="en">well,to be TN_II.A.6.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.6.b">
-      <displayNames>
-        <displayName lang="en">disease TN_II.A.6.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.6.c">
-      <displayNames>
-        <displayName lang="en">handicap TN_II.A.6.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.6.d">
-      <displayNames>
-        <displayName lang="en">medicine(modern)/(traditional) TN_II.A.6.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.6.e">
-      <displayNames>
-        <displayName lang="en">injury TN_II.A.6.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.A.6.f">
-      <displayNames>
-        <displayName lang="en">mental stress TN_II.A.6.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B">
-      <displayNames>
-        <displayName lang="en">Intellect TN_II.B</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.1">
-      <displayNames>
-        <displayName lang="en">mentation TN_II.B.1</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.1.a">
-      <displayNames>
-        <displayName lang="en">calculation TN_II.B.1.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.1.b">
-      <displayNames>
-        <displayName lang="en">expectation TN_II.B.1.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.2">
-      <displayNames>
-        <displayName lang="en">communication TN_II.B.2</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.2.a">
-      <displayNames>
-        <displayName lang="en">non-verbal TN_II.B.2.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.2.b">
-      <displayNames>
-        <displayName lang="en">verbal TN_II.B.2.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.2.b.i">
-      <displayNames>
-        <displayName lang="en">mode TN_II.B.2.b.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.2.b.ii">
-      <displayNames>
-        <displayName lang="en">content TN_II.B.2.b.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.2.c">
-      <displayNames>
-        <displayName lang="en">verbal interaction TN_II.B.2.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.3">
-      <displayNames>
-        <displayName lang="en">emotion TN_II.B.3</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.3.a.i">
+
+  <category code="TN_I.A.3.b">
+   <displayNames>
+    <displayName lang="en">mountain TN_I.A.3.b</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.B.3.b">
-      <displayNames>
-        <displayName lang="en">exclamations TN_II.B.3.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.3.i">
-      <displayNames>
-        <displayName lang="en">positive emotions TN_II.B.3.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.3.ii">
-      <displayNames>
-        <displayName lang="en">negative emotions TN_II.B.3.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.4">
-      <displayNames>
-        <displayName lang="en">possession TN_II.B.4</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.4.a">
-      <displayNames>
-        <displayName lang="en">having, possessing TN_II.B.4.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.4.b">
-      <displayNames>
-        <displayName lang="en">change of possession TN_II.B.4.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.4.c">
-      <displayNames>
-        <displayName lang="en">desire TN_II.B.4.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.5">
-      <displayNames>
-        <displayName lang="en">values TN_II.B.5</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.5.a">
-      <displayNames>
-        <displayName lang="en">Good TN_II.B.5.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.5.a.1">
+
+  <category code="TN_I.A.3.c">
+   <displayNames>
+    <displayName lang="en">stone(small) TN_I.A.3.c</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.B.5.a.i">
-      <displayNames>
-        <displayName lang="en">characteristics TN_II.B.5.a.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.5.a.ii">
-      <displayNames>
-        <displayName lang="en">events (luck, success) TN_II.B.5.a.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.5.b">
-      <displayNames>
-        <displayName lang="en">Bad TN_II.B.5.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.5.b.i">
-      <displayNames>
-        <displayName lang="en">characteristics TN_II.B.5.b.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.5.b.ii">
-      <displayNames>
-        <displayName lang="en">events (bad luck, catastrophe) TN_II.B.5.b.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.6">
-      <displayNames>
-        <displayName lang="en">Religion TN_II.B.6</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.6.a">
-      <displayNames>
-        <displayName lang="en">pagan TN_II.B.6.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.6.b">
-      <displayNames>
-        <displayName lang="en">Muslim TN_II.B.6.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.B.6.c">
-      <displayNames>
-        <displayName lang="en">Christian TN_II.B.6.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C">
-      <displayNames>
-        <displayName lang="en">Personal-Life TN_II.C</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.1">
+
+  <category code="TN_I.A.3.d">
+   <displayNames>
+    <displayName lang="en">wet(land) TN_I.A.3.d</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.C.1.a">
+
+  <category code="TN_I.A.3.e">
+   <displayNames>
+    <displayName lang="en">geographical names TN_I.A.3.e</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.C.1.bis">
-      <displayNames>
-        <displayName lang="en">house (plan) TN_II.C.1.bis</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.2">
-      <displayNames>
-        <displayName lang="en">domestic-equipment TN_II.C.2</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.2.a">
-      <displayNames>
-        <displayName lang="en">loads TN_II.C.2.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.2.a.ii">
+
+  <category code="TN_I.A.4">
+   <displayNames>
+    <displayName lang="en">water TN_I.A.4</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.C.2.b">
-      <displayNames>
-        <displayName lang="en">fire TN_II.C.2.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.2.c">
-      <displayNames>
-        <displayName lang="en">stirring-stick TN_II.C.2.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.2.d">
-      <displayNames>
-        <displayName lang="en">bed TN_II.C.2.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.2.e">
-      <displayNames>
-        <displayName lang="en">water TN_II.C.2.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.2.f">
-      <displayNames>
-        <displayName lang="en">containers TN_II.C.2.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.3">
-      <displayNames>
-        <displayName lang="en">food-preparation/Consumption TN_II.C.3</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.3.a">
-      <displayNames>
-        <displayName lang="en">to-cook(gen) flavour TN_II.C.3.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.3.b">
-      <displayNames>
-        <displayName lang="en">slice,to TN_II.C.3.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.3.c">
-      <displayNames>
-        <displayName lang="en">flour TN_II.C.3.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.3.d">
-      <displayNames>
-        <displayName lang="en">onion-greens(dried-) TN_II.C.3.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.3.e">
-      <displayNames>
-        <displayName lang="en">pito TN_II.C.3.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.3.f">
-      <displayNames>
-        <displayName lang="en">consumption, meals TN_II.C.3.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.4">
-      <displayNames>
-        <displayName lang="en">dress and adornment TN_II.C.4</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.4.a">
-      <displayNames>
-        <displayName lang="en">to dress / undress TN_II.C.4.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.4.a.i">
+
+  <category code="TN_I.A.4.a">
+   <displayNames>
+    <displayName lang="en">river TN_I.A.4.a</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.C.4.b">
-      <displayNames>
-        <displayName lang="en">loincloth/T-string TN_II.C.4.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.4.c">
-      <displayNames>
-        <displayName lang="en">beads(waist-) TN_II.C.4.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.4.d">
-      <displayNames>
-        <displayName lang="en">'lipstick'(red-greasy-cosmetic) TN_II.C.4.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.4.e">
-      <displayNames>
-        <displayName lang="en">wash(clothes),to TN_II.C.4.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.4.f">
-      <displayNames>
-        <displayName lang="en">hairdressing TN_II.C.4.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.5">
-      <displayNames>
-        <displayName lang="en">child-care TN_II.C.5</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.C.6">
+
+  <category code="TN_I.A.4.b">
+   <displayNames>
+    <displayName lang="en">flows(river-) TN_I.A.4.b</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.D.">
-      <displayNames>
-        <displayName lang="en">Economic-life TN_II.D.</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1">
-      <displayNames>
-        <displayName lang="en">farming TN_II.D.1</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1.a">
-      <displayNames>
-        <displayName lang="en">home-farm TN_II.D.1.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1.b">
-      <displayNames>
-        <displayName lang="en">tools TN_II.D.1.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1.b.bis">
-      <displayNames>
-        <displayName lang="en">tools(drawings) TN_II.D.1.b.bis</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1.c">
-      <displayNames>
-        <displayName lang="en">grain/cereal TN_II.D.1.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1.d">
-      <displayNames>
-        <displayName lang="en">yam TN_II.D.1.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1.e">
-      <displayNames>
-        <displayName lang="en">garden TN_II.D.1.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1.f">
-      <displayNames>
-        <displayName lang="en">gourd(plant) TN_II.D.1.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.1.g">
+
+  <category code="TN_I.A.4.c">
+   <displayNames>
+    <displayName lang="en">draw-water TN_I.A.4.c</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.D.2">
-      <displayNames>
-        <displayName lang="en">animal-husbandry TN_II.D.2</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.2.a">
-      <displayNames>
-        <displayName lang="en">bovine TN_II.D.2.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.2.b">
-      <displayNames>
-        <displayName lang="en">fowl TN_II.D.2.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.2.c">
-      <displayNames>
-        <displayName lang="en">raise(animals), to TN_II.D.2.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.2.d">
-      <displayNames>
-        <displayName lang="en">baskets, stables... TN_II.D.2.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.3">
-      <displayNames>
-        <displayName lang="en">fishing TN_II.D.3</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.4">
-      <displayNames>
-        <displayName lang="en">'bush'-products TN_II.D.4</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.4.a">
-      <displayNames>
-        <displayName lang="en">hunt(game),to TN_II.D.4.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.4.b">
-      <displayNames>
-        <displayName lang="en">dawadawa-tree TN_II.D.4.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.4.c">
-      <displayNames>
-        <displayName lang="en">bee TN_II.D.4.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.4.d">
+
+  <category code="TN_I.A.5">
+   <displayNames>
+    <displayName lang="en">materials TN_I.A.5</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.D.5">
-      <displayNames>
-        <displayName lang="en">market/trade TN_II.D.5</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.a">
-      <displayNames>
-        <displayName lang="en">money TN_II.D.5.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.a.i">
-      <displayNames>
-        <displayName lang="en">personal TN_II.D.5.a.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.a.ii">
-      <displayNames>
-        <displayName lang="en">bank, invest, interest ... TN_II.D.5.a.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.a.iii">
-      <displayNames>
-        <displayName lang="en">employ, wages, strike ... TN_II.D.5.a.iii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.b">
-      <displayNames>
-        <displayName lang="en">market TN_II.D.5.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.c">
-      <displayNames>
-        <displayName lang="en">commodities - salt TN_II.D.5.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.d">
-      <displayNames>
-        <displayName lang="en">eating-booth/'chop-bar' TN_II.D.5.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.e">
-      <displayNames>
-        <displayName lang="en">drinking-bar TN_II.D.5.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.f">
-      <displayNames>
-        <displayName lang="en">butcher TN_II.D.5.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.5.g">
-      <displayNames>
-        <displayName lang="en">fish TN_II.D.5.g</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6">
-      <displayNames>
-        <displayName lang="en">crafts TN_II.D.6</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.a">
-      <displayNames>
-        <displayName lang="en">spin-thread,to TN_II.D.6.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.b">
-      <displayNames>
-        <displayName lang="en">tailor TN_II.D.6.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.c">
-      <displayNames>
-        <displayName lang="en">leather-worker TN_II.D.6.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.d">
-      <displayNames>
-        <displayName lang="en">corn-mill TN_II.D.6.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.e">
-      <displayNames>
-        <displayName lang="en">carpenter TN_II.D.6.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.f">
-      <displayNames>
-        <displayName lang="en">potter TN_II.D.6.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.g">
-      <displayNames>
-        <displayName lang="en">blacksmith TN_II.D.6.g</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.g.i">
-      <displayNames>
-        <displayName lang="en">fine metalwork TN_II.D.6.g.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.h">
-      <displayNames>
-        <displayName lang="en">mason TN_II.D.6.h</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.h.i">
-      <displayNames>
-        <displayName lang="en">structure TN_II.D.6.h.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.h.ii">
-      <displayNames>
-        <displayName lang="en">roofing TN_II.D.6.h.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.h.iii">
-      <displayNames>
-        <displayName lang="en">fittings TN_II.D.6.h.iii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.h.iv">
-      <displayNames>
-        <displayName lang="en">decoration TN_II.D.6.h.iv</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.h]">
-      <displayNames>
-        <displayName lang="en">house (list) II.C.1 [building see TN_II.D.6.h]</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.i">
-      <displayNames>
-        <displayName lang="en">mat(sleeping-), rope... TN_II.D.6.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.j">
-      <displayNames>
-        <displayName lang="en">mining TN_II.D.6.j</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.k">
-      <displayNames>
-        <displayName lang="en">barber, hairdresser TN_II.D.6.k</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.6.l">
-      <displayNames>
-        <displayName lang="en">metal-worker TN_II.D.6.l</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.7">
-      <displayNames>
-        <displayName lang="en">transportation TN_II.D.7</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.7.a">
-      <displayNames>
-        <displayName lang="en">horse TN_II.D.7.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.7.b">
-      <displayNames>
-        <displayName lang="en">boat TN_II.D.7.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.7.c">
-      <displayNames>
-        <displayName lang="en">lorry/truck TN_II.D.7.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.7.d">
-      <displayNames>
-        <displayName lang="en">bicycle TN_II.D.7.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.7.e">
-      <displayNames>
-        <displayName lang="en">road TN_II.D.7.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.7.f">
-      <displayNames>
-        <displayName lang="en">train TN_II.D.7.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.7.g">
-      <displayNames>
-        <displayName lang="en">aeroplane TN_II.D.7.g</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.D.8">
-      <displayNames>
-        <displayName lang="en">cash economy TN_II.D.8</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E">
-      <displayNames>
-        <displayName lang="en">Social Life TN_II.E</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.">
-      <displayNames>
-        <displayName lang="en">human-classification TN_II.E.</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.1.a">
-      <displayNames>
-        <displayName lang="en">person TN_II.E.1.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.1.b">
-      <displayNames>
-        <displayName lang="en">ethnic-group/tribe TN_II.E.1.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.1.b.i">
+
+  <category code="TN_I.B">
+   <displayNames>
+    <displayName lang="en">Animals & Plants TN_I.B</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.E.1.c">
-      <displayNames>
-        <displayName lang="en">Kinship TN_II.E.1.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.1.d">
-      <displayNames>
-        <displayName lang="en">personal-names(with meanings) TN_II.E.1.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.1.e">
-      <displayNames>
-        <displayName lang="en">rich-man TN_II.E.1.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.2">
-      <displayNames>
-        <displayName lang="en">traditional-Authority TN_II.E.2</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.2.a">
-      <displayNames>
-        <displayName lang="en">chief TN_II.E.2.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.2.a.i">
-      <displayNames>
-        <displayName lang="en">regalia TN_II.E.2.a.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.2.b">
-      <displayNames>
-        <displayName lang="en">other TN_II.E.2.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.2.c">
-      <displayNames>
-        <displayName lang="en">hearing cases TN_II.E.2.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.3">
-      <displayNames>
-        <displayName lang="en">modern-Authority TN_II.E.3</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.3.a">
-      <displayNames>
-        <displayName lang="en">government TN_II.E.3.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.3.b">
-      <displayNames>
-        <displayName lang="en">police, prison TN_II.E.3.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.3.b.">
+
+  <category code="TN_I.B.1">
+   <displayNames>
+    <displayName lang="en">animals-wild TN_I.B.1</displayName>
+   </displayNames>
   </category>
-    <category code="TN_II.E.3.c">
-      <displayNames>
-        <displayName lang="en">school TN_II.E.3.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.3.d">
-      <displayNames>
-        <displayName lang="en">military TN_II.E.3.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.4">
-      <displayNames>
-        <displayName lang="en">personal-interaction TN_II.E.4</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.4.a">
-      <displayNames>
-        <displayName lang="en">love TN_II.E.4.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.4.b">
-      <displayNames>
-        <displayName lang="en">hate TN_II.E.4.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.4.c">
-      <displayNames>
-        <displayName lang="en">to-accompany TN_II.E.4.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.4.d">
-      <displayNames>
-        <displayName lang="en">to-hurt/injure TN_II.E.4.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5">
-      <displayNames>
-        <displayName lang="en">social-activities TN_II.E.5</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.a">
-      <displayNames>
-        <displayName lang="en">work-party/communal-labour TN_II.E.5.a</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.b">
-      <displayNames>
-        <displayName lang="en">funeral TN_II.E.5.b</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.c">
-      <displayNames>
-        <displayName lang="en">he-marries-her TN_II.E.5.c</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.d">
-      <displayNames>
-        <displayName lang="en">entertainment TN_II.E.5.d</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.d.i">
-      <displayNames>
-        <displayName lang="en">music TN_II.E.5.d.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.d.ii">
-      <displayNames>
-        <displayName lang="en">other TN_II.E.5.d.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.e">
-      <displayNames>
-        <displayName lang="en">story TN_II.E.5.e</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.f">
-      <displayNames>
-        <displayName lang="en">play, game TN_II.E.5.f</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.f.i">
-      <displayNames>
-        <displayName lang="en">football TN_II.E.5.f.i</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.f.ii">
-      <displayNames>
-        <displayName lang="en">cards TN_II.E.5.f.ii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.f.iii">
-      <displayNames>
-        <displayName lang="en">toy, doll TN_II.E.5.f.iii</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.g">
-      <displayNames>
-        <displayName lang="en">cigarette TN_II.E.5.g</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.h">
-      <displayNames>
-        <displayName lang="en">photograph TN_II.E.5.h</displayName>
-      </displayNames>
-    </category>
-    <category code="TN_II.E.5.i">
-      <displayNames>
-        <displayName lang="en">war TN_II.E.5.i</displayName>
-      </displayNames>
-    </category>
-  </categories>
-  <aboutDir/>
-  <settingsDir>C:\My Toolbox Projects\Nkonya\Settings</settingsDir>
-  <databaseTypeFilename>MDF.typ</databaseTypeFilename>
-  <homePage>
-    <topImage display="true">C:\Program Files\SIL\Lexique Pro\Display\homebanner1.jpg</topImage>
-    <bottomImage display="true">C:\Program Files\SIL\Lexique Pro\Display\homebanner2.jpg</bottomImage>
-  </homePage>
+
+  <category code="TN_I.B.1.a">
+   <displayNames>
+    <displayName lang="en">tail TN_I.B.1.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.1.b">
+   <displayNames>
+    <displayName lang="en">lion TN_I.B.1.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.2">
+   <displayNames>
+    <displayName lang="en">birds-wild TN_I.B.2</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.2.a">
+   <displayNames>
+    <displayName lang="en">feather TN_I.B.2.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.2.b">
+   <displayNames>
+    <displayName lang="en">eagle TN_I.B.2.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.3">
+   <displayNames>
+    <displayName lang="en">smaller-creatures TN_I.B.3</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.3.a">
+   <displayNames>
+    <displayName lang="en">poison/venom TN_I.B.3.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.3.b">
+   <displayNames>
+    <displayName lang="en">snake,amphibian/scorpion,spider TN_I.B.3.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.3.c">
+   <displayNames>
+    <displayName lang="en">insects TN_I.B.3.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.3.d">
+   <displayNames>
+    <displayName lang="en">fish TN_I.B.3.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.4">
+   <displayNames>
+    <displayName lang="en">trees TN_I.B.4</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.4.a">
+   <displayNames>
+    <displayName lang="en">root TN_I.B.4.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.4.b">
+   <displayNames>
+    <displayName lang="en">shea TN_I.B.4.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.5">
+   <displayNames>
+    <displayName lang="en">plants : plant products TN_I.B.5</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B.5.a">
+   <displayNames>
+    <displayName lang="en">leaf TN_I.B.5.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.B3.b">
+  </category>
+
+  <category code="TN_I.C">
+   <displayNames>
+    <displayName lang="en">Abstract-relationships TN_I.C</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.1">
+   <displayNames>
+    <displayName lang="en">Existence TN_I.C.1</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.1.a">
+   <displayNames>
+    <displayName lang="en">existence TN_I.C.1.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.1.b">
+   <displayNames>
+    <displayName lang="en">identity TN_I.C.1.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.1.c">
+   <displayNames>
+    <displayName lang="en">integrity TN_I.C.1.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.1.d">
+   <displayNames>
+    <displayName lang="en">life TN_I.C.1.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.1.e">
+   <displayNames>
+    <displayName lang="en">effect TN_I.C.1.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.1.f">
+   <displayNames>
+    <displayName lang="en">Exclamations TN_I.C.1.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.1d">
+  </category>
+
+  <category code="TN_I.C.2">
+   <displayNames>
+    <displayName lang="en">numeration TN_I.C.2</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.2.a">
+   <displayNames>
+    <displayName lang="en">numerals TN_I.C.2.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.2.b">
+   <displayNames>
+    <displayName lang="en">how much? TN_I.C.2.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.3">
+   <displayNames>
+    <displayName lang="en">space TN_I.C.3</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.3.a">
+   <displayNames>
+    <displayName lang="en">dimension TN_I.C.3.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.3.b">
+   <displayNames>
+    <displayName lang="en">form TN_I.C.3.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.3.c">
+   <displayNames>
+    <displayName lang="en">relationship TN_I.C.3.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.3.d">
+   <displayNames>
+    <displayName lang="en">motion TN_I.C.3.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.3.e">
+   <displayNames>
+    <displayName lang="en">location TN_I.C.3.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.3.f">
+   <displayNames>
+    <displayName lang="en">position TN_I.C.3.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4">
+   <displayNames>
+    <displayName lang="en">time TN_I.C.4</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4.a">
+  </category>
+
+  <category code="TN_I.C.4.a.i">
+   <displayNames>
+    <displayName lang="en">dimension TN_I.C.4.a.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4.a.ii">
+   <displayNames>
+    <displayName lang="en">change of ... TN_I.C.4.a.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4.a.iii">
+   <displayNames>
+    <displayName lang="en">location in, duration TN_I.C.4.a.iii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4.b">
+   <displayNames>
+    <displayName lang="en">specific TN_I.C.4.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4.b.ii">
+   <displayNames>
+    <displayName lang="en">change of ... TN_I.C.4.b.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4.c">
+   <displayNames>
+    <displayName lang="en">time-relations TN_I.C.4.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4.d.i">
+   <displayNames>
+    <displayName lang="en">phase of event TN_I.C.4.d.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.4.d.ii">
+   <displayNames>
+    <displayName lang="en">verbal-tenses/aspects TN_I.C.4.d.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.5">
+   <displayNames>
+    <displayName lang="en">logic TN_I.C.5</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6">
+   <displayNames>
+    <displayName lang="en">qualities TN_I.C.6</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6.a">
+   <displayNames>
+    <displayName lang="en">colour TN_I.C.6.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6.b">
+   <displayNames>
+    <displayName lang="en">flavour TN_I.C.6.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6.c">
+   <displayNames>
+    <displayName lang="en">texture TN_I.C.6.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6.d">
+   <displayNames>
+    <displayName lang="en">actions TN_I.C.6.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6.e">
+   <displayNames>
+    <displayName lang="en">imperfections TN_I.C.6.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6.f">
+   <displayNames>
+    <displayName lang="en">pattern TN_I.C.6.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6.g">
+   <displayNames>
+    <displayName lang="en">wet, cold &c TN_I.C.6.g</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.C.6.h">
+   <displayNames>
+    <displayName lang="en">sound TN_I.C.6.h</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.D">
+   <displayNames>
+    <displayName lang="en">States and Motions TN_I.D</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.D.1">
+   <displayNames>
+    <displayName lang="en">fall in drops TN_I.D.1</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_I.D.5.f">
+  </category>
+
+  <category code="TN_II">
+   <displayNames>
+    <displayName lang="en">HUMAN LIFE TN_II</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.2.a">
+  </category>
+
+  <category code="TN_II.A">
+   <displayNames>
+    <displayName lang="en">Human-body TN_II.A</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1">
+   <displayNames>
+    <displayName lang="en">whole/parts TN_II.A.1</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.">
+  </category>
+
+  <category code="TN_II.A.1.a">
+   <displayNames>
+    <displayName lang="en">body(whole) TN_II.A.1.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.b">
+   <displayNames>
+    <displayName lang="en">head TN_II.A.1.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.c">
+   <displayNames>
+    <displayName lang="en">neck TN_II.A.1.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.d">
+   <displayNames>
+    <displayName lang="en">lungs TN_II.A.1.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.e">
+   <displayNames>
+    <displayName lang="en">pubes TN_II.A.1.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.f">
+   <displayNames>
+    <displayName lang="en">arm-and-hand TN_II.A.1.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.g">
+   <displayNames>
+    <displayName lang="en">foot-and-leg TN_II.A.1.g</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.h">
+   <displayNames>
+    <displayName lang="en">skin,urine TN_II.A.1.h</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.1.i">
+   <displayNames>
+    <displayName lang="en">shadow TN_II.A.1.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.2">
+   <displayNames>
+    <displayName lang="en">bodily-functions (do/act behave) TN_II.A.2</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.2.a">
+   <displayNames>
+    <displayName lang="en">eat TN_II.A.2.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.2.b">
+   <displayNames>
+    <displayName lang="en">be-awake TN_II.A.2.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.2.c">
+   <displayNames>
+    <displayName lang="en">standing,be TN_II.A.2.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.2.d">
+   <displayNames>
+    <displayName lang="en">open-eyes TN_II.A.2.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.2.e">
+   <displayNames>
+    <displayName lang="en">shiver TN_II.A.2.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.2.f">
+   <displayNames>
+    <displayName lang="en">urinate TN_II.A.2.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.2a.">
+  </category>
+
+  <category code="TN_II.A.3">
+   <displayNames>
+    <displayName lang="en">perception TN_II.A.3</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.3.a">
+   <displayNames>
+    <displayName lang="en">sight TN_II.A.3.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.3.b">
+   <displayNames>
+    <displayName lang="en">hearing TN_II.A.3.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.3.c">
+   <displayNames>
+    <displayName lang="en">smell TN_II.A.3.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.3.d">
+   <displayNames>
+    <displayName lang="en">touch TN_II.A.3.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.3.e">
+   <displayNames>
+    <displayName lang="en">taste TN_II.A.3.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.a">
+   <displayNames>
+    <displayName lang="en">manipulation TN_II.A.4.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.b">
+   <displayNames>
+    <displayName lang="en">type-of-action TN_II.A.4.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.c">
+   <displayNames>
+    <displayName lang="en">position-of-object/s TN_II.A.4.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.d">
+   <displayNames>
+    <displayName lang="en">state-of-object TN_II.A.4.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.e">
+   <displayNames>
+    <displayName lang="en">construction/destruction TN_II.A.4.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.f">
+   <displayNames>
+    <displayName lang="en">active motion TN_II.A.4.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.f.i">
+   <displayNames>
+    <displayName lang="en">mode TN_II.A.4.f.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.f.ii">
+   <displayNames>
+    <displayName lang="en">source/goal TN_II.A.4.f.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.4.f.iii">
+   <displayNames>
+    <displayName lang="en">impact TN_II.A.4.f.iii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.5">
+   <displayNames>
+    <displayName lang="en">toilet TN_II.A.5</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.6">
+   <displayNames>
+    <displayName lang="en">health TN_II.A.6</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.6.a">
+   <displayNames>
+    <displayName lang="en">well,to be TN_II.A.6.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.6.b">
+   <displayNames>
+    <displayName lang="en">disease TN_II.A.6.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.6.c">
+   <displayNames>
+    <displayName lang="en">handicap TN_II.A.6.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.6.d">
+   <displayNames>
+    <displayName lang="en">medicine(modern)/(traditional) TN_II.A.6.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.6.e">
+   <displayNames>
+    <displayName lang="en">injury TN_II.A.6.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.A.6.f">
+   <displayNames>
+    <displayName lang="en">mental stress TN_II.A.6.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B">
+   <displayNames>
+    <displayName lang="en">Intellect TN_II.B</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.1">
+   <displayNames>
+    <displayName lang="en">mentation TN_II.B.1</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.1.a">
+   <displayNames>
+    <displayName lang="en">calculation TN_II.B.1.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.1.b">
+   <displayNames>
+    <displayName lang="en">expectation TN_II.B.1.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.2">
+   <displayNames>
+    <displayName lang="en">communication TN_II.B.2</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.2.a">
+   <displayNames>
+    <displayName lang="en">non-verbal TN_II.B.2.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.2.b">
+   <displayNames>
+    <displayName lang="en">verbal TN_II.B.2.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.2.b.i">
+   <displayNames>
+    <displayName lang="en">mode TN_II.B.2.b.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.2.b.ii">
+   <displayNames>
+    <displayName lang="en">content TN_II.B.2.b.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.2.c">
+   <displayNames>
+    <displayName lang="en">verbal interaction TN_II.B.2.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.3">
+   <displayNames>
+    <displayName lang="en">emotion TN_II.B.3</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.3.a.i">
+   <displayNames>
+    <displayName lang="en">positive emotions  TN_II.B.3.a.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.3.b">
+   <displayNames>
+    <displayName lang="en">exclamations TN_II.B.3.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.3.i">
+   <displayNames>
+    <displayName lang="en">positive emotions TN_II.B.3.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.3.ii">
+   <displayNames>
+    <displayName lang="en">negative emotions TN_II.B.3.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.4">
+   <displayNames>
+    <displayName lang="en">possession TN_II.B.4</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.4.a">
+   <displayNames>
+    <displayName lang="en">having, possessing TN_II.B.4.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.4.b">
+   <displayNames>
+    <displayName lang="en">change of possession TN_II.B.4.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.4.c">
+   <displayNames>
+    <displayName lang="en">desire TN_II.B.4.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.5">
+   <displayNames>
+    <displayName lang="en">values TN_II.B.5</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.5.a">
+   <displayNames>
+    <displayName lang="en">Good TN_II.B.5.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.5.a.i">
+   <displayNames>
+    <displayName lang="en">characteristics TN_II.B.5.a.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.5.a.ii">
+   <displayNames>
+    <displayName lang="en">events (luck, success) TN_II.B.5.a.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.5.b">
+   <displayNames>
+    <displayName lang="en">Bad TN_II.B.5.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.5.b.i">
+   <displayNames>
+    <displayName lang="en">characteristics TN_II.B.5.b.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.5.b.ii">
+   <displayNames>
+    <displayName lang="en">events (bad luck, catastrophe) TN_II.B.5.b.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.6">
+   <displayNames>
+    <displayName lang="en">Religion TN_II.B.6</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.6.a">
+   <displayNames>
+    <displayName lang="en">pagan TN_II.B.6.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.6.b">
+   <displayNames>
+    <displayName lang="en">Muslim TN_II.B.6.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.B.6.c">
+   <displayNames>
+    <displayName lang="en">Christian TN_II.B.6.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C">
+   <displayNames>
+    <displayName lang="en">Personal-Life TN_II.C</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.1">
+   <displayNames>
+    <displayName lang="en">house (list)TN_II.C.1</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.1.a">
+   <displayNames>
+    <displayName lang="en">town TN_II.C.1.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.1.bis">
+   <displayNames>
+    <displayName lang="en">house (plan) TN_II.C.1.bis</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.2">
+   <displayNames>
+    <displayName lang="en">domestic-equipment TN_II.C.2</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.2.a">
+   <displayNames>
+    <displayName lang="en">loads TN_II.C.2.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.2.a.ii">
+   <displayNames>
+    <displayName lang="en">pots TN_II.C.2.a.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.2.b">
+   <displayNames>
+    <displayName lang="en">fire TN_II.C.2.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.2.c">
+   <displayNames>
+    <displayName lang="en">stirring-stick TN_II.C.2.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.2.d">
+   <displayNames>
+    <displayName lang="en">bed TN_II.C.2.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.2.e">
+   <displayNames>
+    <displayName lang="en">water TN_II.C.2.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.2.f">
+   <displayNames>
+    <displayName lang="en">containers TN_II.C.2.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.3">
+   <displayNames>
+    <displayName lang="en">food-preparation/Consumption TN_II.C.3</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.3.a">
+   <displayNames>
+    <displayName lang="en">to-cook(gen) flavour TN_II.C.3.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.3.b">
+   <displayNames>
+    <displayName lang="en">slice,to TN_II.C.3.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.3.c">
+   <displayNames>
+    <displayName lang="en">flour TN_II.C.3.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.3.d">
+   <displayNames>
+    <displayName lang="en">onion-greens(dried-) TN_II.C.3.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.3.e">
+   <displayNames>
+    <displayName lang="en">pito TN_II.C.3.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.3.f">
+   <displayNames>
+    <displayName lang="en">consumption, meals TN_II.C.3.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.4">
+   <displayNames>
+    <displayName lang="en">dress and adornment TN_II.C.4</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.4.a">
+   <displayNames>
+    <displayName lang="en">to dress / undress TN_II.C.4.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.4.b">
+   <displayNames>
+    <displayName lang="en">loincloth/T-string TN_II.C.4.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.4.c">
+   <displayNames>
+    <displayName lang="en">beads(waist-) TN_II.C.4.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.4.d">
+   <displayNames>
+    <displayName lang="en">'lipstick'(red-greasy-cosmetic) TN_II.C.4.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.4.e">
+   <displayNames>
+    <displayName lang="en">wash(clothes),to TN_II.C.4.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.4.f">
+   <displayNames>
+    <displayName lang="en">hairdressing TN_II.C.4.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.C.5">
+   <displayNames>
+    <displayName lang="en">child-care TN_II.C.5</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.">
+   <displayNames>
+    <displayName lang="en">Economic-life TN_II.D.</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1">
+   <displayNames>
+    <displayName lang="en">farming TN_II.D.1</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1.a">
+   <displayNames>
+    <displayName lang="en">home-farm TN_II.D.1.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1.b">
+   <displayNames>
+    <displayName lang="en">tools TN_II.D.1.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1.b.bis">
+   <displayNames>
+    <displayName lang="en">tools(drawings) TN_II.D.1.b.bis</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1.c">
+   <displayNames>
+    <displayName lang="en">grain/cereal TN_II.D.1.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1.d">
+   <displayNames>
+    <displayName lang="en">yam TN_II.D.1.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1.e">
+   <displayNames>
+    <displayName lang="en">garden TN_II.D.1.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1.f">
+   <displayNames>
+    <displayName lang="en">gourd(plant) TN_II.D.1.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.1.g">
+   <displayNames>
+    <displayName lang="en">harvesting activities TN_II.D.1.g</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.2">
+   <displayNames>
+    <displayName lang="en">animal-husbandry TN_II.D.2</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.2.a">
+   <displayNames>
+    <displayName lang="en">bovine TN_II.D.2.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.2.b">
+   <displayNames>
+    <displayName lang="en">fowl TN_II.D.2.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.2.c">
+   <displayNames>
+    <displayName lang="en">raise(animals), to TN_II.D.2.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.2.d">
+   <displayNames>
+    <displayName lang="en">baskets, stables... TN_II.D.2.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.3">
+   <displayNames>
+    <displayName lang="en">fishing TN_II.D.3</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.4">
+   <displayNames>
+    <displayName lang="en">'bush'-products TN_II.D.4</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.4.a">
+   <displayNames>
+    <displayName lang="en">hunt(game),to TN_II.D.4.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.4.b">
+   <displayNames>
+    <displayName lang="en">dawadawa-tree TN_II.D.4.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.4.c">
+   <displayNames>
+    <displayName lang="en">bee TN_II.D.4.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.4.d">
+  </category>
+
+  <category code="TN_II.D.5">
+   <displayNames>
+    <displayName lang="en">market/trade TN_II.D.5</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.a">
+   <displayNames>
+    <displayName lang="en">money TN_II.D.5.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.a.i">
+   <displayNames>
+    <displayName lang="en">personal TN_II.D.5.a.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.a.ii">
+   <displayNames>
+    <displayName lang="en">bank, invest, interest ... TN_II.D.5.a.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.a.iii">
+   <displayNames>
+    <displayName lang="en">employ, wages, strike ... TN_II.D.5.a.iii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.b">
+   <displayNames>
+    <displayName lang="en">market TN_II.D.5.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.c">
+   <displayNames>
+    <displayName lang="en">commodities - salt TN_II.D.5.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.d">
+   <displayNames>
+    <displayName lang="en">eating-booth/'chop-bar' TN_II.D.5.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.e">
+   <displayNames>
+    <displayName lang="en">drinking-bar TN_II.D.5.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.f">
+   <displayNames>
+    <displayName lang="en">butcher TN_II.D.5.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.5.g">
+   <displayNames>
+    <displayName lang="en">fish TN_II.D.5.g</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6">
+   <displayNames>
+    <displayName lang="en">crafts TN_II.D.6</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.a">
+   <displayNames>
+    <displayName lang="en">spin-thread,to TN_II.D.6.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.b">
+   <displayNames>
+    <displayName lang="en">tailor TN_II.D.6.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.c">
+   <displayNames>
+    <displayName lang="en">leather-worker TN_II.D.6.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.d">
+   <displayNames>
+    <displayName lang="en">corn-mill TN_II.D.6.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.e">
+   <displayNames>
+    <displayName lang="en">carpenter TN_II.D.6.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.f">
+   <displayNames>
+    <displayName lang="en">potter TN_II.D.6.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.g">
+   <displayNames>
+    <displayName lang="en">blacksmith TN_II.D.6.g</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.g.i">
+   <displayNames>
+    <displayName lang="en">fine metalwork TN_II.D.6.g.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.h">
+   <displayNames>
+    <displayName lang="en">mason TN_II.D.6.h</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.h.i">
+   <displayNames>
+    <displayName lang="en">structure TN_II.D.6.h.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.h.ii">
+   <displayNames>
+    <displayName lang="en">roofing TN_II.D.6.h.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.h.iii">
+   <displayNames>
+    <displayName lang="en">fittings TN_II.D.6.h.iii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.h.iv">
+   <displayNames>
+    <displayName lang="en">decoration TN_II.D.6.h.iv</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.h]">
+   <displayNames>
+    <displayName lang="en">house (list) II.C.1 [building see TN_II.D.6.h]</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.i">
+   <displayNames>
+    <displayName lang="en">mat(sleeping-), rope... TN_II.D.6.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.j">
+   <displayNames>
+    <displayName lang="en">mining TN_II.D.6.j</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.k">
+   <displayNames>
+    <displayName lang="en">barber, hairdresser TN_II.D.6.k</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.6.l">
+   <displayNames>
+    <displayName lang="en">metal-worker TN_II.D.6.l</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.7">
+   <displayNames>
+    <displayName lang="en">transportation TN_II.D.7</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.7.a">
+   <displayNames>
+    <displayName lang="en">horse TN_II.D.7.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.7.b">
+   <displayNames>
+    <displayName lang="en">boat TN_II.D.7.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.7.c">
+   <displayNames>
+    <displayName lang="en">lorry/truck TN_II.D.7.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.7.d">
+   <displayNames>
+    <displayName lang="en">bicycle TN_II.D.7.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.7.e">
+   <displayNames>
+    <displayName lang="en">road TN_II.D.7.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.7.f">
+   <displayNames>
+    <displayName lang="en">train TN_II.D.7.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.7.g">
+   <displayNames>
+    <displayName lang="en">aeroplane TN_II.D.7.g</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.D.8">
+   <displayNames>
+    <displayName lang="en">cash economy TN_II.D.8</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E">
+   <displayNames>
+    <displayName lang="en">Social Life TN_II.E</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.">
+   <displayNames>
+    <displayName lang="en">human-classification TN_II.E.</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.1.a">
+   <displayNames>
+    <displayName lang="en">person TN_II.E.1.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.1.b">
+   <displayNames>
+    <displayName lang="en">ethnic-group/tribe TN_II.E.1.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.1.b.i">
+   <displayNames>
+    <displayName lang="en">Local place name TN_II.E.1.b.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.1.c">
+   <displayNames>
+    <displayName lang="en">Kinship TN_II.E.1.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.1.d">
+   <displayNames>
+    <displayName lang="en">personal-names(with meanings) TN_II.E.1.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.1.e">
+   <displayNames>
+    <displayName lang="en">rich-man TN_II.E.1.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.2">
+   <displayNames>
+    <displayName lang="en">traditional-Authority TN_II.E.2</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.2.a">
+   <displayNames>
+    <displayName lang="en">chief TN_II.E.2.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.2.a.i">
+   <displayNames>
+    <displayName lang="en">regalia TN_II.E.2.a.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.2.b">
+   <displayNames>
+    <displayName lang="en">other TN_II.E.2.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.2.c">
+   <displayNames>
+    <displayName lang="en">hearing cases TN_II.E.2.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.3">
+   <displayNames>
+    <displayName lang="en">modern-Authority TN_II.E.3</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.3.a">
+   <displayNames>
+    <displayName lang="en">government TN_II.E.3.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.3.b">
+   <displayNames>
+    <displayName lang="en">police, prison TN_II.E.3.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.3.c">
+   <displayNames>
+    <displayName lang="en">school TN_II.E.3.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.3.d">
+   <displayNames>
+    <displayName lang="en">military TN_II.E.3.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.4">
+   <displayNames>
+    <displayName lang="en">personal-interaction TN_II.E.4</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.4.a">
+   <displayNames>
+    <displayName lang="en">love TN_II.E.4.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.4.b">
+   <displayNames>
+    <displayName lang="en">hate TN_II.E.4.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.4.c">
+   <displayNames>
+    <displayName lang="en">to-accompany TN_II.E.4.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.4.d">
+   <displayNames>
+    <displayName lang="en">to-hurt/injure TN_II.E.4.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5">
+   <displayNames>
+    <displayName lang="en">social-activities TN_II.E.5</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.a">
+   <displayNames>
+    <displayName lang="en">work-party/communal-labour TN_II.E.5.a</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.b">
+   <displayNames>
+    <displayName lang="en">funeral TN_II.E.5.b</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.c">
+   <displayNames>
+    <displayName lang="en">he-marries-her TN_II.E.5.c</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.d">
+   <displayNames>
+    <displayName lang="en">entertainment TN_II.E.5.d</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.d.i">
+   <displayNames>
+    <displayName lang="en">music TN_II.E.5.d.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.d.ii">
+   <displayNames>
+    <displayName lang="en">other TN_II.E.5.d.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.e">
+   <displayNames>
+    <displayName lang="en">story TN_II.E.5.e</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.f">
+   <displayNames>
+    <displayName lang="en">play, game TN_II.E.5.f</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.f.i">
+   <displayNames>
+    <displayName lang="en">football TN_II.E.5.f.i</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.f.ii">
+   <displayNames>
+    <displayName lang="en">cards TN_II.E.5.f.ii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.f.iii">
+   <displayNames>
+    <displayName lang="en">toy, doll TN_II.E.5.f.iii</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.g">
+   <displayNames>
+    <displayName lang="en">cigarette TN_II.E.5.g</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.h">
+   <displayNames>
+    <displayName lang="en">photograph TN_II.E.5.h</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_II.E.5.i">
+   <displayNames>
+    <displayName lang="en">war TN_II.E.5.i</displayName>
+   </displayNames>
+  </category>
+
+ </categories>
+
+ <aboutDir></aboutDir>
+ <settingsDir>C:\My Toolbox Projects\Nkonya\Settings</settingsDir>
+ <databaseTypeFilename>MDF.typ</databaseTypeFilename>
+
+ <homePage>
+  <topImage display="true">C:\Program Files\SIL\Lexique Pro\Display\homebanner1.jpg</topImage>
+  <bottomImage display="true">C:\Program Files\SIL\Lexique Pro\Display\homebanner2.jpg</bottomImage>
+ </homePage>
+
 </lexiqueProConfig>
