@@ -11,6 +11,13 @@
 \mkrOverThis id
 \-mkr
 
+\+mkr dt
+\nam Date
+\desc date of last edit
+\lng Date
+\mkrOverThis id
+\-mkr
+
 \+mkr ft
 \nam Free Translation
 \desc Free translation of the referenced text unit. This is not used or modified during interlinearization. It is information to clarify the meaning of the text.
@@ -80,7 +87,7 @@
 \+mkr nt
 \nam Notes
 \desc Notes on the referenced text unit. Useful for explanation, clarification, questions, etc.
-\lng English
+\lng vernacular
 \mkrOverThis ref
 \-mkr
 
@@ -328,6 +335,7 @@
 \fld \tx
 \-template
 \mkrRecord id
+\mkrDateStamp dt
 \mkrTextRef ref
 \+PrintProperties 
 \header File: &f, Date: &d

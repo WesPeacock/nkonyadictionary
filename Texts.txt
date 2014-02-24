@@ -50,8 +50,396 @@ bɔnbɔntɩ, tsitsifɔ, vunvuun
 \ge good     so_that- they- give you(pl) peace
 \ps ADJ      CNJ-     PRO-  v    PRO     n
 
+\id test
+\ref New entries Test Record
+\tx
+\nt To use this setup, 
+1. copy the words into x.tmp
+2. run the perl script below to change upper to lower case
+3. copy text from y.tmp into the record below labelled "NOT TESTED"
+4. right click on a word to be tested
+5. if it's in the lexical file delete it If it's not move it to the words to be added
+6. From time to time move the words in TO BE ADDED to the next record (New entries To be added)
+
+perl -ape "use locale; tr/A-ZƐƖŊƆƲ/a-zɛɩŋɔʋ/;" x.tmp >y.tmp
+not tested means that they haven't been tested in the lexical file with a  "jump to".
+\nt TO BE ADDED
+
+\nt NOT TESTED
+From unglossed/animals table.odt
+ntsusʋ-obubwi
+1 mbubwi fulihɛ
+ɔsankɩ / ɔmaɩn-agyafwɩ
+1 mbubwi fulihɛ
+tsakplo
+1 mbubwi fulihɛ
+opoyoo
+1 mbubwi fulihɛ
+pɔtɔpɔlɩ
+1 mbubwi fulihɛ
+ogyikegyike
+1 mbubwi fulihɛ
+okulenke
+1 mbubwi fulihɛ
+klɛkpakpa
+1 mbubwi fulihɛ
+asuakwa
+1 mbubwi fulihɛ
+afuli-obubwi
+1 mbubwi fulihɛ
+nkredenkrede
+1 mbubwi fulihɛ
+tɛpɛ/tɔpɛ
+1 mbubwi fulihɛ
+ɩkatɔ obubwi
+1 mbubwi fulihɛ
+pɔplɔ
+1 mbubwi fulihɛ
+nwɩtsɛ
+1 mbubwi fulihɛ
+akɔkɔdwiedwie
+1 mbubwi fulihɛ
+
+abrɛ 
+2 awatɛ mbwɩ
+afrimu 
+2 awatɛ mbwɩ
+fʋlɩtɩ 
+2 awatɛ mbwɩ
+gyasɩɛpɛ 
+2 awatɛ mbwɩ
+kpala 
+2 awatɛ mbwɩ
+kpɔsɔ 
+2 awatɛ mbwɩ
+kpʋkpʋ 
+2 awatɛ mbwɩ
+landuu 
+2 awatɛ mbwɩ
+nani 
+2 awatɛ mbwɩ
+okpokpo
+2 awatɛ mbwɩ
+ɔnantswie 
+2 awatɛ mbwɩ
+ɔnantswiebi 
+2 awatɛ mbwɩ
+ɔpɔnkɔ 
+2 awatɛ mbwɩ
+ɔprakuo 
+2 awatɛ mbwɩ
+ɔsantɩ 
+2 awatɛ mbwɩ
+tiapʋ 
+2 awatɛ mbwɩ
+trʋkpa
+2 awatɛ mbwɩ
+tsɔn
+2 awatɛ mbwɩ
+akuagyeyi
+2 awatɛ mbwɩ
+adʋwa
+2 awatɛ mbwɩ
+ofifigyiofi-ɔkwɛnsiebi
+2 awatɛ mbwɩ
+ɔtʋnkpa
+2 awatɛ mbwɩ
+fewun
+2 awatɛ mbwɩ
+duu
+2 awatɛ mbwɩ
+andɔbi 
+3 mbwɩkɩtatɔ
+dakpikpi 
+3 mbwɩkɩtatɔ
+dundu 
+3 mbwɩkɩtatɔ
+gyata 
+3 mbwɩkɩtatɔ
+ɩsʋn
+3 mbwɩkɩtatɔ
+kɩaɩ 
+3 mbwɩkɩtatɔ
+ɔkpataku 
+3 mbwɩkɩtatɔ
+tsamboyi 
+3 mbwɩkɩtatɔ
+bʋtɩ 
+4 awɔ
+ɔtsrɩbɩ 
+4 awɔ
+sapa 
+4 awɔ
+tsingbini 
+4 awɔ
+baba 
+5 ntɔntrɔbwɩ
+bɔnbɔntɩ 
+5 ntɔntrɔbwɩ
+damantsu 
+5 ntɔntrɔbwɩ
+dɩba 
+5 ntɔntrɔbwɩ
+finfi 
+5 ntɔntrɔbwɩ
+gyawugya 
+5 ntɔntrɔbwɩ
+konya 
+5 ntɔntrɔbwɩ
+
+
+kɔklɔ 
+5 ntɔntrɔbwɩ
+ofutikokoni 
+5 ntɔntrɔbwɩ
+ɔkpan 
+5 ntɔntrɔbwɩ
+opeble
+6 mbiɛn
+obiɛn pɛpɛ
+6 mbiɛn
+ɔblantɩɩ
+6 mbiɛn
+apɩpɩ
+6 mbiɛn
+adɔdɩ
+6 mbiɛn
+buluobiɛn
+6 mbiɛn
+mpumpuun
+6 mbiɛn
+dango 
+7 aklɔtɩ
+gyabɛ 
+7 aklɔtɩ
+klatɩ 
+7 aklɔtɩ
+klɔtɩ 
+7 aklɔtɩ
+klɔtɩbʋodu 
+7 aklɔtɩ
+kɔtɔkɔ 
+7 aklɔtɩ
+kpasi 
+7 aklɔtɩ
+oklemgbe 
+7 aklɔtɩ
+ɔhan 
+7 aklɔtɩ
+ɔtɛ 
+7 aklɔtɩ
+ɔtsakpa 
+7 aklɔtɩ
+wɩa 
+7 aklɔtɩ
+deyi 
+8 adeyi
+kpantsa 
+8 adeyi
+kɩtɩ 
+9 akɩtɩ
+kɩtɩblʋn 
+9 akɩtɩ
+lata 
+9 akɩtɩ
+lɛnkɛ 
+9 akɩtɩ
+lɛnkɛkpan 
+9 akɩtɩ
+ogbon 
+9 akɩtɩ
+ologyo
+9 akɩtɩ
+oloo 
+9 akɩtɩ
+oswie 
+9 akɩtɩ
+ɔblankɩtɩ 
+9 akɩtɩ
+srʋfɔ 
+10 mbwɩá bʋbʋ ɩsɛ
+batafɔ
+10 mbwɩá bʋbʋ ɩsɛ
+lembu 
+11 asawun
+ɔklɛbɔ 
+11 asawun
+sawun 
+11 asawun
+odupɛpɛ
+12 aklɛmɛtɩ
+klɛmɛtɩ 
+12 aklɛmɛtɩ
+ogbangba 
+12 aklɛmɛtɩ
+okikie 
+12 aklɛmɛtɩ
+okuabi 
+12 aklɛmɛtɩ
+okuku 
+12 aklɛmɛtɩ
+opitre 
+12 aklɛmɛtɩ
+apatrawa
+12 aklɛmɛtɩ
+ɔkpɩnkɩ
+12 aklɛmɛtɩ
+numelesi
+12 aklɛmɛtɩ
+agbasra
+12 aklɛmɛtɩ
+gɔdɔgɔ
+12 aklɛmɛtɩ
+sila
+12 aklɛmɛtɩ
+ɔdɔn
+12 aklɛmɛtɩ
+apofra
+12 aklɛmɛtɩ
+ɔbʋanyɔpʋ
+12 aklɛmɛtɩ
+klɛmɛtɩwɔ
+12 aklɛmɛtɩ
+nyankpʋkpie
+13 anatɩ
+natɩkɛsɩɛ
+13 anatɩ
+tsankasɩbibi
+13 anatɩ
+asaan 
+13 anatɩ
+natɩ 
+13 anatɩ
+
+
+ɔkɔtɔ 
+13 anatɩ
+nfa 
+14 atsankasɩ
+tsankasɩ 
+14 atsankasɩ
+
+
+gyongyo 
+15 agyongyo
+okle 
+15 agyongyo
+tsitsifɔ 
+16 asisa
+ɔwɔntɩntsu 
+16 asisa
+sisa 
+16 asisa
+sʋrama 
+16 asisa
+wʋlʋ 
+16 asisa
+wʋnsa 
+16 asisa
+mlambwɩ
+16 asisa
+dankɔntɩ
+16 asisa
+nwunkpo
+16 asisa
+kpikplibi
+16 asisa
+apusuglo
+16 asisa
+sisankpa
+16 asisa
+ntumbua
+16 asisa
+okekrebegye
+16 asisa
+anantʋprɛdɛ
+16 asisa
+bɔnbɔntɩ
+16 asisa
+tsantsankʋ 
+17 nkɛkɛ
+fantɩ 
+17 nkɛkɛ
+konkolibatɛ 
+17 nkɛkɛ
+konkolifi 
+17 nkɛkɛ
+kponkpoli 
+17 nkɛkɛ
+ogyaŋɛ 
+17 nkɛkɛ
+ɔkɛkɛ
+17 nkɛkɛ
+ɔtswɩnkɩ 
+17 nkɛkɛ
+tɛplɛ
+17 nkɛkɛ
+
+
+dakpadakpa 
+18 aŋlawun
+ŋlanwun 
+18 aŋlawun
+tsantsraku 
+18 aŋlawun
+fonflo 
+19 anyambi
+kian
+19 anyambi
+nyambi 
+19 anyambi
+tɔsɩ 
+19 anyambi
+gyagyakpʋn
+20 agyagya
+gyagyakutibii
+20 agyagya
+gyagya
+20 agyagya
+krʋkʋta
+21 mbubwi
+asege
+21 mbubwi
+nwuntɔ-obubwi
+\dt 24/Feb/2014
+
+\id test
+\ref New entries To be added
+\tx
+\nt To use this setup, 
+1. copy the words into x.tmp
+2. run the perl script below to change upper to lower case
+3. copy text from y.tmp into the record below labelled "NOT TESTED"
+4. right click on a word to be tested
+5. if it's in the lexical file delete it If it's not move it to the words to be added
+6. 
+
+perl -ape "use locale; tr/A-ZƐƖŊƆƲ/a-zɛɩŋɔʋ/;" x.tmp >y.tmp
+not tested means that they haven't been tested in the lexical file with a  "jump to".
+\nt TO BE ADDED
+nkitadɩ
+tsɔn
+akuagyeyi
+adʋwa
+ofifigyiofi-ɔkwɛnsiebi
+ɔtʋnkpa
+fewun
+duu
+ɩsʋn
+lɔpɔ
+lɔpɔtemgbe
+olopogyasi
+1 mbubwi fulihɛ
+ntsusʋ kpakpa
+ɔkpɛpʋ obubwi
+ɔpʋtsatsa
+kwakɩ
+
+\dt 24/Feb/2014
+
 \id _some interesting stuff
-\nt echo "
+\nt # cleans up multiple lines into a single comma delimed entry
+echo "
 paste from a document here
 yada
 yada yada
@@ -59,3 +447,4 @@ yada yada yada
 " >x.tmp
 tr "\n" "," <x.tmp | sed 's#/# / #g' | sed 's/,/, /g' |sed 's/ ,/, /g' |sed -e  's/ +/ /g' |tee xx.tmp
 
+\dt 24/Feb/2014
