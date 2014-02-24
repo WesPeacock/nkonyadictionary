@@ -5,7 +5,7 @@
 <!-- Database: Nkolex in Unicode.txt -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2014-02-08T21:04:15">
+<lexiqueProConfig version="3.6" dateModified="2014-02-18T11:11:49">
 
  <encoding type="UTF-8"/>
 
@@ -1296,8 +1296,11 @@
  <categories visible="true" style="user">
   <category code="TN_">
    <displayNames>
-    <displayName lang="en">Missing Category</displayName>
+    <displayName lang="en">Bad Category</displayName>
    </displayNames>
+   <descriptions>
+    <description lang="en">Uncategorized Entries should be TN_ZZ, so they appear at the end of the list</description>
+   </descriptions>
   </category>
 
   <category code="TN_I">
@@ -2948,6 +2951,21 @@
    <displayNames>
     <displayName lang="en">war TN_II.E.5.i</displayName>
    </displayNames>
+  </category>
+
+  <category code="TN_I.C.3">
+   <displayNames>
+    <displayName lang="en">Space TN_I.C.3</displayName>
+   </displayNames>
+  </category>
+
+  <category code="TN_ZZ">
+   <displayNames>
+    <displayName lang="en">Uncategorized TN_ZZ</displayName>
+   </displayNames>
+   <descriptions>
+    <description lang="en">Most of these have a valid category but have not been tagged</description>
+   </descriptions>
   </category>
 
  </categories>
