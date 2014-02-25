@@ -1,4 +1,4 @@
-\_sh v3.0  400  Text
+\_sh v3.0  745  Text
 
 \id ants
 \ref
@@ -55,13 +55,18 @@ bɔnbɔntɩ, tsitsifɔ, vunvuun
 \tx
 \nt To use this setup, 
 1. copy the words into x.tmp
-2. run the perl script below to change upper to lower case
+2. run one of the perl script below to change upper to lower case
 3. copy text from y.tmp into the record below labelled "NOT TESTED"
 4. right click on a word to be tested
 5. if it's in the lexical file delete it If it's not move it to the words to be added
 6. From time to time move the words in TO BE ADDED to the next record (New entries To be added)
 
+On Linux with a UTF-8 locale you can use the following command line from the terminal
 perl -ape "use locale; tr/A-ZƐƖŊƆƲ/a-zɛɩŋɔʋ/;" x.tmp >y.tmp
+On Windows or Linux (have to modify the path to use back or forward slashes)
+perl -apf "\My Toolbox Projects\Nkonya\Scripts\lowernkonya.pl" <x.tmp >y.tmp
+
+
 not tested means that they haven't been tested in the lexical file with a  "jump to".
 \nt TO BE ADDED
 
