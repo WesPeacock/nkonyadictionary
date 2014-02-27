@@ -80,7 +80,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri potofi
+\fldPri kensire
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -98,7 +98,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 673 0 25 30 30 1216 476
-\z 6
+\z 4
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -130,7 +130,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri potofi
+\fldPri kensire
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -149,7 +149,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 637 0 25 474 36 1516 589
-\z 11
+\z 7
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -181,7 +181,7 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey potofi
+\fldPriKey kensire
 \fldSecKey
 \-rec
 \+keySearch 
@@ -193,9 +193,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 11
-\CaretLineScroll 11
-\CaretChar 11
+\CaretLine 4
+\CaretLineScroll 4
+\CaretChar 7
 \-wnd
 \+wnd 
 \placement normal 0 25 0 25 138 138 1153 662
@@ -253,7 +253,7 @@
 \-wnd
 \+wnd 
 \placement normal 0 25 0 24 367 0 1274 780
-\z 5
+\z 3
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -308,7 +308,7 @@
 \-wnd
 \+wnd 
 \placement normal 0 875 0 24 50 64 1329 710
-\z 7
+\z 5
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -357,7 +357,7 @@
 \-wnd
 \+wnd 
 \placement min 21 698 0 24 54 80 1494 726
-\z 9
+\z 6
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -408,7 +408,7 @@
 \-wnd
 \+wnd 
 \placement normal 0 0 0 0 0 0 1338 501
-\z 8
+\z 11
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -451,9 +451,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 9
+\CaretLineScroll 9
+\CaretChar 42
 \-wnd
 \-wndlst
 \-db
@@ -462,7 +462,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 120 120 1306 566
-\z 10
+\z 8
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -493,7 +493,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri potofi
+\fldPri kensire
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -512,7 +512,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 160 729 0 25 323 203 1463 667
-\z 12
+\z 9
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -540,9 +540,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 10
-\CaretLineScroll 7
-\CaretChar 396
+\CaretLine 11
+\CaretLineScroll 8
+\CaretChar 453
 \-wnd
 \-wndlst
 \-db
@@ -551,7 +551,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 729 0 24 348 230 960 684
-\z 4
+\z 2
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -584,7 +584,7 @@
 \fldPriKey sd Tony Naden
 \-rec
 \+keySearch 
-\fldPri LUK.12:1
+\fldPri use, to make use of
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -600,10 +600,11 @@
 \-db
 
 \+db C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
+\ReadOnly
 \+wndlst 
 \+wnd 
-\placement normal 0 25 0 24 0 0 479 651
-\z 2
+\placement normal 0 25 0 24 0 0 366 651
+\z 10
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -613,21 +614,21 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr wd
-\width 259
+\width 185
 \-brf
 \+brf 
 \mkr is
-\width 195
+\width 156
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey wd
 \srtPriKey ThesEng
-\mkrSecKey is
+\mkrSecKey td
 \-ind
 \+rec 
-\fldPriKey bitterness
-\fldSecKey I.C.6.b
+\fldPriKey use, to make use of
+\fldSecKey 29/May/2013
 \-rec
 \+keySearch 
 \fldPri References
@@ -637,50 +638,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 4
-\CaretLineScroll 4
-\CaretChar 11
-\-wnd
-\+wnd 
-\placement normal 0 24 0 24 253 253 1436 798
-\z 3
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr wd
-\width 375
-\-brf
-\+brf 
-\mkr thes
-\width 375
-\-brf
-\+brf 
-\mkr is
-\width 401
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey wd
-\srtPriKey ThesEng
-\-ind
-\+rec 
-\fldPriKey hesitate
-\-rec
-\+keySearch 
-\fldPri speech
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 4
-\CaretLineScroll 4
-\CaretChar 11
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \-wnd
 \-wndlst
 \-db

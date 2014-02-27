@@ -52,7 +52,7 @@
 
 \+mkr td
 \nam thesaurus date
-\lng Default
+\lng Date
 \mkrOverThis wd
 \-mkr
 
