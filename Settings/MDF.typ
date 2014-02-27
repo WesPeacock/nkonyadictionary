@@ -877,6 +877,9 @@
 \+fil Affixes
 \mkr lx
 \txt -
+\fel Or
+\mkr va
+\txt -
 \match_char i
 \-fil
 
@@ -1036,10 +1039,19 @@
 \-expRTF
 
 \+expSF Standard Format
+\exportedFile C:\My Toolbox Projects\NkonyaAffixes.sfm
+\+mkrsubsetIncluded 
+\mkr de
+\mkr ge
+\mkr lx
+\mkr ps
+\mkr sn
+\mkr va
+\-mkrsubsetIncluded
 \-expSF
 
-\expDefault Multi-Dictionary Formatter
-\CurrentRecord
+\expDefault Standard Format
+\CurrentWindow
 \-expset
 \PreventNumbering
 \DisableNumbering
