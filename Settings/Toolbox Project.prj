@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.6.0 Apr 2013 for Linux Wine Windows emulator
+\ProgramVersion 1.6.1 Jun 2013
 \ProjectPath C:\My Toolbox Projects\Nkonya\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -40,15 +40,35 @@
 \Size 10
 \-fntMarkers
 \+rundosMarkers 
+\command echo cele | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo wedding | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo marrow | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo bone| bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo above | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo genero | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo emot | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo grief | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo pain | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo arthri | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo season | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo name | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo rej | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo cel | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo jcel | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo jub | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo cel | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo celbr | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo maize | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo test | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \-rundosMarkers
-\placementMain max 0 0 -4 29 30 76 1373 859
+\placementMain max -1 -1 -1 -1 30 76 1373 859
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 0 0 1186 446
-\z 0
+\z 1
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 150
@@ -67,7 +87,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 792
+\width 784
 \-brf
 \-brflst
 \+ind 
@@ -80,7 +100,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ánɩ́
+\fldPri ba
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -98,7 +118,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 673 0 25 30 30 1216 476
-\z 10
+\z 11
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -117,7 +137,7 @@
 \-brf
 \+brf 
 \mkr mr
-\width 402
+\width 394
 \-brf
 \-brflst
 \+ind 
@@ -126,11 +146,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey n-
+\fldPriKey ba-
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ánɩ́
+\fldPri ba
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -145,323 +165,11 @@
 \-wndlst
 \-db
 
-\+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
-\+wndlst 
-\+wnd 
-\placement normal 0 637 0 25 474 36 1516 589
-\z 6
-\ViewMarkers
-\ViewMarkerHierarchy
-\ViewFieldNames
-\widthMarkerArea 165
-\JumpTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 213
-\-brf
-\+brf 
-\mkr ph
-\width 213
-\-brf
-\+brf 
-\mkr ps
-\width 213
-\-brf
-\+brf 
-\mkr ge
-\width 364
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey hm
-\-ind
-\+rec 
-\fldPriKey kensire
-\fldSecKey
-\-rec
-\+keySearch 
-\fldPri LUK.12:1
-\match_char p
-\-keySearch
-\+keyInsert 
-\fldPri zzzTesttext
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 4
-\CaretLineScroll 4
-\CaretChar 7
-\-wnd
-\+wnd 
-\placement normal 0 25 0 25 138 138 1153 662
-\z 1
-\ViewMarkers
-\ViewMarkerHierarchy
-\ViewFieldNames
-\widthMarkerArea 165
-\JumpTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 189
-\-brf
-\+brf 
-\mkr ph
-\width 189
-\-brf
-\+brf 
-\mkr ps
-\width 189
-\-brf
-\+brf 
-\mkr ge
-\width 189
-\-brf
-\+brf 
-\mkr sd
-\width 213
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey hm
-\-ind
-\+rec 
-\fldPriKey tasii
-\fldSecKey
-\-rec
-\+keySearch 
-\fldPri LUK.12:1
-\match_char p
-\-keySearch
-\+keyInsert 
-\fldPri da wa
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 10
-\CaretLineScroll 10
-\CaretChar 11
-\-wnd
-\+wnd 
-\placement normal 0 25 0 24 367 0 1274 780
-\z 3
-\ViewMarkers
-\ViewMarkerHierarchy
-\ViewFieldNames
-\widthMarkerArea 165
-\Browse
-\JumpTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 138
-\-brf
-\+brf 
-\mkr ph
-\width 138
-\-brf
-\+brf 
-\mkr pl
-\width 138
-\-brf
-\+brf 
-\mkr ps
-\width 138
-\-brf
-\+brf 
-\mkr ge
-\width 138
-\-brf
-\+brf 
-\mkr sd
-\width 148
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey ph
-\-ind
-\+rec 
-\fldPriKey faan
-\fldSecKey fãː
-\-rec
-\+keySearch 
-\fldPri LUK.12:1
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\-wnd
-\+wnd 
-\placement normal 0 875 0 24 50 64 1329 710
-\z 4
-\ViewMarkers
-\ViewMarkerHierarchy
-\ViewFieldNames
-\widthMarkerArea 165
-\JumpTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 213
-\-brf
-\+brf 
-\mkr ph
-\width 213
-\-brf
-\+brf 
-\mkr ps
-\width 213
-\-brf
-\+brf 
-\mkr ge
-\width 601
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey va
-\-ind
-\+rec 
-\fldPriKey klinklin
-\fldSecKey
-\-rec
-\+keySearch 
-\fldPri LUK.12:1
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 10
-\CaretLineScroll 10
-\CaretChar 11
-\-wnd
-\+wnd 
-\placement min 21 698 0 24 54 80 1494 726
-\z 5
-\ViewMarkers
-\ViewMarkerHierarchy
-\ViewFieldNames
-\widthMarkerArea 165
-\JumpTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 162
-\-brf
-\+brf 
-\mkr pl
-\width 162
-\-brf
-\+brf 
-\mkr ps
-\width 162
-\-brf
-\+brf 
-\mkr ge
-\width 163
-\-brf
-\+brf 
-\mkr sd
-\width 745
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey pl
-\srtPriKey NkonyaU
-\-ind
-\+rec 
-\fldPriKey mpɩm
-\-rec
-\+keySearch 
-\fldPri LUK.12:1
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 6
-\CaretLineScroll 6
-\CaretChar 4
-\-wnd
-\+wnd 
-\placement normal 0 0 0 0 0 0 1338 501
-\z 11
-\ViewMarkers
-\ViewMarkerHierarchy
-\ViewFieldNames
-\widthMarkerArea 165
-\Browse
-\JumpTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 213
-\-brf
-\+brf 
-\mkr ph
-\width 213
-\-brf
-\+brf 
-\mkr ps
-\width 213
-\-brf
-\+brf 
-\mkr ge
-\width 644
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey hm
-\fil Affixes
-\-ind
-\+rec 
-\fldPriKey ánɩ́
-\fldSecKey
-\-rec
-\+keySearch 
-\fldPri LUK.12:1
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\-wnd
-\-wndlst
-\-db
-
 \+db C:\My Toolbox Projects\Nkonya\Keyterms Dictionary.txt
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 120 120 1306 566
-\z 7
+\z 3
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -479,7 +187,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 402
+\width 394
 \-brf
 \-brflst
 \+ind 
@@ -492,7 +200,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ánɩ́
+\fldPri ba
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -507,50 +215,11 @@
 \-wndlst
 \-db
 
-\+db C:\My Toolbox Projects\Nkonya\Texts.txt
-\+wndlst 
-\+wnd 
-\placement normal 160 729 0 25 323 203 1463 667
-\z 8
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr ref
-\width 1122
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey ref
-\srtPriKey English
-\-ind
-\+rec 
-\fldPriKey New entries Test Record
-\-rec
-\+keySearch 
-\fldPri References
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 11
-\CaretLineScroll 8
-\CaretChar 453
-\-wnd
-\-wndlst
-\-db
-
 \+db C:\My Toolbox Projects\Nkonya\MDFields19a.txt
 \+wndlst 
 \+wnd 
-\placement normal 0 729 0 24 348 230 960 684
-\z 2
+\placement normal 0 729 0 24 379 288 991 742
+\z 5
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -572,7 +241,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 79
+\width 71
 \-brf
 \-brflst
 \+ind 
@@ -599,11 +268,98 @@
 \-db
 
 \+db C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
-\ReadOnly
 \+wndlst 
 \+wnd 
-\placement normal 0 25 0 24 0 0 366 651
+\placement normal 0 25 0 24 0 0 352 651
 \z 9
+\ViewMarkers
+\widthMarkerArea 50
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 188
+\-brf
+\+brf 
+\mkr is
+\width 114
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey is
+\srtPriKey ThesClass
+\mkrSecKey wd
+\-ind
+\+rec 
+\fldPriKey II.E.1.a
+\fldSecKey someone, anyone
+\-rec
+\+keySearch 
+\fldPri References
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\fldPriKey pouffe _see_ cushion
+\fldSecKey X-ref
+>>>>>>> Stashed changes
+\-rec 
+\-wnd
+\+wnd 
+\placement normal 0 24 0 24 253 253 1436 798
+\z 4
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 375
+\-brf
+\+brf 
+\mkr thes
+\width 375
+\-brf
+\+brf 
+\mkr is
+\width 393
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey ThesEng
+\-ind
+\+rec 
+\fldPriKey hesitate
+\-rec
+\+keySearch 
+\fldPri speech
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 4
+\CaretLineScroll 4
+\CaretChar 11
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\tmp\xx.txt
+\+wndlst 
+\+wnd 
+\placement min 0 773 -1 -1 23 23 1206 568
+\z 0
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -612,25 +368,18 @@
 \FieldEmptyEntry *empty*
 \NoFieldEntry *no field*
 \+brf 
-\mkr wd
-\width 185
-\-brf
-\+brf 
-\mkr is
-\width 156
+\mkr ref
+\width 1157
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey wd
-\srtPriKey ThesEng
-\mkrSecKey td
+\mkrPriKey ref
+\srtPriKey English
 \-ind
 \+rec 
-\fldPriKey use, to make use of
-\fldSecKey 29/May/2013
+\fldPriKey
 \-rec
 \+keySearch 
-\fldPri References
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -644,43 +393,301 @@
 \-wndlst
 \-db
 
+\+db C:\My Toolbox Projects\Nkonya\Texts.txt
+\+wndlst 
+\+wnd 
+\placement normal 160 729 0 25 323 203 1463 667
+\z 6
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr ref
+\width 1114
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey ref
+\srtPriKey English
+\-ind
+\+rec 
+\fldPriKey
+\-rec
+\+keySearch 
+\fldPri ankasa
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
+\+wndlst 
+\+wnd 
+\placement normal 0 637 0 25 451 29 1423 579
+\z 12
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 244
+\-brf
+\+brf 
+\mkr ps
+\width 244
+\-brf
+\+brf 
+\mkr ge
+\width 244
+\-brf
+\+brf 
+\mkr sd
+\width 193
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey ps
+\fil SemanticDomain
+\-ind
+\+rec 
+\fldPriKey ba
+\fldSecKey v
+\-rec
+\+keySearch 
+\fldPri LUK.12:1
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\fldPriKey TN_ZZ
+\fldSecKey Afrika
+>>>>>>> Stashed changes
+\-rec 
+\-wnd
+\+wnd 
+\placement normal 0 25 0 25 138 138 1153 662
+\z 8
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 189
+\-brf
+\+brf 
+\mkr ph
+\width 189
+\-brf
+\+brf 
+\mkr ps
+\width 189
+\-brf
+\+brf 
+\mkr ge
+\width 189
+\-brf
+\+brf 
+\mkr sd
+\width 205
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey sd
+\-ind
+\+rec 
+\fldPriKey awiaburo
+\fldSecKey TN_I.A.2.b
+\-rec
+\+keySearch 
+\fldPri LUK.12:1
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri da wa
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 5
+\CaretLineScroll 5
+\CaretChar 0
+\-wnd
+\+wnd 
+\placement normal 0 875 0 24 50 64 1329 710
+\z 7
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 213
+\-brf
+\+brf 
+\mkr ph
+\width 213
+\-brf
+\+brf 
+\mkr ps
+\width 213
+\-brf
+\+brf 
+\mkr ge
+\width 593
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey va
+\-ind
+\+rec 
+\fldPriKey wulu
+\fldSecKey
+\-rec
+\+keySearch 
+\fldPri LUK.12:1
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 7
+\CaretLineScroll 3
+\CaretChar 3
+\-wnd
+\+wnd 
+\placement min 21 698 0 24 54 80 1494 726
+\z 2
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 162
+\-brf
+\+brf 
+\mkr pl
+\width 162
+\-brf
+\+brf 
+\mkr ps
+\width 162
+\-brf
+\+brf 
+\mkr ge
+\width 163
+\-brf
+\+brf 
+\mkr sd
+\width 737
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey pl
+\srtPriKey NkonyaU
+\-ind
+\+rec 
+\fldPriKey mpɩm
+\-rec
+\+keySearch 
+\fldPri LUK.12:1
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 6
+\CaretLineScroll 6
+\CaretChar 4
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\tmp\result.txt
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -1 -1 94 223 1277 768
+\z 10
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr ref
+\width 1157
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey ref
+\srtPriKey English
+\-ind
+\+rec 
+\fldPriKey
+\-rec
+\+keySearch 
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 10
+\CaretLineScroll 10
+\CaretChar 82
+\-wnd
+\-wndlst
+\-db
+
 \-dblst
 \+Find 
 \Field nt
-\match_char p
+\match_char e
 \+ftxlst 
-\+ftx 
-\text nakuma
-\lng vernacular
-\-ftx
-\+ftx 
-\text tsibi
-\lng vernacular
-\-ftx
-\+ftx 
-\text ɔtsɩbi
-\lng Default
-\-ftx
-\+ftx 
-\text proper
-\lng Default
-\-ftx
-\+ftx 
-\text church
-\lng Default
-\-ftx
-\+ftx 
-\text Nanain
-\lng vernacular
-\-ftx
-\+ftx 
-\text Alavanyo
-\lng vernacular
-\-ftx
-\+ftx 
-\text birth
-\lng Default
-\-ftx
 \+ftx 
 \text hesitate
 \lng Default
@@ -729,7 +736,40 @@
 \text poto
 \lng vernacular
 \-ftx
+\+ftx 
+\text \ee
+\lng vernacular
+\-ftx
+\+ftx 
+\text incest
+\lng English
+\-ftx
+\+ftx 
+\text rape
+\lng English
+\-ftx
+\+ftx 
+\text ZZ
+\lng English
+\-ftx
+\+ftx 
+\text you
+\lng English
+\-ftx
+\+ftx 
+\text them
+\lng English
+\-ftx
+\+ftx 
+\text ZZI
+\lng English
+\-ftx
+\+ftx 
+\text grief
+\lng English
+\-ftx
 \-ftxlst
+\Replace I
 \-Find
 \AmbigBoxLeft 0
 \AmbigBoxTop 20
