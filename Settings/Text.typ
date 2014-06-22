@@ -168,6 +168,11 @@
 \mkrOverThis id
 \-mkr
 
+\+mkr wd
+\lng vernacular
+\mkrOverThis id
+\-mkr
+
 \-mkrset
 
 \iInterlinCharWd 8

@@ -901,8 +901,7 @@
 
 \+fil SemanticDomain
 \mkr sd
-\txt TN_
-\MatchWhole
+\txt TN_ZZ
 \match_char c
 \-fil
 
