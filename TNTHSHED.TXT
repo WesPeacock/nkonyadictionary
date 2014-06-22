@@ -1,4 +1,4 @@
-\_sh v3.0  820  Theshed
+\_sh v3.0  830  Theshed
 
 \ref THSHed 
 \tx I.   NON-HUMAN WORLD I.
@@ -21,7 +21,8 @@
 \tx 4.c     draw-water I.A.4.c
 \tx 5.    materials I.A.5
 \tx
-\tx I.B.  Animals & Plants I.B
+\tx I.B.  Animals I.B.
+\tx + Plants I.B
 \tx I.B.1.    animals-wild I.B.1
 \tx I.B.1.a     tail I.B.1.a
 \tx I.B.1.b     lion I.B.1.b
@@ -38,22 +39,26 @@
 \tx I.B.4.b      shea I.B.4.b
 \tx I.B.5.    plants : plant products I.B.5
 \tx I.B.5.a     leaf I.B.5.a
-\tx 
-\tx C.  Abstract-relationships I.C
+\tx
+\tx C.  Abstract-relationships I.C.
 \tx 1.a   existence I.C.1.a
 \tx 1.b   identity I.C.1.b
 \tx 1.c   integrity I.C.1.c
+\tx 1.d   contrariety I.C.1.d
 \tx 1.d   life I.C.1.d
+\tx 1.e  realisation I.C.1.e
 \tx 2.    numeration I.C.2
 \tx 2.a     numerals I.C.2.a
 \tx 2.b     how much? I.C.2.b
 \tx 3.    space I.C.3
-\tx 3.a     dimension I.C.3.a
+\tx 3.a     dimension I.C.3.a  
+\tx 3.a.i     expansion  I.C.3.a.i
+\tx 3.a.ii     contraction  I.C.3.a.ii
 \tx 3.b     form I.C.3.b
 \tx 3.c     relationship I.C.3.c
 \tx 3.d     motion I.C.3.d
 \tx 3.e     location I.C.3.e
-\tx 3.f     position  I.C.3.f
+\tx 3.f     position  I C.3.f
 \tx 4.    time I.C.4
 \tx 4.a.i   dimension I.C.4.a.i
 \tx 4.a.ii  change of ... I.C.4.a.ii
@@ -73,13 +78,13 @@
 \tx 6.f     pattern I.C.6.f
 \tx 6.g     wet, cold &c  I.C.6.g
 \tx 6.h     sound I.C.6.h
-\tx D.  States and Motions I.D
-\tx D.1     fall in drops I.D.1
-\tx 
-\tx II.     HUMAN LIFE II
-\tx 
-\tx A.  Human-body II.A
-\tx 1     whole/parts II.A.1
+\tx D.  States and Motions ??
+\tx D.1     fall in drops I D.1
+\tx
+\tx II.     HUMAN LIFE II.
+\tx
+\tx A.  Human-body II.A.1
+\tx 1     parts
 \tx 1.a     body(whole) II.A.1.a
 \tx 1.b     head II.A.1.b
 \tx 1.c     neck II.A.1.c
@@ -89,7 +94,7 @@
 \tx 1.g     foot-and-leg II.A.1.g
 \tx 1.h     skin,urine II.A.1.h
 \tx 1.i     shadow II.A.1.i
-\tx 2.    bodily-functions (do/act behave) II.A.2
+\tx 2.    bodily-functions II.A.2 (do/act behave)
 \tx 2.a     eat II.A.2.a
 \tx 2.b     be-awake II.A.2.b
 \tx 2.c     standing,be II.A.2.c
@@ -112,6 +117,7 @@
 \tx 4.f.i     mode II.A.4.f.i
 \tx 4.f.ii    source/goal II.A.4.f.ii
 \tx 4.f.iii    impact II.A.4.f.iii
+\tx 4.f.iv   trajectory  II.A.4.f.iv
 \tx 5     toilet II.A.5
 \tx 6     health II.A.6
 \tx 6.a     well,to be II.A.6.a
@@ -120,8 +126,8 @@
 \tx 6.d     medicine(modern)/(traditional) II.A.6.d
 \tx 6.e     injury II.A.6.e
 \tx 6.f     mental stress II.A.6.f
-\tx
 \tx B.  Intellect II.B
+\tx B.
 \tx 1.    mentation II.B.1
 \tx 1.a   calculation  II.B.1.a 
 \tx 1.b  expectation II.B.1.b
@@ -150,9 +156,9 @@
 \tx 6.a     pagan II.B.6.a
 \tx 6.b     Muslim II.B.6.b
 \tx 6.c     Christian II.B.6.c
-\tx 
-\tx C.  Personal-Life II.C
-\tx 1.    house (list) [building see II.D.6.h]  II.C.1
+\tx
+\tx C.  Personal-Life II.C.
+\tx 1.    house (list)  II.C.1  [building see II.D.6.h]
 \tx 1.bis  house (plan) II.C.1.bis
 \tx 2.    domestic-equipment II.C.2
 \tx 2.a     loads II.C.2.a
@@ -176,7 +182,6 @@
 \tx 4.e     wash(clothes),to II.C.4.e
 \tx 4.f     hairdressing  II.C.4.f
 \tx 5     child-care II.C.5
-\tx 
 \tx D.  Economic-life II.D.
 \tx 1.    farming II.D.1
 \tx 1.a     home-farm II.D.1.a
@@ -200,7 +205,7 @@
 \tx 5.    market/trade II.D.5
 \tx 5.a     money II.D.5.a
 \tx 5.a.i    personal II.D.5.a.i
-\tx 5.a.ii   bank, invest, interest ...  II.D.5.a.ii
+\tx 5.a.ii   bank, invest, interest...  II.D.5.a.ii
 \tx 5.a.iii   employ, wages, strike ... II.D.5.a.iii
 \tx 5.b     market II.D.5.b
 \tx 5.c     commodities - salt II.D.5.c
@@ -226,7 +231,7 @@
 \tx 6.i     mat(sleeping-), rope... II.D.6.i
 \tx 6.j   mining II.D.6.j
 \tx 6.k   barber, hairdresser  II.D.6.k
-\tx 6.l    metal-worker II.D.6.l
+\tx 6.l    metal-worker, fitter II.D.6.l
 \tx 7.    transportation II.D.7
 \tx 7.a     horse II.D.7.a
 \tx 7.b     boat II.D.7.b
@@ -236,14 +241,20 @@
 \tx 7.f     train II.D.7.f
 \tx 7.g     aeroplane II.D.7.g
 \tx 8     cash economy II.D.8
-\tx
+\tx 8.a   infrastrucure  II.D.8.a 
+\tx 8.b  imported, non-traditional goods II.D.8.b
+\tx 8.b.i  grocery-store II.D.8.b
+\tx 8.c   industry  II.D.8.c
+\tx 8.d  communications, IT  II.D.8.d
 \tx E.  Social Life II.E
 \tx 1.    human-classification II.E.
 \tx 1.a     person II.E.1.a
 \tx 1.b     ethnic-group/tribe II.E.1.b
 \tx 1.c     Kinship II.E.1.c
 \tx 1.d     personal-names(with meanings) II.E.1.d
-\tx 1.e     rich-man II.E.1.e
+\tx 1.e     rich-man II.E.1.e 
+\tx 1.f    generational II.E.1.f
+\tx 1.g   Personality types:  II.E.1.g
 \tx 2.    traditional-Authority II.E.2
 \tx 2.a     chief  II.E.2.a
 \tx 2.a.i    regalia  II.E.2.a.i
@@ -267,6 +278,7 @@
 \tx 5.d.i     music II.E.5.d.i
 \tx 5.d.ii    other II.E.5.d.ii
 \tx 5.e     story II.E.5.e
+\tx 5.e.i   Modern media II.E.5.e.i
 \tx 5.f     play, game II.E.5.f
 \tx 5.f.i     football  II.E.5.f.i
 \tx 5.f.ii    cards  II.E.5.f.ii
@@ -274,3 +286,5 @@
 \tx 5.g     cigarette II.E.5.g
 \tx 5.h     photograph II.E.5.h
 \tx 5.i     war II.E.5.i
+\tx
+\dp 29/May/2014
