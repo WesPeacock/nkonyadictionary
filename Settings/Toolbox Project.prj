@@ -40,26 +40,26 @@
 \Size 10
 \-fntMarkers
 \+rundosMarkers 
+\command echo behaviour | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo singe | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo strut | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo rafter | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo curse | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo tie | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo beside | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo bend | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo II.A.2.c | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo bells | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo kill | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo head | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo behead | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo behaviour | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
+\command echo quiet | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \command echo paint | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \command echo baub | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \command echo whip | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \command echo hipl | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \command echo until | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo surp | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo again | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo advice | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo adulter | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo add | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo dang | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo safe | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo near | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo contin | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo share | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo chall | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo emph | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo exact | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo empha | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
-\command echo defecate | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \-rundosMarkers
 \placementMain max -1 -1 -1 -1 97 117 1440 900
 \+dblst 
@@ -68,7 +68,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 0 0 1186 446
-\z 2
+\z 1
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 150
@@ -100,7 +100,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri kosi
+\fldPri ɩda
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -118,7 +118,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 673 0 25 30 30 1216 476
-\z 3
+\z 6
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -150,7 +150,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri kosi
+\fldPri ɩda
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -200,7 +200,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri kosi
+\fldPri ɩda
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -215,101 +215,11 @@
 \-wndlst
 \-db
 
-\+db C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
-\+wndlst 
-\+wnd 
-\placement normal 0 25 0 24 7 7 348 658
-\z 7
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr wd
-\width 188
-\-brf
-\+brf 
-\mkr is
-\width 120
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey wd
-\srtPriKey ThesEng
-\mkrSecKey is
-\-ind
-\+rec 
-\fldPriKey desire
-\fldSecKey II.B.4
-\-rec
-\+keySearch 
-\fldPri 1CO.10:21
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 2
-\CaretLineScroll 2
-\CaretChar 0
-\fldPriKey pouffe _see_ cushion
-\fldSecKey X-ref
->>>>>>> Stashed changes
-\-rec 
-\-wnd
-\+wnd 
-\placement normal 0 24 0 24 253 253 1436 798
-\z 1
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr wd
-\width 375
-\-brf
-\+brf 
-\mkr thes
-\width 375
-\-brf
-\+brf 
-\mkr is
-\width 393
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey wd
-\srtPriKey ThesEng
-\-ind
-\+rec 
-\fldPriKey hesitate
-\-rec
-\+keySearch 
-\fldPri 1CO.10:21
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 4
-\CaretLineScroll 4
-\CaretChar 4
-\-wnd
-\-wndlst
-\-db
-
 \+db C:\My Toolbox Projects\Nkonya\MDFields19a.txt
 \+wndlst 
 \+wnd 
 \placement normal 0 729 0 24 953 24 1436 469
-\z 6
+\z 10
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -350,9 +260,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 178
-\CaretLineScroll 176
-\CaretChar 4789
+\CaretLine 237
+\CaretLineScroll 235
+\CaretChar 6471
 \-wnd
 \-wndlst
 \-db
@@ -361,12 +271,11 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 637 0 25 507 9 1371 557
-\z 8
+\z 11
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
 \widthMarkerArea 165
-\Browse
 \JumpTarget
 \+brflst 
 \FieldEmptyEntry *empty*
@@ -389,14 +298,14 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey ge
+\mkrPriKey ge
+\srtPriKey English
+\mkrSecKey lx
 \fil SemanticDomain
 \-ind
 \+rec 
-\fldPriKey hɩ
-\fldSecKey destroy
+\fldPriKey North
+\fldSecKey dimbisʋ
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -406,18 +315,22 @@
 \MatchWhole
 \match_char p
 \-keyInsert
+\CaretLine 8
+\CaretLineScroll 8
+\CaretChar 5
 \fldPriKey TN_ZZ
 \fldSecKey Afrika
 >>>>>>> Stashed changes
 \-rec 
 \-wnd
 \+wnd 
-\placement normal -1 -1 -8 -28 269 103 1510 474
-\z 9
+\placement normal -1 -1 -8 -28 172 125 1413 496
+\z 7
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
 \widthMarkerArea 165
+\Browse
 \JumpTarget
 \+brflst 
 \FieldEmptyEntry *empty*
@@ -436,17 +349,17 @@
 \-brf
 \+brf 
 \mkr sd
-\width 462
+\width 445
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
-\mkrSecKey sd
+\mkrSecKey ge
 \-ind
 \+rec 
-\fldPriKey mbʋa
-\fldSecKey TN_II.E.5.c
+\fldPriKey oboyi
+\fldSecKey neck (nape of neck)
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -456,13 +369,10 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 253 253 1436 798
-\z 4
+\z 2
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -511,7 +421,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 184 184 1367 729
-\z 5
+\z 3
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -558,6 +468,55 @@
 \CaretLineScroll 0
 \CaretChar 0
 \-wnd
+\+wnd 
+\placement normal -1 -1 -1 -1 244 192 1427 737
+\z 4
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 244
+\-brf
+\+brf 
+\mkr ps
+\width 244
+\-brf
+\+brf 
+\mkr ge
+\width 244
+\-brf
+\+brf 
+\mkr sd
+\width 404
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey ge
+\-ind
+\+rec 
+\fldPriKey bɔɔlʋ
+\fldSecKey ball
+\-rec
+\+keySearch 
+\fldPri 1CO.10:21
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 7
+\CaretLineScroll 7
+\CaretChar 13
+\-wnd
 \-wndlst
 \-db
 
@@ -565,7 +524,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 160 923 -1 -1 144 237 1327 781
-\z 10
+\z 5
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -586,7 +545,7 @@
 \fldPriKey
 \-rec
 \+keySearch 
-\fldPri ɔwɔlɩ
+\fldPri North
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -600,55 +559,90 @@
 \-wndlst
 \-db
 
+\+db C:\My Toolbox Projects\Nkonya\WPthesaurus.txt
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -1 -1 0 0 486 568
+\z 8
+\ViewMarkers
+\widthMarkerArea 50
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 218
+\-brf
+\+brf 
+\mkr sd
+\width 218
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey ThesEng
+\-ind
+\+rec 
+\fldPriKey grass
+\-rec
+\+keySearch 
+\fldPri nail [n.]
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\+wnd 
+\placement normal -1 -1 -1 -1 196 567 988 791
+\z 9
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr wd
+\width 218
+\-brf
+\+brf 
+\mkr sd
+\width 915
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey wd
+\srtPriKey ThesEng
+\-ind
+\+rec 
+\fldPriKey grass
+\-rec
+\+keySearch 
+\fldPri grass
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 1
+\CaretLineScroll 1
+\CaretChar 5
+\-wnd
+\-wndlst
+\-db
+
 \-dblst
 \+Find 
-\Field ge
+\Field sd
 \match_char e
 \+ftxlst 
-\+ftx 
-\text insane
-\lng English
-\-ftx
-\+ftx 
-\text confuse
-\lng English
-\-ftx
-\+ftx 
-\text loin
-\lng English
-\-ftx
-\+ftx 
-\text hoe
-\lng English
-\-ftx
-\+ftx 
-\text yawn
-\lng English
-\-ftx
-\+ftx 
-\text squeeze
-\lng English
-\-ftx
-\+ftx 
-\text TN_I.C.6.g
-\lng English
-\-ftx
-\+ftx 
-\text wedding
-\lng English
-\-ftx
-\+ftx 
-\text marriage
-\lng English
-\-ftx
-\+ftx 
-\text speech
-\lng English
-\-ftx
-\+ftx 
-\text basket
-\lng English
-\-ftx
 \+ftx 
 \text tong
 \lng English
@@ -683,6 +677,42 @@
 \-ftx
 \+ftx 
 \text challenge
+\lng English
+\-ftx
+\+ftx 
+\text response
+\lng English
+\-ftx
+\+ftx 
+\text house
+\lng English
+\-ftx
+\+ftx 
+\text ball
+\lng English
+\-ftx
+\+ftx 
+\text wife
+\lng English
+\-ftx
+\+ftx 
+\text respect
+\lng English
+\-ftx
+\+ftx 
+\text TN_II.B.1
+\lng English
+\-ftx
+\+ftx 
+\text lrft
+\lng English
+\-ftx
+\+ftx 
+\text left
+\lng English
+\-ftx
+\+ftx 
+\text enema
 \lng English
 \-ftx
 \-ftxlst
