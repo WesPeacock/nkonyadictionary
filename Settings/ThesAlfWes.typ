@@ -116,6 +116,10 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
+\File C:\My Toolbox Projects\Nkonya\WPthesaurus.txt
+\mkr wd
+\-drf
+\+drf 
 \File C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
 \mkr wd
 \-drf
