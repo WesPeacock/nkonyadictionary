@@ -5678,12 +5678,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge EXCLAIM
-\sd TN_ZZ
+\sd TN_II.B.3
+\sd TN_II.B.3
 \de express surprise by tapping the mouth while saying "Uuuuuuuuuu"; the resultant sound sounds like "bububububu"; occurs only with the verb da
 \rf Tape:2-1-042
 \xv Alada bubu tsufɛ asʋn amʋ lawa mʋ wanwan.
 \xe He said "Bubububububu" because the matter surprised him.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx bubu
 \hm 2
@@ -6390,13 +6391,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge call fetish
-\sd TN_ZZ
-\de to "call fetish" (a combination of asking one of the gods for judgment and placing a curse)
+\sd TN_II.B.2.b.i
+\sd TN_II.B.6.a
+\de to "call fetish"; curse
+\na a combination of asking one of the gods for judgment and placing a curse
 \rf Tape:2-1-183
 \xv Nada mʋ wa, ha ɔkpɩ ogyi mʋ. Ogyi mʋ́ ha anɩ.
 \xe I have called fetish on him; having the fetish judge him. He (the fetish) should judge it for us.
 \bb Stewart List:3244
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx dablun
 \ph dablũ(H)
@@ -7157,11 +7160,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge central square
-\sd TN_ZZ
-\de central square of town
+\sd TN_II.E.4.c
+\de central square of town; gathering place
 \xv Awie pʋ́ wulu amʋtɔ aha fɛ́ɛ́ bayefia dɩnsʋ ɩnʋ.
 \xe The chiefs and all the people in the town have assembled at the central square.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx dodoodo
 \ph dodoːdo
@@ -7231,13 +7234,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge kenkey
-\sd TN_ZZ
+\sd TN_II.C.3.c
 \de kenkey; fermented cornmeal
 \xv Bʋtɔpʋ kpoli nɩna dɔkʋnʋ.
 \xe They use corn to cook kenkey.
 \xv Pɩm kpoli amʋ apʋbwɛ dɔkʋnʋ fututu.
 \xe Pound the corn so that we can make white kenkey.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx dɔnhwɩrɩ
 \ph dɔnhwɪ́rɪ(H)
@@ -7691,7 +7694,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge calabash
-\sd TN_ZZ
+\sd TN_II.C.2.a
 \de calabash
 \pl nwɛ
 \ph nwɛ(H)
@@ -7705,7 +7708,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf onuwe
 \ce drinking calabash
 \bb Stewart List:1210
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɛyɩ
 \ph ɛyɪ́
@@ -8147,9 +8150,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge jute
-\sd TN_ZZ
+\sd TN_II.C.2.a
+\sd TN_II.D.6.c
 \de sisal like plant used to weave opuntu bags
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx finfi
 \ph fiɱfiʔ(L)
@@ -8980,7 +8984,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge can
-\sd TN_ZZ
+\sd TN_II.C.2.a
 \de can
 \pl aganu
 \ph aganú
@@ -8991,7 +8995,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-119
 \xv Ganu amʋ ɩwɩ lawɩ nkandʋ.
 \xe The outside of the can has rusted.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx gate
 \ph gaté
@@ -9115,7 +9119,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge kerosene tin
-\sd TN_ZZ
+\sd TN_II.C.2
+\sd TN_II.D.1.b
+\sd TN_II.D.7.c
 \de a four gallon tin, originally holding kerosene but commonly used as a measure for dry goods such as rice, corn, etc.
 \rf Tape:2-2-138
 \xv Ode kpoli amʋ susu gbɔngbɔtɔ.
@@ -9237,12 +9243,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge kitchen
-\sd TN_ZZ
+\sd TN_II.C.1
 \de kitchen
 \rf Tape:2-2-173
 \xv Ɔtsɩ amʋ lafɛɩ mʋ gyadɩtɔ wanklaan.
 \xe The woman has swept her kitchen well.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx gyagya
 \ph ʤaʤaʔ
@@ -9270,15 +9276,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv "Nɩ fɔyɔ a, gyagyaagya, nɛha amʋ́ fɛ́ɛ́ itsia."
 \xe When you are going, go well, I greet them all.
 \dt 23/Jun/2014
-
-\lx gyakpatin
-\ph ʤak͡patĩ́
-\ps n
-\sn
-\ge log
-\sd TN_ZZ
-\de firewood log
-\dt 18/Feb/2014
 
 \lx gyakuo
 \ph ʤakuo(H)
@@ -9425,7 +9422,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge charcoal
-\sd TN_ZZ
+\sd TN_II.C.2.b
 \de charcoal
 \pl agyawunu
 \ph aʤawunu
@@ -9436,7 +9433,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf agyawunu atɔpʋ
 \ce charcoal burners
 \bb Stewart List:1212
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx gyede
 \ph ʤede
@@ -9606,9 +9603,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge celebrate
-\sd TN_ZZ
+\sd TN_II.E.5.a
 \de to celebrate, particularly a festival
-\dt 21/Jun/2014
+\dt 13/Jul/2014
 
 \lx gyibi
 \ph ʤibi
@@ -10526,22 +10523,22 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge cave
-\sd TN_ZZ
+\sd TN_I.A.3.b
 \de cave
 \pl abwi alatɔ
 \ph abwi alatɔ(H)
 \xv Abrɛ amʋ bʋ ibwi alatɔ ɩnʋ.
 \xe The antelope is in the cave.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ibwi ɔbɔtɔ
 \ph ibwi ɔbɔtɔ
 \ps n
 \sn
 \ge cave
-\sd TN_ZZ
+\sd TN_I.A.3.b
 \de cave
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx idu
 \ph idúʔ
@@ -10964,9 +10961,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge loaf
-\sd TN_ZZ
+\sd TN_II.D.5.d
 \de small loaf
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ipu
 \ph ipu (H)
@@ -11159,11 +11156,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge evil
-\sd TN_ZZ
+\sd TN_II.B.5.b.i
 \de evil
 \xv Itsitsa mʋ́ a, ɩyɔ tsutsuutsu.
 \xe May evil be sent far away.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx itsu
 \ph it͡sú
@@ -11207,9 +11204,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge kingdom
-\sd TN_ZZ
+\sd TN_II.E.2.a
 \de kingdom
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx iwilwii
 \ph iwilwiː
@@ -12056,11 +12053,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge chains
-\sd TN_ZZ
+\sd TN_II.D.6.g
 \de chains
 \xv Bɔwa Paulo ɩkan.
 \xe Paul was chained.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɩklʋn
 \hm 1
@@ -12191,14 +12188,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge knot
-\sd TN_ZZ
+\sd TN_II.A.4.e
 \de knot
 \xv Bʋtamatsʋn oserebiyinsʋ yɛda kpʋn.
 \xe They never by pass the thumb tie a knot (Particularly knotting a cloth around money).
 \xe Free: If an elder is in the house nothing is done without his knowledge - so consult him.
 \nt proverb
 \bb Stewart List:1206
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɩkʋ
 \ph ɪkʊ
@@ -12374,10 +12371,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge leprosy
-\sd TN_ZZ
+\sd TN_II.A.6.b
+\sd TN_II.A.6.c
 \de leprosy
 \lt red disease
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɩlʋ
 \ph ɪlʊʔ(H)
@@ -12675,7 +12673,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge labour
-\sd TN_ZZ
+\sd TN_II.B.5.a.ii
+\sd TN_II.B.5.b.ii
 \de labour
 \xv Ɔkɛ amʋ Adango lɛbla Kpakpahe ɔbɛɛ bégyi pa, abudunka sika, abʋhɔ lɔɔrɩ.
 \xe One day Rabbit told Duck they would go hire as a labourer, so they should search for money, so that they should buy a truck.
@@ -12686,7 +12685,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-133
 \xv Gyi ɩpa, afʋ nya kɔba hɔ fʋ atɔ hianhɛ.
 \xe Go work (for someone else) in order that you should get money and buy your necessary things.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɩpabɔ
 \ph ɪpabɔ
@@ -12941,12 +12940,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge catarrh
-\sd TN_ZZ
-\de catarrh
+\sd TN_II.A.4.a
+\de catarrh; common cold
 \rf Tape:3-1-187
 \xv Ɩsʋn lakɩta mɩ, sʋ mmɛtalɩ fʋ ɔŋɛ wanklaan.
 \xe Catarrh has caught me so I can't breathe well.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɩsʋra
 \ph ɪsʊraʔ
@@ -13114,11 +13113,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge load
-\sd TN_ZZ
+\sd TN_II.C.2.a
 \de a load carried on head or shoulder
 \pl atɔsʋrahɛ
 \ph atɔsʊráhɛ́
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɩtrɛ
 \ph ɪtrɛ́ʔ (H)
@@ -13200,14 +13199,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge light
-\sd TN_ZZ
+\sd TN_I.C.1.d
 \de light
 \nt nominal form of wankɩ
 \va ɛwankɩ
 \ve South
 \xv Bulu lowun ánɩ́ wankɩ amʋ bʋ alɛ.
 \xe God saw that the light was good.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɩwatɛ
 \ph ɪwatɛʔ
@@ -13841,13 +13840,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge chant
-\sd TN_ZZ
+\sd TN_I.B.2.b.ii
 \de to perform a traditional ceremonial act by speaking the required prayers
 \na Christians bɔ mpaɩ; traditionalists kantɩ.
 \rf Tape:3-1-428
 \xv Nɩ ɔha olebie ɔkla a, ɔha ánɩ́ otsu mʋ abusuantɔ, amʋ́ ɔkwɩɩkɛ igyi ɩkʋlɛ a, mʋ tɛkantɩ.
 \xe When a person purifies his soul, a person that comes from his family who shares the same birthday, chants.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx kantɔ
 \ph kã́ntɔ́ (H)
@@ -14017,12 +14016,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge kerosene
-\sd TN_ZZ
+\sd TN_II.C.2.b
 \de kerosene
 \rf Tape:3-1-483
 \xv Keresin tɛtalɩ dudu.
 \xe Kerosene can leak.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx kete
 \ph keté
@@ -14060,16 +14059,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph kɛ
 \ps vi
 \sn
-\ge lighten
-\sd TN_ZZ
-\de used only with ɔyɩ
-\nt cognate with ɔkɛ - day
-\nt is the nominal form of this ɔkɛ?
+\ge dawn, to
+\sd TN_I.C.4.b
+\de dawn, to, used only with ɔyɩ
 \rf Tape:3-1-486
 \xv Ɔyɩ lɛkɛ a, sʋ ba ayɔ anɩ ɔkpa amʋ aba.
 \xe The world has lightened so come let's go on our way and come.
 \bb Stewart List:2352
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx kɛkɛ
 \hm 1
@@ -14133,10 +14130,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge kapok tree
-\sd TN_ZZ
+\sd TN_I.B.4.b
+\sd TN_I.B.5.a
+\sd TN_II.D.4.b
 \de large tree
 \pl akɛlɩ
 \ph akɛlɪ (H)
+\ee Ceiba pentandra
 \xv Nɩ kɛlɩ puli a, baflɛ tɔkɔkwɛ mʋ́ asɩ.
 \xe When a silk cotton tree uproots, pawpaw trees take its place.
 \xe You can't replace a great man.
@@ -14148,7 +14148,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt idiom
 \rf Tape:3-1-505
 \bb Stewart List:0878
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx kɛmɛ
 \ph kɛmɛ
@@ -15045,7 +15045,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge lie down
-\sd TN_ZZ
+\sd TN_II.A.2.c
 \de to lie down to sleep
 \rf Tape:3-2-199
 \xv Ɔlɛklɛdɩ.
@@ -15054,7 +15054,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ɔbla mʋ ɔbɛɛ ɔklɛdɩ nfɩ a ɔklɛdɩ.
 \xe If he should say to her lie down here, she should lie down.
 \na part of a wedding blessing
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx klɛɩ
 \ph klɛ́ɪ́
@@ -15394,12 +15394,12 @@ cf fonflo
 \ce leftover cassava porridge
 \dt 12/Jun/2014
 
-\lx konkonyin
-\ph kõkõɲĩʔ
+\lx konkonyin (batɛ)
+\ph kõŋkõɲĩʔ
 \ps ADJ
 \sn
-\ge large
-\sd TN_ZZ
+\ge large rooster
+\sd TN_II.D.2.b
 \de large - used only of roosters
 \rf Tape:3-2-292
 \xv batɛ konkonyin
@@ -15407,7 +15407,7 @@ cf fonflo
 \rf Tape:3-2-294
 \xv Batɛ konkonyin amʋ ladan moni dʋbɩ, sʋ ɔmɛtalɩ tra bɔn.
 \xe The large rooster has grown so big he can no longer crow.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx konti
 \ph konti
@@ -16337,13 +16337,13 @@ cf fonflo
 \ps vt
 \sn
 \ge catch
-\sd TN_ZZ
+\sd TN_II.A.4.a
 \de to catch something thrown or dropped
 \rf Tape:3-2-487
 \xv Nɩ nɔ́kpɔtɩ mango amʋ a, fówun fakpata mʋ́ ha mɩ, mɛnɩ ɩmɛ́ɛda ɔsʋlʋtɔ yinta.
 \xe If I go pick the mango you should catch it for me so you will see that you have caught it for me so that it will not fall on the ground and spoil.
 \bb Stewart List:2678
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx kpawu
 \ph k͡pawu (H)
@@ -16364,7 +16364,7 @@ cf fonflo
 \ps n
 \sn
 \ge knee
-\sd TN_ZZ
+\sd TN_II.A.1.g
 \de knee
 \pl akpawunu
 \ph ak͡pawunuʔ
@@ -16373,7 +16373,7 @@ cf fonflo
 \xe I knelt for a long time so my knee is sore.
 \bb Stewart List:0060
 \bb SIL-AWL:0066
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx kpayi
 \ph k͡páyiʔ
@@ -16400,7 +16400,7 @@ cf fonflo
 \ps ADV
 \sn
 \ge exactly
-\sd TN_ZZ
+\sd TN_I.C.2.b
 \de at the exact time
 \nt Onomatopoetic sound of a bell being rung.
 \rf Tape:3-2-406
@@ -16993,12 +16993,12 @@ cf fonflo
 \ps v
 \sn
 \ge call
-\sd TN_ZZ
+\sd TN_II.B.2
 \de to call out loud
 \rf Tape:4-1-044
 \xv Ahandɛn amʋ bɔbɔ mpaɩ kpoli awie amʋ́ pʋ ɔpɔpwɛ wa amʋ́ ɩbɩtɔ.
 \xe The elders prayed and called on the ancestral chiefs, putting the new chief into their care.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx kpolibi
 \ph k͡polibi
@@ -17674,7 +17674,7 @@ cf fonflo
 \ph kʊklʊ́
 \ps ADV
 \ge forcefully
-\sd TN_ZZ
+\sd TN_II.E.4.c
 \de strongly
 \sn 1
 \ge loudly
@@ -17716,7 +17716,7 @@ cf fonflo
 \xv lɩɩ kʋklʋ
 \xe be firm
 \bb Stewart List:2345
-\dt 11/Jul/2014
+\dt 13/Jul/2014
 
 \lx kʋklʋkʋʋ
 \ph kʊ́klʊ́kʊ́ː
@@ -17752,9 +17752,10 @@ cf fonflo
 \ps v
 \sn
 \ge excessive
-\sd TN_ZZ
+\sd TN_I.C.6.d
+\sd TN_I.C.6.e
 \de to do something excessive
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx kʋkʋram
 \ph kʊkʊram
@@ -18509,12 +18510,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge lie across
-\sd TN_ZZ
+\sd TN_II.A.2.c
 \de to lie across something
 \rf Tape:4-1-471
 \xv Ɩwɔ lɛlan ɔkpatɔ.
 \xe A snake was lying across the path.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx lan
 \hm 2
@@ -20065,7 +20066,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge kill
-\sd TN_ZZ
+\sd TN_I.C.1.d
+\sd TN_II.E.5.i
 \de kill
 \rf Tape:4-2-335
 \xv Yibi lamɔ batɛ amʋ.
@@ -20073,7 +20075,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Ɔlɔmɔ kufa amʋ.
 \xe He killed the sheep.
 \bb Stewart List:2006
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx mɔ ɔnɔ
 \ph mɔ ɔnɔ́ʔ (H)
@@ -20994,10 +20996,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge example
-\sd TN_ZZ
+\sd TN_I.C.1.b
+\sd TN_I.C.5
 \de example
 \bw Akan fi:nfantohon
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx nfasʋɔ
 \ph ɱfasʊɔ
@@ -21480,7 +21483,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \dt 30/Jun/2014
 
 \lx Nkonya
-\ph nkuɲáʔ
+\ph ŋkuɲáʔ
 \ps PropN
 \sn 1
 \ge Nkonya
@@ -21493,7 +21496,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:5-1-276
 \xv Nkonyafɔ bʋtɛblɩ Nkonya ɔblɩ.
 \xe The Nkonyas speak the Nkonya language.
-\dt 11/Jun/2014
+\dt 13/Jul/2014
 
 \lx nkɔmbɔ
 \hm 1
@@ -21542,7 +21545,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge life
-\sd TN_ZZ
+\sd TN_I.C.1.d
 \de life
 \rf Tape:5-1-246
 \xv Nɩ fégyi Bulu asʋn blɩhɛsʋ a, fénya nkpa.
@@ -21552,7 +21555,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe If you lead me there, you will have life and strength. (if you do this for me, you will be blessed).
 \bb Stewart List:1408
 \lf Keyterm = nkpa ɩtamata
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx nkpá
 \hm 2
@@ -21628,19 +21631,20 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge light soup
-\sd TN_ZZ
+\sd TN_II.D.5.d
 \de a light soup prepared without palm nuts or ground nuts
 \xv Owisʋ ɩkɩta fu a, nkrawa bʋalɛ ha fʋ.
 \xe If you have fever, light soup is very good for you.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx nkudasɩfɔ
+\ph ŋkudasɪfɔ
 \ps n
 \sn
 \ge farm people
 \sd TN_II.D.1.a
 \de people living on their farms
-\dt 01/Jul/2014
+\dt 13/Jul/2014
 
 \lx nkʋlɛ
 \ph ŋkʊlɛ
@@ -24356,7 +24360,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Tɛplɛ onun nfɔ a, Ogbon lahɔ nwun pɛ.
 \xe Cockroach drinks the oil, but red headed lizard gets the red head.
 \nt the innocent get blamed for the work of the guilty.
-\dt 28/Jul/2013
+\dt 13/Jul/2014
 
 \lx ogya
 \ph oʤáʔ(H)
@@ -24413,9 +24417,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge log
-\sd TN_ZZ
-\de log
-\dt 18/Feb/2014
+\sd TN_I.A.5
+\de firewood log
+\dt 13/Jul/2014
 
 \lx ogyama
 \ph oʤamaʔ(H)
@@ -24882,10 +24886,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ok͡plóto
 \ps n
 \sn
-\ge certain tree
-\sd TN_ZZ
+\ge tree (k.o.)
+\sd TN_I.B.4.b
 \de a tree with an inedible fruit like an orange
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx okpokployi
 \ph ok͡pók͡plóyiʔ
@@ -25471,11 +25475,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge large drinking calabash
-\sd TN_ZZ
+\sd TN_II.C.2.a
+\sd TN_II.D.1.f
 \de large drinking calabash
 \pl nnuwe
 \ph nnuwé
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx onwunfi
 \ph onwuɱfíʔ
@@ -25736,9 +25741,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge cemetery
-\sd TN_ZZ
+\sd TN_II.E.5.b
 \de cemetery
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx opulapʋ
 \ph opulápʊ̂ʔ
@@ -27185,7 +27190,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge central palm
-\sd TN_ZZ
+\sd TN_I.B.4.b
+\sd TN_II.D.5.c
 \de the new central palm growth
 \na It is used to call fetish and is planted as an oath.
 \pl mblakwɛ
@@ -27197,7 +27203,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If you take thatch and roof a hut, you first take palm frond rope or other rope and tie the vertical rafters (mpalɩ) on top of the ɔtan (bottom horizontal crossbars) so that the wind won't blow the roof off.
 \xv Mʋ́ ɔma fɛ́tratsia pʋ ɔblakwɛ ɔfɛ klɩ abotodua manta ipi amʋ ɛ, mɛnɩ afu mɛ́ɛdɩnkɩ mʋ́ tsitsa.
 \xe After this, you will again take some palm frond rope and tie bamboo over the thatch so that the wind will not blow the thatch off.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɔblapʋ
 \ph ɔblapʊ(H)
@@ -27686,7 +27692,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge knife
-\sd TN_ZZ
+\sd TN_II.C.2.c
+\sd TN_II.D.6.g
 \de knife
 \nt da+o yi 'metal stick' cf ɩdatɔ da+ɩ tɔ
 \pl ndayi
@@ -27698,7 +27705,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔlɔwɔ mʋ ɔdayi.
 \xe He stabbed him with a knife.
 \bb Stewart List:1198
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɔdayinɔnyɔ
 \ph ɔdayinɔɲɔ
@@ -27881,7 +27888,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe They are walking in a group.
 \sn 2
 \ge large quantity
-\sd TN_ZZ
+\sd TN_I.C.2.b
 \de a large quantity
 \nt Nkonya would substitute tsɔtsɔɔtsɔ. Aha tsɔtsɔɔtsɔ bʋna.
 \nt iku- is a group but it may be small. Ɔdɔm is Akan, used only of a large number of people.
@@ -27889,7 +27896,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Aha ɔdʋdʋɔ bʋbʋ owie woyi.
 \xe A large number of people are in the chief's house.
 \bb Stewart List:1504
-\dt 30/Jun/2014
+\dt 13/Jul/2014
 
 \lx ɔdwɛ
 \ph ɔdʷɛ(H)
@@ -28616,9 +28623,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge capsize
-\sd TN_ZZ
+\sd TN_I.C.2.d
 \de to capsize
-\dt 18/Feb/2014
+\lt ɔklʋn 'boat' bun 'cover'
+\dt 13/Jul/2014
 
 \lx ɔkɔmfɔbowuo
 \ph ɔkɔɱfɔbowuo(H)
@@ -29042,7 +29050,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ART
 \sn
 \ge certain one
-\sd TN_ZZ
+\sd TN_II.E.1.a
 \de a certain person not previously defined in context
 \xv ɔkʋ ɛ
 \xe another person
@@ -29057,7 +29065,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Some people have come, but one more will come.
 \rf Tape:5-2-574
 \nt see ɩkʋ
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɔkʋabi
 \ph ɔkʊ́abíʔ
@@ -30425,7 +30433,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge cannon
-\sd TN_ZZ
+\sd TN_II.E.3.d
 \de cannon
 \pl mprɩm
 \ph mprɪm
@@ -30436,7 +30444,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ owie ntɛɛ ɔhandɛ ɔkʋ owu a, bʋtɔtswɩ mprɩm.
 \xe When a chief or an elderly person dies, cannons are being fired.
 \bb Stewart List:1249
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx ɔpʋ
 \ph ɔpʊʔ
@@ -32298,16 +32306,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge carry
-\sd TN_ZZ
+\sd TN_II.A.4.a
 \de carry in your arms
 \sn 2
 \ge carry on back
-\sd TN_ZZ
+\sd TN_II.A.4.a
 \de to carry on the back, as a woman carries her baby
 \xv Tsu kebi amʋ pia, tsufɛ nsaɩntɔ lalwii.
 \xe Pick up the child in your arms because the weather is cool.
 \bb Stewart List:2655
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx pian
 \ph pĩ́ã́
@@ -33990,12 +33998,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge cedi
-\sd TN_ZZ
+\sd TN_II.E.5.a
 \de cedi; Ghanaian currency, a cedi is 100 pesewas
 \bw English fi:cedi
 \xv Ghanafɔ bʋtegyi sidi, Nigeriafɔ ɛ bʋtegyi naira.
 \xe Ghanaians use cedis and Nigerians also use naira.
-\dt 18/Feb/2014
+\na The cedi was redonimated in 2007. 10,000 cedis became 'Ghana cedi'
+\dt 13/Jul/2014
 
 \lx sie
 \ph sie
@@ -34131,12 +34140,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge cement
-\sd TN_ZZ
+\sd TN_II.E.5.b
 \bw English fi:cement
 \de cement used for moulding and plastering a building
 \xv Tɩtɩ siminti amʋ bʋɔnlɩn dʋn ndɛ klɛ anfɩ.
 \xe The former day's cement is stronger than what they are producing today.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx simpi
 \ph simpi
@@ -34882,20 +34891,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge charm
-\sd TN_ZZ
+\sd TN_II.B.6.a
 \de to invoke a charm on someone
 \xv wa ɔha sʋkpʋsali
 \xe to charm someone
 \xv Sʋkpʋsali oyin amʋ lɔwa ɔtsɩ amʋ. Mʋ́ sʋ ɔtsɩ amʋ talɩ ɔtsiaa mʋ nɩ.
 \xe The man charmed the woman that is why the woman is able to marry the man.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx sʋn
 \ph sʊ̃
 \ps v
 \sn
 \ge carry
-\sd TN_ZZ
+\sd TN_II.A.4.a
 \de to carry something
 \nt cf na & natɩ vs sʋn & sʋra
 \va sʋ
@@ -34903,7 +34912,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Sawun ɔbɛɛ ɔma ɔha ánɩ́ owu obopula mʋ, sʋ ɔna ɔsʋn mʋ daka.
 \xe Tortoise says he doesn't have a person that if he dies he will bury him, so he walks, carrying his coffin.
 \bb Stewart List:2673
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx sʋnswɛ
 \ph sʊnswɛ
@@ -35418,9 +35427,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge level place
-\sd TN_ZZ
+\sd TN_I.C.3.b
 \de a level place
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx tanʋ
 \ph tanʊ
@@ -35911,7 +35920,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge call
-\sd TN_ZZ
+\sd TN_II.B.2
 \de call
 \rf Tape:7-1-510
 \xv Tɩ oyin amʋ ha mɩ.
@@ -35920,7 +35929,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Osunapʋ amʋ lɛtɩ sukuufɔ abi amʋ fɛ́ɛ́ ada kɩ amʋ́tɔ odua mɛba.
 \xe The teacher called all the school children's names to see who didn't come.
 \bb Stewart List:3224
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx tɩa
 \ph tɪ́á(H)
@@ -36677,7 +36686,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge charm
-\sd TN_ZZ
+\sd TN_II.B.6.a
 \de to charm someone
 \xv Kwame lawa Amba tsafa han mʋ ɔnɔ lakiki.
 \xe Kwame has charmed Amba to make her mouth crooked.
@@ -36685,7 +36694,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If you break an animals leg you have caused it to suffer.
 \xv Tsafawa ɩma alɛ.
 \xe Causing someone to suffer is not good.
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx tsakoto
 \ph t͡sákoto
@@ -36929,7 +36938,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge exchange
-\sd TN_ZZ
+\sd TN_II.B.4
+\sd TN_II.D.5.b
 \de to exchange one thing for another
 \rf Tape:7-2-245
 \xv Anɩdɛtɔɩ alɩɩ a, bɛtsɛ ɔnɔ wa mɩ.
@@ -36941,7 +36951,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Change this money for me.
 \sn 2
 \ge change
-\sd TN_ZZ
+\sd TN_I.C.1.e
 \de to change from one thing to another
 \rf Tape:7-2-239
 \xv Tsɛ fʋ atadɩɛ amʋ ayɔ ndɔtɔ.
@@ -36950,7 +36960,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The world is like chameleon's skin it always changes.
 \nt proverb
 \rf Tape:6-2-002
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx tsɛ
 \hm 2
@@ -38025,12 +38035,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge leave
-\sd TN_ZZ
+\sd TN_II.A.4.a
 \de to separate
 \nt the core meaning seems to separate from oneself
 \xv tu duku
 \xe take off headscarf
-\nt From ths: words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
 \se tu ɔkpa
 \ge travel
 \sd TN_II.D.7
@@ -38056,7 +38065,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to spit
 \rf Tape:7-2-568
 \bb Stewart List:2040
-\dt 01/Jul/2014
+\dt 13/Jul/2014
 
 \lx tu
 \hm 2
@@ -39392,9 +39401,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de dried
 \se abuto wʋlɩhɛ
 \ge expensive beads
-\sd TN_ZZ
+\sd TN_II.C.4.c
 \de old, expensive beads
-\dt 01/Jul/2014
+\dt 13/Jul/2014
 
 \lx wʋlɔɩ
 \ph wʊlɔɪ
@@ -39937,7 +39946,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge know
-\sd TN_ZZ
+\sd TN_II.B.1
 \de know
 \nt Continuous aspect only
 \rf Tape:8-1-588
@@ -39952,7 +39961,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:3157
 \cf bɩ2
 \ce come to know
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx -yin
 \hm 2
@@ -40043,13 +40052,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge lick
-\sd TN_ZZ
+\sd TN_II.A.2.a
 \de spoil
 \rf Tape:8-2-002
 \xv Alanun nta debidebi sʋ ɔdɛ ɔnɔ asɩ yinta.
 \xe He has drunk sweet wine so he's licking his lips.
 \bb Stewart List:2102
-\dt 18/Feb/2014
+\dt 13/Jul/2014
 
 \lx yinti
 \ph yinti(H)
