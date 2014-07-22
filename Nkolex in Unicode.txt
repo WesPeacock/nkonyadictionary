@@ -295,12 +295,13 @@
 \ps n
 \sn
 \ge seed mushroom
-\sd TN_II.D.4.c; TN_I.B.5.b
+\sd TN_II.D.4.c
+\sd TN_I.B.5.b
 \de seed mushroom
 \rf Tape:1-2-210
 \xv Abi atsuli tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
-\dt 08/Jan/2014
+\dt 22/Jul/2014
 
 \lx abialɛ
 \ph abialɛ́(H)
@@ -799,12 +800,13 @@
 \ps n
 \sn
 \ge wide-headed mushroom
-\sd TN_II.D.4.c; TN_I.B.5.b
+\sd TN_II.D.4.c
+\sd TN_I.B.5.b
 \de wide-headed mushroom
 \rf Tape:1-2-150
 \xv Afio, mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋswɩ. Ɩtɔwa ɔdwɛ oputsutɔ. Bʋtɛkaka mʋ́ wa oputsutɔ. Ɩtɔkwɛ sinsʋ.
 \xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in an termite mound.
-\dt 08/Jan/2014
+\dt 22/Jul/2014
 
 \lx afɩnɩ
 \ph afɪnɪ(H)
@@ -979,7 +981,9 @@
 \ps n
 \sn
 \ge counsel/advise
-\sd TN_II.B.1; TN_II.B.2.b; TN_II.E.3.a
+\sd TN_II.B.1
+\sd TN_II.B.2.b
+\sd TN_II.E.3.a
 \de counsel
 \bw Akan fi:afutu LLH
 \xv Ha mʋ afutuo, osi atɔ wi.
@@ -990,7 +994,7 @@
 \ce advise
 \xv afutuo ɔhapʋ
 \xe counsellor
-\dt 11/Jun/2014
+\dt 22/Jul/2014
 
 \lx afʋfʋ
 \ph afʊfʊʔ
@@ -1100,12 +1104,13 @@
 \ps n
 \sn
 \ge velvet
-\sd TN_II.D.5.h; TN_II.D.6.a
+\sd TN_II.D.5.h
+\sd TN_II.D.6.a
 \de velvet
 \xv Ɔlɛdɩda agon tati Istatɔ.
 \xe He put on a velvet cloth for Easter.
 \bb Stewart List:1269
-\dt 11/Jun/2014
+\dt 22/Jul/2014
 
 \lx agude
 \ph agude(H)
@@ -1126,9 +1131,10 @@
 \ps INTJ
 \sn
 \ge Friend!
-\sd TN_II.B.3; TN_.C.1.f
+\sd TN_II.B.3
+\sd TN_.C.1.f
 \de My friend!
-\dt 08/Jan/2014
+\dt 22/Jul/2014
 
 \lx agya fwɩ
 \ph aʤa fwɪ(H)
@@ -1202,12 +1208,13 @@
 \ps ADJ
 \sn
 \ge edible
-\sd TN_II.A.2.a ; TN_II.C.3.c
+\sd TN_II.A.2.a 
+\sd TN_II.C.3.c
 \de edible
 \rf Tape:1-1-268
 \xv Atogyihɛ ánɩ́ nfɔlɩ ma mʋ́tɔ a, ɩma agyilɛ.
 \xe Food that does not have salt in it is not easy to eat.
-\dt 11/Jun/2014
+\dt 22/Jul/2014
 
 \lx agyɩm
 \ph aʤɪm
@@ -1304,7 +1311,8 @@
 \ps n
 \sn
 \ge work
-\sd TN_II.B.5.a.ii ; TN_II.B.5.b.ii
+\sd TN_II.B.5.a.ii 
+\sd TN_II.B.5.b.ii
 \de work
 \bw Akan fi:agyʋma LHH
 \rf Tape:1-1-279
@@ -1320,7 +1328,7 @@
 \xv Ɔma gyumagyihɛ. Mʋ́ sʋ ɔtɛnatɩ ki ahasʋ.
 \xe He has no work. That's why he always roams from person to person.
 \bb Stewart List:1403
-\dt 11/Jun/2014
+\dt 22/Jul/2014
 
 \lx agyʋma ɔyɔpʋ
 \ph aʤʊ́má ɔyɔpʊ́
@@ -1336,12 +1344,13 @@
 \ps n
 \sn
 \ge prostitute
-\sd TN_II.D.5.b; TN_I.E.5.c
+\sd TN_II.D.5.b
+\sd TN_I.E.5.c
 \de prostitute
 \bw Akan fi:adwama LLH
 \xv Agywama ɔbɔpʋ ogyi.
 \xe She is a prostitute.
-\dt 01/Feb/2014
+\dt 22/Jul/2014
 
 \lx agywɩɩn
 \ph aʤwɪ̃ː(H)
@@ -1686,7 +1695,7 @@
 \sn
 \ge sweet wine
 \sd TN_II.C.3.e; TN_II.D.5.e
-\de unfermented palm wine;
+\de unfermented palm wine
 \xv Akɔklɔ igyi nta debidebi.
 \xe Akɔklɔ is sweet, unfermented wine.
 \xv Nɩ fonun akɔklɔ a, fʋmɔ́ɔbʋ, tsufɛsɛ ogyasi ma mʋ́tɔ.
@@ -10310,7 +10319,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge lose
 \sd TN_II.B.4
-\de lose irretrievably;
+\de lose irretrievably
 \sy fwɩ
 \xv Fɔkʋla sika a, fɔ́hʋlɩ fʋ ɔkla.
 \xe If you seek money you will lose your soul.
@@ -12134,7 +12143,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge debt
 \sd TN_II.D.5.b
-\de debt;
+\de debt
 \pl akɔ
 \ph akɔ
 \va kɔ
@@ -19798,7 +19807,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \va mɩ-
 \ge me
 \sd TN_I.C.5
-\de 1st person singular; I; me; myself;
+\de 1st person singular; I; me; myself
 \rf Tape:4-2-247
 \xv Mɩ bʋ igyo ndɔ amʋ.
 \xe I own a yam farm.
@@ -21680,14 +21689,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge junction
-\sd TN_I.A.3.b;
+\sd TN_I.A.3.b
 \sd TN_II.D.7.e
 \de where two roads meet
 \bw Akan fi:nkwanta
 \rf Tape:5-1-280
 \xv Nɩ fʋ wie nkwanta ɩnʋ a, baɩ tsʋn gyɔpɩ sʋ.
 \xe When you come to the junction, turn right.
-\dt 03/Jul/2014
+\dt 22/Jul/2014
 
 \lx -nna
 \ph nːa(H)
@@ -26936,7 +26945,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va -kpa
 \ge place
 \sd TN_I.C.5
-\de place where an activity occurs;
+\de place where an activity occurs
 \nt the initial ɔ will become o in front of +ATR vowels (ieou)
 \xv ɔfʋnkpa
 \xe final destination
@@ -26958,13 +26967,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph a- -tɔ
 \rf Tape:5-2-103
 \xv abietɔ
-\xe things to bathe with;
+\xe things to bathe with
 \rf Tape:5-2-104
 \xv ɔbɩatɔ
 \xe needle (north dialect)
 \rf Tape:5-2-106
 \xv abontɔ
-\xe things that stink;
+\xe things that stink
 \rf Tape:5-2-108
 \xv ɔbwatɔ
 \xe frying pan
@@ -28753,7 +28762,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge junction
-\sd TN_I.A.3.b;
+\sd TN_I.A.3.b
 \sd TN_II.D.7.e
 \de more common to use Akan nkwanta
 \pl ɩkpabaɩ
@@ -32342,7 +32351,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge wound; hurt
 \sd TN_II.A.6.e
-\de to be wounded;
+\de to be wounded
 \xv Oyin amʋ́ʋ́ alabʋ nta amʋ ladɩda pilan.
 \xe The man has become drunk and has fallen down and become wounded.
 \xe The man that is drunk has fallen down and become wounded.
@@ -33326,7 +33335,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge mix
-\sd TN_II.A.4.d; 
+\sd TN_II.A.4.d
 \de mix
 \nt Always used together with pʋ -> pʋ fra.
 \bw Akan fi:fra
@@ -38161,7 +38170,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge round fruit
 \sd TN_I.C.3.b
-\de fruit or food in a round form; e.g. avocado; mango; pawpaw; kenkey; bread;
+\de fruit or food in a round form; e.g. avocado; mango; pawpaw; kenkey; bread
 \pl atuntu
 \ph atuntu
 \xv Kɛlɩ oyi a, mʋ́ tuntu amʋ ɩtɛfa wunya dantapu.
