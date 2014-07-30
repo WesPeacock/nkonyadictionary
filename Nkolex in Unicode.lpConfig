@@ -5,7 +5,7 @@
 <!-- Database: Nkolex in Unicode.txt -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2014-02-18T11:11:49">
+<lexiqueProConfig version="3.6" dateModified="2014-07-30T13:07:03">
 
  <encoding type="UTF-8"/>
 
@@ -1277,6 +1277,7 @@
   <fieldMarker type="Second singular" enabled="true">2s</fieldMarker>
   <fieldMarker type="Definition" lang="Nkonya" enabled="true">dv</fieldMarker>
   <fieldMarker type="Gloss" lang="Nkonya" enabled="true">gv</fieldMarker>
+  <fieldMarker type="Paradigm User-Defined" lang="Nkonya" enabled="true" label="Plural:">pl</fieldMarker>
  </fieldMarkers>
 
  <!-- Template to use when adding a new record -->
@@ -1294,1674 +1295,1674 @@
 
 
  <categories visible="true" style="user">
-  <category code="TN_">
+  <category>
    <displayNames>
     <displayName lang="en">Bad Category</displayName>
    </displayNames>
    <descriptions>
-    <description lang="en">Uncategorized Entries should be TN_ZZ, so they appear at the end of the list</description>
+    <description lang="en">Uncategorized Entries should be ZZ, so they appear at the end of the list</description>
    </descriptions>
   </category>
 
-  <category code="TN_I">
+  <category code="I">
    <displayNames>
     <displayName lang="en">Non-Human World</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A">
+  <category code="I.A">
    <displayNames>
-    <displayName lang="en">The Physical World TN_I.A</displayName>
+    <displayName lang="en">The Physical World I.A</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.1">
+  <category code="I.A.1">
    <displayNames>
-    <displayName lang="en">the heavens : sun, sky, light/dark TN_I.A.1</displayName>
+    <displayName lang="en">the heavens : sun, sky, light/dark I.A.1</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.2">
+  <category code="I.A.2">
    <displayNames>
-    <displayName lang="en">climate TN_I.A.2</displayName>
+    <displayName lang="en">climate I.A.2</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.2.a">
+  <category code="I.A.2.a">
    <displayNames>
-    <displayName lang="en">weather TN_I.A.2.a</displayName>
+    <displayName lang="en">weather I.A.2.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.2.b">
+  <category code="I.A.2.b">
    <displayNames>
-    <displayName lang="en">seasons TN_I.A.2.b</displayName>
+    <displayName lang="en">seasons I.A.2.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.2.c">
+  <category code="I.A.2.c">
    <displayNames>
-    <displayName lang="en">wind TN_I.A.2.c</displayName>
+    <displayName lang="en">wind I.A.2.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.2.d">
+  <category code="I.A.2.d">
    <displayNames>
-    <displayName lang="en">sun(in-the) TN_I.A.2.d</displayName>
+    <displayName lang="en">sun(in-the) I.A.2.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.3">
+  <category code="I.A.3">
    <displayNames>
-    <displayName lang="en">land TN_I.A.3</displayName>
+    <displayName lang="en">land I.A.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.3.a">
+  <category code="I.A.3.a">
    <displayNames>
-    <displayName lang="en">world TN_I.A.3.a</displayName>
+    <displayName lang="en">world I.A.3.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.3.b">
+  <category code="I.A.3.b">
    <displayNames>
-    <displayName lang="en">mountain TN_I.A.3.b</displayName>
+    <displayName lang="en">mountain I.A.3.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.3.c">
+  <category code="I.A.3.c">
    <displayNames>
-    <displayName lang="en">stone(small) TN_I.A.3.c</displayName>
+    <displayName lang="en">stone(small) I.A.3.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.3.d">
+  <category code="I.A.3.d">
    <displayNames>
-    <displayName lang="en">wet(land) TN_I.A.3.d</displayName>
+    <displayName lang="en">wet(land) I.A.3.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.3.e">
+  <category code="I.A.3.e">
    <displayNames>
-    <displayName lang="en">geographical names TN_I.A.3.e</displayName>
+    <displayName lang="en">geographical names I.A.3.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.4">
+  <category code="I.A.4">
    <displayNames>
-    <displayName lang="en">water TN_I.A.4</displayName>
+    <displayName lang="en">water I.A.4</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.4.a">
+  <category code="I.A.4.a">
    <displayNames>
-    <displayName lang="en">river TN_I.A.4.a</displayName>
+    <displayName lang="en">river I.A.4.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.4.b">
+  <category code="I.A.4.b">
    <displayNames>
-    <displayName lang="en">flows(river-) TN_I.A.4.b</displayName>
+    <displayName lang="en">flows(river-) I.A.4.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.4.c">
+  <category code="I.A.4.c">
    <displayNames>
-    <displayName lang="en">draw-water TN_I.A.4.c</displayName>
+    <displayName lang="en">draw-water I.A.4.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.A.5">
+  <category code="I.A.5">
    <displayNames>
-    <displayName lang="en">materials TN_I.A.5</displayName>
+    <displayName lang="en">materials I.A.5</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B">
+  <category code="I.B">
    <displayNames>
-    <displayName lang="en">Animals & Plants TN_I.B</displayName>
+    <displayName lang="en">Animals & Plants I.B</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.1">
+  <category code="I.B.1">
    <displayNames>
-    <displayName lang="en">animals-wild TN_I.B.1</displayName>
+    <displayName lang="en">animals-wild I.B.1</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.1.a">
+  <category code="I.B.1.a">
    <displayNames>
-    <displayName lang="en">tail TN_I.B.1.a</displayName>
+    <displayName lang="en">tail I.B.1.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.1.b">
+  <category code="I.B.1.b">
    <displayNames>
-    <displayName lang="en">lion TN_I.B.1.b</displayName>
+    <displayName lang="en">lion I.B.1.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.2">
+  <category code="I.B.2">
    <displayNames>
-    <displayName lang="en">birds-wild TN_I.B.2</displayName>
+    <displayName lang="en">birds-wild I.B.2</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.2.a">
+  <category code="I.B.2.a">
    <displayNames>
-    <displayName lang="en">feather TN_I.B.2.a</displayName>
+    <displayName lang="en">feather I.B.2.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.2.b">
+  <category code="I.B.2.b">
    <displayNames>
-    <displayName lang="en">eagle TN_I.B.2.b</displayName>
+    <displayName lang="en">eagle I.B.2.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.3">
+  <category code="I.B.3">
    <displayNames>
-    <displayName lang="en">smaller-creatures TN_I.B.3</displayName>
+    <displayName lang="en">smaller-creatures I.B.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.3.a">
+  <category code="I.B.3.a">
    <displayNames>
-    <displayName lang="en">poison/venom TN_I.B.3.a</displayName>
+    <displayName lang="en">poison/venom I.B.3.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.3.b">
+  <category code="I.B.3.b">
    <displayNames>
-    <displayName lang="en">snake,amphibian/scorpion,spider TN_I.B.3.b</displayName>
+    <displayName lang="en">snake,amphibian/scorpion,spider I.B.3.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.3.c">
+  <category code="I.B.3.c">
    <displayNames>
-    <displayName lang="en">insects TN_I.B.3.c</displayName>
+    <displayName lang="en">insects I.B.3.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.3.d">
+  <category code="I.B.3.d">
    <displayNames>
-    <displayName lang="en">fish TN_I.B.3.d</displayName>
+    <displayName lang="en">fish I.B.3.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.4">
+  <category code="I.B.4">
    <displayNames>
-    <displayName lang="en">trees TN_I.B.4</displayName>
+    <displayName lang="en">trees I.B.4</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.4.a">
+  <category code="I.B.4.a">
    <displayNames>
-    <displayName lang="en">root TN_I.B.4.a</displayName>
+    <displayName lang="en">root I.B.4.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.4.b">
+  <category code="I.B.4.b">
    <displayNames>
-    <displayName lang="en">shea TN_I.B.4.b</displayName>
+    <displayName lang="en">shea I.B.4.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.5">
+  <category code="I.B.5">
    <displayNames>
-    <displayName lang="en">plants : plant products TN_I.B.5</displayName>
+    <displayName lang="en">plants : plant products I.B.5</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B.5.a">
+  <category code="I.B.5.a">
    <displayNames>
-    <displayName lang="en">leaf TN_I.B.5.a</displayName>
+    <displayName lang="en">leaf I.B.5.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.B3.b">
+  <category code="I.B3.b">
   </category>
 
-  <category code="TN_I.C">
+  <category code="I.C">
    <displayNames>
-    <displayName lang="en">Abstract-relationships TN_I.C</displayName>
+    <displayName lang="en">Abstract-relationships I.C</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.1">
+  <category code="I.C.1">
    <displayNames>
-    <displayName lang="en">Existence TN_I.C.1</displayName>
+    <displayName lang="en">Existence I.C.1</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.1.a">
+  <category code="I.C.1.a">
    <displayNames>
-    <displayName lang="en">existence TN_I.C.1.a</displayName>
+    <displayName lang="en">existence I.C.1.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.1.b">
+  <category code="I.C.1.b">
    <displayNames>
-    <displayName lang="en">identity TN_I.C.1.b</displayName>
+    <displayName lang="en">identity I.C.1.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.1.c">
+  <category code="I.C.1.c">
    <displayNames>
-    <displayName lang="en">integrity TN_I.C.1.c</displayName>
+    <displayName lang="en">integrity I.C.1.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.1.d">
+  <category code="I.C.1.d">
    <displayNames>
-    <displayName lang="en">life TN_I.C.1.d</displayName>
+    <displayName lang="en">life I.C.1.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.1.e">
+  <category code="I.C.1.e">
    <displayNames>
-    <displayName lang="en">effect TN_I.C.1.e</displayName>
+    <displayName lang="en">effect I.C.1.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.1.f">
+  <category code="I.C.1.f">
    <displayNames>
-    <displayName lang="en">Exclamations TN_I.C.1.f</displayName>
+    <displayName lang="en">Exclamations I.C.1.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.1d">
+  <category code="I.C.1d">
   </category>
 
-  <category code="TN_I.C.2">
+  <category code="I.C.2">
    <displayNames>
-    <displayName lang="en">numeration TN_I.C.2</displayName>
+    <displayName lang="en">numeration I.C.2</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.2.a">
+  <category code="I.C.2.a">
    <displayNames>
-    <displayName lang="en">numerals TN_I.C.2.a</displayName>
+    <displayName lang="en">numerals I.C.2.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.2.b">
+  <category code="I.C.2.b">
    <displayNames>
-    <displayName lang="en">how much? TN_I.C.2.b</displayName>
+    <displayName lang="en">how much? I.C.2.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.3">
+  <category code="I.C.3">
    <displayNames>
-    <displayName lang="en">space TN_I.C.3</displayName>
+    <displayName lang="en">space I.C.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.3.a">
+  <category code="I.C.3.a">
    <displayNames>
-    <displayName lang="en">dimension TN_I.C.3.a</displayName>
+    <displayName lang="en">dimension I.C.3.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.3.b">
+  <category code="I.C.3.b">
    <displayNames>
-    <displayName lang="en">form TN_I.C.3.b</displayName>
+    <displayName lang="en">form I.C.3.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.3.c">
+  <category code="I.C.3.c">
    <displayNames>
-    <displayName lang="en">relationship TN_I.C.3.c</displayName>
+    <displayName lang="en">relationship I.C.3.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.3.d">
+  <category code="I.C.3.d">
    <displayNames>
-    <displayName lang="en">motion TN_I.C.3.d</displayName>
+    <displayName lang="en">motion I.C.3.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.3.e">
+  <category code="I.C.3.e">
    <displayNames>
-    <displayName lang="en">location TN_I.C.3.e</displayName>
+    <displayName lang="en">location I.C.3.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.3.f">
+  <category code="I.C.3.f">
    <displayNames>
-    <displayName lang="en">position TN_I.C.3.f</displayName>
+    <displayName lang="en">position I.C.3.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4">
+  <category code="I.C.4">
    <displayNames>
-    <displayName lang="en">time TN_I.C.4</displayName>
+    <displayName lang="en">time I.C.4</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4.a">
+  <category code="I.C.4.a">
   </category>
 
-  <category code="TN_I.C.4.a.i">
+  <category code="I.C.4.a.i">
    <displayNames>
-    <displayName lang="en">dimension TN_I.C.4.a.i</displayName>
+    <displayName lang="en">dimension I.C.4.a.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4.a.ii">
+  <category code="I.C.4.a.ii">
    <displayNames>
-    <displayName lang="en">change of ... TN_I.C.4.a.ii</displayName>
+    <displayName lang="en">change of ... I.C.4.a.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4.a.iii">
+  <category code="I.C.4.a.iii">
    <displayNames>
-    <displayName lang="en">location in, duration TN_I.C.4.a.iii</displayName>
+    <displayName lang="en">location in, duration I.C.4.a.iii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4.b">
+  <category code="I.C.4.b">
    <displayNames>
-    <displayName lang="en">specific TN_I.C.4.b</displayName>
+    <displayName lang="en">specific I.C.4.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4.b.ii">
+  <category code="I.C.4.b.ii">
    <displayNames>
-    <displayName lang="en">change of ... TN_I.C.4.b.ii</displayName>
+    <displayName lang="en">change of ... I.C.4.b.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4.c">
+  <category code="I.C.4.c">
    <displayNames>
-    <displayName lang="en">time-relations TN_I.C.4.c</displayName>
+    <displayName lang="en">time-relations I.C.4.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4.d.i">
+  <category code="I.C.4.d.i">
    <displayNames>
-    <displayName lang="en">phase of event TN_I.C.4.d.i</displayName>
+    <displayName lang="en">phase of event I.C.4.d.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.4.d.ii">
+  <category code="I.C.4.d.ii">
    <displayNames>
-    <displayName lang="en">verbal-tenses/aspects TN_I.C.4.d.ii</displayName>
+    <displayName lang="en">verbal-tenses/aspects I.C.4.d.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.5">
+  <category code="I.C.5">
    <displayNames>
-    <displayName lang="en">logic TN_I.C.5</displayName>
+    <displayName lang="en">logic I.C.5</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6">
+  <category code="I.C.6">
    <displayNames>
-    <displayName lang="en">qualities TN_I.C.6</displayName>
+    <displayName lang="en">qualities I.C.6</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6.a">
+  <category code="I.C.6.a">
    <displayNames>
-    <displayName lang="en">colour TN_I.C.6.a</displayName>
+    <displayName lang="en">colour I.C.6.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6.b">
+  <category code="I.C.6.b">
    <displayNames>
-    <displayName lang="en">flavour TN_I.C.6.b</displayName>
+    <displayName lang="en">flavour I.C.6.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6.c">
+  <category code="I.C.6.c">
    <displayNames>
-    <displayName lang="en">texture TN_I.C.6.c</displayName>
+    <displayName lang="en">texture I.C.6.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6.d">
+  <category code="I.C.6.d">
    <displayNames>
-    <displayName lang="en">actions TN_I.C.6.d</displayName>
+    <displayName lang="en">actions I.C.6.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6.e">
+  <category code="I.C.6.e">
    <displayNames>
-    <displayName lang="en">imperfections TN_I.C.6.e</displayName>
+    <displayName lang="en">imperfections I.C.6.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6.f">
+  <category code="I.C.6.f">
    <displayNames>
-    <displayName lang="en">pattern TN_I.C.6.f</displayName>
+    <displayName lang="en">pattern I.C.6.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6.g">
+  <category code="I.C.6.g">
    <displayNames>
-    <displayName lang="en">wet, cold &c TN_I.C.6.g</displayName>
+    <displayName lang="en">wet, cold &c I.C.6.g</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.6.h">
+  <category code="I.C.6.h">
    <displayNames>
-    <displayName lang="en">sound TN_I.C.6.h</displayName>
+    <displayName lang="en">sound I.C.6.h</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.D">
+  <category code="I.D">
    <displayNames>
-    <displayName lang="en">States and Motions TN_I.D</displayName>
+    <displayName lang="en">States and Motions I.D</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.D.1">
+  <category code="I.D.1">
    <displayNames>
-    <displayName lang="en">fall in drops TN_I.D.1</displayName>
+    <displayName lang="en">fall in drops I.D.1</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.D.5.f">
+  <category code="I.D.5.f">
   </category>
 
-  <category code="TN_II">
+  <category code="II">
    <displayNames>
-    <displayName lang="en">HUMAN LIFE TN_II</displayName>
+    <displayName lang="en">HUMAN LIFE II</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.2.a">
+  <category code="II.2.a">
   </category>
 
-  <category code="TN_II.A">
+  <category code="II.A">
    <displayNames>
-    <displayName lang="en">Human-body TN_II.A</displayName>
+    <displayName lang="en">Human-body II.A</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1">
+  <category code="II.A.1">
    <displayNames>
-    <displayName lang="en">whole/parts TN_II.A.1</displayName>
+    <displayName lang="en">whole/parts II.A.1</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.">
+  <category code="II.A.1.">
   </category>
 
-  <category code="TN_II.A.1.a">
+  <category code="II.A.1.a">
    <displayNames>
-    <displayName lang="en">body(whole) TN_II.A.1.a</displayName>
+    <displayName lang="en">body(whole) II.A.1.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.b">
+  <category code="II.A.1.b">
    <displayNames>
-    <displayName lang="en">head TN_II.A.1.b</displayName>
+    <displayName lang="en">head II.A.1.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.c">
+  <category code="II.A.1.c">
    <displayNames>
-    <displayName lang="en">neck TN_II.A.1.c</displayName>
+    <displayName lang="en">neck II.A.1.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.d">
+  <category code="II.A.1.d">
    <displayNames>
-    <displayName lang="en">lungs TN_II.A.1.d</displayName>
+    <displayName lang="en">lungs II.A.1.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.e">
+  <category code="II.A.1.e">
    <displayNames>
-    <displayName lang="en">pubes TN_II.A.1.e</displayName>
+    <displayName lang="en">pubes II.A.1.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.f">
+  <category code="II.A.1.f">
    <displayNames>
-    <displayName lang="en">arm-and-hand TN_II.A.1.f</displayName>
+    <displayName lang="en">arm-and-hand II.A.1.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.g">
+  <category code="II.A.1.g">
    <displayNames>
-    <displayName lang="en">foot-and-leg TN_II.A.1.g</displayName>
+    <displayName lang="en">foot-and-leg II.A.1.g</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.h">
+  <category code="II.A.1.h">
    <displayNames>
-    <displayName lang="en">skin,urine TN_II.A.1.h</displayName>
+    <displayName lang="en">skin,urine II.A.1.h</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.1.i">
+  <category code="II.A.1.i">
    <displayNames>
-    <displayName lang="en">shadow TN_II.A.1.i</displayName>
+    <displayName lang="en">shadow II.A.1.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.2">
+  <category code="II.A.2">
    <displayNames>
-    <displayName lang="en">bodily-functions (do/act behave) TN_II.A.2</displayName>
+    <displayName lang="en">bodily-functions (do/act behave) II.A.2</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.2.a">
+  <category code="II.A.2.a">
    <displayNames>
-    <displayName lang="en">eat TN_II.A.2.a</displayName>
+    <displayName lang="en">eat II.A.2.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.2.b">
+  <category code="II.A.2.b">
    <displayNames>
-    <displayName lang="en">be-awake TN_II.A.2.b</displayName>
+    <displayName lang="en">be-awake II.A.2.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.2.c">
+  <category code="II.A.2.c">
    <displayNames>
-    <displayName lang="en">standing,be TN_II.A.2.c</displayName>
+    <displayName lang="en">standing,be II.A.2.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.2.d">
+  <category code="II.A.2.d">
    <displayNames>
-    <displayName lang="en">open-eyes TN_II.A.2.d</displayName>
+    <displayName lang="en">open-eyes II.A.2.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.2.e">
+  <category code="II.A.2.e">
    <displayNames>
-    <displayName lang="en">shiver TN_II.A.2.e</displayName>
+    <displayName lang="en">shiver II.A.2.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.2.f">
+  <category code="II.A.2.f">
    <displayNames>
-    <displayName lang="en">urinate TN_II.A.2.f</displayName>
+    <displayName lang="en">urinate II.A.2.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.2a.">
+  <category code="II.A.2a.">
   </category>
 
-  <category code="TN_II.A.3">
+  <category code="II.A.3">
    <displayNames>
-    <displayName lang="en">perception TN_II.A.3</displayName>
+    <displayName lang="en">perception II.A.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.3.a">
+  <category code="II.A.3.a">
    <displayNames>
-    <displayName lang="en">sight TN_II.A.3.a</displayName>
+    <displayName lang="en">sight II.A.3.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.3.b">
+  <category code="II.A.3.b">
    <displayNames>
-    <displayName lang="en">hearing TN_II.A.3.b</displayName>
+    <displayName lang="en">hearing II.A.3.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.3.c">
+  <category code="II.A.3.c">
    <displayNames>
-    <displayName lang="en">smell TN_II.A.3.c</displayName>
+    <displayName lang="en">smell II.A.3.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.3.d">
+  <category code="II.A.3.d">
    <displayNames>
-    <displayName lang="en">touch TN_II.A.3.d</displayName>
+    <displayName lang="en">touch II.A.3.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.3.e">
+  <category code="II.A.3.e">
    <displayNames>
-    <displayName lang="en">taste TN_II.A.3.e</displayName>
+    <displayName lang="en">taste II.A.3.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.a">
+  <category code="II.A.4.a">
    <displayNames>
-    <displayName lang="en">manipulation TN_II.A.4.a</displayName>
+    <displayName lang="en">manipulation II.A.4.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.b">
+  <category code="II.A.4.b">
    <displayNames>
-    <displayName lang="en">type-of-action TN_II.A.4.b</displayName>
+    <displayName lang="en">type-of-action II.A.4.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.c">
+  <category code="II.A.4.c">
    <displayNames>
-    <displayName lang="en">position-of-object/s TN_II.A.4.c</displayName>
+    <displayName lang="en">position-of-object/s II.A.4.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.d">
+  <category code="II.A.4.d">
    <displayNames>
-    <displayName lang="en">state-of-object TN_II.A.4.d</displayName>
+    <displayName lang="en">state-of-object II.A.4.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.e">
+  <category code="II.A.4.e">
    <displayNames>
-    <displayName lang="en">construction/destruction TN_II.A.4.e</displayName>
+    <displayName lang="en">construction/destruction II.A.4.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.f">
+  <category code="II.A.4.f">
    <displayNames>
-    <displayName lang="en">active motion TN_II.A.4.f</displayName>
+    <displayName lang="en">active motion II.A.4.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.f.i">
+  <category code="II.A.4.f.i">
    <displayNames>
-    <displayName lang="en">mode TN_II.A.4.f.i</displayName>
+    <displayName lang="en">mode II.A.4.f.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.f.ii">
+  <category code="II.A.4.f.ii">
    <displayNames>
-    <displayName lang="en">source/goal TN_II.A.4.f.ii</displayName>
+    <displayName lang="en">source/goal II.A.4.f.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.4.f.iii">
+  <category code="II.A.4.f.iii">
    <displayNames>
-    <displayName lang="en">impact TN_II.A.4.f.iii</displayName>
+    <displayName lang="en">impact II.A.4.f.iii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.5">
+  <category code="II.A.5">
    <displayNames>
-    <displayName lang="en">toilet TN_II.A.5</displayName>
+    <displayName lang="en">toilet II.A.5</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.6">
+  <category code="II.A.6">
    <displayNames>
-    <displayName lang="en">health TN_II.A.6</displayName>
+    <displayName lang="en">health II.A.6</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.6.a">
+  <category code="II.A.6.a">
    <displayNames>
-    <displayName lang="en">well,to be TN_II.A.6.a</displayName>
+    <displayName lang="en">well,to be II.A.6.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.6.b">
+  <category code="II.A.6.b">
    <displayNames>
-    <displayName lang="en">disease TN_II.A.6.b</displayName>
+    <displayName lang="en">disease II.A.6.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.6.c">
+  <category code="II.A.6.c">
    <displayNames>
-    <displayName lang="en">handicap TN_II.A.6.c</displayName>
+    <displayName lang="en">handicap II.A.6.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.6.d">
+  <category code="II.A.6.d">
    <displayNames>
-    <displayName lang="en">medicine(modern)/(traditional) TN_II.A.6.d</displayName>
+    <displayName lang="en">medicine(modern)/(traditional) II.A.6.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.6.e">
+  <category code="II.A.6.e">
    <displayNames>
-    <displayName lang="en">injury TN_II.A.6.e</displayName>
+    <displayName lang="en">injury II.A.6.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.A.6.f">
+  <category code="II.A.6.f">
    <displayNames>
-    <displayName lang="en">mental stress TN_II.A.6.f</displayName>
+    <displayName lang="en">mental stress II.A.6.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B">
+  <category code="II.B">
    <displayNames>
-    <displayName lang="en">Intellect TN_II.B</displayName>
+    <displayName lang="en">Intellect II.B</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.1">
+  <category code="II.B.1">
    <displayNames>
-    <displayName lang="en">mentation TN_II.B.1</displayName>
+    <displayName lang="en">mentation II.B.1</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.1.a">
+  <category code="II.B.1.a">
    <displayNames>
-    <displayName lang="en">calculation TN_II.B.1.a</displayName>
+    <displayName lang="en">calculation II.B.1.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.1.b">
+  <category code="II.B.1.b">
    <displayNames>
-    <displayName lang="en">expectation TN_II.B.1.b</displayName>
+    <displayName lang="en">expectation II.B.1.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.2">
+  <category code="II.B.2">
    <displayNames>
-    <displayName lang="en">communication TN_II.B.2</displayName>
+    <displayName lang="en">communication II.B.2</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.2.a">
+  <category code="II.B.2.a">
    <displayNames>
-    <displayName lang="en">non-verbal TN_II.B.2.a</displayName>
+    <displayName lang="en">non-verbal II.B.2.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.2.b">
+  <category code="II.B.2.b">
    <displayNames>
-    <displayName lang="en">verbal TN_II.B.2.b</displayName>
+    <displayName lang="en">verbal II.B.2.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.2.b.i">
+  <category code="II.B.2.b.i">
    <displayNames>
-    <displayName lang="en">mode TN_II.B.2.b.i</displayName>
+    <displayName lang="en">mode II.B.2.b.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.2.b.ii">
+  <category code="II.B.2.b.ii">
    <displayNames>
-    <displayName lang="en">content TN_II.B.2.b.ii</displayName>
+    <displayName lang="en">content II.B.2.b.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.2.c">
+  <category code="II.B.2.c">
    <displayNames>
-    <displayName lang="en">verbal interaction TN_II.B.2.c</displayName>
+    <displayName lang="en">verbal interaction II.B.2.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.3">
+  <category code="II.B.3">
    <displayNames>
-    <displayName lang="en">emotion TN_II.B.3</displayName>
+    <displayName lang="en">emotion II.B.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.3.a.i">
+  <category code="II.B.3.a.i">
    <displayNames>
-    <displayName lang="en">positive emotions  TN_II.B.3.a.i</displayName>
+    <displayName lang="en">positive emotions  II.B.3.a.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.3.b">
+  <category code="II.B.3.b">
    <displayNames>
-    <displayName lang="en">exclamations TN_II.B.3.b</displayName>
+    <displayName lang="en">exclamations II.B.3.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.3.i">
+  <category code="II.B.3.i">
    <displayNames>
-    <displayName lang="en">positive emotions TN_II.B.3.i</displayName>
+    <displayName lang="en">positive emotions II.B.3.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.3.ii">
+  <category code="II.B.3.ii">
    <displayNames>
-    <displayName lang="en">negative emotions TN_II.B.3.ii</displayName>
+    <displayName lang="en">negative emotions II.B.3.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.4">
+  <category code="II.B.4">
    <displayNames>
-    <displayName lang="en">possession TN_II.B.4</displayName>
+    <displayName lang="en">possession II.B.4</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.4.a">
+  <category code="II.B.4.a">
    <displayNames>
-    <displayName lang="en">having, possessing TN_II.B.4.a</displayName>
+    <displayName lang="en">having, possessing II.B.4.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.4.b">
+  <category code="II.B.4.b">
    <displayNames>
-    <displayName lang="en">change of possession TN_II.B.4.b</displayName>
+    <displayName lang="en">change of possession II.B.4.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.4.c">
+  <category code="II.B.4.c">
    <displayNames>
-    <displayName lang="en">desire TN_II.B.4.c</displayName>
+    <displayName lang="en">desire II.B.4.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.5">
+  <category code="II.B.5">
    <displayNames>
-    <displayName lang="en">values TN_II.B.5</displayName>
+    <displayName lang="en">values II.B.5</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.5.a">
+  <category code="II.B.5.a">
    <displayNames>
-    <displayName lang="en">Good TN_II.B.5.a</displayName>
+    <displayName lang="en">Good II.B.5.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.5.a.i">
+  <category code="II.B.5.a.i">
    <displayNames>
-    <displayName lang="en">characteristics TN_II.B.5.a.i</displayName>
+    <displayName lang="en">characteristics II.B.5.a.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.5.a.ii">
+  <category code="II.B.5.a.ii">
    <displayNames>
-    <displayName lang="en">events (luck, success) TN_II.B.5.a.ii</displayName>
+    <displayName lang="en">events (luck, success) II.B.5.a.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.5.b">
+  <category code="II.B.5.b">
    <displayNames>
-    <displayName lang="en">Bad TN_II.B.5.b</displayName>
+    <displayName lang="en">Bad II.B.5.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.5.b.i">
+  <category code="II.B.5.b.i">
    <displayNames>
-    <displayName lang="en">characteristics TN_II.B.5.b.i</displayName>
+    <displayName lang="en">characteristics II.B.5.b.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.5.b.ii">
+  <category code="II.B.5.b.ii">
    <displayNames>
-    <displayName lang="en">events (bad luck, catastrophe) TN_II.B.5.b.ii</displayName>
+    <displayName lang="en">events (bad luck, catastrophe) II.B.5.b.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.6">
+  <category code="II.B.6">
    <displayNames>
-    <displayName lang="en">Religion TN_II.B.6</displayName>
+    <displayName lang="en">Religion II.B.6</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.6.a">
+  <category code="II.B.6.a">
    <displayNames>
-    <displayName lang="en">pagan TN_II.B.6.a</displayName>
+    <displayName lang="en">pagan II.B.6.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.6.b">
+  <category code="II.B.6.b">
    <displayNames>
-    <displayName lang="en">Muslim TN_II.B.6.b</displayName>
+    <displayName lang="en">Muslim II.B.6.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.B.6.c">
+  <category code="II.B.6.c">
    <displayNames>
-    <displayName lang="en">Christian TN_II.B.6.c</displayName>
+    <displayName lang="en">Christian II.B.6.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C">
+  <category code="II.C">
    <displayNames>
-    <displayName lang="en">Personal-Life TN_II.C</displayName>
+    <displayName lang="en">Personal-Life II.C</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.1">
+  <category code="II.C.1">
    <displayNames>
-    <displayName lang="en">house (list)TN_II.C.1</displayName>
+    <displayName lang="en">house (list)II.C.1</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.1.a">
+  <category code="II.C.1.a">
    <displayNames>
-    <displayName lang="en">town TN_II.C.1.a</displayName>
+    <displayName lang="en">town II.C.1.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.1.bis">
+  <category code="II.C.1.bis">
    <displayNames>
-    <displayName lang="en">house (plan) TN_II.C.1.bis</displayName>
+    <displayName lang="en">house (plan) II.C.1.bis</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.2">
+  <category code="II.C.2">
    <displayNames>
-    <displayName lang="en">domestic-equipment TN_II.C.2</displayName>
+    <displayName lang="en">domestic-equipment II.C.2</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.2.a">
+  <category code="II.C.2.a">
    <displayNames>
-    <displayName lang="en">loads TN_II.C.2.a</displayName>
+    <displayName lang="en">loads II.C.2.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.2.a.ii">
+  <category code="II.C.2.a.ii">
    <displayNames>
-    <displayName lang="en">pots TN_II.C.2.a.ii</displayName>
+    <displayName lang="en">pots II.C.2.a.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.2.b">
+  <category code="II.C.2.b">
    <displayNames>
-    <displayName lang="en">fire TN_II.C.2.b</displayName>
+    <displayName lang="en">fire II.C.2.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.2.c">
+  <category code="II.C.2.c">
    <displayNames>
-    <displayName lang="en">stirring-stick TN_II.C.2.c</displayName>
+    <displayName lang="en">stirring-stick II.C.2.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.2.d">
+  <category code="II.C.2.d">
    <displayNames>
-    <displayName lang="en">bed TN_II.C.2.d</displayName>
+    <displayName lang="en">bed II.C.2.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.2.e">
+  <category code="II.C.2.e">
    <displayNames>
-    <displayName lang="en">water TN_II.C.2.e</displayName>
+    <displayName lang="en">water II.C.2.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.2.f">
+  <category code="II.C.2.f">
    <displayNames>
-    <displayName lang="en">containers TN_II.C.2.f</displayName>
+    <displayName lang="en">containers II.C.2.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.3">
+  <category code="II.C.3">
    <displayNames>
-    <displayName lang="en">food-preparation/Consumption TN_II.C.3</displayName>
+    <displayName lang="en">food-preparation/Consumption II.C.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.3.a">
+  <category code="II.C.3.a">
    <displayNames>
-    <displayName lang="en">to-cook(gen) flavour TN_II.C.3.a</displayName>
+    <displayName lang="en">to-cook(gen) flavour II.C.3.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.3.b">
+  <category code="II.C.3.b">
    <displayNames>
-    <displayName lang="en">slice,to TN_II.C.3.b</displayName>
+    <displayName lang="en">slice,to II.C.3.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.3.c">
+  <category code="II.C.3.c">
    <displayNames>
-    <displayName lang="en">flour TN_II.C.3.c</displayName>
+    <displayName lang="en">flour II.C.3.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.3.d">
+  <category code="II.C.3.d">
    <displayNames>
-    <displayName lang="en">onion-greens(dried-) TN_II.C.3.d</displayName>
+    <displayName lang="en">onion-greens(dried-) II.C.3.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.3.e">
+  <category code="II.C.3.e">
    <displayNames>
-    <displayName lang="en">pito TN_II.C.3.e</displayName>
+    <displayName lang="en">pito II.C.3.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.3.f">
+  <category code="II.C.3.f">
    <displayNames>
-    <displayName lang="en">consumption, meals TN_II.C.3.f</displayName>
+    <displayName lang="en">consumption, meals II.C.3.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.4">
+  <category code="II.C.4">
    <displayNames>
-    <displayName lang="en">dress and adornment TN_II.C.4</displayName>
+    <displayName lang="en">dress and adornment II.C.4</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.4.a">
+  <category code="II.C.4.a">
    <displayNames>
-    <displayName lang="en">to dress / undress TN_II.C.4.a</displayName>
+    <displayName lang="en">to dress / undress II.C.4.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.4.b">
+  <category code="II.C.4.b">
    <displayNames>
-    <displayName lang="en">loincloth/T-string TN_II.C.4.b</displayName>
+    <displayName lang="en">loincloth/T-string II.C.4.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.4.c">
+  <category code="II.C.4.c">
    <displayNames>
-    <displayName lang="en">beads(waist-) TN_II.C.4.c</displayName>
+    <displayName lang="en">beads(waist-) II.C.4.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.4.d">
+  <category code="II.C.4.d">
    <displayNames>
-    <displayName lang="en">'lipstick'(red-greasy-cosmetic) TN_II.C.4.d</displayName>
+    <displayName lang="en">'lipstick'(red-greasy-cosmetic) II.C.4.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.4.e">
+  <category code="II.C.4.e">
    <displayNames>
-    <displayName lang="en">wash(clothes),to TN_II.C.4.e</displayName>
+    <displayName lang="en">wash(clothes),to II.C.4.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.4.f">
+  <category code="II.C.4.f">
    <displayNames>
-    <displayName lang="en">hairdressing TN_II.C.4.f</displayName>
+    <displayName lang="en">hairdressing II.C.4.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.C.5">
+  <category code="II.C.5">
    <displayNames>
-    <displayName lang="en">child-care TN_II.C.5</displayName>
+    <displayName lang="en">child-care II.C.5</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.">
+  <category code="II.D.">
    <displayNames>
-    <displayName lang="en">Economic-life TN_II.D.</displayName>
+    <displayName lang="en">Economic-life II.D.</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1">
+  <category code="II.D.1">
    <displayNames>
-    <displayName lang="en">farming TN_II.D.1</displayName>
+    <displayName lang="en">farming II.D.1</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1.a">
+  <category code="II.D.1.a">
    <displayNames>
-    <displayName lang="en">home-farm TN_II.D.1.a</displayName>
+    <displayName lang="en">home-farm II.D.1.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1.b">
+  <category code="II.D.1.b">
    <displayNames>
-    <displayName lang="en">tools TN_II.D.1.b</displayName>
+    <displayName lang="en">tools II.D.1.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1.b.bis">
+  <category code="II.D.1.b.bis">
    <displayNames>
-    <displayName lang="en">tools(drawings) TN_II.D.1.b.bis</displayName>
+    <displayName lang="en">tools(drawings) II.D.1.b.bis</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1.c">
+  <category code="II.D.1.c">
    <displayNames>
-    <displayName lang="en">grain/cereal TN_II.D.1.c</displayName>
+    <displayName lang="en">grain/cereal II.D.1.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1.d">
+  <category code="II.D.1.d">
    <displayNames>
-    <displayName lang="en">yam TN_II.D.1.d</displayName>
+    <displayName lang="en">yam II.D.1.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1.e">
+  <category code="II.D.1.e">
    <displayNames>
-    <displayName lang="en">garden TN_II.D.1.e</displayName>
+    <displayName lang="en">garden II.D.1.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1.f">
+  <category code="II.D.1.f">
    <displayNames>
-    <displayName lang="en">gourd(plant) TN_II.D.1.f</displayName>
+    <displayName lang="en">gourd(plant) II.D.1.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.1.g">
+  <category code="II.D.1.g">
    <displayNames>
-    <displayName lang="en">harvesting activities TN_II.D.1.g</displayName>
+    <displayName lang="en">harvesting activities II.D.1.g</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.2">
+  <category code="II.D.2">
    <displayNames>
-    <displayName lang="en">animal-husbandry TN_II.D.2</displayName>
+    <displayName lang="en">animal-husbandry II.D.2</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.2.a">
+  <category code="II.D.2.a">
    <displayNames>
-    <displayName lang="en">bovine TN_II.D.2.a</displayName>
+    <displayName lang="en">bovine II.D.2.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.2.b">
+  <category code="II.D.2.b">
    <displayNames>
-    <displayName lang="en">fowl TN_II.D.2.b</displayName>
+    <displayName lang="en">fowl II.D.2.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.2.c">
+  <category code="II.D.2.c">
    <displayNames>
-    <displayName lang="en">raise(animals), to TN_II.D.2.c</displayName>
+    <displayName lang="en">raise(animals), to II.D.2.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.2.d">
+  <category code="II.D.2.d">
    <displayNames>
-    <displayName lang="en">baskets, stables... TN_II.D.2.d</displayName>
+    <displayName lang="en">baskets, stables... II.D.2.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.3">
+  <category code="II.D.3">
    <displayNames>
-    <displayName lang="en">fishing TN_II.D.3</displayName>
+    <displayName lang="en">fishing II.D.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.4">
+  <category code="II.D.4">
    <displayNames>
-    <displayName lang="en">'bush'-products TN_II.D.4</displayName>
+    <displayName lang="en">'bush'-products II.D.4</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.4.a">
+  <category code="II.D.4.a">
    <displayNames>
-    <displayName lang="en">hunt(game),to TN_II.D.4.a</displayName>
+    <displayName lang="en">hunt(game),to II.D.4.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.4.b">
+  <category code="II.D.4.b">
    <displayNames>
-    <displayName lang="en">dawadawa-tree TN_II.D.4.b</displayName>
+    <displayName lang="en">dawadawa-tree II.D.4.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.4.c">
+  <category code="II.D.4.c">
    <displayNames>
-    <displayName lang="en">bee TN_II.D.4.c</displayName>
+    <displayName lang="en">bee II.D.4.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.4.d">
+  <category code="II.D.4.d">
   </category>
 
-  <category code="TN_II.D.5">
+  <category code="II.D.5">
    <displayNames>
-    <displayName lang="en">market/trade TN_II.D.5</displayName>
+    <displayName lang="en">market/trade II.D.5</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.a">
+  <category code="II.D.5.a">
    <displayNames>
-    <displayName lang="en">money TN_II.D.5.a</displayName>
+    <displayName lang="en">money II.D.5.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.a.i">
+  <category code="II.D.5.a.i">
    <displayNames>
-    <displayName lang="en">personal TN_II.D.5.a.i</displayName>
+    <displayName lang="en">personal II.D.5.a.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.a.ii">
+  <category code="II.D.5.a.ii">
    <displayNames>
-    <displayName lang="en">bank, invest, interest ... TN_II.D.5.a.ii</displayName>
+    <displayName lang="en">bank, invest, interest ... II.D.5.a.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.a.iii">
+  <category code="II.D.5.a.iii">
    <displayNames>
-    <displayName lang="en">employ, wages, strike ... TN_II.D.5.a.iii</displayName>
+    <displayName lang="en">employ, wages, strike ... II.D.5.a.iii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.b">
+  <category code="II.D.5.b">
    <displayNames>
-    <displayName lang="en">market TN_II.D.5.b</displayName>
+    <displayName lang="en">market II.D.5.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.c">
+  <category code="II.D.5.c">
    <displayNames>
-    <displayName lang="en">commodities - salt TN_II.D.5.c</displayName>
+    <displayName lang="en">commodities - salt II.D.5.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.d">
+  <category code="II.D.5.d">
    <displayNames>
-    <displayName lang="en">eating-booth/'chop-bar' TN_II.D.5.d</displayName>
+    <displayName lang="en">eating-booth/'chop-bar' II.D.5.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.e">
+  <category code="II.D.5.e">
    <displayNames>
-    <displayName lang="en">drinking-bar TN_II.D.5.e</displayName>
+    <displayName lang="en">drinking-bar II.D.5.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.f">
+  <category code="II.D.5.f">
    <displayNames>
-    <displayName lang="en">butcher TN_II.D.5.f</displayName>
+    <displayName lang="en">butcher II.D.5.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.5.g">
+  <category code="II.D.5.g">
    <displayNames>
-    <displayName lang="en">fish TN_II.D.5.g</displayName>
+    <displayName lang="en">fish II.D.5.g</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6">
+  <category code="II.D.6">
    <displayNames>
-    <displayName lang="en">crafts TN_II.D.6</displayName>
+    <displayName lang="en">crafts II.D.6</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.a">
+  <category code="II.D.6.a">
    <displayNames>
-    <displayName lang="en">spin-thread,to TN_II.D.6.a</displayName>
+    <displayName lang="en">spin-thread,to II.D.6.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.b">
+  <category code="II.D.6.b">
    <displayNames>
-    <displayName lang="en">tailor TN_II.D.6.b</displayName>
+    <displayName lang="en">tailor II.D.6.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.c">
+  <category code="II.D.6.c">
    <displayNames>
-    <displayName lang="en">leather-worker TN_II.D.6.c</displayName>
+    <displayName lang="en">leather-worker II.D.6.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.d">
+  <category code="II.D.6.d">
    <displayNames>
-    <displayName lang="en">corn-mill TN_II.D.6.d</displayName>
+    <displayName lang="en">corn-mill II.D.6.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.e">
+  <category code="II.D.6.e">
    <displayNames>
-    <displayName lang="en">carpenter TN_II.D.6.e</displayName>
+    <displayName lang="en">carpenter II.D.6.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.f">
+  <category code="II.D.6.f">
    <displayNames>
-    <displayName lang="en">potter TN_II.D.6.f</displayName>
+    <displayName lang="en">potter II.D.6.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.g">
+  <category code="II.D.6.g">
    <displayNames>
-    <displayName lang="en">blacksmith TN_II.D.6.g</displayName>
+    <displayName lang="en">blacksmith II.D.6.g</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.g.i">
+  <category code="II.D.6.g.i">
    <displayNames>
-    <displayName lang="en">fine metalwork TN_II.D.6.g.i</displayName>
+    <displayName lang="en">fine metalwork II.D.6.g.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.h">
+  <category code="II.D.6.h">
    <displayNames>
-    <displayName lang="en">mason TN_II.D.6.h</displayName>
+    <displayName lang="en">mason II.D.6.h</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.h.i">
+  <category code="II.D.6.h.i">
    <displayNames>
-    <displayName lang="en">structure TN_II.D.6.h.i</displayName>
+    <displayName lang="en">structure II.D.6.h.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.h.ii">
+  <category code="II.D.6.h.ii">
    <displayNames>
-    <displayName lang="en">roofing TN_II.D.6.h.ii</displayName>
+    <displayName lang="en">roofing II.D.6.h.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.h.iii">
+  <category code="II.D.6.h.iii">
    <displayNames>
-    <displayName lang="en">fittings TN_II.D.6.h.iii</displayName>
+    <displayName lang="en">fittings II.D.6.h.iii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.h.iv">
+  <category code="II.D.6.h.iv">
    <displayNames>
-    <displayName lang="en">decoration TN_II.D.6.h.iv</displayName>
+    <displayName lang="en">decoration II.D.6.h.iv</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.h]">
+  <category code="II.D.6.h]">
    <displayNames>
-    <displayName lang="en">house (list) II.C.1 [building see TN_II.D.6.h]</displayName>
+    <displayName lang="en">house (list) II.C.1 [building see II.D.6.h]</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.i">
+  <category code="II.D.6.i">
    <displayNames>
-    <displayName lang="en">mat(sleeping-), rope... TN_II.D.6.i</displayName>
+    <displayName lang="en">mat(sleeping-), rope... II.D.6.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.j">
+  <category code="II.D.6.j">
    <displayNames>
-    <displayName lang="en">mining TN_II.D.6.j</displayName>
+    <displayName lang="en">mining II.D.6.j</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.k">
+  <category code="II.D.6.k">
    <displayNames>
-    <displayName lang="en">barber, hairdresser TN_II.D.6.k</displayName>
+    <displayName lang="en">barber, hairdresser II.D.6.k</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.6.l">
+  <category code="II.D.6.l">
    <displayNames>
-    <displayName lang="en">metal-worker TN_II.D.6.l</displayName>
+    <displayName lang="en">metal-worker II.D.6.l</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.7">
+  <category code="II.D.7">
    <displayNames>
-    <displayName lang="en">transportation TN_II.D.7</displayName>
+    <displayName lang="en">transportation II.D.7</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.7.a">
+  <category code="II.D.7.a">
    <displayNames>
-    <displayName lang="en">horse TN_II.D.7.a</displayName>
+    <displayName lang="en">horse II.D.7.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.7.b">
+  <category code="II.D.7.b">
    <displayNames>
-    <displayName lang="en">boat TN_II.D.7.b</displayName>
+    <displayName lang="en">boat II.D.7.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.7.c">
+  <category code="II.D.7.c">
    <displayNames>
-    <displayName lang="en">lorry/truck TN_II.D.7.c</displayName>
+    <displayName lang="en">lorry/truck II.D.7.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.7.d">
+  <category code="II.D.7.d">
    <displayNames>
-    <displayName lang="en">bicycle TN_II.D.7.d</displayName>
+    <displayName lang="en">bicycle II.D.7.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.7.e">
+  <category code="II.D.7.e">
    <displayNames>
-    <displayName lang="en">road TN_II.D.7.e</displayName>
+    <displayName lang="en">road II.D.7.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.7.f">
+  <category code="II.D.7.f">
    <displayNames>
-    <displayName lang="en">train TN_II.D.7.f</displayName>
+    <displayName lang="en">train II.D.7.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.7.g">
+  <category code="II.D.7.g">
    <displayNames>
-    <displayName lang="en">aeroplane TN_II.D.7.g</displayName>
+    <displayName lang="en">aeroplane II.D.7.g</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.D.8">
+  <category code="II.D.8">
    <displayNames>
-    <displayName lang="en">cash economy TN_II.D.8</displayName>
+    <displayName lang="en">cash economy II.D.8</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E">
+  <category code="II.E">
    <displayNames>
-    <displayName lang="en">Social Life TN_II.E</displayName>
+    <displayName lang="en">Social Life II.E</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.">
+  <category code="II.E.">
    <displayNames>
-    <displayName lang="en">human-classification TN_II.E.</displayName>
+    <displayName lang="en">human-classification II.E.</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.1.a">
+  <category code="II.E.1.a">
    <displayNames>
-    <displayName lang="en">person TN_II.E.1.a</displayName>
+    <displayName lang="en">person II.E.1.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.1.b">
+  <category code="II.E.1.b">
    <displayNames>
-    <displayName lang="en">ethnic-group/tribe TN_II.E.1.b</displayName>
+    <displayName lang="en">ethnic-group/tribe II.E.1.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.1.b.i">
+  <category code="II.E.1.b.i">
    <displayNames>
-    <displayName lang="en">Local place name TN_II.E.1.b.i</displayName>
+    <displayName lang="en">Local place name II.E.1.b.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.1.c">
+  <category code="II.E.1.c">
    <displayNames>
-    <displayName lang="en">Kinship TN_II.E.1.c</displayName>
+    <displayName lang="en">Kinship II.E.1.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.1.d">
+  <category code="II.E.1.d">
    <displayNames>
-    <displayName lang="en">personal-names(with meanings) TN_II.E.1.d</displayName>
+    <displayName lang="en">personal-names(with meanings) II.E.1.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.1.e">
+  <category code="II.E.1.e">
    <displayNames>
-    <displayName lang="en">rich-man TN_II.E.1.e</displayName>
+    <displayName lang="en">rich-man II.E.1.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.2">
+  <category code="II.E.2">
    <displayNames>
-    <displayName lang="en">traditional-Authority TN_II.E.2</displayName>
+    <displayName lang="en">traditional-Authority II.E.2</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.2.a">
+  <category code="II.E.2.a">
    <displayNames>
-    <displayName lang="en">chief TN_II.E.2.a</displayName>
+    <displayName lang="en">chief II.E.2.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.2.a.i">
+  <category code="II.E.2.a.i">
    <displayNames>
-    <displayName lang="en">regalia TN_II.E.2.a.i</displayName>
+    <displayName lang="en">regalia II.E.2.a.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.2.b">
+  <category code="II.E.2.b">
    <displayNames>
-    <displayName lang="en">other TN_II.E.2.b</displayName>
+    <displayName lang="en">other II.E.2.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.2.c">
+  <category code="II.E.2.c">
    <displayNames>
-    <displayName lang="en">hearing cases TN_II.E.2.c</displayName>
+    <displayName lang="en">hearing cases II.E.2.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.3">
+  <category code="II.E.3">
    <displayNames>
-    <displayName lang="en">modern-Authority TN_II.E.3</displayName>
+    <displayName lang="en">modern-Authority II.E.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.3.a">
+  <category code="II.E.3.a">
    <displayNames>
-    <displayName lang="en">government TN_II.E.3.a</displayName>
+    <displayName lang="en">government II.E.3.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.3.b">
+  <category code="II.E.3.b">
    <displayNames>
-    <displayName lang="en">police, prison TN_II.E.3.b</displayName>
+    <displayName lang="en">police, prison II.E.3.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.3.c">
+  <category code="II.E.3.c">
    <displayNames>
-    <displayName lang="en">school TN_II.E.3.c</displayName>
+    <displayName lang="en">school II.E.3.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.3.d">
+  <category code="II.E.3.d">
    <displayNames>
-    <displayName lang="en">military TN_II.E.3.d</displayName>
+    <displayName lang="en">military II.E.3.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.4">
+  <category code="II.E.4">
    <displayNames>
-    <displayName lang="en">personal-interaction TN_II.E.4</displayName>
+    <displayName lang="en">personal-interaction II.E.4</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.4.a">
+  <category code="II.E.4.a">
    <displayNames>
-    <displayName lang="en">love TN_II.E.4.a</displayName>
+    <displayName lang="en">love II.E.4.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.4.b">
+  <category code="II.E.4.b">
    <displayNames>
-    <displayName lang="en">hate TN_II.E.4.b</displayName>
+    <displayName lang="en">hate II.E.4.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.4.c">
+  <category code="II.E.4.c">
    <displayNames>
-    <displayName lang="en">to-accompany TN_II.E.4.c</displayName>
+    <displayName lang="en">to-accompany II.E.4.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.4.d">
+  <category code="II.E.4.d">
    <displayNames>
-    <displayName lang="en">to-hurt/injure TN_II.E.4.d</displayName>
+    <displayName lang="en">to-hurt/injure II.E.4.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5">
+  <category code="II.E.5">
    <displayNames>
-    <displayName lang="en">social-activities TN_II.E.5</displayName>
+    <displayName lang="en">social-activities II.E.5</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.a">
+  <category code="II.E.5.a">
    <displayNames>
-    <displayName lang="en">work-party/communal-labour TN_II.E.5.a</displayName>
+    <displayName lang="en">work-party/communal-labour II.E.5.a</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.b">
+  <category code="II.E.5.b">
    <displayNames>
-    <displayName lang="en">funeral TN_II.E.5.b</displayName>
+    <displayName lang="en">funeral II.E.5.b</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.c">
+  <category code="II.E.5.c">
    <displayNames>
-    <displayName lang="en">he-marries-her TN_II.E.5.c</displayName>
+    <displayName lang="en">he-marries-her II.E.5.c</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.d">
+  <category code="II.E.5.d">
    <displayNames>
-    <displayName lang="en">entertainment TN_II.E.5.d</displayName>
+    <displayName lang="en">entertainment II.E.5.d</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.d.i">
+  <category code="II.E.5.d.i">
    <displayNames>
-    <displayName lang="en">music TN_II.E.5.d.i</displayName>
+    <displayName lang="en">music II.E.5.d.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.d.ii">
+  <category code="II.E.5.d.ii">
    <displayNames>
-    <displayName lang="en">other TN_II.E.5.d.ii</displayName>
+    <displayName lang="en">other II.E.5.d.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.e">
+  <category code="II.E.5.e">
    <displayNames>
-    <displayName lang="en">story TN_II.E.5.e</displayName>
+    <displayName lang="en">story II.E.5.e</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.f">
+  <category code="II.E.5.f">
    <displayNames>
-    <displayName lang="en">play, game TN_II.E.5.f</displayName>
+    <displayName lang="en">play, game II.E.5.f</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.f.i">
+  <category code="II.E.5.f.i">
    <displayNames>
-    <displayName lang="en">football TN_II.E.5.f.i</displayName>
+    <displayName lang="en">football II.E.5.f.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.f.ii">
+  <category code="II.E.5.f.ii">
    <displayNames>
-    <displayName lang="en">cards TN_II.E.5.f.ii</displayName>
+    <displayName lang="en">cards II.E.5.f.ii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.f.iii">
+  <category code="II.E.5.f.iii">
    <displayNames>
-    <displayName lang="en">toy, doll TN_II.E.5.f.iii</displayName>
+    <displayName lang="en">toy, doll II.E.5.f.iii</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.g">
+  <category code="II.E.5.g">
    <displayNames>
-    <displayName lang="en">cigarette TN_II.E.5.g</displayName>
+    <displayName lang="en">cigarette II.E.5.g</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.h">
+  <category code="II.E.5.h">
    <displayNames>
-    <displayName lang="en">photograph TN_II.E.5.h</displayName>
+    <displayName lang="en">photograph II.E.5.h</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_II.E.5.i">
+  <category code="II.E.5.i">
    <displayNames>
-    <displayName lang="en">war TN_II.E.5.i</displayName>
+    <displayName lang="en">war II.E.5.i</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_I.C.3">
+  <category code="I.C.3">
    <displayNames>
-    <displayName lang="en">Space TN_I.C.3</displayName>
+    <displayName lang="en">Space I.C.3</displayName>
    </displayNames>
   </category>
 
-  <category code="TN_ZZ">
+  <category code="ZZ">
    <displayNames>
-    <displayName lang="en">Uncategorized TN_ZZ</displayName>
+    <displayName lang="en">Uncategorized ZZ</displayName>
    </displayNames>
    <descriptions>
     <description lang="en">Most of these have a valid category but have not been tagged</description>
