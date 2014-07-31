@@ -100,7 +100,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɩda
+\fldPri natɩ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -118,7 +118,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 673 0 25 30 30 1216 476
-\z 6
+\z 9
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -146,11 +146,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey ɩda
+\fldPriKey a-
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɩda
+\fldPri natɩ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -200,7 +200,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɩda
+\fldPri natɩ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -219,7 +219,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 729 0 24 953 24 1436 469
-\z 10
+\z 8
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -298,14 +298,13 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey ge
-\srtPriKey English
-\mkrSecKey lx
-\fil SemanticDomain
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey ge
 \-ind
 \+rec 
-\fldPriKey North
-\fldSecKey dimbisʋ
+\fldPriKey a-
+\fldSecKey PL
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -317,7 +316,7 @@
 \-keyInsert
 \CaretLine 8
 \CaretLineScroll 8
-\CaretChar 5
+\CaretChar 1
 \fldPriKey TN_ZZ
 \fldSecKey Afrika
 >>>>>>> Stashed changes
@@ -325,12 +324,11 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -8 -28 172 125 1413 496
-\z 7
+\z 10
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
 \widthMarkerArea 165
-\Browse
 \JumpTarget
 \+brflst 
 \FieldEmptyEntry *empty*
@@ -358,8 +356,8 @@
 \mkrSecKey ge
 \-ind
 \+rec 
-\fldPriKey oboyi
-\fldSecKey neck (nape of neck)
+\fldPriKey natɩ
+\fldSecKey spider
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -369,6 +367,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
+\CaretLine 9
+\CaretLineScroll 9
+\CaretChar 0
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 253 253 1436 798
@@ -404,8 +405,8 @@
 \mkrSecKey lx
 \-ind
 \+rec 
-\fldPriKey TN_II.D.5.d
-\fldSecKey bodobodo maɩnhɛ
+\fldPriKey
+\fldSecKey akonya
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -415,8 +416,8 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 4
-\CaretLineScroll 4
+\CaretLine 0
+\CaretLineScroll 0
 \CaretChar 0
 \-wnd
 \+wnd 
@@ -563,7 +564,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -1 -1 0 0 486 568
-\z 8
+\z 6
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -599,7 +600,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 196 567 988 791
-\z 9
+\z 7
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -613,7 +614,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 915
+\width 541
 \-brf
 \-brflst
 \+ind 
@@ -640,6 +641,7 @@
 
 \-dblst
 \+Find 
+\SingleField
 \Field sd
 \match_char e
 \+ftxlst 
@@ -713,6 +715,10 @@
 \-ftx
 \+ftx 
 \text enema
+\lng English
+\-ftx
+\+ftx 
+\text ;
 \lng English
 \-ftx
 \-ftxlst
