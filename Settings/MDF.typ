@@ -570,19 +570,19 @@
 \CharStyle
 \-mkr
 
-\+mkr php
-\nam Phonetic form-plural
-\desc pronunciation of plural form
-\lng phonetic
-\mkrOverThis pl
-\CharStyle
-\-mkr
-
 \+mkr pl
 \nam Plural form
 \desc This is a special paradigm field used to give the plural form of the lexeme. (It is better to use the \pdl field set for this.)
 \lng vernacular
 \mkrOverThis ps
+\CharStyle
+\-mkr
+
+\+mkr plph
+\nam Plural phonetic form
+\desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
+\lng phonetic
+\mkrOverThis se
 \CharStyle
 \-mkr
 
@@ -896,6 +896,11 @@
 
 \+fil MarkercfPresent
 \mkr cf
+\match_char c
+\-fil
+
+\+fil Plural
+\mkr pl
 \match_char c
 \-fil
 
