@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.6.1 Jun 2013
+\ProgramVersion 1.6.2 Jul 2015
 \ProjectPath C:\My Toolbox Projects\Nkonya\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -35,6 +35,7 @@
 \NoAutoWrap
 \LangCtrlHeight 24
 \DontValidateOnEdit
+\DontAskChangeMarker
 \+fntMarkers 
 \Name MS Sans Serif
 \Size 10
@@ -219,7 +220,7 @@
 \+wndlst 
 \+wnd 
 \placement normal 0 729 0 24 953 24 1436 469
-\z 10
+\z 9
 \ViewMarkers
 \widthMarkerArea 102
 \JumpTarget
@@ -270,7 +271,7 @@
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \+wndlst 
 \+wnd 
-\placement normal 0 637 0 25 507 9 1371 557
+\placement normal 0 637 0 25 483 7 1347 555
 \z 11
 \ViewMarkers
 \ViewMarkerHierarchy
@@ -294,18 +295,18 @@
 \-brf
 \+brf 
 \mkr sd
-\width 136
+\width 153
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey ge
 \srtPriKey English
 \mkrSecKey lx
-\fil SemanticDomain
+\fil Plural
 \-ind
 \+rec 
-\fldPriKey North
-\fldSecKey dimbisʋ
+\fldPriKey
+\fldSecKey ɩbɛtɛ
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -315,22 +316,21 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 8
-\CaretLineScroll 8
-\CaretChar 5
+\CaretLine 7
+\CaretLineScroll 7
+\CaretChar 0
 \fldPriKey TN_ZZ
 \fldSecKey Afrika
 >>>>>>> Stashed changes
 \-rec 
 \-wnd
 \+wnd 
-\placement normal -1 -1 -8 -28 172 125 1413 496
-\z 7
+\placement normal -1 -1 -8 -28 27 90 1268 461
+\z 10
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
 \widthMarkerArea 165
-\Browse
 \JumpTarget
 \+brflst 
 \FieldEmptyEntry *empty*
@@ -353,13 +353,13 @@
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey ge
+\mkrPriKey sd
+\srtPriKey English
+\mkrSecKey lx
 \-ind
 \+rec 
-\fldPriKey oboyi
-\fldSecKey neck (nape of neck)
+\fldPriKey
+\fldSecKey akonya
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -369,6 +369,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 2
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 253 253 1436 798
@@ -563,7 +566,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -1 -1 0 0 486 568
-\z 8
+\z 7
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -599,7 +602,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 196 567 988 791
-\z 9
+\z 8
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -613,7 +616,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 915
+\width 541
 \-brf
 \-brflst
 \+ind 

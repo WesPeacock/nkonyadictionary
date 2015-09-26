@@ -586,6 +586,14 @@
 \CharStyle
 \-mkr
 
+\+mkr plph
+\nam Plural phonetic form
+\desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
+\lng phonetic
+\mkrOverThis se
+\CharStyle
+\-mkr
+
 \+mkr pn
 \nam Part of speech (n)
 \desc Classifies the part of speech with labels found in national language dictionaries. If used, this comes after the \ps field. Consistent labeling is important; use the Range Set feature.
@@ -896,6 +904,11 @@
 
 \+fil MarkercfPresent
 \mkr cf
+\match_char c
+\-fil
+
+\+fil Plural
+\mkr pl
 \match_char c
 \-fil
 
