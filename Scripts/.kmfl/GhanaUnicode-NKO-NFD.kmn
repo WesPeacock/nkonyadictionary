@@ -1,0 +1,64 @@
+c       egrep "(GHN)|(Short)" GhanaUnicode.kmn >GhanaUnicode-Short.kmn
+c       egrep "(GHN)|(TLA)" GhanaUnicode.kmn >GhanaUnicode-TLA.kmn
+c          egrep "(GHN)|(DAG)" GhanaUnicode.kmn >GhanaUnicode-DAG.kmn
+c          egrep "(GHN)|(NKO)" GhanaUnicode.kmn >GhanaUnicode-NKO.kmn
+c       egrep "(GHN)|(DAG)|(FRN)" GhanaUnicode.kmn >GhanaUnicode-DAGF.kmn
+c       egrep "(GHN)|(NKO)|(GTL)" GhanaUnicode.kmn >GhanaUnicode-DAGF.kmn
+c  lines in all languages are commented GHN, specific lines are commented TLA
+store(&Name) "Ghana Unicode - NKO"                             c NKO
+store(&Message) "Ghana Unicode - Version 7.0 - Nkonya Variant" c NKO
+store(&BITMAP) "GhanaUnicode-NKO.png"                              c NKO
+store(&HOTKEY) "^%G"                                           c GHN
+VERSION 6.0                                                    c GHN
+begin    Unicode >	use(Main)                                  c GHN
+group(Main) using keys                                         c GHN
+'\' + 'q' >	'\q'	c allow easy typing of \q for scriptures   c GHN
++ '[' > U+025B                                                   c GHN
+";" + "[" > "["                                                c GHN
++ "{" > U+0190                                                   c GHN
+";" + "{" > "{"                                                c GHN
++ "]" > U+0254                                                   c GHN
+";" + "]" > "]"                                                c GHN
++ "}" > U+0186                                                   c GHN
+";" + "}" > "}"                                                c GHN
++ "=" > U+014B                                                   c GHN
+";" + "=" > "="                                                c GHN
++ "+" > U+014A                                                   c GHN
+";" + "+" > "+"                                                c GHN
++ "x" > U+0269                                                   c NKO
+";" + "x" > "x"                                                c NKO
++ "X" > U+0196                                                  c NKO
+";" + "X" > "X"                                                c NKO
++ "q" > U+028B                                                   c NKO EWE
+";" + "q" > "q"                                                c NKO EWE
++ "Q" > U+01B2                                                   c NKO
+";" + "Q" > "Q"                                                c NKO
+";" + "'" > "'"                                                c NKO
+"'" + "a" > "a" U+0301 c decomposed version                    c NKO EWE
+c "'" + "a" > U+00E1 c composed version                          c NKO EWE
+"'" + "A" > "A" U+0301 c decomposed version                    c NKO EWE
+c "'" + "A" > U+00C1 c composed version                          c NKO EWE
+"'" + "e" > "e" U+0301 c decomposed version                    c NKO EWE
+c "'" + "e" > U+00E9 c composed version                          c NKO EWE
+"'" + "E" > "E" U+0301 c decomposed version                    c NKO EWE
+c "'" + "E" > U+00C9 c composed versionersion                    c NKO EWE
+"'" + "i" > "i" U+0301 c decomposed version                    c NKO EWE
+c "'" + "i" > U+00ED c composed version                          c NKO EWE
+"'" + "I" > "I" U+0301 c decomposed version                    c NKO EWE
+c "'" + "I" > U+00CD c composed version                          c NKO EWE
+"'" + "o" > "o" U+0301 c decomposed version                    c NKO EWE
+c "'" + "o" > U+00F3 c composed version                          c NKO EWE
+"'" + "O" > "O" U+0301 c decomposed version                    c NKO EWE
+c "'" + "O" > U+00D3 c composed version                          c NKO EWE
+"'" + "u" > "u" U+0301 c decomposed version                    c NKO EWE
+c "'" + "u" > U+00FA c composed version                          c NKO EWE
+"'" + "U" > "U" U+0301 c decomposed version                    c NKO EWE
+c "'" + "U" > U+00DA c composed version                          c NKO  EWE
+"'" + "[" > U+025B U+0301                                      c NKO EWE
+"'" + "{" > U+0190 U+0301                                      c NKO EWE
+"'" + "]" > U+0254 U+0301                                      c NKO EWE
+"'" + "}" > U+0186 U+0301                                      c NKO EWE
+"'" + "x" > U+0269 U+0301                                      c NKO
+"'" + "X" > U+0196 U+0301                                      c NKO
+"'" + "q" > U+028B U+0301                                      c NKO
+"'" + "Q" > U+01B2 U+0301                                      c NKO
