@@ -300,9 +300,9 @@
 \sd TN_I.B.5.b
 \de seed mushroom
 \rf Tape:1-2-210
-\xv Abi atsuli tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
+\xv Abi atsulii tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
-\dt 22/Jul/2014
+\dt 29/Sep/2015
 
 \lx abialɛ
 \ph abialɛ́(H)
@@ -2642,13 +2642,12 @@
 \ge very tiny red ant
 \sd TN_I.B.3.b
 \de tiny red ant
-\pl agyawugya
-\plph anyɩnapɛpɛ
-\ph aɲɪnapɛpɛ
+\pl anyɩnapɛpɛ
+\plph aɲɪnapɛpɛ
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 29/Oct/2013
+\dt 26/Sep/2015
 
 \lx anyɔ
 \ph aɲɔ(H)
@@ -3637,19 +3636,6 @@
 \de strong wind
 \dt 29/Oct/2013
 
-\lx atsuli bibi
-\ph at͡sulîbibi
-\ps n
-\sn
-\ge mushroom, k.o.
-\sd TN_II.D.4.c; TN_I.B.5.b
-\de black mushroom
-\xv Atsuli bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
-\xe Black mushrooms grow in rotting trees, They are black. You can grind them and put them in soup. Their soup is sweet.
-\nt roots not in the tree but around it. -FO
-\rf Tape:1-2-186
-\dt 08/Jan/2014
-
 \lx atsulii
 \ph at͡sulîː
 \ps n
@@ -3674,7 +3660,7 @@
 \rf Tape:1-2-178
 \xv Deyi asʋ tɔkwɛ oyi plɔhɛsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Igyi putuputu, ɩlofuli. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
 \xe Monkey ears grows in rotten trees. You can grind it and put it in soup. It is small and white. It is sweet in palm nut soup.
-\xv Atsuli bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
+\xv Atsulii bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe Black mushrooms grow in rotting trees, they are small. You can grind them and put them in soup. Their soup is sweet.
 \nt roots not in the tree but around it. -FO
 \rf Tape:1-2-186
@@ -3691,7 +3677,20 @@
 \xv Kplokplobi tɔkwɛ oyi plɔhɛsʋ. Ɩbʋ ɔplɩ, bʋtamakwɛ mʋ́. Mʋ́a abɛ oputsu bʋ ɔdwɛ dʋbɩ.
 \xe Kploklobi grows in rotting trees, It is slippery; they never grind it. It is very good with palm nut soup.
 \bb Stewart List:0872
-\dt 28/Dec/2012
+\dt 29/Sep/2015
+
+\lx atsulii bibi
+\ph at͡sulîbibi
+\ps n
+\sn
+\ge mushroom, k.o.
+\sd TN_II.D.4.c; TN_I.B.5.b
+\de black mushroom
+\xv Atsulii bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
+\xe Black mushrooms grow in rotting trees, They are black. You can grind them and put them in soup. Their soup is sweet.
+\nt roots not in the tree but around it. -FO
+\rf Tape:1-2-186
+\dt 29/Sep/2015
 
 \lx atsʋnlɛ
 \ph at͡sʊ́nlɛ
@@ -5063,14 +5062,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-2-515
 \bb Stewart List:2252
 \nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
-\xv
-\se blɩ ogya
-\ge be hot
-\sd TN_I.C.6.g
-\de to be hot
-\bb Stewart List:2289
-\bb Stewart List:2822
-\dt 19/Jun/2014
+\dt 26/Sep/2015
+
 
 \lx blɩ ogya
 \ph blɪ oʤáʔ (H)
@@ -5089,7 +5082,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fʋ wɩ lablɩ ogya, sʋ owisʋ lakɩta fʋ.
 \xe You have become hot. You have a fever.
 \nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
-\dt 19/Jun/2014
+\sd TN_I.C.6.g
+\de to be hot
+\bb Stewart List:2289
+\bb Stewart List:2822
+\dt 26/Sep/2015
 
 \lx blɩba
 \hm 1
@@ -5363,6 +5360,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe cook yam slices
 \dt 30/Jun/2014
 
+\lx bɔ mpaɩ
+\ps v
+\ge pray
+\cf bɔ
+\dt 26/Sep/2015
+
 \lx bɔbwɛ
 \ph bɔbwɛʔ(L)
 \ps ADJ
@@ -5430,6 +5433,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de egg
 \pl abɔnɔ
 \plph abɔ́nɔʔ (L)
+\xv Mɩ batɛ laka bɔnɔ kʋlɛ.
+\xe My hen has laid an egg.
+\bb Stewart List:0705
 \se bɔnɔ fwɩ
 \ge eggshell
 \sd TN_I.B.2.a
@@ -5437,10 +5443,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de eggshell
 \bb Stewart List:0706
 \rf Tape:1-2-587
-\xv Mɩ batɛ laka bɔnɔ kʋlɛ.
-\xe My hen has laid an egg.
-\bb Stewart List:0705
-\dt 04/Jul/2014
+\dt 26/Sep/2015
 
 \lx bɔɔlʋ
 \ph bɔːlʊ
@@ -7155,7 +7158,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:7-1-162
 \xv Napʋ atɔ amʋ dɩnka ɔprʋn amʋsʋ. Dɩnkɩ mʋ́ lɛ mʋ́sʋ.
 \xe I have put the things on top of the table. Lift it and remove it.
-\se dinkɩ imi
+\se dɩnkɩ imi
 \ge cut hair
 \sd TN_II.A.1.b
 \de to get a haircut
@@ -7163,7 +7166,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe We take scissors and cut our hair when it is full.
 \cf kpa nwun
 \ce shave head
-\dt 30/Jun/2014
+\dt 26/Sep/2015
 
 \lx dɩnsʋ
 \ph dɪnsʊ
@@ -7984,7 +7987,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɔ́hɔ ɔfɛsɩ, antsia pʋ fɛɩ obuto.
 \xe I will buy a broom in order that I will always take it and sweep the room.
 \bb Stewart List:2814
-\se fɛɩ (ɔtsra / ntsrakpabi)
+\se fɛɩ (ɔtsra)
 \ps v
 \sn
 \ge shine (moon)
@@ -7993,7 +7996,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-478
 \xv Ɔtsra dɛfɛɩ.
 \xe The moon is shining.
-\dt 30/Jun/2014
+\xv Ntsrakpabi dɛfɛɩ.
+\xe The stars are shining.
+\dt 26/Sep/2015
 
 \lx fɛkɩ
 \ph fɛ́kɪʔ (L)
@@ -9173,7 +9178,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ʤaʔ (L)
 \ps vt
 \sn 1
-\ge sack
+\ge chase
 \sd TN_II.E.3.c
 \de to expel
 \rf Tape:2-2-157
@@ -9191,7 +9196,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-151
 \xv srɩ gya mʋ
 \xe chase him
-\se ɔmagya, gya mʋ ɔma
+\se gya X ɔma
 \ge follow behind
 \sd TN_II.E.4.c
 \de to follow behind someone
@@ -9218,7 +9223,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-153
 \xv Negya mʋ ɔkpa, tsufɛ alawa ɔpá ndɔtɔ.
 \xe I went to get him because he had been at farm a long time.
-\dt 30/Jun/2014
+\dt 26/Sep/2015
 
 \lx gyabɛ
 \ph ʤabɛʔ
@@ -9478,6 +9483,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge trade
+\ge bargain
 \sd TN_II.D.5
 \de to buy or sell in a market
 \rf Tape:2-2-228
@@ -9485,14 +9491,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The woman went to market at Bumbula market.
 \lf Nact = bia ogyipʋ
 \le trader
-\se gyi mʋ́ bia
-\ps v
-\sn
-\ge bargain
-\sd TN_II.D.5.b
-\de bargain to determine a price
 \xv Nɩ natɩ bʋ ɩkatɔ a, bʋ tamagyi mʋ ibia.
-\xe If spider is hiding in the grass you can't bargain on his price (Don't buy a pig in a poke).
+\xe If spider is hiding in the grass they don't bargain on his price (Don't buy a pig in a poke).
 \se gyi nkɔmbɔ
 \ps v
 \sn
@@ -9511,14 +9511,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-236
 \xv Pʋ ɔha wanklaan gyi mba, mɛnɩ fɔbwɛ atɔ wanklaan.
 \xe Make friends with a fine person in order that you should do fine things.
-\se gyi nwɛɛn
+\se gyi nwɛn
 \ps v
 \sn
 \ge argue
 \sd TN_II.B.2; TN_II.E.4.b
 \de to argue
 \rf Tape:2-2-239
-\xv Akʋ bʋtegyi nwɛɛn kpan.
+\xv Akʋ bʋtegyi nwɛn kpan.
 \xe Some people argue pointlessly.
 \se gyi ɩpa
 \ps v
@@ -9556,7 +9556,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_II.E.2
 \de to rule as chief
 \lt eat chieftaincy
-\dt 01/Jul/2014
+\dt 26/Sep/2015
 
 \lx gyi
 \hm 2
@@ -10440,7 +10440,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to bargain for a price
 \lt eat market
 \xv Nɩ natɩ bʋ ɩkatɔ a, bʋ tamagyi mʋ ibia.
-\xe If spider is hiding in the grass you can't bargain on his price (Don't buy a pig in a poke).
+\xe If spider is hiding in the grass they don't bargain on his price (Don't buy a pig in a poke).
 \nt proverb
 \rf Tape:1-2-414
 \xv Ɔbɛɛ, obéyegyi bia Bumbula obiakɛ.
@@ -10458,7 +10458,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to be valuable
 \xv Abuto wʋlɩhɛ amʋ bʋ bia dʋbɩ.
 \xe The old beads are very expensive.
-\dt 04/Jul/2014
+\dt 26/Sep/2015
 
 \lx ibia ogyipʋ
 \ph ibíá óʤípʊ́ʔ
@@ -11824,12 +11824,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \pl afɩta
 \plph afɪta
 \rf Tape:2-1-533
-\xv Kpɔtɩ fɩta ha mɩampʋ mɩ atsuli anfɩ wa mʋ́tɔ.
+\xv Kpɔtɩ fɩta ha mɩampʋ mɩ atsulii anfɩ wa mʋ́tɔ.
 \xe Pluck a leaf for me in order that I put these my mushrooms into it.
 \lf Idiom = nun afɩta
 \le smoke marijuana ("wee")
 \bb Stewart List:0854
-\dt 30/Jun/2014
+\dt 29/Sep/2015
 
 \lx ɩfla
 \ph ɪfla(H)
@@ -12216,8 +12216,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_I.C.2.b
 \de some, a certain thing
 \nt has agreement ɔkʋ animate singular akʋ animate plural ɩkʋ inanimate
-\xv Atsuli gyihɛ amʋ ɩkʋ aná gyi: afio, mpionkɛntɛ, deyi asʋ, atsuli bibi, mantɛpʋ, kikidiki, abi atsuli, kplokplobi.
-\xe Some kinds of edible mushrooms are: afio, mpionkɛntɛ, deyi asʋ, atsuli bibi, mantɛpʋ, kikidiki, abi atsuli, kplokplobi.
+\xv Atsulii gyihɛ amʋ ɩkʋ aná gyi: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsuli, kplokplobi.
+\xe Some kinds of edible mushrooms are: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsuli, kplokplobi.
 \pl akʋ
 \plph akʊ
 \cf ɔkʋ
@@ -12233,7 +12233,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv ɩkʋ ɛ
 \xe again
 \bb Stewart List:1849
-\dt 01/Jul/2014
+\dt 29/Sep/2015
 
 \lx ɩkʋɛ
 \ph ɪkʊɛ
@@ -32726,12 +32726,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:2-1-251
 \xv Kofi ladan dʋn fʋ, sʋ maplei mʋ sʋ.
 \xe Kofi is older than you so don't be rude to him.
-\se plei X tɔ
+\se plei Xtɔ
 \ge not take seriously
 \de to underestimate s.o. or s.t.
 \xv Ɔtɔwa ɔsa nya ɔblɔ. Maplei mʋtɔ.
 \xe He gets angry quickly. Don't underestimate him.
-\dt 25/Dec/2013
+\dt 26/Sep/2015
 
 \lx pleia
 \ph pléíáʔ(L)
@@ -39353,9 +39353,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de only
 \xv Megyi atogyihɛ wʋlɛ nyakpʋsa obégyi tsia.
 \xe It is not by food only that mankind lives.
-\xv Atsuli amʋ wʋlɛ bʋ bɛnsɩ amʋtɔ.
+\xv Atsulii amʋ wʋlɛ bʋ bɛnsɩ amʋtɔ.
 \xe There are only mushrooms in the basin.
-\dt 01/Feb/2014
+\dt 29/Sep/2015
 
 \lx wʋlɛwʋlɛ
 \ph wʊlɛwʊlɛ
