@@ -35,6 +35,12 @@
 \mkrOverThis wd
 \-mkr
 
+\+mkr is
+\nam *
+\lng English
+\mkrOverThis wd
+\-mkr
+
 \+mkr nt
 \nam note
 \lng English
