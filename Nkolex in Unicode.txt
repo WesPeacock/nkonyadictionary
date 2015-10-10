@@ -1085,6 +1085,21 @@
 \xe The boy is numb, and so he does not care about anything.
 \dt 11/Jun/2014
 
+\lx ago
+\ph agoʔ
+\ps n
+\sn
+\ge velvet
+\sd TN_II.D.5.h
+\sd TN_II.D.6.a
+\de velvet
+\va agon
+\ve Northern
+\xv Ɔlɛdɩda agon tati Istatɔ.
+\xe He put on a velvet cloth for Easter.
+\bb Stewart List:1269
+\dt 10/Oct/2015
+
 \lx agode
 \ph agodé
 \ps n
@@ -1099,19 +1114,6 @@
 \rf Tape:1-1-205
 \bb Stewart List:0869
 \dt 11/Jun/2014
-
-\lx agon
-\ph agõʔ
-\ps n
-\sn
-\ge velvet
-\sd TN_II.D.5.h
-\sd TN_II.D.6.a
-\de velvet
-\xv Ɔlɛdɩda agon tati Istatɔ.
-\xe He put on a velvet cloth for Easter.
-\bb Stewart List:1269
-\dt 22/Jul/2014
 
 \lx agude
 \ph agude(H)
@@ -12846,14 +12848,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:1404
 \dt 04/Jul/2014
 
-\lx ɩsɛn
-\ph ɪsɛ̃
+\lx ɩsɛ
+\ph ɪsɛ
 \ps n
 \sn
 \ge tusk
 \sd TN_I.B.1.a
 \de the tusk of an elephant or boar
-\dt 12/Jul/2014
+\va ɩsɛn
+\dt 10/Oct/2015
 
 \lx ɩsɩ
 \ph ɪsɪ (H)
