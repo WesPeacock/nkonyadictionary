@@ -788,6 +788,14 @@
 \CharStyle
 \-mkr
 
+\+mkr vaph
+\nam Variant phonetic form
+\desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
+\lng phonetic
+\mkrOverThis va
+\CharStyle
+\-mkr
+
 \+mkr ve
 \nam Variant comment (E)
 \desc Where English comments can be given for the variant form.
