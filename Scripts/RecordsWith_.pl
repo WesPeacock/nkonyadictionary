@@ -22,9 +22,19 @@ RECORD: while (<>) {
 
 	# Processing for each record goes after this
 
-	if ($recstring =~ /\\np /) {
-		# any record with a phonology note
+        s/\\ps[^\n]*\n\\sn//g; 
+
+	if ($_ =~ /\\ps /) {
 		print;
 		$count++;
 		};
+
+
+	if ($_ =~ /\\sn/) {
+		print;
+		$count++;
+		};
+
+
+
 }
