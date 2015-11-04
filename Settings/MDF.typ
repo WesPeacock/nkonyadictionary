@@ -582,7 +582,7 @@
 \nam Plural phonetic form
 \desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
 \lng phonetic
-\mkrOverThis se
+\mkrOverThis pl
 \CharStyle
 \-mkr
 
