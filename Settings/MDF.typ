@@ -686,6 +686,14 @@
 \CharStyle
 \-mkr
 
+\+mkr sgph
+\nam Sngular phonetic form
+\desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
+\lng phonetic
+\mkrOverThis sg
+\CharStyle
+\-mkr
+
 \+mkr sn
 \nam Sense number
 \desc Where a lexeme has more than one sense, this code is used to mark and number mark the beginning of each section that discusses a new sense. Don't use a sense number to mark a different part of speech; \sn is only used within a given part of speech (in this hierarchy). (Remember to include \sn 1 for records with multiple senses.) Use a Character Range Set.
