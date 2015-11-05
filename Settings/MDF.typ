@@ -957,8 +957,8 @@
 \mkr va
 \-drf
 \+drf 
-\File C:\My Toolbox Projects\Nkonya\Parsing Dictionary.txt
-\mkr lx
+\File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
+\mkr se
 \-drf
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Scripture Names.txt
