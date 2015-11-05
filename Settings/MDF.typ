@@ -974,8 +974,12 @@
 \-jmpset
 
 \+template 
+\fld \ph
 \fld \ps
+\fld \sn
 \fld \ge
+\fld \de
+\fld \dt
 \-template
 \mkrRecord lx
 \mkrSecKey hm
