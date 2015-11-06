@@ -5,12 +5,6 @@
 \lngDefault vernacular
 \mkrRecord id
 
-\+mkr c
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
 \+mkr dt
 \nam Date
 \desc date of last edit
@@ -40,22 +34,10 @@
 \mkrOverThis tx
 \-mkr
 
-\+mkr h
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
 \+mkr id
 \nam Text Name
 \desc Identifying name for the text in this record.
 \lng English
-\-mkr
-
-\+mkr m
-\nam *
-\lng vernacular
-\mkrOverThis id
 \-mkr
 
 \+mkr mb
@@ -72,54 +54,11 @@
 \mkrOverThis tx
 \-mkr
 
-\+mkr mt1
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
-\+mkr mt2
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
-\+mkr nt
-\nam Notes
-\desc Notes on the referenced text unit. Useful for explanation, clarification, questions, etc.
-\lng vernacular
-\mkrOverThis ref
-\-mkr
-
-\+mkr p
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
 \+mkr ps
 \nam Part of Speech
 \desc Part of speech of each morpheme in the morpheme breaks line.
 \lng English
 \mkrOverThis tx
-\-mkr
-
-\+mkr q1
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
-\+mkr q2
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
-\+mkr r
-\nam *
-\lng vernacular
-\mkrOverThis id
 \-mkr
 
 \+mkr ref
@@ -130,42 +69,12 @@
 \mkrFollowingThis tx
 \-mkr
 
-\+mkr rem
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
-\+mkr s
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
-\+mkr toc1
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
-\+mkr toc2
-\nam *
-\lng vernacular
-\mkrOverThis id
-\-mkr
-
 \+mkr tx
 \nam Text
 \desc Source text unit for interlinearization. Usually a sentence or clause. After interlinearization there may be multiple text lines in a referenced text unit.
 \lng vernacular
 \mkrOverThis ref
 \mkrFollowingThis ft
-\-mkr
-
-\+mkr v
-\nam *
-\lng vernacular
-\mkrOverThis id
 \-mkr
 
 \+mkr wd
