@@ -1,0 +1,207 @@
+﻿c Ghana Keyboard for Keyman
+c Written in January 95 - Paul David Johnson
+c modified in July 95 - add tone to nasals - PDJ
+c modified in November 99 - some characters were moved to new positions
+c commented out tone on nasals Aril 2005 Wes Peacock
+c updated to v 6
+c 2008/12/6 converted to Unicode
+c rewritten to allow multiple versions within the same file
+c 2015/11/29 earlier versions of this file had a typo
+c X using U+0169  ũ
+c   instead of  U+0196 Ɩ
+
+c To get a specific version:
+c     Ghana Short:
+c       egrep "(GHN)|(Short)" GhanaUnicode.kmn >GhanaUnicode-Short.kmn 
+c         7 vowel no diacritics for many languages, e.g. Twi
+
+c       egrep "(GHN)|(TLA)" GhanaUnicode.kmn >GhanaUnicode-TLA.kmn
+c         for a language specific version use the three letter Ethnologue abbreviation TLA
+
+c       for example Dagbani:
+c          egrep "(GHN)|(DAG)" GhanaUnicode.kmn >GhanaUnicode-DAG.kmn    
+c       or Nkonya:
+c          egrep "(GHN)|(NKO)" GhanaUnicode.kmn >GhanaUnicode-NKO.kmn
+
+c There are some behaviours which can be added to any language but do not have headers of their own. 
+c For example FRN 
+c       egrep "(GHN)|(DAG)|(FRN)" GhanaUnicode.kmn >GhanaUnicode-DAGF.kmn 
+c         adds in French support  to the Dagbani keyboard
+
+c For another example GTL 
+c       egrep "(GHN)|(NKO)|(GTL)" GhanaUnicode.kmn >GhanaUnicode-DAGF.kmn 
+c         adds Glottal stop support  to the Nkonya keyboard
+
+c  lines in all languages are commented GHN, specific lines are commented TLA 
+
+
+c details at end of file
+
+c Specific names
+store(&Name) "Ghana Unicode - Short"                           c Short
+store(&Message) "Ghana Unicode - Version 7.0 - Short"          c Short
+store(&BITMAP) "GhanaUnicode-Short"                            c Short
+
+store(&Name) "Ghana Unicode - NKO"                             c NKO
+store(&Message) "Ghana Unicode - Version 7.0 - Nkonya Variant" c NKO
+store(&BITMAP) "GhanaUnicode-NKO.png"                              c NKO
+
+store(&Name) "Ghana Unicode - DAG"                             c DAG
+store(&Message) "Ghana Unicode - Version 7.0 - Dagbani Variant" c DAG
+store(&BITMAP) "GhanaUnicode-DAG"                              c DAG
+
+store(&HOTKEY) "^%G"                                           c GHN
+VERSION 6.0                                                    c GHN
+begin	Unicode >	use(Main)                                  c GHN
+
+group(Main) using keys                                         c GHN
+'\' + 'q' >	'\q'	c allow easy typing of \q for scriptures   c GHN
+
+
+c Open E, Open O and Eng used by all orthographies
+c ;<key> for the original key
+"[" > U+025B                                                   c GHN
+";" + "[" > "["                                                c GHN
+"{" > U+0190                                                   c GHN
+";" + "{" > "{"                                                c GHN
+"]" > U+0254                                                   c GHN
+";" + "]" > "]"                                                c GHN
+"}" > U+0186                                                   c GHN
+";" + "}" > "}"                                                c GHN
+"=" > U+014B                                                   c GHN
+";" + "=" > "="                                                c GHN
+"+" > U+014A                                                   c GHN
+";" + "+" > "+"                                                c GHN
+  
+c French with no dierisis, decomposed versions not added in.
+";" + "c" > U+00E7 c composed version                          c FRN
+";" + "C" > U+00C7 c composed version                          c FRN
+"^" + "a" > U+00E2 c composed version                          c FRN
+"^" + "A" > U+00C2 c composed version                          c FRN
+"^" + "e" > U+00EA c composed version                          c FRN
+"^" + "E" > U+00CA c composed version                          c FRN
+"^" + "i" > U+00EE c composed version                          c FRN
+"^" + "I" > U+00CE c composed version                          c FRN
+"^" + "o" > U+00F4 c composed version                          c FRN
+"^" + "O" > U+00D4 c composed version                          c FRN
+"^" + "u" > U+00FB c composed version                          c FRN
+"^" + "U" > U+00DB c composed version                          c FRN
+
+c q & i used for additional 2 vowels in some 9 vowel orthographies
+c Iota used for -ATR front high vowel in Nkonya
+"x" > U+0269                                                   c NKO
+";" + "x" > "x"                                                c NKO
+"X" > U+0196                                                   c NKO
+";" + "X" > "X"                                                c NKO
+"q" > U+028B                                                   c NKO EWE
+";" + "q" > "q"                                                c NKO EWE
+"Q" > U+01B2                                                   c NKO 
+";" + "Q" > "Q"                                                c NKO      
+
+c semicolon combinations, mostly consonants
+";" + "d" > U+0256 c retroflexed d                             c EWE
+";" + "D" > U+0189 c Retroflexed D                             c EWE
+";" + "f" > U+0192 c voiceless bilabial fricative              c EWE
+";" + "F" > U+0191 c Voiceless Bilabial Fricative              c EWE
+c the next two are not in Ghana Keyman version 6, but would be preferable to qQ for EWE
+c ";" + "v" > U+028B c voiceless bilabial fricative            c EWE
+c ";" + "V" > U+01B2 c Voiceless Bilabial Fricative            c EWE
+";" + "e" > U+018F c schwa                                     c LIP???
+";" + "E" > U+018E c Schwa                                     c LIP???
+";" + "?" > U+0294 c Glottal Stop                              c GTL
+";" + "g" > U+018F c gamma                                     c DAG
+";" + "G" > U+018E c Gamma                                     c DAG
+";" + "z" > U+0292 c ezh                                       c DAG
+";" + "Z" > U+018E c Ezh                                       c DAG
+                          
+c Single Quote is used for Acute Accent High Tone
+";" + "'" > "'"                                                c NKO
+c 7 Vowels High Tone
+c "'" + "a" > "a" U+0301 c decomposed version                    c NKO EWE
+"'" + "a" > U+00E1 c composed version                          c NKO EWE
+c "'" + "A" > "A" U+0301 c decomposed version                    c NKO EWE
+"'" + "A" > U+00C1 c composed version                          c NKO EWE
+c "'" + "e" > "e" U+0301 c decomposed version                    c NKO EWE
+"'" + "e" > U+00E9 c composed version                          c NKO EWE
+c "'" + "E" > "E" U+0301 c decomposed version                    c NKO EWE
+"'" + "E" > U+00C9 c composed versionersion                    c NKO EWE
+c "'" + "i" > "i" U+0301 c decomposed version                    c NKO EWE
+"'" + "i" > U+00ED c composed version                          c NKO EWE
+c "'" + "I" > "I" U+0301 c decomposed version                    c NKO EWE
+"'" + "I" > U+00CD c composed version                          c NKO EWE
+c "'" + "o" > "o" U+0301 c decomposed version                    c NKO EWE
+"'" + "o" > U+00F3 c composed version                          c NKO EWE
+c "'" + "O" > "O" U+0301 c decomposed version                    c NKO EWE
+"'" + "O" > U+00D3 c composed version                          c NKO EWE
+c "'" + "u" > "u" U+0301 c decomposed version                    c NKO EWE
+"'" + "u" > U+00FA c composed version                          c NKO EWE
+c "'" + "U" > "U" U+0301 c decomposed version                    c NKO EWE
+"'" + "U" > U+00DA c composed version                          c NKO  EWE
+c no composed version available for the following
+"'" + "[" > U+025B U+0301                                      c NKO EWE
+"'" + "{" > U+0190 U+0301                                      c NKO EWE
+"'" + "]" > U+0254 U+0301                                      c NKO EWE
+"'" + "}" > U+0186 U+0301                                      c NKO EWE
+
+c x & q 9 vowel High Tone
+"'" + "x" > U+0269 U+0301                                      c NKO
+"'" + "X" > U+0196 U+0301                                      c NKO
+"'" + "q" > U+028B U+0301                                      c NKO
+"'" + "Q" > U+028B U+0301                                      c NKO
+
+c Grave Accent is used for Low Tone 
+";" + "`" > "`"                                                c  EWE
+c 7 Vowels Low Tone
+c "`" + "a" > "a" U+0300 c decomposed version                    c  EWE
+"`" + "a" > U+00E1 c composed version                          c  EWE
+c "`" + "A" > "A" U+0300 c decomposed version                    c  EWE
+"`" + "A" > U+00C1 c composed version                          c  EWE
+c "`" + "e" > "e" U+0300 c decomposed version                    c  EWE
+"`" + "e" > U+00E9 c composed version                          c  EWE
+c "`" + "E" > "E" U+0300 c decomposed version                    c  EWE
+"`" + "E" > U+00C9 c composed versionersion                    c  EWE
+c "`" + "i" > "i" U+0300 c decomposed version                    c  EWE
+"`" + "i" > U+00ED c composed version                          c  EWE
+c "`" + "I" > "I" U+0300 c decomposed version                    c  EWE
+"`" + "I" > U+00CD c composed version                          c  EWE
+c "`" + "o" > "o" U+0300 c decomposed version                    c  EWE
+"`" + "o" > U+00F3 c composed version                          c  EWE
+c "`" + "O" > "O" U+0300 c decomposed version                    c  EWE
+"`" + "O" > U+00D3 c composed version                          c  EWE
+c "`" + "u" > "u" U+0300 c decomposed version                    c  EWE
+"`" + "u" > U+00FA c composed version                          c  EWE
+c "`" + "U" > "U" U+0300 c decomposed version                    c  EWE
+"`" + "U" > U+00DA c composed version                          c   EWE
+"`" + "[" > U+025B U+0300                                      c  EWE
+"`" + "{" > U+0190 U+0300                                      c  EWE
+"`" + "]" > U+0254 U+0300                                      c  EWE
+"`" + "}" > U+0186 U+0300                                      c  EWE
+c additional low tone 9 vowel configurations go here
+c for example Chumburung underscored low tone 
+
+
+c Tilde is used for Nasalization
+";" + "~" > "~"                                                c 
+c 7 Vowels Nasalization
+"~" + "a" > U+00E3 c composed version                          c 
+c "~" + "a" > "a" U+0303 c decomposed version                    c 
+"~" + "A" > U+00C3 c composed version                         c 
+c "~" + "A" > "A" U+0303 c decomposed version                    c 
+"~" + "e" > "e" U+0303                                         c 
+"~" + "E" > "E" U+0303                                         c 
+"~" + "i" > "i" U+0303                                         c 
+"~" + "I" > "I" U+0303                                         c 
+"~" + "o" > U+00F5 c composed version                          c 
+c "~" + "o" > "o" U+0303 c decomposed version                    c
+"~" + "O" > U+00D5  c composed version                         c 
+c "~" + "O" > "O" U+0303 c decomposed version                    c
+"~" + "u" > "u" U+0303                                         c 
+"~" + "U" > "U" U+0303                                         c 
+"~" + "[" > U+025B U+0303                                      c 
+"~" + "{" > U+0190 U+0303                                      c 
+"~" + "]" > U+0254 U+0303                                      c 
+"~" + "}" > U+0186 U+0303                                      c 
+
+c Tilde High tone goes here
+
+c Tilde Low tone goes here

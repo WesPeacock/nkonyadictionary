@@ -43,7 +43,7 @@ c Type : W  Result:  bʷ U+02B7 	MODIFIER LETTER SMALL W
 
 store(&Name) "Ghana Unicode - Nkonya Phonetic"
 store(&Message) "Ghana Unicode -  Phonetic - Nkonya Variant"
-store(&BITMAP) "GhanaUnicode-NKP.png"
+store(&BITMAP) "GhanaUnicode-NKO-Phonetic.png"
 store(&HOTKEY) "^%P"
 VERSION 6.0
 begin    Unicode >	use(Main)
