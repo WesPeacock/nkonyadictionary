@@ -1,0 +1,32 @@
+c  lines in all languages are commented GHN, specific lines are commented TLA 
+c Short -Ghana Short includes epsilon, eng & open-o
+c     Ghana Short:
+c       grep -E "(GHN)|(Short)" Ghana6UnicodeNFD.kmn >GhanaUnicode-Short.kmn 
+c        This duplicates the Ghana Unicode - Short  Keyboard released in February 2009
+c       grep -E  "(GHN)|(FULL)" Ghana6UnicodeNFD.kmn >GhanaUnicode-FULL.kmn 
+c       grep -E  "(GHN)|(TLA)" Ghana6UnicodeNFD.kmn >GhanaUnicode-TLA.kmn
+c          grep -E  "(GHN)|(DAG)" Ghana6UnicodeNFD.kmn >GhanaUnicode-DAG.kmn
+c          grep -E  "(GHN)|(NKO)" Ghana6UnicodeNFD.kmn >GhanaUnicode-NKO.kmn
+c          grep -E  "(GHN)|(BUD)" Ghana6UnicodeNFD.kmn >GhanaUnicode-BUD.kmn
+c          grep -E  "(GHN)|(NCU)" Ghana6UnicodeNFD.kmn >GhanaUnicode-NCU.kmn
+c          grep -E  "(GHN)|(EWE)" GhanaUnicodeNFD.kmn >GhanaUnicode-EWE.kmn
+store(&Version) "7.0"                                       c GHN
+store(&Name) "Ghana Unicode Short"                           c Short
+store(&Message) "Ghana Unicode - Version 7.0 - Short"          c Short
+store(&Bitmap) "GhanaUnicode-Short"                            c Short
+store(&Hotkey) "^%U"                                           c Short
+begin Unicode >	use(Main)                                  c GHN
+group(Main) using keys                                         c GHN
+'\' + 'q' >	'\q'	c allow easy typing of \q for scriptures   c GHN
++ "[" > U+025B                                           c GHN
+";" + "[" > "["                                                c GHN
++ "{" > U+0190                                           c GHN
+";" + "{" > "{"                                               c GHN
++ "]" > U+0254                                            c GHN
+";" + "]" > "]"                                                c GHN
++ "}" > U+0186                                           c GHN
+";" + "}" > "}"                                                c GHN
++ "=" > U+014B                                          c GHN
+";" + "=" > "="                                             c GHN
++ "+" > U+014A                                          c GHN
+";" + "+" > "+"                                              c GHN

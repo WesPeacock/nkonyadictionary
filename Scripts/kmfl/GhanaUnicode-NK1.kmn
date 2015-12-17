@@ -1,4 +1,5 @@
 c Nkonya IPA Keyboard for Keyman / kmfl
+c file was hand edited from GhanaUnicode-NKO-NFD.kmn
 c uses phonetic equivalents for Nkonya keystrokes
 c adds the following diacritics and other special IPA characters:
 c diacritics are typed after the character (overstrikes illustrated with 'a')
@@ -22,8 +23,8 @@ c Type : $ Result:   ǎ -- U+030C 	COMBINING CARON
 c Type : ^ Result: â -- U+0302 COMBINING CIRCUMFLEX ACCENT
     c Example: ɩdɛhɔ "It is burning" -- ɪdɛhɔ̂ʔ
 c Type : : Result: ː -- U+02D0 MODIFIER LETTER TRIANGULAR COLON -- long vowels
-    c Example: fɛ́ɛ́ -- fɛ́ː
-
+    c Example: f'ɛ́ɛ́ -- fɛ́ː
+    
 c Other IPA characters and modifiers
 c Type : ? Result: ʔ -- U+0294 LATIN LETTER GLOTTAL STOP
     c Example: dɔ "to farm -- dɔʔ
@@ -40,12 +41,13 @@ c Type : J  Result:  ʤ U+02A4 LATIN SMALL LETTER DEZH DIGRAPH
     c Example: gya "chase" -- ʤa
 c Type : W  Result:  bʷ U+02B7 	MODIFIER LETTER SMALL W
     c Example: bwɛ "make" -- bʷɛ
-
+    
+store(&Version) "7.0"                                       c GHN
 store(&Name) "Ghana Unicode - Nkonya Phonetic"
 store(&Message) "Ghana Unicode -  Phonetic - Nkonya Variant"
-store(&BITMAP) "GhanaUnicode-NKO-Phonetic.png"
-store(&HOTKEY) "^%P"
-VERSION 6.0
+store(&Bitmap) "GhanaUnicode-NK1.png"
+store(&Hotkey) "^%P"
+
 begin    Unicode >	use(Main)
 group(Main) using keys
 + '[' > U+025B   c ɛ  	LATIN SMALL LETTER OPEN E
@@ -59,9 +61,9 @@ group(Main) using keys
 + "q" > U+028A   c ʊ LATIN SMALL LETTER UPSILON
 ";" + "q" > "q"
 + "'" > U+0301   c á U+0301 COMBINING ACUTE ACCENT
-
+ 
 + ":" > U+02D0   c ː MODIFIER LETTER TRIANGULAR COLON
-+ "~" > U+0303   c ã  COMBINING TILDE
++ "~" > U+0303   c ã  COMBINING TILDE 
 + "^" > U+0302   c  COMBINING CIRCUMFLEX ACCENT
 + "$" > U+030C   c   ̌ COMBINING CARON
 + "?" > U+0294   c : ʔ LATIN LETTER GLOTTAL STOP

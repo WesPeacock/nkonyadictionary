@@ -1,0 +1,56 @@
+c  lines in all languages are commented GHN, specific lines are commented TLA 
+c NKO - Nkonya
+c       grep -E "(GHN)|(Short)" Ghana6UnicodeNFD.kmn >GhanaUnicode-Short.kmn 
+c       grep -E  "(GHN)|(FULL)" Ghana6UnicodeNFD.kmn >GhanaUnicode-FULL.kmn 
+c       grep -E  "(GHN)|(TLA)" Ghana6UnicodeNFD.kmn >GhanaUnicode-TLA.kmn
+c          grep -E  "(GHN)|(DAG)" Ghana6UnicodeNFD.kmn >GhanaUnicode-DAG.kmn
+c          grep -E  "(GHN)|(NKO)" Ghana6UnicodeNFD.kmn >GhanaUnicode-NKO.kmn
+c          grep -E  "(GHN)|(BUD)" Ghana6UnicodeNFD.kmn >GhanaUnicode-BUD.kmn
+c          grep -E  "(GHN)|(NCU)" Ghana6UnicodeNFD.kmn >GhanaUnicode-NCU.kmn
+c          grep -E  "(GHN)|(EWE)" GhanaUnicodeNFD.kmn >GhanaUnicode-EWE.kmn
+store(&Version) "7.0"                                       c GHN
+store(&Name) "Ghana Unicode - Nkonya"                             c NKO
+store(&Message) "Ghana Unicode - Version 7.0 - Nkonya Variant" c NKO
+store(&Bitmap) "GhanaUnicode-NKO"                              c NKO
+begin Unicode >	use(Main)                                  c GHN
+group(Main) using keys                                         c GHN
+'\' + 'q' >	'\q'	c allow easy typing of \q for scriptures   c GHN
++ "[" > U+025B                                           c GHN
+";" + "[" > "["                                                c GHN
++ "{" > U+0190                                           c GHN
+";" + "{" > "{"                                               c GHN
++ "]" > U+0254                                            c GHN
+";" + "]" > "]"                                                c GHN
++ "}" > U+0186                                           c GHN
+";" + "}" > "}"                                                c GHN
++ "=" > U+014B                                          c GHN
+";" + "=" > "="                                             c GHN
++ "+" > U+014A                                          c GHN
+";" + "+" > "+"                                              c GHN
++ "x" > U+0269  c iota                                 c NKO FULL
+";" + "x" > "x"                                               c NKO FULL
++ "X" > U+0196  c Iota                                c NKO FULL
+";" + "X" > "X"                                              c NKO FULL
++ "q" > U+028B c upsilon                            c NKO  FULL EWE
+";" + "q" > "q"                                                c NKO FULL EWE
++ "Q" > U+01B2  c Upsilon                          c NKO FULL EWE
+";" + "Q" > "Q"                                               c NKO FULL EWE
+";" + "'" > "'"                                                c FULL BUD EWE NKO FULL
+"'" + "a" > "a" U+0301                                        c FULL BUD EWE NKO
+"'" + "A" > "A" U+0301                                      c FULL BUD EWE NKO
+"'" + "e" > "e" U+0301                                         c FULL BUD EWE NKO
+"'" + "E" > "E" U+0301                                         c FULL BUD EWE NKO
+"'" + "i" > "i" U+0301                                          c FULL BUD EWE NKO
+"'" + "I" > "I" U+0301                                          c FULL BUD EWE NKO
+"'" + "o" > "o" U+0301                                        c FULL BUD EWE NKO
+"'" + "O" > "O" U+0301                                       c FULL BUD EWE NKO
+"'" + "u" > "u" U+0301                                         c FULL BUD EWE NKO
+"'" + "U" > "U" U+0301                                        c FULL BUD EWE NKO
+"'" + "[" > U+025B U+0301                                 c FULL BUD EWE NKO
+"'" + "{" > U+0190 U+0301                                 c FULL BUD EWE NKO
+"'" + "]" > U+0254 U+0301                                  c FULL BUD EWE NKO
+"'" + "}" > U+0186 U+0301                                 c FULL BUD EWE NKO
+"'" + "x" > U+0269 U+0301                                 c FULL NKO
+"'" + "X" > U+0196 U+0301                                c FULL NKO
+"'" + "q" > U+028B U+0301                                 c FULL NKO
+"'" + "Q" > U+01B2 U+0301                                c FULL NKO
