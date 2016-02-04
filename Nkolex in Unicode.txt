@@ -931,6 +931,7 @@
 \sd TN_II.E.1.d
 \de girl's name; Friday born
 \va Afia
+\vaph afíá(H)
 \ve Efia
 \xv Afua mʋa Kofibi bɔkwɩɩ ɔkɛwʋlɛ nɩ, tamɛ Kofibi ladan dʋn Afua.
 \xe Afua and Kofibi were born on the same day, but Kofibi is older than Afua.
@@ -941,7 +942,7 @@
 \ce Friday
 \cf Kofi
 \ce Friday born man
-\dt 05/Dec/2013
+\dt 04/Feb/2016
 
 \lx afunu
 \ph afunuʔ(L)
@@ -1086,11 +1087,12 @@
 \sd TN_II.D.6.a
 \de velvet
 \va agon
+\vaph agõʔ
 \ve Northern
 \xv Ɔlɛdɩda agon tati Istatɔ.
 \xe He put on a velvet cloth for Easter.
 \bb Stewart List:1269
-\dt 10/Oct/2015
+\dt 04/Feb/2016
 
 \lx agode
 \ph agodé
@@ -1276,8 +1278,8 @@
 \va Adwoa
 \xv Gyɔda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Agyoa.
 \xe I was born on Monday, so they call me Adjua.
-\xv Agyua gyi ɔtsɩ lalahɛ ánɩ́ ɔtamatsia woyitɔ.
-\xe Agyua is a bad woman who never stays in the house.
+\xv Agyoa gyi ɔtsɩ lalahɛ ánɩ́ ɔtamatsia woyitɔ.
+\xe Adjua is a bad woman who never stays in the house.
 \bw Akan fi:adwoa LHH
 \cf kwɩɩda
 \ce day name
@@ -1285,7 +1287,7 @@
 \ce Monday
 \cf Kudjo
 \ce Monday born man
-\dt 01/Feb/2014
+\dt 04/Feb/2016
 
 \lx agyonwun
 \ph aʤonwũ(H)
@@ -1635,11 +1637,11 @@
 \sd TN_II.A.6.b
 \de hernia
 \va aklolʋɩ
-\ve South
-\ph aklolʊɪ́
+\vaph aklolʊɪ́
+\ve Southern dialect
 \xv Nɩ fʋbʋ aklodobi a fʋtamatalɩ yɔ agyuma kʋkʋ.
 \xe If you have hernia, you can't do any work.
-\dt 15/Aug/2013
+\dt 04/Feb/2016
 
 \lx akonya
 \ps n
@@ -2104,6 +2106,7 @@
 \ps ADV
 \sn
 \va loo
+\vaph lóː
 \ge or; instead of
 \sd TN_I.C.5
 \de or
@@ -2112,7 +2115,7 @@
 \ce or (Twi)
 \cf ntɛ
 \ce or (Nkonya)
-\dt 11/Jun/2014
+\dt 04/Feb/2016
 
 \lx amandɩɛ
 \hm 1
@@ -2201,7 +2204,7 @@
 \ce Saturday
 \cf Kwame
 \ce Saturday born man
-\dt 05/Dec/2013
+\dt 04/Feb/2016
 
 \lx amʋ
 \ph amʊ
@@ -2330,10 +2333,10 @@
 \ge cat
 \sd TN_II.D.2.a.ii; TN_II.C.6
 \de cat
-\ee Felis silvestris catus
+\sc Felis silvestris catus
 \xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
 \xe The cat has climbed and entered the room's ceiling and is catching mice.
-\dt 11/Jun/2014
+\dt 04/Feb/2016
 
 \lx andɔbi
 \ph ándɔbi
@@ -2671,8 +2674,8 @@
 \xv Aoo, ba ayɔ.
 \xe OK, come and let us go.
 \va aoo
-\ns Aoo is more frequently heard in the Northern dialect but is declining in usage
-\dt 08/Jan/2014
+\nt Aoo is more frequently heard in the Northern dialect but is declining in usage
+\dt 04/Feb/2016
 
 \lx apa
 \ph apá
@@ -3472,7 +3475,8 @@
 \xv Bulu lɔbwɛ atɔ ánɩ́ bʋ ɔyɩtɔ fɛ́ɛ́ ha nyankpʋsa.
 \xe God made all the things that are in this world for mankind.
 \sg ɩtɔ
-\dt 12/Jun/2014
+\sgph ɪtɔ́ʔ(H)
+\dt 04/Feb/2016
 
 \lx atɔ owunpʋ
 \ph atɔ owũ̂mpʊʔ
@@ -4167,7 +4171,7 @@
 \sn
 \ge pawpaw
 \sd TN_II.D.1.e
-\ee Carica papaya
+\sc Carica papaya
 \de pawpaw
 \pl abaflɛ
 \plph abaflɛ́
@@ -4179,7 +4183,7 @@
 \nt proverb
 \rf Tape:1-2-312
 \bb Stewart List:0914
-\dt 12/Jun/2014
+\dt 04/Feb/2016
 
 \lx baɩ
 \ph báɪ́
@@ -4806,8 +4810,8 @@
 \ph bitɛpʊ(H)
 \ps n
 \sn 1
-\lc obitɛpʋ
-\ph obitɛpʊʔ
+\va obitɛpʋ
+\vaph obitɛpʊʔ
 \pl abitɛpʋ
 \plph abitɛpʊʔ
 \ge nephew / niece
@@ -4824,7 +4828,7 @@
 \xe Nkonyas inherit fathers' possessions, but Ashantis inherit their maternal uncle's.
 \xv Bɔ́pʋ owie pɔpwɛ amʋ ya mʋ bitɛpʋ ánɩ́ ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
-\dt 02/Nov/2015
+\dt 04/Feb/2016
 
 \lx bitiwie
 \ph bitíwíé
@@ -6240,9 +6244,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de python
 \pl abʋtɩ
 \plph abʊ́tɪ́
+\sc Python sebae
 \xv Abʋtɩ bʋtetsia patɩtɔ.
 \xe Pythons live in swampy places.
-\dt 24/Dec/2012
+\dt 04/Feb/2016
 
 \lx bwa
 \ph bwa
@@ -8994,14 +8999,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge RESPONSE
 \sd TN_II.E.4.a
 \de response to the afternoon / evening greeting
-\lf Etymology
-\lv fʋ1
-\lv na
-\le You walk
+\cf fʋ1 na
 \rf Tape:2-2-069
 \xv A: Tsianɩ! B: Fʋnaa! Woyi da?
 \xe A: Good afternoon/evening! B: Hi! How's your household?.
-\dt 09/Nov/2015
+\dt 04/Feb/2016
 
 \lx fʋrʋ
 \ph fʊ́rʊ
@@ -14287,7 +14289,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de large tree
 \pl akɛlɩ
 \plph akɛlɪ (H)
-\ee Ceiba pentandra
+\sc Ceiba pentandra
 \xv Nɩ kɛlɩ puli a, baflɛ tɔkɔkwɛ mʋ́ asɩ.
 \xe When a silk cotton tree uproots, pawpaw trees take its place.
 \xe You can't replace a great man.
@@ -14299,7 +14301,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt idiom
 \rf Tape:3-1-505
 \bb Stewart List:0878
-\dt 13/Jul/2014
+\dt 04/Feb/2016
 
 \lx kɛmɛ
 \ph kɛmɛ
@@ -16177,8 +16179,8 @@ cf fonflo
 \sn 2
 \ge closed
 \de closed very tightly
-\oe This sense is only Southern dialect.
-\dt 03/Nov/2015
+\nt This sense is only Southern dialect.
+\dt 04/Feb/2016
 
 \lx kpakpahe
 \ph k͡pák͡pá!hé
@@ -16397,9 +16399,9 @@ cf fonflo
 \ge Konkombas
 \sd TN_II.E.1.b
 \de Konkomba people
-\ph k͡pãk͡pãŋ͡mafɔ
 \sg Kpankpanmayin
-\dt 30/Sep/2015
+\ph k͡pãk͡pãŋ͡mayîʔ
+\dt 04/Feb/2016
 
 \lx kpankpli
 \ph k͡pãk͡pli
@@ -21012,8 +21014,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-539
 \xv Nanɩ bʋ ɔsrɩ. Ogyi pututɔ kpala. Nani wɩ gyi fɛ nsuo.
 \xe An antelope is fast / has speed. It is a bush goat. Nani is ash in colour.
+\sc Sylvicapra grimmia
+\nq Check whether nani is grey duiker Sylvicapra grimmia
 \bb Stewart List:0631
-\dt 01/Feb/2014
+\dt 04/Feb/2016
 
 \lx nantata
 \ph nantataʔ
@@ -21502,11 +21506,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd TN_II.E.1.b
 \de Ewe language
 \se Nhuanfɔ
+\ph nhuãfɔ
 \ge Ewes
 \de speakers of the Ewe language
+\sg Nhuanyin
+\sgph nhuãyĩʔ
 \cf Aklɩfɔ
 \ce Alavanyo
-\dt 23/Dec/2013
+\dt 04/Feb/2016
 
 \lx nim
 \ph nim
@@ -22676,11 +22683,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ge soursop
 \sd TN_II.D.1.e
 \de soursop
-\ee Annona muricata
+\sc Annona muricata
 \rf Tape:5-1-437
 \xv Ntunkum bʋ ɔdwɛ. Agyagya bʋtekle mʋ́ gyi.
 \xe Soursop is sweet. Bats like to eat it.
-\dt 30/Sep/2015
+\dt 04/Feb/2016
 
 \lx ntʋkʋta
 \ph ntʊkʊta(H)
@@ -23451,9 +23458,10 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ge friend
 \sd TN_II.E.4.a
 \de friend
+\va onyawie
+\vaph oɲawíe
 \pl anyawie
 \plph aɲawíe
-\lc onyawie
 \xv Mɩ nyawie nɩ.
 \xe This is my friend
 \xv gyi nkɔmbɔ
@@ -23467,7 +23475,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Fʋ nyawie ɔbɛ́talɩ sankɩ bwɛ fʋ olupʋ.
 \xe Your friend can turn to become your enemy.
 \bb Stewart List:0311
-\dt 16/Jun/2014
+\dt 04/Feb/2016
 
 \lx nyebitɔ
 \ph ɲebitɔ
@@ -26268,6 +26276,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge mother/father-in-law
 \sd TN_II.E.1.c
 \de parent of your spouse
+\va sia
+\vaph síá
 \xv Osia gyi fʋ ka ntɛɛ fʋ kulu mʋ sɩ ntɛɛ mʋ yín.
 \xe Your in-law is your wife or husband's father or mother.
 \xv Oyin amʋ mʋ sia tsɩhɛ laba bɛsɩna amʋ́.
@@ -26280,10 +26290,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de spouse of your child
 \pl asia
 \plph asíá
-\lc osia
 \bb Stewart List:0319
 \bb Stewart List:0320
-\dt 03/Nov/2015
+\dt 04/Feb/2016
 
 \lx osiebi
 \ph osiebíʔ (H)
@@ -26929,13 +26938,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph owíêʔ
 \ps n
 \sn 1
-\va wie
 \ge chief
 \sd TN_II.E.2.a
 \de chief
+\va wie
+\vaph wieʔ
 \pl awie
 \plph awíe
-\lc owie
 \cf iwiegyi
 \ce chieftaincy
 \cf owie ogyikpa
@@ -26963,7 +26972,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge body owner
 \sd TN_II.E.2.a
 \de person who represents the family interests in a funeral
-\dt 03/Nov/2015
+\dt 04/Feb/2016
 
 \lx owie ogyikpa
 \ph owíê oʤík͡pá
@@ -28717,11 +28726,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de wife
 \pl aka
 \plph aká
-\lc ka
+\va ka
+\vaph ka
 \xv Owie Krafi mʋa mʋ ka bɔkwɩɩ abi ana.
 \xe Chief Krafi and his wife had four children.
 \bb Stewart List:0307
-\dt 14/Aug/2013
+\dt 04/Feb/2016
 
 \lx ɔka
 \hm 2
@@ -30227,9 +30237,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge grandmother
 \sd TN_II.E.1.c
-\lc ɔna
 \de grandmother
 \va na
+\vaph na
 \pl aná
 \plph aná
 \rf Tape:4-2-497
@@ -30250,7 +30260,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I am a grandchild to the parents of my father and my mother.
 \na Ɔna is a reciprocal term.
 \bb Stewart List:0314
-\dt 03/Nov/2015
+\dt 04/Feb/2016
 
 \lx ɔnain
 \ph ɔnáĩ́ʔ
@@ -31104,18 +31114,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \va sɩ
+\vaph sɪ
 \ge father
 \sd TN_II.E.1.a
 \de father
 \pl asɩ
 \plph asɪ́
-\lc ɔsɩ
 \xv Oyin amʋ mʋ sɩ bʋ nkpa. Alabwɛ akʋkrʋwa.
 \xe The man's father is living. He has become an old man.
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
 \xe It is necessary that every child will respect his father so that the father also looks after his child well.
 \bb Stewart List:0304
-\dt 26/Aug/2013
+\dt 04/Feb/2016
 
 \lx ɔsɩkɛtɛ
 \ph ɔsɪ́kɛ́tɛ
@@ -31978,11 +31988,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de green mamba
 \pl ntsɩrɩbɩ
 \plph nt͡sɪrɪ́bɪ́
+\sc Dendroaspis viridis
 \xv Ɔtsɩrɩbɩ asʋn ma alɛ. Nɩ odun fʋ, fʋmɔkɔsɩ nya mʋ́ afa a fówu.
 \xe The green mamba is not good. When it bites and you didn't get its medicine quickly, you will die.
 \xv Fɩta bɔbwɛ tɛdamli bwɛ ɔtsɩrɩbɩ.
 \xe The green mamba turns to become mamba.
-\dt 24/Dec/2012
+\dt 04/Feb/2016
 
 \lx ɔtsɩsʋ fɩtɛ
 \ph ɔt͡sɪsʊ fɪtɛ
@@ -37790,14 +37801,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_II.D.5.a.i 
 \sd TN_II.E.5.b
 \de to sit in someone's place, take someone's place
-\et si anamu
+\cf anamu
 \rf Tape:7-2-317
 \xv Nɩ ɔha owu, ɔbʋ obi a, mʋ bi amʋ obétsia mʋ sɩ amʋ anaŋu.
 \xe If someone should die, and has a child, his child will take his place.
 \rf Tape:7-2-325
 \xv Nɩ fʋ sɩ ma ɩnʋ a, tsia mʋ anaŋu.
 \xe When your father is not there, take his place.
-\dt 30/Sep/2015
+\dt 04/Feb/2016
 
 \lx tsianɩ
 \ph tsianɪ̌ʔ
@@ -39383,11 +39394,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I do not have a guinea fowl.
 \pl awanlɩn
 \plph awanlɪ̃ʔ(H)
+\sc Numida meleagris
 \rf Tape:8-1-221
 \xv Mɩ wanlɩn dɛka, ɔflɔɩ a, nénya awanlɩn tsɔtsɔɔtsɔ.
 \xe My guinea fowl is laying, when she hatches them I will get plenty of guinea fowls.
 \bb Stewart List:0716
-\dt 01/Feb/2014
+\dt 04/Feb/2016
 
 \lx wata
 \ph wátá

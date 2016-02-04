@@ -906,7 +906,7 @@
 \-fil
 
 \+fil Marker2Present
-\mkr hm
+\mkr le
 \match_char c
 \-fil
 
