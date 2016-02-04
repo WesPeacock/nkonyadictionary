@@ -69,7 +69,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 622 0 25 0 0 1186 446
-\z 6
+\z 4
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 150
@@ -101,7 +101,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri da
+\fldPri a
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -119,7 +119,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 673 0 25 30 30 1216 476
-\z 8
+\z 6
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -147,11 +147,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey bwie
+\fldPriKey _
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri da
+\fldPri a
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -201,7 +201,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri da
+\fldPri a
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -271,41 +271,49 @@
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \+wndlst 
 \+wnd 
-\placement normal -1 -1 -8 -28 37 14 1278 385
+\placement normal -1 -1 -8 -28 116 18 1281 340
 \z 10
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
 \widthMarkerArea 165
+\Browse
 \JumpTarget
 \+brflst 
 \FieldEmptyEntry *empty*
 \NoFieldEntry *no field*
 \+brf 
 \mkr lx
-\width 244
+\width 109
+\-brf
+\+brf 
+\mkr hm
+\width 359
 \-brf
 \+brf 
 \mkr ps
-\width 244
+\width 234
 \-brf
 \+brf 
 \mkr ge
-\width 244
+\width 234
 \-brf
 \+brf 
 \mkr sd
-\width 445
+\width 158
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
+\mkrSecKey hm
 \mkrSecKey sd
+\fil Marker2Present
 \-ind
 \+rec 
-\fldPriKey da
-\fldSecKey TN_II.E.4.a
+\fldPriKey a-
+\fldSecKey 1
+\fldSecKey TN_I.C.5
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -316,13 +324,10 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 206 127 1315 593
-\z 7
+\z 5
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -371,7 +376,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 160 53 1343 598
-\z 9
+\z 7
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -494,7 +499,7 @@
 \fldPriKey
 \-rec
 \+keySearch 
-\fldPri TN_II.A.3.a
+\fldPri 1
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -509,7 +514,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -1 -1 0 0 486 568
-\z 5
+\z 9
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -532,7 +537,7 @@
 \srtPriKey ThesEng
 \-ind
 \+rec 
-\fldPriKey defilement, ritual impurity
+\fldPriKey denture, false teeth
 \-rec
 \+keySearch 
 \fldPri nail [n.]
@@ -546,7 +551,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 196 567 988 791
-\z 4
+\z 8
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -568,10 +573,10 @@
 \srtPriKey ThesEng
 \-ind
 \+rec 
-\fldPriKey defilement, ritual impurity
+\fldPriKey denture, false teeth
 \-rec
 \+keySearch 
-\fldPri defilement, ritual impurity
+\fldPri denture, false teeth
 \match_char p
 \-keySearch
 \+keyInsert 
