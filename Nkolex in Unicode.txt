@@ -1,4 +1,4 @@
-\_sh v3.0  745  MDF 4.0
+\_sh v3.0  400  MDF 4.0
 
 \lx a
 \ph a
@@ -7889,9 +7889,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Lembu lɔpʋ Nkonya Wurupongfɔ fa Ɩlɩn.
 \xe Turtle brought the Nkonya Wurupong people across the Volta.
 \bb Stewart List:2480
-\cf nyankɩ
+\cf nyankɩ2
 \ce cross
-\dt 04/Nov/2015
+\dt 05/Feb/2016
 
 \lx fa
 \hm 2
@@ -9612,18 +9612,27 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe They are going to judge the case.
 \se gyi bia
 \ps v
-\sn
-\ge trade
 \ge bargain
+\sd TN_II.D.5.b
+\lt eat market
+\ge trade
 \sd TN_II.D.5
 \de to buy or sell in a market
+\de to bargain for a price
 \rf Tape:2-2-228
 \xv Ɔtsɩ amʋ oleyegyi bia Bumbula biasʋ.
 \xe The woman went to market at Bumbula market.
 \lf Nact = bia ogyipʋ
 \le trader
+\xv Ɔbɛɛ, obéyegyi bia Bumbula obiakɛ.
+\xe She says she is going to market on Bumbula market day.
+\rf Tape:1-2-418
 \xv Nɩ natɩ bʋ ɩkatɔ a, bʋ tamagyi mʋ ibia.
 \xe If spider is hiding in the grass they don't bargain on his price (Don't buy a pig in a poke).
+\nt proverb
+\rf Tape:1-2-414
+\xv Yegyi ɔbwɩ amʋ bia ha mɩ. Ɔha amʋ ɔda ɔbwe amʋ ibia a, fówun fagyi mʋ bia ha mɩ.
+\xe Go bargain for the animal for me. He should give a price so that you can bargain for me.
 \se gyi nkɔmbɔ
 \ps v
 \sn
@@ -9687,7 +9696,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_II.E.2
 \de to rule as chief
 \lt eat chieftaincy
-\dt 26/Sep/2015
+\dt 05/Feb/2016
 
 \lx gyi
 \hm 2
@@ -10571,20 +10580,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge price
 \sd TN_II.D.5.b
 \de the price of something
-\se gyi bia
-\ge bargain
-\sd TN_II.D.5.b
-\de to bargain for a price
-\lt eat market
-\xv Nɩ natɩ bʋ ɩkatɔ a, bʋ tamagyi mʋ ibia.
-\xe If spider is hiding in the grass they don't bargain on his price (Don't buy a pig in a poke).
-\nt proverb
-\rf Tape:1-2-414
-\xv Ɔbɛɛ, obéyegyi bia Bumbula obiakɛ.
-\xe She says she is going to market on Bumbula market day.
-\rf Tape:1-2-418
-\xv Yegyi ɔbwɩ amʋ bia ha mɩ. Ɔha amʋ ɔda ɔbwe amʋ ibia a, fówun fagyi mʋ bia ha mɩ.
-\xe Go bargain for the animal for me. He should give a price so that you can bargain for me.
 \ps n
 \sn 3
 \ge value
@@ -10596,7 +10591,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to be valuable
 \xv Abuto wʋlɩhɛ amʋ bʋ bia dʋbɩ.
 \xe The old beads are very expensive.
-\dt 03/Nov/2015
+\dt 05/Feb/2016
 
 \lx ibian
 \ph ibiã
@@ -10758,9 +10753,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge lump
 \de lump
-\cf afu
+\cf afu1
 \ce lumps
-\dt 11/Nov/2015
+\dt 05/Feb/2016
 
 \lx ifuli
 \ph ifúliʔ
@@ -10818,7 +10813,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-386
 \xv Igye nyankpʋ lebila tamɛ omotswie.
 \xe Yesterday storm clouds threatened but it didn't rain.
-\cf ɩnwɛn
+\cf ɩnwɛ
 \ce day before yesterday
 \cf ndɛ
 \ce today
@@ -10827,7 +10822,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf klaɛ
 \ce day after tomorrow
 \bb Stewart List:1552
-\dt 05/Nov/2015
+\dt 05/Feb/2016
 
 \lx igyi
 \ph iʤí
@@ -12687,7 +12682,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \dt 06/Nov/2015
 
 \lx ɩnwɛ
-\hm 1
 \ph ɪ́nwɛ̃́
 \ps TIME
 \sn 1
@@ -12712,30 +12706,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce tomorrow
 \cf klaɛ
 \ce day after tomorrow
-\dt 11/Nov/2015
-
-\lx ɩnwɛ
-\hm 2
-\ph ɪ̃wɛ̃(H)
-\ps n
-\sn
-\va nwɛ
-\ge mercy
-\sd TN_II.B.3
-\sd TN_II.B.5.a.i
-\sd TN_II.E.4.a
-\de mercy
-\va ɩwɛ
-\ve South
-\xv Ɔdɛ mɩ nwɛ wa.
-\xe He has compassion for me.
-\xv Olowun mɩ nwɛ ha mɩ sika.
-\xe He was merciful to me and gave me money.
-\xv Oyin amʋ yɔ wa mɩ nwɛ sʋ nɛtsa mʋ agyʋma amʋ yɔ.
-\xe The man moved me to pity so I helped him with his work.
-\lf Nact = nwɛ owunpʋ
-\le merciful person
-\dt 11/Nov/2015
+\dt 05/Feb/2016
 
 \lx ɩnya
 \ph ɪɲa
@@ -15030,7 +15001,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de upcoming day of the week
 \xv Klaɛ Fieda nótu ɔkpa.
 \xe Next Friday I will travel.
-\cf ɩnwɛn
+\cf ɩnwɛ1
 \ce day before yesterday
 \cf igye
 \ce yesterday
@@ -15038,7 +15009,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce today
 \cf ɔkɛ
 \ce tomorrow
-\dt 05/Nov/2015
+\dt 05/Feb/2016
 
 \lx klakla
 \ph klakla
@@ -21218,7 +21189,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Today in the afternoon, I will go to Accra.
 \nt From ths: days in time: ɩnwɛn, igye, ndɛ, ɔkɛ, klaɛ
 \bb Stewart List:1551
-\cf ɩnwɛn
+\cf ɩnwɛ
 \ce day before yesterday
 \cf igye
 \ce yesterday
@@ -21226,7 +21197,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ce tomorrow
 \cf klaɛ
 \ce day after tomorrow
-\dt 05/Nov/2015
+\dt 05/Feb/2016
 
 \lx ndɛmba
 \ph ndɛmba
@@ -22863,6 +22834,28 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe To have mercy on your neighbour is good because God will also have mercy on you.
 \dt 16/Jun/2014
 
+\lx nwɛ
+\ph ɪ̃wɛ̃(H)
+\ps n
+\sn
+\va nwɛ
+\ge mercy
+\sd TN_II.B.3
+\sd TN_II.B.5.a.i
+\sd TN_II.E.4.a
+\de mercy
+\va ɩwɛ
+\ve South
+\xv Ɔdɛ mɩ nwɛ wa.
+\xe He has compassion for me.
+\xv Olowun mɩ nwɛ ha mɩ sika.
+\xe He was merciful to me and gave me money.
+\xv Oyin amʋ yɔ wa mɩ nwɛ sʋ nɛtsa mʋ agyʋma amʋ yɔ.
+\xe The man moved me to pity so I helped him with his work.
+\lf Nact = nwɛ owunpʋ
+\le merciful person
+\dt 05/Feb/2016
+
 \lx nwɛn
 \ph ŋʷɛ́ʔ
 \ps vt
@@ -23276,7 +23269,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ce noon
 \cf ɔpablɩsʋ
 \ce noon
-\cf ɔpa
+\cf ɔpa1
 \ce early afternoon
 \cf ntʋpwɛ
 \ce evening
@@ -23293,7 +23286,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ce night time
 \cf ɔyɩ nsɩnɛ
 \ce midnight
-\dt 16/Nov/2013
+\dt 05/Feb/2016
 
 \lx nyankɩ
 \hm 2
@@ -28907,7 +28900,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ng Can have the day name after for additional information
 \xv Ɔkɛ Yaoda gyi nfɩ obiakɛ.
 \xe Tomorrow, which is Thursday, will be market day here.
-\cf ɩnwɛn
+\cf ɩnwɛ
 \ce day before yesterday
 \cf igye
 \ce yesterday
@@ -28915,7 +28908,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce today
 \cf klaɛ
 \ce day after tomorrow
-\dt 05/Nov/2015
+\dt 05/Feb/2016
 
 \lx ɔkɛkɛ
 \ph ɔkɛkɛ́
@@ -30633,11 +30626,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Walking in the early afternoon is bad because the sun shines too much, especially at noon.
 \cf ɔpawisʋ
 \ce noon
-\cf nyankɩ
+\cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
 \bb Stewart List:1106
-\dt 11/Nov/2015
+\dt 05/Feb/2016
 
 \lx ɔpa
 \hm 2
@@ -30679,14 +30672,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de noon
 \va ɛpablɩsʋ
 \ve South
-\cf ɔpa
+\cf ɔpa1
 \ce early afternoon
 \cf ɔpablɩsʋ
 \ce noon
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\dt 05/Feb/2016
 
 \lx ɔpalɩ
 \ph ɔpalɪ́
@@ -30748,12 +30741,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-275
 \xv Ɔkpa natɩ ɔpa ma alɛ tsufɛ owí tɛlɩn dʋbɩ, mʋ́ titriu ɔpawisʋ.
 \xe Walking in the early afternoon is bad because the sun shines too much, especially at noon.
-\cf ɔpa
+\cf ɔpa1
 \ce early afternoon
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\dt 05/Feb/2016
 
 \lx ɔpayin
 \ph ɔpayĩʔ

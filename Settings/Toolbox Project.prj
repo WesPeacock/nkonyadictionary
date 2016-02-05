@@ -101,7 +101,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri labi
+\fldPri ɔpa
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -151,7 +151,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri labi
+\fldPri ɔpa
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -201,7 +201,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri labi
+\fldPri ɔpa
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -272,7 +272,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -8 -28 123 5 1288 326
-\z 9
+\z 10
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -299,7 +299,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 158
+\width 175
 \-brf
 \-brflst
 \+ind 
@@ -310,9 +310,9 @@
 \fil Marker2Present
 \-ind
 \+rec 
-\fldPriKey bɩtɩ
+\fldPriKey nwɛ
 \fldSecKey
-\fldSecKey TN_II.A.4.a
+\fldSecKey TN_II.B.3
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -329,7 +329,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 206 127 1315 593
-\z 11
+\z 8
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -352,7 +352,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 313
+\width 330
 \-brf
 \-brflst
 \+ind 
@@ -378,13 +378,12 @@
 \CaretChar 0
 \-wnd
 \+wnd 
-\placement normal -1 -1 -1 -1 160 53 1343 598
-\z 6
+\placement normal -1 -1 -1 -1 133 10 1323 382
+\z 11
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
 \widthMarkerArea 165
-\Browse
 \JumpTarget
 \+brflst 
 \FieldEmptyEntry *empty*
@@ -403,7 +402,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 387
+\width 411
 \-brf
 \-brflst
 \+ind 
@@ -412,8 +411,8 @@
 \mkrSecKey sd
 \-ind
 \+rec 
-\fldPriKey da
-\fldSecKey TN_II.A.2.c
+\fldPriKey ɩnwɛ
+\fldSecKey TN_I.C.4.b
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -423,6 +422,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 244 192 1427 737
@@ -473,6 +475,53 @@
 \CaretLineScroll 7
 \CaretChar 13
 \-wnd
+\+wnd 
+\placement normal -1 -1 -8 -30 75 75 1198 535
+\z 9
+\ViewMarkers
+\ViewMarkerHierarchy
+\ViewFieldNames
+\widthMarkerArea 165
+\JumpTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 244
+\-brf
+\+brf 
+\mkr ps
+\width 244
+\-brf
+\+brf 
+\mkr ge
+\width 244
+\-brf
+\+brf 
+\mkr sd
+\width 344
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey se
+\srtPriKey NkonyaU
+\-ind
+\+rec 
+\fldPriKey gyi asʋn
+\-rec
+\+keySearch 
+\fldPri 1CO.10:21
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 9
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
 \-wndlst
 \-db
 
@@ -517,7 +566,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -1 -1 0 0 486 568
-\z 8
+\z 7
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -554,7 +603,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 196 567 988 791
-\z 7
+\z 6
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -593,53 +642,11 @@
 \-wndlst
 \-db
 
-\+db C:\Users\Wes\Desktop\PySfm-master\src\SFMUtils\Toolboxlexicon-report.txt
-\+wndlst 
-\+wnd 
-\placement normal -1 -1 -1 -1 112 196 1538 762
-\z 10
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr ref
-\width 1157
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey ref
-\srtPriKey English
-\-ind
-\+rec 
-\fldPriKey 1
-\-rec
-\+keySearch 
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 27
-\CaretLineScroll 25
-\CaretChar 455
-\-wnd
-\-wndlst
-\-db
-
 \-dblst
 \+Find 
 \Field dt
 \match_char e
 \+ftxlst 
-\+ftx 
-\text bu
-\lng vernacular
-\-ftx
 \+ftx 
 \text but
 \lng vernacular
@@ -714,6 +721,10 @@
 \-ftx
 \+ftx 
 \text Annona muricata
+\lng English
+\-ftx
+\+ftx 
+\text yesterday
 \lng English
 \-ftx
 \-ftxlst
