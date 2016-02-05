@@ -101,7 +101,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɔpa
+\fldPri trɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -151,7 +151,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɔpa
+\fldPri trɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -201,7 +201,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri ɔpa
+\fldPri trɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -272,7 +272,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -8 -28 123 5 1288 326
-\z 10
+\z 7
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -329,7 +329,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 206 127 1315 593
-\z 8
+\z 6
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -379,7 +379,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 133 10 1323 382
-\z 11
+\z 10
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -402,7 +402,7 @@
 \-brf
 \+brf 
 \mkr sd
-\width 411
+\width 394
 \-brf
 \-brflst
 \+ind 
@@ -411,8 +411,8 @@
 \mkrSecKey sd
 \-ind
 \+rec 
-\fldPriKey ɩnwɛ
-\fldSecKey TN_I.C.4.b
+\fldPriKey trɛ
+\fldSecKey TN_II.E.4.d
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -422,9 +422,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 5
+\CaretLineScroll 5
+\CaretChar 1
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 244 192 1427 737
@@ -477,7 +477,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -8 -30 75 75 1198 535
-\z 9
+\z 11
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -508,7 +508,7 @@
 \srtPriKey NkonyaU
 \-ind
 \+rec 
-\fldPriKey gyi asʋn
+\fldPriKey tsitsii
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -518,7 +518,7 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 9
+\CaretLine 11
 \CaretLineScroll 0
 \CaretChar 0
 \-wnd
@@ -566,7 +566,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -1 -1 0 0 486 568
-\z 7
+\z 9
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -589,7 +589,7 @@
 \srtPriKey ThesEng
 \-ind
 \+rec 
-\fldPriKey denture, false teeth
+\fldPriKey demon ; evil-spirit ; djinn
 \-rec
 \+keySearch 
 \fldPri nail [n.]
@@ -603,7 +603,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 196 567 988 791
-\z 6
+\z 8
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -625,10 +625,10 @@
 \srtPriKey ThesEng
 \-ind
 \+rec 
-\fldPriKey denture, false teeth
+\fldPriKey demon ; evil-spirit ; djinn
 \-rec
 \+keySearch 
-\fldPri denture, false teeth
+\fldPri demon ; evil-spirit ; djinn
 \match_char p
 \-keySearch
 \+keyInsert 

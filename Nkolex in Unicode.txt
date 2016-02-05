@@ -3093,10 +3093,6 @@
 \ge humble
 \sd TN_II.B.3; TN_II.E.4.c
 \de to humble oneself
-\se fi X asɩ
-\ge start
-\sd TN_I.C.4.d.i
-\de to start doing X
 \ps POST
 \sn 3
 \ge under
@@ -3109,7 +3105,9 @@
 \ge earth
 \sd TN_I.A.3.c
 \de earth, as opposed to heaven ɔsʋsʋ
-\dt 03/Nov/2015
+\cf fi asɩ
+\ce start
+\dt 05/Feb/2016
 
 \lx asɩba
 \ph asɪbá
@@ -5848,11 +5846,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bun fʋ pa nwun.
 \xe Put on your hat.
 \bb Stewart List:2770
-\se bun ansibi
-\ge close eyes
-\sd TN_II.A.2.d
-\de to close one's eyes
-\rf Tape:2-1-048
 \ps vt
 \sn 2
 \ge nurse
@@ -5881,7 +5874,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_I.C.2.d
 \de to turn something over
 \bb Stewart List:2752
-\dt 02/Nov/2015
+\se bun ansibi
+\ps v
+\ge close eyes
+\sd TN_II.A.2.d
+\de to close one's eyes
+\rf Tape:2-1-048
+\dt 05/Feb/2016
 
 \lx bunti
 \ph buntîʔ
@@ -7003,7 +7002,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dɛdɛ
 \ph dɛdɛ́
 \ps ADJ
-\sn
+\sn 1
 \ge sweet
 \sd TN_I.C.6.b
 \de sweet
@@ -7014,12 +7013,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bʋdɛ nta dɛdɛ fɛ biasʋ.
 \xe They are selling sweet (palm) wine in the market.
 \ps ADV
-\sn
+\sn 2
 \ge sweetly
 \de sweetly
 \sd TN_II.B.2.b.i
 \bb Stewart List:1678
-\dt 28/Jul/2013
+\dt 05/Feb/2016
 
 \lx dɛdɛdɛdɛdɛ
 \ph dɛ́dɛ́dɛ́dɛ́dɛ́
@@ -29978,7 +29977,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Aha amʋ́ʋ́ bʋdɛ ɩlʋ wa amʋ́ ɔmɛ ma alɛ.
 \xe The ones that are singing have bad voices.
 \ps n
-\sn 2a
+\sn 3
 \ge teachings
 \sd TN_II.B.1
 \sd TN_II.B.2
@@ -29989,7 +29988,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-101
 \bb Stewart List:0061
 \bb SIL-AWL:0025
-\dt 09/Nov/2015
+\dt 05/Feb/2016
 
 \lx ɔmɛ
 \hm 2
@@ -32146,18 +32145,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 
 \lx ɔwan
 \ph ɔwãʔ
+\sn
 \ge public
 \sd TN_II.B.2.b.i
 \de to make or become known to the public
 \ps ADV
-\sn
-\xv Balɛ owie amʋ ɔwan suna ɔmanhene amʋ.
-\xe They have shown the chief to the Paramount Chief.
-\ps ADV
-\sn
-\rf Tape:6-1-264
-\xv Bɛlɛ owie pɔpwɛ amʋ́ʋ́ bakɩta amʋ ɔwan ɔkɛ.
-\xe The new chief that they have caught will be revealed tomorrow.
 \xv Asʋn amʋ́ʋ́ ɔlɔpʋ ŋain amʋ a, lalɩn ɔwan.
 \xe The matter he hid has come to light.
 \rf Tape:6-1-269
@@ -32168,7 +32160,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \ge announce
 \de announce
-\dt 07/Nov/2015
+\xv Balɛ owie amʋ ɔwan suna ɔmanhene amʋ.
+\xe They have shown the chief to the Paramount Chief.
+\rf Tape:6-1-264
+\xv Bɛlɛ owie pɔpwɛ amʋ́ʋ́ bakɩta amʋ ɔwan ɔkɛ.
+\xe The new chief that they have caught will be revealed tomorrow.
+\dt 05/Feb/2016
 
 \lx ɔwankɩtɩ
 \ph ɔwãŋkɪtɪʔ
@@ -37196,7 +37193,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn
 \ps v
-\sn
 \ge quarrel
 \sd TN_II.E.4.d
 \de to quarrel
@@ -37206,7 +37202,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-569
 \xv Ɩtrɛ lafa.
 \xe A quarrel has burst out.
-\dt 30/Jun/2014
+\dt 05/Feb/2016
 
 \lx trʋ
 \ph trʊ
