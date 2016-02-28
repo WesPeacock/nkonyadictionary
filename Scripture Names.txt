@@ -1,5 +1,4 @@
 \_sh v3.0  745  MDF 4.0
-\_DateStampHasFourDigitYear
 
 \lx _
 \ps _
@@ -11,15 +10,15 @@
 \ge Aaron
 \dt 13/Nov/2009
 
+\lx Abadon
+\ps PropN
+\ge Abaddon
+\dt 28/Feb/2016
+
 \lx Abba
 \ge Father
 \ps PropN
 \dt 17/Nov/2009
-
-\lx Abel
-\ge Abel
-\ps PropN
-\dt 13/Nov/2009
 
 \lx Abia
 \ge Abijah
@@ -56,10 +55,45 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Admin
+\ps PropN
+\ge Admin
+\dt 28/Feb/2016
+
+\lx Adramitio
+\ps PropN
+\ge Adramyttium
+\dt 28/Feb/2016
+
+\lx Adria
+\ps PropN
+\ge Adriatic
+\dt 28/Feb/2016
+
+\lx Aenon
+\ps PropN
+\ge Aenon
+\dt 28/Feb/2016
+
 \lx Africa
 \ge Africa
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Agabo
+\ps PropN
+\ge Agabus
+\dt 28/Feb/2016
+
+\lx agate
+\ps n
+\ge agate
+\dt 28/Feb/2016
+
+\lx Agripa
+\ps PropN
+\ge Agrippa
+\dt 28/Feb/2016
 
 \lx Ahas
 \ge Ahaz
@@ -91,10 +125,20 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Aleksandria
+\ps PropN
+\ge Alexandria
+\dt 28/Feb/2016
+
 \lx Aleksandro
 \ge Alexander
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Alfa
+\ps PropN
+\ge Alpha
+\dt 28/Feb/2016
 
 \lx Alfaus
 \ge Alphaeus
@@ -111,6 +155,16 @@
 \ge Amen
 \dt 15/Dec/2009
 
+\lx ametiste
+\ps n
+\ge amethyst
+\dt 28/Feb/2016
+
+\lx Amfipoli
+\ps PropN
+\ge Amphipolis
+\dt 28/Feb/2016
+
 \lx Aminadab
 \ge Amminadab
 \ps PropN
@@ -126,35 +180,80 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Amplia
+\ps PropN
+\ge Ampliatus
+\dt 28/Feb/2016
+
+\lx Anania
+\ps PropN
+\ge Ananias
+\dt 28/Feb/2016
+
 \lx Andrea
 \ge Andrew
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Androniko
+\ps PropN
+\ge Andronicus
+\dt 28/Feb/2016
 
 \lx Antiokia
 \ge Antioch
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Antipa
+\ps PropN
+\ge Antipas
+\dt 28/Feb/2016
+
+\lx Antipatri
+\ps PropN
+\ge Antipatris
+\dt 28/Feb/2016
+
+\lx Apele
+\ps PropN
+\ge Apelles
+\dt 28/Feb/2016
+
 \lx Apia
 \ge Apphia
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Apolion
+\ps PropN
+\ge Apollyon
+\dt 28/Feb/2016
 
 \lx Apolo
 \ge Apollos
 \ps PropN
 \dt 13/Nov/2009
 
-\lx Arabia
-\ge Arabia
+\lx Apolonia
 \ps PropN
-\dt 13/Nov/2009
+\ge Apollonia
+\dt 28/Feb/2016
 
 \lx Arabia
 \ge Arabia
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Areopago
+\ps PropN
+\ge Areopagus
+\dt 28/Feb/2016
+
+\lx Areta
+\ps PropN
+\ge Aretas
+\dt 28/Feb/2016
 
 \lx Arfaksad
 \ge Arphaxad
@@ -171,6 +270,16 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Aristarko
+\ps PropN
+\ge Aristarchus
+\dt 28/Feb/2016
+
+\lx Aristobulo
+\ps PropN
+\ge Aristobulus
+\dt 28/Feb/2016
+
 \lx Arkelao
 \ge Archelaus
 \ps PropN
@@ -181,10 +290,20 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Arni
+\ps PropN
+\ge Arni
+\dt 28/Feb/2016
+
 \lx Artema
 \ge Artemis
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Artemi
+\ps PropN
+\ge Artemis
+\dt 28/Feb/2016
 
 \lx Asa
 \ge Asa
@@ -196,20 +315,40 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Asinkrito
+\ps PropN
+\ge Asyncritus
+\dt 28/Feb/2016
+
+\lx Aso
+\ps PropN
+\ge Assos
+\dt 28/Feb/2016
+
 \lx Asor
 \ge Azor
 \ps PropN
 \dt 13/Nov/2009
 
-\lx Asú Ɔbɔpʋ́
+\lx Asoto
+\ps PropN
+\ge Azotus 
+\dt 28/Feb/2016
+
+\lx Asu Ɔbɔpʋ
 \ps PropN
 \ge Baptist
-\dt 18/Nov/2009
+\dt 28/Feb/2016
 
-\lx asʋn wankláán
+\lx asʋn wanklaan
 \ps n
-\ge Gospel
-\dt 10/Dec/2009
+\ge gospel
+\dt 28/Feb/2016
+
+\lx Atalia
+\ps PropN
+\ge Attalia
+\dt 28/Feb/2016
 
 \lx Atene
 \ge Athens
@@ -221,10 +360,25 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Baal
+\ps PropN
+\ge Baal
+\dt 28/Feb/2016
+
 \lx Babilon
 \ge Babylon
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Balaam
+\ps PropN
+\ge Balaam
+\dt 28/Feb/2016
+
+\lx Balak
+\ps PropN
+\ge Balak
+\dt 28/Feb/2016
 
 \lx Banaba
 \ge Barnabas
@@ -241,6 +395,16 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Barakia
+\ps PropN
+\ge Berekiah
+\dt 28/Feb/2016
+
+\lx Barnaba
+\ps PropN
+\ge Barnabas
+\dt 28/Feb/2016
+
 \lx Bartimeo
 \ge Bartimaeus
 \ps PropN
@@ -251,20 +415,55 @@
 \ps PropN
 \dt 02/Dec/2009
 
+\lx Bar-Yesu
+\ps PropN
+\ge Bar-Jesus
+\dt 28/Feb/2016
+
 \lx Beelsebul
 \ge Beelzebub
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Belial
+\ps PropN
+\ge Belial
+\dt 28/Feb/2016
 
 \lx Benyamin
 \ge Benjamin
 \ps PropN
 \dt 13/Nov/2009
 
-\lx Betani
+\lx Beor
+\ps PropN
+\ge Beor
+\dt 28/Feb/2016
+
+\lx Berenike
+\ps PropN
+\ge Bernice
+\dt 28/Feb/2016
+
+\lx beril
+\ps n
+\ge beryl
+\dt 28/Feb/2016
+
+\lx Beroia
+\ps PropN
+\ge Berea
+\dt 28/Feb/2016
+
+\lx Betania
 \ge Bethany
 \ps PropN
-\dt 13/Nov/2009
+\dt 26/Feb/2016
+
+\lx Betesda
+\ps PropN
+\ge Bethesda
+\dt 28/Feb/2016
 
 \lx Betfage
 \ge Bethphage
@@ -281,6 +480,21 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Bileam
+\ps PropN
+\ge Balaam
+\dt 28/Feb/2016
+
+\lx Bitinia
+\ps PropN
+\ge Bithynia
+\dt 28/Feb/2016
+
+\lx Blasto
+\ps PropN
+\ge Blastus
+\dt 28/Feb/2016
+
 \lx Boanerges
 \ge Boanerges
 \ps PropN
@@ -295,6 +509,26 @@
 \ge Dalmanutha
 \ps PropN
 \dt 08/Dec/2009
+
+\lx Dalmatia
+\ps PropN
+\ge Dalmatia
+\dt 28/Feb/2016
+
+\lx Damari
+\ps PropN
+\ge Damaris
+\dt 28/Feb/2016
+
+\lx Damasko
+\ps PropN
+\ge Damascus
+\dt 28/Feb/2016
+
+\lx Daniel
+\ps PropN
+\ge Daniel
+\dt 28/Feb/2016
 
 \lx Dawid
 \ge David
@@ -316,6 +550,41 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Demetrio
+\ps PropN
+\ge Demetrius
+\dt 28/Feb/2016
+
+\lx Derbe
+\ps PropN
+\ge Derbe
+\dt 28/Feb/2016
+
+\lx Didimus
+\ps PropN
+\ge Didimus
+\dt 28/Feb/2016
+
+\lx Dionisio
+\ps PropN
+\ge Dionysius
+\dt 28/Feb/2016
+
+\lx Diotrefe
+\ps PropN
+\ge Diotrephes
+\dt 28/Feb/2016
+
+\lx Dorka
+\ps PropN
+\ge Dorcas
+\dt 28/Feb/2016
+
+\lx Drusila
+\ps PropN
+\ge Drusilla
+\dt 28/Feb/2016
+
 \lx Eber
 \ge Eber
 \ps PropN
@@ -331,10 +600,25 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Efraim
+\ps PropN
+\ge Ephraim
+\dt 28/Feb/2016
+
+\lx Efrate
+\ps PropN
+\ge Euphrates
+\dt 28/Feb/2016
+
 \lx Egyipte
 \ge Egypt
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Elam
+\ps PropN
+\ge Elam
+\dt 28/Feb/2016
 
 \lx Eleasar
 \ge Eleazar
@@ -367,6 +651,11 @@
 \ps PropN
 \dt 17/Nov/2009
 
+\lx Elima
+\ps PropN
+\ge Elymas
+\dt 28/Feb/2016
+
 \lx Elisa
 \ge Elisha
 \ps PropN
@@ -392,6 +681,21 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx emerald
+\ps n
+\ge emerald
+\dt 28/Feb/2016
+
+\lx Enea
+\ps PropN
+\ge Aeneas
+\dt 28/Feb/2016
+
+\lx Enok
+\ps PropN
+\ge Enoch
+\dt 28/Feb/2016
+
 \lx Enos
 \ge Enoch
 \ps PropN
@@ -407,35 +711,100 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Epaineto
+\ps PropN
+\ge Epenetus
+\dt 28/Feb/2016
+
+\lx Epikuro
+\ps PropN
+\ge Epicurus
+\dt 28/Feb/2016
+
 \lx Er
 \ge Er
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Erasto
+\ps PropN
+\ge Erastus
+\dt 28/Feb/2016
 
 \lx Esau
 \ge Esau
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Etiopia
+\ps PropN
+\ge Ethiopia
+\dt 28/Feb/2016
+
+\lx Eunike
+\ps PropN
+\ge Eunice
+\dt 28/Feb/2016
+
 \lx Euodia
 \ge Euodia
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Eutiko
+\ps PropN
+\ge Eutychus
+\dt 28/Feb/2016
+
+\lx Eyubulo
+\ps PropN
+\ge Eubulus
+\dt 28/Feb/2016
 
 \lx Fanuel
 \ge Phanuel
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Farao
+\ps PropN
+\ge Pharaoh
+\dt 28/Feb/2016
+
 \lx Farisi
 \ge Pharisee
 \ps PropN
 \dt 28/Nov/2009
 
+\lx Felike
+\ps PropN
+\ge Felix
+\dt 28/Feb/2016
+
+\lx Festo
+\ps PropN
+\ge Festus
+\dt 28/Feb/2016
+
+\lx Figelo
+\ps PropN
+\ge Phygelus
+\dt 28/Feb/2016
+
+\lx Filadelfia
+\ps PropN
+\ge Philadelphia
+\dt 28/Feb/2016
+
 \lx Filemon
 \ge Philemon
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Fileto
+\ps PropN
+\ge Philetus
+\dt 28/Feb/2016
 
 \lx Filipi
 \ge Phillipi
@@ -447,25 +816,70 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Filologo
+\ps PropN
+\ge Philologus
+\dt 28/Feb/2016
+
+\lx Flegon
+\ps PropN
+\ge Phlegon
+\dt 28/Feb/2016
+
 \lx Foenike
 \ge Phoenicia
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Foibe
+\ps PropN
+\ge Phoebe
+\dt 28/Feb/2016
+
+\lx Foinike
+\ps PropN
+\ge Phoenicia
+\dt 28/Feb/2016
 
 \lx Fortunato
 \ge Fortunatus
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Frigia
+\ps PropN
+\ge Phrygia
+\dt 28/Feb/2016
+
+\lx Gabata
+\ps PropN
+\ge Gabbatha
+\dt 28/Feb/2016
+
 \lx Gabriel
 \ge Gabriel
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Gad
+\ps PropN
+\ge Gad
+\dt 28/Feb/2016
+
+\lx Gadara
+\ps PropN
+\ge Gadara
+\dt 28/Feb/2016
+
 \lx Gadarafɔ
 \ge Gadarenes
 \ps PropN
 \dt 03/Dec/2009
+
+\lx Gaio
+\ps PropN
+\ge Gaius
+\dt 28/Feb/2016
 
 \lx Galatia
 \ge Galatia
@@ -477,6 +891,21 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Galio
+\ps PropN
+\ge Gallio
+\dt 28/Feb/2016
+
+\lx Gamaliel
+\ps PropN
+\ge Gamaliel
+\dt 28/Feb/2016
+
+\lx Gasa
+\ps PropN
+\ge Gaza
+\dt 28/Feb/2016
+
 \lx Gayo
 \ge Gaius
 \ps PropN
@@ -487,10 +916,10 @@
 \ps PropN
 \dt 13/Nov/2009
 
-\lx Gerasa
-\ge Gerasa
+\lx Gerase
 \ps PropN
-\dt 13/Nov/2009
+\ge Gerasa
+\dt 28/Feb/2016
 
 \lx Gerasefɔ
 \ps PropN
@@ -507,6 +936,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Gog
+\ps PropN
+\ge Gog
+\dt 28/Feb/2016
+
 \lx Golgota
 \ge Golgotha
 \ps PropN
@@ -517,20 +951,50 @@
 \ps PropN
 \dt 13/Nov/2009
 
-\lx Griiki
+\lx Griki
 \ge Greek
-\ps ADJ
-\dt 17/Nov/2009
+\ps ADJ; PropN
+\dt 28/Feb/2016
+
+\lx Habel
+\ge Abel
+\ps PropN
+\dt 26/Feb/2016
 
 \lx Hagar
 \ge Hagar
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Hakeldama
+\ps PropN
+\ge Akeldama
+\dt 28/Feb/2016
+
+\lx Haleluia
+\ps PropN
+\ge hallelujah
+\dt 28/Feb/2016
+
+\lx Hamor
+\ps PropN
+\ge Hamor
+\dt 28/Feb/2016
+
 \lx Hana
 \ge Annas
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Haran
+\ps PropN
+\ge Haran
+\dt 28/Feb/2016
+
+\lx Harmagedon
+\ps PropN
+\ge Armageddon
+\dt 28/Feb/2016
 
 \lx Hawa
 \ge Eve
@@ -552,6 +1016,21 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Herma
+\ps PropN
+\ge Hermas
+\dt 28/Feb/2016
+
+\lx Herme
+\ps PropN
+\ge Hermes
+\dt 28/Feb/2016
+
+\lx Hermogene
+\ps PropN
+\ge Hermogenes
+\dt 28/Feb/2016
+
 \lx Herode
 \ge Herod
 \ps PropN
@@ -561,6 +1040,11 @@
 \ge Herodias
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Herodion
+\ps PropN
+\ge Herodion
+\dt 28/Feb/2016
 
 \lx Hesli
 \ge Esli
@@ -572,18 +1056,28 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Hierapoli
+\ps PropN
+\ge Hierapolis
+\dt 28/Feb/2016
+
 \lx Hierapolis
 \ge Hierapolis
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Himeneo
+\ps PropN
+\ge Hymenaeus
+\dt 28/Feb/2016
+
 \lx Hiob
 \ge Job
 \de Job
 \ps PropN
-\xv Hiob gyi ɔha ánɩ́ ɔlɔhɔ Bulusʋ gyi, ɩsɔkɩ tsɔtsɔ́ɔtsɔ lɔtʋ mʋ, támɛ ɔmɛ́tan Bulusʋ kɩ.
+\xv Hiob gyi ɔha ánɩ́ ɔlɔhɔ Bulusʋ gyi, ɩsɔkɩ tsɔtsɔɔtsɔ lɔtʋ mʋ, tamɛ ɔmɛtan Bulusʋ kɩ.
 \xe Job was somebody that believed in God, undergone many temptation, but he did not forget God.
-\dt 28/Oct/2011
+\dt 28/Feb/2016
 
 \lx Hiskia
 \ge Hezekiah
@@ -591,14 +1085,24 @@
 \dt 14/Dec/2009
 
 \lx Hisop
-\ge hisop
-\ps PropN
-\dt 13/Nov/2009
+\ge hyssop
+\ps n
+\dt 28/Feb/2016
 
-\lx Hosiána
+\lx Hosea
+\ps PropN
+\ge Hosea
+\dt 28/Feb/2016
+
+\lx Hosiana
+\ps PropN
+\ge Hosanna
+\dt 28/Feb/2016
+
+\lx Hosiana
 \ge Hosanna
 \ps PropN
-\dt 10/Dec/2009
+\dt 28/Feb/2016
 
 \lx Idumea
 \ge Idumea
@@ -610,6 +1114,16 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Ikonion
+\ps PropN
+\ge Iconium
+\dt 28/Feb/2016
+
+\lx Iliriko
+\ps PropN
+\ge Illyricum
+\dt 28/Feb/2016
+
 \lx Imanuel
 \ge Immanuel
 \ps PropN
@@ -619,6 +1133,11 @@
 \ge Isaac
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Isakar
+\ps PropN
+\ge Issachar
+\dt 28/Feb/2016
 
 \lx Iskariot
 \ge Iscariot
@@ -661,14 +1180,19 @@
 \dt 13/Nov/2009
 
 \lx Kain
-\de Cain
+\ge Cain
 \ps PropN
-\dt 13/Nov/2009
+\dt 28/Feb/2016
 
 \lx Kainan
 \ge Kenan
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Kaldea
+\ps PropN
+\ge Chaldea
+\dt 28/Feb/2016
 
 \lx Kana
 \ge Cana
@@ -680,20 +1204,75 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Kandake
+\ps PropN
+\ge Candace
+\dt 28/Feb/2016
+
+\lx kanelia
+\ps PropN
+\ge carnelian
+\dt 28/Feb/2016
+
+\lx Kantankpatɔtsia Nkegyi
+\ps PropN
+\ge Feast of Tabernacles
+\dt 28/Feb/2016
+
+\lx Kapadokia
+\ps PropN
+\ge Cappadocia
+\dt 28/Feb/2016
+
 \lx Kapernaum
 \ge Capernaum
 \ps PropN
 \dt 23/Nov/2009
+
+\lx Karpo
+\ps PropN
+\ge Carpus
+\dt 28/Feb/2016
+
+\lx Kauda
+\ps PropN
+\ge Cauda
+\dt 28/Feb/2016
 
 \lx Kefa
 \ge Cephas
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Kenan
+\ps PropN
+\ge Cainan
+\dt 28/Feb/2016
+
+\lx Kenkrea
+\ps PropN
+\ge Cenchrea
+\dt 28/Feb/2016
+
+\lx Kidron
+\ps PropN
+\ge Kidron
+\dt 28/Feb/2016
+
 \lx Kilikia
 \ge Cilicia
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Kio
+\ps PropN
+\ge Kios
+\dt 28/Feb/2016
+
+\lx Kipro
+\ps PropN
+\ge Cyprus
+\dt 28/Feb/2016
 
 \lx Kirene
 \ge Cyrene
@@ -705,15 +1284,50 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Kis
+\ps PropN
+\ge Kish
+\dt 28/Feb/2016
+
+\lx Klaudia
+\ps PropN
+\ge Claudia
+\dt 28/Feb/2016
+
+\lx Klaudio
+\ps PropN
+\ge Claudius
+\dt 28/Feb/2016
+
 \lx Klement
 \ge Clement
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Kleopa
+\ps PropN
+\ge Kleopas
+\dt 28/Feb/2016
+
 \lx Kloe
 \ge Chloe
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Klopa
+\ps PropN
+\ge Klopas
+\dt 28/Feb/2016
+
+\lx Knido
+\ps PropN
+\ge Cnidus
+\dt 28/Feb/2016
+
+\lx Ko
+\ps PropN
+\ge Cos
+\dt 28/Feb/2016
 
 \lx Koban
 \ge Corban
@@ -724,6 +1338,16 @@
 \ge Colosse
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Konelio
+\ps PropN
+\ge Cornelius
+\dt 28/Feb/2016
+
+\lx Kora
+\ps PropN
+\ge Korah
+\dt 28/Feb/2016
 
 \lx Korasin
 \ge Korazin
@@ -740,10 +1364,25 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Kreske
+\ps PropN
+\ge Crescens
+\dt 28/Feb/2016
+
 \lx Kreta
 \ge Crete
 \ps PropN
 \dt 13/Nov/2009
+
+\lx krisolit
+\ps n
+\ge chrysolite
+\dt 28/Feb/2016
+
+\lx krisopas
+\ps PropN
+\ge chrysoprase
+\dt 28/Feb/2016
 
 \lx Krispu
 \ge Crispus
@@ -756,10 +1395,25 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Kusa
+\ps PropN
+\ge Cuza
+\dt 28/Feb/2016
+
+\lx Kusa
+\ge Cuza
+\ps PropN
+\dt 28/Feb/2016
+
 \lx Kuum
 \ps v
 \ge Koum
 \dt 04/Dec/2009
+
+\lx Kwarto
+\ps PropN
+\ge Quartus
+\dt 28/Feb/2016
 
 \lx Lama
 \ge Lama
@@ -771,6 +1425,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Laodikea
+\ps PropN
+\ge Laodicea
+\dt 28/Feb/2016
+
 \lx Laodikia
 \ge Laodicea
 \ps PropN
@@ -780,6 +1439,11 @@
 \ge Lazarus
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Lasea
+\ps PropN
+\ge Lasea
+\dt 28/Feb/2016
 
 \lx Legio
 \ge Legion
@@ -791,15 +1455,55 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Libia
+\ps PropN
+\ge Libya
+\dt 28/Feb/2016
+
+\lx Lida
+\ps PropN
+\ge Lydda
+\dt 28/Feb/2016
+
+\lx Lidia
+\ps PropN
+\ge Lydia
+\dt 28/Feb/2016
+
+\lx Likaonia
+\ps PropN
+\ge Lycaonia
+\dt 28/Feb/2016
+
+\lx Likia
+\ps PropN
+\ge Lycia
+\dt 28/Feb/2016
+
+\lx Lino
+\ps PropN
+\ge Linus
+\dt 28/Feb/2016
+
 \lx Lisania
 \ge Lysanias
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Lisia
+\ps PropN
+\ge Lysias
+\dt 28/Feb/2016
+
 \lx Listra
 \ge Lystra
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Loi
+\ps PropN
+\ge Lois
+\dt 28/Feb/2016
 
 \lx Lot
 \ge Lot
@@ -811,6 +1515,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Lukio
+\ps PropN
+\ge Lucius
+\dt 28/Feb/2016
+
 \lx Magadan
 \ge Magadan
 \ps PropN
@@ -820,6 +1529,11 @@
 \ge Magdalene
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Magog
+\ps PropN
+\ge Magog
+\dt 28/Feb/2016
 
 \lx Mahalaleel
 \ge Mahalalel
@@ -836,10 +1550,35 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Makedonia
+\ps PropN
+\ge Macedonia
+\dt 28/Feb/2016
+
+\lx Malkus
+\ps PropN
+\ge Malchus
+\dt 28/Feb/2016
+
+\lx Malta
+\ps PropN
+\ge Malta
+\dt 28/Feb/2016
+
+\lx Manaen
+\ps PropN
+\ge Manaen
+\dt 28/Feb/2016
+
 \lx Manase
 \ge Manasseh
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Marana-ta
+\ps PropN
+\ge Maranatha
+\dt 28/Feb/2016
 
 \lx Maria
 \ge Mary
@@ -861,13 +1600,18 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Martata
+\ps PropN
+\ge Mattatha
+\dt 28/Feb/2016
+
+\lx Martatia
+\ps PropN
+\ge Mattathias
+\dt 28/Feb/2016
+
 \lx Matan
 \ge Matthan
-\ps PropN
-\dt 13/Nov/2009
-
-\lx Matata
-\ge Mattatha
 \ps PropN
 \dt 13/Nov/2009
 
@@ -881,10 +1625,25 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Matias
+\ps PropN
+\ge Mathias
+\dt 28/Feb/2016
+
 \lx Mattat
 \ge Matthat
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Media
+\ps PropN
+\ge Media
+\dt 28/Feb/2016
+
+\lx Mehalaleel
+\ps PropN
+\ge Mahalalel
+\dt 28/Feb/2016
 
 \lx Melea
 \ge Melea
@@ -906,20 +1665,75 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Mesia
+\ps PropN
+\ge Messiah
+\dt 28/Feb/2016
+
+\lx Mesopotamia
+\ps PropN
+\ge Mesopotamia
+\dt 28/Feb/2016
+
 \lx Metusala
 \ge Methuselah
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Midian
+\ps PropN
+\ge Midian
+\dt 28/Feb/2016
+
+\lx Mikael
+\ps PropN
+\ge Michael
+\dt 28/Feb/2016
+
+\lx Mileto
+\ps PropN
+\ge Miletus
+\dt 28/Feb/2016
+
+\lx Mira
+\ps PropN
+\ge Myra
+\dt 28/Feb/2016
 
 \lx Mire
 \ge myrrh
 \ps n
 \dt 17/Nov/2009
 
+\lx Misia
+\ps PropN
+\ge Mysia
+\dt 28/Feb/2016
+
+\lx Mitilene
+\ps PropN
+\ge Mitylene
+\dt 28/Feb/2016
+
+\lx Mnason
+\ps PropN
+\ge Mnason
+\dt 28/Feb/2016
+
+\lx Molok
+\ps PropN
+\ge Moloch
+\dt 28/Feb/2016
+
 \lx Mose
 \ge Moses
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Naadɩ
+\ps PropN
+\ge nard
+\dt 28/Feb/2016
 
 \lx Naaman
 \ge Naaman
@@ -956,6 +1770,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Narkiso
+\ps PropN
+\ge Narcissus
+\dt 28/Feb/2016
+
 \lx Nasaret
 \ge Nazareth
 \ps PropN
@@ -966,15 +1785,50 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Nataniel
+\ps PropN
+\ge Nathanael
+\dt 28/Feb/2016
+
+\lx Neapoli
+\ps PropN
+\ge Neapolis
+\dt 28/Feb/2016
+
+\lx Nereo
+\ps PropN
+\ge Nereus
+\dt 28/Feb/2016
+
 \lx Neri
 \ge Neri
 \ps PropN
 \dt 13/Nov/2009
 
-\lx Nfɔ~nyíbʋ
+\lx Nfɔ~nyibʋ
 \ps n
-\ge Oil_tree_mountain
-\dt 09/Dec/2009
+\ge Mount of Olives
+\dt 28/Feb/2016
+
+\lx Nikanor
+\ps PropN
+\ge Nicanor
+\dt 28/Feb/2016
+
+\lx Nikodemo
+\ps PropN
+\ge Nicodemus
+\dt 28/Feb/2016
+
+\lx Nikolai
+\ps PropN
+\ge Nicolaitan
+\dt 28/Feb/2016
+
+\lx Nikolao
+\ps PropN
+\ge Nicolaus
+\dt 28/Feb/2016
 
 \lx Nikopoli
 \ge Nicopolis
@@ -991,6 +1845,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Numeri
+\ps PropN
+\ge Numbers
+\dt 28/Feb/2016
+
 \lx Nunfa
 \ge Nympha
 \ps PropN
@@ -1006,6 +1865,21 @@
 \ge Olive_Mountain
 \dt 09/Dec/2009
 
+\lx Olimpa
+\ps PropN
+\ge Olympas
+\dt 28/Feb/2016
+
+\lx Omega
+\ps PropN
+\ge Omega
+\dt 28/Feb/2016
+
+\lx Onesiforo
+\ps PropN
+\ge Onesiphorus
+\dt 28/Feb/2016
+
 \lx Onesimo
 \ge Onesimus
 \ps PropN
@@ -1016,15 +1890,60 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Oniks
+\ps n
+\ge sardonyx
+\dt 28/Feb/2016
+
 \lx Ɔbʋnsám
 \ge Satan
 \ps PropN
 \dt 13/Nov/2009
 
-\lx Ɔŋɛ Wankɩ́hɛ́
+\lx Ɔŋɛ Wankɩhɛ
 \ps PropN
 \ge Holy_Spirit
-\dt 18/Nov/2009
+\dt 28/Feb/2016
+
+\lx Pafo
+\ps PropN
+\ge Paphos
+\dt 28/Feb/2016
+
+\lx Pamfilia
+\ps PropN
+\ge Pamphylia
+\dt 28/Feb/2016
+
+\lx Paradiso
+\ps PropN
+\ge Paradise
+\dt 28/Feb/2016
+
+\lx Parmena
+\ps PropN
+\ge Parmenas
+\dt 28/Feb/2016
+
+\lx Partia
+\ps PropN
+\ge Parthia
+\dt 28/Feb/2016
+
+\lx Patara
+\ps PropN
+\ge Patara
+\dt 28/Feb/2016
+
+\lx Patmo
+\ps PropN
+\ge Patmos
+\dt 28/Feb/2016
+
+\lx Patroba
+\ps PropN
+\ge Patrobas
+\dt 28/Feb/2016
 
 \lx Paulo
 \ge Paul
@@ -1046,6 +1965,21 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Pergamo
+\ps PropN
+\ge Pergamum
+\dt 28/Feb/2016
+
+\lx Perge
+\ps PropN
+\ge Perga
+\dt 28/Feb/2016
+
+\lx Persi
+\ps PropN
+\ge Persis
+\dt 28/Feb/2016
+
 \lx Petro
 \ge Peter
 \ps PropN
@@ -1056,10 +1990,70 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Piro
+\ps PropN
+\ge Pyrrhus
+\dt 28/Feb/2016
+
+\lx Pisidia
+\ps PropN
+\ge Pisidia
+\dt 28/Feb/2016
+
+\lx Pontio
+\ps PropN
+\ge Pontius
+\dt 28/Feb/2016
+
+\lx Ponto
+\ps PropN
+\ge Pontus
+\dt 28/Feb/2016
+
+\lx Porkio
+\ps PropN
+\ge Porcius
+\dt 28/Feb/2016
+
 \lx Priska
 \ge Priscilla
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Priskila
+\ps PropN
+\ge Priscilla
+\dt 28/Feb/2016
+
+\lx Prokoro
+\ps PropN
+\ge Prochorus
+\dt 28/Feb/2016
+
+\lx Ptolemai
+\ps PropN
+\ge Ptolemais
+\dt 28/Feb/2016
+
+\lx Publio
+\ps PropN
+\ge Publius
+\dt 28/Feb/2016
+
+\lx Pude
+\ps PropN
+\ge Pudens
+\dt 28/Feb/2016
+
+\lx Puteoli
+\ps PropN
+\ge Puteoli
+\dt 28/Feb/2016
+
+\lx Rabuni
+\ps PropN
+\ge Rabbouni
+\dt 28/Feb/2016
 
 \lx Rahab
 \ge Rahab
@@ -1073,8 +2067,8 @@
 
 \lx Raka
 \ps n
-\ge Raka
-\dt 15/Dec/2009
+\ge Raka (fool)
+\dt 28/Feb/2016
 
 \lx Ram
 \ge Ram
@@ -1085,6 +2079,21 @@
 \ge Ramah
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Rebeka
+\ps PropN
+\ge Rebecca
+\dt 28/Feb/2016
+
+\lx Refan
+\ps PropN
+\ge Rephan
+\dt 28/Feb/2016
+
+\lx Regio
+\ps PropN
+\ge Rhegium
+\dt 28/Feb/2016
 
 \lx Rehabeam
 \ge Rehoboam
@@ -1101,10 +2110,25 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Rode
+\ps PropN
+\ge Rhoda
+\dt 28/Feb/2016
+
+\lx Rodo
+\ps PropN
+\ge Rhodes
+\dt 28/Feb/2016
+
 \lx Roma
 \ge Rome
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Ruben
+\ps PropN
+\ge Reuben
+\dt 28/Feb/2016
 
 \lx Rufo
 \ps PropN
@@ -1131,11 +2155,26 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Saduki
+\ps PropN
+\ge Sadducee
+\dt 28/Feb/2016
+
 \lx Sadukifɔ
 \ge Sadducees
 \ps PropN
 \nt Twi Sadukifo
 \dt 13/Nov/2009
+
+\lx Safira
+\ps PropN
+\ge Sapphira
+\dt 28/Feb/2016
+
+\lx safiri
+\ps n
+\ge sapphire
+\dt 28/Feb/2016
 
 \lx Sakaria
 \ge Zacharias
@@ -1152,15 +2191,30 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Salami
+\ps PropN
+\ge Salamis
+\dt 28/Feb/2016
+
 \lx Salem
 \ge Salem
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Salim
+\ps PropN
+\ge Salim
+\dt 28/Feb/2016
+
 \lx Salmon
 \ge Solomon
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Salmone
+\ps PropN
+\ge Salmone
+\dt 28/Feb/2016
 
 \lx Salome
 \ge Salome
@@ -1176,6 +2230,16 @@
 \ge Samaria
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Samo
+\ps PropN
+\ge Samos
+\dt 28/Feb/2016
+
+\lx Samotrake
+\ps PropN
+\ge Samothrace
+\dt 28/Feb/2016
 
 \lx Samson
 \ge Samson
@@ -1197,15 +2261,30 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Sarefat
+\ps PropN
+\ge Zarephath
+\dt 28/Feb/2016
+
 \lx Sarepta
 \ge Zarephath
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Saron
+\ps PropN
+\ge Sharon
+\dt 28/Feb/2016
+
 \lx Satan
 \ge Satan
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Saulo
+\ps PropN
+\ge Saul
+\dt 28/Feb/2016
 
 \lx Sealtiel
 \ge Shealtiel
@@ -1226,6 +2305,26 @@
 \ge Zebulun
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Sekem
+\ps PropN
+\ge Shechem
+\dt 28/Feb/2016
+
+\lx Sekundo
+\ps PropN
+\ge Secundus
+\dt 28/Feb/2016
+
+\lx Sela
+\ps PropN
+\ge Shelah
+\dt 28/Feb/2016
+
+\lx Seleukia
+\ps PropN
+\ge Seleucia
+\dt 28/Feb/2016
 
 \lx Selote
 \ge Zealot
@@ -1252,6 +2351,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Sergio
+\ps PropN
+\ge Sergius
+\dt 28/Feb/2016
+
 \lx Serubabel
 \ge Zerubbabel
 \ps PropN
@@ -1267,10 +2371,25 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Seus
+\ps PropN
+\ge Syracuse
+\dt 28/Feb/2016
+
 \lx Sidon
 \ge Sidon
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Sikar
+\ps PropN
+\ge Sychar
+\dt 28/Feb/2016
+
+\lx Sila
+\ps PropN
+\ge Silas
+\dt 28/Feb/2016
 
 \lx Silas
 \ge Silas
@@ -1281,6 +2400,11 @@
 \ge Siloam
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Silwano
+\ps PropN
+\ge Silvanus
+\dt 28/Feb/2016
 
 \lx Simeon
 \ge Simeon
@@ -1307,6 +2431,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Sirakus
+\ps PropN
+\ge Syracuse
+\dt 28/Feb/2016
+
 \lx Siria
 \ge Syria
 \ps PropN
@@ -1317,35 +2446,75 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Skewa
+\ps PropN
+\ge Sceva
+\dt 28/Feb/2016
+
 \lx Skite
 \ge Skythia
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Smirna
+\ps PropN
+\ge Smyrna
+\dt 28/Feb/2016
 
 \lx Sodom
 \ge Sodom
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Sopater
+\ps PropN
+\ge Sopater
+\dt 28/Feb/2016
+
+\lx Sosipatro
+\ps PropN
+\ge Sosipater
+\dt 28/Feb/2016
+
 \lx Sostene
 \ge Sosthenes
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Spania
+\ps PropN
+\ge Spain
+\dt 28/Feb/2016
+
+\lx Staki
+\ps PropN
+\ge Stachys
+\dt 28/Feb/2016
 
 \lx Stefana
 \ge Stephanas
 \ps PropN
 \dt 13/Nov/2009
 
-\lx Susa
-\ge Cuza
+\lx Stefano
 \ps PropN
-\dt 13/Nov/2009
+\ge Stephen
+\dt 28/Feb/2016
+
+\lx Stoak
+\ps PropN
+\ge Stoic
+\dt 28/Feb/2016
 
 \lx Susana
 \ge Susanna
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Tabita
+\ps PropN
+\ge Tabitha
+\dt 28/Feb/2016
 
 \lx Tadeo
 \ge Thaddaeus
@@ -1362,15 +2531,55 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Tarso
+\ps PropN
+\ge Tarsus
+\dt 28/Feb/2016
+
+\lx Tataro
+\ps PropN
+\ge Tartaru
+\dt 28/Feb/2016
+
 \lx Tera
 \ge Terah
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Tertio
+\ps PropN
+\ge Tertius
+\dt 28/Feb/2016
+
+\lx Tertulo
+\ps PropN
+\ge Tertullus
+\dt 28/Feb/2016
+
 \lx Tesalonika
 \ge Thessalonica
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Tetulo
+\ps PropN
+\ge Tertullus
+\dt 28/Feb/2016
+
+\lx Teuda
+\ps PropN
+\ge Theudas
+\dt 28/Feb/2016
+
+\lx Tiatira
+\ps PropN
+\ge Thyatira
+\dt 28/Feb/2016
+
+\lx Tiberia
+\ps PropN
+\ge Tiberias
+\dt 28/Feb/2016
 
 \lx Tiberio
 \ge Tiberius
@@ -1387,6 +2596,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Timon
+\ps PropN
+\ge Timon
+\dt 28/Feb/2016
+
 \lx Timoteo
 \ge Timothy
 \ps PropN
@@ -1397,20 +2611,60 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Tirano
+\ps PropN
+\ge Tyrannus
+\dt 28/Feb/2016
+
 \lx Tiro
 \ge Tyre
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Tito
+\ps PropN
+\ge Titus
+\dt 28/Feb/2016
 
 \lx Toma
 \ge Thomas
 \ps PropN
 \dt 13/Nov/2009
 
+\lx topas
+\ps n
+\ge topaz
+\dt 28/Feb/2016
+
 \lx Trakoniti
 \ge Traconitis
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Trifaina
+\ps PropN
+\ge Tryphena
+\dt 28/Feb/2016
+
+\lx Trifosa
+\ps PropN
+\ge Tryphosa
+\dt 28/Feb/2016
+
+\lx Troa
+\ps PropN
+\ge Troas
+\dt 28/Feb/2016
+
+\lx Trofimo
+\ps PropN
+\ge Trophimus
+\dt 28/Feb/2016
+
+\lx Urbano
+\ps PropN
+\ge Urbanus
+\dt 28/Feb/2016
 
 \lx Uria
 \ge Uriah
@@ -1422,10 +2676,10 @@
 \ps PropN
 \dt 13/Nov/2009
 
-\lx wáɩn
+\lx waɩn
 \ge wine
 \ps n
-\dt 10/Dec/2009
+\dt 28/Feb/2016
 
 \lx Yairo
 \ge Jairus
@@ -1461,6 +2715,21 @@
 \ge Jared
 \ps PropN
 \dt 13/Nov/2009
+
+\lx yasint
+\ps PropN
+\ge jacinth
+\dt 28/Feb/2016
+
+\lx Yason
+\ps PropN
+\ge Jason
+\dt 28/Feb/2016
+
+\lx yaspa
+\ps PropN
+\ge jasper
+\dt 28/Feb/2016
 
 \lx Yefta
 \ge Jephta
@@ -1502,6 +2771,11 @@
 \ps PropN
 \dt 13/Nov/2009
 
+\lx Yesebel
+\ps PropN
+\ge Jezebel
+\dt 28/Feb/2016
+
 \lx Yesu
 \ge Jesus
 \ps PropN
@@ -1521,6 +2795,11 @@
 \ge Jordan
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Yoel
+\ps PropN
+\ge Joel
+\dt 28/Feb/2016
 
 \lx Yohana
 \ge Joanna
@@ -1546,6 +2825,11 @@
 \ge Jonam
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Yopa
+\ps PropN
+\ge Joppa
+\dt 28/Feb/2016
 
 \lx Yoram
 \ge Joram
@@ -1601,6 +2885,26 @@
 \ge Judea
 \ps PropN
 \dt 13/Nov/2009
+
+\lx Yulia
+\ps PropN
+\ge Julia
+\dt 28/Feb/2016
+
+\lx Yulio
+\ps PropN
+\ge Julius
+\dt 28/Feb/2016
+
+\lx Yunia
+\ps PropN
+\ge Junias
+\dt 28/Feb/2016
+
+\lx Yusto
+\ps PropN
+\ge Justus
+\dt 28/Feb/2016
 
 \lx Yustus
 \ge Justus
