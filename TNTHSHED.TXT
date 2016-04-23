@@ -108,7 +108,7 @@
 \tx 3.c  smell  II.A.3.c
 \tx 3.d  touch  II.A.3.d
 \tx 3.e  taste II.A.3.e
-\tx 4.    manipulation II.A.4.a
+\tx 4.    manipulation II.A.4
 \tx 4.a     transportation II.A.4.a
 \tx 4.b     type-of-action II.A.4.b
 \tx 4.c     position-of-object/s II.A.4.c
@@ -158,7 +158,7 @@
 \tx 6.c     Christian II.B.6.c
 \tx
 \tx C.  Personal-Life II.C
-\tx 1.    house (list)  II.C.1  [building see II.D.6.h]
+\tx 1.    house (list)  [building see II.D.6.h]  II.C.1
 \tx 1.bis  house (plan) II.C.1.bis
 \tx 2.    domestic-equipment II.C.2
 \tx 2.a     loads II.C.2.a
@@ -289,6 +289,6 @@
 \tx 5.h     photograph II.E.5.h
 \tx 5.i     war II.E.5.i
 
-\tx III  Formlessness, chaos
+\tx III  Formlessness, chaos III
 \tx
-\dp 11/Feb/2016
+\dp 23/Apr/2016

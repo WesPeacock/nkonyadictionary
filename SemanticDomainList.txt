@@ -1,5 +1,5 @@
- I.   NON-HUMAN WORLD I.
- A.  The Physical World
+ I.   NON-HUMAN WORLD I
+ A.  The Physical World I.A
  1.    the heavens : sun, sky, light/dark I.A.1
  2.    climate I.A.2
  2.a     weather I.A.2.a
@@ -18,7 +18,7 @@
  4.c     draw-water I.A.4.c
  5.    materials I.A.5
 
- I.B.  Animals + Plants  I.B
+ I.B.  Animals + Plants I.B
  I.B.1.    animals-wild I.B.1
  I.B.1.a     tail I.B.1.a
  I.B.1.b     lion I.B.1.b
@@ -36,13 +36,14 @@
  I.B.5.    plants : plant products I.B.5
  I.B.5.a     leaf I.B.5.a
 
- C.  Abstract-relationships I.C.
+ C.  Abstract-relationships I.C
  1.a   existence I.C.1.a
  1.b   identity I.C.1.b
  1.c   integrity I.C.1.c
+ 1.c.a multiplicity I.C.1.c.i
  1.d   contrariety I.C.1.d
- 1.d   life I.C.1.d
  1.e  realisation I.C.1.e
+ 1.f   life, energy I.C.1.f
  2.    numeration I.C.2
  2.a     numerals I.C.2.a
  2.b     how much? I.C.2.b
@@ -54,7 +55,7 @@
  3.c     relationship I.C.3.c
  3.d     motion I.C.3.d
  3.e     location I.C.3.e
- 3.f     position  I C.3.f
+ 3.f     position  I.C.3.f
  4.    time I.C.4
  4.a.i   dimension I.C.4.a.i
  4.a.ii  change of ... I.C.4.a.ii
@@ -74,13 +75,13 @@
  6.f     pattern I.C.6.f
  6.g     wet, cold &c  I.C.6.g
  6.h     sound I.C.6.h
- D.  States and Motions ??
- D.1     fall in drops I D.1
+ D.  States and Motions I.D
+ D.1     fall in drops I.D.1
 
- II.     HUMAN LIFE II.
+ II.     HUMAN LIFE II
 
- A.  Human-body II.A.1
- 1     parts
+ A.  Human-body II.A
+ 1     parts II.A.1
  1.a     body(whole) II.A.1.a
  1.b     head II.A.1.b
  1.c     neck II.A.1.c
@@ -90,7 +91,7 @@
  1.g     foot-and-leg II.A.1.g
  1.h     skin,urine II.A.1.h
  1.i     shadow II.A.1.i
- 2.    bodily-functions II.A.2 (do/act behave)
+ 2.    bodily-functions (do/act behave) II.A.2
  2.a     eat II.A.2.a
  2.b     be-awake II.A.2.b
  2.c     standing,be II.A.2.c
@@ -103,7 +104,7 @@
  3.c  smell  II.A.3.c
  3.d  touch  II.A.3.d
  3.e  taste II.A.3.e
- 4.    manipulation II.A.4.a
+ 4.    manipulation II.A.4
  4.a     transportation II.A.4.a
  4.b     type-of-action II.A.4.b
  4.c     position-of-object/s II.A.4.c
@@ -123,7 +124,6 @@
  6.e     injury II.A.6.e
  6.f     mental stress II.A.6.f
  B.  Intellect II.B
- B.
  1.    mentation II.B.1
  1.a   calculation  II.B.1.a
  1.b  expectation II.B.1.b
@@ -153,8 +153,8 @@
  6.b     Muslim II.B.6.b
  6.c     Christian II.B.6.c
 
- C.  Personal-Life II.C.
- 1.    house (list)  II.C.1  [building see II.D.6.h]
+ C.  Personal-Life II.C
+ 1.    house (list)  [building see II.D.6.h]  II.C.1
  1.bis  house (plan) II.C.1.bis
  2.    domestic-equipment II.C.2
  2.a     loads II.C.2.a
@@ -178,7 +178,7 @@
  4.e     wash(clothes),to II.C.4.e
  4.f     hairdressing  II.C.4.f
  5     child-care II.C.5
- D.  Economic-life II.D.
+ D.  Economic-life II.D
  1.    farming II.D.1
  1.a     home-farm II.D.1.a
  1.b     tools II.D.1.b
@@ -228,7 +228,7 @@
  6.j   mining II.D.6.j
  6.k   barber, hairdresser  II.D.6.k
  6.l    metal-worker, fitter II.D.6.l
- 7.    transportation II.D.7
+ 7.    travel and transportation II.D.7
  7.a     horse II.D.7.a
  7.b     boat II.D.7.b
  7.c     lorry/truck II.D.7.c
@@ -243,7 +243,7 @@
  8.c   industry  II.D.8.c
  8.d  communications, IT  II.D.8.d
  E.  Social Life II.E
- 1.    human-classification II.E.
+ 1.    human-classification II.E.1
  1.a     person II.E.1.a
  1.b     ethnic-group/tribe II.E.1.b
  1.c     Kinship II.E.1.c
@@ -260,6 +260,7 @@
  3.a     government  II.E.3.a
  3.b     police, prison  II.E.3.b
  3.c     school  II.E.3.c
+3.c.i     books, literacy  II.E.3.c.i
  3.d     military II.E.3.d
  4.    personal-interaction II.E.4
  4.a     love II.E.4.a
@@ -282,3 +283,5 @@
  5.g     cigarette II.E.5.g
  5.h     photograph II.E.5.h
  5.i     war II.E.5.i
+III  Formlessness, chaos III
+
