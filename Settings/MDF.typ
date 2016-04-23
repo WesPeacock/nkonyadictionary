@@ -922,7 +922,7 @@
 
 \+fil SemanticDomain
 \mkr sd
-\txt TN_ZZ
+\txt TN_II.B.5
 \match_char c
 \-fil
 
@@ -1074,8 +1074,12 @@
 \-mkrsubsetIncluded
 \-expSF
 
-\expDefault Standard Format
-\CurrentWindow
+\+expXML XML
+\UTF8
+\exportedFile C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.xml
+\-expXML
+
+\expDefault XML
 \-expset
 \PreventNumbering
 \DisableNumbering
