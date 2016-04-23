@@ -182,7 +182,12 @@
 \+expSF Standard Format
 \-expSF
 
-\expDefault Rich Text Format
+\+expXML XML
+\UTF8
+\exportedFile C:\My Toolbox Projects\Nkonya\WPthesaurus.xml
+\-expXML
+
+\expDefault XML
 \SkipProperties
 \-expset
 \-DatabaseType
