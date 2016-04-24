@@ -3964,14 +3964,13 @@
 \ge generosity
 \sd TN_II.B.5.a.i
 \sd TN_II.E.4.c
-\sd TN_II.B.5
 \de generosity
 \rf Tape:1-2-265
 \xv Fɔpʋ awɩtɔlɛ kie fʋ ba atɔ a, ɩbʋ alɛ. Bulu oboyula fʋ, tsufɛ mʋ ɛ ɔtɔpʋ awɩtɔlɛ ha aha fɛ́ɛ́ atɔ.
 \xe If you give generously to your friends it's good. God will bless you because he also always gives to everyone generously.
 \cf faan1
 \ce freely
-\dt 09/Nov/2015
+\dt 22/Apr/2016
 
 \lx awulusʋfɔ
 \ph awulusʊfɔʔ (H)
@@ -4888,12 +4887,12 @@
 \ph bitɛpʊ(H)
 \ps n
 \sn 1
+\sd TN_II.E.1.c
 \va obitɛpʋ
 \vaph obitɛpʊʔ
 \pl abitɛpʋ
 \plph abitɛpʊʔ
 \ge nephew / niece
-\sd TN_II.E.1.c
 \de child of man's sister
 \na This is a reciprocal relationship. The uncle and the nephew / neice will call each other "Bitɛpʋ."
 \ps n
@@ -4906,7 +4905,7 @@
 \xe Nkonyas inherit fathers' possessions, but Ashantis inherit their maternal uncle's.
 \xv Bɔ́pʋ owie pɔpwɛ amʋ ya mʋ bitɛpʋ ánɩ́ ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
-\dt 04/Feb/2016
+\dt 22/Apr/2016
 
 \lx bitiwie
 \ph bitíwíé
@@ -6153,7 +6152,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge be weak
 \sd TN_I.C.5
 \sd TN_I.C.6.d
-\sd TN_II.A.4.a
 \sd TN_II.A.6.b
 \de to be weak
 \rf Tape:2-1-103
@@ -6166,7 +6164,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_I.C.6.d
 \sd TN_I.C.6.e
 \de to wilt
-\dt 10/Nov/2015
+\dt 22/Apr/2016
 
 \lx bʋ-
 \ph bʊ
@@ -6267,10 +6265,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge weak
 \sd TN_I.C.5
 \sd TN_I.C.6.d
-\sd TN_II.A.4.a
 \sd TN_II.A.6.b
 \de weak
-\dt 12/Jul/2014
+\dt 22/Apr/2016
 
 \lx bʋn
 \ph bʊ̃ʔ
@@ -6976,13 +6973,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph datu
 \ps v
 \sn
-\ge limp
+\ge limp(v)
 \sd TN_II.A.6.c
-\sd TN_II.A.4.a
 \de not able to walk well
 \xv Oyin amʋ yabi dɛ mʋ ɔsɩn, mʋ́sʋ ɔdɛ datu nɩ.
 \xe The leg of the man is paining him, therefore he is limping.
-\dt 28/Jul/2013
+\dt 22/Apr/2016
 
 \lx debidebi
 \ph debídébi (H)
@@ -15237,7 +15233,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge rag
 \sd TN_I.C.1.c
-\sd TN_II.A.4.a
 \de rag
 \pl aklantida
 \plph aklantidaʔ
@@ -15247,7 +15242,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-2-156
 \xv Ɔlɛkpa mʋ woyitɔ aklantida fɛ́ɛ́ yetsitsa, tsufɛ dɛ mʋ woyitɔ nyanya wa.
 \xe He collected all the rags in his house and threw them away because they were making his house nasty.
-\dt 30/Sep/2015
+\dt 22/Apr/2016
 
 \lx klatɩ
 \ph klatɪ (H)
@@ -18063,7 +18058,6 @@ cf fonflo
 \sd TN_I.C.5
 \sd TN_II.A.6.a
 \sd TN_I.C.6.d
-\sd TN_II.A.4.a
 \de loudly
 \rf Tape:4-1-259
 \xv Mɩa mʋ nyɔ nsɩnɛ bʋ fɔ sʋ nokpoli mʋ kʋklʋ asa olotsuda.
@@ -18095,13 +18089,12 @@ cf fonflo
 \sn 4
 \ge firmly
 \sd TN_I.C.6.d
-\sd TN_II.A.4.a
 \sd TN_II.A.6.a
 \de firmly
 \xv lɩɩ kʋklʋ
 \xe be firm
 \bb Stewart List:2345
-\dt 02/Nov/2015
+\dt 22/Apr/2016
 
 \lx kʋklʋkʋʋ
 \ph kʊ́klʊ́kʊ́ː
@@ -19151,9 +19144,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge decrease
-\sd TN_II.A.4.a
 \de to subtract something
-\dt 12/Jul/2014
+\dt 22/Apr/2016
 
 \lx lɛ ɔŋɛ
 \ph lɛ ɔŋɛ́
@@ -23659,7 +23651,6 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge nastiness
 \sd TN_II.B.5.b.i
-\sd TN_II.B.5
 \de nastiness
 \rf Tape:5-1-555
 \xv Natsʋn ɔdɩbatɔ, sʋ mɩ ayabi asɩ lawa nyanya.
@@ -23668,7 +23659,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Mmua ɩnʋ bʋ nyanya.
 \xe The back yard there has nastiness (is nasty).
 \bb Stewart List:1676
-\dt 30/Sep/2015
+\dt 22/Apr/2016
 
 \lx nyanyala
 \ph ɲáɲála
@@ -28578,10 +28569,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge farm worker
 \de one who works on a farm
+\sd TN_II.D.1
 \pl ɔdɔpʋ
 \plph adɔ́pʊ
-\sd TN_II.D.1
-\dt 14/Aug/2013
+\dt 22/Apr/2016
 
 \lx ɔdɔtɔpʋ
 \ph ɔdɔtɔpʊ
@@ -36536,7 +36527,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge rag
 \sd TN_I.C.1.c
-\sd TN_II.A.4.a
 \de rag
 \pl atatida
 \plph atatida
@@ -36548,7 +36538,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The child has urinated on his diapers.
 \xv Nyebi tɛdɩ atatidasʋ.
 \xe Children sleep on diapers.
-\dt 30/Jun/2014
+\dt 22/Apr/2016
 
 \lx Tawia
 \ph táwia
@@ -38126,14 +38116,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 3
 \ge behave
 \sd TN_II.A.2
-\sd TN_II.B.5
 \sd TN_II.E.1.a
 \de to behave a certain way
 \xv Matsia alɩ.
 \xe Don't behave like that.
 \cf tsiatɔ
 \ce behaviour
-\dt 03/Nov/2015
+\dt 22/Apr/2016
 
 \lx tsia
 \hm 2
@@ -38234,7 +38223,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va itsiatɔ
 \ge behaviour
 \sd TN_II.A.2
-\sd TN_II.B.5
 \sd TN_II.E.1.a
 \de behaviour
 \rf Tape:7-2-330
@@ -38245,7 +38233,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Bad behaviour is bad.
 \xv Mʋ tsiatɔ ma alɛ.
 \xe His behaviour is not good.
-\dt 23/Jun/2014
+\dt 22/Apr/2016
 
 \lx tsiatsiaatsia
 \ph t͡siat͡siat͡sia
@@ -38694,7 +38682,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge plenty
-\sd TN_II.B.4.b
 \sd TN_I.C.2.b
 \de plenty
 \nt also tsɔtsɔ
@@ -38702,7 +38689,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔbʋ akufa tsɔtsɔɔtsɔ.
 \xe He has plenty of, many, sheep.
 \bb Stewart List:1511
-\dt 21/Jun/2014
+\dt 22/Apr/2016
 
 \lx tsu
 \hm 1
@@ -40262,13 +40249,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge weak
 \sd TN_I.C.5
 \sd TN_I.C.6.d
-\sd TN_II.A.4.a
 \sd TN_II.A.6.b
 \sd TN_II.A.6.c
 \de to become weak
 \xv Nakɩ anwunsʋ lawa ɔpa dʋbɩ. Mɩ oboyi lawu.
 \xe I have looked up for too long. My neck has gotten stiff.
-\dt 03/Nov/2015
+\dt 22/Apr/2016
 
 \lx wuli
 \ph wúli
@@ -41467,10 +41453,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge weak
 \sd TN_I.C.5
 \sd TN_I.C.6.d
-\sd TN_II.A.4.a
 \sd TN_II.A.6.b
 \de weak
-\dt 11/Jun/2014
+\dt 22/Apr/2016
 
 \lx yula
 \ph yúlá
