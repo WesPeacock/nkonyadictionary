@@ -12559,7 +12559,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge behaviour
-\sd TN_II.B.5;.b.i
+\sd TN_II.B.5
+\sd TN_II.B.5.b.i
 \de behaviour; particularly bad behaviour
 \va la
 \rf Tape:3-1-033
@@ -12567,7 +12568,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe They always watched one another's behaviour. The implication is that because someone else is not doing something, you don't have to either.
 \cf lɛ ɩla
 \ce rebuke
-\dt 23/Jun/2014
+\dt 25/Apr/2016
 
 \lx ɩlan
 \ph ɪlã́ʔ
@@ -13115,7 +13116,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge test
 \sd TN_II.A.3.a
-\sd TN_II.B.6.b,c
+\sd TN_II.B.6.b
+\sd TN_II.B.6.c
 \sd TN_II.E.3.c
 \de to test something
 \xv Sɔ mʋ́ kɩ bɛɛ ɩbʋ alɛ́.
@@ -13129,7 +13131,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-167
 \xv Ɩsɔkɩ tsu nyankpʋsa onuto ɔwɔlɩ lalahɛ watɔ.
 \xe Temptations come from a person's own evil desires.
-\dt 02/Nov/2015
+\dt 25/Apr/2016
 
 \lx ɩsʋ
 \ph ɪsʊʔ (H)
@@ -31546,7 +31548,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge trial
 \sd TN_II.A.3.a
-\sd TN_II.B.6.b,c
+\sd TN_II.B.6.b
+\sd TN_II.B.6.c
 \sd TN_II.E.3.c
 \de trial, temptation, exam
 \pl nsɔhwɩɛ
@@ -31557,7 +31560,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe His evil desires have led him into temptation.
 \cf ɩsɔkɩ
 \ce trial
-\dt 12/Jul/2014
+\dt 25/Apr/2016
 
 \lx ɔsrɩ
 \ph ɔsrɪ
@@ -35327,13 +35330,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge test
 \sd TN_II.A.3.a
-\sd TN_II.B.6.b,c
 \sd TN_II.E.3.c
 \de to test something/someone out serial verb with kɩ
 \xv Nɔsɔ mʋ kɩ bɛɛ ɔbʋalɛ.
 \xe I will try him and see whether he's good.
 \bb Stewart List:2885
-\dt 11/Jul/2014
+\dt 25/Apr/2016
 
 \lx sɔ
 \hm 2
