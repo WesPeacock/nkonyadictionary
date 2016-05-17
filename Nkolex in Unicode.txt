@@ -2774,13 +2774,13 @@
 \ps n
 \sn
 \ge sweat
-\sd TN_II.A.1.h
+\sd 2.2.6
 \de sweat
 \rf Tape:1-1-535
 \xv Agyʋma ayɔpʋ tɛlɩn apipi.
 \xe Workers sweat.
 \bb Stewart List:0072
-\dt 26/Aug/2013
+\dt 17/May/2016
 
 \lx apɩmba
 \ph apɪmbáʔ
@@ -3779,7 +3779,7 @@
 \ps n
 \sn
 \ge saliva
-\sd TN_II.A.1.h
+\sd 2.2.3
 \de saliva
 \xv Nɩ atsɩ akʋ bʋdɛ ɔmɛ a, bʋtotu atsʋnɔ dʋbɩ.
 \xe When some women are pregnant they spit/toss saliva too much.
@@ -3787,7 +3787,7 @@
 \rf Tape:1-2-112
 \bb Stewart List:0046
 \bb SIL-AWL:0093
-\dt 12/Jun/2014
+\dt 17/May/2016
 
 \lx atswɩrɛ
 \ph at͡swɪrɛ (H)
@@ -4006,11 +4006,11 @@
 \ps n
 \sn
 \ge bone marrow
-\sd TN_II.A.1.h
+\sd 2.1.6
 \sd TN_II.D.5.f
 \de marrow
 \bb SIL-AWL:0075
-\dt 12/Jun/2014
+\dt 17/May/2016
 
 \lx awʋlɛ
 \ph awʊ́lɛ́ʔ
@@ -4033,7 +4033,7 @@
 \ps n
 \sn
 \ge skin of a body
-\sd TN_II.A.1.h
+\sd 2.1.4
 \de skin of the body
 \xv Oyin amʋ awʋlɩ bʋ ɔnlɩn dʋbɩ.
 \xe The skin of the man is too hard.
@@ -4042,7 +4042,7 @@
 \cf ɔyʋlʋ
 \ce skin on the body
 \bb SIL-AWL:0002
-\dt 29/Oct/2013
+\dt 17/May/2016
 
 \lx ayasɩ
 \ph ayasɪ
@@ -4096,10 +4096,10 @@
 \ps n
 \sn
 \ge semen
-\sd TN_II.A.1.h
+\sd 2.1.8.3
 \de semen
 \bb SIL-AWL:0100
-\dt 26/Aug/2013
+\dt 17/May/2016
 
 \lx ayɩfʋrɔ
 \ph ayɪfʊrɔ́ʔ
@@ -8242,6 +8242,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge blow
+\sd 2.1.1.3
 \sd TN_II.A.2.d
 \de blow; used of liquids expelled from the nose or mouth
 \lf Idiom = fɛn atsʋnɔ
@@ -8250,7 +8251,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɛyɛfɛn ɩmɛ amba.
 \xe I am going to blow my nose and come back.
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), fʋlɩ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
-\dt 13/Jul/2014
+\dt 17/May/2016
 
 \lx fi asɩ
 \ph fi
@@ -12687,10 +12688,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge nasal mucus
-\sd TN_II.A.1.h
+\sd 2.1.1.3
 \de nasal mucous
 \bb SIL-AWL:0095
-\dt 02/Oct/2015
+\dt 17/May/2016
 
 \lx ɩmɔ
 \ph ɪmɔʔ(H)
@@ -14682,11 +14683,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge cooked blood
-\sd TN_II.A.1.h
+\sd 2.2.5
 \sd TN_II.C.3.a
 \de cooked blood
 \nt When they slaughter an animal they catch the blood in a basin and cook it.
-\dt 04/Jul/2014
+\dt 17/May/2016
 
 \lx kina
 \ph kíná
@@ -17482,7 +17483,6 @@ cf fonflo
 \ge gather
 \sd TN_I.C.6.c
 \sd TN_I.C.6.e
-\sd TN_II.A.1.h
 \de to make gathers in cloth or rope; pull one or more threads so that the cloth is gathered
 \rf Tape:4-1-108
 \xv Ɔdɛ ɔfɛ kpʋ wa atadɩɛ amʋtɔ.
@@ -17493,7 +17493,6 @@ cf fonflo
 \ge wrinkle
 \sd TN_I.C.6.c
 \sd TN_I.C.6.e
-\sd TN_II.A.1.h
 \de to wrinkle something
 \ps v
 \sn 3
@@ -17502,7 +17501,7 @@ cf fonflo
 \sd TN_II.B.2.a
 \de to wink the eye
 \bb SIL-AWL:0104
-\dt 02/Nov/2015
+\dt 17/May/2016
 
 \lx kpʋkpɛ
 \ph k͡pʊ́k͡pɛ́ (H)
@@ -20450,7 +20449,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge mucus
-\sd TN_II.A.1.h
+\sd 2.1.1.3
 \de mucus from the nose
 \rf Tape:4-2-313
 \xv Ɩsʋn lakɩta mʋ, sʋ ɔdɛ mmɛ fɛn dʋbɩ.
@@ -20459,7 +20458,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Nɛyɛfɛn mmɛ amba.
 \xe I am going to blow my nose and come.
 \bb Stewart List:0085
-\dt 26/Aug/2013
+\dt 17/May/2016
 
 \lx mmuatse
 \ph mmuát͡se
@@ -20864,11 +20863,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge form water
-\sd TN_II.A.1.h
+\sd 2.5.2.2
 \de a sealed wound which has formed water inside
 \xv Nɩ fɛdɩnka ɔlɔ fʋmeyia mʋ́ wanklaan a, itomunsa.
 \xe If you had a sore and you did not wash it well, it seals and forms water inside.
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx mʋ
 \hm 1
@@ -21521,7 +21520,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge oil
-\sd TN_II.A.1.h
+\sd 1.2.3.2
 \sd TN_II.C.3.d
 \sd TN_II.D.5.c
 \sd TN_II.D.7.c
@@ -21536,7 +21535,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe palm oil
 \bb Stewart List:1233
 \bb Stewart List:1243
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx nfɔlɩ
 \ph ɱfɔ́lɪʔ
@@ -21929,12 +21928,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge blood
-\sd TN_II.A.1.h
+\sd 2.2.5
 \de blood spilled on the ground
 \rf Tape:5-1-211
 \xv Nkla ɩwʋlɩ asɩ a, asʋn laba.
 \xe If blood is shed then it's a serious case.
-\dt 26/Aug/2013
+\dt 17/May/2016
 
 \lx nklobitɔ
 \ph ŋklobítɔ́ʔ
@@ -22396,7 +22395,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge eye discharge
-\sd TN_II.A.1.h
+\sd 2.1.1.1
 \sd TN_II.A.1.b
 \de eye discharge whether normal or infectious
 \xv Nsɩka bʋ fʋ ɔsɩkɛtɛtɔ, sʋ lɛ mʋ́.
@@ -22404,7 +22403,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:6-1-371
 \xv Nɩ nsibi dɛ fʋha a, nsika tɛdɩnka fʋ nsibisʋ.
 \xe When you have eye trouble, you will have eye discharge.
-\dt 08/Jan/2014
+\dt 17/May/2016
 
 \lx nsɩnɛ
 \ph nsɪnɛ́
@@ -24410,7 +24409,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge blood
-\sd TN_II.A.1.h
+\sd 2.2.5
 \de blood
 \cf nkla2
 \ce blood
@@ -24433,21 +24432,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Blood is thicker than water.
 \bb Stewart List:0027
 \bb SIL-AWL:0098
-\dt 09/Nov/2015
+\dt 17/May/2016
 
 \lx obulu
 \ph obulúʔ
 \ps n
 \sn
 \ge urine
-\sd TN_II.A.1.h
+\sd 2.2.7
 \de urine
 \rf Tape:6-2-328
 \xv Nfɔlɩ bʋ obulutɔ.
 \xe Urine is salty (salt is in urine).
 \bb Stewart List:0049
 \bb SIL-AWL:0101
-\dt 26/Aug/2013
+\dt 17/May/2016
 
 \lx obun
 \ph obũʔ(L)
@@ -25836,7 +25835,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bile
-\sd TN_II.A.1.h
+\sd 2.2
+\sd 2.3.3
 \de bile
 \pl nlinkantɩ
 \plph nliŋkantɪ
@@ -25849,7 +25849,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The Bile has burst in the liver so it has become bitter.
 \bb Stewart List:0047
 \bb SIL-AWL:0099
-\dt 26/Aug/2013
+\dt 17/May/2016
 
 \lx olobi
 \ph olobi
@@ -26928,7 +26928,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge vein
-\sd TN_II.A.1.h
+\sd 2.2.5
+\sd 2.1.8.1
 \de vein; blood vessels
 \pl ntsin
 \plph nt͡sĩ́ʔ
@@ -26936,7 +26937,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I cut my hand and unexpectedly cut a blood vessel.
 \bb Stewart List:0070
 \bb SIL-AWL:0091
-\dt 21/Jun/2014
+\dt 17/May/2016
 
 \lx otsobi
 \ph ot͡sobíʔ
@@ -29754,7 +29755,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge toilet
-\sd TN_II.A.1.h
+\sd 2.2.8
 \sd TN_II.A.2.f
 \de toilet (crude term)
 \pl nkpʋn
@@ -29762,7 +29763,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-550
 \xv Abokwi ɔkpʋn ɔkɛ. Tsufɛ anɩ ɔkpʋn dada amʋ layinta.
 \xe We will dig a toilet tomorrow because our old toilet has spoiled.
-\dt 06/May/2016
+\dt 17/May/2016
 
 \lx ɔkpʋnɔ
 \ph ɔk͡pʊnɔ́
@@ -30665,9 +30666,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge pus
-\sd TN_II.A.1.h
+\sd 2.5.2.2
 \de pus
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx ɔnɩ
 \ph ɔ́nɪ
@@ -32551,13 +32552,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge phlegm
-\sd TN_II.A.1.h
+\sd 2.2.3
 \de phlegm
 \rf Tape:6-1-571
 \xv Alawata lɛ ɔwɛ.
 \xe He has coughed up phlegm.
 \bb SIL-AWL:0094
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx ɔwɩa
 \ph ɔwɪá
@@ -32636,7 +32637,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge skin
-\sd TN_II.A.1.h
+\sd 2.1.4
 \de skin
 \xv Ɔyɩtɔ gyi fɛ ologyo (ɔkɔnfɔbowuo) ɔwʋlʋ, ɩtɛtsɛ.
 \xe The world is like chameleon's skin it always changes.
@@ -32661,7 +32662,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe This girl knows books.
 \bb Stewart List:0029
 \bb Stewart List:1176
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx ɔwʋlʋ kpakpa
 \ph ɔwʊlʊ k͡pak͡pa
@@ -32814,9 +32815,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge flesh
-\sd TN_II.A.1.h
+\sd 2.1.7
 \de flesh
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx ɔyɔɩ
 \ph ɔyɔ́ɪ
@@ -32837,7 +32838,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge skin
-\sd TN_II.A.1.h
+\sd 2.1.4
 \de skin on the body
 \rf Tape:6-2-074
 \xv Abibifɔ ɔyʋlʋ lebi, abrɔfɔ klɛ ɛ lofuli.
@@ -32851,7 +32852,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge body
 \sd TN_II.A.1.a
 \de body
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx paa
 \ph páː
@@ -34294,13 +34295,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge crumple
 \sd TN_I.C.6.c
 \sd TN_I.C.6.e
-\sd TN_II.A.1.h
 \de crumple a piece of paper, cloth or a leaf
 \xv Nɩ fʋdɛ dɔ ndɔtɔ, fokun ɩwɩ atɔ a, ɩfa kʋ bʋnʋ ánɩ́ bʋtɔpʋsa mʋ́ wa ɔlɔ amʋtɔ.
 \xe When you are clearing in the farm and you cut yourself, there is a certain herb that they crush by rubbing and put it on the wound.
 \xv Pʋsa afa amʋ wa otubi amʋtɔ nun.
 \xe Crush the medicine into the spoon and drink it.
-\dt 01/Oct/2015
+\dt 17/May/2016
 
 \lx pʋtɛtɛ
 \ph pʊtɛ́tɛ
