@@ -969,11 +969,11 @@
 \ps n
 \sn
 \ge sky
-\sd TN_I.A.1
+\sd 1.1.2
 \de air
 \xv Obubwi na afutɔ.
 \xe Birds fly in the sky.
-\dt 23/Dec/2013
+\dt 17/May/2016
 
 \lx afutuo
 \ph afutúó
@@ -6778,10 +6778,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe He's going out so he has shut up the room.
 \se owi dalɩ
 \ge sunrise
-\sd TN_I.A.1
+\sd 8.4.1.2.3
 \xv Nɩ owi ɔdalɩ tsu owi okplɩwiekpa a, igyi isuna kpɔnkpɔɔnkpɔntɩ, tsufɛ owi ɔdalɩkpa owi tɛdalɩ tsu.
 \xe When the sun rises from the west, it is a big sign, because the sun rises from the east.
-\dt 01/Oct/2015
+\dt 17/May/2016
 
 \lx dalɩ tsu
 \ph dálɪ́ t͡súʔ
@@ -15522,7 +15522,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge darken
-\sd TN_I.A.1
 \sd TN_I.C.6.a
 \de become dark
 \rf Tape:3-2-247
@@ -18196,7 +18195,7 @@ cf fonflo
 \ps vi
 \sn
 \ge rise
-\sd TN_I.A.1
+\sd 7.1.1
 \de get up
 \cf tsinki
 \ce wake up
@@ -23306,13 +23305,13 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn 2
 \ge sky
-\sd TN_I.A.1
+\sd 1.1
 \de sky, firmament
 \cf afutɔ
 \ce atmosphere
 \bb Stewart List:1005
 \bb Stewart List:1044
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx nya
 \ph ɲá (H)
@@ -25370,7 +25369,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge darkness
-\sd TN_I.A.1
 \sd TN_I.C.6.a
 \de darkness
 \rf Tape:6-2-567
@@ -25383,17 +25381,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The man is wicked, therefore be careful of him.
 \rf Tape:6-2-433
 \bb Stewart List:1039
-\dt 17/Apr/2016
+\dt 17/May/2016
 
 \lx okluntɔ
 \ph oklúntɔ
 \ps n
 \sn
 \ge darkness
-\sd TN_I.A.1
 \sd TN_I.C.6.a
 \de darkness
-\dt 17/Apr/2016
+\dt 17/May/2016
 
 \lx okoklobi
 \ph okoklobiʔ
@@ -26140,7 +26137,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge night
 \sd TN_I.C.4.b
-\sd TN_I.A.1
+\sd 8.4.1.2.1
 \de night
 \va enye
 \ve South
@@ -26154,7 +26151,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce morning
 \nt see nyankɩ for other words for time of day
 \bb Stewart List:1104
-\dt 09/Nov/2015
+\dt 17/May/2016
 
 \lx onyelulu
 \ph oɲelulúʔ
@@ -27112,7 +27109,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sun
-\sd TN_I.A.1
+\sd 1.1.1
 \de sun
 \xv owi ɔdalɩkpa ɩfʋn
 \xe Where the sun comes out; east.
@@ -27122,7 +27119,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Owi lalɩn dʋbɩ, sʋ ɔsʋlʋtɔ lablɩ ogya.
 \xe The sun has shone brightly so the ground has become hot.
 \bb Stewart List:1002
-\dt 19/Jun/2014
+\dt 17/May/2016
 
 \lx owi
 \ph owi(H)
@@ -31569,7 +31566,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge heaven
-\sd TN_I.A.1
+\sd 4.9.6
 \de above
 \rf Tape:6-1-409
 \xv Nana Bulu lɔbwɛ ɔsʋ mʋ́a asɩ.
@@ -31587,7 +31584,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge top
 \sd TN_I.C.3.c
 \de top, the
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx ɔsʋkpɩ
 \ph ɔsʊk͡pɪ
@@ -32343,7 +32340,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge moon
-\sd TN_I.A.1
+\sd 1.1.1.1
 \de moon
 \rf Tape:6-1-538
 \xv Ɔtsra amʋ dɛfɛɩ dʋbɩ.
@@ -32360,7 +32357,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The month has passed on her. She has missed her period. She is conceived.
 \nt idiom
 \rf Tape:6-1-541
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx ɔtsrafɛɩ
 \ph ɔt͡srafɛɪ
@@ -32404,9 +32401,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge moonlight
-\sd TN_I.A.1
+\sd 1.1.1.1
 \de moonlight
-\dt 23/Jun/2014
+\dt 17/May/2016
 
 \lx ɔtsʋtsʋ
 \ph ɔt͡sʊt͡sʊ́
@@ -32771,12 +32768,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt JG contrast with ɔyɩkɛhɛ/ɛyɩkɛhɛ
 \ge dawn
 \sd TN_I.C.4.b
-\sd TN_I.A.1
+\sd 8.4.1.2.3
 \de the time that the sun rises
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\dt 17/May/2016
 
 \lx ɔyɩ nsɩnɛ
 \ph ɔyɪ́nsɪnɛ́
@@ -32795,10 +32792,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge day time
-\sd TN_I.A.1
+\sd 8.4.1.2.3
 \sd TN_I.C.4.b
 \de daytime
-\dt 12/Jul/2014
+\dt 17/May/2016
 
 \lx ɔyɩlʋ
 \ph ɔyɪlʊ
@@ -39322,7 +39319,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge dark
-\sd TN_I.A.1
 \sd TN_I.C.6.a
 \de become very dark
 \rf Tape:8-1-026
@@ -39334,7 +39330,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-040
 \xv Ogyasi amʋ labi gyadɩtɔ ɩnʋ tuun.
 \xe Smoke has completely blackened the kitchen.
-\dt 30/Sep/2015
+\dt 17/May/2016
 
 \lx tʋ
 \ph tʊ́
