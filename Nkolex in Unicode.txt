@@ -5,14 +5,14 @@
 \ps CONN
 \sn
 \ge SCLS
-\sd TN_I.C.5
+\sd 9.2.5.2
 \de subordinate clause marker
 \rf Tape:1-1-004
 \xv Fɔyɔ wulutɔ a, hɔ kɩtɩba ba mɩ.
 \xe If you go to town, buy me some groundnuts.
 \xv Ɔtsanɩ fɔyɔ wulutɔ a, hɔ kɩtɩba ba mɩ.
 \xe When you go to town buy peanuts for me.
-\dt 10/Nov/2015
+\dt 17/May/2016
 
 \lx a-
 \hm 1
@@ -581,11 +581,11 @@
 \ps n
 \sn 2
 \ge opportunity
-\sd TN_I.C.5
+\sd 6.1.2.9
 \de opportunity
 \xv Adagyi ma ɩnʋ sʋ, tɛkɩ nɛ́bɛtsa fʋ agyʋma yɔ.
-\xe There was no chance else I would have helped you work.
-\dt 02/Nov/2015
+\xe There was no chance, or I would have helped you work.
+\dt 17/May/2016
 
 \lx adalɛ
 \ph adalɛ́ (H)
@@ -2022,20 +2022,20 @@
 \ps NOMR
 \sn 2
 \ge easy
-\sd TN_I.C.5
+\sd 6.1.3.1
 \de with verb infix X, a-X-lɛ is the quality of easy or pleasant to X
 \xv kɩ; akɩlɛ
 \xe look at; beautiful
 \xv kla; aklalɛ
 \xe read, easy to read
-\dt 01/May/2016
+\dt 17/May/2016
 
 \lx alɩ
 \ph alɪ (H)
 \ps DEIC
 \sn 1
-\ge this way
-\sd TN_I.C.5
+\ge manner
+\sd 9.5.1.4
 \de in this fashion
 \rf Tape:1-1-389
 \xv Matsia alɩ.
@@ -2061,19 +2061,19 @@
 \ps n
 \sn 2
 \ge how it is
-\sd TN_I.C.5
+\sd 9.5.1.4
 \de how it is
 \rf Tape:1-1-391
 \xv Alɩ gyi nɩ? Ee! Alɩ igyi nɩ.
 \xe Depending on intonation either a question, Is that how it is? or a response, yes that's how it is.
-\dt 02/Nov/2015
+\dt 17/May/2016
 
 \lx alɩa
 \ph alɪá(L)
 \ps ADV
 \sn
 \ge as
-\sd TN_I.C.5
+\sd 9.5.1.4
 \de how it is; contraction of alɩ ánɩ́
 \xv Alɩa ɩlɔbwɛ asa ɔyɩ lɛba a, Bulu pɛ yin.
 \xe How it was before the world came, only God knows.
@@ -2088,29 +2088,29 @@
 \ce by all means
 \cf alɩ
 \ce this way
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx alɩagyialɩa
 \ph alɪáʤialɪá
 \ps ADV
 \sn
 \ge anyhow
-\sd TN_I.C.5
+\sd 9.5.1.4
 \de no matter how
 \cf alɩa
 \ce as
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx alɩagyialɩa igyi
 \ph alɪáʤialɪá iʤi
 \ps ADV
 \sn
 \ge by all means
-\sd TN_I.C.5
+\sd 9.5.1.4
 \de by all means
 \cf alɩa
 \ce as
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx alɩɩ
 \ph alɪː(H)
@@ -2133,14 +2133,14 @@
 \va loo
 \vaph lóː
 \ge or; instead of
-\sd TN_I.C.5
+\sd 9.6.1.2
 \de or
 \bw Ewe fi:aloo LHH
 \cf anaasɛ
 \ce or (Twi)
 \cf ntɛ
 \ce or (Nkonya)
-\dt 04/Feb/2016
+\dt 17/May/2016
 
 \lx amandɩɛ
 \hm 1
@@ -2238,18 +2238,18 @@
 \ps ART
 \sn
 \ge the
-\sd TN_I.C.5
+\sd 9.2.3.5
 \de discourse marker referring to something known to both speaker and hearer
 \xv Atogyihɛ amʋ lablɩ.
 \xe The food is cooked.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx amʋ́
 \ph amʊ́(H)
 \ps PRO
 \sn
 \ge their; them; they
-\sd TN_I.C.5
+\sd 9.2.3
 \de 3rd person pl
 \xv Amʋ́ bʋ mankani ndɔ amʋ.
 \xe They own the cocoyam farm.
@@ -2257,7 +2257,7 @@
 \xv Amʋ́ mankani ndɔ nɩ.
 \xe This is their cocoyam farm.
 \bb Stewart List:1843
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx amʋmʋyɔ
 \ph amʊmʊyɔ
@@ -2274,7 +2274,7 @@
 \ps DEIC
 \sn
 \ge which
-\sd TN_I.C.5
+\sd 9.2.3.5
 \de that/which
 \nt can be lengthened amʋʋ for emphasis
 \xv Mɩ atadɩɛ amʋ́ʋ́ nɔwa igye amʋ lakpɔɩ.
@@ -2285,7 +2285,7 @@
 \rf Tape:1-1-437
 \xv Ayin amʋ́ʋ́ bɛba nfɩ amʋ bolwii.
 \xe The men that came here are good men.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ana
 \ph ana(H)
@@ -2304,7 +2304,7 @@
 \ps ADV
 \sn
 \ge and these
-\sd TN_I.C.5
+\sd 9.6.1.2
 \de and these
 \rf Tape:1-1-450
 \xv Nɩ fɔ́dɔ ndɔ a, lehian ánɩ́ fénya adatɔ. Adatɔ amʋ kʋ aná gyi, krantɩɛ, ɔtɩ, pʋ́ otsobi.
@@ -2312,14 +2312,14 @@
 \rf Tape:1-2-275
 \xv Ayintiase gyi ndɔ ánɩ́ bʋtegyankpa dɔ ofi ɔkʋlɛtɔ nɩ. Mʋ́tɔ bʋtoswie blɔdɩ, agbodi, pʋ́ mankani ana nɩ.
 \xe Ayintiase is the farm that they make first each year. In it they plant plantain, cassava and cocoyam.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx anaasɛ
 \ph anáː!sɛ́(L)
 \ps CNJ
 \sn
 \ge or
-\sd TN_I.C.5
+\sd 9.6.1.2
 \de or; instead of
 \bw Akan fi:anaasɛ LHH!
 \xv Fɔyɔ Nkran anaasɛ, fétsia woyi tsia natɩ ki awulu?
@@ -2329,7 +2329,7 @@
 \cf ntɛ
 \ce or
 \bb Stewart List:1851
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx anamu
 \ph anamu(H)
@@ -2383,20 +2383,20 @@
 \ps DEIC
 \sn
 \ge this
-\sd TN_I.C.5
+\sd 9.2.3.5
 \de this
 \xv Anɩ fɛ́ɛ́ anɩgyi afɔɔ ɔyɩ anfɩtɔ.
 \xe We all, (we) are strangers in this world.
 \xe We all are strangers in this world.
 \rf Tape:1-1-456
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx anɩ
 \ph anɪ(H)
 \ps PRO
 \sn 1
 \ge we/us
-\sd TN_I.C.5
+\sd 9.2.3
 \de 1st person plural
 \rf Tape:1-1-465
 \xv Anɩmɛ́ɛtra bwɛ lakpan. Mɛnɩ awu a, abɔ́yɔ Bulu wa.
@@ -2406,12 +2406,12 @@
 \ps POSS
 \sn 2
 \ge our
-\sd TN_I.C.5
+\sd 9.2.3
 \de our
 \rf Tape:1-1-462
 \xv Nɩ awu a, anɩ bwɛhɛ bobuo anɩ.
 \xe When we die, our deeds will come to follow us.
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx ánɩ́
 \ph ánɪ́
@@ -2419,7 +2419,7 @@
 \sn
 \va -á
 \ge that
-\sd TN_I.C.5
+\sd 9.2.5.2
 \de that
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that is not flexible is easy to break.
@@ -2432,7 +2432,7 @@
 \xv Nɛbla kebi amʋ ánɩ́ ɔkʋsʋ natɩ ba.
 \xe I told the child that he should get up and walk come.
 \bb Stewart List:1847
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx anɩmka
 \ph animka(H)
@@ -3118,12 +3118,12 @@
 \ps POST
 \sn 1
 \ge around
-\sd TN_I.C.5
+\sd 8.5.1.2.1
 \de around
 \ps POST
 \sn 2
 \ge down
-\sd TN_I.C.5
+\sd 8.5.1.3.2
 \de down
 \se ba ɩwɩ asɩ
 \ge humble
@@ -3133,7 +3133,7 @@
 \ps POST
 \sn 3
 \ge under
-\sd TN_I.C.5
+\sd 8.5.1.3.2
 \de under
 \cf ayasɩ
 \ce under
@@ -3144,7 +3144,7 @@
 \de earth, as opposed to heaven ɔsʋsʋ
 \cf fi asɩ
 \ce start
-\dt 05/Feb/2016
+\dt 17/May/2016
 
 \lx asɩba
 \ph asɪbá
@@ -3170,9 +3170,9 @@
 \ps n
 \sn
 \ge explanation
-\sd TN_I.C.5
+\sd 3.6.1
 \de explanation
-\dt 12/Jun/2014
+\dt 17/May/2016
 
 \lx asɩra
 \ph asɪ́raʔ
@@ -4049,7 +4049,7 @@
 \ps LOC
 \sn
 \ge under
-\sd TN_I.C.5
+\sd 8.5.1.3.2
 \de under
 \xv Daka amʋ bʋ mpa ayasɩ.
 \xe The trunk is under a bed.
@@ -4057,7 +4057,7 @@
 \xv Mlisi ntsu amʋ wuli, tsufɛsɛ, aha bʋdɛ mʋ́ ayasɩ sa.
 \xe You stop stirring up the water because people are fetching water downstream.
 \bb Stewart List:0955
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ayɛ
 \ph ayɛʔ(H)
@@ -4440,7 +4440,7 @@
 \sn
 \va be-
 \ge come to
-\sd TN_I.C.5
+\sd 7.2.3.2.1
 \de come in order to
 \rf Tape:1-2-354
 \xv Nɛba bɛsɩna fʋ.
@@ -4448,7 +4448,7 @@
 \nt Nɛba bɛsɩna fʋ. Fɛba bɛsɩna mʋ. Ɔba bɛsɩna fʋ. Aba bɛsɩna fʋ. Mlɛba bɛsɩna mʋ. Bɛba bɛsɩna fʋ.
 \xv Ba bɛkɩ mɩ ndɔtɔ.
 \xe Come and see my farm.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx bɛ́-
 \ph bɛ́-
@@ -4458,12 +4458,13 @@
 \va bɔ́-
 \va bó-
 \ge FUT
-\sd TN_I.C.5
+\sd 9.4.1.1
+\sd 8.4.6.4
 \de future tense marker
 \nt bɛ, bɔ, be, bo
 \nt downsteps the tone of the following verb
 \nt also has long form bɛ́ɛ LH tone
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx bɛɛ
 \ph bɛ̂ː
@@ -4605,9 +4606,9 @@
 \ps NOMR
 \sn
 \ge DIMINUTIVE
-\sd TN_I.C.5
+\sd 8.2.1
 \de diminutive suffix marker
-\dt 10/Nov/2015
+\dt 17/May/2016
 
 \lx bia
 \hm 1
@@ -4711,14 +4712,15 @@
 \ps n
 \sn
 \ge market day
-\sd TN_I.C.5
+\sd 8.4.1.1.3.1
+\sd 6.8.4.8
 \de market day
 \nt Market days in the Nkonya area rotate on a four day cycle. Kpando, Abotoasi, Kwamekrom/Bumbilla, Ahenkro.
 \xv Ɔmɛnkɛ Abotoasi biakɛ? Ndekle nɔ́yɔhɔ kpala.
 \xe When is Abotoasi market day? I want to go buy a goat.
 \cf bia1 1
 \ce market
-\dt 09/Nov/2015
+\dt 17/May/2016
 
 \lx biam
 \ph biam(L)
@@ -4954,11 +4956,11 @@
 \sn
 \va -bɩ
 \ge time
-\sd TN_I.C.5
+\sd 8.4.5.2.2
 \de time of occurrence
 \xv tɩnbɩ
 \xe harvest time
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx bɩmbɩ
 \ph bɪ́mbɪ́
@@ -6138,7 +6140,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 2
 \ge be weak
-\sd TN_I.C.5
 \sd TN_I.C.6.d
 \sd TN_II.A.6.b
 \de to be weak
@@ -6148,23 +6149,22 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 3
 \ge wilt
-\sd TN_I.C.5
 \sd TN_I.C.6.d
 \sd TN_I.C.6.e
 \de to wilt
-\dt 22/Apr/2016
+\dt 17/May/2016
 
 \lx bʋ-
 \ph bʊ
 \ps PRO
 \sn
 \ge they
-\sd TN_I.C.5
+\sd 9.2.3
 \de they; 3rd person plural subject
 \rf Tape:2-1-117
 \xv Bʋdɛ agyʋma yɔ amʋ́ ndɔtɔ.
 \xe They are working on their farm.
-\dt 10/Nov/2015
+\dt 17/May/2016
 
 \lx bʋ alɛ
 \ph bʊ alɛ
@@ -6251,11 +6251,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge weak
-\sd TN_I.C.5
 \sd TN_I.C.6.d
 \sd TN_II.A.6.b
 \de weak
-\dt 22/Apr/2016
+\dt 17/May/2016
 
 \lx bʋn
 \ph bʊ̃ʔ
@@ -6788,7 +6787,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge proceed from
-\sd TN_I.C.5
+\sd 7.2.3.3
 \de to proceed in a sequence
 \xv Nɩ fɛdalɩ tsu asienɔ a, fɔyɔ ikwe.
 \xe If you leave seven you are going to eight.
@@ -6797,11 +6796,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge derived
 \de to be derived from
-\sd TN_I.C.5
+\sd 9.6.2.1
 \rf Tape:2-1-235
 \xv "Yinti" lɛdalɩ tsu "oyi tin"tɔ.
 \xe "Stump" comes from "tree cut off".
-\dt 02/Nov/2015
+\dt 17/May/2016
 
 \lx damantsu
 \ph damant͡sú
@@ -7067,7 +7066,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps TAM
 \sn
 \ge CONT
-\sd TN_I.C.5
+\sd 9.4.1.2
 \de continuous aspect
 \va dɛ-
 \va de-
@@ -7078,7 +7077,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ɩdɛ fʋ agyilɛ wa?
 \xe Is it eatable for you?
 \bb Stewart List:2674
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx dɛdɛ
 \ph dɛdɛ́
@@ -7849,11 +7848,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge also
-\sd TN_I.C.5
+\sd 9.6.1.1
 \de also
 \xv Mɩ ɛ, ɔdɔtɔpʋ ngyi.
 \xe I am also a farmer.
-\dt 22/Jun/2014
+\dt 17/May/2016
 
 \lx ɛdɔɔ
 \ph ɛdɔː
@@ -8230,13 +8229,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps CNJ
 \sn
 \ge then
-\sd TN_I.C.5
+\sd 9.6.2.8
 \de then; logical connection
 \sy fówun
 \rf Tape:2-1-483
 \xv Ɔkɛ bakɛ a, ɩbwɛ fawa ɔsa ba fɛ́kɩ anɩayɔ.
 \xe You should come early tomorrow morning so we can go.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx fɛn
 \ph fɛ̃ʔ
@@ -8335,12 +8334,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge perhaps
-\sd TN_I.C.5
+\sd 9.4.4.6.2
 \de perhaps
 \rf Tape:2-1-500
 \xv Kwaku ɔbɛɛ, fialɩ mʋ dɛhɛn obétsia woyitɔ, sʋ yɛkɩ.
 \xe Kwaku says, Perhaps his senior brother/sister is at the house so go and look.
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx Fieda
 \ph fieda (H)
@@ -8693,7 +8692,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps CNJ
 \sn 1
 \ge so that
-\sd TN_I.C.5
+\sd 9.6.2.8
 \de so that
 \rf Tape:1-1-236
 \xv Agyawunu atɔpʋ bʋtokwi ɔbɔ kʋla nyi wa mʋ́tɔ, fówun bawa ogya mʋ́tɔ yinki kpa sɩ bun mʋ́sʋ. Ɩhɔ ta a, balɛ agyawunu amʋ.
@@ -8707,7 +8706,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I told Emmanuel He should come, we plan the day that is fitting for him so that he will come and we have learned something.
 \xv Nɛbla mʋ mbɛɛ owí pɔn a, fówun alaba anɩayɔ.
 \xe I told him to come in the evening so that when he has come we have gone.
-\dt 02/Oct/2015
+\dt 17/May/2016
 
 \lx fɔ
 \hm 1
@@ -8937,12 +8936,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps PRO
 \sn
 \ge 2S
-\sd TN_I.C.5
+\sd 9.2.3
 \de you (singular)
 \bb Stewart List:1837
 \va fʋ-
 \va f-
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx fʋ
 \hm 2
@@ -9009,12 +9008,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps PRO
 \sn
 \ge whoever
-\sd TN_I.C.5
+\sd 9.2.3
 \de contraction for you that fʋ ánɩ́, so you that or whoever
 \rf Tape:2-2-036
 \xv Owie ɔbɛɛ, fʋa fʋmɛba agyʋma a, bɔ́hɔ fʋ kɔ.
 \xe The chief says you that don't come to work, they will take your debt.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx fʋlɩ
 \ph fʊlɪ́
@@ -9085,9 +9084,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce begin
 \se yɔ fʋn
 \ge until
-\sd TN_I.C.5
+\sd 8.4.6.1.4
 \de until
-\dt 04/Nov/2015
+\dt 17/May/2016
 
 \lx fʋnaa
 \ph fʊ́naː
@@ -10238,7 +10237,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJR
 \sn
 \ge ADJECTIVEizer
-\sd TN_I.C.5
+\sd 9.1.4
 \de changes a verb to an adjective
 \nt Nkonya adjectives are adjectival nouns and can stand alone as nouns and take plurals
 \xv tɛɩhɛ
@@ -10303,7 +10302,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe wares
 \cf kanahɛ
 \ce middle thing
-\dt 06/Nov/2015
+\dt 17/May/2016
 
 \lx hian
 \ph híã́ʔ (L)
@@ -11558,12 +11557,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 1
 \ph ɪ-
 \ps PRO
-\sn
 \va i-
 \ge it
-\sd TN_I.C.5
+\sd 9.2.3
 \de 3rd person inanimate pronoun
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɩ-
 \hm 2
@@ -11573,11 +11571,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \va i-
 \ph i
 \ge NOMR
-\sd TN_I.C.5
+\sd 9.2.9.2
 \de nominalizer; changes a verb to a noun
 \xv Ɔlɛnatɩ. ɩnatɩ
 \xe He walked. way of walking
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɩ- -la
 \ph ɪ la
@@ -11908,11 +11906,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge by all means
-\sd TN_I.C.5
+\sd 9.4.4.1
 \de by all means it will be good
 \xv Ɩbwɛbwɛɛbwɛ kebi amʋ ɔbɔ́yɔ kolegye.
 \xe By all means the boy will go to secondary school.
-\dt 13/Jul/2014
+\dt 17/May/2016
 
 \lx ɩda
 \ph ɪdáʔ (H)
@@ -12724,29 +12722,29 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge because
-\sd TN_I.C.5
+\sd 9.6.2.5
 \de because
 \rf Tape:3-1-069
 \xv Ɩna mbwɩ ayie amʋ́ʋ́ alawɩ amʋ sʋ a, alamwɛ.
 \xe Because of the animal meat he has eaten, he has become satisfied.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɩnɩ
 \ph ɪ́!nɪ́
 \ps DEIC
 \sn
 \ge this
-\sd TN_I.C.5
+\sd 9.2.3.5
 \de this
 \bb Stewart List:1556
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɩnɩa
 \ph ɪ́nɪáʔ (H)
 \ps ADV
 \sn
 \ge as
-\sd TN_I.C.5
+\sd 9.6.2.8
 \de as
 \rf Tape:3-1-088
 \xv Ɔwʋnlɩnpʋ ɔbɛ́talɩ damli ɔlɔpʋ. Ɩnɩa ɩtamakla sʋ a, fʋmɛ́ɛbɩ.
@@ -12754,7 +12752,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:5-2-449
 \xv Lɛ fʋ aklantida amʋ lɛ obu amʋtɔ afʋfɛɩ nʋ. Ɩnʋ lawa nyanya.
 \xe Remove your old cloths and sleeping mats from the room so that you can sweep there as it has become nasty, dirty.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɩnɔfa
 \ph ɪnɔfaʔ
@@ -12774,7 +12772,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va nʋ
 \ge there
-\sd TN_I.C.5
+\sd 9.2.3.5
 \de there; at that time
 \rf Tape:3-1-097
 \xv Nyankpʋ latswie dʋbɩ sʋ, atsalɩ bʋ ɩnʋ.
@@ -12785,27 +12783,27 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Awʋlɛ mʋ́ a, fɔpʋ wa ntsutso a, bʋtamalɛ mʋ ɩnʋ ɩnʋ.
 \xe This net, you put it into the water, you don't take it out at the same time.
 \bb Stewart List:1555
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɩnʋ a
 \ph ɪnʊ áʔ (H)
 \ps TIME
 \sn
 \ge immediately then
-\sd TN_I.C.5
+\sd 8.4.6.4.4
 \de immediately then, following a previous action
 \xv Mʋ́ʋ́ Bulu Lɛblɩ ɔbɛɛ, "Ɩwankɩ ba. " Ɩnʋ a, ɔtɩnɛgyiɔtɩnɛ lɔwankɩ.
 \xe Then God said. "Light should come. " Immediately then, everything became light.. I think that this may only occur in the middle of a discourse. It would be interesting to check out if this premise is correct.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɩnʋnʋ
 \ph ɪnʊnʊ
 \ps ADV
 \sn
 \ge immediately
-\sd TN_I.C.5
+\sd 8.4.6.4.4
 \de immediately
-\dt 06/Nov/2015
+\dt 17/May/2016
 
 \lx ɩnwɛ
 \ph ɪ́nwɛ̃́
@@ -13487,7 +13485,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge about
-\sd TN_I.C.5
+\sd 3.5.1.2.9
 \de concerning
 \rf Tape:7-2-442
 \xv Igye nɔtɔɩ tsu tɔkʋ wɩ.
@@ -13501,7 +13499,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe a man's genitals
 \xv ɔtsɩ wɩ
 \xe a woman's genitals
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx ɩwɩ imi
 \ph ɪwɪ imi
@@ -13773,8 +13771,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph kabɛ
 \ps v
 \sn
-\ge If only
-\sd TN_I.C.5
+\ge if only
+\sd 9.4.8
 \de if it were only
 \rf Tape:3-1-311
 \xv Nɩ kabɛ mɩsʋ a, tɛkɩ mmótsula. Tamɛ mɩ kulu lɛha mʋ ɔkpa.
@@ -13782,7 +13780,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-317
 \xv Nɩ kabɛ anyankpʋsa sʋ a, tɛkɩ nyankpʋ tamatswie wʋlɩ amʋ alupʋ atɔ sʋ.
 \xe If it were up to humans rain would never fall on their enemies things.
-\dt 08/Feb/2014
+\dt 17/May/2016
 
 \lx Kadjebi
 \ph káʤábí
@@ -14475,11 +14473,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 4
 \ph kɛ̃ʔ(L)
 \ps v
-\sn
+\sn 2.6.4.6
 \ge enlarge
-\sd TN_I.C.5
 \de to become larger
-\dt 30/Sep/2013
+\dt 17/May/2016
 
 \lx kɛnkɛ
 \hm 1
@@ -14839,13 +14836,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge see whether
-\sd TN_I.C.5
+\sd 9.4.5
 \de see whether (probably literally look and say)
 \xv Kɩ bɛɛ iye bʋ biasʋ, afʋ bɛbla mɩ.
 \xe See whether there is fish in the market so that you should tell me.
 \ng kɩ bɛɛ look/say - see whether
 \rf Tape:3-2-001
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx kɩ Xsʋ
 \ph kɪ sʊ
@@ -14892,13 +14889,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge intend
-\sd TN_I.C.5
+\sd 3.3.1.4
+\sd 3.3.1.5
 \de to do something intentionally
 \xv Osʋnapʋ amʋ lɛ kɩansɩ natɩ yɔ ndɔtɔ.
 \xe The teacher intentionally went to the farm.
 \xv Mmɛkɩansɩ nɛtsɛɩ ntsu wʋlɩ nfɔlɩ amʋsʋ ɩlɛyɛ wa bɛnsɩ amʋtɔ.
 \xe Unintentionally, I poured water on the salt and it dissolved in the pan.
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx kɩɛ
 \ph kɪ́ɛ́ʔ
@@ -15531,7 +15529,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nefin klʋn amʋ a, obu amʋtɔ loklun. Sʋ nefinki nfansɩrɩ amʋ ha obu amʋtɔ lɔwankɩ.
 \xe When I closed the door, the room became dark so I opened the window and let the room become light.
 \nt nominal form is oklun - darkness
-\dt 22/Jun/2014
+\dt 17/May/2016
 
 \lx ko
 \ph ko
@@ -16173,7 +16171,7 @@ cf fonflo
 \ps ADV
 \sn
 \ge uselessly
-\sd TN_I.C.5
+\sd 6.1.3.3
 \sd TN_II.B.5.b.i
 \de uselessly
 \rf Tape:4-2-443
@@ -16181,7 +16179,7 @@ cf fonflo
 \xe Anyone who says he worships God but doesn't control his tongue, is deceiving himself. and his worship is useless.
 \nt From ths: kasian to fail; Nakɩ mʋ́ kpaalɩ - I watched it but nothing happened. Nakɩ mʋ́ kasian - I looked but couldn't see it.
 \bb Stewart List:1850
-\dt 01/Jul/2014
+\dt 17/May/2016
 
 \lx kpabi
 \ph k͡pabiʔ
@@ -16737,13 +16735,13 @@ cf fonflo
 \ps ADJ
 \sn
 \ge hard
-\sd TN_I.C.5.b
+\sd 6.1.3
 \sd TN_I.C.6.d
 \de very hard to do
 \nt agyʋma kpekple
 \xv Mɩ sɩ lɛha mɩ agywʋma kpekple mɩ atɔ mabu sʋ.
 \xe My father gave me hard work because of my disobedience.
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx kpɛ mblɩ
 \ph k͡pɛ́ mblɪ́ʔ(L)
@@ -18041,7 +18039,7 @@ cf fonflo
 \sd TN_II.E.4.c
 \de strongly
 \ge loudly
-\sd TN_I.C.5
+\sd 2.4.1
 \sd TN_II.A.6.a
 \sd TN_I.C.6.d
 \de loudly
@@ -18079,7 +18077,7 @@ cf fonflo
 \xv lɩɩ kʋklʋ
 \xe be firm
 \bb Stewart List:2345
-\dt 28/Apr/2016
+\dt 17/May/2016
 
 \lx kʋklʋkʋʋ
 \ph kʊ́klʊ́kʊ́ː
@@ -18218,7 +18216,7 @@ cf fonflo
 \xv Anɩlatsia gyo mʋ, ɔmɛba sʋ a, kʋsʋ ayɔ woyi.
 \xe We have waited for him, he didn't come, so get up, and let us go to the house.
 \bb Stewart List:2014
-\dt 09/Nov/2015
+\dt 17/May/2016
 
 \lx kʋsʋ lɩɩ
 \ph kʊ́sʊ́ lɪ́ː
@@ -18691,7 +18689,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps TAM
 \sn
 \ge PRF
-\sd TN_I.C.5
+\sd 9.4.1.2
 \de perfect aspect marker
 \va ya-
 \ve North
@@ -18699,7 +18697,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:8-1-446
 \xv Oyin amʋ yabwɛ atɔ wanklaan.
 \xe The man has done something fine.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx la tswii
 \ph lá t͡swíː
@@ -19064,13 +19062,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \bb Stewart List:2658
 \se lɛ asɩ
 \ge give reason
-\sd TN_I.C.5
+\sd 9.6.2.5.1
 \de to give reason for something
 \xv Fʋ ɩpɔn amʋ asɩ ɔlɛkpa nɛba.
 \xe I have come to show the reason you were found guilty.
 \lt Your guilt's reason revealing place I have come to.
 \nt Perhaps when your case came to the chief's palace you were found guilty but you didn't understand why the case went against you. Later someone who is favourable to you may come and say, Look I have come to explain why you lost the case.
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx lɛ-
 \ph lɛ-/lɛ́-
@@ -19585,7 +19583,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps TAM
 \sn
 \ge don't
-\sd TN_I.C.5
+\sd 9.4.6.1
 \de negative imperative
 \rf Tape:4-1-566
 \xv Mablɩ alɩ, fɛblɩ alɩ a, ɩma alɛ.
@@ -19593,7 +19591,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-570
 \xv Mayɔ fʋ ɔkpa amʋ ndɛ, tsufɛsɛ nsaɩntɔ ma alɛ.
 \xe Don't start on your journey today because the weather is not good.
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx ma bu
 \ps v
@@ -19924,7 +19922,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge instead
-\sd TN_I.C.5
+\sd 9.6.1.5.2
 \de in place of something
 \rf Tape:4-2-104
 \xv Mabwɛ mʋ́ alɩ, mboun bwɛ mʋ́ alɩ.
@@ -19932,7 +19930,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-110
 \xv Masʋra okitikiti, mboun tsia diin.
 \xe Don't shout, instead, be quiet.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mbɔdɩ
 \hm 1
@@ -20097,7 +20095,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps Q
 \sn 1
 \ge Where is?
-\sd TN_I.C.5
+\sd 9.2.3.4
 \de Where is?
 \rf Tape:4-2-184
 \xv Nkɩ oyin amʋ mɛ?
@@ -20108,12 +20106,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps Q
 \sn 2
 \ge what about?
-\sd TN_I.C.5
+\sd 9.2.3.4
 \de what about?
 \xv Fʋ ka mɛ?
 \xe Where is your wife? / How is your wife?
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
-\dt 02/Nov/2015
+\dt 17/May/2016
 
 \lx mɛ-
 \ph mɛ-
@@ -20181,7 +20179,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps CNJ
 \sn
 \ge so that
-\sd TN_I.C.5
+\sd 9.6.2.4
 \de so that
 \xv Bʋa fʋ aba mɛnɩ ɔkɛ méepian fʋ.
 \xe Help your neighbour so that tomorrow will not suffer.
@@ -20191,7 +20189,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-214
 \xv Nyimɛ ɔbwɩ amʋ ipu amʋ wʋlɩ pututɔ tsutsuutsu mɛnɩ ɩmóobon ba woyitɔ.
 \xe Squeeze out the animals stomach far away in the bush so that the stench will not come to the house.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mɛntɩ
 \ph mɛntɪ
@@ -20244,7 +20242,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \va mɩ-
 \ge me
-\sd TN_I.C.5
+\sd 9.2.3
 \de 1st person singular; I; me; myself
 \rf Tape:4-2-247
 \xv Mɩ bʋ igyo ndɔ amʋ.
@@ -20254,7 +20252,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Malala mɩ.
 \xe Don't nag me.
 \bb Stewart List:1836
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mɩm
 \ph mɪ́m(H)
@@ -20411,7 +20409,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps PRO
 \sn 1
 \ge you (pl.)
-\sd TN_I.C.5
+\sd 9.2.3
 \de you (plural), second person plural
 \rf Tape:4-2-305
 \xv Nyankpʋ amʋ lada mlɩ dʋbɩ.
@@ -20420,7 +20418,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADJ
 \sn 2
 \ge your(pl)
-\sd TN_I.C.5
+\sd 9.2.3
 \de 2nd person plural possessive pronoun
 \nt part of speech is really PRO
 \rf Tape:4-2-297
@@ -20431,7 +20429,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Your friends are coming.
 \xv Mlɩ natɩ yɔ woyitɔ.
 \xe You (pl.) go to your houses.
-\dt 02/Nov/2015
+\dt 17/May/2016
 
 \lx mlɩyaa
 \ph mlɪyǎː
@@ -20879,13 +20877,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \va mʋ-
 \ge his/her; him/her; he/she
-\sd TN_I.C.5
+\sd 9.2.3
 \de 3rd Person singular or possessive (he, him / she, her)
 \rf Tape:4-2-443
 \xv Tsu atɔ amʋ ha mʋ.
 \xe Take the things to him.
 \bb Stewart List:1838
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mʋ́
 \hm 2
@@ -20893,7 +20891,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps PRO
 \sn
 \ge it
-\sd TN_I.C.5
+\sd 9.2.3
 \de it
 \nt mʋ́sʋ -> therefore
 \rf Tape:3-1-062
@@ -20903,7 +20901,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-446
 \xv Mʋ́ nɩ.
 \xe This is it.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mʋ́
 \hm 3
@@ -20911,9 +20909,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps CNJ
 \sn
 \ge and
-\sd TN_I.C.5
+\sd 9.6.1.1
 \de conjunction between nouns
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mʋ́
 \hm 4
@@ -20921,22 +20919,22 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge contrast
-\sd TN_I.C.5
+\sd 9.6.1.5
 \de especially
 \rf Tape:4-2-450
 \xv Ɔnɩ mʋ́ bʋ alɛ dʋn mʋ pio amʋ.
 \xe This one, especially, is better than his brother.
 \nt Ɔnɩ titriu bʋ alɛ dʋn mʋ pio amʋ. This is a parallel sentence but titriu is Akan.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mʋa
 \ph mʊ́a
 \ps CNJ
 \sn
 \ge and
-\sd TN_I.C.5
+\sd 9.6.1.1
 \de and
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mʋamʋ
 \hm 1
@@ -20944,13 +20942,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps CNJ
 \sn
 \ge and
-\sd TN_I.C.5
+\sd 9.6.1.1
 \de used to link two inanimate items
 \rf Tape:4-2-320
 \xv Bulu lɔbwɛ owí mʋamʋ ɔtsra.
 \xe God made the sun and moon.
 \bb Stewart List:1846
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mʋamʋ
 \hm 2
@@ -20958,13 +20956,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps DEIC
 \sn
 \ge that one
-\sd TN_I.C.5
+\sd 9.2.3.5
 \de that one, the other one
 \xv Matsu ɩnɩ, mboun tsu mʋ́amʋ́.
 \xe Don't take this, take the other.
 \xv Mʋ́amʋ́ bʋ alɛ dʋn ɩnɩ.
 \xe That one is better than this.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx mʋmʋ
 \ph mʊ́mʊ́
@@ -20985,7 +20983,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps CNJ
 \sn
 \ge then
-\sd TN_I.C.5
+\sd 9.6.1.1
 \de just after a previous action
 \rf Tape:4-2-454
 \xv Nɛbla mʋ ánɩ́ nɔ́yɔ ndɔ. Mʋ́ʋ́ ɔbɛɛ mʋ ɛ ɔbɔ́yɔ.
@@ -20998,7 +20996,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:2-2-535
 \xv Mʋ́ʋ́ nɛfɩtɛ mʋ mɩ ɔwʋlʋ amʋ ɛ sʋ. Ɔbɛɛ, "Ɩdɩn ɔpʋnʋsʋ."
 \xe And then I asked him about my book also and he said, "It is on the table."
-\dt 02/Oct/2015
+\dt 17/May/2016
 
 \lx mwɛ
 \ph mwɛ́ʔ
@@ -21036,7 +21034,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \va m-
 \ge I
-\sd TN_I.C.5
+\sd 9.2.3
 \de first person singular Subject
 \rf Tape:4-2-490
 \xv Nɔyɔ ɔkpa ɔkɛ.
@@ -21044,7 +21042,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-493
 \xv Ndɛ akwɛ amʋ da.
 \xe I am drumming the drums.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx na
 \ph na
@@ -21134,13 +21132,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps DEIC
 \sn
 \ge there
-\sd TN_I.C.5
+\sd 8.5.1
 \de there
 \rf Tape:4-2-527
 \xv Ntse nfɩ mʋ ɛ, otse nana.
 \xe I am sitting here, he also is sitting there.
 \bb Stewart List:1555
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx Nanain
 \ph nanáĩʔ
@@ -21237,7 +21235,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge spider
-\sd TN_I.C.5
+\sd 1.6.1.8
 \de spider
 \pl anatɩ
 \plph anátɪ̂ʔ(L)
@@ -21258,7 +21256,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \pl anatɩ kɛsɩɛ
 \plph anátɪ̂ kɛsɪɛ(H)
 \de black spider with hairy body
-\dt 28/Apr/2016
+\dt 17/May/2016
 
 \lx natɩ
 \hm 2
@@ -21282,6 +21280,19 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe If you go we will miss you.
 \bb Stewart List:2020
 \dt 12/Jul/2014
+
+\lx natɩ kɩta
+\hm 1
+\ph natɪʔ kɪ́tá
+\ps v
+\sn
+\ge paresthesia
+\sd 2.5.6.1
+\de paresthesia; tingling; pins and needles
+\xv Natɩ lakɩta mɩ ayabi.
+\xe Spider has caught my legs.
+\xe Free: I'm having pins and needles (paresthesia) in my legs.
+\dt 17/May/2016
 
 \lx natɩ mbla
 \ph natɪ́ mblá
@@ -21467,10 +21478,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge example
 \sd TN_I.C.1.b
-\sd TN_I.C.5
+\sd 9.6.3.5
 \de example
 \bw Akan fi:nfantohon
-\dt 13/Jul/2014
+\dt 17/May/2016
 
 \lx nfasʋɔ
 \ph ɱfasʊɔ
@@ -21494,7 +21505,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps DEIC
 \sn
 \ge here
-\sd TN_I.C.5
+\sd 8.5.1
 \de here
 \rf Tape:5-1-002
 \xv Matsʋn nfɩ, tsʋn nana. Nfɩ ma alɛ.
@@ -21503,7 +21514,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Tsu bokiti mʋa ntsu amʋ ba mɩ nfɩ, anfwɩ atɔ.
 \xe Bring the bucket of water here so that I can wash things.
 \bb Stewart List:1554
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx nfɔ
 \ph ɱfɔ(H)
@@ -21600,7 +21611,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge since
-\sd TN_I.C.5
+\sd 9.6.2.4
 \de since, given the existence of the situation
 \nt i.e. "with things as they are" then. . . Sentence initial it translates most naturally as Since. Phrase final it translates now, but not in the sense of now immediately, rather now, because of.
 \rf Tape:5-1-060
@@ -21628,7 +21639,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Ngya dɩdɩ ɩdɛfʋ a, kʋsʋ lɩɩ aloo kʋsʋ yɔ woyitɔ.
 \xe Since you are sleeping stand up or go home.
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
-\dt 23/Jun/2014
+\dt 17/May/2016
 
 \lx ngya
 \hm 2
@@ -21690,12 +21701,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps CNJ
 \sn
 \ge if; when
-\sd TN_I.C.5
+\sd 9.6.2.8
 \de if; when
 \rf Tape:5-1-115
 \xv Nɩ fɛba a, hɔ ɩtɔ wanklaan kʋ ba mɩ.
 \xe When you are coming buy something fine for me.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx nɩ
 \hm 2
@@ -21703,7 +21714,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps DEIC
 \sn
 \ge this
-\sd TN_I.C.5
+\sd 9.2.3.5
 \de deictic local to speaker and hearer
 \np This clitic is useful for determining tone, because it will be high if the preceding word has a hanging high tone.
 \rf Tape:5-1-124
@@ -21714,7 +21725,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Where are my things? This is them.
 \xv Mʋ nɩ.
 \xe This is he.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx nɩna
 \ph nɪ́ná
@@ -21772,7 +21783,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge how
-\sd TN_I.C.5
+\sd 9.2.3.4
 \de how
 \rf Tape:5-1-163
 \xv Nkalɩ mblɩ mʋ́?
@@ -21782,7 +21793,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe How is he singing the song (what are the words of the song).
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \bb Stewart List:1603
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx nkandʋ
 \ph ŋkandʊ
@@ -21861,7 +21872,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps CNJ
 \sn
 \ge unless
-\sd TN_I.C.5
+\sd 9.6.2.8
 \de unless
 \rf Tape:5-1-194
 \xv Nkɛtɩ nayɔ ndɔtɔ asa nenya atogyihɛ.
@@ -21871,19 +21882,19 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Unless Kofi has come we will not go?
 \xv Nɩ ɔtsɩ mʋa oyin bɛtalɩ tsia aba nkɛtɩ ɔdwɛ bʋ amʋ́ nsɩnɛ.
 \xe Unless there is love between a man and a woman they can't marry.
-\dt 02/Oct/2015
+\dt 17/May/2016
 
 \lx nkɩ
 \ph ŋkɪ́ʔ
 \ps Q
 \sn
 \ge where?
-\sd TN_I.C.5
+\sd 9.2.3.4
 \de where? question word
 \rf Tape:5-1-207
 \xv Nkɩ mɩ atɔ amʋ mɛ?
 \xe Where are my things?
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx nkɩsɛ
 \ph ŋkɪsɛʔ
@@ -22546,7 +22557,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps CNJ
 \sn
 \ge or
-\sd TN_I.C.5
+\sd 9.6.1.2
 \de or
 \xv Anɩ pio amʋ ɔbɛ́ba ndɛ ntɛ ɔmɛ́ɛba?
 \xe Will our brother come today or not.
@@ -22555,7 +22566,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe Is it mine or it belongs to you?
 \nt aloo (Ewe), anaasɛ (Akan), ntɛ (Nkonya)
 \bb Stewart List:1851
-\dt 04/Nov/2015
+\dt 17/May/2016
 
 \lx ntɛtɛ
 \ph ntɛ́tɛ(H)
@@ -22602,7 +22613,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps Q
 \sn
 \ge Why
-\sd TN_I.C.5
+\sd 9.2.3.4
 \de What caused such as such to happen
 \xv Ntogyi sʋ fʋdesu?
 \xe Why are you crying?
@@ -22612,14 +22623,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \va ntoi
 \cf ntɔ
 \ce what
-\dt 23/Dec/2013
+\dt 17/May/2016
 
 \lx ntɔ
 \ph ntɔ
 \ps Q
 \sn
 \ge what?
-\sd TN_I.C.5
+\sd 9.2.3.4
 \de what?
 \rf Tape:5-1-377
 \xv Ntɔ fʋdɛ fɛ?
@@ -22633,7 +22644,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \bb Stewart List:1607
 \lf Compound = ntogyi sʋ (ntɔ igyi sʋ)
 \le Why?
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ntsalabi
 \ph nt͡salabiʔ
@@ -23297,7 +23308,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn 1
 \ge cloud
-\sd TN_I.A.2.a
+\sd 1.1.3.2
 \de cloud
 \rf Tape:5-1-490
 \xv Nwʋlʋta ɩdɩnka owí ansɩtɔ a, nsaɩntɔ toklun.
@@ -24154,7 +24165,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps TAM
 \sn
 \ge should
-\sd TN_I.C.5
+\sd 9.4.3.2
 \de a high falling tone pattern indicating obligatory
 \ge obligatory tense
 \de verb paradigm
@@ -24176,7 +24187,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-2-325
 \xv Nɩ bakʋsʋ a, bʋkunta amʋ́ atɔ dɩhɛ amʋ.
 \xe If they have risen they should fold their sleeping things.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx oblikpini
 \ph oblik͡piniʔ(L)
@@ -27544,7 +27555,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va o-
 \ge he/she
-\sd TN_I.C.5
+\sd 9.2.3
 \de third Person animate pronoun
 \rf Tape:5-2-067
 \xv Ɔlɛda akwɛ amʋ wanklaan.
@@ -27554,7 +27565,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He will go to farm tomorrow.
 \xv Mʋ moni sʋ nɩ ɔnatɩ kpalobi a, fówun ánɩ́ ɩlapian mʋ.
 \xe Because of her fatness, when she walks small you will see that she is tired.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɔ-
 \hm 2
@@ -27564,9 +27575,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va o-
 \ph o
 \ge SG
-\sd TN_I.C.5
+\sd 9.2.9.2
 \de singular noun class
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɔ- -ba
 \ph ɔ- -bá
@@ -27574,13 +27585,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va -ba
 \ge mate
-\sd TN_I.C.5
+\sd 7.2.5
 \de a person who accompanies one at a place where an activity occurs
 \nt the initial ɔ will become o in front of +ATR vowels (ieou)
 \rf Tape:5-2-133
 \xv Megyi fʋ owiba gyi mɩ.
 \xe I am not your stealing partner. Implies you are a thief and I am not.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɔ- -kɛ
 \ph ɔ- -kɛ
@@ -27588,7 +27599,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va -kɛ
 \ge day
-\sd TN_I.C.5
+\sd 8.4.1.2
 \de day when an activity occurs
 \nt the initial ɔ will become o in front of +ATR vowels (ieou)
 \rf Tape:1-2-565
@@ -27596,7 +27607,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe the day of his birth
 \xv mʋ opulakɛ
 \xe the day of his burial
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɔ- -kpa
 \ph ɔ- -k͡pa
@@ -27604,7 +27615,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va -kpa
 \ge place
-\sd TN_I.C.5
+\sd 8.5.3
 \de place where an activity occurs
 \nt the initial ɔ will become o in front of +ATR vowels (ieou)
 \xv ɔfʋnkpa
@@ -27614,14 +27625,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:1-2-565
 \xv Bɔ mpaɩ fɛɛ onya ɔdɩkpa wanklaan.
 \xe Pray that he should get a good resting place.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɔ- -tɔ
 \ph ɔ- -tɔ
 \ps NOMR
 \sn
 \ge instrument
-\sd TN_I.C.5
+\sd 9.5.1.2
 \de an instrument used in doing something; ɔ-X-tɔ something that is used in doing X.
 \pl a- -tɔ
 \plph a- -tɔ
@@ -27673,7 +27684,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-129
 \xv apulatɔ
 \xe burial items; ɔklan; atati; daka; sika
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx ɔba
 \ph ɔba(H)
@@ -30332,7 +30343,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps Q
 \sn
 \ge when?
-\sd TN_I.C.5
+\sd 8.4.1.2
+\sd 9.2.3.4
 \de When? What day?
 \nt this is a singular example of ɔ-mɛ-kɛ (mɛ in between the ɔ and kɛ) cf obsolete ɔmɛtsɩ (what sort of woman) omeyin (what sort of man) mɛ like this is cognate with other Guang languages.
 \rf Tape:6-1-118
@@ -30349,7 +30361,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce what time
 \cf dɔ fɩnɩ
 \ce what hour
-\dt 05/Nov/2015
+\dt 17/May/2016
 
 \lx ɔmɛsɩ
 \ph ɔmɛsɪ(H)
@@ -30477,7 +30489,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PRO
 \sn
 \ge one who
-\sd TN_I.C.5
+\sd 9.2.3.2
 \de the one who
 \nt This is used as a general reference, as in proverbs. For a specific unknown person use ɔha amʋ.
 \rf Tape:6-1-132
@@ -30489,7 +30501,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:1-1-088
 \xv Ɔmʋ́a amʋ́ʋ́ ɔna ɔkpatɔ ɩnʋ amʋ ndɛ nɩ.
 \xe The one who is walking over there is the one I mean.
-\dt 30/Sep/2015
+\dt 17/May/2016
 
 \lx ɔmʋamʋʋ
 \ph ɔmʊamʊ́ː
@@ -30663,9 +30675,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge this person
 \sd TN_II.E.1.a
-\sd TN_I.C.5
+\sd 9.2.3.5
 \de this person
-\dt 08/Jan/2014
+\dt 17/May/2016
 
 \lx ɔnlɩn
 \ph ɔ̃nlɪ̃ʔ
@@ -32160,7 +32172,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge different
 \sd TN_I.C.1.b
 \sd TN_I.C.1.d
-\sd TN_I.C.5
+\sd 8.3.5.2.3
 \de different
 \rf Tape:6-1-507
 \xv Atsɩ wulu ɔtsan, ayin ɛ wulu ɔtsan.
@@ -32169,7 +32181,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge different from
 \sd TN_I.C.1.b
 \sd TN_I.C.1.d
-\sd TN_I.C.5
+\sd 8.3.5.2.3
 \de different from
 \rf Tape:6-1-512
 \xv Oyin anfɩ gyi ɔtsan ha ɔmʋ́ amʋ.
@@ -32177,7 +32189,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ɔtsantsan
 \ce variety
 \bb Stewart List:1698
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx ɔtsanfɩ
 \ph ɔt͡sáɱfɪ
@@ -32212,11 +32224,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge various
 \sd TN_I.C.1.b
 \sd TN_I.C.1.d
-\sd TN_I.C.5
+\sd 8.3.5.2.5
 \de a variety
 \xv Ɔhagyiɔha agywɩɩn igyi ɔtsantsan, mʋ́ sʋ ɩtrɛ bʋ ɔyɩtɔ nɩ.
 \xe Everybody's mind is different, that is why there is quarrelling in the world.
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx ɔtsatsa
 \ph ɔt͡sat͡saʔ
@@ -32350,7 +32362,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge month
-\sd TN_I.C.4.b
+\sd 8.4.1.4
 \va tsra
 \de month
 \xv Ɔtsra latsʋn mʋsʋ.
@@ -32669,7 +32681,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge strength
-\sd TN_I.C.5
+\sd 2.4.1
 \sd TN_I.C.6.d
 \sd TN_II.A.6.a
 \de strength/strong
@@ -32684,7 +32696,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:1430
 \xv Lɛ fʋ ɔwʋnlɩn fɛ́ɛ́ pʋ da oyin amʋ tsufɛ ɔtamabu atɔ.
 \xe Use all your strength to beat the man because he does not respect.
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx ɔwʋnlɩnpʋ
 \ph ɔwʊ̃nlɪ̃́pʊ́
@@ -32692,7 +32704,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge strong person
 \sd TN_II.E.1.a
-\sd TN_I.C.5
+\sd 2.4.1
 \de someone who is healthy/a strong person
 \pl awʋnlɩnpʋ
 \plph awʊnlɪ́npʊ́
@@ -32701,7 +32713,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:3-1-088
 \xv Ɔwʋnlɩnpʋ gyi ɔha ánɩ́ ɔtɛtalɩ yɔ agyuma kpekple.
 \xe A strong person is one that can do hard work.
-\dt 08/Jan/2014
+\dt 17/May/2016
 
 \lx ɔyaa
 \ph ɔyǎː
@@ -33686,12 +33698,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph pó
 \ps ADV
 \sn
-\sd TN_I.C.5
+\sd 9.4.8
 \ge even
 \de even
 \xv Nɩ fɔyɔ po, fʋmɔ́tʋ mʋ, tsufɛ ɔma ɩnʋ.
 \xe Even if you go, you will not meet him, because he is not there.
-\dt 21/Jun/2014
+\dt 17/May/2016
 
 \lx poli
 \ph poli
@@ -33734,11 +33746,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn
 \ge be lethargic
-\sd TN_I.C.5
+\sd 2.4.2
 \de suffer from torpor from eating the wrong food or eating food
 \xv Fegyi apondo nyankɩ fɔ́pɔ.
 \xe If you will eat leftover fufu in the morning, you will be lethargic.
-\dt 23/Jun/2014
+\dt 17/May/2016
 
 \lx pɔɩ
 \ph pɔ́ɪ́
@@ -33754,7 +33766,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 1
 \ge weak
-\sd TN_I.C.5
+\sd 2.4.2
 \sd TN_I.C.6.d
 \sd TN_II.A.4.a
 \sd TN_II.A.6.b
@@ -33793,7 +33805,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_II.E.3.b
 \de to declare guilty
 \bb Stewart List:3250
-\dt 28/Apr/2016
+\dt 17/May/2016
 
 \lx pɔntɔ
 \ph pɔ̃ntɔ(H)
@@ -34159,7 +34171,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps NOMR
 \sn
 \ge AGENT
-\sd TN_I.C.5
+\sd 9.1.2
 \de agent marker; means "one who does"
 \xv ɔdɔtɔpʋ
 \xe farmer
@@ -34199,21 +34211,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe seamstress
 \xv Nta abʋpʋ a, nɩ bʋ na bʋ dɛ ntinta bɔ.
 \xe Drinkers, if they are drunk, they stumble.
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx pʋ́
 \ph pʊ́
 \ps CNJ
 \sn
 \ge and
-\sd TN_I.C.5
+\sd 9.6.1.1
 \de and; used to join two dissimilar things
 \cf -a1
 \ce and
 \xv Alapʋ nta pʋ́ ntsu ɔya ndɔ.
 \xe He has taken palm wine and water to the farm.
 \bb Stewart List:1846
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx pʋ fra
 \ph pʊ fraʔ(L)
@@ -34354,20 +34366,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PTCL
 \sn 1
 \ge EMPH
-\sd TN_I.C.5
+\sd 9.3.4
 \de emphasis marker
 \xv kinkin; kinkiinkin
 \xe seriously; very seriously
 \ps PTCL
 \sn 2
 \ge MULTIPLE
-\sd TN_I.C.2.b
+\sd 9.3.4
 \de occurring multiple places simultaneously or nearly simultaneously
 \xv kwɛ; kɔkwɛ
 \xe sprout; sprout all over
 \xv srɩ; sɩsrɩ
 \xe run; run all over
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx sa
 \hm 1
@@ -35778,7 +35790,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps CNJ
 \sn
 \ge so
-\sd TN_I.C.5
+\sd 9.6.2.5
 \de so
 \rf Tape:7-1-172
 \xv Oyin amʋ ma nʋ, sʋ anɩmɔ́ɔyɔ.
@@ -35792,7 +35804,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-189
 \xv Nyankpʋ detswie, mʋ́ sʋ aha bʋdɛ ndɔtɔ yɔ sesei.
 \xe It is raining (rainy season) so people are going to farm now.
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx -sʋ
 \ph -sʊ
@@ -35800,7 +35812,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va sʋ
 \ge on
-\sd TN_I.C.5
+\sd 6.1.3.2
 \de on
 \xv bʋ ɩmʋ́sʋ
 \xe be succeeding
@@ -35809,7 +35821,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I have put the things on top of the table. Lift it and remove it.
 \bb Stewart List:0953
 \bb Stewart List:2960
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx sʋkpʋsalɩ
 \ph sʊk͡pʊsalɪ
@@ -36311,27 +36323,27 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps TAM
 \sn
 \ge NEG HAB
-\sd TN_I.C.5
+\sd 9.4.1.2
 \de negative habitual aspect marker
 \xv Bʋtamakɔsɩ nya ɔblɔ wa fʋ akwɩɩpʋ.
 \xe They don't quickly become annoyed with your parents.
 \xv Nyankpʋsa tamabwɛ mʋ atɔ fɛ́ɛ́ ta asa otowu.
 \xe A person does not finish all his work before he dies.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx tamɛ
 \ph támɛ
 \ps CNJ
 \sn
 \ge but
-\sd TN_I.C.5
+\sd 9.6.1.5
 \de but
 \xv Bulu tɛkɩ ɩklʋntɔ ha ɩpɔn tamɛ nyankpʋsa tɛkɩ aha ansɩtɔ ha ɩpɔn.
 \xe God looks at the heart to judge guilt but people look at people's faces to judge guilt.
 \rf Tape:7-1-327
 \xv Amʋ́ fɛ́ɛ́ bɔyɔ ndɔtɔ tamɛ Afua mʋa Akwasi mʋʋ bɛɛ bɔyɔ sukuu.
 \xe They are all going to the farm but Afua and Akwasi say they will go to school.
-\dt 13/Jul/2014
+\dt 17/May/2016
 
 \lx tan
 \hm 1
@@ -36583,7 +36595,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va tɔ-
 \va to-
 \ge HAB
-\sd TN_I.C.5
+\sd 9.4.1.2
 \de habitual or iterative aspect
 \ng Verbs using this conjugation exhibit the underlying tone.
 \rf Tape:7-1-402
@@ -36591,7 +36603,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The man always plants many yams.
 \xv Kwasieda-gyi-Kwasieda anɩtɔyɔ asɔrɩ.
 \xe Every Sunday we go to church.
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx tɛɩ
 \ph tɛ́ɪ́
@@ -37193,13 +37205,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PRO
 \sn
 \ge everything
-\sd TN_I.C.5
+\sd 8.1.5
 \de everything
 \xv Togyitɔ ánɩ́ nyankpʋsa ɔbwɛ a, obobu mʋ́ ɩwɩ akunta.
 \xe Everything that a person does, he will account for it.
 \xv Bɔ́mɔ ɔnɔ, tamɛ Bulu asʋn amʋ mʋ́, mɔ́ɔmɔ ɔnɔ ɛkɛkɛɛkɛ.
 \xe Everything will come to an end, but the words of God will never end.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx tokukʋlɛ
 \ph tokukʊlɛ
@@ -37291,7 +37303,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps POST
 \sn
 \ge in
-\sd TN_I.C.5
+\sd 8.5.1.4
 \de inside
 \nt in contrast with sʋ, seems to further in; e. g. biasʋ, is the ordinary word for market biatɔ implies deep in the market.
 \xv Aye bʋbʋ ntsu amʋtɔ.
@@ -37300,21 +37312,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Kɩ ntsu amʋtɔ fówun lɛnkɛ amʋ da mʋ́tɔ.
 \xe Look inside the water you will see the crocodile lying in it..
 \bb Stewart List:0954
-\dt 11/Nov/2015
+\dt 17/May/2016
 
 \lx tɔa
 \ph tɔ́á
 \ps PRO
 \sn
-\ge thing hat
-\sd TN_I.C.5
+\ge thing that
+\sd 9.2.3.5
 \de the thing that
 \xv Tɔa nyankpʋsa tamakle a, bʋtamapʋ bwɛ mʋ.
 \xe Some thing that a person does not like, don't do it to him.
 \lt ... They don't do it to him
 \xv Kɩ tɔa amʋ́ʋ́ ɩda ɩnʋ amʋ afʋtsu mʋ́ ha mɩ.
 \xe Look at the thing that is lying there and bring it to me.
-\dt 11/Jun/2014
+\dt 17/May/2016
 
 \lx tɔɩ
 \ph tɔ́ɪ́
@@ -38445,7 +38457,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge source
-\sd TN_I.C.5
+\sd 9.5.1.6.1
 \de source; bottom
 \pl atsitsi
 \plph at͡sit͡si
@@ -38454,7 +38466,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe root of the teeth (gum)
 \xv asʋn tsitsi
 \xe the root of the matter, the course of the matter.
-\dt 01/Jul/2014
+\dt 17/May/2016
 
 \lx tsitsifɔ
 \ph tsitsifɔ
@@ -38704,7 +38716,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge regarding
-\sd TN_I.C.5
+\sd 3.5.1.2.9
 \de about; regarding
 \rf Tape:7-2-442
 \xv Igye nɔtɔɩ tsu tɔkʋ ɩwɩ.
@@ -38714,7 +38726,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe They are planning about our festival.
 \xv Kla mʋ́ ánɩ́ fʋyin tsu asʋn amʋ ɩwɩ.
 \xe Tell what you know about the matter.
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx tsua
 \ph t͡súaʔ
@@ -38734,7 +38746,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps CNJ
 \sn
 \ge because
-\sd TN_I.C.5
+\sd 9.6.2.5
 \de because
 \rf Tape:7-2-484
 \xv Mlɩ ma ba tsufɛ mmɛ́ɛtalɩ yɔ.
@@ -38743,7 +38755,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔma ɩnʋ tsufɛ alatu ɔkpa.
 \xe He isn't there because he has travelled.
 \va tsufɛsɛ
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx tsukʋlɛ
 \ph t͡sukʊlɛʔ(L)
@@ -38776,12 +38788,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se lɩɩ tsukʋlɛ
 \ge consistent
 \sd TN_I.C.1.b
-\sd TN_I.C.5
+\sd 4.7.9.1
 \de to be consistent
 \rf Tape:3-1-235
 \xv Tsufɛ mʋ agywɩɩn igyi anyɔ, ɔmɛlɩɩ tsukʋlɛ.
 \xe Because his mind is two he doesn't stand in one place; he is not consistent.
-\dt 03/Nov/2015
+\dt 17/May/2016
 
 \lx tsukʋlɛ osinpʋ
 \ph t͡sukʊlɛ osínpʊ
@@ -39225,13 +39237,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge power
 \sd TN_I.C.1.d
-\sd TN_I.C.5.b
+\sd 4.5.2
 \sd TN_II.B.5.a.ii
 \sd TN_II.E.2
 \sd TN_II.E.3
 \de power or authority
 \bw Akan fi:tumi
-\dt 30/Jun/2014
+\dt 17/May/2016
 
 \lx tuntu
 \ph tuntu
@@ -40219,14 +40231,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 5
 \ge weak
-\sd TN_I.C.5
+\sd 2.4.2
 \sd TN_I.C.6.d
 \sd TN_II.A.6.b
 \sd TN_II.A.6.c
 \de to become weak
 \xv Nakɩ anwunsʋ lawa ɔpa dʋbɩ. Mɩ oboyi lawu.
 \xe I have looked up for too long. My neck has gotten stiff.
-\dt 22/Apr/2016
+\dt 17/May/2016
 
 \lx wuli
 \ph wúli
@@ -41095,11 +41107,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps NOMR
 \sn
 \ge Xer
-\sd TN_I.C.5
+\sd 4.6.2
+\sd 9.4.2
 \pl -fɔ
 \plph -fɔ
-\de a person who has a certain quality
-\dt 11/Jun/2014
+\de a person who has a certain quality or does a certain thing
+\dt 17/May/2016
 
 \lx yinhɛ
 \ph yĩhɛ
@@ -41423,11 +41436,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge weak
-\sd TN_I.C.5
+\sd 2.4.2
 \sd TN_I.C.6.d
 \sd TN_II.A.6.b
 \de weak
-\dt 22/Apr/2016
+\dt 17/May/2016
 
 \lx yula
 \ph yúlá
