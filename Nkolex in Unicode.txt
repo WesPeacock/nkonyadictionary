@@ -274,14 +274,6 @@
 \dt 09/Nov/2015
 
 \lx abi
-\ps n
-\sn
-\cf obi
-\ce child
-\sd TN_II.E.1.a
-\dt 11/Jun/2014
-
-\lx abi
 \ph abi(H)
 \ps n
 \sn
@@ -495,7 +487,8 @@
 \ps n
 \sn
 \ge old woman
-\sd TN_II.E.1.a
+\sd 2.6.4.5
+\sd 2.6.5.2
 \de old woman
 \pl mbrɩwa
 \plph mbrɪwa(H)
@@ -504,7 +497,9 @@
 \xe Old men and women are friendly with one another.
 \bb Stewart List:0209
 \nt terms for females: ɔtsɩ/atsɩ, otsibi/atsibi, obitebi/mbitebi, abrɩwa/mbrɩwa, oyín/ayín, nana, tasii, ɔtrapʋ, opio, ɔka, ɔkaba.
-\dt 14/Aug/2013
+\cf akʋkrʋwa
+\ce old man
+\dt 20/May/2016
 
 \lx abusuan
 \ph abusuã(H)
@@ -782,9 +777,9 @@
 \ps n
 \sn
 \ge rivals
-\sd TN_II.E.1.a
+\sd 4.8.2.9
 \de people opposing us
-\dt 14/Aug/2013
+\dt 20/May/2016
 
 \lx afa
 \ph afá
@@ -1945,7 +1940,8 @@
 \ps n
 \sn
 \ge old man
-\sd TN_II.E.1.a
+\sd 2.6.4.5
+\sd 2.6.5.1
 \de old man
 \pl nkʋkrʋwa
 \plph ŋkʊkrʊwa
@@ -1953,7 +1949,9 @@
 \xv Akʋkrʋwa mʋa abrɩwa tegyi mba.
 \xe Old men and women are friendly with one another.
 \bb Stewart List:0208
-\dt 14/Aug/2013
+\cf abrɩwa
+\ce old woman
+\dt 20/May/2016
 
 \lx akʋn
 \ph akʊ̃́
@@ -2202,7 +2200,7 @@
 \ps n
 \sn
 \ge which people
-\sd TN_II.E.1.a
+\sd 9.2.3.2
 \sd TN_I.B.2
 \de which ones - of people only. plural form of ma.
 \rf Tape:1-1-426
@@ -2215,7 +2213,7 @@
 \cf ɔmɛnkɛ
 \ce what day
 \nt see ɔmɛnkɛ entry for notes on -mɛ- questions.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx Amma
 \ph ámːa
@@ -2907,14 +2905,14 @@
 \ps n
 \sn
 \ge warriors
-\sd TN_II.E.1.a
+\sd 4.8.3.6.4
 \sd TN_II.E.5.i
 \de war band
 \bw Akan fi:asafʋ LLL
 \rf Tape:5-2-355
 \xv Ɔdɛ asafʋ ɔfranka amʋ wʋna.
 \xe He is waving the war group's flag.
-\dt 01/Feb/2014
+\dt 20/May/2016
 
 \lx Asakyere
 \ph asatʃɪrɪ
@@ -3082,14 +3080,14 @@
 \ps n
 \sn
 \ge this person
-\sd TN_II.E.1.a
+\sd 9.2.3.2
 \de a certain person, but you don't want to say the person's name. The person you are talking to know the identity but you want to keep it from a third party
 \bw Akan fi:asimasi LHLH
 \xv Asimasi ɔbɛɛ, ɔbɛ́ba ndɛ, sʋ mayɔ ɔtɩnɛtɩnɛ.
 \xe That person we know about (but someone else doesn't) said he would come today so don't go anywhere.
 \xe Don't go anywhere because you know who is coming.
 \rf Tape:1-1-583
-\dt 14/Aug/2013
+\dt 20/May/2016
 
 \lx asɩ
 \hm 1
@@ -3105,7 +3103,7 @@
 \ps n
 \sn 2
 \ge offspring
-\sd TN_II.E.1.a
+\sd 4.1.9.1
 \de descendants
 \xv Mʋ asɩ bɛ́klɛɩ.
 \xe Her offspring will multiply.
@@ -3113,7 +3111,7 @@
 \rf Tape:1-1-588
 \cf obi
 \ce child
-\dt 18/May/2016
+\dt 20/May/2016
 
 \lx asɩ
 \hm 2
@@ -3287,11 +3285,11 @@
 \ps n
 \sn
 \ge big ears
-\sd TN_II.E.1.a
-\sd TN_II.E.5.e
+\sd 3.5.4.1
+\sd 3.5.1.8.2
 \sd TN_II.E.1.d
 \de big ears (an insult); a mythical person with enormous ears
-\dt 04/Apr/2016
+\dt 20/May/2016
 
 \lx asʋmʋdɩɛ
 \ph asʊmʊdɪ́ɛ́ (H)
@@ -3526,22 +3524,22 @@
 \ps n
 \sn
 \ge diviner
-\sd TN_II.E.1.a
+\sd 4.9.4.7
 \sd TN_II.B.6.a
 \de one who sees the future
 \pl atɔ awunpʋ
 \plph atɔ awũ̂mpʊ
 \na Some people just see things in a vision, but some people use various methods such as looking in water.
-\xv Atɔ owunpʋ towun atɔ ánɩ́ bɛ́ba, bla aha mɛnɩ bɛ́da wɩsʋ?
+\xv Atɔ owunpʋ towun atɔ ánɩ́ bɛ́ba, bla aha mɛnɩ bɛ́da wɩsʋ.
 \xe A diviner sees the things that will come and tells people so that they can watch out.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx atɔ ɔbɩnpʋ
 \ph atɔ́ ɔbɪ̃́mpʊ
 \ps n
 \sn
 \ge seamstress/tailor
-\sd TN_II.E.1.a
+\sd 6.6.1
 \sd TN_II.D.6.b
 \de seamstress or tailor
 \pl atɔ abɩnpʋ
@@ -3549,15 +3547,14 @@
 \xv Atɔ ɔbɩnpʋ amʋ dɛ mɩ atadɩɛ bɩn.
 \xe The seamstress/tailor is sewing my clothes.
 \nt see bɩn
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx atɔ ɔfɛpʋ
 \ph atɔ́ ɔfɛpʊ́ʔ
 \ps n
 \sn
 \ge trader
-\sd TN_II.E.1.a
-\sd TN_II.D.5.b
+\sd 6.8.4.2
 \de petty trader
 \pl atɔ afɛpʋ
 \plph atɔ́ afɛpʊ́
@@ -3567,21 +3564,21 @@
 \ce merchant
 \cf fɛ1
 \ce sell
-\dt 09/Nov/2015
+\dt 20/May/2016
 
 \lx atɔ ɔlapʋ
 \ph atɔ́ ɔlapʊ́
 \ps n
 \sn
 \ge soothsayer
-\sd TN_II.E.1.a
-\sd TN_II.B.6.a
+\sd 4.9.4.7
 \de a person who practice soothsaying
 \pl atɔ alapʋ
 \plph atɔ́ alapʊ́
 \xv Oyin ɔkʋ lawun isuna ánɩ́ omonu mʋ́ asɩ, sʋ ɔyɔ atɔ ɔlapʋ woyi yɛfɩtɛ atɔ.
 \xe A certain man has seen a sign which he did not understand, so he is going to a soothsayer's house to consult him.
-\dt 08/Jan/2014
+\cf atɔ owunpʋ
+\dt 20/May/2016
 
 \lx atɔkiehɛ
 \ph atɔkiéhɛ
@@ -4671,8 +4668,7 @@
 \ps n
 \sn
 \ge merchant
-\sd TN_II.E.1.a
-\sd TN_II.D.5.b
+\sd 6.8.4.2
 \de merchant
 \pl bia agyipʋ
 \plph bíá áʤípʊ́
@@ -4686,7 +4682,7 @@
 \ce petty trader
 \cf gyi bia
 \ce trade
-\dt 09/Nov/2015
+\dt 20/May/2016
 
 \lx biabia
 \ph bíábíáʔ(H)
@@ -5548,13 +5544,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn 2
 \ge newborn
-\sd TN_II.E.1.a
-\sd TN_II.E.1.c.i
+\sd 2.6.4.1
 \de newborn baby
 \rf Tape:1-2-571
 \xv Kebi bɔbwɛ ɩlɔ tɛhan, tsufɛ ɔmɛ́ɛtalɩ blɩ ɔtɩnɛ ánɩ́ dɛ mʋ dwiin.
 \xe A new baby's illness gives difficulty because he can't say where it is hurting him.
-\dt 02/Nov/2015
+\dt 20/May/2016
 
 \lx bɔɩ
 \ph bɔ́ɪ́
@@ -6859,14 +6854,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn
 \ge grow
-\sd TN_I.C.4.c
-\sd TN_II.E.1.a
+\sd 2.6.4.6
+\sd 4.3.1.3
 \de to grow in size, maturity, and in age
 \rf Tape:2-1-251
 \xv Kofi ladan dʋn fʋ, sʋ maplei mʋsʋ.
 \xe Kofi is older than you so don't be rude to him.
 \bb Stewart List:2003
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx dango
 \ph daŋgó
@@ -7463,8 +7458,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge doctor
-\sd TN_II.E.1.a
-\sd TN_II.E.3.d
+\sd 2.5.7.1
 \de doctor
 \pl adɔkɩtafɔ
 \plph adɔkɪ́tafɔ
@@ -7472,7 +7466,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The man has studied hard to become a doctor.
 \xv Dɔkɩta amʋ latsa ɔtsɩ anfɩ ɔdɛ kwata ɩlɔ amʋ.
 \xe The doctor has cured this leprous woman.
-\dt 01/Feb/2014
+\dt 20/May/2016
 
 \lx dɔkʋnʋ
 \ph dɔkʊ́nʊ́
@@ -8751,12 +8745,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps CLASS
 \sn
 \ge people
-\sd TN_II.E.1.a
+\sd 4.1.2
 \de suffix indicating people; singular is -yin
 \rf Tape:2-1-555
 \xv Sukuufɔ bópula mʋ.
 \xe The school people (i.e. Christians) will bury him.
-\dt 11/Nov/2015
+\dt 20/May/2016
 
 \lx fɔɔn
 \ph fɔ̃ː
@@ -11401,10 +11395,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge brush
 \sd 5.1
 \sd 5.6.5
-\de brush made from the head of palm nut
+\de brush made from the head of palm nut or grass
 \nt It is not used as much as it used to be.
 \xv Fɔpʋ itu fɛɩ obuto a, ɩtɔwa akɩlɛ.
 \xe When you use brush to sweep inside room, it becomes beautiful.
+\cf
 \dt 20/May/2016
 
 \lx iwie
@@ -11977,15 +11972,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge age
-\sd TN_I.C.4.c
-\sd TN_II.E.1.a
+\sd 2.6.4.6
+\sd 4.3.1.3
 \de age
 \nt nominal form of dan - to become mature.
 \xv Mʋ dantɔ gyi nfi nyɔ.
 \xe His age is two.
 \xv Nadan dʋn mʋ, sʋ ngyi mʋ ɔdɛhɛn. Mʋ ɛ ogyi mɩ gyama.
 \xe I am older than him, so I am his senior. He also is my junior.
-\dt 22/Jun/2014
+\dt 20/May/2016
 
 \lx ɩdɩn
 \ph ɪdɪ̃ʔ
@@ -14224,7 +14219,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge child
-\sd TN_II.E.1.a
+\sd 2.6.4.2
 \de child
 \pl nyebi
 \plph ɲebí
@@ -14234,20 +14229,20 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf kebi bɔbwɛ
 \ce newborn
 \bb Stewart List:0203
-\dt 22/Dec/2013
+\dt 20/May/2016
 
 \lx kebi bɔbwɛ
 \ph kebi bɔbʷɛ
 \ps n
 \sn
 \ge newborn
-\sd TN_II.E.1.a
+\sd 2.6.4.1
 \de a newborn child
 \cf kebi
 \ce child
 \cf bɔbwɛ
 \ce raw
-\dt 22/Dec/2013
+\dt 20/May/2016
 
 \lx kein
 \ph kẽ́ĩ́ː
@@ -15299,10 +15294,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge step-child
-\sd TN_II.E.1.a
+\sd 2.6.4.2
+\sd 4.1.9.6
 \de step child
 \lt armpit child
-\dt 04/Jul/2014
+\dt 20/May/2016
 
 \lx klɛ
 \ph klɛ
@@ -18440,8 +18436,7 @@ cf fonflo
 \ps n
 \sn
 \ge leprosy
-\sd TN_II.A.6.b
-\sd TN_II.A.6.c
+\sd 2.5.2.2
 \de leprosy
 \bw Akan fi:kwata
 \rf Tape:4-1-361
@@ -18450,27 +18445,23 @@ cf fonflo
 \bb Stewart List:1445
 \se ɔkwatayin
 \ge leper
-\sd TN_II.E.1.a
-\sd TN_II.A.6.b
-\sd TN_II.A.6.c
+\sd 2.5.2.2
 \de leper
 \pl akwatafɔ
 \plph akwatafɔ (H)
 \sy kwata ɔlɔpʋ
-\dt 26/Mar/2016
+\dt 20/May/2016
 
 \lx kwata ɔlɔpʋ
 \ph kwata ɔlɔpʊ́
 \ps n
 \sn
 \ge leper
-\sd TN_II.E.1.a
-\sd TN_II.A.6.b
-\sd TN_II.A.6.c
+\sd 2.5.2.2
 \de leper
 \cf ɔkwatayin
 \ce leper
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx kwatabi
 \ph kwatabi
@@ -18827,11 +18818,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \se lakpan ɔbwɛpʋ
 \ge sinner
 \sd TN_II.B.5.b.i
-\sd TN_II.E.1.a
 \de sinner
 \xv Lalahɛ ogyipʋ gyi ɔha ánɩ́ ɔtɔmɔ aha ntɛ mʋ bwɛhɛ sʋ a aha bʋtenya mʋ ifu, tamɛ lakpan ɔbwɛpʋ mʋ́ a, fɛ atɔ wi ana gyi mʋ agyʋma.
 \xe An evil doer is a person that murders people or because of his doings people are afraid of him. but sinners, it is like stealing is their work.
-\dt 21/Jun/2014
+\dt 20/May/2016
 
 \lx lala
 \hm 1
@@ -18879,11 +18869,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \se lalahɛ ogyipʋ
 \ge evil doer
 \sd TN_II.B.5.b.i
-\sd TN_II.E.1.a
 \xv Lalahɛ ogyipʋ gyi ɔha ánɩ́ ɔtɔmɔ aha ntɛ mʋ bwɛhɛ sʋ a aha bʋtenya mʋ ifu, tamɛ lakpan ɔbwɛpʋ mʋ́ a, fɛ atɔ wi ana gyi mʋ agyʋma.
 \xe An evil doer is a person that murders people or because of his doings people are afraid of him. but sinners, it is like stealing is their work.
 \bb Stewart List:1652
-\dt 21/Jun/2014
+\dt 20/May/2016
 
 \lx Lamba
 \ph Lamba
@@ -20870,12 +20859,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge mute
-\sd TN_II.E.1.a
 \sd TN_II.A.6.c
 \de to be mute
 \cf omumu
 \ce mute person
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx mumlun
 \ph mũmlũʔ
@@ -21150,12 +21138,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps VOC
 \sn
 \ge old woman
-\sd TN_II.E.1.a
+\sd 2.6.4.5
+\sd 2.6.5.2
 \de honorific addressed to a woman, but Nana Bulu is male
 \rf Tape:4-2-523
 \xv Nɛtɩ mɩ sɩ ntɛ mɩ yín mʋ yín Nana.
 \xe I will call my father or my mother's mother, grandmother.
-\dt 14/Aug/2013
+\dt 20/May/2016
 
 \lx nana
 \hm 2
@@ -23620,7 +23609,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge human being
-\sd TN_II.E.1.a
+\sd 2
 \de human being
 \pl anyankpʋsa
 \plph aɲáŋ͡mk͡pʊsaʔ
@@ -23628,7 +23617,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Nyankpʋsa gyi fɛ afu, ɔyɔ ɔmɛ́ɛtra ba.
 \xe A person is like wind, if he should go he will not again come back.
 \bb Stewart List:0001
-\dt 23/Dec/2013
+\dt 20/May/2016
 
 \lx nyankpʋsa oyi
 \ph ɲaŋ͡mk͡pʊsa oyí
@@ -23728,9 +23717,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge childhood
-\sd TN_II.E.1.a
+\sd 2.6.4.2
 \de childhood
-\dt 16/Jun/2014
+\dt 20/May/2016
 
 \lx nyewu
 \ph ɲewú
@@ -24055,7 +24044,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va bi
 \ge child
-\sd TN_II.E.1.a
+\sd 2.6.4.2
+\sd 1.6.3
 \de child; young of animal
 \pl abi
 \plph abíʔ
@@ -24065,7 +24055,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɩbʋ alɛ ánɩ́ ɔhagyiɔha obénya obi ɔkʋlɛ asa owu.
 \xe It is good that everybody will have one child before their death.
 \bb Stewart List:0308
-\dt 29/Oct/2013
+\dt 20/May/2016
 
 \lx obia
 \hm 1
@@ -24179,18 +24169,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge young woman
-\sd TN_II.E.1.a
+\sd 2.6.4.3
+\sd 2.6.5.2
 \de young woman
 \pl mbitebi
 \plph mbitebíʔ
 \rf Tape:6-2-306
 \xv Obitebi anyɔpʋ tɛlɩɩ tɩntɩ.
 \xe A young woman's breast stands tall (doesn't sag).
+\bb Stewart List:0207
 \cf ɔyasubi
 \ce young man
-\bb Stewart List:0207
-\nt From ths: terms for females: ɔtsɩ/atsɩ (woman/women), otsibi/atsɩbi (girl/girls), obitebi/mbitebi (lady/ladies), abriwa/mbrɩwa (old lady/old ladies), oyín/ayín (man/men), nana (grandmother), tasii (aunt/niece), ɔtrapʋ (newly born lady), opio (brother/sister), ɔka (wife), okulu (husband), ɔkaba (rival).
-\dt 24/Dec/2013
+\cf otsibi
+\ce young woman
+\dt 20/May/2016
 
 \lx OBLIG
 \ps TAM
@@ -24361,20 +24353,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge prisoner
-\sd TN_II.E.1.a
 \sd TN_II.E.3.b
 \de prisoner
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx obubupʋ
 \ph obubúpʊ
 \ps n
 \sn
 \ge cripple
-\sd TN_II.E.1.a
 \sd TN_II.A.6.c
 \de cripple
-\dt 28/Apr/2016
+\dt 20/May/2016
 
 \lx obubwi
 \hm 1
@@ -24558,14 +24548,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge captive
-\sd TN_II.E.1.a
+\sd 4.5.4.4
 \sd TN_II.E.1.e
 \de captive
 \pl ndoun
 \plph ndoũʔ
 \xv Bɛkɩta amʋ́ ndoun brɛa amʋ́ʋ́ bɔkɔ ɩsa amʋ.
 \xe They were held captives the time that there was war.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx odu
 \hm 1
@@ -24874,7 +24864,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge liar
-\sd TN_II.E.1.a
 \sd 3.5.1.3.2
 \de person who tells lies
 \pl afunupʋ
@@ -24884,7 +24873,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The person that talks evil of a person in his absence is a liar.
 \xv Ɔha ánɩ́ omeyin tɔtɔ tsu tɔkʋ ɩwɩ, ɔdɛ mʋ́ asʋn blɩ a, ofunupʋ ogyi.
 \xe A person who does not know anything about something and says something about it is a liar.
-\dt 02/May/2016
+\dt 20/May/2016
 
 \lx ofunya
 \ph ofuɲa(H)
@@ -25191,14 +25180,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge armed robber
-\sd TN_II.E.1.a
-\sd TN_II.B.4
+\sd 6.8.9.1
 \de armed robber
 \xv Lalahɛ ɔbwɛpʋ ogyo otswapʋ gyi, tsufɛ nɩ ɔtʋ fʋ, omenya tɔtɔ wi tsu fʋ wa a, ɔbɔ́mɔ fʋ.
 \xe An armed robber is wicked, because if he meets you and did get anything to steal from you, he will kill you.
 \xv Nkɛsa anfɩtɔ agyo otswapʋ batra moni Ghana ɔmá anfɩtɔ.
 \xe These days armed robbers have increased too much in Ghana this country of ours.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ohian
 \ph ohĩã(H)
@@ -25232,7 +25220,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge believer
-\sd TN_II.E.1.a
 \sd TN_II.E.4.a
 \de a person who believes
 \pl ahogyipʋ
@@ -25243,7 +25230,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The believers in the town have met in the big house.
 \xv Ahogyipʋ amʋ fɛ́ɛ́ bénya ɔŋɛ wankɩhɛ amʋ ɔkɛ wʋlɛ.
 \xe All the believers received the Holy Spirit one day.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ohuam
 \ph ohuam
@@ -25618,7 +25605,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PropN
 \sn
 \ge Christian
-\sd TN_II.E.1.a
 \sd TN_II.B.6.c
 \de Christian
 \pl Akristofɔ
@@ -25627,7 +25613,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe It is necessary that a Christian should live as Christ lived.
 \xv Ha fʋ tsiatɔ ɩlɩan Kristo, mɛnɩ aha bʋmɛtɩ fʋ Okristoyin lalalahɛ.
 \xe Let your life be like Christ, so that people will not call you a bad Christian.
-\dt 04/Apr/2016
+\dt 20/May/2016
 
 \lx oku
 \ph okú
@@ -25988,12 +25974,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge pregnant woman
-\sd TN_II.E.1.a
-\sd TN_II.A.2.f
+\sd 2.6.5.2
+\sd 2.6.3.1
 \de pregnant woman
 \cf nya ɔmɛ
 \ce become pregnant
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx omeyi
 \ph omeyiʔ
@@ -26032,8 +26018,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge mute
-\sd TN_II.E.1.a
-\sd TN_II.A.6.c
+\sd 2.5.4.4
 \de mute
 \pl amumu
 \plph amúmu
@@ -26044,7 +26029,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:1688
 \cf mu
 \ce be mute
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx oniaba
 \ph oníaba(H)
@@ -26082,14 +26067,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge drinker
-\sd TN_II.E.1.a
 \sd TN_II.A.2.a
 \de a person who drinks something
 \pl anunpʋ
 \plph anúpʊ
 \xv Ɔtsɩ amʋ gyi nta fututu onunpʋ, tamɛ fʋmowun mʋa alabʋ kɩ.
 \xe That woman is palm wine drinker, but you will never see her being intoxicated.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx onuto
 \ph onutó
@@ -26168,15 +26152,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge wise person
-\sd TN_II.E.1.a
-\sd TN_II.B.1
+\sd 3.2.1.3
 \de wise person
 \pl anyansapʋ
 \plph aɲã́nsapʊ
 \rf Tape:6-1-240
 \xv Owie amʋ tɔbwɛ mʋ atɔ fɛ́ɛ́ nyansatɔ, sʋ onyansapʋ ogyi.
 \xe The chief does his everything wisely so he is a wise person.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx onye
 \ph oɲéʔ
@@ -26322,14 +26305,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va pio
 \ge brother/sister
-\sd TN_II.E.1.c
+\sd 4.1.9.1.3
+\sd 4.1.9.1.7
 \de brother or sister. This includes all my grandfathers' and grandmothers' grandchildren.
 \pl apio
 \plph apíó
 \xv Mɩ pio kʋsʋ gyi Sami, tsufɛ nadan dʋn mʋ.
 \xe My younger brother is Sami because I am older than he.
 \bb Stewart List:0301
-\dt 14/Aug/2013
+\dt 20/May/2016
 
 \lx opitre
 \ph opitre(H)
@@ -26666,8 +26650,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge student
-\sd TN_II.E.1.a
-\sd TN_II.E.3.c
+\sd 3.6.2
+\sd 3.2.2
 \de student or disciple
 \pl asuanpʋ
 \plph asuã́mpʊʔ
@@ -26675,7 +26659,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bw Akan fi:osuani LLH
 \xv Osunapʋ amʋ dɛ asuanpʋ amʋ atɔ suna wanklaan, tamɛ osuanpʋ ɔkʋlɛ tamayɔ.
 \xe The teacher is teaching the students well but one student does not go.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx osublu
 \ph osublúʔ(L)
@@ -26782,8 +26766,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge mourner
-\sd TN_II.E.1.a
-\sd TN_II.A.2.d
+\sd 2.6.6.4
 \de mourner
 \pl asupʋ
 \plph asúpʊ̂ʔ
@@ -26791,7 +26774,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Sack the mourners from around the corpse so that we have the chance to take him to the cemetery.
 \xv Kebi ánɩ́ tɔtɔ mɛdɛ mʋ bwɛ odesu dʋbɩ a, osupʋ bʋtɛtɩ mʋ.
 \xe A child who cries too much without any cause is called "osupʋ".
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx oswie
 \hm 1
@@ -26955,9 +26938,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ot͡sibi
 \ps n
 \sn
+\sd 2.6.4.3
+\sd 2.6.5.2
 \ge girl
 \de girl
-\dt 07/Nov/2015
+\cf ɔyasubi
+\ce young man
+\cf obitebi
+\ce young woman
+\dt 20/May/2016
 
 \lx otsin
 \ph ot͡sĩ́ʔ
@@ -27351,10 +27340,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge wickedness
-\sd TN_II.B.5.b.i
-\sd TN_II.E.1.a
+\sd 4.3.1.1
 \de wickedness
-\dt 19/Jun/2014
+\dt 20/May/2016
 
 \lx owupʋ
 \ph owupʊ́ʔ
@@ -27501,7 +27489,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va yin
 \ge man
-\sd TN_II.E.1.a
+\sd 2.6.5.1
+\sd 2.6.4.4
 \de man (male)
 \pl ayin
 \plph ayĩ(H)
@@ -27514,7 +27503,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Oyin amʋ ɔyɔ ndɔtɔ.
 \xe The man has gone to farm.
 \bb Stewart List:0201
-\dt 24/Dec/2013
+\dt 20/May/2016
 
 \lx oyín
 \ph oyĩ́
@@ -27522,7 +27511,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va yin
 \ge mother
-\sd TN_II.E.1.a
+\sd 2.6.5.2
+\sd 4.1.9.1.2
 \de mother
 \pl ayín
 \plph ayĩ́
@@ -27530,7 +27520,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mʋ yín gyi ɔtsɩ anfɩ, tsufɛ mʋ lɔkwɩɩ mʋ.
 \xe His mother is this woman, because she gave birth to him.
 \bb Stewart List:0305
-\dt 14/Aug/2013
+\dt 20/May/2016
 
 \lx oyinflɛ
 \ph oyiɱflɛʔ
@@ -27760,9 +27750,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge one person
-\sd TN_II.E.1.a
+\sd 4.1.6.3
+\sd 8.1.5.7
 \de one person
-\dt 14/Aug/2013
+\dt 20/May/2016
 
 \lx ɔbalɔ
 \ps ADV
@@ -28080,7 +28071,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge messenger
-\sd TN_II.E.1.a
 \sd 3.5.2.2
 \de messenger
 \pl abɔpʋ
@@ -28093,7 +28083,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_II.B.6.b
 \sd TN_II.B.6.c
 \de angel
-\dt 19/May/2016
+\dt 20/May/2016
 
 \lx ɔbrafɔ
 \ph ɔbráfɔ
@@ -28190,13 +28180,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge shuttle
-\sd TN_II.D.6.a
+\sd 6.6.1
 \de a weaver's shuttle
 \pl mbwata
 \plph mbʷata(H)
 \xv Tati ɔlʋpʋ amʋ ɔbwata layɩnta, sʋ alasi atati lʋ.
 \xe The weaver's shuttle has spoiled, so he has stopped weaving.
-\dt 23/Jun/2014
+\dt 20/May/2016
 
 \lx ɔbwɩ
 \ph ɔbʷɪ(H)
@@ -28948,14 +28938,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge person
-\sd TN_II.E.1.a
+\sd 2
 \de person
 \pl aha
 \plph ahá
 \rf Tape:5-2-382
 \xv Ɔha yile ogyi.
 \xe He is a good person.
-\dt 14/Aug/2013
+\dt 20/May/2016
 
 \lx ɔhaa
 \ph ɔhaː
@@ -29525,10 +29515,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge traveller
-\sd TN_II.E.1.a
-\sd TN_II.D.7
+\sd 7.2.4.1
 \de a person that goes on a journey
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔkpabaɩ
 \ph ɔk͡pabaɪ́ʔ
@@ -29751,8 +29740,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge fetish priest
-\sd TN_II.E.1.a
-\sd TN_II.B.6.a
+\sd 4.9.7.1
 \de fetish priest
 \pl akpɩpʋ
 \plph ak͡pɪpʊ́
@@ -29760,7 +29748,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe It is the fetish priest who gives sacrifices to the fetish.
 \xv Ɔkpɩpʋ amʋ lawi batɛ mʋ́ sʋ bawa mʋ obu tsra nu.
 \xe The fetish priest has stolen fowl so he has been jailed for five months.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔkpɩtsa
 \ph ɔk͡pɪt͡saʔ
@@ -29840,7 +29828,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ART
 \sn
 \ge certain one
-\sd TN_II.E.1.a
+\sd 9.2.3.2
 \de a certain person not previously defined in context
 \xv ɔkʋ ɛ
 \xe another person
@@ -29855,7 +29843,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Some people have come, but one more will come.
 \rf Tape:5-2-574
 \nt see ɩkʋ
-\dt 13/Jul/2014
+\dt 20/May/2016
 
 \lx ɔkʋabi
 \ph ɔkʊ́abíʔ
@@ -30153,6 +30141,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce be sick
 \dt 08/Jan/2014
 
+\lx ɔlʋpʋ
+\ph ɔlʊpʊ́
+\ps n
+\sn
+\ge weaver
+\sd 6.6.1
+\de a weaver's shuttle
+\pl alʋpʋ
+\plph alʊpʊ́
+\xv Tati ɔlʋpʋ amʋ ɔbwata layɩnta, sʋ alasi atati lʋ.
+\xe The weaver's shuttle has spoiled, so he has stopped weaving.
+\dt 20/May/2016
+
 \lx ɔma
 \ph ɔma
 \ps n
@@ -30216,8 +30217,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge supporter
-\sd TN_II.E.1.a
-\sd TN_II.E.2.c
+\sd 4.3.4.5.1
+\sd 4.4.4.2
 \de advocate
 \pl ɔma alɩɩpʋ
 \plph ɔma alɪ̌ːpʊ́
@@ -30227,7 +30228,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-076
 \xv Aba begyi asʋn, ma gyi fʋ ɔma ɔlɩɩpʋ.
 \xe We are coming to judge the case who is your advocate, (who will speak for you).
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔmadalɩ
 \ph ɔmadalɪʔ
@@ -30296,10 +30297,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge dead
-\sd TN_II.E.1.a
-\sd TN_I.C.1.d
+\sd 2.6.6.2
 \de dead person
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔmɛ
 \hm 1
@@ -30432,10 +30432,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge what woman
-\sd TN_II.E.1.a
+\sd 9.2.3.2
 \de what sort of woman
 \nt Obsolete
-\dt 19/May/2016
+\dt 20/May/2016
 
 \lx ɔmɛwʋlɩ
 \ph ɔmɛwʊ́lɪ
@@ -30573,7 +30573,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge grandmother
-\sd TN_II.E.1.c
+\sd 4.1.9.1.1
+\sd 2.6.5.2
 \de grandmother
 \va na
 \vaph na
@@ -30590,14 +30591,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge grandchild
-\sd TN_II.E.1.c
+\sd 4.1.9.1.5
 \de grandchild
 \rf Tape:4-2-499
 \xv Mɩ sɩ pʋ́ mɩ yín akwɩɩpʋ ɛ a, amʋ́ na gyi mɩ.
 \xe I am a grandchild to the parents of my father and my mother.
 \na Ɔna is a reciprocal term.
 \bb Stewart List:0314
-\dt 04/Feb/2016
+\dt 20/May/2016
 
 \lx ɔnain
 \ph ɔnáĩ́ʔ
@@ -30712,10 +30713,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge this person
-\sd TN_II.E.1.a
 \sd 9.2.3.5
 \de this person
-\dt 17/May/2016
+\dt 20/May/2016
 
 \lx ɔnlɩn
 \ph ɔ̃nlɪ̃ʔ
@@ -31103,8 +31103,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge labourer
-\sd TN_II.E.1.a
-\sd TN_II.D.8
+\sd 6.9.2
 \de labourer
 \pl apafɔ
 \plph apafɔ
@@ -31112,7 +31111,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bw Akan fi:ɔpaani
 \xv Nabɔ ɔpayin ɔkʋ ɩpa ánɩ́ ɔdɔ mɩ ndɔtɔ ha mɩ, fówun mɩanka mʋ ɩkɔ.
 \xe I have hired a labourer to weed my farm for me so that I pay him.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔpɛwa
 \ph ɔpɛwa(H)
@@ -31462,7 +31461,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va sɩ
 \vaph sɪ
 \ge father
-\sd TN_II.E.1.a
+\sd 4.1.9.1.2
 \de father
 \pl asɩ
 \plph asɪ́
@@ -31471,7 +31470,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
 \xe It is necessary that every child will respect his father so that the father also looks after his child well.
 \bb Stewart List:0304
-\dt 04/Feb/2016
+\dt 20/May/2016
 
 \lx ɔsɩkɛtɛ
 \ph ɔsɪ́kɛ́tɛ
@@ -31553,8 +31552,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge priest
-\sd TN_II.E.1.a
-\sd TN_II.B.6.c
+\sd 4.9.7.1
+\sd 4.9.7.2
 \de pastor; priest; used only of Christians
 \pl asɔfɔ
 \plph asɔ́fɔ(H)
@@ -31564,7 +31563,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-398
 \xv Ɔsɔfɔ akʋ bʋ bʋ alɛ, akʋ ɛ bʋ mʋ́ alɛ.
 \xe Some pastors are good, some too are not good.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔsɔhwɩɛ
 \ph ɔsɔ́hʷɪ́ɛ́
@@ -31997,10 +31996,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge clever man
-\sd TN_II.E.1.a
-\sd TN_II.B.1
+\sd 3.2.1.3
 \de clever man
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔtɩnɛ
 \ph ɔtɪ́nɛ́
@@ -32049,14 +32047,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge Counsellor/ adviser
-\sd TN_II.E.1.a
-\sd TN_II.B.1
+\sd 3.3.3.2 Advise
 \de one who advises people
 \pl atɔɩkplapʋ
 \plph atɔɪ́k͡plápʊ́
 \xv Anɩ sɩ Brabi gyi ɔtɔɩkplapʋ ha Ghana aban.
 \xe Mr. Brabi is a counsellor for the Ghana government.
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔtɔntrɔbwɩ
 \ph ɔtɔntrɔbwɪ(H)
@@ -32123,14 +32120,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge Newly delivered woman
-\sd TN_II.E.1.a
+\sd 2.6.5.2
+\sd 4.1.9.1.2
 \de the mother of a newly born baby
 \nt term is good for one year
 \pl atrapʋ
 \plph atrá!pʊ́
 \xv Ilehian ánɩ́ ɔtrapʋ ɔbɛ́ha mʋ bi nyɔpʋ nɩ mɔtsɔ-mɔtsɔ kʋraa lɛha nfi nyɔ.
 \xe It is necessary that the mother of a newly born baby should breast feed her child at least for two years.
-\dt 14/Aug/2013
+\dt 20/May/2016
 
 \lx ɔtrʋ
 \ph ɔtrʊ
@@ -32307,7 +32305,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge woman
-\sd TN_II.E.1.a
+\sd 2.6.4.4
+\sd 2.6.5.2
 \de woman
 \pl atsɩ
 \plph at͡sɪʔ(H)
@@ -32318,7 +32317,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf otsibi
 \ce girl
 \bb Stewart List:0202
-\dt 25/Dec/2013
+\dt 20/May/2016
 
 \lx ɔtsɩamɩ
 \ph ɔt͡ʃɪámɪ(H)
@@ -32461,10 +32460,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge robber
-\sd TN_II.E.1.a
-\sd TN_II.B.4
+\sd 6.8.9.1
 \de robber
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx ɔtswɩnkɩ
 \ph ɔt͡swɪ́ŋkɪ́
@@ -32733,7 +32731,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge strong person
-\sd TN_II.E.1.a
 \sd 2.4.1
 \de someone who is healthy/a strong person
 \pl awʋnlɩnpʋ
@@ -32743,7 +32740,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:3-1-088
 \xv Ɔwʋnlɩnpʋ gyi ɔha ánɩ́ ɔtɛtalɩ yɔ agyuma kpekple.
 \xe A strong person is one that can do hard work.
-\dt 17/May/2016
+\dt 20/May/2016
 
 \lx ɔyaa
 \ph ɔyǎː
@@ -32764,7 +32761,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge young man
-\sd TN_II.E.1.a
+\sd 2.6.5.1
 \sd 2.6.4.3
 \de young man
 \pl nyasubi
@@ -32776,7 +32773,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf obitebi
 \ce young woman
 \bb Stewart List:0206
-\dt 01/May/2016
+\dt 20/May/2016
 
 \lx ɔyasʋ
 \ph ɔyasʊ(H)
@@ -33364,11 +33361,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge people
-\sd TN_II.E.1.a
+\sd 4.2.1
 \de a group of people in which one belongs
-\xv Anɩlɔyɔ ɩlʋ ɔwakpa a, aha tsɔtsɔɔtsɔ lɔbɔwa ɩlʋ tamɛ anɩpɩ legyisʋ.
+\xv Anɩlɔyɔ ɩlʋ ɔwakpa a, aha tsɔtsɔɔtsɔ lɔbɔwa ɩlʋ tamɛ anɩ pɩ legyisʋ.
 \xe When we went for singing competition, many people came to sing but our people won.
-\dt 15/Aug/2013
+\dt 20/May/2016
 
 \lx pɩa
 \ph pɪ́a(H)
@@ -36067,10 +36064,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge deaf person
-\sd TN_II.E.1.a
-\sd TN_II.A.6.c
+\sd 2.5.4.3
 \de deaf person
-\dt 08/Jan/2014
+\dt 20/May/2016
 
 \lx swɛ
 \ph swɛ̂ːʔ
@@ -36279,7 +36275,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge twin
-\sd TN_II.E.1.a
+\sd 4.1.9.1.3
+\sd 4.1.9.1.9
 \de twin
 \pl atabi
 \plph atabíʔ
@@ -36290,7 +36287,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Rebecca birthed twins. They called the firstborn Esau. They called the second Jacob.
 \bb Stewart List:0210
 \bb Stewart List:0211
-\dt 26/Mar/2016
+\dt 20/May/2016
 
 \lx tafa
 \ph táfá
@@ -36504,13 +36501,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge aunt
-\sd TN_II.E.1.c
+\sd 4.1.9.1.6
+\sd 4.1.9.1.8
+\sd 2.6.5.2
 \de reciprocal relationship between a child and his/her Father's sister. Each will call the other "Tasii"
 \pl atasii
 \plph atásǐː
 \xv Mɩ atasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
 \xe My paternal aunts has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because they are not from the same family.
-\dt 13/Aug/2013
+\dt 20/May/2016
 
 \lx tati
 \ph tati(H)
@@ -38132,13 +38131,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 3
 \ge behave
 \sd TN_II.A.2
-\sd TN_II.E.1.a
 \de to behave a certain way
 \xv Matsia alɩ.
 \xe Don't behave like that.
 \cf tsiatɔ
 \ce behaviour
-\dt 22/Apr/2016
+\dt 20/May/2016
 
 \lx tsia
 \hm 2
@@ -38239,7 +38237,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va itsiatɔ
 \ge behaviour
 \sd TN_II.A.2
-\sd TN_II.E.1.a
 \de behaviour
 \rf Tape:7-2-330
 \xv Oyin amʋ tsiatɔ bʋ alɛ dʋbɩ.
@@ -38249,7 +38246,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Bad behaviour is bad.
 \xv Mʋ tsiatɔ ma alɛ.
 \xe His behaviour is not good.
-\dt 22/Apr/2016
+\dt 20/May/2016
 
 \lx tsiatsiaatsia
 \ph t͡siat͡siat͡sia
@@ -38521,9 +38518,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge womanhood
-\sd TN_II.E.1.a
+\sd 2.6.5.2
 \de womanhood
-\dt 22/Jun/2014
+\dt 20/May/2016
 
 \lx tsɩa
 \ph t͡sɪ́á
@@ -41261,11 +41258,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps CLASS
 \sn
 \ge woman from
-\sd TN_II.E.1.a
+\sd 2.6.5.2
 \de a woman from a certain town
 \xv Esi Mansa otsu Nkonya Ntumda; Ntumdayintse ogyi.
 \xe Esi Mansa comes from Nkonya Ntumda; she's an Ntumda woman..
-\dt 22/Jun/2014
+\dt 20/May/2016
 
 \lx yitsu
 \ph yit͡su
