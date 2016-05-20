@@ -166,8 +166,8 @@
 \ps n
 \sn 1
 \ge multi-storey
-\sd TN_II.C.1
-\sd TN_II.D.6.h
+\sd 6.5.1
+\sd 6.5.2.8
 \de a multi-storey building
 \rf Tape:1-1-038
 \xv Abansʋrʋ tsɔ wulu yiletɔ.
@@ -177,11 +177,12 @@
 \sn 2
 \ge upstairs
 \de upstairs
+\sd 6.5.2.8
 \rf Tape:1-1-043
 \xv Nɔyɔ abansʋrʋtɔ.
 \xe I will go upstairs.
 \bw Akan fi:bansʋrʋ LHH
-\dt 02/Nov/2015
+\dt 20/May/2016
 
 \lx abanyɔ
 \ph abaɲɔ́
@@ -1881,7 +1882,7 @@
 \ps n
 \sn
 \ge village
-\sd TN_II.C.1
+\sd 6.5.1.2
 \de house on the farm, out of town
 \pl nkuda
 \plph ŋkuda
@@ -1894,20 +1895,22 @@
 \xe Because of playing the sun has set for the villagers.
 \nt A proverb used to imply that it is time to stop playing and get to work. The people living out on their farms should have stopped in time to walk home before darkness fell.
 \bb Stewart List:1152
-\dt 11/Jun/2014
+\cf ibu
+\ce hut
+\dt 20/May/2016
 
 \lx akudasɩ
 \ph akudasɪ
 \ps n
 \sn
 \ge village
-\sd TN_II.C.1
+\sd 6.5.1.2
 \de a small town
 \xv Nɩ fʋda akudasɩ tamɛ fʋtamayɔ ndɔtɔ agyuma a, fʋmɛ́ɛdɛ tɔtɔ bwɛ.
 \xe If you are in the village, but you are not farming, you are doing nothing.
 \cf nkudasɩfɔ
 \ce people who are living in their farms
-\dt 30/Sep/2015
+\dt 20/May/2016
 
 \lx akunta
 \hm 1
@@ -5854,14 +5857,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge roof
-\sd TN_II.C.1
-\sd TN_II.D.6.h.ii
+\sd 6.5.2.2
 \de put a roof on a building
 \rf Tape:2-1-035
 \xv Bobua mɩ obu amʋ wanklaan, sʋ mededudu.
 \xe They roofed my room well so that it is not leaking.
 \bb Stewart List:2877
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx bubu
 \hm 1
@@ -5965,7 +5967,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge wall
-\sd TN_II.C.1
+\sd 6.5.2.1
 \sd TN_II.D.6.h.i
 \de wall
 \pl abunti
@@ -5978,7 +5980,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Abunti amʋ lɩɩ ntswɩasɩ dʋanyɔsʋ, ánɩ́ Okufabi amʋ akasɩpʋ amʋ ada dɩndɩn mʋ́sʋ.
 \xe the walls are on the twelve foundations, with the names of the Lamb's disciples on it.
 \bb Stewart List:1157
-\dt 01/Feb/2014
+\dt 20/May/2016
 
 \lx buo
 \ph buo
@@ -7591,7 +7593,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge leak
 \sd TN_I.D.1
-\sd TN_II.C.1
 \sd TN_II.C.2.e
 \sd TN_II.C.2.f
 \sd TN_II.D.6.g
@@ -7600,7 +7601,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bokiti amʋ dedudu, sʋ ntsu dɛdwɩɩ da ɔsʋlʋtɔ.
 \xe The bucket is leaking. Water is dripping onto the ground.
 \bb Stewart List:2495
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx duku
 \ph dúkuʔ
@@ -9363,7 +9364,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge dustpan
-\sd TN_II.C.1
+\sd 8.3.7.8.3
+\sd 5.1
 \de dustpan
 \pl agbɔnblɛn
 \plph ag͡bɔ́ŋ͡mg͡blɛ̃́
@@ -9373,7 +9375,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-143
 \xv Tsu gbɔngblɛn amʋ ha mɩankpa pi.
 \xe Bring the dustpan for me in order that I should collect rubbish.
-\dt 02/Oct/2015
+\dt 20/May/2016
 
 \lx gbɔngbɔ
 \ph g͡bɔ̃ŋ͡mg͡bɔ́ (H)
@@ -9508,12 +9510,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge kitchen
-\sd TN_II.C.1
+\sd 5.2.1
 \de kitchen
 \rf Tape:2-2-173
 \xv Ɔtsɩ amʋ lafɛɩ mʋ gyadɩtɔ wanklaan.
 \xe The woman has swept her kitchen well.
-\dt 13/Jul/2014
+\dt 20/May/2016
 
 \lx gyagya
 \ph ʤaʤaʔ
@@ -10712,13 +10714,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge hut
-\sd TN_II.C.1
+\sd 6.5.1.2
 \de hut made on the farm
 \rf Tape:2-2-378
 \xv Nada ibu mɩ ndɔtɔ.
 \xe I put up a hut on my farm.
 \bb Stewart List:1282
-\dt 30/Jun/2014
+\cf akuda
+\ce farm shelter
+\dt 20/May/2016
 
 \lx ibun
 \ph ibṹʔ
@@ -11107,12 +11111,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge ceiling
-\sd TN_II.C.1
+\sd 6.5.2.2
 \de ceiling
 \rf Tape:2-2-409
 \xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
 \xe The cat has climbed up into the ceiling and is catching mice.
-\dt 02/Nov/2015
+\dt 20/May/2016
 
 \lx imi
 \ph imi(H)
@@ -11163,13 +11167,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge thatch
-\sd TN_II.C.1
+\sd 6.5.3
 \de kind of grass used in hatching houses
 \xv Ipi tamalɩɩ wa ɔpá. Bʋtɔpʋ bua obu.
 \xe Thatch doesn't stay long. It is used for thatching.
 \na Thatch dies in October
 \bb Stewart List:1520
-\dt 02/Nov/2015
+\dt 20/May/2016
 
 \lx ipian
 \ph ipiã(H)
@@ -11734,7 +11738,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge bathroom plant
 \sd 5.6.2
-\sd TN_II.C.1
+\sd 6.5.1.4
 \de a plant that is grown for medicine in the wash area
 \ps n
 \sn 2
@@ -11744,7 +11748,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \na One must take care of such a wife very well because to spoil such a marriage brings enmity between family members. Just as if you destroy a plant carefully tended in the wash area. It would not be available when needed for a sick person.
 \xv Bʋtamayinta bantɔfa.
 \xe They never spoil plants grown in the wash area.
-\dt 06/May/2016
+\dt 20/May/2016
 
 \lx ɩbɛ
 \ph ɪbɛʔ(H)
@@ -12316,7 +12320,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va klʋn
 \ge door
-\sd TN_II.C.1
+\sd 6.5.2.4
 \de door
 \pl aklʋn
 \plph aklʊ̃ʔ
@@ -12325,7 +12329,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe My room's door has spoiled.
 \bb Stewart List:0018
 \bb Stewart List:1257
-\dt 29/Aug/2013
+\dt 20/May/2016
 
 \lx ɩklʋn
 \hm 2
@@ -13875,13 +13879,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge mat
-\sd TN_II.C.1
+\sd 6.5.2.1
+\sd 6.6.4.2
 \de stiff mat made from stripped palm branches
 \na This mat is made of stripped palm branches. Each waimbi is split once lengthwise.Three sticks of split bamboo are prepared and the palm branches are impaled on the bamboo in order to make a stiff mat used as a door for a kitchen, walls for a porch, or a platform for carrying a corpse, or drying cocoa on, etc.
 \rf Tape:3-1-341
 \xv Nɔyɔ kpa awaimbi da kakaʋ pʋ tin mɩ gyadɩ.
 \xe I will go strip palm branches and make a palm branch mat and block my kitchen door with.
-\dt 08/Feb/2014
+\dt 20/May/2016
 
 \lx kakayi
 \ph kakayi
@@ -14070,13 +14075,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge shelter
-\sd TN_II.C.1
+\sd 6.5.1.2
 \sd TN_II.E.2.a
 \de shelter made from bamboo and palm branches used for gatherings
 \rf Tape:3-1-418
 \xv Bɛɛ abégyi nkɛ amʋ dɩnsʋ sʋ a, ayɛda kantankpa aba.
 \xe They say we will make a festive occasion at Denso, so we are going to erect a palm shelter and come.
-\dt 28/Apr/2016
+\dt 20/May/2016
 
 \lx kantankua
 \ph kantaŋkua
@@ -16380,11 +16385,10 @@ cf fonflo
 \ps n
 \sn
 \ge fall down
-\sd TN_I.C.1.c
 \sd TN_I.D.1
-\sd TN_II.C.1
+\sd TN_I.C.1.c
 \de fall
-\dt 01/Jul/2014
+\dt 20/May/2016
 
 \lx kpala
 \ph k͡pálâʔ
@@ -20476,7 +20480,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge backyard
-\sd TN_II.C.1
+\sd 6.5.1.4
 \de back of the house
 \xv Fʋ mmuatse labʋla.
 \xe Your backyard is bushy.
@@ -20485,7 +20489,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:2-2-422
 \xv Nyankpʋ tswie brɛ a, aha mmuatse tɛbla ɔsasʋ.
 \xe In rainy season people's backyards quickly get full of weeds.
-\dt 22/Jun/2014
+\dt 20/May/2016
 
 \lx mobaɩl
 \ph mobaɪl
@@ -21481,8 +21485,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge window
-\sd TN_II.C.1
-\sd TN_II.D.6.h.i
+\sd 6.5.2.5
 \de window
 \pl afansrɩ
 \plph afánsrɪ́
@@ -21490,7 +21493,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-585
 \xv Finki nfansɩrɩ amʋ ha obu amʋtɔ lɔwankɩ.
 \xe Open the window and let the room become bright.
-\dt 12/Jul/2014
+\dt 20/May/2016
 
 \lx nfantʋhʋn
 \ph ɱfã́ntʊ́hʊ̃́ʔ
@@ -22839,10 +22842,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge foundation
-\sd TN_II.C.1
-\sd TN_II.D.6.h.i
+\sd 6.5.2.6
 \de foundation
-\dt 16/Jun/2014
+\dt 20/May/2016
 
 \lx ntswɩtswɩ
 \ph nt͡swɪ́t͡swɪ̂ʔ
@@ -23235,12 +23237,13 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge dunghill
-\sd TN_II.C.1
+\sd 8.3.7.8.3
+\sd 7.4.5.2
 \de garbage dump and public toilet area
 \rf Tape:5-1-474
 \xv Alasa bʋtekle nwunasʋ gyonka tsufɛ bʋtekle atɔ dada gyi.
 \xe Vultures like to perch on the dunghill because they like to eat old things.
-\dt 08/Feb/2014
+\dt 20/May/2016
 
 \lx nwunfa
 \ph ŋʷṹɱfá
@@ -23934,7 +23937,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge sand
 \sd TN_I.A.3.c
-\sd TN_II.C.1
+\sd 1.2.2.1
 \sd TN_II.D.6.h
 \de fine sand from a specific k.o. stone
 \rf Tape:5-1-028
@@ -23947,7 +23950,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge grit
 \sd TN_I.A.3.b
 \de a soft stone that is ground and used to clean calabashes
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx ŋlaɩn
 \ph ŋlaɪ̃́
@@ -24518,9 +24521,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge inner room
-\sd TN_II.C.1
+\sd 6.5.2.7
 \de inner room
-\dt 12/Jun/2014
+\dt 20/May/2016
 
 \lx odikpini
 \ph odik͡piniʔ
@@ -25429,8 +25432,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge corner
-\sd TN_I.C.3.b
-\sd TN_II.C.1
+\sd 6.5.2
+\sd 8.6.6
 \de corner
 \pl nkoklobi
 \plph ŋkoklobi
@@ -25442,7 +25445,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He always walks in corners (takes the back way).
 \nt because he has something to hide, or perhaps he is a thief.
 \rf Tape:6-2-574
-\dt 30/Sep/2015
+\cf okonkisʋ
+\ce corner
+\dt 20/May/2016
 
 \lx okokonitɔ
 \ph okókónitɔ̂ʔ
@@ -25464,10 +25469,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge corner
-\sd TN_I.C.3.b
-\sd TN_II.C.1
+\sd 6.5.2
+\sd 8.6.6
 \de corner
-\dt 12/Jul/2014
+\cf okoklobi
+\ce corner
+\dt 20/May/2016
 
 \lx Okonyayin
 \ph okuɲáyĩ̂ʔ
@@ -26272,7 +26279,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge thatch
-\sd TN_II.C.1
+\sd 6.5.3
 \sd TN_II.D.6.h.ii
 \de thatch
 \pl mpiki
@@ -26280,7 +26287,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \np Tone needs to be checked
 \va pipi
 \ve North
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx opini
 \ph opínîʔ
@@ -26669,7 +26676,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge sand
 \sd TN_I.A.3.c
-\sd TN_II.C.1
+\sd 6.5.3
+\sd 1.2.2.1
 \sd TN_II.D.6.h
 \de sand
 \xv Osublu anɩgyi (repeat). Osublu amʋ abɛ́ladamli nɩ.
@@ -26684,7 +26692,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ŋɛsɩ2
 \ce sand
 \bb Stewart List:1027
-\dt 09/Nov/2015
+\dt 20/May/2016
 
 \lx osumbi
 \ph osúmbí
@@ -29422,7 +29430,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge crook
 \sd TN_I.C.3.b
-\sd TN_II.C.1
 \sd TN_II.D.1.b
 \de short wooden crook used in weeding
 \pl nkɔntɩ
@@ -29430,7 +29437,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-467
 \xv Ɔkɔntɩ pʋ́ krantɩɛ anɩtɔpʋ dɔ. Ɩtɛha ɩdɔ amʋ tɛpɩn.
 \xe We use a wooden crook and a cutlass to weed. It makes the weeding smooth (does not leave ragged clumps).
-\dt 12/Jul/2014
+\dt 20/May/2016
 
 \lx ɔkɔtɔ
 \ph ɔkɔ́tɔ(H)
@@ -29537,7 +29544,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge forked stick
 \sd TN_I.C.3.b
-\sd TN_II.C.1
 \sd TN_II.D.1.b
 \de forked stick
 \pl nkpabi
@@ -29545,7 +29551,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-516
 \xv Ka ɔkpabi ba mɩ, ampʋ wa nkpabi amʋtɔ anda kantankpa.
 \xe Cut a forked stick and bring it so that I can put it with the other forked sticks so that we can build a palm leaf shelter.
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx ɔkpabi
 \hm 2
@@ -29794,13 +29800,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge yard
-\sd TN_II.C.1
+\sd 6.5.1.4
 \de yard immediately outside the house
-\nt activities forbidden in the house or courtyard, fighting; calling fetish would be done outside in ɔkpʋnɔ
 \rf Tape:5-2-554
 \xv Bɛdalɩ woyitɔ yɔ ɔkpʋnɔ bʋdɛkɔ.
 \xe They go out of the house into the front yard to fight.
-\dt 12/Jul/2014
+\nt activities forbidden in the house or courtyard, fighting; calling fetish would be done outside in ɔkpʋnɔ
+\dt 20/May/2016
 
 \lx ɔkpʋnʋ
 \ph ɔk͡pʊ́nʊ́
@@ -31019,7 +31025,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge rafter
-\sd TN_II.C.1
+\sd 6.5.2.2
 \sd TN_II.D.6.e
 \sd TN_II.D.6.h.ii
 \de rafter of a thatch hut
@@ -31047,7 +31053,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-303
 \xv Fawa fʋ atadɩɛ amʋ mpalɩsʋ, sʋ damlɩ mʋ́ ansɩtɔ wa.
 \xe You have put on your shirt inside out so turn it right side out.
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx ɔpasua
 \ph ɔpasua(H)
@@ -31777,7 +31783,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge centre pole
-\sd TN_II.C.1
+\sd 6.5.2.2
 \sd TN_II.D.1.e
 \sd TN_II.D.6.e
 \sd TN_II.D.6.h.i
@@ -31785,7 +31791,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge ridgepole
-\sd TN_II.C.1
+\sd 6.5.2.2
 \sd TN_II.D.1.e
 \sd TN_II.D.6.e
 \sd TN_II.D.6.h.i
@@ -31796,7 +31802,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 3
 \ge pillar
-\sd TN_II.C.1
+\sd 6.5.2.2
 \sd TN_II.D.1.e
 \sd TN_II.D.6.e
 \sd TN_II.D.6.h.i
@@ -31808,7 +31814,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge backbone
 \sd TN_II.A.1.c
 \de backbone
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx ɔtansʋ imi
 \ph ɔtansʊ imi
@@ -33313,14 +33319,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge thatch
-\sd TN_II.C.1
+\sd 6.5.2.2
+\sd 6.5.3
 \sd TN_II.D.6.h.ii
 \de thatch
 \xv Ogya plɛnplɛn amʋ lɔtswɩ kɩta pipi amʋ hɔ mʋ́.
 \xe The flame spread and caught the thatch and burned it.
 \va opiki
 \ve South
-\dt 04/Jan/2014
+\dt 20/May/2016
 
 \lx pisii
 \ph pisiː
@@ -34464,11 +34471,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge key
-\sd TN_II.C.1
+\sd 6.5.2.4
+\sd 6.7.5
+\sd 6.8.9.1
 \sd TN_II.D.6.e
 \sd TN_II.D.6.h.iii
 \de key
-\dt 21/Jun/2014
+\dt 20/May/2016
 
 \lx saasɩ
 \ph saːsɪ
@@ -34775,10 +34784,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge roof
-\sd TN_II.C.1
+\sd 6.5.2.2
 \sd TN_II.D.6.h.ii
 \de roof
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx sɛsɛ
 \ph sɛsɛʔ
@@ -36181,7 +36190,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 4
 \ge lodge
-\sd TN_II.C.1
+\sd 7.2.4
 \de to lodge overnight
 \rf Tape:7-1-285
 \xv Ɔkʋ dɛtsʋn ɔyɔ Krachi, owí lata wa mʋ nfɩ sʋ, alaswɩɩ mɩ.
@@ -40011,7 +40020,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge home
-\sd TN_II.C.1
+\sd 6.5.1.1
 \de home, hometown
 \rf Tape:8-1-309
 \xv Oyin amʋ ɔyɔ woyi.
@@ -40020,16 +40029,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Yaw bʋ woyi, ɔmɔkʋ tu ɔkpa.
 \xe Yaw is at home, he has not travelled.
 \bb Stewart List:1151
-\dt 19/Jun/2014
+\dt 20/May/2016
 
 \lx woyitɔ
 \ph wóyítɔ́
 \ps n
 \sn
 \ge house
-\sd TN_II.C.1
+\sd 6.5.1.1
 \de house, household
-\dt 19/Jun/2014
+\dt 20/May/2016
 
 \lx wɔ
 \ph wɔ
@@ -40370,20 +40379,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge courtyard
-\sd TN_II.C.1
+\sd 6.5.1.4
 \de courtyard
-\dt 12/Jul/2014
+\dt 20/May/2016
 
 \lx wunsɩnɛ
 \ph wunsɪnɛ́
 \ps n
 \sn
 \ge courtyard
-\sd TN_II.C.1
+\sd 6.5.1.4
 \de courtyard - open space inside a compound
 \xv Oyin amʋ nwunsɩnɛsʋ lɛtɛɩ tɛtrɛtɛɛ.
 \xe The man's courtyard is very wide.
-\dt 12/Jul/2014
+\dt 20/May/2016
 
 \lx wunti
 \ph wúntí
