@@ -1326,7 +1326,6 @@
 \ge work
 \sd 6.1
 \sd 6.1.2.3
-\sd TN_II.B.5.b.ii
 \de work
 \bw Akan fi:agyʋma LHH
 \rf Tape:1-1-279
@@ -2265,10 +2264,9 @@
 \ps n
 \sn
 \ge suffering
-\sd TN_II.B.5.b.ii
-\sd TN_II.E.4.b
+\sd 4.4.2.6
 \de suffering
-\dt 11/Jun/2014
+\dt 20/May/2016
 
 \lx amʋ́ʋ́
 \ph amʊ́ː
@@ -2579,14 +2577,13 @@
 \ps n
 \sn
 \ge trouble
-\sd TN_II.B.5.b.ii
-\sd TN_II.E.4.b
+\sd 4.4.2
 \de trouble
 \lt red eyes
 \rf Tape:1-1-496
 \xv Ansɩpɛpɛ gyisɛ, babla fʋ oli ntɛ fʋ wɩsʋ ɔha dɛlɔ kinkiinkin, ntɛ falɛ asʋn; sʋ fʋ ansɩ lapɛ.
 \xe Ansɩpɛpɛ is like this, they have told you of a funeral or a family member is seriously ill, or you have a case that makes your eyes red (troubles you).
-\dt 11/Jun/2014
+\dt 20/May/2016
 
 \lx ansɩtɩn
 \ph ansɪtɪ̃̂ʔ(L)
@@ -3353,13 +3350,12 @@
 \ps n
 \sn
 \ge trouble
-\sd TN_II.B.5.b.ii
-\sd TN_II.E.4.b
+\sd 4.4.2
 \de trouble
 \rf Tape:1-2-002
 \xv Fowie asʋnwunhɛtɔ, fenya klʋn a, fʋtamabwɛ lakpan.
 \xe If you enter into trouble and endure it patiently you never do evil.
-\dt 12/Jun/2014
+\dt 20/May/2016
 
 \lx asʋtɔlɩn
 \ph asʊtɔlɪ̃ (H)
@@ -12440,12 +12436,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge trouble
-\sd TN_II.B.5.b.ii
-\sd TN_II.E.4.b
+\sd 4.4.2
 \de a tight place, a bind
 \cf kplan
 \ce squeeze
-\dt 12/Dec/2013
+\dt 20/May/2016
 
 \lx ɩkpʋn
 \ph ɪk͡pʊ̃ʔ(L)
@@ -12903,7 +12898,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge labour
 \sd 6.9.2
-\sd TN_II.B.5.b.ii
 \de labour
 \xv Ɔkɛ amʋ Adango lɛbla Kpakpahe ɔbɛɛ bégyi pa, abudunka sika, abʋhɔ lɔɔrɩ.
 \xe One day Rabbit told Duck they would go hire as a labourer, so they should search for money, so that they should buy a truck.
@@ -14172,7 +14166,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge fail
-\sd TN_II.B.5.b.ii
+\sd 6.1.3.3
 \de to attempt but be unsuccessful
 \nt always the second verb in a serial construction
 \rf Tape:3-1-447
@@ -14180,7 +14174,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I fanned the fire unsuccessfully, it didn't flame. Unexpectedly, the wood was not dry.
 \cf kpali
 \ce uselessly
-\dt 01/Jul/2014
+\dt 20/May/2016
 
 \lx kasɩ
 \ph kásɪ́
@@ -15948,11 +15942,9 @@ cf fonflo
 \ps ADJ
 \sn
 \ge safe
-\sd TN_II.A.6.e
-\sd TN_II.A.6.e
-\sd TN_II.B.5.b.ii
+\sd 4.4.2.2
 \de safe
-\dt 22/Jun/2014
+\dt 20/May/2016
 
 \lx kɔɔ
 \ph kɔː
@@ -18745,7 +18737,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge value
-\sd TN_II.B.5.b.ii
+\sd 6.1.2.2.1
+\sd 8.3.7.9
 \de value/worthy/profitable
 \xv Nɩ ɔkʋ ɔbɛɛ ɔbʋ hogyi, tamɛ mʋ bwɛhɛ mosuna alɩ a, labi mɔmʋ mʋ hogyi amʋ bʋ?
 \xe If someone says he has faith but his works don't show it, which profit does his faith have.
@@ -18753,7 +18746,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Ɩma labi kʋkʋ.
 \xe It is worthless.
 \sy nfasʋɔ
-\dt 01/Jul/2014
+\dt 20/May/2016
 
 \lx lafa
 \ph lafa
@@ -33106,8 +33099,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The plantain is ripe. Cut it (the entire stalk) for me.
 \se ansɩ pɛ
 \ge trouble
-\sd TN_II.B.5.b.ii
-\sd TN_II.E.4.b
+\sd 4.4.2
 \xv Mɩ ansɩ lapɛ.
 \xe I am in trouble.
 \lt eyes red
@@ -33120,7 +33112,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_II.D.1.f
 \de to ripen
 \bb Stewart List:2251
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx pɛlɩ
 \ph pɛ́lɪʔ
@@ -35184,14 +35176,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge cheat
-\sd TN_II.B.5.b.ii
-\sd TN_II.B.5.b.i
+\sd 6.8.9.2
 \de cheat
 \xv Saa, aha amʋ mlɩlɔbɔ amʋ́ ɩpa bɔyɔ agyuma mlɩ ndɔtɔ amʋ a, mlɩlesisi amʋ́, mlɩmɛka amʋ́ ɩkɔ.
 \xe Opposite to what you said, you have hired people to work on your farm but you have cheated them and not paid.
 \xv Fʋ aba sisi ma alɛ.
 \xe Cheating your neighbours is not good.
-\dt 22/Jun/2014
+\dt 20/May/2016
 
 \lx -sɩ
 \ph -sɪ
@@ -36299,8 +36290,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge cheat
-\sd TN_II.B.5.b.i
-\sd TN_II.B.5.b.ii
+\sd 6.8.9.2
 \de cheat
 \xv Igye, nɛka atɔ amʋ fɛ́ɛ́ ɩkɔ. Mabɛtafa mɩ.
 \xe Yesterday I paid for everything that I bought. Don't come to cheat me.
@@ -36308,7 +36298,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Don't cheat me, we will share it equally.
 \xv Anɩ aba tafasʋ anɩ tamayɔ nkpa nɩ.
 \xe Cheating each other, that is why we don't move forward (prosper).
-\dt 22/Jun/2014
+\dt 20/May/2016
 
 \lx takɩna
 \ph takɪná
@@ -39639,16 +39629,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge tempt
-\sd TN_II.B.4
-\sd TN_II.B.5.b.ii
-\sd TN_II.E.1.a
+\sd 6.8.9.2
+\sd 4.3.1.1
 \de to talk someone out of doing good or into doing something bad
 \rf Tape:4-1-448
 \xv Mbɛɛ anwa kebi ɔkʋ sumbi, tamɛ mʋ ba amʋ lɔwa mʋ lala ánɩ́ ɔmáyɔ.
 \xe I said/sent a child on a certain errand, but his friend persuaded him that he shouldn't go.
 \xv Ɔlɔwa mɩ lala ánɩ́ mma ha oyin amʋ atɔ amʋ.
 \xe He persuaded me not to give the man the things. (When I should have because the man needed them.)
-\dt 11/Jul/2014
+\dt 20/May/2016
 
 \lx wa ɔna
 \ph wa ɔna
