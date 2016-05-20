@@ -1560,12 +1560,12 @@
 \ps n
 \sn
 \ge iron sheet
-\sd TN_II.D.6.g
-\sd TN_II.D.6.h.i
+\sd 6.5.2.2
+\sd 6.5.3.1
 \de iron roofing sheet
 \xv Mlɩmapʋ akɩɛnsɩ dada bua obu amʋ.
 \xe Don't use old iron sheet to roof the building.
-\dt 11/Jun/2014
+\dt 20/May/2016
 
 \lx akɩlɛ
 \ph akɪ́lɛʔ
@@ -5968,7 +5968,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge wall
 \sd 6.5.2.1
-\sd TN_II.D.6.h.i
 \de wall
 \pl abunti
 \plph abuntíʔ
@@ -11400,12 +11399,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge brush
-\sd TN_II.D.6.h.iv
+\sd 5.1
+\sd 5.6.5
 \de brush made from the head of palm nut
 \nt It is not used as much as it used to be.
 \xv Fɔpʋ itu fɛɩ obuto a, ɩtɔwa akɩlɛ.
 \xe When you use brush to sweep inside room, it becomes beautiful.
-\dt 30/Sep/2015
+\dt 20/May/2016
 
 \lx iwie
 \ph iwíeʔ (L)
@@ -14149,7 +14149,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge measure
-\sd TN_II.D.6.h
+\sd 8.2.8
 \de measure depth, height
 \rf Tape:3-1-441
 \xv Ba, akapʋ aba akɩ ɔha odua ɔbʋ ɩswɩ dʋn mʋ ba.
@@ -14158,7 +14158,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:2826
 \cf susu
 \ce measure
-\dt 22/Dec/2013
+\dt 20/May/2016
 
 \lx kasɛ
 \ph kásɛ
@@ -16417,13 +16417,12 @@ cf fonflo
 \ps v
 \sn
 \ge cross
-\sd TN_II.D.6.h.ii
-\sd TN_II.B.6.c
+\sd 7.2.3.5
 \de cross
 \rf Tape:3-2-438
 \xv Oyin amʋ letsia asɩ kpali mʋ ayabi.
 \xe The man sat down and crossed his legs.
-\dt 12/Jul/2014
+\dt 20/May/2016
 
 \lx kpalɩ
 \hm 1
@@ -16989,7 +16988,7 @@ cf fonflo
 \ps vt
 \sn 1
 \ge paint
-\sd TN_II.D.6.h.iv
+\sd 6.5.3.1
 \de to paint something
 \rf Tape:5-2-540
 \xv Fakpita fʋ ɔswɩ.
@@ -17006,7 +17005,7 @@ cf fonflo
 \ce rub
 \cf kpakpa
 \ce rub
-\dt 11/Nov/2015
+\dt 20/May/2016
 
 \lx kpɩ
 \hm 1
@@ -18553,8 +18552,7 @@ cf fonflo
 \ps vt
 \sn 1
 \ge dig
-\sd TN_II.D.1.c
-\sd TN_II.D.6.h.i
+\sd 7.8.6
 \de dig
 \rf Tape:4-1-390
 \xv Kwi ɔbɔ.
@@ -18567,7 +18565,7 @@ cf fonflo
 \de to harvest something underground
 \xv Kwi agbodi ha mɩ.
 \xe Harvest cassava for me.
-\dt 02/Nov/2015
+\dt 20/May/2016
 
 \lx kwɩɩ
 \ph kwɪ̌ː
@@ -23947,7 +23945,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge sand
 \sd TN_I.A.3.c
 \sd 1.2.2.1
-\sd TN_II.D.6.h
+\sd 5.2.1.1
 \de fine sand from a specific k.o. stone
 \rf Tape:5-1-028
 \xv Bʋtɔpʋ ŋɛsɩ bwa atɔ.
@@ -24332,7 +24330,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge building
-\sd TN_II.D.6.h
+\sd 6.5.1
 \de building
 \pl mbu
 \plph mbu
@@ -24344,7 +24342,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe animal pen, hen coop
 \bb Stewart List:1155
 \bb Stewart List:1251
-\dt 17/Jun/2014
+\dt 20/May/2016
 
 \lx obu
 \hm 2
@@ -26289,7 +26287,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge thatch
 \sd 6.5.3
-\sd TN_II.D.6.h.ii
+\sd 6.5.2.2
 \de thatch
 \pl mpiki
 \plph mpiki
@@ -26687,7 +26685,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_I.A.3.c
 \sd 6.5.3
 \sd 1.2.2.1
-\sd TN_II.D.6.h
 \de sand
 \xv Osublu anɩgyi (repeat). Osublu amʋ abɛ́ladamli nɩ.
 \xe We are sand. It is sand we will change back to.
@@ -28399,8 +28396,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge nail
-\sd TN_II.D.6.e
-\sd TN_II.D.6.h.ii
+\sd 6.5.3
+\sd 6.6.3
+\sd 6.7.5
+\sd 7.5.2
 \de nail
 \pl ndatobi
 \plph ndatobi(H)
@@ -28408,7 +28407,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-270
 \xv Lɛ ɔdatobi bɛda ɩban amʋ ha mɩ.
 \xe Remove a nail to hammer it into the fence for me.
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx ɔdawu
 \ph ɔdawuʔ
@@ -31037,7 +31036,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge rafter
 \sd 6.5.2.2
 \sd TN_II.D.6.e
-\sd TN_II.D.6.h.ii
 \de rafter of a thatch hut
 \pl mpalɩ
 \plph mpalɪ́
@@ -31796,26 +31794,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 6.5.2.2
 \sd TN_II.D.1.e
 \sd TN_II.D.6.e
-\sd TN_II.D.6.h.i
 \de centre pole of a hut
 \ps n
 \sn 2
 \ge ridgepole
 \sd 6.5.2.2
 \sd TN_II.D.1.e
-\sd TN_II.D.6.e
-\sd TN_II.D.6.h.i
 \de ridgepole of a modern house
 \rf Tape:6-1-444
 \xv Mɩ obu ɔtan labia, sʋ mpalɩ amʋ lakpakpada.
-\xe My room's ridgepole has broken so the rafters have fallen down.
+\xe My house's ridgepole has broken so the rafters have fallen down.
 \ps n
 \sn 3
 \ge pillar
 \sd 6.5.2.2
-\sd TN_II.D.1.e
-\sd TN_II.D.6.e
-\sd TN_II.D.6.h.i
 \de pillar of building
 \pl ntan
 \plph ntãʔ
@@ -32275,15 +32267,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge gravel
 \sd TN_I.A.3.c
-\sd TN_II.D.6.h.i
-\sd TN_II.D.6.h.iv
+\sd 1.2.2.1
 \sd TN_II.D.7.e
 \de gravel, usually laterite
 \xv Nɩ bokpi ɔkpa amʋ wʋlɩ ɔtsatsa mʋ́sʋ, bʋmɔwʋlɩ kootaa mʋ́sʋ a, ɩbɔ́wa ɔsa yinta.
 \xe If they scrape the road, pour gravel on it, but don't put asphalt on it, it will quickly spoil.
 \cf ɩsɩ
 \ce dirt
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx ɔtsawʋlɛ
 \ph ɔt͡sáwʊlɛ
@@ -33331,7 +33322,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge thatch
 \sd 6.5.2.2
 \sd 6.5.3
-\sd TN_II.D.6.h.ii
 \de thatch
 \xv Ogya plɛnplɛn amʋ lɔtswɩ kɩta pipi amʋ hɔ mʋ́.
 \xe The flame spread and caught the thatch and burned it.
@@ -34485,7 +34475,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 6.7.5
 \sd 6.8.9.1
 \sd TN_II.D.6.e
-\sd TN_II.D.6.h.iii
 \de key
 \dt 20/May/2016
 
@@ -34795,7 +34784,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge roof
 \sd 6.5.2.2
-\sd TN_II.D.6.h.ii
 \de roof
 \dt 20/May/2016
 
@@ -35781,7 +35769,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge measure
-\sd TN_II.D.6.h
+\sd 8.2.8
 \de to measure an amount or spatial dimension
 \rf Tape:7-1-123
 \xv Ɔdɛ kpoli amʋ susu gbɔngbɔtɔ.
@@ -35807,7 +35795,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He didn't go to school, so he thought that his father would hit him.
 \bb Stewart List:2079
 \nt From ths: words used in measuring kapʋ(measure height/depth), susu(measure amount), kali (weigh)
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx sutin
 \ph sútĩ́ʔ
@@ -37909,11 +37897,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge gravel
 \sd TN_I.A.3.c
-\sd TN_II.D.6.h.i
-\sd TN_II.D.6.h.iv
+\sd 1.2.2.1
 \sd TN_II.D.7.e
 \de gravel
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx tsantsankʋ
 \ph t͡sant͡saŋkʊ
@@ -40960,7 +40947,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge erect
-\sd TN_II.D.6.h
+\sd 6.5.1
+\sd 8.3.1.4.1
 \de erect; setting
 \rf Tape:8-1-536
 \xv Bʋdɛ obu yi.
@@ -40984,7 +40972,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Yesterday, I tapped palm wine.
 \xv Aba bayi kɩaɩ amʋ ɩwɩ fɛ́ɛ́.
 \xe Ticks have stuck all over the body of the dog.
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx yi ayɛ
 \ph yi ayɛ
