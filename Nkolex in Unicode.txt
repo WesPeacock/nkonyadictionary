@@ -434,12 +434,12 @@
 \ps ADJ
 \sn
 \ge speakable
-\sd TN_II.B.2
+\sd 3.5.1.1.7
 \de easy to say
 \rf Tape:1-1-100
 \xv Ɔhagyiɔha wulutɔ ɔblɩ bʋ mʋ ablɩlɛ.
 \xe Everyone's own language is easy for him to speak.
-\dt 28/Jul/2013
+\dt 18/May/2016
 
 \lx abomba
 \ph abomba(H)
@@ -979,11 +979,11 @@
 \ph afutúó
 \ps n
 \sn
-\ge counsel/advise
-\sd TN_II.B.1
-\sd TN_II.B.2.b
+\ge advice
+\sd 3.5.1.2.8
+\sd 3.3.3.7
 \sd TN_II.E.3.a
-\de counsel
+\de counsel, advice
 \bw Akan fi:afutu LLH
 \xv Ha mʋ afutuo, osi atɔ wi.
 \xe Advise him to stop stealing.
@@ -993,7 +993,7 @@
 \ce advise
 \xv afutuo ɔhapʋ
 \xe counsellor
-\dt 02/May/2016
+\dt 20/May/2016
 
 \lx afʋfʋ
 \ph afʊfʊʔ
@@ -1246,7 +1246,7 @@
 \ps n
 \sn
 \ge whisper advice
-\sd TN_II.B.2.b.i
+\sd 3.5.1.1.2
 \de whisper
 \bw Akan fi:agyina LLH
 \xv Omedekle ánɩ́ ɔhaa onu amʋ́ asʋn amʋtɔ sʋ a, olotu mʋ agyɩna.
@@ -1255,7 +1255,7 @@
 \rf Tape:1-1-254
 \cf nklobitɔ
 \ce mutter
-\dt 27/Apr/2016
+\dt 18/May/2016
 
 \lx agyɩndɩ
 \ph aʤɪndɪ(H)
@@ -1600,15 +1600,13 @@
 \ps ADJ
 \sn
 \ge readable
-\sd TN_II.B.2
 \sd TN_II.E.3.c
-\sd TN_II.B.2.b.i
 \sd TN_II.E.3
 \de easy or good to read
 \rf Tape:1-1-339
 \xv Ɔwʋlʋ ánɩ́ atosuanhɛ bʋ mʋ́tɔ a, ɩbʋ aklalɛ.
 \xe An informative book is good to read.
-\dt 11/Jun/2014
+\dt 18/May/2016
 
 \lx aklambi
 \ph aklambi
@@ -2150,14 +2148,14 @@
 \ps n
 \sn
 \ge news
-\sd TN_II.B.2
+\sd 3.5.1.4.3
 \de tidings
 \bw Akan fi:amanɩɛ LLHH
 \xv Ɔfɔɔ amʋ ɔbɛɛ, mʋ amandɩɛ mɛ?
 \xe The stranger he said, his news was what?
 \xe What was the stranger's news?
 \rf Tape:1-1-416
-\dt 11/Jun/2014
+\dt 18/May/2016
 
 \lx amandɩɛ
 \hm 2
@@ -2179,11 +2177,11 @@
 \ps n
 \sn
 \ge news
-\sd TN_II.B.2
+\sd 3.5.1.4.3
 \de news, matters
 \xv Amansʋ ntra blɩ?
 \xe What other matters should I talk again.
-\dt 11/Jun/2014
+\dt 18/May/2016
 
 \lx Amen
 \ph amen
@@ -2441,7 +2439,7 @@
 \ps n
 \sn
 \ge rebuke
-\sd TN_II.B.2
+\sd 3.5.1.8.1
 \sd TN_II.E.4.b
 \de rebuked
 \nt straight Akan
@@ -2449,7 +2447,7 @@
 \nt ka in Akan is also say
 \xv Nɛka mʋ anim.
 \xe I rebuked him.
-\dt 30/Sep/2015
+\dt 18/May/2016
 
 \lx ankasa
 \ph aŋkásá(H)
@@ -2696,7 +2694,8 @@
 \ps INTJ
 \sn
 \ge OK
-\sd TN_II.B.2
+\sd 3.5.1.5.1
+\sd 3.2.5.4
 \sd TN_I.B.3
 \sd TN_I.C.1.f
 \de OK
@@ -2706,8 +2705,10 @@
 \rf Tape:8-2-046
 \xv Aoo, ba ayɔ.
 \xe OK, come and let us go.
-\nt Aoo is more frequently heard in the Northern dialect but is declining in usage
-\dt 01/May/2016
+\cf yoo
+\ce OK
+\cn Aoo is more frequently heard in the Northern dialect but is declining in usage
+\dt 18/May/2016
 
 \lx apa
 \ph apá
@@ -3095,8 +3096,7 @@
 \ps n
 \sn 1
 \ge meaning
-\sd TN_II.B.1
-\sd TN_II.B.2
+\sd 3.5.8.1
 \de meaning
 \rf Tape:1-1-586
 \xv Mʋ asʋn amʋ asɩ mɛ?
@@ -3112,7 +3112,7 @@
 \rf Tape:1-1-588
 \cf obi
 \ce child
-\dt 02/Nov/2015
+\dt 18/May/2016
 
 \lx asɩ
 \hm 2
@@ -3255,22 +3255,22 @@
 \ps n
 \sn
 \ge certain word
-\sd TN_II.B.2
+\sd 3.5.3.1
 \de a certain word
 \nt from asʋn kʋ
-\dt 12/Jun/2014
+\dt 18/May/2016
 
 \lx asʋasʋn
 \ph asʊasʊ̃ (L)
 \ps n
 \sn
 \ge nothing
-\sd TN_II.B.2
+\sd 3.4.1.4.6
 \de absence of any case or problem
 \nt contraction of "asʋn-asʋn"
 \xv Nɔyɔ Nkran, mʋʋ anɩ pɩ amʋ́ʋ́ bʋbʋ Nkran amʋ bɛfɩtɛ mɩ bɛɛ, "Amansʋ bʋ woyi?" Nɛbla amʋ́ ánɩ́ asʋasʋn ma woyi.
 \xe I went to Accra, then our people in Accra asked me, "Is there any news at home?" I told them there is no case at home.
-\dt 01/Oct/2015
+\dt 18/May/2016
 
 \lx asʋbwi
 \ph asʊbwi
@@ -3310,7 +3310,7 @@
 \ps n
 \sn
 \ge word
-\sd TN_II.B.2
+\sd 3.5.3.1
 \de word
 \rf Tape:1-2-036
 \cf kɩta asʋn
@@ -3322,30 +3322,30 @@
 \xe (I won't want trouble for myself) I won't borrow trouble. A case is in the bush; they don't take a rope and drag it to the house.
 \cf nu asʋn asɩ
 \ce understand
-\dt 12/Jun/2014
+\dt 18/May/2016
 
 \lx asʋn blɩhɛ
 \ph asʊn blɪ́hɛ́ (L)
 \ps n
 \sn
 \ge spoken word
-\sd TN_II.B.2
+\sd 3.5.3.1
 \de a sentence or utterance
 \rf Tape:1-2-055
 \xv Pʋwa asʋn blɩhɛtɔ ha mɩ.
 \xe Put it in a sentence for me.
-\dt 12/Jun/2014
+\dt 18/May/2016
 
 \lx asʋnkpan
 \ph asʊŋ͡mk͡pã (H)
 \ps n
 \sn
 \ge evil words
-\sd TN_II.B.2.b.ii
+\sd 3.5.5
 \de saying words which are evil
 \xv Ɔha ánɩ́ ɔblɔ tɔkɔsɩ kɩta mʋ a, tɛblɩ asʋnkpan.
 \xe A person who gets angry often, says evil words.
-\dt 27/Apr/2016
+\dt 18/May/2016
 
 \lx asʋnwunhɛ
 \ph asʊnwunhɛ
@@ -3424,9 +3424,9 @@
 \ps n
 \sn
 \ge encouragement
-\sd TN_II.B.2.b.ii
+\sd 3.4.1.5
 \de encouragement
-\dt 27/Apr/2016
+\dt 18/May/2016
 
 \lx atɩkɔ
 \ph atɪ́kɔ (H)
@@ -3878,11 +3878,11 @@
 \ps n
 \sn
 \ge namesake
-\sd TN_II.B.2
+\sd 9.7.1.1
 \sd TN_II.E.1.d
 \sd TN_II.E.4.a
 \de namesake
-\dt 28/Apr/2016
+\dt 18/May/2016
 
 \lx awiaburo
 \ph awiabúro (H)
@@ -4473,7 +4473,7 @@
 \ps vi
 \sn
 \ge say
-\sd TN_II.B.2
+\sd 3.5.1
 \de say
 \nt Present
 \rf Tape:1-2-367
@@ -4517,7 +4517,7 @@
 \xv Anɩa abosum Bulu, mɛnɩ awu a, abénya nkpa ánɩ́ ɩtamata Bulu wa.
 \xe We say we worship God, that should we die, we will get life that never ends in heaven.
 \rf Tape:1-1-469
-\dt 01/Oct/2015
+\dt 18/May/2016
 
 \lx bɛɩn
 \ph bɛ́ɪ̃
@@ -5110,7 +5110,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge tell
-\sd TN_II.B.2
+\sd 3.5.1
 \de tell
 \rf Tape:1-2-485
 \xv Nkalɩ ɔdɛ fʋ bla?
@@ -5127,7 +5127,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-2-496
 \xv Mlɩbla mʋ mlɩaa, ɔkɛ mɛ́ɛba, sʋ ɔmakɩ mɩ ɔkpa.
 \xe You (pl) tell him I won't come tomorrow so he shouldn't expect me.
-\dt 01/Oct/2015
+\dt 18/May/2016
 
 \lx blanwɛ
 \ph blanwɛ́
@@ -5180,7 +5180,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge speak
-\sd TN_II.B.2
+\sd 3.5.1
 \de say
 \nt irregular verb see bɛɛ
 \rf Tape:4-2-267
@@ -5192,7 +5192,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I said, I say I will go to farm.
 \xe A person who gets angry often, says evil words.
 \nt From ths: words and phrases that are speech acts: bɛɛ (say), bla (tell), blɩ (speak), kpɛ mblɩ (verbally annoy), oblikpini/tɔɩ kpini (make oblique references to), kpali (sass), tɔɩ (talk), tɔɩ kpla (advise), tɔɩ nklobitɔ (mutter), tu mʋ agyɩna (whisper), tu mʋ ɔfʋ (advise), kla (inform), kla (witness, gossip), tsii (gossip about), yiyi (gossip), fɩtɛ (ask), trɛ (quarrel), tɩ (call), kpoli (call), ha mbuaɩ (answer), tsuda (respond), lɛ mʋ́ ɔnɔ (answer him), kanfʋ (praise), yula (bless), lwɩɩ (curse), sia (insult), mɔsɩ (laugh), su (cry), kʋlɩ (beg), wa ɔtɛ/ɩlʋ (tell a story or sing a song), ha yebi (give a proverb), wa afunu (tell lies), gyi nwɛn (argue), gyi nkɔmbɔ (converse), suan suna (swear), ka ntam (make an oath), sikie (forgive), mlɛ (decieve), lala (nag), bɔ mpaɩ (pray), kasʋ/kpa ɔnɔ bun (shut up)
-\dt 19/Jun/2014
+\dt 18/May/2016
 
 \lx blɩ
 \hm 2
@@ -6624,7 +6624,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge call fetish
-\sd TN_II.B.2.b.i
+\sd 4.9.4.4
+\sd 4.7.6
 \sd TN_II.B.6.a
 \de to "call fetish"; curse
 \na a combination of asking one of the gods for judgment and placing a curse
@@ -6632,7 +6633,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nada mʋ wa, ha ɔkpɩ ogyi mʋ. Ogyi mʋ́ ha anɩ.
 \xe I have called fetish on him; having the fetish judge him. He (the fetish) should judge it for us.
 \bb Stewart List:3244
-\dt 13/Jul/2014
+\dt 18/May/2016
 
 \lx dablun
 \ph dablũ(H)
@@ -7098,9 +7099,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge sweetly
 \de sweetly (spoken)
-\sd TN_II.B.2.b.i
+\sd 3.5.1.7
+\sd 3.4.1.4.4
 \bb Stewart List:1678
-\dt 27/Apr/2016
+\dt 18/May/2016
 
 \lx dɛdɛdɛdɛdɛ
 \ph dɛ́dɛ́dɛ́dɛ́dɛ́
@@ -7116,14 +7118,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge sweetly
-\sd TN_II.B.2.b.i
+\sd 3.5.1.7
+\sd 3.4.1.4.4
 \sd TN_I.C.6.b
 \de sweetly (spoken)
 \rf Tape:2-1-292
 \xv Ɔlɛblɩ mʋ asʋn dɛdɛɛdɛ, tamɛ saa ɔdɛ anɩ mlɛ.
 \xe He speaks his matter sweetly but he is only deceiving us.
 \bb Stewart List:1678
-\dt 01/Oct/2015
+\dt 18/May/2016
 
 \lx dibia
 \ph dibía
@@ -7349,7 +7352,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 2
 \ge evident
-\sd TN_II.B.2
 \sd 2.3.1.5
 \de to be evident
 \rf Tape:6-1-548
@@ -7360,7 +7362,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe A rainbow has come on the mountain, so it will not rain.
 \se dɩnka ansɩ Xsʋ
 \ge aware of X
-\sd TN_II.B.1.b
+\sd 3.1.2.1
 \de to be aware of something
 \rf Tape:2-1-340
 \xv Dɩnka ansɩ mʋ́sʋ.
@@ -7368,7 +7370,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-343
 \xv Dɩnka ansɩ wɩsʋ.
 \xe Beware of yourself.
-\dt 01/May/2016
+\dt 18/May/2016
 
 \lx dɩnkɩ
 \ph dɪ́ŋkɪ́
@@ -7809,12 +7811,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge Yes
-\sd TN_II.B.2
+\sd 9.4.6
 \sd TN_II.B.3
 \sd TN_I.C.1.f
 \de affirmative
 \va iin
-\dt 08/Jan/2014
+\vaph ĩː(H)
+\va een
+\vaph ẽː(H)
+\dt 18/May/2016
 
 \lx ee
 \hm 2
@@ -7822,11 +7827,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge Hey!
-\sd TN_II.B.2
+\sd 3.5.1.1.1
 \sd TN_II.B.3.b
 \sd TN_I.C.1.f
 \de exclamation
-\dt 01/Feb/2014
+\dt 18/May/2016
 
 \lx ekekegyiɛkɛ
 \ph ekekeʤíɔ́kɛ
@@ -8576,7 +8581,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge ask
-\sd TN_II.B.2.c
+\sd 3.5.1.5
 \de ask
 \rf Tape:2-1-537
 \xv Fɩtɛ mʋ fɛɛ alanu asʋn amʋ́ʋ́ laba amʋ?
@@ -8589,7 +8594,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt Perhaps someone has told you about some matter that concerns you but you didn't understand it all so later you go to him for a further explanation.
 \bb Stewart List:3001
 \bb Stewart List:3223
-\dt 04/Nov/2015
+\dt 18/May/2016
 
 \lx flawasɩ
 \ph fláwasɪʔ
@@ -9703,6 +9708,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge judge
+\sd 4.7.4
+\sd 3.2.2.3
 \sd TN_II.E.2.c
 \sd TN_II.E.3.b
 \de to judge a case
@@ -9736,7 +9743,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge converse
-\sd TN_II.B.2.c
+\sd 3.5.1.4
 \de to hold a conversation
 \rf Tape:2-2-232
 \xv Nɔyɔ mɩa mɩ nyawie ɔkʋ agyi nkɔmbɔ amba.
@@ -9754,7 +9761,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge argue
-\sd TN_II.B.2
+\sd 3.5.1.6.2
 \sd TN_II.E.4.b
 \de to argue
 \rf Tape:2-2-239
@@ -9796,7 +9803,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd TN_II.E.2
 \de to rule as chief
 \lt eat chieftaincy
-\dt 05/Feb/2016
+\dt 18/May/2016
 
 \lx gyi
 \hm 2
@@ -9954,12 +9961,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge halloo
-\sd TN_II.B.2
+\sd 3.5.1.4.1
 \sd TN_II.E.4.a
 \de call loudly usually "wuu"
 \xv Anɩlɔyɔ pututɔ ɩnʋ a, anɩlɔwa fɔ aba wa sʋ nogyoli mʋ.
-\xe If we are going to the bush there, we go far from our mate we call him- wuuuu.
-\dt 30/Sep/2015
+\xe If we are going to the bush there, we go far from our mate we call him.
+\dt 18/May/2016
 
 \lx gyoli
 \hm 2
@@ -11524,11 +11531,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge EXCLAM
-\sd TN_II.B.2
+\sd 3.4.1.3
 \sd TN_II.B.3.b
 \sd TN_I.C.1.f
 \de exclamation of surprise
-\dt 08/Jan/2014
+\dt 18/May/2016
 
 \lx iye ɔlɛpʋ
 \ph iye ɔlɛpʊ́
@@ -11920,7 +11927,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va da
 \ge name
-\sd TN_II.B.2
+\sd 9.7
 \de name
 \pl ada
 \plph adá (H)
@@ -11938,7 +11945,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to be famous
 \bb Stewart List:3232
 \bb Stewart List:0072
-\dt 30/Jun/2014
+\dt 18/May/2016
 
 \lx ɩdan
 \hm 1
@@ -12109,7 +12116,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge advice
 \sd TN_II.B.1
-\sd TN_II.B.2.b
+\sd 3.3.3.2
 \sd TN_II.E.3.a
 \de advice
 \bw Akan fi:always occurs with tu (afutuo)
@@ -12119,7 +12126,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Tɔɩ kpla ɔha ha atɔ wanklaan bwɛ.
 \xe Persuade somebody to do good.
 \rf Tape:5-2-360 (short version)
-\dt 22/Jun/2014
+\dt 18/May/2016
 
 \lx ɩfʋn
 \ph ɪfʊ̃
@@ -12352,23 +12359,23 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de repent
 \se lwii ɩklʋn
 \ge comfort
-\sd TN_II.B.2.b.i
+\sd 4.4.4.2
 \sd TN_II.C.5
 \sd TN_II.E.4.a
 \de to comfort someone
 \bb SIL-AWL:0082
-\dt 01/May/2016
+\dt 18/May/2016
 
 \lx ɩklʋn lwii
 \ph ɪklʊ̃lwǐː
 \ps v
 \sn
 \ge console; comfort
-\sd TN_II.B.2.b.i
+\sd 4.4.4.2
 \sd TN_II.C.5
 \sd TN_II.E.4.a
 \de comfort
-\dt 03/Nov/2015
+\dt 18/May/2016
 
 \lx ɩklʋn nya
 \ph ɪklʊ̃ɲá
@@ -13701,9 +13708,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge rebuke
-\sd TN_II.B.2
+\sd 4.8.4.1
 \de to rebuke s.o. for s.t.
-\dt 29/Oct/2013
+\dt 18/May/2016
 
 \lx ka hʋn
 \ph ka hʊ̃
@@ -13811,7 +13818,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge Shoo!
-\sd TN_II.B.2
+\sd 6.4.6
+\sd 3.5.1
+\sd 7.3.3.4
 \sd TN_II.B.3.b
 \sd TN_I.C.1.f
 \de exclamation used to chase away animals
@@ -13819,7 +13828,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce Shoo! (for fowls)
 \xv Kai!
 \xe Shoo!
-\dt 09/Nov/2015
+\dt 20/May/2016
 
 \lx kaɩn
 \ph kaɪ̃́
@@ -13983,7 +13992,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge in harmony
-\sd TN_II.B.2.c
+\sd 8.3.7.7.3
+\sd 3.2.5.4
 \sd TN_II.E.4.a
 \de to be in harmony with
 \rf Tape:3-1-380
@@ -13992,7 +14002,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-383
 \xv Mɩa mʋ nyɔ anɩlɛkan.
 \xe He and I are free with each other.
-\dt 30/Jun/2014
+\dt 18/May/2016
 
 \lx kana
 \ph kanâːʔ (L)
@@ -14096,13 +14106,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge chant
-\sd TN_II.B.2.b.ii
+\sd 4.9.5.2
+\sd 4.9.5.4
 \de to perform a traditional ceremonial act by speaking the required prayers
 \na Christians bɔ mpaɩ; traditionalists kantɩ.
 \rf Tape:3-1-428
 \xv Nɩ ɔha olebie ɔkla a, ɔha ánɩ́ otsu mʋ abusuantɔ, amʋ́ ɔkwɩɩkɛ igyi ɩkʋlɛ a, mʋ tɛkantɩ.
 \xe When a person purifies his soul, a person that comes from his family who shares the same birthday, chants.
-\dt 27/Apr/2016
+\dt 18/May/2016
 
 \lx kantɔ
 \ph kã́ntɔ́ (H)
@@ -14150,10 +14161,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge swear
-\sd TN_II.B.2
+\sd 4.7.5.7
 \sd TN_II.B.6.a
 \de to swear
-\dt 30/Jun/2014
+\dt 19/May/2016
 
 \lx kasian
 \ph kásíã́
@@ -14414,11 +14425,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge stop
-\sd TN_II.B.2
+\sd 8.4.6.1.2
 \sd TN_II.B.3.b
 \sd TN_I.C.1.f
 \de Stop that!; a warning to someone else
-\dt 08/Jan/2014
+\dt 19/May/2016
 
 \lx kɛn
 \hm 1
@@ -14451,7 +14462,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge indeed
-\sd TN_II.B.2
+\sd 9.6.3.2
 \de indeed; for sure
 \rf Tape:3-1-478
 \xv Ɩlehian ánɩ́ abówun Igna kɛn.
@@ -14459,7 +14470,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-479
 \xv Ndɛ mʋ́ ɔkpa kɩ ánɩ́ bɛ́ba kɛn.
 \xe By all means, I am expecting it. I am certain it will happen.
-\dt 29/Oct/2013
+\dt 19/May/2016
 
 \lx kɛn
 \hm 3
@@ -15062,9 +15073,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge read
-\sd TN_II.B.2
+\sd 3.5.7.3
 \sd TN_II.E.3.c
-\sd TN_II.B.2.b.i
 \sd TN_II.E.3
 \de to read a book or paper
 \rf Tape:3-2-094
@@ -15089,7 +15099,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 3
 \ge gossip
-\sd TN_II.B.2.b.i
+\sd 3.5.1.8.4
 \de to gossip about someone
 \rf Tape:3-2-105
 \xv Bʋ dɛ amʋ́ aba kla ki.
@@ -15098,12 +15108,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce gossip
 \cf tsii2
 \ce gossip
+\cf kpɛblɩ
+\ce gossip
 \ps v
 \sn 4
 \ge count
 \sd TN_II.D.5.b
 \de to count, reciting numbers
-\dt 09/Nov/2015
+\dt 19/May/2016
 
 \lx kla
 \hm 2
@@ -15111,7 +15123,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge notify
-\sd TN_II.B.2.b.ii
+\sd 3.5.2.1
+\sd 3.5.1.4.4
 \de to notify
 \xv Ɩlɔ tamakla
 \xe Sickness never notifies.
@@ -15125,7 +15138,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I will travel, so I am going to notify my friend. Perhaps he will give me a message to take to his brothers.
 \bb Stewart List:3211
 \bb Stewart List:3257
-\dt 30/Jun/2014
+\dt 19/May/2016
 
 \lx klaɛ
 \ph kláɛʔ (L)
@@ -16586,14 +16599,14 @@ cf fonflo
 \ps INTJ
 \sn
 \ge No!
-\sd TN_II.B.2
+\sd 9.4.6.1
 \sd TN_II.B.3
 \sd TN_I.C.1.f
 \de emphatic negative exclamation
 \rf Tape:3-2-470
 \xv Fɔ́yɔ Nkran? Kpao! Mmɔ́ɔyɔ!
 \xe Will you go to Accra? Never! I won't go!
-\dt 30/Sep/2015
+\dt 19/May/2016
 
 \lx kpasi
 \ph k͡pasiʔ(L)
@@ -16768,9 +16781,9 @@ cf fonflo
 \sn
 \ge gossip
 \sd TN_II.E.4.b
-\sd TN_II.B.2.b.i
+\sd 3.5.1.8.4
 \de to gossip about
-\dt 28/Jul/2013
+\dt 19/May/2016
 
 \lx kpɛfʋn
 \ph k͡pɛ́fʊ̃
@@ -16950,10 +16963,12 @@ cf fonflo
 \ph k͡piní
 \ps v
 \sn
-\ge oblique
-\sd TN_II.B.2.b.i
+\ge oblique referebce
+\sd 3.2.4.3
 \de to speak with an oblique reference
-\dt 24/Dec/2013
+\cf oblikpini
+\ce oblique reference
+\dt 19/May/2016
 
 \lx kpisi
 \ph k͡pisîː
@@ -17263,22 +17278,22 @@ cf fonflo
 \ps v
 \sn
 \ge shout
-\sd TN_II.B.2
-\sd TN_II.B.2.b.i
+\sd 3.5.1.1.1
 \de to shout loud
 \se kplʋn wa
 \ph k͡plʊ̃̂ wáʔ
 \ps vt
 \sn
 \ge curse
-\sd TN_II.B.2.b.i
+\sd 4.9.4.4
+\sd 3.5.1.1.1
 \sd TN_II.B.6.a
 \de to shout to invoke powers
 \rf Tape:4-1-016
 \xv Ɔlɔkplʋn wa ɔha amʋ; ɩlɛha ɔha amʋ lɛdɩda.
 \xe He shouted to invoke his power over the person. It made him fall down.
 \bb Stewart List:2042
-\dt 30/Jun/2014
+\dt 19/May/2016
 
 \lx kpokiti
 \ph k͡pokiti
@@ -17322,12 +17337,12 @@ cf fonflo
 \ps v
 \sn
 \ge call
-\sd TN_II.B.2
+\sd 3.5.1.4.1
 \de to call out loud
 \rf Tape:4-1-044
 \xv Ahandɛn amʋ bɔbɔ mpaɩ kpoli awie amʋ́ pʋ ɔpɔpwɛ wa amʋ́ ɩbɩtɔ.
 \xe The elders prayed and called on the ancestral chiefs, putting the new chief into their care.
-\dt 13/Jul/2014
+\dt 19/May/2016
 
 \lx kpolibi
 \ph k͡polibi
@@ -17399,13 +17414,13 @@ cf fonflo
 \ps v
 \sn 2
 \ge slander
-\sd TN_II.B.2.b.i
+\sd 3.5.1.8.4
 \sd TN_II.E.4.b
 \de to slander someone
 \rf Tape:4-1-074
 \xv Mɩ nyawie lawa afunu, blɩ asʋn lalahɛ pʋ kpɔɩ mɩ ɩwɩ.
 \xe My friend has told lies, spoken evil things, and slandered me.
-\dt 02/Nov/2015
+\dt 19/May/2016
 
 \lx kpɔlɩ
 \ph k͡pɔ́lɪ́
@@ -17499,10 +17514,11 @@ cf fonflo
 \sn 3
 \ge wink
 \sd TN_II.A.2.d
-\sd TN_II.B.2.a
+\sd 2.1.1.1
+\sd 3.5.6.3
 \de to wink the eye
 \bb SIL-AWL:0104
-\dt 17/May/2016
+\dt 19/May/2016
 
 \lx kpʋkpɛ
 \ph k͡pʊ́k͡pɛ́ (H)
@@ -18818,7 +18834,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge nag
-\sd TN_II.B.2.b.i
+\sd 3.5.1.8.5
 \sd TN_II.E.4.d
 \de to hound or nag
 \rf Tape:4-1-457
@@ -18831,7 +18847,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Don't hound me so that I should die and leave my children.
 \xe Stop hounding me to death!
 \rf Tape:4-1-461
-\dt 21/Jun/2014
+\dt 19/May/2016
 
 \lx lala
 \hm 2
@@ -19115,12 +19131,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge criticize
-\sd TN_II.B.2
+\sd 3.5.1.8
 \sd TN_II.E.4.b
 \de criticize
 \xv Mʋ́ sʋ mlɩmanya ɔblɔ abasʋ, lɛ aba la.
 \xe So don't get angry and criticize your neighbour.
-\dt 12/Jul/2014
+\dt 19/May/2016
 
 \lx lɛ mʋ́tɔ
 \ph lɛ mʊ́tɔ
@@ -19151,14 +19167,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge truly
-\sd TN_II.B.2
+\sd 9.4.4.1
 \sd 3.5.1.3.5
 \de truly
 \rf Tape:4-1-499
 \xv Nahɔ mʋ sʋ gyi, tsufɛ ɔlɛblɩ ánɩ́, ɔbɛ́ba, lɛlɛ a, alaba.
 \xe I trust him because he said he would be back and truly he has come.
 \bb Stewart List:1853
-\dt 01/May/2016
+\dt 19/May/2016
 
 \lx lɛnkɛ
 \ph lɛŋkɛ
@@ -19508,7 +19524,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge curse
-\sd TN_II.B.2.b.i
+\sd 4.9.4.4
 \sd TN_II.B.6.a
 \de to curse someone
 \nt Some people feel that to curse someone, (as in a parent telling a disobedient child- you will not prosper) is worse than calling fetish because it cannot be revoked while if you call fetish and want to revoke it you can always offer a sacrifice and undo it.
@@ -19516,7 +19532,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Ɔdandʋ amʋ ɩtɛkanfʋ Bulu amʋ a, mʋ́ kɛɩn tɔlwɩɩ aha ɛ nɩ.
 \xe This same tongue that always praises God, is the same one that also curses people.
 \bb Stewart List:3244
-\dt 16/Jun/2014
+\dt 19/May/2016
 
 \lx ma
 \hm 1
@@ -19524,7 +19540,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps PRO
 \sn
 \ge who?
-\sd TN_II.B.2
+\sd 9.2.3.2
 \de who?
 \cf ma nɩ mɩ nɩ
 \ce early evening
@@ -19536,7 +19552,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Who owns this ball?
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which one), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \bb Stewart List:1606
-\dt 05/Nov/2015
+\dt 19/May/2016
 
 \lx ma
 \hm 2
@@ -19990,14 +20006,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge answer
-\sd TN_II.B.2.c
+\sd 3.5.1.5.1
 \de answer to a question/reply
 \xv Alafɩtɛ fʋ asʋn, ha mʋ mbuaɛ.
 \xe He has asked you a question, give him an answer.
 \rf Tape:4-2-145
 \xv Mbuaɛ amʋ faha fʋ sɩ amʋ ma alɛ.
 \xe The reply that you gave your father is not good.
-\dt 22/Jun/2014
+\dt 19/May/2016
 
 \lx mbusuo
 \ph mbusuo
@@ -20476,6 +20492,16 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Nyankpʋ tswie brɛ a, aha mmuatse tɛbla ɔsasʋ.
 \xe In rainy season people's backyards quickly get full of weeds.
 \dt 22/Jun/2014
+
+\lx mobaɩl
+\ph mobaɪl
+\ps n
+\sn
+\ge mobile phone
+\de mobile telephone
+\cf ɔfɛtɩ
+\ce landline telephone
+\dt 19/May/2016
 
 \lx mondo
 \ph móndó
@@ -21771,12 +21797,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 3
 \ge news
-\sd TN_II.B.2
+\sd 3.5.2.2
 \de news
 \rf Tape:5-1-156
 \xv Nanu mʋ nka ánɩ́ ɔba.
 \xe I have heard news of him that he should come.
-\dt 02/Nov/2015
+\dt 19/May/2016
 
 \lx nkalɩ
 \ph ŋkálɪ
@@ -21913,7 +21939,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge message
-\sd TN_II.B.2
+\sd 3.5.2.2
 \de message
 \xv Bapʋ nkla sɩsɩ mɩ ánɩ́ mba.
 \xe They sent me a message that I should come.
@@ -21921,7 +21947,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Nótu ɔkpa, sʋ nɛyɛkla mɩ nyawie amʋ. Fialɩ ɔbɔ́pʋ nkla ha mɩ nɔ́pʋ ya mʋ apio.
 \xe I will travel, so I am going to notify my friend. Perhaps he will give me a message to take to his brothers.
 \bb Stewart List:0027
-\dt 04/Jul/2014
+\dt 19/May/2016
 
 \lx nkla
 \hm 2
@@ -21941,14 +21967,15 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge mutter
-\sd TN_II.B.2.b.i
+\sd 2.3.2.5
+\sd 3.5.1.1.2
 \de say under your breath, not intended for others to hear
 \rf Tape:5-1-217
 \xv Kebi amʋ dɛtɔɩ nklobitɔ.
 \xe The child is talking to himself under his breath.
 \cf agyɩna
 \ce whisper
-\dt 01/Feb/2014
+\dt 19/May/2016
 
 \lx nkonto
 \ph ŋkõnto
@@ -21995,7 +22022,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge conversation
-\sd TN_II.B.2.c
+\sd 3.5.1.4
 \de conversation
 \rf Tape:5-1-221
 \xv gyi nkɔmbɔ
@@ -22003,7 +22030,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:5-1-226
 \xv Nɔyɔ mɩa mɩ nyawie ɔkʋ agyi nkɔmbɔ amba.
 \xe I'm going to converse with my friend and come back.
-\dt 04/Jul/2014
+\dt 19/May/2016
 
 \lx nkɔmbɔ
 \hm 2
@@ -23085,7 +23112,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn 1
 \ge argument
-\sd TN_II.B.2
+\sd 3.5.1.6
 \sd TN_II.E.4.b
 \de argument; debate
 \ng occurs with gyi "to eat"
@@ -23106,8 +23133,8 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \de to compete
 \xv Bʋsrɩ nwɛnsʋ.
 \xe They are competing in a race.
-\va nwɛn
-\dt 05/Nov/2015
+\sd 4.3.4.3.1
+\dt 19/May/2016
 
 \lx nwɛn atɔ
 \ph ŋʷɛ̃́ atɔ́
@@ -23974,13 +24001,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps INTJ
 \sn
 \ge No
-\sd TN_II.B.2
+\sd 9.4.6.1
 \sd TN_II.B.3
 \sd TN_I.C.1.f
 \de No
 \xv Fʋ ee! ɩbwɛ ee! fʋ o-o! ɩbwɛ o-o!
 \xe Your yes should be yes, your no should be no.
-\dt 08/Jan/2014
+\dt 19/May/2016
 
 \lx obebuni
 \ph obebuniʔ
@@ -24194,7 +24221,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge oblique reference
-\sd TN_II.B.2.b.i
+\sd 3.2.4.3
 \de to say something to person B intending that person A should overhear
 \ng can be separated and used as a verb
 \nt usually but not always used with a negative connotation.
@@ -24207,7 +24234,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I spoke indirectly and pierced my husband.
 \xv Ɔha ánɩ́ ɔtɛblɩ oblikpini wɔ aha a, ofupʋ ogyi.
 \xe Anyone that makes oblique references about people is a coward.
-\dt 09/Nov/2015
+\dt 19/May/2016
 
 \lx oblufo
 \ph oblufoʔ
@@ -25251,14 +25278,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge meddle
-\sd TN_II.B.2
+\sd 4.3.4.6
 \sd TN_II.E.4.b
 \de meddle
 \xv Akosuakuma bʋ okengye dʋbɩ.
 \xe Akosuakuma meddles too much.
 \xv Atsɩ akʋ bʋbʋ okengye dʋbɩ.
 \xe Some women meddle too much.
-\dt 04/Jul/2014
+\dt 19/May/2016
 
 \lx okeyi
 \ph okeyíʔ
@@ -25454,13 +25481,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge Nkonya
 \sd TN_II.E.1.b
-\sd TN_II.B.2
+\sd 9.7.1.5
 \de an ethnic Nkonya person
 \pl Nkonyafɔ
 \plph ŋkuɲáfɔ
 \xv Nkonyafɔ bʋ tegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋ tegyi abitɛpʋ klɛ.
 \xe Nkonyas inherit their fathers' possessions, but Ashantis inherit their maternal uncle's.
-\dt 08/Jan/2014
+\dt 19/May/2016
 
 \lx okpebetsu
 \ph ok͡pebet͡suʔ
@@ -27935,7 +27962,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge language
-\sd TN_II.B.2
+\sd 3.5.3
 \de language, speech, talking
 \va ɛblɩ
 \ve South
@@ -27943,7 +27970,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nkonya ɔblɩ gyi ɔtsan ha Nhuan.
 \xe The Nkonya language is different from Ewe.
 \bb Stewart List:1483
-\dt 14/Aug/2013
+\dt 19/May/2016
 
 \lx ɔblɩ
 \hm 2
@@ -28046,7 +28073,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge messenger
 \sd TN_II.E.1.a
-\sd TN_II.B.2
+\sd 3.5.2.2
 \de messenger
 \pl abɔpʋ
 \plph abɔpʊ
@@ -28058,7 +28085,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_II.B.6.b
 \sd TN_II.B.6.c
 \de angel
-\dt 08/Jan/2014
+\dt 19/May/2016
 
 \lx ɔbrafɔ
 \ph ɔbráfɔ
@@ -28760,7 +28787,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge telephone
-\sd TN_II.B.2.c
+\sd 3.5.9.2
 \de telephone
 \nt Made mostly obsolete with mobile phones.
 \cf ɔfɛ
@@ -28768,7 +28795,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce tɩ
 \ce call
 \ce telephone
-\dt 16/Jun/2014
+\cf mobaɩl
+\ce mobile phone
+\dt 19/May/2016
 
 \lx ɔfɩtɛkpa
 \ph ɔfɪtɛ́k͡pá
@@ -29082,6 +29111,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge gong-gong
+\sd 3.5.1.2.1
 \sd TN_II.E.2
 \sd TN_II.E.5.a
 \sd TN_II.E.5.d.i
@@ -29091,15 +29121,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-404
 \xv Bʋdɛ ɔkan da tɩ anɩ bɛɛ abéfia dɩnsʋ.
 \xe They are beating gong-gong, inviting us to the durbar ground.
-\dt 30/Jun/2014
+\dt 19/May/2016
 
 \lx ɔkanda
 \ph ɔkanda(H)
 \ps n
 \sn
 \ge announcement
-\sd TN_II.B.2
-\sd TN_II.B.2.b.i
+\sd 3.5.1.2.1
 \de to make something publicly known
 \cf ɔkan
 \ce gong-gong
@@ -29107,7 +29136,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce hit
 \xv Bʋdɛ anɩ Mateo ɔwʋlʋ ɔnwalɛ amʋ ɔkan da.
 \xe They are announcing the lunching of our book of Matthew.
-\dt 09/Nov/2015
+\dt 19/May/2016
 
 \lx ɔkandɩɛ
 \ph ɔkandɪ́ɛ́
@@ -29962,11 +29991,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge warn
-\sd TN_II.B.2.b.ii
+\sd 3.3.3.7
 \de to warn
 \xv Nyebi ɔlada tsu otuatɔ plei ɩwɩ ɩbʋ alɛ, tsufɛ otua tɔmɔ aha.
 \xe Warning children about playing with gun is good, because gun kills people.
-\dt 12/Jul/2014
+\dt 19/May/2016
 
 \lx ɔlaku
 \ph ɔláku
@@ -30274,8 +30303,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge voice
-\sd TN_II.B.2
-\sd TN_II.B.2.b
+\sd 3.5.1.1
 \de voice
 \rf Tape:6-1-096
 \xv Nyebi amʋ basu pin ɔmɛ.
@@ -30286,7 +30314,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 3
 \ge teachings
 \sd TN_II.B.1
-\sd TN_II.B.2
+\sd 3.6.3
 \de the things one habitually says
 \xv Kebi fónu fʋ akwɩɩpʋ ɔmɛ a, ɩbʋ alɛ ɩtamapian fʋ.
 \xe If a child hears the voice of his parents it is good, you don't suffer.
@@ -30294,7 +30322,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-101
 \bb Stewart List:0061
 \bb SIL-AWL:0025
-\dt 05/Feb/2016
+\dt 19/May/2016
 
 \lx ɔmɛ
 \hm 2
@@ -30396,10 +30424,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge what woman
 \sd TN_II.E.1.a
-\sd TN_II.B.2
 \de what sort of woman
 \nt Obsolete
-\dt 08/Jan/2014
+\dt 19/May/2016
 
 \lx ɔmɛwʋlɩ
 \ph ɔmɛwʊ́lɪ
@@ -30482,9 +30509,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge certain one
-\sd TN_II.B.2.b
+\sd 9.2.3.2
 \de the one
-\dt 11/Jul/2014
+\dt 19/May/2016
 
 \lx ɔmʋa
 \ph ɔmʊ́á
@@ -30510,9 +30537,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps DEIC
 \sn
 \ge the one that
-\sd TN_II.B.2.b
+\sd 9.2.3.2
 \de the one who
-\dt 11/Jul/2014
+\dt 19/May/2016
 
 \lx ɔna
 \hm 1
@@ -30740,7 +30767,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge speech
-\sd TN_II.B.2
+\sd 3.5.1
 \de speech
 \rf Tape:6-1-200
 \xv Kɩ fʋ ɔnɔ.
@@ -30802,7 +30829,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-188
 \xv Anɩ asʋn amʋ ɔnɔ mɔtɔ pɛ, mʋʋ oyin amʋ lɛba a.
 \xe Just as our matter finished, then the man came.
-\dt 11/Nov/2015
+\dt 19/May/2016
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
@@ -30824,7 +30851,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge truth
-\sd TN_II.B.2
+\sd 3.5.1.3
 \de truth
 \rf Tape:6-1-216
 \xv Ɔnɔkwalɩ blɩ bʋ ɔnlɩn tamɛ mʋ́ tɔpʋ iwilwii ba.
@@ -30833,7 +30860,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔbʋ ɔnɔkwalɩ ɔtamawa afunu.
 \xe He is truthful; he doesn't tell lies.
 \bb Stewart List:1484
-\dt 12/Jul/2014
+\dt 19/May/2016
 
 \lx ɔnɔkwalɩpʋ
 \ph ɔnɔkwalɪpʊ
@@ -33239,11 +33266,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge lose voice
 \sd TN_II.A.6.b
-\sd TN_II.B.2.b.i
+\sd 3.5.1.1
 \de lose your voice
 \xv Mʋ ɔmɛ lapin, tsufɛ alakplʋn dʋbɩ.
 \xe He lost his voice because he has shouted too much.
-\dt 19/Jun/2014
+\dt 19/May/2016
 
 \lx pina
 \ph pina
@@ -33871,11 +33898,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge soothe
-\sd TN_II.B.2.b.i
+\sd 3.4.1.2.2
 \sd TN_II.C.5
 \sd TN_II.E.4.a
 \de soothe
-\dt 01/Jul/2014
+\dt 20/May/2016
 
 \lx pɔpwɛ
 \ph pɔ́pwɛʔ(L)
@@ -35618,7 +35645,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge errand
-\sd TN_II.B.2
+\sd 4.5.4.3
+\sd 6.9.2
 \sd TN_II.E.4.c
 \de errand
 \pl asumbi
@@ -35630,7 +35658,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ sumbi lehian fʋ a, wa mɩ.
 \xe If an errand is necessary for you, send me.
 \bb Stewart List:0410
-\dt 12/Jul/2014
+\dt 20/May/2016
 
 \lx sumbi ɔyɔpʋ
 \ph sumbí ɔyɔpʊ́
@@ -35943,12 +35971,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge shout
-\sd TN_II.B.2
-\sd TN_II.B.2.b.i
+\sd 3.5.1.1.1
+\sd 3.3.3.7
 \de to exclaim loudly
 \xv sʋra okitikiti
 \xe exclaim loudly; raise alarm
-\dt 07/Nov/2015
+\dt 20/May/2016
 
 \lx sʋrama
 \ph sʊramá
@@ -36050,7 +36078,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps INTJ
 \sn
 \ge shoo!
-\sd TN_II.B.2
+\sd 6.4.6
+\sd 3.5.1
 \sd TN_II.B.3.b
 \sd TN_I.C.1.f
 \de exclamation used to chase away birds
@@ -36062,7 +36091,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf kai
 \ce shoo!
 \va swɩ
-\dt 09/Nov/2015
+\dt 20/May/2016
 
 \lx swie
 \hm 1
@@ -36116,7 +36145,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps INTJ
 \sn
 \ge Shoo!
-\sd TN_II.B.2
+\sd 6.4.6
+\sd 7.3.3.4
 \sd TN_II.B.3.b
 \sd TN_I.C.1.f
 \de exclamation used to chase away fowls
@@ -36125,7 +36155,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Swɩ!
 \xe Shoo!
 \va swɛ
-\dt 09/Nov/2015
+\dt 20/May/2016
 
 \lx swɩɩ
 \ph swɪ̌ː
@@ -36168,9 +36198,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 5
 \ge deny falsely
-\sd TN_II.B.2
+\sd 3.5.2.4
 \de to deny falsely
-\dt 11/Nov/2015
+\dt 20/May/2016
 
 \lx ta
 \ph tá
@@ -36744,13 +36774,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge against
-\sd TN_II.B.2.b.ii
+\sd 3.5.1.8
 \de against
 \bw Akan fi:tia
 \bw Akan fi:see kpini
 \xv Pʋ fʋ asʋn ya, matɔɩ tian Kakraba, tsufɛ ɔmɔkʋ wa fʋ ɔnɔ.
 \xe Take your matter go, don't talk against Kakraba, because he has not talked to you.
-\dt 27/Apr/2016
+\dt 20/May/2016
 
 \lx tiapʋ
 \ph tiapʊ
@@ -36914,7 +36944,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge call
-\sd TN_II.B.2
+\sd 3.5.1.4.1
 \de call
 \rf Tape:7-1-510
 \xv Tɩ oyin amʋ ha mɩ.
@@ -36923,7 +36953,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Osunapʋ amʋ lɛtɩ sukuufɔ abi amʋ fɛ́ɛ́ ada kɩ amʋ́tɔ odua mɛba.
 \xe The teacher called all the school children's names to see who didn't come.
 \bb Stewart List:3224
-\dt 13/Jul/2014
+\dt 20/May/2016
 
 \lx tɩa
 \ph tɪ́á(H)
@@ -36987,7 +37017,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to behead a person
 \se tɩn ɔnɔ
 \ge excuse
-\sd TN_II.B.2.c
+\sd 4.8.4.7
 \sd TN_II.E.2.c
 \sd TN_II.E.4.b
 \de to make a false excuse
@@ -36997,7 +37027,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I don't want to go to the communal labour. I want to go the farm so I pretended to have an errand to make an excuse to go to the farm.
 \xv Mapʋ kebi amʋ tɩn ɔnɔ, ba ayɔ.
 \xe Don't use your child as a false excuse, let's go.
-\dt 17/Apr/2016
+\dt 20/May/2016
 \bb Stewart List:3276
 
 \lx tɩn
@@ -37022,13 +37052,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 3
 \ge obvious
-\sd TN_II.B.2
+\sd 3.2.3.1
 \sd 3.2.4.2
 \de to be obvious
 \ps vi
 \sn 4
 \ge understandable
-\sd TN_II.B.2
+\sd 3.2.4.2
 \sd 3.5.1.1.7
 \de to be understandable
 \xv Mʋ Nkonya ɔblɩ mɛtɩn.
@@ -37040,7 +37070,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I have come to see the matter clearly.
 \rf Tape:7-1-540
 \rf Tape:7-1-543
-\dt 01/May/2016
+\dt 20/May/2016
 
 \lx tɩn adɛndɛ
 \ph tɪ̃ adɛndɛ(H)
@@ -37219,13 +37249,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge the only thing
-\sd TN_II.B.2.b
+\sd 3.1.2.2
 \de nothing again
 \lf Compound = ɩtɔ kua kʋlɛ
 \lt thing only one
 \xv Tokukʋlɛ gyi abɛ́kɩ ánɩ́ nyebi bayɔ ndɔtɔ.
 \xe The only thing is, we have to see to it that the children go to farm.
-\dt 11/Jul/2014
+\dt 20/May/2016
 
 \lx tomantosi
 \ph tomántosi
@@ -37272,7 +37302,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge report
-\sd TN_II.B.2.b.ii
+\sd 3.5.1.8
+\sd 4.8.2.7
 \de inform on someone; to tattle on
 \rf Tape:7-1-585
 \xv Mɩ ba agyuma ɔyɔpʋ amʋ latɔ mɩ ha anɩ ɔhandɛ.
@@ -37285,7 +37316,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd TN_I.C.1.d
 \sd TN_II.A.6.a
 \de to die (Euphemism)
-\dt 06/Nov/2015
+\dt 20/May/2016
 
 \lx tɔ
 \hm 2
@@ -37334,7 +37365,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge talk
-\sd TN_II.B.2
+\sd 3.5.1.2
 \de talk
 \rf Tape:7-1-595
 \xv Nyebi amʋ bʋdɛtɔɩ dʋbɩ, bla amʋ́ abʋkasʋ.
@@ -37355,7 +37386,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe speech
 \bb Stewart List:1481
 \bb Stewart List:3225
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx tɔɩ kpla
 \ph tɔ́ɪ́ k͡plá(H)
@@ -37420,7 +37451,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If pepper is not in the food it is not easy to eat.
 \se gyɔɩ tɔnsɩ
 \ge gossip
-\sd TN_II.B.2.b.i
+\ge harvest
+\sd 3.5.1.8.4
 \sd TN_II.E.4.b
 \de to gossip about someone
 \xv Atsɩ amʋ bʋdɛ tɔnsɩ gyɔɩ.
@@ -37428,7 +37460,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Free: The women are gossiping.
 \rf Tape:7-1-023
 \nt used as an idiom for gossiping
-\dt 23/Jun/2014
+\dt 19/May/2016
 
 \lx tɔnsɩ kwɛbwi
 \ph tɔnsɪ́ kwɛ́bwí
@@ -37798,13 +37830,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge draw a line
-\sd TN_II.B.2
 \sd TN_II.E.3.c
 \de to draw a line
 \rf Tape:7-2-203
 \xv Oyin amʋ latsan laɩn amʋ tswii.
 \xe The man has drawn the line straight.
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx tsan
 \hm 2
@@ -38298,7 +38329,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge gossip
-\sd TN_II.B.2.b.i
+\sd 3.5.1.8.4
 \sd TN_II.E.4.b
 \de to gossip about someone
 \xv Bʋtamalɩɩ isinsʋ tsii kpasi.
@@ -38312,7 +38343,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce gossip
 \cf yiyi2
 \ce gossip
-\dt 09/Nov/2015
+\dt 19/May/2016
 
 \lx tsii opuni
 \ph t͡síː opúni
@@ -38598,14 +38629,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge shout down
-\sd TN_II.B.2
-\sd TN_II.B.2.b.i
-\sd TN_II.B.2.b.ii
+\sd 3.5.1.1.1
+\sd 3.5.1.8.3
+\sd 3.2.5.2
 \de to shout disbelief at someone
 \rf Tape:7-2-428
 \xv Aha amʋ fɛ́ɛ́ botsoo mʋ "Woo!!"
 \xe All the people shouted, "Woo!!" (We don't believe that.)
-\dt 21/Jun/2014
+\dt 20/May/2016
 
 \lx tsɔ
 \hm 1
@@ -38819,7 +38850,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge respond
-\sd TN_II.B.2.c
+\sd 3.5.1.5.1
+\sd 9.1.2.2
 \de to respond to someone
 \va tsuda
 \ve North
@@ -38835,7 +38867,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge agree
 \sd TN_II.B.1
-\sd TN_II.B.2.c
+\sd 3.2.5.4
 \sd TN_II.E.4.c
 \de to agree to someone's proposal
 \rf Tape:7-2-458
@@ -38845,7 +38877,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Natsula ánɩ́ ɔyɔ, tamɛ ɔyɔ a, ɔwa ɔsa ba.
 \xe I have agreed that he should go but he should go and come quickly.
 \bb Stewart List:2961
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx tsutsu
 \ph t͡sút͡sú
@@ -39178,14 +39210,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge advise
-\sd TN_II.B.2.b
+\sd 3.5.1.2.8
+\sd 3.3.3.7
 \de to advise
 \nt The equivalent of "tu ɔfʋ" in Nkonya is "tɔɩ kpla".
 \bw Akan fi:tu fʋ
 \rf Tape:7-2-570
 \xv Ototu amʋ́ ɔfʋ.
 \xe He always advised them.
-\dt 16/Nov/2013
+\dt 20/May/2016
 
 \lx tua
 \hm 1
@@ -39510,7 +39543,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2a
 \ge send
-\sd TN_II.B.2
+\sd 7.3.3.3
 \sd TN_II.E.4.c
 \de to send someone to do something
 \rf Tape:8-1-146
@@ -39527,7 +39560,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 4
 \ge tell
-\sd TN_II.B.2
+\sd 3.5.1
 \de to make some types of speech acts
 \se wa ɩlʋ
 \ge sing
@@ -39539,7 +39572,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:2045
 \se wa ɔtɛ
 \ge tell story
-\sd TN_II.B.2
+\sd 3.5.4.1
 \de to tell a story
 \rf Tape:8-1-129
 \xv Ɔlɔwa ɔtɛ.
@@ -39577,7 +39610,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-174
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx wa bɩ
 \ph wá bɪ
@@ -39774,14 +39807,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge write
-\sd TN_II.B.2
+\sd 3.5.7.1
 \sd TN_II.E.3.c
 \de write
 \rf Tape:8-1-227
 \xv Alawanlɩn ɔwʋlʋ sɩsɩ mɩ.
 \xe He has written a letter and sent it to me.
 \bb Stewart List:3237
-\dt 12/Jul/2014
+\dt 20/May/2016
 
 \lx wanlɩn
 \hm 2
@@ -40053,13 +40086,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge hurt with words
-\sd TN_II.B.2.b.i
+\sd 3.5.1.8
 \sd TN_II.E.4.d
 \de hurt with words
 \de to say something hurtful with words
 \xv Nɛblɩ oblikpini wɔ mɩ kulu.
 \xe I spoke indirectly and hurt my husband.
-\dt 28/Apr/2016
+\dt 20/May/2016
 
 \lx wɔfa
 \ph wɔfa
@@ -40368,16 +40401,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge grumble
-\sd TN_II.B.2
-\sd TN_II.B.2.b.i
-\sd TN_II.B.2.b.ii
+\sd 3.5.1.8.5
 \de to grumble
 \ps v
 \sn 2
 \ge hum
-\sd TN_II.B.2.b.i
+\sd 2.3.2.3
+\sd 4.2.3.3
 \de to hum
-\dt 03/Nov/2015
+\dt 20/May/2016
 
 \lx wunya
 \ph wúɲa
@@ -40474,9 +40506,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge themselves only
-\sd TN_II.B.2.b
+\sd 3.5.1.1.5
 \de only themselves
-\dt 11/Jul/2014
+\dt 20/May/2016
 
 \lx wʋlɩ
 \hm 1
@@ -40844,7 +40876,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge proverb
-\sd TN_II.B.2
+\sd 3.2.5.4
 \de proverb
 \pl ayebi
 \plph ayébi
@@ -40857,7 +40889,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va ɩbɛ
 \ve North
 \nt ɩbɛ is borrowed from Akan
-\dt 30/Jun/2014
+\dt 20/May/2016
 
 \lx yɛ
 \hm 1
@@ -41270,7 +41302,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge gossip
-\sd TN_II.B.2.b.i
+\sd 3.5.1.8.4
 \de gossip while sitting in one place
 \rf Tape:8-1-575
 \xv Igye beyiyi aba.
@@ -41279,7 +41311,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce gossip
 \cf tsii2
 \ce gossip
-\dt 09/Nov/2015
+\dt 19/May/2016
 
 \lx yɩlɔwɩ
 \ph yɪlɔ́wɪʔ
