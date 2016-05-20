@@ -5,6 +5,12 @@
 \lngDefault vernacular
 \mkrRecord id
 
+\+mkr cf
+\nam *
+\lng vernacular
+\mkrOverThis id
+\-mkr
+
 \+mkr dt
 \nam Date
 \desc date of last edit
