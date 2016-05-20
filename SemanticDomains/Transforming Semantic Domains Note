@@ -1,0 +1,98 @@
+# Transforming TN Semantic Domain into Semdom.org
+Created Tuesday 26 April 2016 by [wes_peacock@sil.org](mailto:wes_peacock@sil.org)
+
+These are instructions for mapping Semantic Domains from Tony Naden:
+as documented in [~/work/LexicalTraining/SemDom/TNTHSHED.TXT](file:///C:/Users/Wes/work/LexicalTraining/SemDom/TNTHSHED.TXT)
+mapped to the ones from :
+/usr/share/fieldworks/Templates/Semdom.xml
+of the Fieldworks program.
+
+
+1. copy Semdom.xml from /usr/share/fieldworks/Templates/Semdom.xml to .../sd.xml
+2. Build a structure listing of the SemDom.xml
+
+∘ xmlstarlet el -u SemDom.xml
+gives lines like:
+∘ LangProject/SemanticDomainList/CmPossibilityList/Possibilities/CmSemanticDomain/SubPossibilities/CmSemanticDomain/SubPossibilities/CmSemanticDomain/Abbreviation/AUni
+
+
+3. Build a semantic domain list with each line:
+
+xmlstarlet sel -T -t -m "//CmSemanticDomain" -v "concat(Abbreviation/AUni, '|', Name/AUni, '|~')" SemDom.xml |tr '|~' '\t\n' >SDIndexName
+∘ Abbreviation<tab>Name<tab>
+this is also available at: <https://www.wiki.insitehome.org/display/DLS/RWC+Training+Materials>
+	
+
+4. • Go through the TN index adding entries to the end of the of the Flex index
+
+e.g:
+2.1.3.1<tab>Arm<tab>II.A.1.f
+That file is SDTN:
+[~/work/LexicalTraining/SemDom/SDTN](file:///C:/Users/Wes/work/LexicalTraining/SemDom/SDTN)
+
+
+5. build substitution commands for each line when TN has comma separated do one for each
+
+grep -Pv '\t$' SDTN | perl -a -F\\t -lne '@TN=split(q(,), $F[2]); foreach $tn (@TN) { print "s/TN_$tn\$/$F[0]/;";};'>/tmp/x.pl
+That assumes that the TN entries have a leading TN_, as the Nkonya database has.
+Thus,
+1.1.3<tab>Weather<tab>I.A.2,I.A.2.a,I.A.2.b,I.A.2.d
+1.1.3.1<tab>Wind<tab>I.A.2.c
+becomes (in [/tmp/x.pl](file:///C:/tmp/x.pl))
+s/TN_I.A.2$/1.1.3/;
+s/TN_I.A.2.a$/1.1.3/;
+s/TN_I.A.2.b$/1.1.3/;
+s/TN_I.A.2.d$/1.1.3/;
+s/TN_I.A.2.c$/1.1.3.1/;
+
+You can change with  the file with 
+fromdos <nklex.txt | perl -p [/tmp/x.pl](file:///C:/tmp/x.pl) -
+
+NOTE:
+The substitution commands assume that the Naden markers are at the end of the line they are on (i.e. one per line)
+
+This scheme maps all TN categories to the first in the first matching Semdom item.--TANSTAAFL
+
+You could add another script like (not debugged):
+use List::Util qw(first);
+while <> {
+$line = $_;
+if( $line =~ #/(TN_.*/)(.*)/# ) { $tn = $1;  $sd=$2}
+		
+my $index = first { $substitution[$_] eq $tn } 0 .. $#substitution;
+if ( $index )  { 
+example where existing line in @substitution is:
+s/TN_I.A.2.c$/1.1.3.1/;
+and new $sd is 
+1.2.3.1
+change the existing line to 
+s/TN_I.A.2.c$/1.1.3.1\n\\sd 1.2.3.1/; 
+else { push @substitution, $line }
+}
+print @substitutions
+
+These are TN categories that I found I had to change by hand because
+there were too many Flex semantic domains for each
+I.A.1
+I.B.2.b.i
+I.C.3.a big/small/narrow/ * a lot of these
+I.C.5 general
+II.A.1.h
+II.A.5 all having to do with bathing, cleaning circumcision hand edited
+II.B.2
+II.B.3.i
+II.B.3.ii
+II.B.5
+II.B.5.a.i * a lot of these
+II.B.5.a.ii luck power work succeed
+II.B.5.b.ii
+II.C.1
+II.C.1.a
+II.C.2.a.ii
+II.D.1.g
+II.D.2.a.ii dog/cat
+II.D.4.b
+II.D.6.h
+II.E.1.a general people
+II.E.1.c.i
+
