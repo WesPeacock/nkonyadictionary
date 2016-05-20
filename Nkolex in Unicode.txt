@@ -9404,15 +9404,19 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gegyefe
 \ph geʤefé(H)
 \ps n
-\sn
+\sn 1
 \ge hunchback
 \sd TN_II.D.2.a
 \sd TN_II.A.6.c
-\de a hunchback; hump on the back of a cow
+\de a hunchback
 \bw Ewe fi:gegyeve
 \xv Gegyefe mʋ wie tamawun mʋ ɔma gegyefe, tamɛ otowun mʋ ba klɛ.
 \xe The owner of a hunched back never sees his own hump, but he always sees his neighbours.
-\dt 08/Jan/2014
+\ps n
+\sn 2
+\ge hump
+\de hump on the back of a cow
+\dt 20/May/2016
 
 \lx gowa
 \ph gowa
@@ -16799,17 +16803,21 @@ cf fonflo
 \hm 1
 \ph k͡pɛk͡pɛ
 \ps v
-\sn
-\ge gather a little
-\sd TN_II.D.4.b
-\de gather bit by bit
+\sn 1
+\ge gather food
+\sd 6.2.5.3
+\de gather food
 \rf Tape:3-2-503
 \xv Atogyihɛ lata mɩ ndɔtɔ, sʋ nɔ́yɔ kpɛkpɛ atogyihɛ ndɛ.
 \xe The food in my farm is finished so I will gather it bit by bit today.
 \rf Tape:3-2-508
+\ps v
+\sn 2
+\ge gather
+\de gather bit by bit
 \xv Nɛkpɛkpɛ kɔba. ɩmoni a, napʋ hɔ mɩ atɔ hianhɛ.
 \xe I will slowly gather a large amount of money so that I can buy what is necessary.
-\dt 21/Jun/2014
+\dt 20/May/2016
 
 \lx kpɛkpɛ
 \hm 2
