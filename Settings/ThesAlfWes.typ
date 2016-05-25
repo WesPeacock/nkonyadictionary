@@ -126,7 +126,7 @@
 \mkr wd
 \-drf
 \+drf 
-\File C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
+\File C:\My Toolbox Projects\Nkonya\SemanticDomains\TNthesaurus2008.txt
 \mkr wd
 \-drf
 \-drflst

@@ -5,34 +5,34 @@ These are instructions for mapping Semantic Domains from Tony Naden:
 as documented in [~/work/LexicalTraining/SemDom/TNTHSHED.TXT](file:///C:/Users/Wes/work/LexicalTraining/SemDom/TNTHSHED.TXT)
 mapped to the ones from :
 /usr/share/fieldworks/Templates/Semdom.xml
+or
+"C:\Program Files (x86)\SIL\FieldWorks 8\Templates\Semdom.xml"
 of the Fieldworks program.
-
 
 1. copy Semdom.xml from /usr/share/fieldworks/Templates/Semdom.xml to .../sd.xml
 2. Build a structure listing of the SemDom.xml
 
-∘ xmlstarlet el -u SemDom.xml
+* xmlstarlet el -u SemDom.xml
 gives lines like:
-∘ LangProject/SemanticDomainList/CmPossibilityList/Possibilities/CmSemanticDomain/SubPossibilities/CmSemanticDomain/SubPossibilities/CmSemanticDomain/Abbreviation/AUni
+* LangProject/SemanticDomainList/CmPossibilityList/Possibilities/CmSemanticDomain/SubPossibilities/CmSemanticDomain/SubPossibilities/CmSemanticDomain/Abbreviation/AUni
 
 
 3. Build a semantic domain list with each line:
 
 xmlstarlet sel -T -t -m "//CmSemanticDomain" -v "concat(Abbreviation/AUni, '|', Name/AUni, '|~')" SemDom.xml |tr '|~' '\t\n' >SDIndexName
-∘ Abbreviation<tab>Name<tab>
+* Abbreviation<tab>Name<tab>
 this is also available at: <https://www.wiki.insitehome.org/display/DLS/RWC+Training+Materials>
-	
 
 4. • Go through the TN index adding entries to the end of the of the Flex index
-
 e.g:
 2.1.3.1<tab>Arm<tab>II.A.1.f
+Where multiple Naden categories map to a single FLex category separate with , no space
+1.1.3<tab>Weather<tab>I.A.2,I.A.2.a,I.A.2.b,I.A.2.d
+
 That file is SDTN:
 [~/work/LexicalTraining/SemDom/SDTN](file:///C:/Users/Wes/work/LexicalTraining/SemDom/SDTN)
 
-
 5. build substitution commands for each line when TN has comma separated do one for each
-
 grep -Pv '\t$' SDTN | perl -a -F\\t -lne '@TN=split(q(,), $F[2]); foreach $tn (@TN) { print "s/TN_$tn\$/$F[0]/;";};'>/tmp/x.pl
 That assumes that the TN entries have a leading TN_, as the Nkonya database has.
 Thus,
@@ -46,7 +46,8 @@ s/TN_I.A.2.d$/1.1.3/;
 s/TN_I.A.2.c$/1.1.3.1/;
 
 You can change with  the file with 
-fromdos <nklex.txt | perl -p [/tmp/x.pl](file:///C:/tmp/x.pl) -
+ fromdos <Nkolex\ in\ Unicode.txt | perl -p /tmp/x.pl |todos >/tmp/nklex.txt
+ (file:///C:/tmp/x.pl) -
 
 NOTE:
 The substitution commands assume that the Naden markers are at the end of the line they are on (i.e. one per line)
