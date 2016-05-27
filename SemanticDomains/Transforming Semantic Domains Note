@@ -26,35 +26,34 @@ this is also available at: <https://www.wiki.insitehome.org/display/DLS/RWC+Trai
 4. • Go through the TN index adding entries to the end of the of the Flex index
 e.g:
 2.1.3.1<tab>Arm<tab>II.A.1.f
-Where multiple Naden categories map to a single FLex category separate with , no space
+Where multiple Naden categories map to a single FLex category separate with , no space e.g.:
 1.1.3<tab>Weather<tab>I.A.2,I.A.2.a,I.A.2.b,I.A.2.d
 
-That file is SDTN:
-[~/work/LexicalTraining/SemDom/SDTN](file:///C:/Users/Wes/work/LexicalTraining/SemDom/SDTN)
+That file is SemanticDomains/SDTN.txt
 
 5. build substitution commands for each line when TN has comma separated do one for each
-grep -Pv '\t$' SDTN | perl -a -F\\t -lne '@TN=split(q(,), $F[2]); foreach $tn (@TN) { print "s/TN_$tn\$/$F[0]/;";};'>/tmp/x.pl
+grep -Pv '\t$' SemanticDomains/SDTN.txt | perl -a -F\\t -lne '@TN=split(q(,), $F[2]); foreach $tn (@TN) { print "s/TN_$tn\$/$F[0]/;";};'>/tmp/x.pl
 That assumes that the TN entries have a leading TN_, as the Nkonya database has.
 Thus,
 1.1.3<tab>Weather<tab>I.A.2,I.A.2.a,I.A.2.b,I.A.2.d
 1.1.3.1<tab>Wind<tab>I.A.2.c
-becomes (in [/tmp/x.pl](file:///C:/tmp/x.pl))
+becomes (in [/tmp/x.pl] Windows  %Temp%\x.pl)
 s/TN_I.A.2$/1.1.3/;
 s/TN_I.A.2.a$/1.1.3/;
 s/TN_I.A.2.b$/1.1.3/;
 s/TN_I.A.2.d$/1.1.3/;
 s/TN_I.A.2.c$/1.1.3.1/;
 
-You can change with  the file with 
+You can change the lexical file with: 
  fromdos <Nkolex\ in\ Unicode.txt | perl -p /tmp/x.pl |todos >/tmp/nklex.txt
- (file:///C:/tmp/x.pl) -
 
 NOTE:
-The substitution commands assume that the Naden markers are at the end of the line they are on (i.e. one per line)
+The substitution commands assume that in the lexical file, the Naden markers are
+	at the end of the \sd line they are on, i.e., one per line, no trailing spaces
 
 This scheme maps all TN categories to the first in the first matching Semdom item.--TANSTAAFL
 
-You could add another script like (not debugged):
+You could (but I don't think you want to) add another perl script like (not debugged):
 use List::Util qw(first);
 while <> {
 $line = $_;
@@ -72,8 +71,8 @@ else { push @substitution, $line }
 }
 print @substitutions
 
-These are TN categories that I found I had to change by hand because
-there were too many Flex semantic domains for each
+6. These are TN categories that I found I had to change by hand because
+	there were too many Flex semantic domains for each
 I.A.1
 I.B.2.b.i
 I.C.3.a big/small/narrow/ * a lot of these
@@ -96,4 +95,3 @@ II.D.4.b
 II.D.6.h
 II.E.1.a general people
 II.E.1.c.i
-
