@@ -95,3 +95,16 @@ II.D.4.b
 II.D.6.h
 II.E.1.a general people
 II.E.1.c.i
+
+6. Check the Semantic Domains that were changed
+The following two commands make a copy of the Lexicon with the title of each semantic domain appended on \sd fields.
+
+ perl -a -F\\t -lne 'print "s/sd $F[0]\$/sd $F[0]\\t$F[1]/;";' <SemanticDomains/SDTN.txt |tee /tmp/x.pl
+ fromdos <Nkolex\ in\ Unicode.txt |perl -p /tmp/x.pl |todos >/tmp/nklex.txt
+ 
+ You can load the /tmp/nklex.txt (c:\User\<Username>\Appdata\Local\Temp\nklex.txt) into Toolbox
+ When you find a bad entry in nklex.txt right-click to jump to the main lexicon and correct it.
+ You may also want to retreive the Nkolex with TN_ entries for comparison
+ 
+ $ git show 42bcce4:Nkolex\ in\ Unicode.txt >/tmp/nklexTN.txt
+ 42bcce4 was the last git commit with TN_ entries
