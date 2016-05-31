@@ -5057,8 +5057,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph bɪ́tɪ́(H)
 \ps v
 \sn 1
-\ge pull
-\sd 7.3.8
+\ge pull (on)
+\sd 7.3.2.8
 \de pull (on)
 \lf Idiom = bɩtɩ asʋn
 \le prolong a case
@@ -5076,14 +5076,20 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf pio
 \ce pull
 \nt pull: bɩtɩ (pull), kpʋ (pull a thread gather), tsii, tsitsii (pull out suddenly), puli (uproot)
+\cf ɩsʋbɩtɩ
+\ce punishment
+\se bɩtɩ asʋn
+\ps v
+\ge prolong
+\de delay a judgement
 \xv Ɔdɛ asʋntɔ bɩtɩ.
 \xe He is dragging out a case.
-\ps vi
 \sn 2
+\ps vi
 \ge slither
 \sd 7.3.8
 \de slither - as a snake moves
-\dt 02/Nov/2015
+\dt 01/Jun/2016
 
 \lx bɩtɩa
 \ph bɪ́tɪ́a
@@ -6416,22 +6422,23 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph bwǐː
 \ps vt
 \sn 1
-\ge open
-\sd 5.7.3
-\de open (eyes)
-\rf Tape:2-1-159
-\xv Bwii ansibi afʋkɩ atɔ wanklaan.
-\xe Open your eyes in order to see something well.
-\ps vt
-\sn 2
 \ge uncover
-\sd 7.3.8
+\sd 7.3.7.1
 \de remove the cover from something
 \xv Bwii fʋ pa nwun.
 \xe Take off your hat.
 \bb Stewart List:2771
+\se bwii ansibi
+\ph bwiː ansibi
+\ps vt
+\ge open eyes
+\sd 5.7.3
+\de to open one's eyes
+\rf Tape:2-1-159
+\xv Bwii ansibi afʋkɩ atɔ wanklaan.
+\xe Open your eyes in order to see something well.
 \ps vi
-\sn 3
+\sn 2
 \ge stand up
 \sd 7.1.1
 \de stand up after bending over
@@ -6439,7 +6446,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt bwii ɔnɔ - get translation and sentence
 \nt from ths: Open your mouth. words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
 \nt From ths: words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
-\dt 02/Nov/2015
+\dt 14/Jun/2016
 
 \lx bwiipa
 \ph bwíːpa
@@ -9129,7 +9136,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bʋtofwi ɩbɛ mɛnɩ nta amʋ bɛpaɩ.
 \xe They smoke palm trees so that the wine will ferment.
 \bb Stewart List:2824
-\dt 13/Jul/2014
+\se fwi ansɩ
+\ge shrewd
+\sd 3.2.1.3
+\de to be shrewd or clever
+\dt 03/Jun/2016
 
 \lx fwie
 \hm 1
@@ -14080,7 +14091,17 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-418
 \xv Bɛɛ abégyi nkɛ amʋ dɩnsʋ sʋ a, ayɛda kantankpa aba.
 \xe They say we will make a festive occasion at Denso, so we are going to erect a palm shelter and come.
-\dt 20/May/2016
+\dt 31/May/2016
+
+\lx kantankplama
+\ph kántáŋ͡mk͡plámá
+\ps n
+\sn
+\ge spice, k.o
+\sd 6.2.5.4
+\sd 5.2.3.3.3
+\de root ground as a spice in soup
+\dt 31/May/2016
 
 \lx kantankua
 \ph kantaŋkua
@@ -19702,14 +19723,20 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe He is sleepy. He has yawned.
 \rf Tape:4-1-586
 \xv Bʋtamamama ahatɔ.
-\xe They don't yawn in the public.
+\xe They don't yawn in public.
 \bb Stewart List:2051
+\dt 15/Jun/2016
+
+\lx mama
+\hm 3
 \ps v
-\sn 2
+\sn
 \ge squeeze
-\sd 7.3.8
+\sd 7.3.2.9
 \de to squeeze something
-\dt 06/Nov/2015
+\cf nyimɛ
+\ce squeeze
+\dt 15/Jun/2016
 
 \lx mango
 \ph máŋ!gó
@@ -29121,7 +29148,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-404
 \xv Bʋdɛ ɔkan da tɩ anɩ bɛɛ abéfia dɩnsʋ.
 \xe They are beating gong-gong, inviting us to the durbar ground.
-\dt 19/May/2016
+\se da ɔkan
+\ge proclaim
+\de to beat gong-gong; to proclaim something
+\cf ɔkan ɔdapʋ
+\dt 06/Jun/2016
+
+\lx ɔkan ɔdapʋ
+\ph ɔkã ɔdapʋ́
+\ps n
+\sn
+\ge town crier
+\de town crier; one who proclaims something.
+\dt 06/Jun/2016
 
 \lx ɔkanda
 \ph ɔkanda(H)
@@ -30522,7 +30561,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de the one
 \dt 19/May/2016
 
-\lx ɔmʋa
+\lx ɔmʋá
 \ph ɔmʊ́á
 \ps PRO
 \sn
@@ -30539,7 +30578,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:1-1-088
 \xv Ɔmʋ́a amʋ́ʋ́ ɔna ɔkpatɔ ɩnʋ amʋ ndɛ nɩ.
 \xe The one who is walking over there is the one I mean.
-\dt 17/May/2016
+\dt 14/Jun/2016
 
 \lx ɔmʋamʋʋ
 \ph ɔmʊamʊ́ː
@@ -34127,7 +34166,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to crawl on someone
 \xv Ntɔntrɔbwɩ bʋ gyi mbwɩ ánɩ́ bʋtamadun, mboun bʋtoputa aha.
 \xe Ntɔntrɔbwɩ are animals that don't bite but crawl all over people.
-\dt 03/Nov/2015
+\ps v
+\sn 4
+\ge cram
+\sd 4.2.1.7
+\de to crowd around s.o.
+\dt 07/Jun/2016
 
 \lx putu
 \ph putuʔ
@@ -36045,6 +36089,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-228
 \xv Nɩ nyankpʋ de tswie a, anɩtɔsʋta nyankpʋ ntsu wa ɔlɔ́tɔ.
 \xe When it is raining, we catch rain water and put into a pot.
+\se sʋta Xsʋ
+\ps vi
+\ge hold over
+\sd 7.3.4.4
+\de to hold something over something
 \rf Tape:7-1-234
 \xv Ɔbɔ́pʋ abatɛ amʋ sʋta onuwe amʋsʋ.
 \xe He will hold the chickens over the drinking calabash.
@@ -37266,15 +37315,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-581
 \xv Mbʋ tomantosi ndɔ kpɔnkpɔntɩ kʋ.
 \xe I have a large tomato farm.
-\dt 11/Jul/2014
-
-\lx tomatosi
-\ph tomatosí
-\ps n
-\sn
-\ge tomato
-\sd 6.2.1.2
-\de tomato
 \dt 11/Jul/2014
 
 \lx tɔ
