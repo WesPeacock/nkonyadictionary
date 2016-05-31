@@ -290,13 +290,13 @@
 \ps n
 \sn
 \ge seed mushroom
-\sd 6.4.4
+\sd 6.2.5.3
 \sd 1.5.4
 \de seed mushroom
 \rf Tape:1-2-210
 \xv Abi atsulii tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
-\dt 29/Sep/2015
+\dt 31/May/2016
 
 \lx abialɛ
 \ph abialɛ́(H)
@@ -799,13 +799,13 @@
 \ps n
 \sn
 \ge wide-headed mushroom
-\sd 6.4.4
+\sd 6.2.5.3
 \sd 1.5.4
 \de wide-headed mushroom
 \rf Tape:1-2-150
 \xv Afio, mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋswɩ. Ɩtɔwa ɔdwɛ oputsutɔ. Bʋtɛkaka mʋ́ wa oputsutɔ. Ɩtɔkwɛ sinsʋ.
 \xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in an termite mound.
-\dt 22/Jul/2014
+\dt 31/May/2016
 
 \lx afɩnɩ
 \ph afɪnɪ(H)
@@ -3703,7 +3703,7 @@
 \ps n
 \sn
 \ge mushroom
-\sd 6.4.4
+\sd 6.2.5.3
 \de mushroom
 \xv Bʋtɔpʋ atsulii lɛ oputsu, mʋ́ oputsu tɔwa ɔdwɛ. Ɩkʋ tɔkwɛ ɔsʋlʋsʋ, ɩkʋ ɛ tɔkwɛ ɔbɛ oyi ánɩ́ bapuli mʋ́ tswɩ, laplɔ pʋ oyi plɔhɛsʋ. Bʋtegyi kʋ, ɩkʋ ɛ bʋtamagyi.
 \xe If they take mushrooms and put them in soup the soup is sweet. Some sprout from the ground, some grow on palm trees that they have uprooted and are lying down and have rotted, and other rotting trees. Some are eaten and some are not eaten.
@@ -3739,21 +3739,21 @@
 \xv Kplokplobi tɔkwɛ oyi plɔhɛsʋ. Ɩbʋ ɔplɩ, bʋtamakwɛ mʋ́. Mʋ́a abɛ oputsu bʋ ɔdwɛ dʋbɩ.
 \xe Kploklobi grows in rotting trees, It is slippery; they never grind it. It is very good with palm nut soup.
 \bb Stewart List:0872
-\dt 29/Sep/2015
+\dt 31/May/2016
 
 \lx atsulii bibi
 \ph at͡sulîbibi
 \ps n
 \sn
 \ge mushroom, k.o.
-\sd 6.4.4
+\sd 6.2.5.3
 \sd 1.5.4
 \de black mushroom
 \xv Atsulii bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe Black mushrooms grow in rotting trees, They are black. You can grind them and put them in soup. Their soup is sweet.
 \nt roots not in the tree but around it. -FO
 \rf Tape:1-2-186
-\dt 29/Sep/2015
+\dt 31/May/2016
 
 \lx atsʋnlɛ
 \ph at͡sʊ́nlɛ
@@ -7024,13 +7024,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge mushroom, k.o.
-\sd 6.4.4
+\sd 6.2.5.3
 \sd 1.5.4
 \de monkey ear mushroom
 \rf Tape:1-2-178
 \xv Deyi asʋ tɔkwɛ oyi plɔhɛsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Igyi putuputu, ɩlofuli. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
 \xe Monkey ears grows in rotten trees. You can grind it and put it in soup. It is small and white. It is sweet in palm nut soup.
-\dt 08/Jan/2014
+\dt 31/May/2016
 
 \lx dɛ
 \hm 1
@@ -11276,7 +11276,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 1
 \ge termite mound
-\sd 6.4.4
+\sd 6.2.5.3
 \de termite mound
 \xv Ababa bʋtɔpwɛ isin tsia mʋ́tɔ, bʋtɔkwɛ atɛ.
 \xe Termites sculpt mounds and live in it. They sprout wings.
@@ -11294,7 +11294,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 1.2.2.2
 \sd 6.6.2.4
 \de clay from termite mound used for pottery & hearths
-\dt 02/Nov/2015
+\dt 31/May/2016
 
 \lx isuna
 \ph isúna
@@ -14701,13 +14701,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va kikiriki
 \ge mushroom, k.o.
-\sd 6.4.4
+\sd 6.2.5.3
 \sd 1.5.4
 \de kind of mushroom
 \rf Tape:1-2-200
 \xv Kikidiki tɔkwɛ ɔsʋlʋsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋ swɩ. Ɩbʋ ɔlɩn, tamɛ afio oyi bʋ swɩ dʋn mʋ́. Bʋtɛkaka mʋ́ wa oputsutɔ.
 \xe Kikidiki grows in the ground. Its head is wide and its stalk is long. It has roots but afio stalk is longer than it. They cut them up for soup.
-\dt 08/Jan/2014
+\dt 31/May/2016
 
 \lx kim
 \ph kimʔ
@@ -17264,13 +17264,13 @@ cf fonflo
 \ps n
 \sn
 \ge mushroom, k.o.
-\sd 6.4.4
+\sd 6.2.5.3
 \sd 1.5.4
 \de kind of mushroom
 \rf Tape:1-2-217
 \xv Kplokplobi tɔkwɛ oyi plɔhɛsʋ. Ɩbʋ ɔplɩ, bʋtamakwɛ mʋ́. Mʋ́a abɛ oputsu bʋ ɔdwɛ dʋbɩ.
 \xe Kploklobi grows in rotting trees, It is slippery; they never grind it. It is very good with palm nut soup.
-\dt 13/Jul/2014
+\dt 31/May/2016
 
 \lx kploo
 \ph k͡ploː
@@ -19841,12 +19841,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge mushroom, k.o.
-\sd 6.4.4
+\sd 6.2.5.3
 \de mantepo mushroom
 \rf Tape:1-2-194
 \xv Mantɛpʋ tɔkwɛ ɔsʋlʋsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, mʋ́ ɛ bʋ ɔdwɛ.
 \xe Mantɛpo grows in the ground. You can grind it for soup. It too is sweet.
-\dt 08/Jan/2014
+\dt 31/May/2016
 
 \lx mba
 \ph mba
@@ -20754,12 +20754,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge short mushroom
-\sd 6.4.4
+\sd 6.2.5.3
 \de short mushroom
 \rf Tape:1-2-171
 \xv Mpionkɛntɛ tɔkwɛ ɔbɛ oyi plɔhɛsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi ma swɩ. Fɛtalɩ kpa mʋ́ nwun amʋ kwɛ mʋ́ wa oputsutɔ, si mʋ́ oyi amʋ. Mʋ́ ɛ bʋ ɔdwɛ.
 \xe Npionkɛntɛ sprouts on rotten palm trees. It's head is wide. It's stalk is not long. You can remove the heads and grind them and put them in the soup and leave the stalks. It also is sweet.
-\dt 28/Dec/2012
+\dt 31/May/2016
 
 \lx mpɩmpɩm
 \ph mpɪ́mpɪm
