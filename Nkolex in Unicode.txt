@@ -248,7 +248,7 @@
 \ps n
 \sn
 \ge palm fruit
-\sd 6.2.1.2
+\sd 6.2.1.7
 \de palm fruits
 \nt singular is bebi
 \xv Nɩ fɔwɔ abɛ a, fɛ́lɛ abi pʋ́ mbepi lɛ mʋ́tɔ.
@@ -271,19 +271,19 @@
 \ce k.o. palm fruit
 \cf ɔbɛkʋtʋ
 \ce k.o. palm fruit
-\dt 09/Nov/2015
+\dt 31/May/2016
 
 \lx abi
 \ph abi(H)
 \ps n
 \sn
 \ge palm kernel
-\sd 6.2.1.2
+\sd 6.2.1.7
 \de palm kernels
 \nt cf abi plural of ibi seeds of other plants
 \xv Nɛ́fɛ mɩ abi amʋ, ampʋ bwɛ abi ofobi. Tsufɛsɛ, ndekle ánɩ́ nɔ́bʋa iyie.
 \xe I will crack my palm kernels, in order to take(them) and make palm kernel oil, because I want that I will fry fish.
-\dt 16/Dec/2012
+\dt 31/May/2016
 
 \lx abi atsulii
 \ph abi at͡sulîː
@@ -1100,7 +1100,7 @@
 \ps n
 \sn
 \ge coconut
-\sd 5.2.3.3.2
+\sd 6.2.1.7.1
 \de coconut
 \nt from Ewe "Agɔ de" - Agɔ palm Agɔ is near Kpalime in Togo
 \xv Agode toswie mʋ́ oyɩtɔ, ɔkpɩtsatɔ.
@@ -1108,7 +1108,7 @@
 \xe A coconut tree bears its fruit in a cluster.
 \rf Tape:1-1-205
 \bb Stewart List:0869
-\dt 11/Jun/2014
+\dt 31/May/2016
 
 \lx agude
 \ph agude(H)
@@ -1456,12 +1456,12 @@
 \ps n
 \sn
 \ge plantain, k.o.
-\sd 5.2.3.3.2
+\sd 6.2.1.4.2
 \de A variety of plantain. Ahʋrotia has short fingers that are similar to bananas.
 \cf blɔdɩ
 \ce plantain (generic)
 \nt see blɔdɩ entry for other kinds of plantain
-\dt 08/Jan/2014
+\dt 31/May/2016
 
 \lx akanlɛ
 \ph akanlɛ́(H)
@@ -1790,9 +1790,9 @@
 \ps n
 \sn
 \ge sack
-\sd 5.2.3.3.2
+\sd 6.7.3
 \de k.o. sack
-\dt 28/Apr/2016
+\dt 31/May/2016
 
 \lx akpitalɛ
 \ph ak͡pitálɛ́(L)
@@ -1823,11 +1823,11 @@
 \ps n
 \sn
 \ge garden egg
-\sd 6.2.1.2
+\sd 6.2.1.3
 \de a vegetable
 \xv Yao bʋ akpɩn ndɔ kpɔnkpɔɔnkpɔntɩ ɩkʋ Bumbula.
 \xe Yao has got a very big garden eggs farm at Bumbula.
-\dt 30/Sep/2015
+\dt 31/May/2016
 
 \lx akpʋn
 \ph ak͡pʊ̃́
@@ -2727,13 +2727,13 @@
 \ph apantu(H)
 \ps n
 \sn
-\ge k.o plantain
-\sd 5.2.3.3.2
+\ge plantain, k.o
+\sd 6.2.1.4.2
 \de A variety of plantain. Apantu has large fingers and is used for fufu.
 \cf blɔdɩ
 \ce plantain (generic)
 \nt see blɔdɩ entry for other kinds of plantain
-\dt 29/Oct/2013
+\dt 31/May/2016
 
 \lx apɛ
 \ph apɛ́(H)
@@ -2789,12 +2789,12 @@
 \ps n
 \sn
 \ge plantain, k.o.
-\sd 5.2.3.3.2
+\sd 6.2.1.4.2
 \de A variety of plantain. Apɩmba has smaller fingers that have small black seeds. It is primarily used for ampesie. An apɩmba tree can have 50 to 79 fingers of plantain.
 \cf blɔdɩ
 \ce plantain (generic)
 \nt see blɔdɩ entry for other kinds of plantain
-\dt 08/Jan/2014
+\dt 31/May/2016
 
 \lx apondo
 \ph apondó(H)
@@ -2837,7 +2837,7 @@
 \ps n
 \sn
 \ge spice
-\sd 5.2.3.3.2
+\sd 6.2.1.3
 \de spice
 \xv Apʋsɛ toswie mʋ́ flasʋ wa oyitɔ. Bʋtɔkwɛ mʋ́ wa oputsutɔ. Ɩtɔhɔ ɔsɩn, ɩtɛha oputsu amʋ tɔwa ɔfan.
 \xe Spice grows on its vine, which climbs on a tree. They grind it and put it into the soup. It makes it hot and gives the soup a nice scent.
@@ -2845,7 +2845,7 @@
 \rf Tape:1-1-553
 \xv Apʋsɛ oputsu bʋ ɔdwɛ.
 \xe Spice soup is sweet.
-\dt 11/Jun/2014
+\dt 31/May/2016
 
 \lx asa
 \hm 1
@@ -3015,11 +3015,11 @@
 \ps n
 \sn
 \ge garden egg
-\sd 6.2.1.2
+\sd 6.2.1.3
 \de a type of garden plant
 \xv Asiengbi gyi a ɩbʋalɛ tsufɛ ɩtɛha obugya.
 \xe Eating the garden egg is good because it gives blood.
-\dt 25/May/2016
+\dt 31/May/2016
 
 \lx asienɔ
 \ph asienɔ́ (H)
@@ -3066,14 +3066,13 @@
 \ps n
 \sn
 \ge sugar
-\sd 5.2.3.3.2
-\sd 5.2.3.3.2
+\sd 6.2.1.5.1
 \de sugar
 \bw Akan fi:asikre LHH
 \xv Agyawugya babla asikre daka amʋ.
 \xe The little red ants have filled the sugar box.
 \xe The sugar box is full of little red ants.
-\dt 12/Jun/2014
+\dt 31/May/2016
 
 \lx asimasi
 \ph asímasi(H)
@@ -3378,12 +3377,12 @@
 \ps n
 \sn
 \ge plantain, k.o.
-\sd 5.2.3.3.2
+\sd 6.2.1.4.2
 \de A variety of plantain. Ata anyɔ has only two bunches on a plant.
 \cf blɔdɩ
 \ce plantain (generic)
 \nt see blɔdɩ entry for other kinds of plantain
-\dt 08/Jan/2014
+\dt 31/May/2016
 
 \lx atadɩɛ
 \ph atadɪɛ (H)
@@ -3646,13 +3645,13 @@
 \ps n
 \sn
 \ge beans
-\sd 6.2.1.2
+\sd 6.2.1.3
 \de beans
 \xv Bʋtɔpʋ atse gyi wʋdɩ.
 \xe They eat beans with porridge.
 \xe Beans are eaten with porridge.
 \bb Stewart List:0916
-\dt 12/Jun/2014
+\dt 31/May/2016
 
 \lx atsialɛ
 \ph at͡siálɛ́
@@ -4227,7 +4226,7 @@
 \ps n
 \sn
 \ge pawpaw
-\sd 6.2.1.2
+\sd 6.2.1.7
 \sc Carica papaya
 \de pawpaw
 \pl abaflɛ
@@ -4240,7 +4239,7 @@
 \nt proverb
 \rf Tape:1-2-312
 \bb Stewart List:0914
-\dt 04/Feb/2016
+\dt 31/May/2016
 
 \lx baɩ
 \ph báɪ́
@@ -4725,13 +4724,13 @@
 \ps n
 \sn
 \ge egusi
-\sd 6.2.1.2
+\sd 6.2.1.3
 \de the fruit or the seeds of the egusi plant
 \xv Mɩ biam laswie bʋla oyi tɩntɩɩntɩn kʋ. Mmeyin alɩa nɔ́bwɛ asa nɔ́kpɔtɩ mʋ́.
 \xe My egusi has born many fruit in a tall tree. I don't know how that I will make before I harvest it. (I don't know how I will pick them).
 \xe My egusi grew up into a tall tree, I don't know how I will be able to pick them.
 \rf Tape:1-2-429
-\dt 12/Jun/2014
+\dt 31/May/2016
 
 \lx bian
 \ph biãʔ
@@ -5029,8 +5028,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge cola nut
-\sd 5.2.3.3.2
-\sd 5.2.4
+\sd 5.2.1.3
+\sd 5.2.6
+\sd 2.6.6.4
 \de cola nut
 \pl abɩsɩ
 \plph abɪsɪ(H)
@@ -5041,7 +5041,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bɩsɩ amʋtɔ gyi wesee.
 \xe The cola nut is astringent.
 \bb Stewart List:0907
-\dt 12/Jun/2014
+\dt 31/May/2016
 
 \lx bɩsʋfɛ
 \ph bɪsʊfɛ
@@ -5283,8 +5283,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx blɩbɛ
 \ph blɪbɛ(H)
 \ps n
-\sd 5.2.3.3.2
-\sd 6.2.1.2
+\sd 6.2.1.4
 \ge pineapple
 \de pineapple
 \pl ablɩbɛ
@@ -5296,14 +5295,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Okonko ablɩbɛ amʋtɔ bʋ ɔdwɛ dʋn mʋ dɛnhɛ klɛ.
 \xe Okonko's pineapple is sweeter than his brother's.
 \bb Stewart List:0913
-\dt 17/Apr/2016
+\dt 31/May/2016
 
 \lx blɔdɩ
 \ph blɔdɪ(H)
 \ps n
 \sn
 \ge plantain
-\sd 5.2.3.3.2
+\sd 6.2.1.4.2
 \de plantain
 \va brɔdɩ
 \bw Akan fi:brɔdɩ LH
@@ -5322,7 +5321,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce k. o. plantain
 \cf oniaba
 \ce k. o. plantain
-\dt 05/Dec/2013
+\dt 31/May/2016
 
 \lx blɔpʋ
 \ph blɔpʊ́
@@ -9427,9 +9426,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge guava
-\sd 6.2.1.2
+\sd 6.2.1.7
 \de guava fruit
-\dt 25/Jun/2014
+\dt 31/May/2016
 
 \lx gya
 \ph ʤaʔ (L)
@@ -9532,13 +9531,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge bat
 \sd 1.6.1.2
 \de bat
+\ee Order Chiroptera
 \pl agyagya
 \plph aʤáʤaʔ
 \rf Tape:2-2-178
 \xv Mbubwi pʋ́ agyagya bʋtofuli, tamɛ agyagya bʋtofuli yɔ anwunsʋ dʋn mbubwi.
 \xe Birds and bats both fly but bats fly higher than birds.
 \bb Stewart List:0625
-\dt 28/Jul/2013
+\dt 30/May/2016
 
 \lx gyagyaagya
 \ph ʤáʤáːʤá
@@ -10644,7 +10644,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge palm kernel
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de palm kernel
 \pl abebi
 \plph abébi
@@ -10657,7 +10657,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe When palm nuts stay in the ground they germinate and produce palm trees.
 \rf Tape:1-1-077
 \rf Tape:1-2-362
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx ibi
 \ph ibí (H)
@@ -11014,7 +11014,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge garden egg
-\sd 6.2.1.2
+\sd 6.2.1.3
 \de egg plant; garden egg
 \pl akpin
 \plph ak͡pĩʔ
@@ -11022,7 +11022,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bʋtɔpʋ akpin wa oputsutɔ; bʋtɔpʋ kwɛ aboun ɛ.
 \xe They take garden eggs and put them in soup and they grind them and put them in stew also.
 \rf Tape:1-1-349
-\dt 23/Jun/2014
+\dt 31/May/2016
 
 \lx iku
 \ph ikúʔ
@@ -11734,13 +11734,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge fence
-\sd 6.2.1.2
+\sd 6.5.1.5
 \de fence
 \rf Tape:2-2-512
 \xv Igye, negyi ban wa flawasɩ amʋ.
 \xe Yesterday, I made a fence around the flowers.
 \bb Stewart List:1162
-\dt 24/Dec/2012
+\dt 31/May/2016
 
 \lx ɩbantɔ ɩfa
 \ph ɪbantɔ ɪfaʔ
@@ -11775,7 +11775,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪbɛ́tɛʔ
 \ps n
 \sn
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de thorny part of a palm nut head
 \pl mbɛtɛ
 \plph mbɛ́tɛʔ
@@ -11789,7 +11789,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The time that I am removing palm nuts from the stalk, bɛtɛ will pierce my hand.
 \xe When I was shucking palm nuts the thorny bits pricked me.
 \rf Tape:5-2-150
-\dt 25/Sep/2015
+\dt 31/May/2016
 
 \lx ɩbɩ
 \ph ɪbɪʔ
@@ -12103,12 +12103,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge nursery bed
-\sd 6.2.1.2
+\sd 6.2.1.3
 \de nursery bed
 \rf Tape:2-2-550
 \xv Nɔ́wɔ ɩflɛ ambun mɩ tomantosi abi amʋ mʋ́sʋ.
 \xe I will raise a garden bed in order to nurse my tomato seeds.
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx ɩfɔɩ
 \ph ɪfɔɪ (H)
@@ -12299,7 +12299,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge sugar cane
-\sd 5.2.3.3.2
+\sd 6.2.1.5.1
 \de sugar cane
 \rf Tape:2-2-571
 \xv Ka fʋ kawɩhɛ amʋ ɩkʋ ha mɩ anwɩ.
@@ -12310,7 +12310,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ɩka wɩhɛ bʋtɔpʋ bwɛ asikre.
 \xe We used sugar cane to make sugar.
 \nt From ths: words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfa (grass, weeds)
-\dt 01/Oct/2015
+\dt 31/May/2016
 
 \lx ɩkan
 \ph ɪkã
@@ -12716,13 +12716,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge rice
-\sd 6.2.1.2
+\sd 6.2.1.1.1
 \de rice
 \rf Tape:3-1-057
 \xv Ndɛ ɩmɔ pɩm.
 \xe I am pounding rice.
 \bb Stewart List:0917
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx ɩmʋa
 \ph ɪmʊa
@@ -13648,7 +13648,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge cut
-\sd 5.2.3.3.2
+\sd 7.8.3
 \de to cut
 \nt From ths: 1) ka vs tɩn; ka kwadu would imply cutting a whole banana tree or if you want to cut a kwadu into pieces. tɩn would imply cutting to harvest 2) sense 2 & 3 share a common meaning to release
 \rf Tape:3-1-275
@@ -13670,7 +13670,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv ka ɩkɔ
 \xe pay a debt
 \bb Stewart List:3208
-\dt 02/Nov/2015
+\dt 31/May/2016
 
 \lx ka
 \hm 2
@@ -13874,7 +13874,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge chop
-\sd 5.2.3.3.2
+\sd 7.8.3
 \de cut repetitively into small pieces
 \cf ka1
 \ce cut
@@ -13882,7 +13882,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɩ bebio kufa amʋ a, bɛ́kaka aye amʋ ɩkʋtɔ putuputu wa fɩtatɔ ba mʋ.
 \xe When they butcher the sheep they will cut some of the meat into small pieces and put them on a leaf and bring it to him.
 \nt From ths: words that cut: ka (general term), kaka (chop), kun (gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
-\dt 09/Nov/2015
+\dt 31/May/2016
 
 \lx kakaʋ
 \ph kakaʊ (H)
@@ -14072,13 +14072,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge orange
-\sd 6.2.1.2
-\sd 5.2.3.3.2
+\sd 6.2.1.4
 \de orange; citrus fruit
 \pl akankaba
 \plph akaŋkaba
 \bb Stewart List:0903
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx kantankpa
 \ph kantaŋ͡mk͡pa
@@ -14531,9 +14530,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge palm nut
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de immature palm nut
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx kɛntɛ
 \ph kɛntɛʔ
@@ -16001,10 +16000,11 @@ cf fonflo
 \ps n
 \sn
 \ge coffee
-\sd 5.2.3.3.2
+\sd 6.2.1.7.2
+\sd 5.2.3.6
 \de coffee
-\bw English fi:coffeee
-\dt 12/Jul/2014
+\bw English fi:coffee
+\dt 31/May/2016
 
 \lx kɔɔpʋ
 \ph kɔːpʊ́
@@ -16568,7 +16568,7 @@ cf fonflo
 \dt 01/Jul/2014
 
 \lx kpankʋ
-\ph k͡pãkʊ(H)
+\ph k͡pãŋkʊ(H)
 \ps n
 \sn
 \ge bachelor
@@ -16578,7 +16578,7 @@ cf fonflo
 \plph ak͡paŋkʊ(H)
 \xv Kwasi gyi kpankʋ tsu mʋ nyebitɔ ɔpá.
 \xe Kwasi has been a bachelor since his youth.
-\dt 14/Aug/2013
+\dt 31/May/2016
 
 \lx kpanpuli
 \ph k͡pãpulí
@@ -17868,14 +17868,14 @@ cf fonflo
 \ps n
 \sn
 \ge fan palm
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de fan palm
 \nt a tall tree (viewed as being next to God)
 \xv Ɩtʋ kunka a, ɩlatʋ Bulu.
 \xe It has reached fan palm, it has reached God.
 \nt proverb
 \rf Tape:4-1-191
-\dt 26/Dec/2012
+\dt 31/May/2016
 
 \lx kunkun
 \ph kũkũʔ (L)
@@ -18304,7 +18304,7 @@ cf fonflo
 \ps n
 \sn
 \ge banana
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de banana
 \pl akwadu
 \plph akwadú
@@ -18313,16 +18313,16 @@ cf fonflo
 \xv Mango oyi ɩbɛ́talɩ swie abɛ? Ntɛ baflɛ ɩbɛ́talɩ swie kwadu oyi sʋ.
 \xe Can a mango tree bear palm nuts, or papaw grow on a banana tree.
 \bb Stewart List:0905
-\dt 23/Jun/2014
+\dt 31/May/2016
 
 \lx kwaduta
 \ph kwaduta
 \ps n
 \sn
 \ge hand of bananas
-\sd 5.2.3.3.2
+\sd 6.2.1.7.1
 \de a hand of bananas
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx Kwaku
 \ph kʷaku
@@ -19743,12 +19743,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge mango
-\sd 6.2.1.2
+\sd 6.2.1.4
 \de fruit
 \bw English fi:mango
 \xv Mango amʋtɔ bʋ ɔdwɛ.
 \xe The mango is sweet.
-\dt 11/Nov/2015
+\dt 31/May/2016
 
 \lx mankani
 \ph maŋkaní
@@ -19882,7 +19882,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge palm nut rubbish
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de palm nut rubbish
 \rf Tape:4-2-060
 \xv Dwɩɩ abɛ amʋ afʋ lɛ mʋ́ mbepi amʋ fɩta.
@@ -19890,7 +19890,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-067
 \xv Lɛ mbepi amʋ kʋ wa ogya amʋtɔ mɛnɩ ɩbɔwa ɔsa tsii.
 \xe Remove some of the palm fibres and put them on the fire so that it will blaze quickly.
-\dt 16/Jun/2014
+\dt 31/May/2016
 
 \lx mbi
 \ph mbi
@@ -19911,17 +19911,17 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge palm frond
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de palm branch with the leaves
 \se ɔfɛsɩ mbla
 \ge leaf
 \sd 5.2.1.3
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de the green leaf material surrounding the small sticks used in making brooms
 \rf Tape:4-2-095
 \xv Nɩ mlɔmɔ mʋ́ ɔnɔ a, mlɩ kpa ɔfɛsɩ mbla amʋ lɛ woyitɔ tsitsa.
 \xe If you (pl) finish, collect the leaves left over from your broom making. Take them from the house and throw them away.
-\dt 16/Jun/2014
+\dt 31/May/2016
 
 \lx mbla
 \ph mbla
@@ -20804,7 +20804,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge pepper
-\sd 5.2.3.3.2
+\sd 6.2.1.3
+\sd 5.2.3.3.3
 \de red pepper
 \nt From ths: words for pepper: mpulu (red pepper), tɔnsɩ (small hot), apʋsɛ (black)
 \rf Tape:4-2-421
@@ -20814,7 +20815,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe If pepper is not in the soup, it is not sweet.
 \xv Kpɔtɩ mpulu amʋ afʋkpa mʋ́ odu wa oputsutɔ.
 \xe Pluck the pepper and remove the tail and put it in the soup.
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx mpumpu ngya
 \ph mpumpu nʤa (H)
@@ -20860,9 +20861,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge herb
-\sd 5.2.3.3.2
+\sd 5.2.3.3.3
+\sd 6.2.1.3
 \de kind of herb
-\dt 25/Jun/2014
+\dt 31/May/2016
 
 \lx mpʋsa
 \ph mpʊ́sa
@@ -21463,19 +21465,19 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge garden
-\sd 6.2.1.2
+\sd 6.2.1
 \de garden
 \rf Tape:4-2-578
 \xv Nbʋ ndobi kʋ mɩ mmua.
 \xe I have a garden at the back of my house.
-\dt 26/Dec/2012
+\dt 31/May/2016
 
 \lx ndɔ
 \ph ndɔ
 \ps n
 \sn
 \ge farm
-\sd 6.2.1.2
+\sd 6.2.1
 \de farm
 \nt most commonly ndɔtɔ LLL
 \rf Tape:4-2-582
@@ -21484,7 +21486,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \cf ɔdɔtɔpʋ
 \ce farmer
 \bb Stewart List:1242
-\dt 23/Dec/2013
+\dt 31/May/2016
 
 \lx nfa
 \ph ɱfa
@@ -21569,7 +21571,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge oil
 \sd 1.2.3.2
 \sd 1.5.3
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \sd 7.2.4.1.1
 \de oil, fat
 \rf Tape:5-1-010
@@ -21582,7 +21584,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe palm oil
 \bb Stewart List:1233
 \bb Stewart List:1243
-\dt 17/May/2016
+\dt 31/May/2016
 
 \lx nfɔlɩ
 \ph ɱfɔ́lɪʔ
@@ -21947,11 +21949,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge seedless palm fruit
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de seedless palm fruit
 \xv Nkɩsɛ amʋtɔ bʋ ɔdwɛ.
 \xe The seedless palm fruit is sweet.
-\dt 26/Dec/2012
+\dt 31/May/2016
 
 \lx nkla
 \hm 1
@@ -23472,7 +23474,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge yellow fruit
-\sd 6.2.1.2
+\sd 6.2.1.4
 \de a certain small yellow fruit
 \rf Tape:5-1-512
 \xv Nɔ́yɔ kpɔtɩ nyambi.
@@ -23480,7 +23482,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:5-1-514
 \xv Nyambi tɛpɛ igyo wɩ brɛ.
 \xe Nyambi ripen in yam harvest time.
-\dt 16/Jun/2014
+\dt 31/May/2016
 
 \lx nyanka
 \hm 1
@@ -24035,7 +24037,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge dead palm tree
 \sd 6.2.5.4
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de a dead discarded palm tree that has been tapped
 \nt from palm tree and ibun -well
 \pl mbebuni
@@ -24045,7 +24047,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The black beetles are in the tapped palm tree.
 \cf ɔbɛ
 \ce palm tree
-\dt 18/Jun/2014
+\dt 31/May/2016
 
 \lx obetsu
 \ph obét͡sûʔ
@@ -24554,12 +24556,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge leftover konkonte
-\sd 6.2.1.2
+\sd 6.2.1.2.2
+\sd 5.2.3.4
 \de leftover dried cassava porridge
 \rf Tape:6-2-385
 \xv Nagyi konkonte mʋ́a kɩtɩba oputsu. Ɔkɛ nyankɩ ɛ, négyi mʋ́ odikpini.
 \xe I have eaten konkonte with groundnut soup. Tomorrow morning also, I will eat leftover konkonte.
-\dt 12/Jun/2014
+\dt 31/May/2016
 
 \lx odondo
 \ph odondo
@@ -24658,8 +24661,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge rice silo
-\sd 1.5.1
-\sd 6.2.1.2
+\sd 6.2.6.4
+\sd 6.2.1.1.1
 \de a storage container made of clay for rice particularly but also other grains
 \pl ndudu
 \plph ndudu
@@ -24668,7 +24671,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe My grandfather has a grain silo that he stores his rice in.
 \xv Bʋtɔkʋla abwi tswɩ, fówun bapwɛ mʋ́ dɩnka mʋ́sʋ fɛ lakpa tɩntɩn, mɛnɩ ababa bʋmóowie mʋ́tɔ.
 \xe They collect stones and put them in a pile so that they can build (make out of clay) on it like a tall basket so that termites don't get into it.
-\dt 12/Jun/2014
+\dt 31/May/2016
 
 \lx odum
 \ph odum
@@ -25005,9 +25008,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge grape fruit
-\sd 6.2.1.2
+\sd 6.2.1.7
 \de grape fruit
-\dt 13/Jul/2014
+\dt 31/May/2016
 
 \lx ogbon
 \ph og͡bõʔ
@@ -26063,12 +26066,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge plantain, k.o.
-\sd 5.2.3.3.2
+\sd 6.2.1.4.1
 \de A variety of plantain. Oniaba is similar to apɩmba, but has no black seeds in the finger. It is good for ampesie.
 \cf blɔdɩ
 \ce plantain (generic)
 \nt see blɔdɩ entry for other kinds of plantain
-\dt 08/Jan/2014
+\dt 31/May/2016
 
 \lx onopi
 \ph onopiʔ
@@ -26540,13 +26543,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge greens
-\sd 6.2.1.2
+\sd 6.2.5.4
 \de a type of slippery greens (a vegetable)
 \xv Nɩ mlɩ hogyi lomoni fɛ opuun ibi a, tɛkɩ mlɛ́talɩ bla ɩbʋ anfɩ mlɩaa otu.
 \xe If your faith is as big as the seed of opuun, you can tell this mountain that it should leave.
 \xv Opuun oputsu mʋ́a konkonte bʋ ɔdwɛ dʋbɩ.
 \xe The green leaves and konkonte is very sweet.
-\dt 01/Oct/2015
+\dt 31/May/2016
 
 \lx oseyee
 \ph oséyěːʔ
@@ -26893,25 +26896,25 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tobacco
-\sd 5.2.3.3.2
+\sd 6.2.1.5.2
 \sd 5.2.4
 \de tobacco
 \pl ntonklo
 \plph ntóŋkló
 \xv Otonklo nun maalɛ, tsufɛ ɩtɛha ɩlɔ.
 \xe Smoking of tobacco is not good because it causes sickness.
-\dt 21/Jun/2014
+\dt 31/May/2016
 
 \lx otrohwe
 \ph otróhweʔ(H)
 \ps n
 \sn
 \ge wheat
-\sd 6.2.1.2
+\sd 6.2.1.1
 \de wheat
 \xv Otrohwe nfuo bʋtɔpʋ bwɛ bodobodo.
 \xe They use wheat flour to make bread.
-\dt 17/Apr/2016
+\dt 31/May/2016
 
 \lx otse
 \ph ot͡sé
@@ -27798,7 +27801,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge palm tree
-\sd 6.2.1.2
+\sd 6.2.1.7
 \de palm tree
 \pl mbɛ
 \plph mbɛ́ʔ
@@ -27809,15 +27812,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:0867
 \cf obebuni
 \ce dead palm tree
-\dt 18/Jun/2014
+\dt 31/May/2016
 
 \lx ɔbɛkʋtʋ
 \ph ɔbɛkʊtʊ
 \ps n
 \sn
 \ge palm fruit
+\sd 6.2.1.7
 \de k.o palm fruit
-\dt 04/Nov/2015
+\dt 31/May/2016
 
 \lx ɔbɩatɔ
 \ph ɔbɪatɔʔ
@@ -27941,7 +27945,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge central palm
 \sd 6.2.5.4
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de the new central palm growth
 \na It is used to call fetish and is planted as an oath.
 \pl mblakwɛ
@@ -27953,7 +27957,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If you take thatch and roof a hut, you first take palm frond rope or other rope and tie the vertical rafters (mpalɩ) on top of the ɔtan (bottom horizontal crossbars) so that the wind won't blow the roof off.
 \xv Mʋ́ ɔma fɛ́tratsia pʋ ɔblakwɛ ɔfɛ klɩ abotodua manta ipi amʋ ɛ, mɛnɩ afu mɛ́ɛdɩnkɩ mʋ́ tsitsa.
 \xe After this, you will again take some palm frond rope and tie bamboo over the thatch so that the wind will not blow the thatch off.
-\dt 13/Jul/2014
+\dt 31/May/2016
 
 \lx ɔblapʋ
 \ph ɔblapʊ(H)
@@ -28805,9 +28809,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge palm leaves
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de palm fronds removed from the branch
-\dt 17/Apr/2016
+\dt 31/May/2016
 
 \lx ɔfɛtɩ
 \ph ɔfɛ́tɪ
@@ -28953,12 +28957,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge lemon
-\sd 6.2.1.2
+\sd 6.2.1.7
 \de lemon
 \rf Tape:5-2-376
 \xv Ntɔpʋ ɔgywɩyaa kpa ɩwɩ. Nɩ fégyi mʋ́ a, mʋ́tɔ gyi nyagbanyagba.
 \xe I apply lemon on myself. I rub lemon on my skin. If you eat it, it is sour.
-\dt 16/Jun/2014
+\dt 31/May/2016
 
 \lx ɔha
 \ph ɔhá
@@ -29953,8 +29957,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge soap
 \sd 5.6.2
-\sd 5.6.3
-\sd 5.2.3.3.2
+\sd 5.6.4
 \de soap
 \pl nkwaɩ
 \plph ŋkwaɪ(H)
@@ -29963,7 +29966,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Soap that is effective always makes lather.
 \xe Soap that is effective always makes foam.
 \rf Tape:5-2-578
-\dt 06/May/2016
+\dt 31/May/2016
 
 \lx ɔkwɛn
 \ph ɔkʷɛ̃́ʔ
@@ -31485,13 +31488,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge permission to speak
-\sd 5.2.3.3.2
+\sd 3.5.2
+\sd 4.6.6.3
 \de permission to speak, "the floor" as in "You have the floor."
 \bw Akan fi:ɔsɛmpa
 \rf ds0103-34
 \xv Mʋ́ʋ́, Osun ɔhandɛ leyinki pʋ ɔsɛmpa ha Kwasi mʋ sɩ.
 \xe Then the clan head asked Kwasi's father to respond.
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx ɔsɩ
 \ph ɔsɪ́
@@ -31570,12 +31574,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge spicy
-\sd 5.2.3.3.2
+\sd 5.2.3.3.3
+\sd 6.2.1.3
 \de spicy hot
 \xv Tɔnsɩ amʋ bʋ ɔsɩn oputsu amʋtɔ dʋbɩ.
 \xe The pepper is too hot in the soup.
 \bb Stewart List:1441
-\dt 03/Nov/2015
+\dt 31/May/2016
 
 \lx ɔsɩrɩ
 \ph ɔsɪrɪ́
@@ -31830,7 +31835,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge centre pole
 \sd 6.5.2.2
-\sd 6.2.1.2
 \sd 6.6.3
 \de centre pole of a hut
 \ps n
@@ -31854,7 +31858,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge backbone
 \sd 2.1.1
 \de backbone
-\dt 20/May/2016
+\dt 31/May/2016
 
 \lx ɔtansʋ imi
 \ph ɔtansʊ imi
@@ -32490,9 +32494,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge spice
-\sd 5.2.3.3.2
+\sd 6.2.5.4
+\sd 5.2.3.3.3
 \de k.o. spice
-\dt 01/Jul/2014
+\dt 31/May/2016
 
 \lx ɔtswapʋ
 \ph ɔt͡swapʊ́
@@ -33098,14 +33103,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge avocado
 \sd 1.5.1
-\sd 6.2.1.2
+\sd 6.2.1.7
 \de avocado
 \pl apaya
 \plph apáya
 \bw English fi:pear
 \xv Paya mʋ́a bodobodo bʋ agyilɛ.
 \xe Avocado and bread are easy to eat .
-\dt 22/Jun/2014
+\dt 31/May/2016
 
 \lx pentenplein
 \ph pentẽmplẽĩ
@@ -33539,7 +33544,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge cut apart
-\sd 5.2.3.3.2
+\sd 7.8.3
 \xv Kokoli pɩtɩ blɔdɩ amʋ ha mɩ.
 \xe Please cut up the bunch of plantain for me.
 \nt From ths: words that cut: ka (general term), kaka (chop), kun (gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
@@ -33553,7 +33558,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 4.8.2
 \de to whip someone
 \ge whip
-\dt 03/Nov/2015
+\dt 31/May/2016
 
 \lx pla
 \hm 1
@@ -33929,8 +33934,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe This broad leafed grass is a tall grass, but it doesn't live more than a year. Its leaves are wide, it catches a lot of dew.
 \dt 01/Oct/2015
 
-\lx pɔpɔɔ
-\ph pɔpɔ̂ː
+\lx pɔpɔ
+\ph pɔpɔ
 \ps vt
 \sn
 \ge soothe
@@ -33938,7 +33943,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 2.6.4.1.1
 \sd 4.3.3
 \de soothe
-\dt 20/May/2016
+\dt 30/May/2016
 
 \lx pɔpwɛ
 \ph pɔ́pwɛʔ(L)
@@ -35008,14 +35013,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge slice
-\sd 5.2.3.3.2
+\sd 7.8.3
 \de slice
 \xv Alasie ndawun wa oputsu amʋtɔ.
 \xe She has sliced okra into the soup.
 \bb Stewart List:2886
 \cf kaka
 \ce cut repeatedly
-\dt 25/Dec/2013
+\dt 31/May/2016
 
 \lx sienɔ
 \ph sienɔ́
@@ -37308,14 +37313,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tomatoes
-\sd 6.2.1.2
+\sd 6.2.1.3
 \de tomatoes
 \nt also ntose or tɔmantɔsɩ
 \bw English fi:tomato
 \rf Tape:7-1-581
 \xv Mbʋ tomantosi ndɔ kpɔnkpɔntɩ kʋ.
 \xe I have a large tomato farm.
-\dt 11/Jul/2014
+\dt 31/May/2016
 
 \lx tɔ
 \hm 1
@@ -37480,7 +37485,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge pepper
-\sd 5.2.3.3.2
+\sd 5.2.3.3.3
+\sd 6.2.1.3
 \de small hot peppers
 \nt From ths: words for pepper: mpulu (red pepper), tɔnsɩ (small hot), apʋsɛ (black)
 \rf Tape:7-1-015
@@ -37497,7 +37503,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Free: The women are gossiping.
 \rf Tape:7-1-023
 \nt used as an idiom for gossiping
-\dt 19/May/2016
+\dt 31/May/2016
 
 \lx tɔnsɩ kwɛbwi
 \ph tɔnsɪ́ kwɛ́bwí
@@ -38702,9 +38708,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge large bean
-\sd 6.2.1.2
+\sd 6.2.1.3
 \de a large bean in a flat pod
-\dt 21/Jun/2014
+\dt 31/May/2016
 
 \lx tsɔntsɔɔntsɔn
 \ph t͡sɔ̃́nt͡sɔ̃́ːnt͡sɔ̃́ʔ
@@ -39729,7 +39735,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge palm branch
 \sd 6.2.5.4
-\sd 5.2.3.3.2
+\sd 6.2.1.7
 \de palm branch with the fronds removed
 \pl awaɩnbi
 \plph awaɪnbi
@@ -39739,7 +39745,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-188
 \xv Bʋtɔkpalɩ mbla lɛ mʋ́sʋ fówun lasi awaɩnbi amʋ.
 \xe They strip the palm fronds from a palm branch leaving the central stick.
-\dt 30/Jun/2014
+\dt 31/May/2016
 
 \lx wampʋ
 \ph wãpʊʔ(L)
@@ -40972,11 +40978,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge spread
 \sd 1.5.5
-\sd 6.2.1.2
 \de spread over top of
 \xv Mmɛtalɩ yi mɩ ngyoyi ofienɩ sʋ mɩ igyo afla layɛyɛɩ wa mɩ ndɔ amʋtɔ fɛ́ɛ́.
 \xe This year I could not fix trees to support my yams so the vines have spread all over my farm.
-\dt 17/Jun/2014
+\dt 31/May/2016
 
 \lx yi
 \hm 1
