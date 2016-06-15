@@ -303,13 +303,13 @@
 \ps ADJ
 \sn
 \ge breakable
-\sd 7.3.8
+\sd 7.8.1
 \de easy to break
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that is not flexible is easy to break.
 \xe A rigid or brittle stick is easy to break.
 \rf Tape:1-1-083
-\dt 28/Jul/2013
+\dt 14/Jun/2016
 
 \lx abielɛ
 \ph abíelɛ (L)
@@ -1583,13 +1583,13 @@
 \ps ADJ
 \sn
 \ge holdable
-\sd 7.3.8
-\sd 7.3.8
+\sd 7.3.4.4
+\sd 7.3.3.1
 \de easy to hold
 \rf Tape:1-1-335
 \xv Atɔ wanklaan bʋ akɩtalɛ.
 \xe easy to hold: Good things are easy to hold.
-\dt 11/Jun/2014
+\dt 01/Jun/2016
 
 \lx aklalɛ
 \ph aklálɛ(L)
@@ -3409,12 +3409,11 @@
 \sn
 \ge pleasant to touch
 \sd 2.3.5
-\sd 7.3.8
 \de pleasant to the touch
 \rf Tape:1-2-060
 \xv Andɔ wɩ bʋ atapʋlɛ, tsufɛ mʋ imi bʋ ɔplɩ.
 \xe A cat is pleasant to touch because it's fur is smooth.
-\dt 03/Oct/2015
+\dt 14/Jun/2016
 
 \lx atɛtɔ
 \ph atɛtɔ
@@ -3604,9 +3603,9 @@
 \ps n
 \sn
 \ge load
-\sd 7.3.8
+\sd 7.3.1
 \de thing being carried on the head
-\dt 12/Jun/2014
+\dt 01/Jun/2016
 
 \lx atrahɛ
 \ph atráhɛ
@@ -4173,8 +4172,7 @@
 \ps v
 \sn
 \ge split
-\sd 9.1.1.1
-\sd 7.3.8
+\sd 7.8.2
 \de to split, to crack
 \xv Lɩlɩtɔ mɩ onopi lɛba.
 \xe In harmattan my lip cracked.
@@ -4185,7 +4183,7 @@
 \xe The place that water stands, if harmattan comes the ground cracks.
 \xe Swampy ground cracks and dries out in the dry season.
 \rf Tape:1-2-293
-\dt 12/Jun/2014
+\dt 14/Jun/2016
 
 \lx baarɩ
 \ph bâːrɪ
@@ -4291,12 +4289,12 @@
 \ps vt
 \sn
 \ge tear
-\sd 7.3.8
+\sd 7.8.4
 \de tear
 \xv Alabalɩ tatida wa ɔkandɩɛtɔ.
 \xe She has torn up a rag to make lamp wicks.
 \bb Stewart List:2775
-\dt 12/Jun/2014
+\dt 14/Jun/2016
 
 \lx bamba
 \ph bambá
@@ -4632,8 +4630,7 @@
 \ps vt
 \sn
 \ge break
-\sd 7.3.8
-\sd 5.2.1.1
+\sd 7.8.1
 \de break
 \xv bia kpoli
 \xe harvest corn
@@ -4649,7 +4646,7 @@
 \xe He broke it up for the people sitting there.
 \nt words for harvesting: bia/sɩɛtɩ (break off - corn), kpɔtɩ (pluck - fruit, leaves), tɩn (cut a stalk or head of - plantain, palm nuts), puli (harvest from underground - peanuts), kwi (dig - cassava, yam)
 \nt words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off), flɔɩ (peel), maɩn: (separate from)
-\dt 04/Nov/2015
+\dt 14/Jun/2016
 
 \lx bia
 \hm 3
@@ -4688,12 +4685,11 @@
 \ps vt
 \sn
 \ge break
-\sd 7.3.8
-\sd 5.2.1.1
+\sd 7.8.1
 \de break repetitively
 \xv Olebiabia mʋ́tɔ ha aha amʋ́ʋ́ bʋtsie ɩnʋ amʋ.
 \xe He broke it up for the people sitting there.
-\dt 04/Nov/2015
+\dt 14/Jun/2016
 
 \lx biagyi
 \ph biaʤi
@@ -4900,12 +4896,11 @@
 \ps vt
 \sn
 \ge enter
-\sd 7.2
-\sd 7.3.8
+\sd 7.2.3.4
 \de enter into
 \xv Kpasɩ amʋ lɛsɩrɩ bitiwie mʋ ɔbɔ́tɔ, tsufɛ aha bʋsɩrɩ bʋgya mʋ.
 \xe The rat ran and disappeared into his hole because people were chasing him.
-\dt 12/Jun/2014
+\dt 01/Jun/2016
 
 \lx bɩ
 \hm 1
@@ -5087,16 +5082,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ps vi
 \ge slither
-\sd 7.3.8
+\sd 7.2.1.5.1
 \de slither - as a snake moves
-\dt 01/Jun/2016
+\dt 14/Jun/2016
 
 \lx bɩtɩa
 \ph bɪ́tɪ́a
 \ps vt
 \sn
 \ge pull
-\sd 7.3.8
+\sd 7.3.2.8
 \de pull so that it follows
 \ng bɩtɩ + -a (transitive marker)
 \xv Yibi amʋ dɛ keke bɩtɩa buo mʋ́.
@@ -5105,7 +5100,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe We have brought Plankɩ to the town and we are fetching (water) from it.
 \nt A water supply with a dam was implemented on the Plankɩ stream.
 \bb Stewart List:2660
-\dt 19/Jun/2014
+\dt 01/Jun/2016
 
 \lx bla
 \ph bla
@@ -5340,9 +5335,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge very tiny pieces
 \sd 8.2.1
-\sd 7.3.8
+\sd 7.8.1
 \de in very small pieces
-\dt 01/May/2016
+\dt 14/Jun/2016
 
 \lx blufo
 \ph blufo
@@ -5508,7 +5503,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se bɔ mbɔdɩ
 \ge try
 \sd 9.4.2.1
-\sd 7.3.8
+\sd 6.1.2.1
 \de to expend effort
 \ps v
 \sn 2
@@ -5519,7 +5514,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe cook dablun soup
 \xv bɔ ampesie
 \xe cook yam slices
-\dt 01/May/2016
+\dt 14/Jun/2016
 
 \lx bɔ mpaɩ
 \ps v
@@ -5561,14 +5556,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge split
-\sd 7.3.8
+\sd 7.8.1
 \de split
 \rf Tape:1-2-582
 \xv Bɔɩ botodua amʋtɔ ha mɩ, ampʋ gyi ɩban.
 \xe Split the bamboo for me so that I can take it and make a fence.
 \se bɔbɔɩ
 \ge split
-\sd 7.3.8
+\sd 7.8.1
 \de split repeatedly
 \rf Tape:1-2-575
 \xv Nabɔbɔɩ ndum, sʋ mbʋ mbrɛtɩ tsɔtsɔɔtsɔ.
@@ -5579,7 +5574,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge operate on
 \sd 2.5.7
 \de to operate on someone
-\dt 02/Nov/2015
+\dt 14/Jun/2016
 
 \lx bɔnbɔntɩ
 \ph bɔnbɔntɪ́
@@ -5720,9 +5715,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge shake very much
-\sd 7.3.8
+\sd 7.2.2.8
 \de shaking very much
-\dt 30/Jun/2014
+\dt 01/Jun/2016
 
 \lx brigyi
 \ph briʤi
@@ -5833,12 +5828,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 3
 \ge fold
-\sd 8.1
-\sd 7.3.8
+\sd 8.3.1.5.3
 \de to fold something a certain number of times (requires a number)
 \xv Bu tati amʋtɔ anyɔ afʋpʋ dɩda kebi amʋ.
 \xe Fold the cloth in two so that you can wrap it around the child.
-\dt 04/Feb/2016
+\dt 14/Jun/2016
 
 \lx bu
 \hm 3
@@ -5846,11 +5840,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge pour
-\sd 7.3.8
+\sd 1.3.2.2
 \de to pour out a little liquid
 \xv Bu ntsu amʋsʋ, fówun métsitsa.
 \xe Pour out some of the water so that it won't spill.
-\dt 04/Feb/2016
+\dt 14/Jun/2016
 
 \lx bua
 \ph búaʔ(L)
@@ -5921,7 +5915,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge cover
-\sd 7.3.8
+\sd 7.3.7
 \de to cover something
 \xv Bun fʋ pa nwun.
 \xe Put on your hat.
@@ -5960,7 +5954,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 5.7.3
 \de to close one's eyes
 \rf Tape:2-1-048
-\dt 27/Apr/2016
+\dt 14/Jun/2016
 
 \lx bunti
 \ph buntîʔ
@@ -6215,7 +6209,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 1
 \ge fill
-\sd 7.3.8
+\sd 7.5.9.2
+\sd 8.1.8
 \de fill
 \ps vi
 \sn 2
@@ -6244,7 +6239,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf ɔbɔ2
 \ce full
 \bb Stewart List:2488
-\dt 09/Nov/2015
+\dt 14/Jun/2016
 
 \lx bʋmblaan
 \ph bʊ́mblã́ː
@@ -6355,12 +6350,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 2
 \ge make
-\sd 7.3.8
+\sd 9.1.2.5
 \de to make something
 \bb Stewart List:2089
 \cf bwɛ agywɩɩn
 \ce decide
-\dt 02/Nov/2015
+\dt 14/Jun/2016
 
 \lx bwɛ agywɩɩn
 \ph bʷɛ́ aʤwɪ̃ː(H)
@@ -6519,7 +6514,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce fall and lie prone
 \se da ɔfɛtɔ
 \ge tied
-\sd 7.3.8
+\sd 7.5.4
 \de to be tied up
 \xv Sankɩ ɔfɛ amʋ lɛ batɛ amʋ ayabi tsufɛ ɔda ɔfɛtɔ lawa ɔpá.
 \xe Untie the rope from the chicken's legs because it has been tied up for a long time.
@@ -6550,9 +6545,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to stay somewhere
 \se da akuda
 \ge stay on farm
-\sd 7.3.8
+\sd 5.9
 \de to stay on one's farm rather than in town
-\dt 02/Nov/2015
+\dt 14/Jun/2016
 
 \lx da
 \hm 3
@@ -7038,7 +7033,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge hold
-\sd 7.3.8
+\sd 7.3.4.4
 \de to hold
 \rf Tape:2-1-285
 \xv Mʋ bɩ dɛ, sʋ ɔbwɛ ta ɔbɛ́ba.
@@ -7060,7 +7055,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to be ill in a certain place
 \xv Q: Fʋ nkʋnʋ dɛ fʋ? A: Mɩ ɔmɛ́ɛtɔ dɛ mɩ. Ɩdɛ mɩ ki.
 \xe Where is it troubling you? My stomach. It is making me nauseated.
-\dt 02/Nov/2015
+\dt 01/Jun/2016
 
 \lx dɛ
 \hm 2
@@ -7108,9 +7103,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge very full
-\sd 7.3.8
+\sd 8.1.8
 \de very full
-\dt 28/Jul/2013
+\dt 14/Jun/2016
 
 \lx dɛdɛɛdɛ
 \ph dɛdɛːdɛ
@@ -7230,7 +7225,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge fall
-\sd 7.3.8
+\sd 7.2.2.5.1
 \de fall down from a standing position
 \rf Tape:2-1-316
 \xv Ɔlɛsrɛɩ dɩda bʋsʋ nʋ, tsufɛ ɩnʋ lɔwa ɔplɩ.
@@ -7241,7 +7236,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:2485
 \cf kpada
 \ce fall from height
-\dt 30/Sep/2015
+\dt 01/Jun/2016
 
 \lx dɩdá
 \hm 2
@@ -7338,7 +7333,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge put on
-\sd 7.3.8
+\sd 8.5.1.3.1
 \de put on top of
 \ng Dɩnka is the non-stative form of dɩn.
 \rf Tape:3-1-196
@@ -7369,7 +7364,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-343
 \xv Dɩnka ansɩ wɩsʋ.
 \xe Beware of yourself.
-\dt 18/May/2016
+\dt 14/Jun/2016
 
 \lx dɩnkɩ
 \ph dɪ́ŋkɪ́
@@ -7547,13 +7542,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to daub powder on a person for ritual purposes
 \ps v
 \sn 2
-\ge place
-\sd 7.3.8
+\ge place on
+\sd 8.5.1.3
 \de to place playing pieces on a game board, e.g. checkers or owari
 \rf Tape:2-1-366
 \xv Dua fʋ aklambi nana, mɩ ɛ andua mɩ klɛ nfɩ atswɩ.
 \xe Place your playing seeds over there and I also will place mine over here, so that we will play.
-\dt 02/Nov/2015
+\dt 14/Jun/2016
 
 \lx duadua
 \ph dú!ádú!á
@@ -7987,7 +7982,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 1
 \ge burst
-\sd 7.3.8
+\sd 7.8.1
 \de to burst
 \rf Tape:2-1-436
 \xv Apubeble dɛmɔsɩ alɩɩ mʋ apu lɛfa.
@@ -8003,7 +7998,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-439
 \xv Ɩtrɛ lafa.
 \xe A quarrel has broken out.
-\dt 02/Nov/2015
+\dt 14/Jun/2016
 
 \lx fa
 \hm 3
@@ -8039,13 +8034,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge immobilize
-\sd 7.3.8
-\sd 6.3.1
-\sd 6.7.3
+\sd 7.2.6.2
 \de to disable a crabs claws by placing a tip of another claw in the claw; to tie the arms of a prisoner with a stick behind the back and in front of the elbows
 \xv Fɛkɩta ɔkɔtɔ a, lehian ánɩ́ fɛ́faan mʋ ablɩba. Mɛnɩ ɔmɛ́ɛkpa kɩta fʋ.
 \xe If you catch a crab, it is necessary to disable its claws. Then it won't pinch you.
-\dt 30/Jun/2014
+\dt 14/Jun/2016
 
 \lx faasɩ
 \ph faːsɪ (H)
@@ -8314,17 +8307,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge condense
-\sd 8.4.1
-\sd 7.3.8
+\sd 8.2.1
 \de to condense
-\dt 04/Feb/2016
+\dt 14/Jun/2016
 
 \lx fiala
 \ph fíálá
 \ps v
 \sn
 \ge twisted
-\sd 7.3.8
+\sd 8.3.1.5.2
 \de roll into a twist
 \xv Ɩla fiala.
 \xe It is twisted.
@@ -8332,7 +8324,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe His hair is twisted.
 \xv Fiala opuli, afʋpʋ tsitsi mʋ asʋtɔ.
 \xe Twist cotton, so that you can take it and clean his ears.
-\dt 04/Feb/2016
+\dt 14/Jun/2016
 
 \lx fialɩ
 \ph fíalɪ(H)
@@ -8444,7 +8436,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge open
-\sd 7.3.8
+\sd 7.3.6
 \de open; used of rooms, doors
 \rf Tape:2-1-518
 \xv Bafinki ɔkpa amʋ, sʋ ha atsʋn.
@@ -8453,7 +8445,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe He has come home from school and opened the room.
 \nt From ths: words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
 \bb Stewart List:2311
-\dt 18/Jun/2014
+\dt 14/Jun/2016
 
 \lx fio
 \ph fíó
@@ -8558,7 +8550,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge dry
-\sd 7.3.8
+\sd 1.3.3.1
 \de dry
 \rf Tape:2-1-528
 \xv Igye nɛfɩta atɔ.
@@ -8571,7 +8563,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Dry that cloth.
 \bb Stewart List:2260
 \bb Stewart List:2259
-\dt 06/May/2016
+\dt 14/Jun/2016
 
 \lx fɩtɛ
 \ph fɪ́tɛ́ (H)
@@ -8777,7 +8769,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge mix
-\sd 7.3.8
+\sd 7.5.3
 \de mix
 \bw Akan fi:fra L
 \xv Pʋ ɩsɩ amʋ fra siminti amʋtɔ afʋtsɩa mʋ́.
@@ -8785,7 +8777,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ɔlɔpʋ ntsu fra afa amʋ, asa olonun.
 \xe He mixed the medicine with water before he drank it.
 \bb Stewart List:2763
-\dt 17/Jun/2014
+\dt 14/Jun/2016
 
 \lx fu
 \ph fú
@@ -8887,8 +8879,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge pierce
-\sd 7.3.8
-\sd 6.6.3
+\sd 7.5.3
 \de to pierce something
 \rf Tape:2-2-007
 \xv Futi bʋ ɔsɩn sʋ nyebi bʋtamakle futi.
@@ -8908,7 +8899,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 2.6.4.1.1
 \de to give a medical injection
 \rf Tape:2-2-014
-\dt 11/Nov/2015
+\dt 14/Jun/2016
 
 \lx fututu
 \ph futútú
@@ -8991,7 +8982,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Its walls were high.
 \se tsu fʋa
 \ge lift
-\sd 7.3.8
+\sd 7.2.2.4
 \de to lift something up
 \rf Tape:2-2-031
 \xv Olotsu nwun fʋa.
@@ -9004,7 +8995,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de high
 \xv Ɔbɔpʋ amʋ lɔpʋ mɩ ya ɩbʋ fʋahɛ kʋsʋ.
 \xe The angel is took me and put me on the top of a high mountain.
-\dt 01/May/2016
+\dt 14/Jun/2016
 
 \lx fʋa
 \hm 2
@@ -9147,7 +9138,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge crash
-\sd 7.3.8
+\sd 7.7.1
 \de crash into
 \rf Tape:2-1-565
 \xv Olebetii Natɩsʋ. Sʋ olofwie Natɩtɔ.
@@ -9155,7 +9146,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-569
 \xv Anyawie amʋ bafwie abatɔ.
 \xe The friends crashed into each other.
-\dt 12/Jul/2014
+\dt 14/Jun/2016
 
 \lx fwie
 \hm 2
@@ -9593,14 +9584,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge lead
-\sd 7.3.8
+\sd 7.2.5.1
 \de lead; first
 \rf Tape:2-2-202
 \xv Gyankpa ayɔ, mɩ ɛ nɛba.
 \xe Take the lead, we are going. Me too, I am coming.
 \cf gyankpapʋ
 \ce first
-\dt 30/Jun/2014
+\dt 14/Jun/2016
 
 \lx gyankpapʋ
 \ph ʤaŋ͡mk͡papʊ
@@ -10067,7 +10058,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge break off
-\sd 7.3.8
+\sd 7.8.1
 \de to break a fruit from a group, palm nuts, bananas, plantain
 \cf sɩɛtɩ
 \ce break off
@@ -10078,7 +10069,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Gyɔɩ kwadu abi anyɔ ba mɩ.
 \xe Break off two bananas and bring them to me.
 \nt From ths: words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off)
-\dt 12/Jun/2014
+\dt 14/Jun/2016
 
 \lx gyɔpɩ
 \ph ʤɔpɪʔ
@@ -11809,12 +11800,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩbɩkpan
 \ph ɪbɪk͡pã
 \ps ADJ
-\sn
+\sn 8.1.8.1
+\sd 7.4.6
 \ge empty-handed
-\sd 8.3.7.8.2
-\sd 7.3.8
 \de empty handed
-\dt 12/Jul/2014
+\dt 14/Jun/2016
 
 \lx ɩbɩtata
 \ph ɪbɪtata
@@ -12461,14 +12451,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge knot
-\sd 7.3.8
+\sd 6.6.4.1
+\sd 7.5.4
 \de knot
 \xv Bʋtamatsʋn oserebiyinsʋ yɛda kpʋn.
 \xe They never by pass the thumb tie a knot (Particularly knotting a cloth around money).
 \xe Free: If an elder is in the house nothing is done without his knowledge - so consult him.
 \nt proverb
 \bb Stewart List:1206
-\dt 13/Jul/2014
+\dt 14/Jun/2016
 
 \lx ɩkʋ
 \ph ɪkʊ
@@ -13198,12 +13189,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge catarrh
-\sd 7.3.8
+\sd 2.5.2
 \de catarrh; common cold
 \rf Tape:3-1-187
 \xv Ɩsʋn lakɩta mɩ, sʋ mmɛtalɩ fʋ ɔŋɛ wanklaan.
 \xe Catarrh has caught me so I can't breathe well.
-\dt 13/Jul/2014
+\dt 01/Jun/2016
 
 \lx ɩsʋra
 \ph ɪsʊraʔ
@@ -14592,16 +14583,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 2
 \ge roam
-\sd 7.2.4
+\sd 7.2.1.3
 \de to roam around
 \xv Ɔma gyumagyihɛ. Mʋ́ sʋ ɔtɛnatɩ ki ahasʋ.
 \xe He has no work. That's why he always roams from person to person.
 \ps vt
 \sn 3
 \ge twist
-\sd 7.3.8
+\sd 7.2.2.7
 \de to twist or spin something
-\dt 27/Apr/2016
+\dt 14/Jun/2016
 
 \lx ki fia
 \ph kí fíá
@@ -14657,7 +14648,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge twist
-\sd 7.3.8
+\sd 7.2.1.3
+\sd 7.2.2.7
 \de to twist something
 \nt reduplication of ki - to turn
 \xv Bʋtamakiki ɔfɛ ɔbwɩ amʋ ansɩtɔ. Nɩ megyi alɩa ɔmɔ́ɔpʋ nwun wa mʋ́tɔ.
@@ -14671,7 +14663,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge steer
 \sd 7.2.4.1.1
 \de steer (a vehicle)
-\dt 02/Nov/2015
+\dt 14/Jun/2016
 
 \lx kiki
 \hm 2
@@ -14936,7 +14928,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge divide
 \sd 8
-\sd 7.3.8
+\sd 7.8
 \de divide
 \bw Akan fi:kyɛ
 \va yie
@@ -14945,7 +14937,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-2-020
 \xv Kɩɛ atɔ amʋtɔ ha nyebi amʋ fʋ onuto, mɛnɩ bʋmɔ́ɔkɔ.
 \xe Divide the things among the children yourself so that they don't fight.
-\dt 04/Jul/2014
+\dt 14/Jun/2016
 
 \lx kɩɛnɩ
 \ph kɪɛnɪ
@@ -14975,7 +14967,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge grasp
-\sd 7.3.8
+\sd 7.3.4.4
+\sd 7.3.3.1
 \de hold; grasp
 \xv Nabla Emmanuel mbɛɛ, ɔba akɩta mʋ́ ɔkɛ odua ɩbɛ́kana mʋ a, fówun alaba anɩlasuan atɔ.
 \xe I told Emmanuel He should come, we plan the day that is fitting for him so that you will see he has come and we have learned something.
@@ -15001,7 +14994,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge plan
 \sd 3.2.7
 \de to plan something
-\dt 01/Jul/2014
+\dt 01/Jun/2016
 
 \lx kɩta agywɩɩn
 \ph kɪ́táːʤwɪ̃ː(H)
@@ -15461,7 +15454,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge tie
-\sd 7.3.8
+\sd 7.5.4
 \de tie
 \lf Compound = klɩ ɔnɔ
 \le fast (refrain from food)
@@ -15478,18 +15471,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge bind spiritually
 \sd 4.9.7.7
 \de to use magic to bind someone spiritually
-\dt 02/Nov/2015
+\dt 14/Jun/2016
 
 \lx klɩhɛ
 \ph klɪhɛ
 \ps ADJ
 \sn
 \ge bundled
-\sd 7.3.8
-\sd 6.3.1
-\sd 6.7.3
+\sd 7.5.4
 \de something tied in a bundle
-\dt 13/Jul/2014
+\dt 14/Jun/2016
 
 \lx klo
 \ph klo
@@ -15571,7 +15562,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge tip
-\sd 7.3.8
+\sd 7.3.5
 \de tip; bow; turn over
 \nt co-occurs with tsoli or wa
 \rf Tape:3-2-253
@@ -15581,7 +15572,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ko nwuntɔ wa.
 \xe Bow down your head.
 \bb Stewart List:2752
-\dt 11/Jul/2014
+\dt 15/Jun/2016
 
 \lx Kofi
 \ph kofi
@@ -15639,9 +15630,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge resolutely
-\sd 7.3.8
+\sd 3.3.3.4
+\sd 3.3.1.6
 \de resolutely
-\dt 30/Jun/2014
+\dt 01/Jun/2016
 
 \lx kolegye
 \ph koleʤe
@@ -15955,12 +15947,9 @@ cf fonflo
 \sn
 \ge share out
 \sd 8
-\sd 7.3.8
-\sd 4.9.7.7
-\sd 6.4.5
-\sd 6.4.1
+\sd 7.4.4
 \de to share something out
-\dt 04/Feb/2016
+\dt 15/Jun/2016
 
 \lx kɔnkɔn
 \ph kɔ̃kɔ̃ʔ
@@ -16043,7 +16032,7 @@ cf fonflo
 \ps vt
 \sn 1
 \ge gather
-\sd 7.3.8
+\sd 7.5.1
 \de to gather something together
 \rf Tape:3-2-358
 \xv Kpa ipi amʋ tsitsa.
@@ -16051,7 +16040,7 @@ cf fonflo
 \ps vt
 \sn 2
 \ge push together
-\sd 7.3.8
+\sd 7.3.2.9
 \de to push something together
 \rf Tape:3-2-361
 \xv Kpa ɔda sun.
@@ -16059,8 +16048,7 @@ cf fonflo
 \ps vi
 \sn 3
 \ge spring (trap)
-\sd 7.3.8
-\sd 7.3.8
+\sd 6.4.2
 \de to spring
 \rf Tape:3-2-363
 \xv Yibi amʋ lakpa. Ɔma iteyinki
@@ -16069,7 +16057,7 @@ cf fonflo
 \ps vt
 \sn 4
 \ge lead
-\sd 7.3.8
+\sd 4.5.3.1
 \sd 7.2.5.4
 \de to lead
 \xv Kpa mʋ ya!
@@ -16083,7 +16071,7 @@ cf fonflo
 \ps vt
 \sn 5
 \ge rub
-\sd 2.3.5
+\sd 7.7.5
 \de to rub something on something else
 \rf Tape:3-2-364
 \xv Ɔlɔpʋ ofobi kpa mʋ ɩbɩ sʋ.
@@ -16092,6 +16080,7 @@ cf fonflo
 \ps vi
 \sn 6
 \ge fade
+\sd 2.3.1.5.1
 \sd 8.3.3.3
 \de to fade
 \rf Tape:3-2-370
@@ -16102,7 +16091,8 @@ cf fonflo
 \ps v
 \sn 7
 \ge clear
-\sd 9.1.1.1
+\sd 2.3.1.6
+\sd 8.3.3.1
 \de to become clear or light
 \xv kpa ogya
 \xe sparkle, flash
@@ -16113,7 +16103,7 @@ cf fonflo
 \de to take off (cloth)
 \xv Kpa tati.
 \xe Take off a cloth.
-\dt 27/Apr/2016
+\dt 01/Jun/2016
 
 \lx kpa
 \hm 2
@@ -16121,7 +16111,7 @@ cf fonflo
 \ps vi
 \sn 1
 \ge fall
-\sd 7.3.8
+\sd 7.2.2.5.1
 \de to fall
 \lf Serial = kpada
 \le fall and lie flat
@@ -16155,7 +16145,9 @@ cf fonflo
 \ps vt
 \sn 2
 \ge take off
-\sd 7.3.8
+\sd 8.5.3.1
+\sd 5.2.1.2.1
+\sd 7.3.3.1
 \de to remove something; flay skin
 \xv Fʋ bi ɔkɔ dinka fʋ obiansʋ a, bʋtamapʋ ɔdayi ka mʋ́. Mpʋsa bʋtɔpʋ kpa mʋ́.
 \xe If your child defecates on your thigh, don't cut it off with a knife. A sponge is what you use to remove it.
@@ -16171,10 +16163,10 @@ cf fonflo
 \xe The sick person has shaved his head and his beard so he has become good to look at.
 \se kpa tati
 \ge remove cloth
-\sd 7.3.8
+\sd 5.3.7
 \de to take off a (man's) cloth
 \bb Stewart List:2794
-\dt 18/May/2016
+\dt 15/Jun/2016
 
 \lx kpa ogya
 \ph k͡pá oʤáʔ(H)
@@ -16235,7 +16227,7 @@ cf fonflo
 \ps vi
 \sn
 \ge drop
-\sd 7.3.8
+\sd 7.2.2.5.1
 \de fall through the air and lie prone
 \cf dɩda
 \ce fall from standing
@@ -16249,7 +16241,7 @@ cf fonflo
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, fɔ́dʋ mʋ a, fɛ́kpada. Nɩ fɔdʋ yɔ anwunsʋ a, fɛ́kpada.
 \xe The tree that is not supple, if you climb it, you will fall. If you climb high you will fall.
 \nt Some trees like the frangipani and the avocado trees have brittle branches that are likely to break under you. Others like the orange tree are good for climbing.
-\dt 09/Nov/2015
+\dt 01/Jun/2016
 
 \lx kpafʋtɩ
 \ph k͡pafʊ́tɪ̂ː
@@ -16370,10 +16362,10 @@ cf fonflo
 \ps ADV
 \sn
 \ge shake strongly
-\sd 7.3.8
+\sd 7.3.1.3
 \de to shake strongly
 \xv kpɩnkɩ kpakpakpakpa
-\dt 30/Jun/2014
+\dt 01/Jun/2016
 
 \lx kpakpawie
 \ph k͡pak͡pawie
@@ -16506,13 +16498,13 @@ cf fonflo
 \sn
 \ge empty
 \sd 8.3.7.8.2
-\sd 7.3.8
+\sd 8.1.8.1
 \de empty
 \rf Tape:3-2-463
 \xv Daka kpan tse obutɔ. Hwɩɩ ma mʋ́ tɔ.
 \xe An empty box is in the room. Nothing is in it.
 \bb Stewart List:1705
-\dt 12/Jul/2014
+\dt 15/Jun/2016
 
 \lx Kpando
 \ph k͡pãndu
@@ -16677,13 +16669,13 @@ cf fonflo
 \ps vt
 \sn
 \ge catch
-\sd 7.3.8
+\sd 7.3.1.2
 \de to catch something thrown or dropped
 \rf Tape:3-2-487
 \xv Nɩ nɔ́kpɔtɩ mango amʋ a, fówun fakpata mʋ́ ha mɩ, mɛnɩ ɩmɛ́ɛda ɔsʋlʋtɔ yinta.
 \xe If I go pick the mango you should catch it for me so you will see that you have caught it for me so that it will not fall on the ground and spoil.
 \bb Stewart List:2678
-\dt 13/Jul/2014
+\dt 01/Jun/2016
 
 \lx kpawu
 \ph k͡pawu (H)
@@ -16720,7 +16712,7 @@ cf fonflo
 \ps v
 \sn 1
 \ge land
-\sd 7.3.8
+\sd 7.2.2.5.1
 \de land on one's feet
 \nt from kpa to drop - yi to erect
 \rf Tape:3-2-395
@@ -16736,7 +16728,7 @@ cf fonflo
 \rf Tape:3-2-392
 \xv Gota amʋtɔ lada ɔbɔ sʋ ntsu amʋ dɛkpayi mʋ́tɔ.
 \xe The gutter has made a hole so the water lands in it.
-\dt 09/Nov/2015
+\dt 01/Jun/2016
 
 \lx kpein
 \ph k͡péĩ́ː
@@ -16864,7 +16856,8 @@ cf fonflo
 \ps vt
 \sn
 \ge lean
-\sd 7.3.8
+\sd 7.1.6
+\sd 8.3.1.4.2
 \de lean against
 \nt This is intransitive, stative verb
 \cf kpɩsa
@@ -16874,14 +16867,14 @@ cf fonflo
 \xe Bamboo leaned against the wall.
 \nq is kpɛn only used with inanimate objects
 \bb Stewart List:2515
-\dt 22/Dec/2013
+\dt 15/Jun/2016
 
 \lx kpi
 \ph k͡píʔ(H)
 \ps vt
 \sn 1
 \ge scrape
-\sd 7.3.8
+\sd 7.7.6
 \de to scrape or grate something
 \rf Tape:3-2-523
 \xv kpi agbodi
@@ -16894,13 +16887,13 @@ cf fonflo
 \ps vt
 \sn 2
 \ge bump
-\sd 7.3.8
+\sd 7.7.1
 \de to bump into someone or something
 \rf Tape:3-2-530
 \xv Alapʋ atɔ sʋrahɛ kpi mɩ.
 \xe He has bumped into me with his load.
 \bb Stewart List:2523
-\dt 09/Nov/2015
+\dt 15/Jun/2016
 
 \lx kpie
 \hm 1
@@ -16928,15 +16921,14 @@ cf fonflo
 \ps vt
 \sn
 \ge impale
-\sd 7.3.8
-\sd 6.6.3
+\sd 7.8.5
 \de to impale
 \xv Bʋtekpie agyagya asa bʋtɛŋɛsɩ.
 \xe We pierce bats before they are smoked.
 \rf Tape:3-2-536
 \xv Kpie aye amʋ oyibibi amʋ sʋ.
 \xe Spear the meat (kabob) on a stick.
-\dt 30/Jun/2014
+\dt 15/Jun/2016
 
 \lx kpikpli
 \ph k͡pik͡pliʔ(L)
@@ -16975,9 +16967,11 @@ cf fonflo
 \ps v
 \sn
 \ge scoop
-\sd 7.3.8
+\sd 7.3.2.7
+\sd 5.2.2.8
+\sd 5.2.3.1.5
 \de use yam slice to gather soup from bowl
-\dt 21/Jun/2014
+\dt 15/Jun/2016
 
 \lx kpini
 \hm 2
@@ -17057,10 +17051,10 @@ cf fonflo
 \ps v
 \sn
 \ge slide on ground
-\sd 7.3.8
+\sd 7.2.1.5.1
 \de to sit and slide along the ground pulling with the feet with the buttocks on the ground
 \nt To do this is to show dismay and to invoke a curse on whoever has caused the dismay.
-\dt 28/Jul/2013
+\dt 01/Jun/2016
 
 \lx kpɩ
 \hm 3
@@ -17098,17 +17092,18 @@ cf fonflo
 \ps v
 \sn
 \ge shrink
-\sd 8.4.1
-\sd 7.3.8
+\sd 8.2.1
+\sd 8.2.7.1
 \de shrink
 \cf kpɩ3
 \ce tighten
-\dt 11/Nov/2015
+\dt 15/Jun/2016
 
 \lx kpɩnkɩ
 \ph k͡pɪ̃́ŋkɪ́
 \ge shiver
 \sd 7.2.2.8
+\sd 7.3.1.3
 \de shiver, wobble
 \ps v
 \sn
@@ -17126,7 +17121,7 @@ cf fonflo
 \ps v
 \sn
 \ge shake with fear
-\sd 7.3.8
+\sd 3.4.2.5
 \sd 7.2.2.8
 \de to shake with fear
 \xv Nenya wun ɩwɔ amʋa, ɩwɩ lɛkpɩnkɩ mɩ.
@@ -17137,14 +17132,14 @@ cf fonflo
 \bb Stewart List:2301
 \xv Lɔɔrɩ konti lɛkpɩnkɩ.
 \xe The truck tire wobbled.
-\dt 12/Jul/2014
+\dt 15/Jun/2016
 
 \lx kpɩsa
 \ph k͡pɪsá(H)
 \ps vt
 \sn 1
 \ge lean
-\sd 7.3.8
+\sd 7.1.6
 \de to lean something against something
 \cf kpɛn
 \ce lean
@@ -17152,12 +17147,12 @@ cf fonflo
 \ps vi
 \sn 2
 \ge recline
-\sd 7.3.8
+\sd 7.1.6
 \de to recline
 \rf Tape:3-2-564
 \xv Mɩ bi, kpɩsa mɩ sʋ.
 \xe My child, lean against me.
-\dt 02/Nov/2015
+\dt 15/Jun/2016
 
 \lx kpla
 \hm 1
@@ -17212,7 +17207,8 @@ cf fonflo
 \ps v
 \sn
 \ge squeeze
-\sd 7.3.8
+\sd 8.2.4.1
+\sd 8.2.7.1
 \de to catch in a tight place
 \rf Tape:3-2-582
 \xv Kufa amʋ lakplan ɩban amʋtɔ.
@@ -17226,7 +17222,7 @@ cf fonflo
 \bb Stewart List:2348
 \cf ɩkplan
 \ce difficulty
-\dt 04/Jul/2014
+\dt 15/Jun/2016
 
 \lx kplanhɛ
 \ph k͡planhɛ
@@ -17594,7 +17590,7 @@ cf fonflo
 \ps vt
 \sn
 \ge shake
-\sd 7.3.8
+\sd 7.3.1.3
 \de shake
 \rf Tape:4-1-128
 \xv kpʋkpʋ nwun
@@ -17616,7 +17612,7 @@ cf fonflo
 \ge winnow
 \sd 6.2.6.1
 \de to shake corn to remove the chaff
-\dt 28/Apr/2016
+\dt 01/Jun/2016
 
 \lx kpʋkpʋ
 \hm 2
@@ -17898,7 +17894,7 @@ cf fonflo
 \ps vt
 \sn
 \ge fold
-\sd 7.3.8
+\sd 8.3.1.5.3
 \de fold
 \rf Tape:4-1-202
 \xv Kunta tswɛ.
@@ -17917,7 +17913,7 @@ cf fonflo
 \xe Please fold your legs in and allow me to pass you.
 \bb Stewart List:2839
 \bb Stewart List:2843
-\dt 30/Jun/2014
+\dt 15/Jun/2016
 
 \lx kuntu
 \ph kuntú
@@ -18002,7 +17998,8 @@ cf fonflo
 \ps v
 \sn
 \ge take off
-\sd 7.3.8
+\sd 7.3.4.5
+\sd 8.1.6.2
 \de take some food from a communal portion
 \rf Tape:4-1-236
 \xv Kuti atogyihɛ amʋ wanklaan, makukuti mʋ́ anwunsʋ.
@@ -18012,7 +18009,7 @@ cf fonflo
 \de take off repetitively
 \cf kutibi
 \ce pinch
-\dt 05/Nov/2015
+\dt 15/Jun/2016
 
 \lx kutibi
 \ph kutibí (H)
@@ -18185,14 +18182,16 @@ cf fonflo
 \ps v
 \sn
 \ge collect
-\sd 7.3.8
+\sd 7.5.1
+\sd 6.2.5.3
+\sd 5.5.6
 \de pick
 \rf Tape:4-1-277
 \xv Bɔkʋla ngyatin.
 \xe They gathered firewood.
 \nt see tɔsɩ, kpa
 \ng kʋla
-\dt 21/Jun/2014
+\dt 15/Jun/2016
 
 \lx kʋlɩ
 \ph kʊ́lɪ́
@@ -18261,7 +18260,7 @@ cf fonflo
 \ps v
 \sn
 \ge stand up
-\sd 7.3.8
+\sd 7.1.1
 \de stand up
 \rf Tape:4-1-317
 \rf Tape:4-1-321
@@ -18274,7 +18273,7 @@ cf fonflo
 \rf Tape:4-1-313
 \xv Mlɩ kʋsʋ lɩɩ Ɔbʋnsam sʋ mɛnɩ ɔbɛ́sɩrɩ natɩ mlɩ wa.
 \xe Resist Satan so that he will he will run away from you.
-\dt 22/Dec/2013
+\dt 15/Jun/2016
 
 \lx Kwabena
 \ph kʷabɪná
@@ -18689,7 +18688,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 1
 \ge repair
-\sd 7.3.8
+\sd 7.9.4
 \de to repair
 \rf Tape:4-1-412
 \xv Ɔkandɩɛ amʋ layinta, mʋ́ sʋ la mʋ́.
@@ -18707,13 +18706,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ce lay out
 \se la isia
 \ge make nest
-\sd 7.3.8
+\sd 1.6.3.1
 \de to make a nest
 \xv Mbubwi bʋtɛla isia, tamɛ agyagya mʋ́ a, bʋtamala isia.
 \xe Birds make nests but bats never make nests.
 \bb Stewart List:2885
 \bb Stewart List:2972
-\dt 09/Nov/2015
+\dt 15/Jun/2016
 
 \lx la-
 \hm 3
@@ -19045,7 +19044,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps vt
 \sn 1
 \ge remove
-\sd 7.3.8
+\sd 7.3.2.7
 \de to remove
 \rf Tape:4-1-488
 \xv Lɛ atɔ amʋ bɛnsɩ amʋtɔ.
@@ -19059,7 +19058,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps vt
 \sn 2
 \ge choose
-\sd 3.2.1.1
+\sd 3.2.1.2
 \de to choose
 \rf Tape:4-1-491
 \xv Bɛlɛ kɩaɩ mʋa sisa ha obiatɔ tsia.
@@ -19067,13 +19066,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps vt
 \sn 3
 \ge show
-\sd 3.2.1.1
+\sd 3.2.1.4
 \de to show
 \xv Lɛ fʋ bwɛhɛ wanklaan suna.
 \xe Show your good deeds (behaviour).
 \se lɛ ha
 \ge betray
-\sd 4.3.3.1
+\sd 4.8.2.7
 \de to betray someone
 \lf Serial = lɛ ha
 \le betray
@@ -19099,7 +19098,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe I have come to show the reason you were found guilty.
 \lt Your guilt's reason revealing place I have come to.
 \nt Perhaps when your case came to the chief's palace you were found guilty but you didn't understand why the case went against you. Later someone who is favourable to you may come and say, Look I have come to explain why you lost the case.
-\dt 17/May/2016
+\dt 01/Jun/2016
 
 \lx lɛ-
 \ph lɛ-/lɛ́-
@@ -19276,7 +19275,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 2
 \ge maintain position
-\sd 7.3.8
+\sd 8.4.7
 \de to not change your mind
 \rf Tape:4-1-514
 \xv Lɩɩ otsukʋlɛ.
@@ -19286,11 +19285,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge wait
 \sd 8.5
 \sd 8.4.1
-\sd 3.3.2
+\sd 7.2.7.3
 \de to wait
 \xv Lɩɩ kpalobi.
 \xe Wait a little while.
-\dt 03/Nov/2015
+\dt 01/Jun/2016
 
 \lx lɩlɩ
 \ph lɪlɪ
@@ -19381,14 +19380,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge gouge
-\sd 9.1.1.1
-\sd 7.3.8
+\sd 7.8.5
 \de to remove leaving a hole
 \xv Ololoti mʋ nsibi lɛ.
 \xe He gouged out his eye.
 \xv Boloti bʋtatɔ bwɛ mʋ fuli ɔbɔ ɩnʋ.
 \xe They made a hole in the boulder making his grave there.
-\dt 13/Jun/2014
+\dt 15/Jun/2016
 
 \lx lowu
 \ph lowu(H)
@@ -19503,10 +19501,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 3
 \ge roll inside
-\sd 7.3.8
+\sd 8.3.1.5.1
 \de to roll something inside something
 \bb Stewart List:2820
-\dt 02/Nov/2015
+\dt 15/Jun/2016
 
 \lx lʋnlʋan
 \ph lʊ́nlʊ́ãʔ(L)
@@ -19671,7 +19669,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge detach
-\sd 7.3.8
+\sd 7.5.2.4
 \de remove something sticking to something else; e.g. bark of a tree, also to harvest corn
 \rf Tape:4-1-579
 \xv Igye nɛmaɩn plasta amʋ a, ɔlɔ amʋ lata.
@@ -19689,7 +19687,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-583
 \xv Mɩ kpoli lafuli. Nɛyɛmaɩn mʋ́ bɔwa ɔtsabitɔ.
 \xe My maize is ripe. I am going to husk it and put it into the shelf above the hearth.
-\dt 22/Dec/2013
+\dt 15/Jun/2016
 
 \lx maɩnhɛ
 \ph maɪ̃́hɛ́
@@ -19994,7 +19992,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge effort
 \sd 9.4.2.1
-\sd 7.3.8
 \sd 6.1.2.3.2
 \de difficult effort, attempt, try
 \nt occurs only with bɔ
@@ -20004,7 +20001,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-133
 \xv Bɔ mbɔ́dɩ, afʋgyi ɩsɔkɩ amʋsʋ.
 \xe Try and overcome the temptation.
-\dt 01/May/2016
+\dt 01/Jun/2016
 
 \lx mbrɛtɩ
 \ph mbrɛtɪ(H)
@@ -20265,13 +20262,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge roll
 \sd 8.3.1.5.1
+\sd 7.3.5
 \de roll
 \xv Oyemina ibwi kpɔnkpɔntɩ kʋ dɩnka mʋ́ ɔnɔ ɔkpa nsɩnɛ nʋ.
 \xe He rolled a big stone one on its mouth in the middle of the road there.
 \rf Tape:4-2-239
 \xv Mina barɩ amʋ ha mɩ.
 \xe Rolled the barrel for me.
-\dt 30/Jun/2014
+\dt 01/Jun/2016
 
 \lx mɩ
 \ph mɪ́
@@ -20345,11 +20343,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge wrap around
-\sd 7.3.8
+\sd 7.3.7.2
 \de to fold
 \xv Kiki ɔfɛ amʋ mla fʋ atɔsʋrahɛ.
 \xe Wrap the rope around your load.
-\dt 12/Jul/2014
+\dt 15/Jun/2016
 
 \lx mlambwɩ
 \ph mlambʷɪ
@@ -20432,14 +20430,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge be tangled
-\sd 7.3.8
+\sd 7.5.4.2
 \de to be tangled
 \xv Ɩdatɔ ɔfɛ tɔwa ɔsa mlin dʋn ɩfla.
 \xe Wire (metal rope) tangles more easily than vine.
 \xv Owie lemlin ɔfɛ amʋtɔ dɩda igye.
 \xe The chief tangled in the rope yesterday and fell down.
 \na Falling down causes a chief to be ritually impure.
-\dt 23/Jun/2014
+\dt 15/Jun/2016
 
 \lx mlɩ
 \ph mlɪ
@@ -23179,14 +23177,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps vt
 \sn
 \ge scrape
-\sd 7.3.8
+\sd 7.7.6
 \de scrape
 \cf kpi
 \ce scrape
 \xv Alanwɔsɩ afa dada amʋ, ɔbɛ́kpa pɔpwɛ.
 \xe He has scraped off the old medicine. He will put on new.
 \bb Stewart List:2760
-\dt 23/Dec/2013
+\dt 01/Jun/2016
 
 \lx nwumbi
 \ph ŋʷumbi
@@ -23400,8 +23398,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \de to be patient
 \se nya ɩklʋn amʋ manta
 \ge close door partially
-\sd 5.7.3
-\sd 7.3.8
+\sd 6.5.2.4
+\sd 7.3.6.1
+\sd 8.1.5.6
 \de partially close the door
 \rf Tape:5-1-497
 \se nya ɩwɩ
@@ -23424,7 +23423,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \de to start; used as the first verb in a serial verb construction to start doing
 \xv Benya wun mʋ alɩ, ...
 \xe When they noticed him doing that, ...
-\dt 09/Nov/2015
+\dt 15/Jun/2016
 
 \lx nya ɩwɩ
 \ph ɲá ɪwɪ
@@ -23786,7 +23785,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps v
 \sn
 \ge squeeze out
-\sd 7.3.8
+\sd 7.3.2.9
 \de to squeeze out
 \rf Tape:5-1-578
 \xv Nyimɛ ɔbwɩ amʋ ipu wʋlɩ pututɔ tsutsuutsu mɛnɩ ɩmóobon ba woyitɔ.
@@ -23798,7 +23797,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe Wring a cloth to remove the water from it.
 \bb Stewart List:2842
 \bb Stewart List:2866
-\dt 17/Jun/2014
+\cf mama3
+\ce squeeze
+\dt 15/Jun/2016
 
 \lx nyɔ
 \ph ɲɔ
@@ -23906,7 +23907,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge disappear/vanish
-\sd 7.3.8
+\sd 2.3.1.5.1
+\sd 7.6
 \de disappear using magic
 \xv Nkukubii baŋa mɩ kɔba.
 \xe Dwarfs have made my money disappear.
@@ -23914,14 +23916,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Oyin amʋ lɛŋa lɛ aha amʋ́ ɩbɩ.
 \xe The man vanished from the people's hands.
 \bb Stewart List:3320
-\dt 13/Jun/2014
+\dt 15/Jun/2016
 
 \lx ŋain
 \ph ŋaĩ́
 \ps v
 \sn
 \ge hide
-\sd 7.3.8
+\sd 7.6
 \de hide
 \rf Tape:5-2-018
 \xv Kebi amʋ laŋain, tsufɛ bʋdɛ mʋ dunka.
@@ -23931,7 +23933,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The matter he hid has come to light.
 \bb Stewart List:3326
 \bb Stewart List:3327
-\dt 13/Jun/2014
+\dt 15/Jun/2016
 
 \lx ŋɛsɩ
 \hm 1
@@ -23982,7 +23984,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge melt
-\sd 7.3.8
+\sd 1.2.3
+\sd 8.3.4
 \de melt
 \rf Tape:5-2-045
 \xv Bɔpʋ nfɔ dɩnka ogya a, ɩtɛŋlaɩn.
@@ -23991,7 +23994,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ogya ɩtɔ rɔba a, ɩtɛŋlaɩn.
 \xe If fire heats plastic it melts.
 \bb Stewart List:2257
-\dt 29/Sep/2013
+\dt 15/Jun/2016
 
 \lx ŋlanwun
 \ph ŋlanwũʔ
@@ -28088,14 +28091,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge full
-\sd 7.3.8
+\sd 8.1.8
 \de full
 \rf Tape:5-2-218c
 \xv Ha mɩ ntsu ɔwɛ ɔbɔ.
 \xe Give me a calabash full of water.
 \cf bʋla
 \ce be full
-\dt 09/Nov/2015
+\dt 15/Jun/2016
 
 \lx ɔbɔpʋ
 \ph ɔbɔpʊ(L)
@@ -32008,12 +32011,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge swing
-\sd 7.3.8
+\sd 7.2.2.8
 \de to swing back and forth
 \rf Tape:6-1-478
 \xv Nyebi amʋ bʋdɛ ɔtɛntɛ tswɩ oyi amʋtɔ.
 \xe The children are swinging in the tree.
-\dt 20/Jun/2014
+\dt 15/Jun/2016
 
 \lx ɔtɩ
 \ph ɔtɪ(H)
@@ -33227,8 +33230,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge sneak
-\sd 7.1.1
-\sd 7.3.8
+\sd 4.8.2.3.1
+\sd 7.2.1.1
+\sd 7.2.6.3
 \de to walk slowly and with caution
 \xv Ɔlɛpɛtɩ tsɛ-tsɛ-tsɛ-tsɛ.
 \xe He walked very slowly.
@@ -33237,7 +33241,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Ruth 3:7
 \xv Rut lɛpɛtɩ yobwii tati amʋ́ʋ́ ibun Boas ɩwɩ amʋ. Ɔlɛklɛdɩ mʋ ayabi asɩ.
 \xe Ruth sneaked up and opened the cloth that covered Boaz. She lay down at his feet.
-\dt 30/Jun/2014
+\dt 15/Jun/2016
 
 \lx pi
 \ph pí
@@ -33257,19 +33261,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge carry
-\sd 7.3.8
+\sd 7.3.1
 \de carry in your arms
 \cf sʋra2
 \ce carry on head
 \ps vt
 \sn 2
 \ge carry on back
-\sd 7.3.8
+\sd 7.3.1
+\sd 2.6.4.1.1
 \de to carry on the back, as a woman carries her baby
 \xv Tsu kebi amʋ pia, tsufɛ nsaɩntɔ lalwii.
 \xe Pick up the child in your arms because the weather is cool.
 \bb Stewart List:2655
-\dt 09/Nov/2015
+\dt 01/Jun/2016
 
 \lx pian
 \ph pĩ́ã́
@@ -33346,15 +33351,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge pull
-\sd 7.3.8
+\sd 7.3.2.7
 \de pull out
 \xv Owu amʋ tin ɩnʋ a, pio mʋ́ lɛ.
 \xe The thorn has appeared there so pull it out.
 \xv Pio ɔdayi amʋ lɛ ɔflɛtɔ ba mɩ.
 \xe Pull the knife out of its sheath and bring it to me.
 \cf bɩtɩ
-\ce pull
-\dt 18/Jun/2014
+\ce pull (on)
+\dt 01/Jun/2016
 
 \lx pipi
 \ph pípi
@@ -33433,13 +33438,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge scrape
-\sd 2.5.1
+\sd 2.5.3
 \de remove the skin
 \xv Nɛdɩda pɩɛɩ mɩ akpawunu.
 \xe I fell down and scraped my knees.
 \xv Nɛdɩda pʋ mɩ ofin si ibwi. Sʋ mɩ ofin lapɩɛɩ bwɛ ɔlɔ.
 \xe I fell down and hit my shin on a stone. So my shin has peeled and made a sore.
-\dt 30/Jun/2014
+\dt 01/Jun/2016
 
 \lx pɩɛntɩ
 \ph pɪɛ́ntɪ́
@@ -33837,8 +33842,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge weak
 \sd 2.4.2
-\sd 7
-\sd 7.3.8
 \sd 2.5.1
 \de to become weak
 \xv Mɩ bi lɔpɔn sʋ, mʋ aba bʋtɛda mʋ.
@@ -33846,7 +33849,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se owi lapɔn
 \ph owi lapɔ̃ʔ(L)
 \ge late afternoon
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de In the afternoon when it is getting cooler
 \lt sun has weakened
 \cf nyankɩ1
@@ -33855,7 +33858,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 2
 \ge soft
-\sd 8.3.2
+\sd 8.3.6.5
 \de to become soft
 \xv Mango amʋ lapɛ, pɔn, wa agyilɛ.
 \xe The mango has become ripe and soft and good to eat.
@@ -33863,6 +33866,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 3
 \ge slacken
+\sd 8.2.7.2
 \de to slacken a rope
 \xv Alapɔn ɔfɛ amʋtɔ, sʋ aha banyankɩ tsʋn mʋ́sʋ.
 \xe He slackened the rope; people have crossed over it.
@@ -33871,11 +33875,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe softened
 \se ha ɩpɔn
 \ge guilty
-\sd 4.6.1
-\sd 4.6.6.1
+\sd 4.7.6.2
 \de to declare guilty
 \bb Stewart List:3250
-\dt 17/May/2016
+\dt 01/Jun/2016
 
 \lx pɔntɔ
 \ph pɔ̃ntɔ(H)
@@ -34007,15 +34010,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge strive
-\sd 9.4.2.1
-\sd 7.3.8
+\sd 6.1.2.1
+\sd 4.8.2
 \bw Akan fi:prɩ L
 \de struggle to possess something
 \xv Prɩ afʋgyisʋ.
 \xe Struggle to win.
 \xv Maprɩ ɔyɩtɔ atɔ tsufɛ fówu si mʋ́ fɛ́ɛ́.
 \xe Don't struggle for worldly possessions because you will die and leave them all.
-\dt 01/May/2016
+\dt 02/Jun/2016
 
 \lx prʋn
 \ph prʊ̃ʔ
@@ -34212,7 +34215,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge take
-\sd 7.3.8
+\sd 7.3.3
 \de take / convey
 \xv pʋ ya
 \xe take it away
@@ -34221,7 +34224,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge use
-\sd 7.3.8
+\sd 6.1.2.2
+\sd 6.7
 \de to use something
 \ng used in serial verb constructions with the habitual to indicate instrument.
 \xv Ɩtswɛ bʋtɔpʋ kɔ.
@@ -34239,7 +34243,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to travel a short distance
 \xv Tɛkɩ nɔyɔ mʋ wa, tamɛ bɛɛ alapʋ ɔkpa.
 \xe I went to see him but they said he had gone a short distance.
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx -pʋ
 \ph -pʊ / -pʊ́
@@ -34307,7 +34311,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge mix
-\sd 7.3.8
+\sd 7.5.3
 \de mix
 \nt Always used together with pʋ -> pʋ fra.
 \bw Akan fi:fra
@@ -34315,7 +34319,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Take the sand and mix it in the cement so that you can mix it.
 \xv Pʋ nta pɔpwɛ amʋ mʋ́a dada amʋ fra mɛnɩ ɩbɔwa anunlɛ.
 \xe Take the new wine and the old one to mix so that it will be drinkable.
-\dt 23/Jun/2014
+\dt 15/Jun/2016
 
 \lx pʋ fuli
 \ph pʊ́ fúlí
@@ -34333,9 +34337,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge add to
-\sd 7.3.8
+\sd 7.5.2.3
 \de to add to
-\dt 22/Jun/2014
+\dt 15/Jun/2016
 
 \lx pʋpʋtɩ
 \hm 1
@@ -34481,20 +34485,23 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge block
-\sd 7.3.8
+\sd 7.3.6.2
+\sd 7.2.6.2
 \de to block someone from escape
 \ps v
 \sn 2
 \ge give enema
 \sd 2.5.1
+\sd 2.5.2.3
+\sd 2.2.8
 \sd 2.5.7
-\sd 2.6.4.1.1
+\sd 2.6.4.2.1
 \de give a liquid enema
 \xv Kebi ɔkʋ ɩwɩtɔ lasila sʋ mʋ yín lasa mʋ.
 \xe A certain child is having constipation, so his mother has given him an enema.
 \xv Bakwɛ afa sa kebi amʋ.
 \xe They have grind medicine to give the child enema.
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx saa
 \ph sâːʔ
@@ -34637,7 +34644,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge untie
-\sd 7.3.8
+\sd 7.5.4
+\sd 7.2.6.4
+\sd 8.2.7.2
 \de untie
 \xv Sankɩ ɔfɛ lɛ kufa amʋ ɔmɛtɔ.
 \xe Untie the rope from the sheep's neck and let the sheep go.
@@ -34649,13 +34658,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge spread out
-\sd 7.3.8
+\sd 7.3.7.3
+\sd 7.3.7
 \de to spread something out
 \xv Ɔlɛsankɩ ɔklan.
 \xe He unrolled the mat.
 \bb Stewart List:2840
 \bb Stewart List:2844
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx sanu
 \ph sanú
@@ -34851,7 +34861,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge leave
-\sd 7.3.8
+\sd 7.2.3.3
 \de to leave
 \xv Nasɩrɩ si mʋ wa nʋ.
 \xe I have run away and left him there.
@@ -34869,7 +34879,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to stop
 \xv Si bwɛ!
 \xe Stop doing that!
-\dt 03/Nov/2015
+\dt 01/Jun/2016
 
 \lx si
 \hm 2
@@ -34877,8 +34887,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge strike
-\sd 7.3.8
-\sd 7.3.8
+\sd 7.7.2
+\sd 7.7.1
 \de to strike something precisely or in a single location
 \xv Alapʋ ɩbɩ si mʋ kantɔ.
 \xe He tapped his chest. (A gesture or pride and boasting of strength). It is done with the fingertips and thumb gathered together.
@@ -34889,7 +34899,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Breaking a bottle against your head is an activity that can wound you. to protect themselves against a wound, but sometimes they also wound themselves doing it.
 \cf da1
 \ce hit
-\dt 09/Nov/2015
+\dt 01/Jun/2016
 
 \lx si
 \hm 3
@@ -34960,8 +34970,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge hang
 \sd 1.4
-\sd 7.3.8
-\sd 2.5
+\sd 7.3.2.4.1
+\sd 4.7.7.4
 \sd 4.6.6.1
 \de to hang something
 \xv Igye mɩ atadɩɛ lesian ɔfɛsʋ. Ndɛ nasɩɛɩ mʋ́.
@@ -34983,7 +34993,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The man has eaten the leftovers.
 \xv Tsu atɔ sianhɛ amʋ afʋwa mʋ́ ogya.
 \xe Take the leftovers and burn them.
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx Sibriso
 \ph sibrísʊ
@@ -35127,16 +35137,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge press down
-\sd 7.3.8
+\sd 7.7.4
 \de to press down
 \ps v
 \sn 2
 \ge be constipated
-\sd 2.5.1
+\sd 2.2.8
+\sd 2.5.2.3
 \de to be constipated
 \xv Kebi amʋ ɩwɩtɔ lasila sʋ mʋ yín lasa mʋ.
 \xe The child is constipated, so his mother has given him an enema.
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx siminti
 \ph símíntí
@@ -35255,24 +35266,24 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge unhang
-\sd 7.3.8
+\sd 7.3.2.4.1
 \de take something down that is hanging
 \xv Igye mɩ atadɩɛ lesian ɔfɛsʋ. Ndɛ nasɩɛɩ mʋ́.
 \xe Yesterday my shirt was left on the line. Today I've taken it down.
-\dt 01/Jul/2014
+\dt 15/Jun/2016
 
 \lx sɩɛtɩ
 \ph sɪ́ɛ́tɪ
 \ps vt
 \sn
 \ge break off
-\sd 7.3.8
+\sd 7.8.1
 \de break off, e.g. from a hand of plantain
 \xv Sɩɛtɩ oyi amʋ bambi ha mɩ.
 \xe Break off the tree branch for me.
 \xv Sɩɛtɩ blɔdɩ oblun ha mɩanpʋ fra agbodi amʋtɔ.
 \xe Break off green plantain for me to mix in with the cassava.
-\dt 13/Jul/2014
+\dt 15/Jun/2016
 
 \lx sɩlva
 \ph sɪ́lva
@@ -35337,7 +35348,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge send
-\sd 7.3.8
+\sd 7.3.3.3
 \de send with another or by another
 \xv Ɔkʋ ɔyɔ Hohɔe. Nɛsɩsɩ mʋ iye ɔhɔ ba mɩ.
 \xe Someone went to Hohoe I sent him to buy meat for me.
@@ -35351,7 +35362,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe We have sent father and mother to Tamale.
 \bb Stewart List:2672
 \bb Stewart List:3212
-\dt 30/Jun/2014
+\dt 01/Jun/2016
 
 \lx sogyayin
 \ph soʤayĩʔ
@@ -35400,12 +35411,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge seal
-\sd 7.3.8
+\sd 7.3.6.2
+\sd 1.3.2.1
 \de seal
 \xv Mɩ bɛnsɩ latii nɛ́ha asɔpʋ abʋsɔ mʋ́ ha mɩ.
 \xe My basin has developed a hole so I will take it to a sealer so that he should seal it for me.
 \bb Stewart List:2885
-\dt 30/Jun/2014
+\dt 15/Jun/2016
 
 \lx sɔ
 \hm 3
@@ -35483,15 +35495,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge slip
-\sd 1.2.1.1
-\sd 7.3.8
+\sd 7.2.1.5.1
 \de slip
 \xv Anɩ obiekpa bʋ ɔplɩ sʋ igye nɛsrɛɩ dɩda nʋ.
 \xe Our bathing area is slippery, so yesterday I fell down there.
 \xv Ɔtɩna ɩnʋ bʋ ɔplɩ, sʋ nasrɛɩ dɩda.
 \xe The place there has slipperiness so I slipped and fell.
 \bb Stewart List:2497
-\dt 30/Sep/2015
+\dt 01/Jun/2016
 
 \lx sripe
 \ph srípe
@@ -35536,12 +35547,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge chase
-\sd 7.3.8
+\sd 7.2.6
 \sd 6.4.1
 \sd 4.6.6.1
 \sd 4.8.3
 \de run after
-\dt 22/Jun/2014
+\dt 15/Jun/2016
 
 \lx srɩkɩ
 \ph srɪ́kɪ
@@ -35736,7 +35747,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge push
-\sd 7.3.8
+\sd 7.3.2.9
 \de to push something inanimate
 \rf Tape:7-1-094
 \xv Alasun yibi amʋ ha mɩ.
@@ -35753,9 +35764,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Anɩtɔpʋ ɔwʋlʋkpakpa sun akwɛ.
 \xe We put dried skins stretch them on top of the drums.
 \cf wuta
-\ce push
+\ce push (animate)
 \bb Stewart List:2659
-\dt 01/Feb/2014
+\dt 01/Jun/2016
 
 \lx suna
 \ph súná
@@ -35798,7 +35809,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge fall over
-\sd 7.3.8
+\sd 7.2.2.5.1
 \de to fall over, as a tree felled
 \xv Nɔpʋ oplimbi kpɩsa bunti sʋ, nɛba a, la sunki da.
 \xe I leaned the oplimbi against the wall and when I came back it had fallen over.
@@ -35808,7 +35819,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf kpada
 \ce fall from height
 \nt From ths: words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpa wie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
-\dt 12/Jun/2014
+\dt 01/Jun/2016
 
 \lx susu
 \ph súsûʔ
@@ -35915,7 +35926,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge carry
-\sd 7.3.8
+\sd 7.3.1
 \de to carry something
 \nt cf na & natɩ vs sʋn & sʋra
 \va sʋ
@@ -35923,7 +35934,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Sawun ɔbɛɛ ɔma ɔha ánɩ́ owu obopula mʋ, sʋ ɔna ɔsʋn mʋ daka.
 \xe Tortoise says he doesn't have a person that if he dies he will bury him, so he walks, carrying his coffin.
 \bb Stewart List:2673
-\dt 13/Jul/2014
+\dt 01/Jun/2016
 
 \lx sʋnswɛ
 \hm 1
@@ -35987,7 +35998,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge carry
-\sd 7.3.8
+\sd 7.3.1
 \de carry on the head
 \nt the continuative is sʋ if dɛ is used, it refers to the action of putting a load on someone's head.
 \se atɔ sʋrahɛ
@@ -36021,7 +36032,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to exclaim loudly
 \xv sʋra okitikiti
 \xe exclaim loudly; raise alarm
-\dt 20/May/2016
+\dt 01/Jun/2016
 
 \lx sʋrama
 \ph sʊramá
@@ -36076,12 +36087,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge hold above
-\sd 7.3.8
+\sd 8.5.1.3.1
 \de to hold something over or above something
 \xv Ɩka igyi dimbisʋ ɩfa kʋ ánɩ́ tamakɔsɩ wu. Bʋtɛtalɩ pʋ sʋta igyo. Mʋ́ bʋtɔpʋ da ekeyi nɩ.
 \xe Elephant grass is a type of grass that does not die quickly. They can use it to stake yams. It is also used as a staff for questioning a corpse.
 \nt sʋta, or sʋta mʋ́ is to catch; pʋ sʋta mʋ́ sʋ is to hold over something
-\dt 11/Nov/2015
+\dt 15/Jun/2016
 
 \lx sʋta
 \hm 2
@@ -36089,7 +36100,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge catch
-\sd 7.3.8
+\sd 7.3.1.2
 \de to catch a liquid, as in catch rain water, or oil in an oil change
 \rf Tape:7-1-228
 \xv Nɩ nyankpʋ de tswie a, anɩtɔsʋta nyankpʋ ntsu wa ɔlɔ́tɔ.
@@ -36111,7 +36122,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Basʋta kufa amʋ.
 \xe The sheep is slaughtered.
 \nt sʋta, or sʋta mʋ́ is to catch; pʋ sʋta mʋ́ sʋ is to hold over something
-\dt 04/Feb/2016
+\dt 01/Jun/2016
 
 \lx sʋtin
 \ph sʊtĩ́ʔ
@@ -36451,13 +36462,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge seal
-\sd 7.3.8
+\sd 7.3.7
+\sd 7.3.6.2
 \de seal to stop leaks- paste something on top of something
 \rf Tape:7-1-336
 \xv Natan mʋ́.
 \xe I sealed it.
 \bb Stewart List:2885
-\dt 30/Jun/2014
+\dt 15/Jun/2016
 
 \lx tanibi
 \ph tanibiʔ
@@ -36481,12 +36493,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge tip
-\sd 7.3.8
+\sd 7.1.7
+\sd 7.1.9
 \de tip (head) back
 \rf Tape:7-1-350
 \xv Tanka nwun afʋkɩ obubwi amʋ anwunsʋ.
 \xe Tip your head back so that you can see the bird in the sky.
-\dt 11/Jul/2014
+\dt 15/Jun/2016
 
 \lx tanta
 \ph tanta
@@ -36813,12 +36826,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 2
 \ge plain
-\sd 7.3.8
+\sd 2.3.1.2
 \de to be in plain view
 \rf Tape:7-1-444
 \xv Sika amʋ́ʋ́ bɛɛ fatsu fɛɛ fʋmɔkʋ tsu amʋ da ɩnʋ tɛtrɛtɛɛ.
 \xe The money that they said you have taken, and you say you haven't taken is lying down there openly.
-\dt 01/May/2016
+\dt 15/Jun/2016
 
 \lx tian
 \ph tiãʔ
@@ -36926,7 +36939,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge plug
-\sd 7.3.8
+\sd 7.3.6.2
 \de plug or close off an opening
 \ng In Nkonya, "tin" can be used with words like a hole "ɔbɔ", a road "ɔkpa", a bottle "prɛntʋa" and nose "ɔwɔntɩ".
 \xv Pʋ ɩbɩ tin asʋ.
@@ -36937,7 +36950,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔkpasʋ agyʋma ayɔpʋ amʋ batin ɔkpa tsufɛ bʋdɛ agyʋma yɔ ɔkpa amʋsʋ.
 \xe The road workers have blocked the road because they are working on the road.
 \bb Stewart List:2872
-\dt 30/Jun/2014
+\dt 15/Jun/2016
 
 \lx tinsa
 \ph tínsaʔ
@@ -37220,7 +37233,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge tear
-\sd 7.3.8
+\sd 7.8.4
 \de to tear something- especially cloth
 \rf Tape:7-1-572
 \xv Tɩtɩ latɩtɩ.
@@ -37228,7 +37241,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-574
 \xv Ɔdatobi latɩtɩ mɩ atadɩɛ.
 \xe A nail has torn my shirt.
-\dt 11/Jul/2014
+\dt 15/Jun/2016
 
 \lx tɩtɩ
 \hm 3
@@ -37542,7 +37555,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge pick up
-\sd 7.3.8
+\sd 7.3.4.2
 \de pick up one by one
 \cf kʋla
 \ce gather
@@ -37553,7 +37566,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-051
 \xv Makpa kpoli amʋ, mboun tɔsɩ mʋ́ mɛnɩ ɩsɩ mówie mʋ́tɔ.
 \xe Don't gather the corn, instead pick it up one by one so that sand won't enter it.
-\dt 09/Nov/2015
+\dt 15/Jun/2016
 
 \lx tɔtɔ
 \ph tɔtɔ
@@ -37635,7 +37648,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge arrange
-\sd 7.3.8
+\sd 7.5.5
 \de arrange as on a table
 \rf Tape:7-2-120
 \xv Alatrɛ mbia yaɩ obu amʋtɔ.
@@ -37645,7 +37658,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf bʋa2
 \ce prepare
 \bb Stewart List:2972
-\dt 10/Nov/2015
+\dt 15/Jun/2016
 
 \lx trɛ
 \hm 2
@@ -37735,16 +37748,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge step
-\sd 7.1.1
-\sd 7.3.8
-\sd 7.3.8
+\sd 7.2.1.1
+\sd 7.7.3
 \de to step on something
 \xv Kebi amʋ tɛtsa ogyasʋ dʋbɩ.
 \xe The child steps on fire too much.
 \cf tsatsa
 \ce trample
 \bb Stewart List:2841
-\dt 11/Nov/2015
+\dt 15/Jun/2016
 
 \lx tsa
 \hm 3
@@ -37762,16 +37774,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn
 \ge step
-\sd 7.1.1
-\sd 7.3.8
-\sd 7.3.8
+\sd 7.2.1.1
+\sd 7.7.3
 \de to step on something
 \xv Kebi amʋ tɛtsa ogyasʋ dʋbɩ.
 \xe The child steps on fire too much.
 \cf tsatsa
 \ce trample
 \bb Stewart List:2841
-\dt 25/Jun/2014
+\dt 01/Jun/2016
 
 \lx tsafa
 \ph t͡safa(H)
@@ -37843,9 +37854,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge throw away
-\sd 7.3.8
+\sd 7.4.5.2
 \de to throw s. t. away
-\dt 11/Jul/2014
+\dt 01/Jun/2016
 
 \lx tsamboyi
 \ph t͡sámboyí
@@ -37886,12 +37897,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge hang
-\sd 7.3.8
+\sd 7.3.1
+\sd 6.7.3
+\sd 6.7.7.1
 \de hang from shoulder
 \rf Tape:7-2-207
 \xv Alatsan kotokua.
 \xe He has hung a bag from his shoulder.
-\dt 30/Jun/2014
+\dt 15/Jun/2016
 
 \lx tsankasɩ
 \ph t͡sãŋkasɪ
@@ -37974,13 +37987,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge trample
-\sd 7.1.1
-\sd 7.3.8
-\sd 7.3.8
+\sd 7.2.1.1
+\sd 7.7.3
 \de trample
 \cf tsa4
 \ce step on
-\dt 10/Nov/2015
+\dt 15/Jun/2016
 
 \lx tse
 \ph t͡se
@@ -38089,7 +38101,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn 1
 \ge stealthily
-\sd 7.3.8
+\sd 7.2.1.1
+\sd 6.4.1.1
 \de to walk stealthily
 \nt said slowly
 \rf Tape:7-2-252
@@ -38103,14 +38116,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 7.1.1
 \de to walk with a scuffling sound (said quickly)
 \nt occurs only in reduplicated form
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx tsɛɩ
 \ph t͡sɛ́ɪ́
 \ps vt
 \sn 1
 \ge pour
-\sd 7.3.8
+\sd 1.3.2.1
 \de to pour a liquid
 \rf Tape:7-2-258
 \xv Tsɛɩ ntsu amʋ lɛ, afʋpʋ bokiti amʋ ha mɩ.
@@ -38119,12 +38132,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge have diarrhoea
 \sd 2.5.1
+\sd 2.5.2.3
 \de to have diarrhoea
 \rf Tape:7-2-263
 \xv Fʋ bi amʋ ɩwɩtɔ latii sʋ ɔdɛtsɛɩ.
 \xe Your child's stomach has opened so he is running diarrhoea.
 \bb Stewart List:2666
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx tsɛlɛ
 \hm 1
@@ -38169,7 +38183,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge stay
 \sd 7.2
-\sd 7.3.8
+\sd 5.9
 \de to live in a place
 \xv Abɔ́yɔ wulu yile kʋsʋ, yetsia ɩnʋ ofi ɔkʋlɛ gyi ibia nya ɩwɩ.
 \xe We will go to a certain city, go stay there a year, trade and get rich.
@@ -38182,7 +38196,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Don't behave like that.
 \cf tsiatɔ
 \ce behaviour
-\dt 20/May/2016
+\dt 15/Jun/2016
 
 \lx tsia
 \hm 2
@@ -38479,7 +38493,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge discard; pour
-\sd 7.3.8
+\sd 7.4.5.2
+\sd 8.3.7.8.3
 \de throw away
 \nt occurs only with pʋ in a serial verb construction
 \rf Tape:7-2-375
@@ -38488,7 +38503,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:2532
 \bb Stewart List:2667
 \bb Stewart List:2849
-\dt 12/Jul/2014
+\dt 15/Jun/2016
 
 \lx tsitsi
 \hm 1
@@ -38717,9 +38732,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge full
-\sd 7.3.8
+\sd 8.1.8
 \de full
-\dt 21/Jun/2014
+\dt 15/Jun/2016
 
 \lx tsɔtsɔ
 \ph t͡sɔt͡sɔ
@@ -38755,7 +38770,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge pick
-\sd 7.3.8
+\sd 7.3.4.2
 \de pick up
 \rf Tape:7-2-452
 \xv Igye notsu atɔ.
@@ -38770,7 +38785,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf kpa1
 \ce gather
 \bb Stewart List:2670
-\dt 10/Nov/2015
+\dt 15/Jun/2016
 
 \lx tsu
 \hm 2
@@ -38992,11 +39007,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge take all
-\sd 7.3.8
+\sd 7.5.1
+\sd 6.2.5.3
+\sd 8.1.5
 \de to collect everything from a certain place
 \xv Oyin ɔkʋ lɔtsʋnkɩ mɩ igyo fɛ́ɛ́ lɛ mɩ ndɔtɔ, ɩnɩsʋ ansɩ mɛdɛ mɩ gyi kʋraa.
 \xe A certain man collected all my yams from my farm, so I am not happy at all.
-\dt 11/Jul/2014
+\dt 15/Jun/2016
 
 \lx tswɛ
 \hm 1
@@ -39089,7 +39106,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge throw
-\sd 7.3.8
+\sd 7.3.1.1
 \de to throw something
 \rf Tape:7-2-565?
 \xv Alatswɩ ibwi da mɩ.
@@ -39121,7 +39138,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 3
 \ge swing arms
-\sd 7.3.8
+\sd 7.2.2.8
 \de to swing arms
 \rf Tape:3-2-225
 \xv Atɔ lada mɩ klɛtɔ, sʋ mmɛtalɩ tswɩ mɩ ɩbɩ wanklaan.
@@ -39166,7 +39183,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 7.1.1
 \sd 6.5.4.1
 \de to dive into something
-\dt 01/May/2016
+\dt 15/Jun/2016
 
 \lx tswɩ lala
 \ph t͡swɪ lala
@@ -39201,7 +39218,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge leave
-\sd 7.3.8
+\sd 7.4.5.1
 \de to separate
 \nt the core meaning seems to separate from oneself
 \xv tu duku
@@ -39216,7 +39233,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge emigrate
-\sd 7.2.4
+\sd 7.2.4.5
 \de to emigrate to somewhere
 \ps v
 \sn 3
@@ -39233,7 +39250,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to spit
 \rf Tape:7-2-568
 \bb Stewart List:2040
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx tu
 \hm 2
@@ -39632,7 +39649,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 5
 \ge put in
-\sd 7.3.8
+\sd 7.3.2.6
 \de to put something in something
 \xv Bʋtamakiki ɔfɛ ɔbwɩ amʋ ansɩtɔ. Nɩ megyi alɩa ɔmɔ́ɔpʋ nwun wa mʋ́tɔ.
 \xe They don't twist the rope (make a halter) in the animal' s face. If you do that he won't put his head in it.
@@ -39649,7 +39666,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-174
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
-\dt 20/May/2016
+\dt 15/Jun/2016
 
 \lx wa bɩ
 \ph wá bɪ
@@ -39970,14 +39987,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge enter
-\sd 7.2
-\sd 7.3.8
+\sd 7.2.3.4
 \de to enter something
 \rf Tape:8-1-282
 \xv Bowie obutɔ anyɔ a, bʋdalɩ asa.
 \xe They should enter the room two and come out three.
 \bb Stewart List:2458
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx wɩ
 \hm 1
@@ -40085,8 +40101,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge pierce
-\sd 7.3.8
-\sd 6.6.3
+\sd 7.8.5
 \de to pierce something, to stab someone
 \rf Tape:8-1-323
 \xv Bɔpʋ pɩa wɔ Yesu abɩntɔ.
@@ -40130,7 +40145,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to say something hurtful with words
 \xv Nɛblɩ oblikpini wɔ mɩ kulu.
 \xe I spoke indirectly and hurt my husband.
-\dt 20/May/2016
+\dt 15/Jun/2016
 
 \lx wɔfa
 \ph wɔfa
@@ -40175,7 +40190,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge loosen
-\sd 7.3.8
+\sd 8.2.7.2
 \de loosen a rope that has been tied around something
 \cf pɔn
 \ce soften
@@ -40186,7 +40201,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe You have tied the rope too much so loose it a little.
 \bb Stewart List:2342
 \bb Stewart List:2772
-\dt 08/Feb/2014
+\dt 15/Jun/2016
 
 \lx wɔɩ tɩa
 \ph wɔ́ɪ́ tɪa
@@ -40490,7 +40505,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge push
-\sd 7.3.8
+\sd 7.3.2.9
 \de to push a person
 \cf sun
 \ce push (a thing)
@@ -40499,7 +40514,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He stood in the way so some strong men pushed him down.
 \bb Stewart List:2487
 \bb Stewart List:2659
-\dt 25/Dec/2013
+\dt 01/Jun/2016
 
 \lx wʋdɩ
 \ph wʊ́dɪ́
@@ -40578,7 +40593,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge pour
-\sd 7.3.8
+\sd 1.3.2.2
 \de pour onto something flat; to cover; to spread out, especially something poured out and not recoverable; used with liquids and pourable solids
 \xv wʋlɩ ntsu
 \xe pour water
@@ -40589,7 +40604,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Yesterday they poured coal tar.
 \xv Nabun tomantose abi sʋ nɔyɔ wʋlɩ ntsu mʋ́sʋ.
 \xe I have nursed tomatoes seeds so I am going to water it.
-\dt 30/Jun/2014
+\dt 15/Jun/2016
 
 \lx wʋlɩhɛ
 \ph wʊlɪhɛ
@@ -40637,7 +40652,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge wave
-\sd 7.3.8
+\sd 7.2.2.8
 \de wave, e.g. a flag
 \rf Tape:8-1-414
 \xv Ogya latɔ mʋ sʋ ɔdɛ mʋ ɩbɩ wʋna.
@@ -40646,7 +40661,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔdɛ asafʋ ɔfranka amʋ wʋna.
 \xe He is waving the war group's flag.
 \bb Stewart List:2848
-\dt 12/Jul/2014
+\dt 15/Jun/2016
 
 \lx wʋnsa
 \ph wʊnsaʔ
@@ -40695,7 +40710,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge send
-\sd 7.3.8
+\sd 7.3.3.3
+\sd 7.2.8
 \de take to
 \nt occurs as a serial verb with pʋ, tsʋ, kɩta (mʋ), kpa (mʋ) lead; cf yaɩ
 \rf Tape:8-1-449
@@ -40710,7 +40726,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf kpa1 4
 \ce lead
 \bb Stewart List:2675
-\dt 10/Nov/2015
+\dt 15/Jun/2016
 
 \lx Yaa
 \ph yaː
@@ -40805,8 +40821,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge place
 \sd 9.1.1.1
-\sd 8
-\sd 7.3.8
+\sd 2.3.1.1
 \sd 3.3.2
 \de to put down something carefully
 \rf Tape:8-1-476
@@ -40818,6 +40833,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge provide for
 \sd 6.3.1
+\sd 4.3.4.5.2
 \de to provide for a child
 \rf Tape:8-1-472
 \xv Ɔlɛyaɩ obi amʋ, tamɛ ɔmɛbʋla mʋ.
@@ -40825,7 +40841,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-478
 \xv Napʋ amʋ́ yɛyaɩ sukuutɔ.
 \xe I put them into school (at a distant place).
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx Yao
 \ph yao
@@ -40893,8 +40909,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge divide
-\sd 8
-\sd 7.3.8
+\sd 7.8
 \de to divide for people to get their share
 \xv Ye atɔ amʋtɔ ankpa mɩ klɛ.
 \xe Divide the things so I should collect mine.
@@ -40907,7 +40922,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va kɩɛ
 \ve South
 \bw Akan fi:ɩkyɛ
-\dt 04/Jul/2014
+\dt 15/Jun/2016
 
 \lx yebi
 \ph yébíʔ(L)
@@ -41035,7 +41050,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge press
-\sd 7.3.8
+\sd 7.7.4
+\sd 7.3.2.9
 \de to press on something
 \rf Tape:8-1-555
 \xv Oleyia opuli wa kɛntɛtɔ.
@@ -41075,7 +41091,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-554
 \xv Ɔdɛ oyi yia.
 \xe He is using a walking stick.
-\dt 03/Nov/2015
+\dt 15/Jun/2016
 
 \lx yibi
 \ph yibi(H)
