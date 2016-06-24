@@ -6673,14 +6673,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph dáfá
 \ps ADJ
 \sn
-\ge far
+\ge deeply
 \sd 7
-\de so far (deeply)
+\de deeply; strongly; beyond what is normal
 \xv Abraham lɛdɩdɩ dafa.
 \xe Abraham slept so deeply.
 \xv Ɔblɔ tɛha ɔha tɔtɔɩ dafa ha asʋn tɛba.
 \xe Anger makes people talk too far to create problems.
-\dt 28/Oct/2013
+\dt 29/Jun/2016
 
 \lx daɩ
 \ph daɪ
@@ -16427,7 +16427,7 @@ cf fonflo
 \ph k͡palɪ́
 \ps v
 \sn
-\ge strip
+\ge cut away
 \sd 6.2.5.3
 \de to strip leaves off a branch, or to prune branches from a tree
 \nt to strip palm branches for basket making, or bamboo
@@ -16437,7 +16437,7 @@ cf fonflo
 \rf Tape:3-2-453
 \xv Bʋ tɛkpalɩ oyi.
 \xe They prune branches from trees.
-\dt 22/Dec/2013
+\dt 20/Jun/2016
 
 \lx kpalɩ
 \hm 2
@@ -16832,13 +16832,13 @@ cf fonflo
 \dt 22/Dec/2013
 
 \lx kpɛlɛ
-\ph k͡pɛlɛ́
+\ph k͡pɛ́lɛ́
 \ps v
 \sn
 \ge turn head
 \sd 7.2
 \de to turn your head
-\dt 27/Apr/2016
+\dt 20/Jun/2016
 
 \lx kpɛn
 \ph k͡pɛ̃ʔ
@@ -22298,7 +22298,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ph nsaɪntɔ(H)
 \ps n
 \sn 1
-\ge weather
+\ge environ
 \sd 1.1.3
 \de weather
 \xv Nsaɩntɔ latɩn.
@@ -22313,7 +22313,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \de region
 \xv Kpando nsaɩntɔ
 \xe Kpando and environs
-\dt 02/Nov/2015
+\dt 21/Jun/2016
 
 \lx nsansa
 \ph nsansá
@@ -27566,21 +27566,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe People who have space in between their teeth like to laugh.
 \dt 03/Nov/2015
 
-\lx oyipɛɛ
-\ph oyípɛ̂ː
+\lx oyipɛ
+\ph oyípɛ̂ʔ
 \ps n
 \sn
 \ge writing stick
 \sd 3.6.2
 \de writing stick
-\se oyipɛɛ tati
-\ph oyípɛ̂ː tati(H)
+\se oyipɛ tati
+\ph oyípɛ̂ʔ tati(H)
 \ge dyed cloth
 \sd 6.6.1.1
 \sd 6.6.1.2
 \de cloth dyed with tree bark
-\na oyipɛɛ tati - a cloth that has been dyed with tree bark, at one point, our grandmother's time they would sew flour sacking and use it, That's how the tie and dye started.
-\dt 11/Jun/2014
+\na oyipɛ tati - a cloth that has been dyed with tree bark, at one point, our grandmother's time they would sew flour sacking and use it, That's how the tie and dye started.
+\dt 29/Jun/2016
 
 \lx oyitsu
 \ph oyit͡suʔ
@@ -30749,7 +30749,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge this person
 \sd 9.2.3.5
 \de this person
-\dt 20/May/2016
+\pl anɩ
+\plph ánɪ
+\dt 24/Jun/2016
 
 \lx ɔnlɩn
 \ph ɔ̃nlɪ̃ʔ
@@ -36279,14 +36281,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de almost
 \xv Olowu ta.
 \xe He almost died.
-\xv Ɔlɛta wu ta.
-\xe He very nearly died.
-\xv Olegyi ta.
-\xe He almost finished eating.
-\xv Ɔlɛta gyi ta.
-\xe He very nearly finished eating.
 \xv Nɩ oputsu ta atogyihɛtɔ a, ɩma agyilɛ.
 \xe If the soup in the food finishes it is not easy to eat.
+\xv Olegyi ta.
+\xe He almost finished eating.
+\se ta X ta
+\ge nearly
+\sd 8.1
+\de to very neary accomplish some action
+\xv Ɔlɛta wu ta.
+\xe He very nearly died.
+\xv Ɔlɛta gyi ta.
+\xe He very nearly finished eating.
+\ng This is an example of the grammatical form of fronting and repeating a verb for emphasis.
 \ps v
 \sn 3
 \ge often
@@ -36295,7 +36302,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nkʋnʋ fʋdɛta bɔtsʋn yɔ alɩ a?
 \xe Where do you often go when you pass here?
 \bb Stewart List:2958
-\dt 03/Nov/2015
+\dt 16/Jun/2016
 
 \lx taan
 \ph tã̂ːʔ
