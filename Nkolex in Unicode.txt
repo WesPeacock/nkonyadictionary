@@ -4723,7 +4723,7 @@
 \ps v
 \sn
 \ge put on
-\sd 8
+\sd 8.5.1.3
 \de stand on
 \xv Alapʋ oputsu bian ogyasʋ.
 \xe He has put the soup on the fire to reheat.
@@ -4734,7 +4734,7 @@
 \xe Spread the blanket on the bed.
 \xv Yaɩ kuntu amʋ tswɩ ɔsʋlʋtɔ.
 \xe Lay the blanket out on the ground.
-\dt 12/Jun/2014
+\dt 15/Jul/2016
 
 \lx biasʋ
 \ph bíásʊ́
@@ -4974,7 +4974,7 @@
 \ps n
 \sn
 \ge left
-\sd 8
+\sd 8.5.2.3
 \de left (vs. right)
 \na The left is considered impure. Only the right hand is used for eating.
 Nothing is received or given with the left hand.
@@ -4991,14 +4991,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf bɩnasʋ
 \ce lefthand side
 \bb Stewart List:0019
-\dt 12/Jun/2014
+\dt 15/Jul/2016
 
 \lx bɩnasʋ
 \ph bɪnasʊ
 \ps ADV
 \sn 1
 \ge left side
-\sd 8
+\sd 8.5.2.3
 \de on the left
 \ps ADV
 \sn 2
@@ -5006,7 +5006,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 8
 \de North
 \nt On the left when you stand facing east.
-\dt 02/Nov/2015
+\dt 15/Jul/2016
 
 \lx bɩsɩ
 \ph bɪsɪ(H)
@@ -8718,7 +8718,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps LOC
 \sn
 \ge far
-\sd 8
+\sd 8.2.6.1
 \de far
 \cf tsutsu
 \ce far
@@ -8727,7 +8727,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-558
 \xv Ndɔ amʋtɔ bʋ fɔ.
 \xe The farm is far from here.
-\dt 01/Feb/2014
+\dt 15/Jul/2016
 
 \lx -fɔ
 \ph -fɔ (H)
@@ -10069,7 +10069,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge right
-\sd 8
+\sd 8.5.2.3
 \de right (vs. left)
 \xv Mapʋ bɩna gyi atɔ amʋ, pʋ gyɔpɩ gyi mʋ́.
 \xe Don't take your left hand to eat food, use your right.
@@ -10077,21 +10077,21 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf gyɔpɩsʋ
 \ce to the right
 \bb Stewart List:0020
-\dt 02/Oct/2015
+\dt 15/Jul/2016
 
 \lx gyɔpɩsʋ
 \ps n
 \sn 1
 \ge right
-\sd 8
+\sd 8.5.2.3
 \de on the right hand side
 \ps ADV
 \sn 2
 \ge south
-\sd 8
+\sd 8.5.2.8
 \de to the south
 \nt south is on the right as you are facing east
-\dt 03/Nov/2015
+\dt 15/Jul/2016
 
 \lx gyɔsɩ
 \ph ʤɔsɪ
@@ -12162,7 +12162,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge side
-\sd 8
+\sd 8.6.3
+\sd 8.1.1.6
 \de used of a bipolar entity, one of the poles, end or side; used of long objects for ends, flat objects for sides, used metaphorically of sides in a argument or a clan
 \pl afʋnka
 \plph afʊ́ŋkâʔ
@@ -12171,7 +12172,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-076
 \xv Ɩfʋnka lɛpɛ, ɩfʋnka ɛ lebi.
 \xe One side is red and the other is black.
-\dt 23/Jun/2014
+\dt 15/Jul/2016
 
 \lx ɩfʋntɔ fʋn
 \ph ɪfʊ̃ntɔfʊ̃
@@ -13802,11 +13803,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge surround
-\sd 8
+\sd 7.2.2.7
 \de to be everywhere around something
 \xv Ɩsa-akɔpʋ amʋ bakafia wulu amʋ.
 \xe The soldiers have surrounded the town.
-\dt 08/Feb/2014
+\dt 15/Jul/2016
 
 \lx kai
 \ph káîʔ
@@ -14255,9 +14256,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge far
-\sd 8
+\sd 8.2.6.1
 \de far distance or time
-\dt 12/Jul/2014
+\dt 15/Jul/2016
 
 \lx keke
 \ph keké
@@ -14922,7 +14923,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge divide
-\sd 8
+\sd 7.4.4
 \sd 7.8
 \de divide
 \bw Akan fi:kyɛ
@@ -14932,7 +14933,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-2-020
 \xv Kɩɛ atɔ amʋtɔ ha nyebi amʋ fʋ onuto, mɛnɩ bʋmɔ́ɔkɔ.
 \xe Divide the things among the children yourself so that they don't fight.
-\dt 14/Jun/2016
+\dt 15/Jul/2016
 
 \lx kɩɛnɩ
 \ph kɪɛnɪ
@@ -15437,12 +15438,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge round
-\sd 8
+\sd 8.3.1.6
 \de round
 \rf Tape:3-2-231
 \xv Nabɩ ánɩ́ ɔyɩ gyi klinklin.
 \xe I have come to know that the world is round.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx klɩ
 \ph klɪ́ (H)
@@ -15787,7 +15788,7 @@ cf fonflo
 \ps ADJ
 \sn
 \ge nearby
-\sd 8
+\sd 8.2.6.2
 \de nearby
 \rf Tape:7-2-502
 \xv Oyin amʋ ndɔtɔ bʋ tsutsu, mɩ klɛ bʋ kotikoti.
@@ -15795,7 +15796,7 @@ cf fonflo
 \xv Makɩ mɩ ansɩtɔ kotikoti.
 \xe Don't look in my face nearby.
 \xe Free: Don't discount/disregard me.
-\dt 22/Jun/2014
+\dt 15/Jul/2016
 
 \lx kotokuo
 \ph kotokuo
@@ -15941,10 +15942,10 @@ cf fonflo
 \ps v
 \sn
 \ge share out
-\sd 8
+\sd 7.4.4
 \sd 7.4.4
 \de to share something out
-\dt 15/Jun/2016
+\dt 15/Jul/2016
 
 \lx kɔnkɔn
 \ph kɔ̃kɔ̃ʔ
@@ -16367,7 +16368,7 @@ cf fonflo
 \ps v
 \sn
 \ge potholed
-\sd 8
+\sd 6.5.4.1
 \de to develop potholes
 \xv ɔkpa wie kpa
 \xe hole in the road (potholes)
@@ -16375,7 +16376,7 @@ cf fonflo
 \xv Anɩ ndɔtɔ ɔkpa ɩma atsʋnlɛ, tsufɛsɛ mʋ́ sʋ yɔ kpakpawie.
 \xe Our farm path is not easily passable because it has developed potholes.
 \xv Anɩ ndɔtɔ ɔkpa sʋ yɔ kpakpawie mʋ́ sʋ ɩma atsʋnlɛ.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx Kpakplawusi
 \ph k͡plák͡pláwusi
@@ -17058,13 +17059,14 @@ cf fonflo
 \ps v
 \sn
 \ge tighten
-\sd 8
+\sd 7.5.4
+\sd 8.2.7.1
 \de to tighten a rope (or belt) around something
 \xv Alakpɩ ɔfɛ kɩta deyi osietɔ.
 \xv He has tied a rope around the monkey's waist.
 \rf Tape:3-2-549
 \bb Stewart List:2344
-\dt 28/Apr/2016
+\dt 15/Jul/2016
 
 \lx kpɩkpɩ
 \hm 1
@@ -18742,13 +18744,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge go straight
-\sd 8
-\sd 7.2
+\sd 7.2.2.9
 \de to go straight without turning
 \rf Tape:4-1-417
 \xv Abɔ́tsʋn laa, anɩmɛ́ɛbaɩ.
 \xe We will go straight, we won't turn.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx labi
 \ph labi(H)
@@ -19348,11 +19349,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge line up
-\sd 8
+\sd 8.3.1.2
 \de to form a line in order to do things in order
 \cf ɩlɩn2
 \ce generation
-\dt 09/Nov/2015
+\dt 15/Jul/2016
 
 \lx lɩnlɩnlɩn
 \ph lɪ̃lɪ̃lɪ̃ʔ
@@ -20290,7 +20291,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge sink
-\sd 8
+\sd 7.2.2.5.1
+\sd 7.2.4.2.3
 \de to sink without disappearing
 \va mɛ
 \ve South
@@ -20303,7 +20305,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Ɔklʋn amʋ lasʋra atɔ tsɔtsɔɔtsɔ sʋ ɩlamɩm.
 \xe The boat has carried too many things (was overloaded), so it has sunk.
 \bb Stewart List:2504
-\dt 23/Jun/2014
+\dt 15/Jul/2016
 
 \lx Mɩmɩnɩda
 \ph mɪmɪnɪda
@@ -22097,7 +22099,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 1
 \ge front
-\sd 8
+\sd 8.6.1
 \de front
 \rf Tape:5-1-237
 \xv Gya nkpa ayɔ.
@@ -22114,7 +22116,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge genitals
 \sd 2.1.8.3
 \de genitals (euphemism)
-\dt 11/Nov/2015
+\dt 15/Jul/2016
 
 \lx nkpahɔ
 \ph ŋ͡mk͡pahɔ̂ʔ
@@ -22238,13 +22240,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge bend
-\sd 8
-\sd 5.7.3
-\sd 7.2.2.8
+\sd 8.3.1.5
 \de to bend or bow an object
 \xv Nnɛ fʋ oyi amʋtɔ mɩ ankɩ bɛɛ ɩbébia.
 \xe Bend the stick for me to see whether it will break. .
-\dt 23/Jun/2014
+\dt 15/Jul/2016
 
 \lx nnonyɔ
 \ps n
@@ -22276,13 +22276,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge bend
-\sd 8
+\sd 8.3.1.5
 \de bend
 \rf Tape:5-1-291
 \xv Ɔkpa amʋ motswii, ɩlɔnɔ.
 \xe The road isn't straight, it has a bend.
 \bb Stewart List:2305
-\dt 27/Sep/2013
+\dt 15/Jul/2016
 
 \lx -nsa
 \ph nsa
@@ -22454,7 +22454,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps ADJ
 \sn
 \ge middle
-\sd 8
+\sd 8.6.5
 \de middle; medium, between
 \pl ansɩnɛpʋ
 \plph ansɪnɛ́pʊ́
@@ -22466,7 +22466,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Asʋn bʋ anɩ nsɩnɛ, sʋ anɩmɛkan.
 \xe There is a case between us so we are not in harmony.
 \bb Stewart List:0952
-\dt 04/Jul/2014
+\dt 15/Jul/2016
 
 \lx nsuo
 \ph nsúó
@@ -23487,7 +23487,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps v
 \sn 1
 \ge crooked
-\sd 8
+\sd 8.3.1.5
+\sd 8.3.1.3
+\sd 7.5
 \de to be crooked or out of alignment
 \xv Kɛklɛ lada mʋ ɔkponkposʋ, sʋ alatsia nyanka.
 \xe He has a boil on his buttocks, so he sat crookedly.
@@ -23499,7 +23501,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:5-1-520
 \xv Ɔha amʋ na ɔdɛ ɩbɩ nyanyanka.
 \xe She walks, she is setting her hands in a mincing manner.
-\dt 03/Nov/2015
+\dt 15/Jul/2016
 
 \lx nyanka
 \hm 2
@@ -26272,13 +26274,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge in line
-\sd 8
+\sd 8.3.1.2
+\sd 7.5
 \de marching ins several lines abreast
 \xv Brɛ ánɩ́ anɩleyi opian ayɔ a, oyin anfɩ na mɩ tinti nɩ.
 \xe The time that we made a line going, this man was beside me.
 \xv Ɔkɛ ánɩ́ abéyi opian yɔtʋ amʋ́ ɩnʋa, ɔkɛ amʋ bówun anyankpʋsa odua anɩ gyi nɩ.
 \xe The day that we shall make line to go and meet them there, that day, they will know the type of people that we are.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx opie
 \ph opieʔ
@@ -27203,38 +27206,38 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge east
-\sd 8
+\sd 8.5.2.8
 \de where the sun rises from
-\dt 29/Sep/2013
+\dt 15/Jul/2016
 
 \lx owi owiekpa
 \ph owíowiek͡pa
 \ps n
 \sn
 \ge west
-\sd 8
+\sd 8.5.2.8
 \de where the sun sets
-\dt 29/Sep/2013
+\dt 15/Jul/2016
 
 \lx owi ɔdalɩkpa
 \ph owí ɔdalɪ́k͡pa
 \ps n
 \sn
 \ge east
-\sd 8
+\sd 8.5.2.8
 \de east
 \lt sun coming out place
-\dt 03/Nov/2015
+\dt 15/Jul/2016
 
 \lx owi ɔkplɩwiekpa ɩfʋn
 \ph owí ɔk͡plɪwiek͡pa ɪfʊ̃́
 \ps n
 \sn
 \ge west
-\sd 8
+\sd 8.5.2.8
 \de west
 \lt sun getting down reaching place part
-\dt 29/Sep/2013
+\dt 15/Jul/2016
 
 \lx owi pɔnhɛ
 \ph owi pɔ̃hɛ
@@ -28067,7 +28070,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge hole
-\sd 8
+\sd 7.8.5
+\sd 1.6.5
 \de hole
 \pl mbɔ
 \plph mbɔ́
@@ -28080,7 +28084,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:3-2-392
 \xv Gota amʋtɔ lada ɔbɔ sʋ ntsu amʋ dɛ kpayi mʋ́tɔ.
 \xe The gutter has made a hole so the water lands in it.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx ɔbɔ
 \hm 2
@@ -28572,11 +28576,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge boundary
-\sd 8
+\sd 6.5.4.2
+\sd 6.5.1.3
 \de boundary between farming areas
 \cf ɔka2
 \ce boundary
-\dt 04/Apr/2016
+\dt 15/Jul/2016
 
 \lx ɔdɔm
 \ph ɔdɔm
@@ -29087,7 +29092,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge boundary
-\sd 8
+\sd 6.5.4.2
+\sd 6.5.1.3
 \de boundary
 \rf Tape:5-2-399
 \xv Ɔka da Kofi mʋa Yao ndɔ nsɩnɛ.
@@ -29096,7 +29102,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Bʋdɛ ɔka yi.
 \xe They are setting a boundary.
 \bb Stewart List:1163
-\dt 13/Jul/2014
+\dt 15/Jul/2016
 
 \lx ɔka tsia
 \ph ɔkat͡sia
@@ -29470,7 +29476,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge crook
-\sd 8
 \sd 6.2.8
 \de short wooden crook used in weeding
 \pl nkɔntɩ
@@ -29478,7 +29483,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-467
 \xv Ɔkɔntɩ pʋ́ krantɩɛ anɩtɔpʋ dɔ. Ɩtɛha ɩdɔ amʋ tɛpɩn.
 \xe We use a wooden crook and a cutlass to weed. It makes the weeding smooth (does not leave ragged clumps).
-\dt 20/May/2016
+\dt 15/Jul/2016
 
 \lx ɔkɔtɔ
 \ph ɔkɔ́tɔ(H)
@@ -29582,7 +29587,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge forked stick
-\sd 8
 \sd 6.2.8
 \de forked stick
 \pl nkpabi
@@ -29590,7 +29594,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-516
 \xv Ka ɔkpabi ba mɩ, ampʋ wa nkpabi amʋtɔ anda kantankpa.
 \xe Cut a forked stick and bring it so that I can put it with the other forked sticks so that we can build a palm leaf shelter.
-\dt 20/May/2016
+\dt 15/Jul/2016
 
 \lx ɔkpabi
 \hm 2
@@ -29696,12 +29700,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps LOC
 \sn
 \ge outside
-\sd 8
+\sd 6.5.1.4
 \de outside of a room
 \rf Tape:3-2-467
 \xv Mlɩ dalɩ yɔ ɔkpankpa amlɩ ye plei.
 \xe You(pl) go outside in order to go play.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx ɔkpataku
 \ph ɔk͡pataku(H)
@@ -32049,7 +32053,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge place
-\sd 8
+\sd 8.5.3
 \de place
 \va ɛtɩnɛ
 \ve South
@@ -32060,18 +32064,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɔyɔ ɔtɩnɛ ɩkʋ.
 \xe I will go somewhere.
 \bb Stewart List:0972
-\dt 04/Jul/2014
+\dt 15/Jul/2016
 
 \lx ɔtɩnɛgyiɔtɩnɛ
 \ph ɔtɪ́nɛʤíɔtɪ́nɛ́
 \ps n
 \sn
 \ge everywhere
-\sd 8
+\sd 8.5
 \de everywhere
 \xv Ɔtɩnɛgyiɔtɩnɛ anfɩ a, otsiakpa igyi.
 \xe Everywhere is a place to stay.
-\dt 12/Jul/2014
+\dt 15/Jul/2016
 
 \lx ɔtɔfɔ
 \ph ɔtɔ́fɔ
@@ -33212,7 +33216,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge flat
-\sd 8
+\sd 8.3.1.3.1
 \de flat
 \va pataplabi
 \ve South
@@ -33221,7 +33225,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe A Mudfish's head is flat.
 \xv Ibwi amʋ gyi pɛtɛplɛ.
 \xe The stone is flat.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx pɛtɩ
 \ph pɛ́tɪ́
@@ -33449,14 +33453,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge sharpen
-\sd 8
-\sd 6.6.2.3
+\sd 8.3.2.3.1
 \de sharpen to a point
 \nt check plɔntɩ for Southern usage. This is a palatalized p (the only example I know of) rather than a separate syllable (the past tam is rounded)
 \xv Ɔlɛpɩɛntɩ oyi amʋ ɔnɔ pʋ kwi ɔbɔ.
 \xe He sharpened the stick in order to dig a hole.
 \bb Stewart List:2339
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx pɩm
 \ph pɪ́m
@@ -33917,12 +33920,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge pound
-\sd 8
+\sd 6.8.6.1
 \de pound, colonial currency; two cedis
 \bw English fi:pound
 \xv Tɩtɩ brɛ amʋ a, anɩ anain betsia pʋ pɔɔnʋ hɔ atɔ, tamɛ ndɛ mʋ́ a, sidi anɩdɛpʋ hɔ atɔ.
 \xe In the olden days our grandfathers used pounds to buy things, but today we are using cedis to buy things.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx pɔplɔtɩ
 \ph pɔplɔtɪ(H)
@@ -35422,13 +35425,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge flexible
-\sd 8
-\sd 8.3.2
+\sd 8.3.6.3
 \de to be flexible
 \rf Tape:1-1-083
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that will not flex is easy to break.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx sɔ
 \hm 4
@@ -36510,9 +36512,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge level place
-\sd 8
+\sd 1.2.1.3
+\sd 8.3.1.3.1
 \de a level place
-\dt 13/Jul/2014
+\dt 15/Jul/2016
 
 \lx tanʋ
 \ph tanʊ
@@ -36975,12 +36978,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps LOC
 \sn
 \ge beside
-\sd 8
+\sd 8.5.1.2
 \de immediately beside
 \rf Tape:7-1-486
 \xv Brɛ ánɩ́ anɩleyi opian ayɔ a, oyin anfɩ na mɩ tinti nɩ.
 \xe The time that we made a line going, this man walked beside me.
-\dt 23/Jun/2014
+\dt 15/Jul/2016
 
 \lx titiriti
 \ph titiriti
@@ -37169,7 +37172,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge stretch
-\sd 8
+\sd 8.3.1.9
+\sd 7.3.4.7
 \de to stretch out
 \rf Tape:7-1-550
 \xv Ɩnɩ sʋ kpakpahe na ɔdɛ mʋ oboyi tɩnkɩ nɩ.
@@ -37178,7 +37182,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Stretch so that you should bring the things down from up top for me.
 \bb Stewart List:2874
 \rf Tape:7-1-554
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx tɩnŋɛ
 \ph tɪ̃ŋːɛ́
@@ -38086,8 +38090,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge stand aside
-\sd 8
-\sd 7.2
+\sd 7.2.2.3
 \de stand side to let someone pass
 \rf Tape:7-2-228
 \xv Ɔlɛtsɛ ha asɩrɩpʋ amʋ ɔkpa.
@@ -38098,7 +38101,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-532
 \xv Yibi ɔkanpʋ amʋ lɔfʋlɩ ɔkpɛ ha aha bɛtsɛ.
 \xe The car driver is blowing his horn in order to make people move out of his way.
-\dt 04/Jul/2014
+\dt 15/Jul/2016
 
 \lx tsɛ
 \hm 3
@@ -38649,7 +38652,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge upside down
-\sd 8
+\sd 8.3.1.4.1
 \de turn over; turn upside down; bow
 \xv Ko prɛntʋa tsoli.
 \xe Turn the bottle upside down.
@@ -38672,7 +38675,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔtsɩ amʋ dɛ mʋ bi amʋ tsoli.
 \xe The woman is directing a stream of water on the new baby's anus while bathing him (to prevent sores from forming inside).
 \bb Stewart List:2752
-\dt 27/Apr/2016
+\dt 15/Jul/2016
 
 \lx tsonkoli
 \ph t͡soŋkoli(H)
@@ -38943,7 +38946,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge far
-\sd 8
+\sd 8.2.6.1
 \de far
 \rf Tape:7-2-499
 \xv Agyɩndɩ tamaha awun atɔ tsutsu.
@@ -38953,9 +38956,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The man's farm is far, mine is nearby.
 \se tsutsuutsu
 \ge very far
+\sd 8.2.6.1
 \cf fɔ2
 \ce far
-\dt 10/Nov/2015
+\dt 15/Jul/2016
 
 \lx tsutsua
 \ph t͡sut͡súaʔ(L)
@@ -39081,7 +39085,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge straight
-\sd 8
+\sd 8.3.1.3
 \de to be straight
 \rf Tape:7-2-543
 \xv Ɔkpa amʋ motswii, ɩlɔnɔ.
@@ -39103,7 +39107,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to correct someone
 \xv Nɩ fɔ́tɔɩ Nkonya amʋ, nɩ nfʋmsʋ bʋ mʋ́tɔa, nɛ́la tswii fʋ.
 \xe If you speak Nkonya, if a mistake is in it, I will correct you.
-\dt 03/Nov/2015
+\dt 15/Jul/2016
 
 \lx tswɩ
 \ph t͡swɪʔ(L)
@@ -39344,7 +39348,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge round fruit
-\sd 8
+\sd 8.3.1.6
+\sd 5.2.3
 \de fruit or food in a round form; e.g. avocado; mango; pawpaw; kenkey; bread
 \pl atuntu
 \plph atuntu
@@ -39353,7 +39358,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-584
 \xv Oyinbi ɔkʋbʋ nfɩ ánɩ́ ɔbʋ atɩkɔ bodobodo atuntu anu.
 \xe A boy is here that has five millet bread buns.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx tutu
 \ph tutu(H)
@@ -39535,7 +39540,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge at
-\sd 8
+\sd 8.5.3
+\sd 9.5.2.2
 \de to or at someone
 \rf Tape:8-1-159
 \xv Bulu ɔbɛɛ anɩ fɛ́ɛ́ aba mʋ wa.
@@ -39549,7 +39555,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-165
 \xv Ma bʋ fʋ wa?
 \xe Who is with you.
-\dt 22/Jun/2014
+\dt 15/Jul/2016
 
 \lx wa
 \hm 2
