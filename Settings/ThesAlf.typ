@@ -116,7 +116,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
+\File C:\My Toolbox Projects\Nkonya\SemanticDomains\TNthesaurus2008.txt
 \mkr wd
 \-drf
 \-drflst
@@ -128,7 +128,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File C:\My Toolbox Projects\Nkonya\TNthesaurus2008.txt
+\File C:\My Toolbox Projects\Nkonya\SemanticDomains\TNthesaurus2008.txt
 \mkr wd
 \-drf
 \-drflst
