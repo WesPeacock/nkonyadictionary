@@ -3680,23 +3680,23 @@
 \ps n
 \sn
 \ge hail
-\sd 1.1.3
+\sd 1.1.3.4
 \de hail
 \lt rock salt water
 \xv Brɛ kʋtɔ a, nɩ nyankpʋ detswie a, atsufolibi tɔkpa.
 \xe Sometimes, when it is raining, hail falls.
 \xe It sometimes hails when it rains.
 \rf Tape:1-2-117
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx atsufu
 \ph at͡sufú
 \ps n
 \sn
 \ge storm
-\sd 1.1.3
+\sd 1.1.3.4
 \de strong wind
-\dt 29/Oct/2013
+\dt 16/Jul/2016
 
 \lx atsulii
 \ph at͡sulîː
@@ -3885,13 +3885,13 @@
 \ps n
 \sn
 \ge farming season
-\sd 1.1.3
+\sd 8.4.1.5
 \de second farming season
 \bw Akan fi:awiaburo LLHL
 \rf Tape:1-2-250
 \xv Awiaburo gyi ndɔ trahɛ ánɩ́ bʋtɔdɔ ofi ɔkʋlɛtɔ. Kpoli sɔɔn bʋtodu. Lɩlɩtɔ a, ɩtɔwa bia, sʋ aha tsɔtsɔɔtsɔ bʋtekle mʋ́ dɔ.
 \xe Awiaboro is the last farm made in the year. They only plant corn. In harmattan it is expensive so many people like to plant it.
-\dt 30/Sep/2015
+\dt 16/Jul/2016
 
 \lx awiɛɩ
 \ph awiɛɪ́(H)
@@ -3914,9 +3914,9 @@
 \ps n
 \sn
 \ge hot season
-\sd 1.1.3
+\sd 8.4.1.5
 \de hot season
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx awɩdwiin
 \ph awɪdwĩː
@@ -4072,12 +4072,12 @@
 \ps n
 \sn
 \ge farming season / major season
-\sd 1.1.3
+\sd 8.4.1.5
 \de first farming season
 \rf Tape:1-2-275
 \xv Ayintiase gyi ndɔ ánɩ́ bʋtegyankpa dɔ ofi ɔkʋlɛtɔ nɩ. Mʋ́tɔ bʋtoswie blɔdɩ, agbodi, pʋ́ mankani aná nɩ.
 \xe Ayintiase is a farm that they make first each year. In it they plant plantain, cassava and cocoyam.
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx ayinto
 \ph ayintó
@@ -17064,7 +17064,9 @@ cf fonflo
 \ps v
 \sn
 \ge suck
-\sd 1.1.3
+\sd 2.1.1.4
+\sd 5.2.2.7
+\sd 7.3.2.7
 \de suck
 \rf Tape:3-2-551
 \xv Ɔlɛkpɩkpɩ mango amʋ.
@@ -17072,7 +17074,7 @@ cf fonflo
 \bb Stewart List:2034
 \cf kpɩ1 2
 \ce suck
-\dt 11/Nov/2015
+\dt 16/Jul/2016
 
 \lx kpɩkpɩ
 \hm 2
@@ -19283,7 +19285,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge harmattan
-\sd 1.1.3
+\sd 8.4.1.5
 \de harmattan; cool dusty season
 \rf Tape:4-1-518
 \xv Lɩlɩ dɛ lɩn.
@@ -19294,7 +19296,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-520
 \xv Nyankpʋ tamatswie lɩlɩtɔ.
 \xe There is no rain in during the drought season.
-\dt 30/Sep/2015
+\dt 16/Jul/2016
 
 \lx lɩn
 \hm 1
@@ -22713,13 +22715,13 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge starlight
-\sd 1.1.3
+\sd 1.1.1.2
 \de starlight
 \cf ɔtsrakpabi
 \ce star
 \cf fɛɩ
 \ce sweep
-\dt 23/Dec/2013
+\dt 16/Jul/2016
 
 \lx ntsu
 \ph nt͡su(H)
@@ -22796,11 +22798,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge mist
-\sd 1.1.3
+\sd 1.1.3.3
 \de mist or light rain
 \xv Agyɩndɩ tɛdalɩ dɩnka bʋsʋ nyankɩ, nɩ fʋbʋ ɩbʋsʋ ɩnʋ a, agyɩndɩ amʋ tɔbwɛ ntsubi fɛ nyankpʋ.
 \xe Mist appears on the mountain in the morning. If you are on the mountain there the fog makes water droplets like rain.
-\dt 30/Sep/2015
+\dt 16/Jul/2016
 
 \lx ntsubʋla
 \ph nt͡subʊla
@@ -23561,7 +23563,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge rain
-\sd 1.1.3
+\sd 1.1.3.3
 \de rain
 \nt animate noun
 \rf Tape:5-1-538
@@ -23582,23 +23584,24 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Nyankpʋ lasi tswie: Nsaɩn lafʋa.
 \xe It has stopped raining.
 \bb Stewart List:1045
-\dt 16/Jun/2014
+\dt 16/Jul/2016
 
 \lx nyankpʋ tswiebɩ
 \ph ɲaŋ͡mk͡pʊ t͡swíebɪ
 \ps n
 \sn
 \ge rainy season
-\sd 1.1.3
+\sd 1.1.3.3
+\sd 8.4.1.5
 \de rainy season
-\dt 16/Jun/2014
+\dt 16/Jul/2016
 
 \lx nyankpʋkpie
 \ph ɲaŋ͡mk͡pʊ́k͡píeʔ(L)
 \ps n
 \sn 1
 \ge thunder
-\sd 1.1.3
+\sd 1.1.3.6
 \de thunder
 \rf Tape:3-2-537
 \xv Nyankpʋ amʋ dekpie dʋbɩ, fialɩ obotswie.
@@ -23615,7 +23618,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \bb Stewart List:0802
 \cf aganɛ
 \ce scorpion
-\dt 03/Nov/2015
+\dt 16/Jul/2016
 
 \lx nyankpʋsa
 \ph ɲaŋ͡mk͡pʊsaʔ
@@ -23646,12 +23649,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge rainbow
-\sd 1.1.3
+\sd 1.1.3.3
 \de rainbow
 \rf Tape:5-1-533
 \xv Nyankpʋtaa ladɩnka ɩbʋsʋ, sʋ nyankpʋ amʋ móotswie.
 \xe A rainbow has come on the mountain, so it will not rain.
-\dt 26/Dec/2012
+\dt 16/Jul/2016
 
 \lx nyansa
 \ph ɲã́nsa(H)
@@ -24043,7 +24046,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge dewdrop
-\sd 1.1.3
+\sd 1.1.3.3
 \de dewdrop
 \cf onyelulu
 \ce dew
@@ -24054,7 +24057,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ onyelulu itswie a, ɩtɔbwɛ obetsu wʋlɩ ɩfásʋ.
 \xe If dew falls it makes drops on the grass.
 \bb Stewart List:1052
-\dt 24/Dec/2013
+\dt 16/Jul/2016
 
 \lx obi
 \ph obíʔ
@@ -25966,13 +25969,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge shady place
-\sd 1.1.3
+\sd 8.3.3.2.1
+\sd 2.4.5
 \de shady place
 \xv Oyi yile amʋ laha olulukpa wanklaan ha ɔkpʋnʋda.
 \xe The big tree has given a fine shady place for resting.
 \xv Foswie atɔ olulukpa ɩtamawa alɛ wanklaan.
 \xe If you plant crops under a shady place, they do not yield well.
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx olupʋ
 \ph olupʊ́
@@ -26204,7 +26208,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge dew
-\sd 1.1.3
+\sd 1.1.3.3
 \de dew
 \va enyelulu
 \ve South
@@ -26213,7 +26217,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-246
 \xv Nɩ onyelulu itswie a, ɩtɔbwɛ obetsu wʋlɩ ɩfásʋ.
 \xe If dew falls it makes drops on the grass.
-\dt 24/Dec/2013
+\dt 16/Jul/2016
 
 \lx onyenɩ
 \ph oɲenɪ
@@ -27306,9 +27310,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sunshine
-\sd 1.1.3
+\sd 1.1.1
+\sd 8.4.1.2.3
 \de sunshine
-\dt 29/Sep/2013
+\dt 16/Jul/2016
 
 \lx owisʋ
 \ph owísʊ́
@@ -31278,7 +31283,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge thunder
-\sd 1.1.3
+\sd 1.1.3.6
 \de thunder
 \xv Nɩ ɔprada tswɩ a, iteyinta atɔ. Ɩtɛtalɩ bɔɩ oyi yiletɔ anyɔ kʋraa.
 \xe When thunder strikes it destroys things. It can even split a big tree into two.
@@ -31286,7 +31291,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge stone, k.o.
 \sd 1.2.1.1
 \de a stone with a flat edge deemed to be thrown by thunder, used figuratively of onions
-\dt 11/Jul/2014
+\dt 16/Jul/2016
 
 \lx ɔprakuo
 \ph ɔprákuo(H)
@@ -32439,21 +32444,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge moonlight
-\sd 1.1.3
-\sd 8.4.1.2.2
+\sd 1.1.1.1
 \de moonlight
 \cf ɔtsra
 \ce moon
 \cf fɛɩ
 \ce sweep
-\dt 08/Jan/2014
+\dt 16/Jul/2016
 
 \lx ɔtsrakpabi
 \ph ɔt͡srak͡pabiʔ
 \ps n
 \sn
 \ge star
-\sd 1.1.3
+\sd 1.1.1.2
 \de star
 \lt moon servant
 \pl ntsrakpabi
@@ -32469,7 +32473,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce moon
 \cf ɔkpabi2
 \ce servant
-\dt 09/Nov/2015
+\dt 16/Jul/2016
 
 \lx ɔtsrasʋ
 \ph ɔt͡srasʊ
@@ -33873,7 +33877,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge shade tree
-\sd 1.1.3
+\sd 8.3.3.2.1
+\sd 2.4.5
+\sd 1.5.1
 \de shade tree, usually a fig tree
 \pl apɔntɔ
 \plph apɔntɔ(H)
@@ -33886,7 +33892,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Brɛa pɔntɔ lopuli a, ahandɛ bɛɛ bʋyodunka pɔntɔ ka beyi. Ndɛ a, banya pɔntɔ pɔpwɛ ka.
 \xe The time that a shade tree uprooted, the elders said they should look for a shade tree to cut and plant. Today they have cut a new shade tree.
 \na This is a declaration at the installation of a new chief.
-\dt 03/Nov/2015
+\dt 16/Jul/2016
 
 \lx pɔɔn
 \ph pɔ̃ː
@@ -34382,14 +34388,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge pop, crackle
-\sd 1.1.3
+\sd 1.1.3.6
 \de the crackle of fire, or the clap of thunder
 \na It is the thunder that is considered dangerous not the lightening. It is considered that a stone issues from thesound and if it hits you die. There is a certain fetish / curse in town and the one that wields it is considered to be able to curse and kill people. Close and far thunder are considered two be two different kinds. People say that northerners use a thunder curse to protect their fields from theft and some have gone to bring it back here but they say it is not effective in the south.
 \xv Ɔprada lapʋtɩ.
 \xe Loud thunder is cracking.
 \cf pʋpʋtɩ1
 \ce repeated crackling
-\dt 09/Nov/2015
+\dt 16/Jul/2016
 
 \lx pʋtɔɔ
 \ph pʊtɔː
@@ -37095,6 +37101,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge fair weather
 \sd 1.1.3
+\sd 1.1.1
 \de to be clear
 \rf Tape:7-1-535
 \xv Nsaɩntɔ latɩn.
@@ -37128,7 +37135,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I have come to see the matter clearly.
 \rf Tape:7-1-540
 \rf Tape:7-1-543
-\dt 20/May/2016
+\dt 16/Jul/2016
 
 \lx tɩn adɛndɛ
 \ph tɪ̃ adɛndɛ(H)
@@ -39055,7 +39062,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge rain
-\sd 1.1.3
+\sd 1.1.3.3
 \de to fall (of rain or dew)
 \xv Nyankpʋ mʋ́amʋ́ onyelulu totswie.
 \xe Rain and dew fall.
@@ -39065,7 +39072,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Igye nyankpʋ lotswie sʋ mɩ ndɔtɔ atɔ dɛ akɩlɛ wa.
 \xe Yesterday it rained so my crops are looking beautiful.
 \bb Stewart List:2296
-\dt 20/Jun/2014
+\dt 16/Jul/2016
 
 \lx tswii
 \ph t͡swíː
