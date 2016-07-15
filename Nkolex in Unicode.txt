@@ -2558,21 +2558,21 @@
 \ps n
 \sn
 \ge eyes
-\sd 2.1.1
+\sd 2.1.1.1
 \de general term for eye/face
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx ansɩkukusʋ imi
 \ph ansɪ́kukusʊ imi
 \ps n
 \sn
 \ge eyebrow
-\sd 2.1.1
+\sd 2.1.1.1
 \de eyebrow
 \xv Kebi bɔbwɛ amʋ ansɩkukusʋ imi amʋ labʋla dʋbi.
 \xe The eyebrow of the baby is too bushy.
 \bb SIL-AWL:0007
-\dt 01/Feb/2014
+\dt 16/Jul/2016
 
 \lx ansɩpɛpɛ
 \ph ansɪpɛpɛ(H)
@@ -8234,7 +8234,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge blow
 \sd 2.1.1.3
-\sd 5.7.3
 \de blow; used of liquids expelled from the nose or mouth
 \lf Idiom = fɛn atsʋnɔ
 \le spit on something to impart spiritual power
@@ -8242,7 +8241,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɛyɛfɛn ɩmɛ amba.
 \xe I am going to blow my nose and come back.
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), fʋlɩ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
-\dt 17/May/2016
+\dt 16/Jul/2016
 
 \lx fi asɩ
 \ph fi
@@ -9384,10 +9383,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge small of back
-\sd 2.1.1
+\sd 8.6.1.1
+\sd 2.1.2
 \de the small of the back
 \bb SIL-AWL:0043
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx gegyefe
 \ph geʤefé(H)
@@ -11082,6 +11082,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge beard
+\sd 2.1.5
 \sd 2.1.1
 \de beard
 \xv Oyin dɛhɛn amʋ ikwi lafuli fututu.
@@ -11090,7 +11091,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-405
 \bb Stewart List:0030
 \bb SIL-AWL:0028
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx ikwitɔ
 \ph ikwitɔ(H)
@@ -11117,14 +11118,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge hair
-\sd 2.1.1
+\sd 2.1.5
 \de hair; fur of an animal
 \rf Tape:2-2-413
 \xv Andɔ wɩ bʋ atapʋlɛ, tsufɛ mʋ imi bʋ ɔplɩ.
 \xe A cat's fur is pleasant to touch because it is smooth.
 \bb Stewart List:0025
 \bb SIL-AWL:0027
-\dt 03/Oct/2015
+\dt 16/Jul/2016
 
 \lx imu
 \ph imuʔ (L)
@@ -11546,7 +11547,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge tooth
-\sd 2.1.1
+\sd 2.1.1.1.4
 \de tooth
 \pl anyin
 \plph aɲĩ́ʔ
@@ -11556,7 +11557,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Mɩ iyin dɛ kpɩnkɩ, ɩdɛ mɩ dwiin dʋbɩ, sʋ fialɩ bɔ́kpa.
 \xe My tooth is shaking and it pains me so perhaps it is going to fall out.
 \bb Stewart List:0013
-\dt 01/Feb/2014
+\dt 16/Jul/2016
 
 \lx ɩ-
 \hm 1
@@ -11654,7 +11655,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge shoulder
-\sd 2.1.1
+\sd 2.1.2
+\sd 2.1.3.1
 \de shoulder includes the upper arm, shoulder and shoulder blade; also used of a forward haunch of an animal
 \pl aba
 \plph aba(H)
@@ -11663,7 +11665,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɩ fɔpʋ bɩ yɔ agyʋma kinkin a, fʋ ɩbatɔ todwiin fʋ.
 \xe If you work hard with your arm your shoulder will pain you.
 \bb SIL-AWL:0052
-\dt 25/Dec/2012
+\dt 16/Jul/2016
 
 \lx ɩba
 \hm 2
@@ -12764,12 +12766,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge moustache
-\sd 2.1.1
+\sd 2.1.1.1.4
 \de moustache
 \rf Tape:5-1-286
 \xv Oyin amʋ ɩnɔfa labla dʋbɩ sʋ ɔlɛkaka mʋ́ sʋ.
 \xe The man's moustache is too thick/long so he cut it.
-\dt 23/Jun/2014
+\dt 16/Jul/2016
 
 \lx ɩnʋ
 \ph ɪnʊ
@@ -22360,7 +22362,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge eye
-\sd 2.1.1
+\sd 2.1.1.1
 \de eye
 \pl ansibi
 \plph ansíbiʔ
@@ -22373,29 +22375,29 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv nya ansigyi.
 \xe be happy (get happy eyes).
 \bb Stewart List:0003
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx nsibi bun kplokplo
 \ph nsíbi bũ k͡plók͡pló
 \ps n
 \sn
 \ge blink
-\sd 2.1.1
+\sd 2.1.1.1
 \de to blink
 \bb SIL-AWL:0103
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx nsibi klanbi
 \ph nsíbi klanbi
 \ps n
 \sn
 \ge white of the eye
-\sd 2.1.1
+\sd 2.1.1.1
 \de white of the eye
 \xv Otsibi anfɩ onya nya ɔmɛ pɛ mʋ nsibi klanbi lafʋli.
 \xe When this girl conceives, her eye white becomes white.
 \bb SIL-AWL:0010
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx -nsie
 \ph nsie (H)
@@ -22427,14 +22429,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge eye discharge
 \sd 2.1.1.1
-\sd 2.1.1
+\sd 2.5.2
 \de eye discharge whether normal or infectious
 \xv Nsɩka bʋ fʋ ɔsɩkɛtɛtɔ, sʋ lɛ mʋ́.
 \xe Eye discharge is on your eyelash so remove it.
 \rf Tape:6-1-371
 \xv Nɩ nsibi dɛ fʋha a, nsika tɛdɩnka fʋ nsibisʋ.
 \xe When you have eye trouble, you will have eye discharge.
-\dt 17/May/2016
+\dt 16/Jul/2016
 
 \lx nsɩnɛ
 \ph nsɪnɛ́
@@ -26062,7 +26064,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge lip
-\sd 2.1.1
+\sd 2.1.1.1.4
 \de lip
 \pl nnopi
 \plph nnopi
@@ -26074,7 +26076,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Don't talk to me harshly. (an idiom).
 \lt Don't use your upper lip to advise me.
 \bb SIL-AWL:0016
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx onunpʋ
 \ph onúpʊ
@@ -27542,7 +27544,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge gums
-\sd 2.1.1
+\sd 2.1.1.1.4
 \de natural space in between two teeth
 \nt etym. teeth sheath
 \va eyinflɛ
@@ -27557,7 +27559,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de teeth with gaps
 \xv Aha ánɩ́ bʋbʋ nyinflɛ, bʋtekle mɔsɩ.
 \xe People who have space in between their teeth like to laugh.
-\dt 03/Nov/2015
+\dt 16/Jul/2016
 
 \lx oyipɛ
 \ph oyípɛ̂ʔ
@@ -28296,7 +28298,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tongue
-\sd 2.1.1
+\sd 2.1.1.1.4
+\sd 3.5.3
 \de tongue
 \pl ndandʋ
 \plph ndandʊ
@@ -28305,7 +28308,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe No one can control his tongue.
 \bb Stewart List:0014
 \bb SIL-AWL:0017
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx ɔdankpa
 \ph ɔdaŋ͡mk͡pa
@@ -30234,10 +30237,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge spine
-\sd 2.1.1
+\sd 2.1.6
 \de spine
 \bb SIL-AWL:0079
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx ɔma ɔlɩɩpʋ
 \ph ɔma ɔlɪ̌ːpʊ́
@@ -30334,7 +30337,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge throat
-\sd 2.1.1
+\sd 2.1.1.4
 \de throat
 \ps n
 \sn 2
@@ -30358,7 +30361,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-101
 \bb Stewart List:0061
 \bb SIL-AWL:0025
-\dt 19/May/2016
+\dt 16/Jul/2016
 
 \lx ɔmɛ
 \hm 2
@@ -30445,14 +30448,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge throat
-\sd 2.1.1
+\sd 2.1.1.4
 \de inside throat
 \xv Mɩ ɔmɛtɔ dɛ mɩ ɔsɩn, sʋ nɔyɔhɔ afa bonun.
 \xe My throat is paining me, I'm going to get some medicine and take.
 \xv Fabwɛ dɩnka mɩ ɔmɛsʋ.
 \xe You have done what I said.
 \xe You have respected me.
-\dt 24/Dec/2013
+\dt 16/Jul/2016
 
 \lx ɔmɛtsɩ
 \ph ɔmɛtsɪ
@@ -30920,12 +30923,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge eyelid
-\sd 2.1.1
+\sd 2.1.1.1
 \de eyelid
 \xv Kwasi ladɩda ha mʋ pɩna mʋ ɔnsɩkɛtɛ.
 \xe Kwasi has fallen down and scarred his eyelid.
 \bb SIL-AWL:0008
-\dt 01/Feb/2014
+\dt 16/Jul/2016
 
 \lx ɔnsɩpɛ
 \ph ɔnsɪ́pɛ
@@ -31506,21 +31509,22 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge eyelash
-\sd 2.1.1
+\sd 2.1.1.1
 \de eyelash
 \pl ansɩkɛtɛ
 \plph ansɪ́kɛ́tɛ
 \rf Tape:6-1-371
 \xv Nsɩka bʋ fʋ ɔsɩkɛtɛtɔ, sʋ lɛ mʋ́.
 \xe Eye discharge is on your eyelash, so remove it.
-\dt 26/Aug/2013
+\nt check spelling vs ɔnsɩkɛtɛ
+\dt 16/Jul/2016
 
 \lx ɔsɩkunkun
 \ph ɔsɪ́kũŋkũ
 \ps n
 \sn
 \ge eyebrow
-\sd 2.1.1
+\sd 2.1.1.1
 \de eye brow
 \pl ansɩkunkun
 \plph ansɪ́kũŋkũʔ
@@ -31528,7 +31532,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-377
 \xv Aha ánɩ́ bʋbʋ imi a, amʋ́ ɔsɩkunkunsʋ imi tɛbla.
 \xe Hairy people have bushy eyebrows.
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx ɔsɩn
 \ph ɔsɪ̃ʔ
@@ -31851,9 +31855,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge mane
-\sd 2.1.1
+\sd 1.6.2
+\sd 2.1.5
 \de the hair on the back of a horse
-\dt 16/Jun/2014
+\dt 16/Jul/2016
 
 \lx ɔtantasʋ
 \ph ɔtantasʊʔ(H)
@@ -32164,10 +32169,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge hip
-\sd 2.1.1
+\sd 2.1.3.2
 \de hip
 \bb SIL-AWL:0064
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx ɔtsabi
 \hm 1
@@ -32645,7 +32650,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge nose
-\sd 2.1.1
+\sd 2.1.1.3
 \de nose
 \xv Mmɛ dɛ mʋ ɔwɔntɩtɔ.
 \xe Mucus is in his nose.
@@ -32654,19 +32659,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Blow the mucus from your nose.
 \bb SIL-AWL:0011
 \bb Stewart List:0010
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx ɔwɔntɩ oyibi
 \ph ɔwɔntɪ́ oyibi
 \ps n
 \sn
 \ge bridge (of nose)
-\sd 2.1.1
+\sd 2.1.1.3
 \de bridge of the nose
 \xv Mɩ ka ɔwɔntɩ oyibi bʋ akɩlɛ paa.
 \xe My wife's nose bridge is very beautiful.
 \bb SIL-AWL:0012
-\dt 01/Feb/2014
+\dt 16/Jul/2016
 
 \lx ɔwʋlɩyɔ
 \ph ɔwʊlɪyɔ(H)
@@ -36042,14 +36047,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph asʊsʊ́pʊ
 \se onopi sʋsʋpʋ
 \ge upper lip
-\sd 2.1.1
+\sd 2.1.1.1.4
 \de upper lip
 \lf Idiom = onopi sʋsʋpʋ
 \le harsh words
 \rf Tape:7-1-222
 \xv Mapʋ onopi sʋsʋpʋ bla mɩ asʋn.
 \xe Don't talk to me with harsh words.
-\dt 01/May/2016
+\dt 16/Jul/2016
 
 \lx sʋsʋpʋ
 \hm 2
