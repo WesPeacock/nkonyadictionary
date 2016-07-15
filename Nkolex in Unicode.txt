@@ -344,7 +344,7 @@
 \ps n
 \sn
 \ge side
-\sd 2.1.1
+\sd 2.1.2
 \de a person's side
 \cf abɩntɔ
 \ce side
@@ -353,14 +353,15 @@
 \xv Fʋ abɩn gyi tsu fʋ klɛtɔ bɔfʋn fʋ ɔmɛtɔ.
 \xe Your side goes from your armpit to your abdomen. It describes that area where the ribs are.
 \bb Stewart List:0036
-\dt 26/Dec/2013
+\dt 15/Jul/2016
 
 \lx abɩn iwu
 \ph abɪ̃ʔ iwú
 \ps n
 \sn
 \ge rib
-\sd 2.1.1
+\sd 2.1.2
+\sd 2.1.6
 \de rib
 \lt side bone
 \va abɩnwu
@@ -369,14 +370,14 @@
 \plph abɪ̃ awú
 \xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
 \xe If your rib breaks and you don't take care, you will die.
-\dt 04/Jan/2014
+\dt 15/Jul/2016
 
 \lx abɩntɔ
 \ph abɪ̃ntɔ(H)
 \ps n
 \sn
 \ge side
-\sd 2.1.1
+\sd 2.1.2
 \de the side of a person or a thing
 \xv Bapʋ ɔdayi amʋ wɔ ɔprakuo amʋ abɩntɔ.
 \xe They have pierce the knife into the stomach of the pig.
@@ -386,7 +387,7 @@
 \xv Ntsu amʋ ɩna ɩbʋ amʋ abɩntɔ.
 \xe The stream passes beside the hill.
 \bb Stewart List:0958
-\dt 24/May/2016
+\dt 15/Jul/2016
 
 \lx abɩsɩ
 \ph abɪ́sɪ(H)
@@ -416,11 +417,11 @@
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
+\sd 1.5.3
 \de a vine-like grass with thorns
 \xv Nɩ ɔha ɩwɩtɔ bwɛ ɔlɔ a, ɔtɔkwɛ ablimbo sa.
 \xe When a person has a sore in the stomach, he grinds ablimbo and uses it as a liquid enema.
-\dt 26/Jun/2014
+\dt 15/Jul/2016
 
 \lx ablɩlɛ
 \ph ablɪ́lɛ́(L)
@@ -451,24 +452,24 @@
 \ps n
 \sn
 \ge stew
-\sd 5.2.2.2
+\sd 5.2.3.4
 \de greens and meat fried in oil and served over sliced yam or rice
 \bw Akan fi:abomu LLH
 \xv Bʋtɔpʋ aboun gyi ampesie mʋa ɩmɔ.
 \xe They eat stew with slice (yam) and rice.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx abɔsʋɔ
 \ph abɔsʊɔ(H)
 \ps n
 \sn
 \ge belt
-\sd 5.4.1
+\sd 5.3.6
 \de rope, string, strip of cloth, used as a belt
 \bw Akan fi:abɔsʋ LLH bɔ sʋ "tie on"
 \xv Pʋ mɩ abɔsʋɔ ba mɩ, ampʋklɩ mɩ tatisʋ asa mɩanatɩ yɔ ndɔ.
 \xe Bring me a strip of cloth so that I can tie on my cloth before I go to farm.
-\dt 24/May/2016
+\dt 15/Jul/2016
 
 \lx abrɛ
 \ph abrɛ́
@@ -535,8 +536,9 @@
 \sn
 \ge blasphemy
 \sd 4.9.7.7
+\sd 4.9.9
 \de blasphemy
-\dt 29/Aug/2013
+\dt 15/Jul/2016
 
 \lx abwi
 \ph abwi
@@ -555,20 +557,21 @@
 \sn
 \ge appellation
 \sd 4.6.1
+\sd 3.5.1.7
 \de appellation for drumming
 \nt to call the appelation of ɔkpɩ, akunta, suma is to invoke its power
 \na Usually in Akan. They are proverbs. Each clan has one which is used to summon the clan. Elders also have them. As with the Dagombas drummers at a funeral will drum appelations of passing elders in hopes of collecting a dash.
 \rf Tape:1-1-111
 \xv Nɩ bʋdɛ atumpa da, ɔhandɛn ɔkʋ dɛtsʋn a, bʋtɛda mʋ adabi pʋ tɩ mʋ.
 \xe If they are beating the talking drums and an elder is passing by, they beat his appellation and call him.
-\dt 08/Feb/2014
+\dt 15/Jul/2016
 
 \lx adagyi
 \ph adaʤi(H)
 \ps n
 \sn 1
 \ge space
-\sd 7.2.4.1.1
+\sd 8.5.4.3
 \de space
 \nt Nkonya equivalent - nya ɩwɩ
 \bw Akan fi:adagyɩ LLH
@@ -581,19 +584,19 @@
 \de opportunity
 \xv Adagyi ma ɩnʋ sʋ, tɛkɩ nɛ́bɛtsa fʋ agyʋma yɔ.
 \xe There was no chance, or I would have helped you work.
-\dt 17/May/2016
+\dt 15/Jul/2016
 
 \lx adalɛ
 \ph adalɛ́ (H)
 \ps ADJ
 \sn
 \ge easy to beat
-\sd 4.8.2
+\sd 7.7.1
 \de easy to beat
 \rf Tape:1-1-120
 \xv Nɩ fʋyin akwɛ da a, ɩbʋ adalɛ.
 \xe If you know how to drum, it is easy to drum.
-\dt 01/May/2016
+\dt 15/Jul/2016
 
 \lx adango
 \ph adaŋgó
@@ -612,13 +615,14 @@
 \sn
 \ge witness
 \sd 4.6.6.1.2
+\sd 4.7.4
 \de witness
 \bw Akan fi:adansɩ LHH
 \xv Asa fɔ́yɔ asʋn ogyikpa a, fódunka ɔha ánɩ́ obégyi fʋ adansɩɛ.
 \xe Before you go to arbitration, you will search for the person that will be your witness.
 \xe Before you take your case to arbitration you look for a witness on your behalf.
 \rf Tape:1-1-130
-\dt 08/Feb/2014
+\dt 15/Jul/2016
 
 \lx Adenkensu
 \ph adɪ̃ŋkɪ̃nsúʔ (H)
@@ -636,11 +640,12 @@
 \ps n
 \sn
 \ge head of
-\sd 8
+\sd 5.1.1.3
+\sd 7.1.3
 \de above the head of someone lying down
 \xv Kɔba amʋ da kebi amʋ adɩawun.
 \xe The money is lying above the head of the child.
-\dt 10/Feb/2014
+\dt 15/Jul/2016
 
 \lx adɩn
 \ph adɪ̃́
@@ -839,6 +844,8 @@
 \sn
 \ge offering; sacrifice
 \sd 4.9.7.7
+\sd 4.9.5.5
+\sd 4.9.8
 \de voluntary offering, such as a church collection, or first fruits,
 \bw Akan fi:afɔrɩ LHH
 \nt compare this with mbusuo which is an animal sacrifice
@@ -849,7 +856,7 @@
 \xe He made the sacrifice on the altar.
 \xv Bulu lɔpʋ mʋ bi Yesu bɔ afɔdɩɛ anɩ nwunsʋ.
 \xe God offered his son Jesus as a sacrifice for us.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx Afrika
 \ph afríka
@@ -882,7 +889,7 @@
 \ps n
 \sn 1
 \ge lumps
-\sd 1.3.2.1
+\sd 8.3.1.3.1
 \de lumps on the body, or on a tree
 \xv Oyi ánɩ́ mʋ́ wɩ bʋ afu a, bʋtamapʋ sre oplimbi.
 \xe A tree that has bumps, they never take and carve into a pestle.
@@ -892,11 +899,12 @@
 \bb Stewart List:0973
 \sn 2
 \ge foam
-\sd 1.3.2.1
+\sd 1.2.3.1
+\sd 1.3.2
 \de foam, from soap or bubbles
 \xv Ɔkwaɩ amʋ ma ogya, mʋ́ sʋ ɩtama lɩn afu.
 \xe The soap is not good and so it does not produce foam.
-\dt 11/Nov/2015
+\dt 15/Jul/2016
 
 \lx afu
 \hm 2
@@ -1046,12 +1054,12 @@
 \ps n
 \sn
 \ge trap
-\sd 6.4.1
+\sd 6.4.2
 \de trap
 \xv Agbla lakpa kɩta kpasi.
 \xe The trap has sprung and caught the bush rat.
 \bb Stewart List:1228
-\dt 29/Sep/2015
+\dt 15/Jul/2016
 
 \lx agbodi
 \ph ag͡bodiʔ
@@ -1073,11 +1081,11 @@
 \ps ADJ
 \sn
 \ge numb
-\sd 2.5
+\sd 3.1.2.1
 \de don't care aboutwhat is happening
 \xv Kebi amʋ bʋ agbwi sʋ tɔtɔ tamatsii mʋ opuni.
 \xe The boy is numb, and so he does not care about anything.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx ago
 \ph agoʔ
@@ -1085,7 +1093,6 @@
 \sn
 \ge velvet
 \sd 6.6.1.1
-\sd 6.6.1.2
 \de velvet
 \va agon
 \vaph agõʔ
@@ -1093,7 +1100,7 @@
 \xv Ɔlɛdɩda agon tati Istatɔ.
 \xe He put on a velvet cloth for Easter.
 \bb Stewart List:1269
-\dt 04/Feb/2016
+\dt 16/Jul/2016
 
 \lx agode
 \ph agodé
@@ -1109,6 +1116,15 @@
 \rf Tape:1-1-205
 \bb Stewart List:0869
 \dt 31/May/2016
+
+\lx agoo
+\ph ágôː
+\ps INTERj
+\sn
+\ge Hello!
+\sd 9.6.3.3
+\de Interjection used to get attention; Anybody Home?
+\dt 16/Jul/2016
 
 \lx agude
 \ph agude(H)
@@ -1129,10 +1145,10 @@
 \ps INTJ
 \sn
 \ge Friend!
-\sd 3.4
-\sd 4.3.3
+\sd 3.5.1.4.3
+\sd 4.1.1
 \de My friend!
-\dt 01/May/2016
+\dt 16/Jul/2016
 
 \lx agya fwɩ
 \ph aʤa fwɪ(H)
@@ -1188,7 +1204,6 @@
 \de burnt fire wood
 \xv Ofienɩ ngya ma ɩnʋ mʋ́ sʋ agyawunu lawa bia.
 \xe This year there is no firewood, therefore charcoal has become expensive.
-\sd 5.2.1.1
 \rf Tape:1-1-236
 \xv Agyawunu atɔpʋ bʋtokwi ɔbɔ kʋla nyi wa mʋ́tɔ, fówun bawa ogya mʋ́tɔ yinki kpa sɩ bun mʋ́sʋ. Ɩhɔ ta a, balɛ agyawunu amʋ.
 \xe Charcoal burners dig a hole, and put trees in it, so you will see that they have set fire in it and returned gathered sand and covered it. When it finishes burning they remove the charcoal.
@@ -1198,7 +1213,7 @@
 \sg gyawunu
 \sgph ʤawunu
 \nt plural form is more common
-\dt 04/Nov/2015
+\dt 15/Jul/2016
 
 \lx agyawunu ɔtɔpʋ
 \ph aʤawunu ɔtɔpʊ́
@@ -1218,12 +1233,11 @@
 \sn
 \ge edible
 \sd 5.2.2
-\sd 5.2.1.2.2
 \de edible
 \rf Tape:1-1-268
 \xv Atogyihɛ ánɩ́ nfɔlɩ ma mʋ́tɔ a, ɩma agyilɛ.
 \xe Food that does not have salt in it is not easy to eat.
-\dt 22/Jul/2014
+\dt 15/Jul/2016
 
 \lx agyɩm
 \ph aʤɪm
@@ -1231,11 +1245,12 @@
 \sn
 \ge incest
 \sd 2.6.1
+\sd 2.6.2.3
 \de incest
 \bw Akan fi:agyɩm LL
 \xv Oyin amʋ lawa agyɩm.
 \xe The man has committed incest.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx agyɩna
 \ph aʤɪna(H)
@@ -1258,7 +1273,7 @@
 \ps n
 \sn
 \ge fog
-\sd 1.1.3
+\sd 1.1.3.2
 \de mist, fog
 \xv Agyɩndɩ tɛdalɩ dɩnka bʋsʋ nyankɩ. Nɩ fʋbʋ bʋsʋ a, agyɩndɩ amʋ tɔbwɛ ntsubi fɛ nyankpʋ.
 \xe Mist appears on the mountain in the morning. If you are on the mountain, the fog makes water droplets like rain.
@@ -1267,7 +1282,7 @@
 \xv Agyɩndɩ detswie.
 \xe The mist is falling.
 \bb Stewart List:1046
-\dt 26/Dec/2012
+\dt 15/Jul/2016
 
 \lx Agyoa
 \ph aʤóá
@@ -1345,8 +1360,8 @@
 \sn
 \ge worker
 \de worker
-\sd 6.8.6
-\dt 16/Sep/2013
+\sd 6.1
+\dt 15/Jul/2016
 
 \lx agywama
 \ph aʤwama(H)
@@ -1366,26 +1381,26 @@
 \ps n
 \sn 1
 \ge mind
-\sd 3.2.1.1
+\sd 3.2.1
 \de mind
 \bw Akan fi:adwɩn LHH
 \rf Tape:3-1-235
 \xv Tsufɛsɛ mʋ agywɩɩn igyi anyɔ, ɔmɛ́ɛtalɩ lɩɩ tsukʋlɛ.
 \xe Because he is double minded, he can't stand at one place.
-\ps n
-\sn 2
-\ge cleverness
-\sd 3.2.1.1
-\sd 6.6.4
-\sd 6.8.1.2
-\de cleverness
-\se kɩta agywɩɩn
-\ge plan
 \cf bwɛ agywɩɩn
 \ce decide
 \rf Tape:1-1-146
 \bb Stewart List:1443
-\dt 09/Nov/2015
+\ps n
+\sn 2
+\ge cleverness
+\sd 6.1.1.1
+\sd 3.2.1.3
+\de cleverness
+\se kɩta agywɩɩn
+\ge plan
+\sd 6.1.2.5
+\dt 15/Jul/2016
 
 \lx Ahenkro
 \ps PropN
@@ -1404,37 +1419,37 @@
 \ps n
 \sn
 \ge envy
-\sd 3.4
+\sd 3.4.2.1.8
 \sd 4.3.3.1
 \de to dislike, or resent someone because of something he has
 \bw Akan fi:ahin LH
 \rf Tape:1-1-294
 \xv Asʋn amʋ lɔwa Owie amʋ ahin.
 \xe The matter made the chief envious.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx ahinla
 \ph ahinlá(H)
 \ps n
 \sn
 \ge tease
-\sd 4.3.3.1
-\sd 7.2.5.4
+\sd 3.5.1.8.3
+\sd 3.4.2.3.1
 \de things that cause annoyance, teasing in such a way as to make someone angry
 \rf Tape:1-1-298
 \xv Aba ahinla bwɛ ma alɛ, tsufɛsɛ, ɩtɔpʋ kɔ ba.
 \xe Teasing each other is bad because it brings fighting.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx Ahundwo
 \ps PropN
 \sn
 \ph ahṹnʤó (H)
 \ge Ahundwo
-\sd 5.9
+\sd 9.7.2.3
 \de town off the main road southwest of Ahenkro
 \nt located at 7° 6' 35"N, +0° 18' 50"E
-\dt 12/Dec/2013
+\dt 15/Jul/2016
 
 \lx ahʋhwɛ
 \ph ahʊhwɛ́
@@ -1468,12 +1483,12 @@
 \ps n
 \sn
 \ge complimentary
-\sd 8
+\sd 8.3.7.7.3
 \de complimentary, go well together
 \rf Tape:1-1-303
 \xv Bodobodo mʋ́a paya bʋ akanlɛ.
 \xe Bread and avocado go well together.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx akapɛ
 \ph akapɛ́(H)
@@ -1482,14 +1497,13 @@
 \ge scissors
 \sd 5.4.3.5
 \sd 6.6.1
-\sd 6.6.4.3
 \de scissors
 \bw Akan fi:akapɛ LLH
 \xv Anɩtɔpʋ akapɛ dɩnkɩ anɩ imi nɩ ɩbla.
 \xe We use scissors to cut our hair when it is long.
 \xe When our hair is too long we cut it with scissors.
 \rf Tape:1-1-306
-\dt 18/May/2016
+\dt 15/Jul/2016
 
 \lx akatsa
 \ph akat͡sa(H)
@@ -1532,11 +1546,13 @@
 \ps n
 \sn
 \ge forbidden things
+\sd 4.9.5.6.1
 \sd 4.9.7.7
+\sd 5.2.3.5
 \de things that have been forbidden
 \cf kisi
 \ce taboo (v)
-\dt 22/Dec/2013
+\dt 15/Jul/2016
 
 \lx akɩankpatɔ
 \ph akɪ́aŋ͡mk͡patɔʔ(L)
@@ -1584,12 +1600,11 @@
 \sn
 \ge holdable
 \sd 7.3.4.4
-\sd 7.3.3.1
 \de easy to hold
 \rf Tape:1-1-335
 \xv Atɔ wanklaan bʋ akɩtalɛ.
 \xe easy to hold: Good things are easy to hold.
-\dt 01/Jun/2016
+\dt 15/Jul/2016
 
 \lx aklalɛ
 \ph aklálɛ(L)
@@ -1597,12 +1612,12 @@
 \sn
 \ge readable
 \sd 3.6.2
-\sd 4.6.3
+\sd 3.5.7.3
 \de easy or good to read
 \rf Tape:1-1-339
 \xv Ɔwʋlʋ ánɩ́ atosuanhɛ bʋ mʋ́tɔ a, ɩbʋ aklalɛ.
 \xe An informative book is good to read.
-\dt 18/May/2016
+\dt 15/Jul/2016
 
 \lx aklambi
 \ph aklambi
@@ -1629,11 +1644,11 @@
 \ps n
 \sn
 \ge Alavanyo
-\sd 4.1.9
+\sd 9.7.1.4
 \de Alavanyo; the Ewe group east of Nkonya
 \nt The Nkonyas and Alavanyos have had a long-running dispute.
 \nt The term is pejorative, from klɩ(tie)+fɔ(people).
-\dt 14/Aug/2013
+\dt 15/Jul/2016
 
 \lx Akloba
 \ps PropN
@@ -1650,21 +1665,15 @@
 \ps n
 \sn
 \ge hernia
-\sd 2.5.1
+\sd 2.5.6.3
+\sd 2.1.2
 \de hernia
 \va aklolʋɩ
 \vaph aklolʊɪ́
 \ve Southern dialect
 \xv Nɩ fʋbʋ aklodobi a fʋtamatalɩ yɔ agyuma kʋkʋ.
 \xe If you have hernia, you can't do any work.
-\dt 04/Feb/2016
-
-\lx akonya
-\ps n
-\sn
-\cf konya
-\ce driver ant
-\dt 02/Nov/2015
+\dt 15/Jul/2016
 
 \lx akoo
 \hm 1
@@ -1687,9 +1696,9 @@
 \sn
 \ge tool
 \sd 6.6.3
-\sd 6.2.8
+\sd 6.7.5
 \de carpenter's tool for removing nails
-\dt 28/Apr/2016
+\dt 15/Jul/2016
 
 \lx Akosua
 \ph akosua
@@ -1717,13 +1726,12 @@
 \sn
 \ge sweet wine
 \sd 5.2.3.7
-\sd 5.2.3.7
 \de unfermented palm wine
 \xv Akɔklɔ igyi nta debidebi.
 \xe Akɔklɔ is sweet, unfermented wine.
 \xv Nɩ fonun akɔklɔ a, fʋmɔ́ɔbʋ, tsufɛsɛ ogyasi ma mʋ́tɔ.
 \xe If you drink sweet wine you will not get drunk because smoke is not inside.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx akɔm
 \ph akɔm
@@ -1731,11 +1739,12 @@
 \sn
 \ge spirit possessed
 \sd 4.9.7.7
+\sd 4.9.4.2
 \de the action of spirit possessed person
 \bw Akan fi:akɔm (LH)
 \xv Akɔm lesian ɔtsɩ amʋsʋ igyo ogyikpa nʋ.
 \xe The woman was possessed by a spirit at the place where they were celebrating the yam festival.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx akɔnfra
 \ph akɔɱfra
@@ -1837,24 +1846,23 @@
 \sn
 \ge liver
 \sd 2.1.8
-\sd 6.3.4
 \de liver
 \xv Olinkantɩ lafa wa akpʋn amʋtɔ, sʋ lawa ɔkɩta.
 \xe Bile has burst on the liver so it has made it bitter.
 \bb SIL-AWL:0083
-\dt 28/Apr/2016
+\dt 15/Jul/2016
 
 \lx akpʋn-manta
 \ph ak͡pʊ̃́manta
 \ps n
 \sn
 \ge gall bladder
-\sd 2
+\sd 2.1.8
 \de gall bladder
 \xv Akpʋn-manta mʋ́a akpʋn fɛ́ɛ́ bʋ alɛ ha nyebi.
 \xe Gall bladder and liver are all good for children.
 \bb SIL-AWL:0087
-\dt 08/Feb/2014
+\dt 15/Jul/2016
 
 \lx Akua
 \ph akua
@@ -1916,13 +1924,14 @@
 \sn
 \ge magical object
 \sd 4.9.7.7
+\sd 4.9.8
 \de a magical object buried in the courtyard of a house to provide protection
 \nt unlike suma, akunta does not require ongoing sacrifices. The object may be the head of an animal or bones of a dead person. -FO
 \xv Aha ánɩ́ bɛblɩ a, nɩ bʋdɛ woyi yi a, bʋtegyankpa wa akunta woyi amʋtɔ, pʋ tin amʋ́ wɩ.
 \xe Those that are hot (involved in juju), if they are erecting a house, they always first put an akunta in the house to protect (as in putting in a stopper) themselves.
 \xe Juju practitioners first bury a magical object on the site for protection when they are building a house.
 \rf Tape:1-1-364
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx akunta
 \hm 2
@@ -1960,55 +1969,50 @@
 \ps n
 \sn
 \ge hunger
-\sd 5.2.2
+\sd 5.2.2.5
+\sd 6.2.5.2
 \de hunger
 \xv Akʋn dɛ mɩ.
 \xe I am hungry.
 \xe Hunger holds me.
 \bb Stewart List:1414
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx akʋnbrɩ
 \ph akʊnbrɪ
 \ps n
 \sn
 \ge famine
-\sd 5.2.2
+\sd 5.2.2.5
+\sd 6.2.5.2
 \de time of hunger
 \xv Nɩ nyankpʋ motswie a, akʋnbrɩ ɔnɔ tɔwa ɔnlɩn wanklaan.
 \xe If it doesn't rain, famine can become severe.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx akʋnta
 \ph akʊntá(H)
 \ps n
 \sn
 \ge brother in law
-\sd 4.1.9
+\sd 4.1.9.2.2
 \de wife's brother (opio) or sister's (opio's) husband
 \rf Tape:1-1-376
 \xv Oyin, nɩ fʋtobu fʋ akʋnta a, fʋ abi ansɩ tegyi amʋ́ yín woyitɔ.
 \xe O man, if you respect your brother-in-law, your children will always be happy in their mother's house.
 \bb Stewart List:0321
-\dt 14/Aug/2013
-
-\lx akwɛ
-\ps n
-\sn
-\cf ɩkwɛ
-\ce drum
-\dt 02/Nov/2015
+\dt 15/Jul/2016
 
 \lx alankpla
 \ph alaŋ͡mk͡pla
 \ps n
 \sn
 \ge storm
-\sd 1.1.3
+\sd 1.1.3.5
 \de rain storm
 \xv Nɩ nyankpʋ detswie, alankpla dɛ a, ifu tɛkɩta aha ánɩ́ amʋ́ mbu lapɔn tsufɛ itobwie mbu. Tamɛ Yesu bʋ tumi dɩnka alankpla sʋ.
 \xe When there is a rainfall with storm, those whose houses are weak become afraid it destroys houses. But Jesus has power over storm.
-\dt 29/Sep/2013
+\dt 15/Jul/2016
 
 \lx alɛ
 \ph alɛ́ (H)
@@ -2166,14 +2170,14 @@
 \ps n
 \sn
 \ge custom
-\sd 2.6.6.3
+\sd 4.3.9.1
 \de custom, as in marriage or funeral rites; how things are done in a ritual or formal way
 \bw Akan fi:Twi amammrɛ LHH
 \nt These customs are the ones borrowed from Akans, so the word is Akan Nkonya customs ɔkɔnʋ -FO
 \rf Tape:1-1-421
 \xv Nɩ fʋ tsiaba ɔkwɩɩpʋ owu a, amandɩɛ gyisɛ, fɛ́la oli ha mʋ.
 \xe If your spouse's parent dies you will perform funeral customs for him.
-\dt 11/Jun/2014
+\dt 15/Jul/2016
 
 \lx amansʋ
 \ph amansʊ
@@ -2191,11 +2195,11 @@
 \ps INTJ
 \sn
 \ge Amen
-\sd 3.4
 \sd 9.4.6
+\sd 4.9.5.2
 \de Amen
 \na Nkonya equivalent is Ɩba mʋ́tɔ
-\dt 01/May/2016
+\dt 15/Jul/2016
 
 \lx amɛndɩ
 \ph amɛndɪ
@@ -2203,7 +2207,6 @@
 \sn
 \ge which people
 \sd 9.2.3.2
-\sd 1.6.1.2
 \de which ones - of people only. plural form of ma.
 \rf Tape:1-1-426
 \xv Nɩ amɛndɩ bɛba, asa afʋbla mɩ?
@@ -2215,7 +2218,7 @@
 \cf ɔmɛnkɛ
 \ce what day
 \nt see ɔmɛnkɛ entry for notes on -mɛ- questions.
-\dt 20/May/2016
+\dt 15/Jul/2016
 
 \lx Amma
 \ph ámːa
@@ -2306,7 +2309,8 @@
 \ps ADV
 \sn
 \ge and these
-\sd 9.6.1.2
+\sd 8.3.5
+\sd 9.6.3.5
 \de and these
 \rf Tape:1-1-450
 \xv Nɩ fɔ́dɔ ndɔ a, lehian ánɩ́ fénya adatɔ. Adatɔ amʋ kʋ aná gyi, krantɩɛ, ɔtɩ, pʋ́ otsobi.
@@ -2314,7 +2318,7 @@
 \rf Tape:1-2-275
 \xv Ayintiase gyi ndɔ ánɩ́ bʋtegyankpa dɔ ofi ɔkʋlɛtɔ nɩ. Mʋ́tɔ bʋtoswie blɔdɩ, agbodi, pʋ́ mankani ana nɩ.
 \xe Ayintiase is the farm that they make first each year. In it they plant plantain, cassava and cocoyam.
-\dt 17/May/2016
+\dt 15/Jul/2016
 
 \lx anaasɛ
 \ph anáː!sɛ́(L)
@@ -2441,15 +2445,14 @@
 \ps n
 \sn
 \ge rebuke
-\sd 3.5.1.8.1
-\sd 4.3.3.1
+\sd 4.8.4.1
 \de rebuked
 \nt straight Akan
 \bw Akan fi:animka LLH
 \nt ka in Akan is also say
 \xv Nɛka mʋ anim.
 \xe I rebuked him.
-\dt 18/May/2016
+\dt 15/Jul/2016
 
 \lx ankasa
 \ph aŋkásá(H)
@@ -2481,7 +2484,6 @@
 \ge beauty
 \sd 2.3.1.8.1
 \sd 5.4
-\sd 2.6.1
 \de beauty
 \xv Megyi anlɛn, tamɛ bwɛhɛ.
 \xe Not beauty, but doings.
@@ -2490,41 +2492,41 @@
 \xv Akoo otedu bʋ anlɛn.
 \xe Parrot's tail is beautiful.
 \bb Stewart List:1675
-\dt 02/May/2016
+\dt 15/Jul/2016
 
 \lx ansibi
 \ph ansibi
 \ps n
 \sn
 \ge eyes
-\sd 2.1.1
+\sd 2.1.1.1
 \de eyes
 \cf nsibi
 \ce eye
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx ansibi klambi
 \ph ansibi klambi
 \ps n
 \sn
 \ge eyeball
-\sd 2.1.1
+\sd 2.1.1.1
 \de eyeball
-\dt 26/Aug/2013
+\dt 15/Jul/2016
 
 \lx ansibi obwiepʋ
 \ph ansibi obwiepʊ́
 \ps n
 \sn
 \ge blind person
-\sd 2.5.4
+\sd 2.5.4.1
 \de person that cannot see
 \pl ansibi abwiepʋ
 \plph ansibi abwiepʊ́
 \nt from ansibi bwie - broken eyes
 \xv Ansibi obwiepʋ amʋ otse ɔsʋsʋ amʋ lawu.
 \xe The man blind man staying at the top is dead.
-\dt 14/Aug/2013
+\dt 15/Jul/2016
 
 \lx ansigyi
 \ph ansíʤí
@@ -2592,9 +2594,7 @@
 \ps n
 \sn
 \ge cleverness
-\sd 3.2.1.1
-\sd 6.6.4
-\sd 6.8.1.2
+\sd 3.2.1.3
 \de cleverness
 \lt ansɩ "eyes"- tɩn "clear"
 \rf Tape:1-1-506
@@ -2603,7 +2603,7 @@
 \rf Tape:1-1-516
 \xv Awikplu bʋtowi atɔ ansɩtɩnsʋ, mɛnɩ ɔhaa mɛ́ɛkɩta amʋ́. Tamɛ amʋ́ bwɛhɛ imoni Bulu ansɩtɔ a, ɔtɛha bʋtɛkɩta amʋ́.
 \xe Thieves (they always)steal things cleverly, so that no one will catch them but their deeds are great (many) in God's sight so he allows people to catch them.
-\dt 11/Jun/2014
+\dt 16/Jul/2016
 
 \lx ansɩtɔ
 \ph ansɪ́tɔ́
@@ -2655,13 +2655,13 @@
 \ps ADJ
 \sn
 \ge potable
-\sd 5.2.2
-\sd 5.2.1.2.2
+\sd 1.3.6
+\sd 5.2.2.7
 \de good to drink
 \rf Tape:1-1-530
 \xv Nɩ afa bʋ ɔkɩta a, ɩma anunlɛ.
 \xe If medicine is bitter, it is not easy to drink.
-\dt 11/Jun/2014
+\dt 16/Jul/2016
 
 \lx anyɩnapɛpɛ
 \ph aɲɪnapɛpɛʔ(L)
@@ -2696,8 +2696,6 @@
 \ge OK
 \sd 3.5.1.5.1
 \sd 3.2.5.4
-\sd 1.6
-\sd 2.4.3
 \de OK
 \rf Tape:8-2-040
 \xv Aoo, nanu, sʋ nɛ́ba.
@@ -2708,7 +2706,7 @@
 \cf yoo
 \ce OK
 \cn Aoo is more frequently heard in the Northern dialect but is declining in usage
-\dt 18/May/2016
+\dt 16/Jul/2016
 
 \lx apa
 \ph apá
@@ -2741,7 +2739,8 @@
 \ps n
 \sn
 \ge will
-\sd 6.8.1.1
+\sd 3.3.1.6
+\sd 3.3.1.1
 \de will; desire
 \bw Akan fi:apɛ LH
 \cf ɔdwɛla
@@ -2749,28 +2748,28 @@
 \rf Tape:1-1-532
 \xv Lowu igyi Bulu ɔdwɛla.
 \xe Death is God's will.
-\dt 16/Nov/2013
+\dt 16/Jul/2016
 
 \lx apinabwɛbi
 \ph apinabʷɛbí
 \ps n
 \sn
 \ge hypocrisy
-\sd 8.3.7.1
+\sd 4.3.5.6
 \de hypocrisy
 \se bwɛ apinabwɛbi
 \ps v
 \sn
 \ge be hypocritical
-\sd 8.3.7.1
+\sd 4.3.5.6
 \de to be hypocritical
 \se apinabwɛbi ɔbwɛpʋ
 \ps n
 \sn
 \ge hypocrite
-\sd 8.3.7.1
+\sd 4.3.5.6
 \de a hypocrite
-\dt 07/Nov/2015
+\dt 16/Jul/2016
 
 \lx apipi
 \ph apípîʔ
@@ -2838,7 +2837,7 @@
 \ps n
 \sn
 \ge spice
-\sd 6.2.1.3
+\sd 5.2.3.3.3
 \de spice
 \xv Apʋsɛ toswie mʋ́ flasʋ wa oyitɔ. Bʋtɔkwɛ mʋ́ wa oputsutɔ. Ɩtɔhɔ ɔsɩn, ɩtɛha oputsu amʋ tɔwa ɔfan.
 \xe Spice grows on its vine, which climbs on a tree. They grind it and put it into the soup. It makes it hot and gives the soup a nice scent.
@@ -2846,7 +2845,7 @@
 \rf Tape:1-1-553
 \xv Apʋsɛ oputsu bʋ ɔdwɛ.
 \xe Spice soup is sweet.
-\dt 31/May/2016
+\dt 16/Jul/2016
 
 \lx asa
 \hm 1
@@ -2969,7 +2968,7 @@
 \ps n
 \sn
 \ge stool
-\sd 5.1.1.3
+\sd 5.1.1.2
 \de carved stool
 \bw Akan fi:asesegua LHHH
 \rf Tape:1-1-591
@@ -2978,16 +2977,16 @@
 \cf obia1
 \ce stool
 \nt see obia entry for other kinds of stools / chairs
-\dt 15/Jul/2016
+\dt 16/Jul/2016
 
 \lx asiabi
 \ph asiabí
 \ps n
 \sn
 \ge insults
-\sd 4.3.3.1
+\sd 3.5.1.8.2
 \de insults
-\dt 11/Jun/2014
+\dt 16/Jul/2016
 
 \lx asiansian
 \ph asiãsiã
@@ -3050,7 +3049,7 @@
 \ps n
 \sn
 \ge dowry
-\sd 4.1.9
+\sd 2.6.1.1
 \de an amount of money a man gives to the family of a woman as a wife
 \xv Nɩ oyin obétsia ɔtsɩ a, ɔbɔ́pʋ nta yɛlɛ wɩ ɔnwan ha ɔtsɩ amʋ akwɩɩpʋ, pʋ kɔba manta nta amʋsʋ. Kɔba amʋ gyi asientɔ nɩ.
 \xe If a man, will marry, he will take drinks to show his intentions, give them to the woman's parents, and bring money along with the drinks. The money is the dowry.
@@ -3060,7 +3059,7 @@
 \na The asientɔ is normally given to a senior woman relative of the bride. She then will counsel the bride in case of marriage breakdown, so that she doesn't have to pay it back to the groom's family.
 \cf siɛn
 \ce marry
-\dt 02/Oct/2015
+\dt 16/Jul/2016
 
 \lx asikre
 \ph asíkréʔ (H)
@@ -3100,18 +3099,7 @@
 \rf Tape:1-1-586
 \xv Mʋ asʋn amʋ asɩ mɛ?
 \xe What did he mean? (His word what about its meaning?)
-\ps n
-\sn 2
-\ge offspring
-\sd 4.1.9.1
-\de descendants
-\xv Mʋ asɩ bɛ́klɛɩ.
-\xe Her offspring will multiply.
-\xe She will have many descendants.
-\rf Tape:1-1-588
-\cf obi
-\ce child
-\dt 20/May/2016
+\dt 16/Jul/2016
 
 \lx asɩ
 \hm 2
@@ -3121,6 +3109,8 @@
 \ge around
 \sd 8.5.1.2.1
 \de around
+\cf fi asɩ
+\ce start
 \ps POST
 \sn 2
 \ge down
@@ -3128,8 +3118,7 @@
 \de down
 \se ba ɩwɩ asɩ
 \ge humble
-\sd 3.4
-\sd 7.2.5.4
+\sd 4.3.2.2
 \de to humble oneself
 \ps POST
 \sn 3
@@ -3141,11 +3130,20 @@
 \ps n
 \sn 4
 \ge earth
-\sd 1.2.2.2
+\sd 1.2.1
 \de earth, as opposed to heaven ɔsʋsʋ
-\cf fi asɩ
-\ce start
-\dt 17/May/2016
+\ps n
+\sn 5
+\ge offspring
+\sd 4.1.9.1
+\de descendants
+\xv Mʋ asɩ bɛ́klɛɩ.
+\xe Her offspring will multiply.
+\xe She will have many descendants.
+\rf Tape:1-1-588
+\cf obi
+\ce child
+\dt 16/Jul/2016
 
 \lx asɩba
 \ph asɪbá
@@ -3192,10 +3190,10 @@
 \ps n
 \sn
 \ge stool
-\sd 5.1.1.3
+\sd 5.1.1.2
 \de k.o. stool
 \nt check the spelling on this and merge with asesegua
-\dt 15/Jul/2016
+\dt 16/Jul/2016
 
 \lx asɩtsua
 \ph asɪt͡suá
@@ -3245,9 +3243,9 @@
 \ps n
 \sn
 \ge altar
-\sd 5.2.1.1
+\sd 4.9.8
 \de altar
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx asʋankʋ
 \ph asʊaŋkʊ
@@ -3328,12 +3326,12 @@
 \ps n
 \sn
 \ge spoken word
-\sd 3.5.3.1
+\sd 3.5.3.1.1
 \de a sentence or utterance
 \rf Tape:1-2-055
 \xv Pʋwa asʋn blɩhɛtɔ ha mɩ.
 \xe Put it in a sentence for me.
-\dt 18/May/2016
+\dt 16/Jul/2016
 
 \lx asʋnkpan
 \ph asʊŋ͡mk͡pã (H)
@@ -3363,7 +3361,7 @@
 \ps n
 \sn
 \ge disobedience
-\sd 7.2.5.4
+\sd 4.5.4.2
 \de disobedience
 \lt asʋtɔ ɔnlɩn: inside ear hard
 \xv Kebi ánɩ́ ɔbʋ asʋtɔlɩn a, mʋ akwɩɩpʋ ansɩ tamagyi mʋ wɩ.
@@ -3371,7 +3369,7 @@
 \xe Parents of a disobedient child are never happy with him.
 \cf ma bu
 \ce disrespect
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx ata anyɔ
 \ph ataɲɔʔ(H)
@@ -3390,7 +3388,7 @@
 \ps n
 \sn
 \ge dress
-\sd 5.4.1
+\sd 5.3
 \de European style clothing; dress, trousers, shirt
 \pl ntadɩɛ
 \plph ntadɪɛ
@@ -3402,7 +3400,7 @@
 \xv Nyebi ansɩ tegyi amʋ́, nɩ amʋ́ akwɩɩpʋ bɔhɔ atadɩɛ pɔpwɛ ha amʋ́.
 \xe Children are happy if their parents buy new dresses for them.
 \bb Stewart List:1244
-\dt 26/Dec/2012
+\dt 16/Jul/2016
 
 \lx atapʋlɛ
 \ph atapʊ́lɛ́
@@ -3447,13 +3445,13 @@
 \ps n
 \sn
 \ge food
-\sd 5.2.1.2.2
+\sd 5.2.3.4
 \de food
 \nt etym atɔ gyi hɛ - things eat ADJizer
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi; gari, konkonte pʋ́ agbodi mbɔdɩ.
 \xe They take cassava and make many foods. Some of these are, gari, konkonte, and cassava porridge.
 \xe They use cassava to make many foods including gari, konkonte, and cassava porridge.
-\dt 29/Oct/2013
+\dt 16/Jul/2016
 
 \lx atohianhɛ
 \ph atohiã́hɛʔ
@@ -3472,8 +3470,9 @@
 \ps n
 \sn
 \ge palm kernel
+\sd 6.2.1.7
 \de palm kernel that has been sprayed by squirrel
-\dt 04/Nov/2015
+\dt 16/Jul/2016
 
 \lx atonyahɛ
 \ph atoɲahɛ́
@@ -3493,13 +3492,14 @@
 \ps n
 \sn
 \ge teachings
-\sd 3.2.1.1
+\sd 3.6.3
+\sd 3.6.4
 \de teachings
 \xv Nɩ fégyi dɩnka anɩ wie Yesu Kristo atosunahɛsʋ a, ɩtɔwa alɛ ha fʋ nkpa anfɩtɔ.
 \xe If you abide by the teachings of our Lord Jesus Christ, it becomes well with you in this life.
 \cf suna
 \ce show
-\dt 29/Oct/2013
+\dt 16/Jul/2016
 
 \lx atɔ
 \ph atɔ́ʔ(H)
@@ -3539,14 +3539,13 @@
 \sn
 \ge seamstress/tailor
 \sd 6.6.1
-\sd 6.6.1
 \de seamstress or tailor
 \pl atɔ abɩnpʋ
 \plph atɔ́ abɪ́npʊ
 \xv Atɔ ɔbɩnpʋ amʋ dɛ mɩ atadɩɛ bɩn.
 \xe The seamstress/tailor is sewing my clothes.
 \nt see bɩn
-\dt 20/May/2016
+\dt 16/Jul/2016
 
 \lx atɔ ɔfɛpʋ
 \ph atɔ́ ɔfɛpʊ́ʔ
@@ -3594,10 +3593,11 @@
 \sn
 \ge soothsaying
 \sd 4.9.7.7
+\sd 4.9.4.7
 \de soothsaying
 \xv Atɔla teyinta atɔ.
 \xe Soothsaying spoils things.
-\dt 14/Aug/2013
+\dt 16/Jul/2016
 
 \lx atɔsʋrahɛ
 \ph atɔ́sʊráhɛ́
@@ -3611,13 +3611,15 @@
 \lx atrahɛ
 \ph atráhɛ
 \ps ADJ
-\sn
+\sn 1
 \ge others
-\sd 9.1.1.1
+\sd 8.3.5.2.4
 \de others, the rest
 \xv Bulu obégyi anɩ asʋn kinkiinkin, bɩtɩ anɩ asʋ dʋn aha atrahɛ.
 \xe God will judge us severely and punish us more severely than other people.
-\dt 12/Jun/2014
+\cf trahɛ
+\ce final
+\dt 16/Jul/2016
 
 \lx atsalɩ
 \ph at͡salɪʔ
@@ -3646,20 +3648,20 @@
 \sn
 \ge beans
 \sd 6.2.1.3
+\sd 5.2.3.1.1
 \de beans
 \xv Bʋtɔpʋ atse gyi wʋdɩ.
 \xe They eat beans with porridge.
 \xe Beans are eaten with porridge.
 \bb Stewart List:0916
-\dt 31/May/2016
+\dt 16/Jul/2016
 
 \lx atsialɛ
 \ph at͡siálɛ́
 \ps ADJ
 \sn
 \ge comfortable
-\sd 2.6.4.1.1
-\sd 4.3.3
+\sd 2.3.5.1
 \de comfortable to sit on
 \xv woyi odua ansigyi bʋ mʋ́tɔ a, ɩbʋ atsialɛ.
 \xe The house that has happiness in it, it's has good sitting.
@@ -3667,13 +3669,12 @@
 \rf Tape:1-2-106
 \se nya atsialɛ
 \ge have a comfortable
-\sd 2.6.4.1.1
-\sd 4.3.3
+\sd 2.3.5.1
 \de to be living a comfortable life
 \rf Tape:1-2-102
 \xv Olenya atsialɛ.
 \xe He was sitting pretty.
-\dt 27/Apr/2016
+\dt 16/Jul/2016
 
 \lx atsufolibi
 \ph at͡sufolibi (L)
@@ -3694,7 +3695,7 @@
 \ps n
 \sn
 \ge storm
-\sd 1.1.3.4
+\sd 1.1.3.5
 \de strong wind
 \dt 16/Jul/2016
 
@@ -3704,6 +3705,7 @@
 \sn
 \ge mushroom
 \sd 6.2.5.3
+\sd 1.5.4
 \de mushroom
 \xv Bʋtɔpʋ atsulii lɛ oputsu, mʋ́ oputsu tɔwa ɔdwɛ. Ɩkʋ tɔkwɛ ɔsʋlʋsʋ, ɩkʋ ɛ tɔkwɛ ɔbɛ oyi ánɩ́ bapuli mʋ́ tswɩ, laplɔ pʋ oyi plɔhɛsʋ. Bʋtegyi kʋ, ɩkʋ ɛ bʋtamagyi.
 \xe If they take mushrooms and put them in soup the soup is sweet. Some sprout from the ground, some grow on palm trees that they have uprooted and are lying down and have rotted, and other rotting trees. Some are eaten and some are not eaten.
@@ -3739,7 +3741,7 @@
 \xv Kplokplobi tɔkwɛ oyi plɔhɛsʋ. Ɩbʋ ɔplɩ, bʋtamakwɛ mʋ́. Mʋ́a abɛ oputsu bʋ ɔdwɛ dʋbɩ.
 \xe Kploklobi grows in rotting trees, It is slippery; they never grind it. It is very good with palm nut soup.
 \bb Stewart List:0872
-\dt 31/May/2016
+\dt 16/Jul/2016
 
 \lx atsulii bibi
 \ph at͡sulîbibi
@@ -3809,9 +3811,10 @@
 \ps n
 \sn
 \ge maize silk
-\sd 6.2.1.1
+\sd 6.2.1.1.3
+\sd 1.1.5
 \de maize silk (hair)
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx atukeke
 \ph atukéke
@@ -3834,6 +3837,7 @@
 \sn
 \ge talking drum
 \sd 4.6.1
+\sd 4.2.3.5
 \de Ashanti talking drums
 \nt These drums are usually beaten using the Akan language
 \bw Akan fi:atumpa LLH
@@ -3841,7 +3845,7 @@
 \xv Nɩ bʋdɛ atumpa da, ɔhandɛ ɔkʋ dɛtsʋn a, bʋtɛda mʋ adabi pʋ tɩ mʋ.
 \xe If they are beating the talking drums and an elder is passing by, they beat his appellation and call him.
 \bb Stewart List:1191
-\dt 26/Aug/2013
+\dt 16/Jul/2016
 
 \lx atuu
 \ph atûː
@@ -3860,14 +3864,16 @@
 \ps n
 \sn
 \ge dried okra
-\sd 5.2.1.1
+\sd 6.2.1.3
+\sd 5.2.3.1.3
+\sd 1.3.3.1
 \de dried okra
 \rf Tape:1-2-237
 \xv Nyankpʋ tswie brɛ a, bʋtɛkaka ndawuntɔ, fɩta mʋ́ yaɩ, mʋ́ gyi awanwan nɩ. Lɩlɩntɔ a, bawɔ mʋ́ pʋ lɛ oputsu tsufɛ ndawun ma nʋ.
 \xe In the rainy season they chop okra and dry it. This is awanwan. In harmattan they pounded it put it in the soup because okra is not there.
 \cf ndawun
 \ce okra
-\dt 30/Sep/2015
+\dt 16/Jul/2016
 
 \lx awɛ
 \ph awɛ
@@ -3923,11 +3929,12 @@
 \ps n
 \sn
 \ge arthritis
-\sd 2.5
+\sd 2.5.2
+\sd 2.5.6.1
 \de arthritis
 \xv Tsingbini oputsu igyi afa ha awɩdwiin.
 \xe Tsingbini soup is medicine for rheumatism.
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx awɩrɛhɔ
 \ph awɪrɛhɔ(H)
@@ -4052,7 +4059,9 @@
 \ps INTJ
 \sn 1
 \ge welcome
-\sd 2.4.3
+\sd 9.2.7
+\sd 3.5.1.4.3
+\sd 4.2.1.4.1
 \de ritual response to traditional prayer
 \ps n
 \sn 2
@@ -4065,7 +4074,7 @@
 \xe If someone is happy. That person especially should sing and praise God.
 \cf yi ayɛ
 \ce praise
-\dt 02/Nov/2015
+\dt 16/Jul/2016
 
 \lx ayintiase
 \ph ayintiase (H)
@@ -37636,14 +37645,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge last
-\sd 8.4.1.2.2
+\sd 8.4.5.1.4
 \de last, final
 \pl atrahɛ
 \plph atráhɛ
 \rf Tape:7-2-111
 \xv Nkɛ trahɛ amʋtɔ a, aha lalahɛ bomoni.
 \xe In the last days, evil doers will be many.
-\dt 21/Jun/2014
+\dt 16/Jul/2016
 
 \lx trɛ
 \hm 1
