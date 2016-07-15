@@ -2531,9 +2531,8 @@
 \ps n
 \sn
 \ge happiness
-\sd 3.4
+\sd 3.4.1.2
 \de happiness
-\lt eyes eat
 \rf Tape:1-1-480
 \xv Ansigyi bʋ Bulu woyitɔ.
 \xe There is happiness in God's house (heaven, also the church).
@@ -2552,7 +2551,7 @@
 \rf Tape:8-1-540
 \xv Nɩ ansɩ dɛ ɔkʋ gyi a, ɔha amʋ ɔpʋ ɩlʋwa yi Bulu ayɛ.
 \xe If someone is happy. That person especially should sing and praise God.
-\dt 01/Feb/2014
+\dt 16/Jul/2016
 
 \lx ansɩ
 \ph ansɪ́
@@ -3153,10 +3152,9 @@
 \ps n
 \sn
 \ge humility
-\sd 3.4
-\sd 7.2.5.4
+\sd 4.3.2.2
 \de humility
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx asɩfi
 \ph asɪfí
@@ -3850,12 +3848,12 @@
 \ps INTJ
 \sn
 \ge Welcome!
-\sd 3.4
+\sd 4.2.1.4.1
 \sd 2.4.3
 \de Welcome!, a warm greeting
 \xv Brɛa anɩlowie wulu amʋtɔ a, wulu amʋtɔ aha bʋmeyin anɩ tamɛ bɔhɔ anɩ atuu.
 \xe When we got to the town, the people in the town didn't know us but the received us well.
-\dt 08/Jan/2014
+\dt 16/Jul/2016
 
 \lx awanwan
 \ph awãwã́ʔ (H)
@@ -3936,13 +3934,14 @@
 \ps n
 \sn
 \ge grief
-\sd 3.4
+\sd 2.6.6.4
+\sd 3.4.2.1
 \de grief
 \bw Akan fi:awɩrɛhʋ LLLH
 \rf Tape:1-2-235
 \xv Awɩrɛhɔ dɛ mɩ, tsufɛ mɩ bi lowu ɔtsra kʋlɛ nɩ.
 \xe I am grieving because of the death of my child about a month ago.
-\dt 12/Jun/2014
+\dt 16/Jul/2016
 
 \lx awɩtɔlɛ
 \ph awɪtɔlɛʔ
@@ -5781,7 +5780,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge respect
-\sd 3.4
+\sd 4.5.5
 \de to respect or honour someone
 \se bu atɔ
 \ph bú atɔ́ʔ(H)
@@ -5798,7 +5797,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 7.2.5.4
 \de to obey s.o.
 \bb Stewart List:3266
-\dt 04/Feb/2016
+\dt 16/Jul/2016
 
 \lx bu
 \hm 2
@@ -5858,13 +5857,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge EXCLAIM
-\sd 3.4
-\sd 3.4
+\sd 3.5.1.1.1
+\sd 9.2.7
 \de express surprise by tapping the mouth while saying "Uuuuuuuuuu"; the resultant sound sounds like "bububububu"; occurs only with the verb da
 \rf Tape:2-1-042
 \xv Alada bubu tsufɛ asʋn amʋ lawa mʋ wanwan.
 \xe He said "Bubububububu" because the matter surprised him.
-\dt 13/Jul/2014
+\dt 16/Jul/2016
 
 \lx bubu
 \hm 2
@@ -9097,14 +9096,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge overcome
-\sd 3.4
-\sd 4.3.3.1
+\sd 4.8.3.1
 \de to overcome someone
 \xv Dɩdɩ lɔfʋrʋ kebi amʋ, bɛbla mʋ bɛɛ ɔkʋsʋ yɛklɛdɩ. Tamɛ atogyihɛsʋ olekina. Otse ɔdɛgyɔsɩ alɩɩ ɔlɛkpa tsu mʋ obia amʋsʋ.
 \xe The child was overcome by sleep, he was told to go and sleep but because of food he refused. He sat down and was dozing until he fell from his chair.
 \xv Fasi kebi amʋ ɩlɔ lafʋrʋ mʋ asa fapʋ mʋ ya ɩlɔ ɔtsakpa.
 \xe You have let the child's sickness to worsen too much before taking him to the hospital.
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx fwi
 \ph fwiʔ
@@ -10204,7 +10202,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge disturb
-\sd 3.4
+\sd 3.4.2.3.1
 \de disturb
 \xv Ɔma ha mʋ́ ɩhan mʋ.
 \xe He shouldn't let it disturb him.
@@ -10213,7 +10211,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fʋ dɛpʋ fʋ woyitɔ asʋn han mɩ dʋbɩ.
 \xe You are disturbing me with your family problems too much.
 \bb Stewart List:3233
-\dt 03/Oct/2015
+\dt 16/Jul/2016
 
 \lx hankɔpʋ
 \ph haŋkɔpʊ́
@@ -10833,7 +10831,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge fear
-\sd 3.4
 \sd 3.4.2.4
 \de fear
 \rf Tape:2-2-384
@@ -10852,7 +10849,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The person that is frightened by things, is a coward.
 \bb Stewart List:1417
 \bb Stewart List:2084
-\dt 01/May/2016
+\dt 16/Jul/2016
 
 \lx ifu
 \hm 2
@@ -11291,12 +11288,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge sign
-\sd 3.4
-\sd 4.9
+\sd 4.9.4
 \de a sign or miracle
 \xv Nɩ owi ɔdalɩ tsu owi okpliwiekpa a, igyi isuna kpɔnkpɔɔnkpɔntɩ, tsufɛ owi ɔdalɩkpa owi. tɛdalɩ tsu.
 \xe When the sun rises from the west, it is a big sign, because the sun rises from the east.
-\dt 04/Oct/2015
+\dt 16/Jul/2016
 
 \lx isutin
 \ph isutĩ́
@@ -11430,16 +11426,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge peace
-\sd 3.4
-\sd 4.3.3
-\sd 4.8.3
+\sd 4.8.4
+\sd 4.8.4.8
 \de peace
 \rf Tape:3-1-252
 \xv Ɔnɔkwalɩ blɩ tɔpʋ iwilwii ba.
 \xe Speaking the truth brings peace.
 \xv Iwilwii ha mlɩ, mɩ iwilwii ndɛpʋ ha mlɩ.
 \xe Peace to you, My peace I am giving to you.
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx iwitsu
 \ph iwit͡súʔ
@@ -12385,13 +12380,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge patience
-\sd 3.4
 \sd 4.3.1.5
-\sd 4.3.3
 \de suffer without complaining
 \xv Ɩbʋalɛ ánɩ́ okristoyɩn obénya klʋn mbrɛ fɛ́ɛ́tɔ.
 \xe It is good for a Christian to have patience all the time.
-\dt 01/May/2016
+\dt 16/Jul/2016
 
 \lx ɩkɔ
 \ph ɪkɔ (H)
@@ -12860,7 +12853,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 1
 \ge rage
-\sd 3.4
+\sd 3.4.2.3
 \de rage
 \nt in fast speech wa ɩnyɩ -> waɩn
 \rf Tape:3-1-115
@@ -12872,7 +12865,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-120
 \xv Ɩlɔ amʋ lawa ɩnyɩn.
 \xe The sickness has gotten very serious.
-\dt 02/Nov/2015
+\dt 16/Jul/2016
 
 \lx ɩpa
 \hm 1
@@ -13535,18 +13528,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fʋ ɩwɩ sɔɔn ánɩ́ mmɛdɛ oyi, tɛkɩ nɛ́da fʋ.
 \xe You are lucky that am not holding a cane, I should have hit you.
 \dt 20/May/2016
-
-\lx ɩwɩlwii
-\ph ɪwɪlwiː
-\ps n
-\sn
-\ge peaceful
-\sd 3.4
-\sd 4.3.3
-\sd 4.8.3
-\de peace
-\lt cool self
-\dt 08/Feb/2014
 
 \lx ɩwɩsɛ
 \ph ɪwɪsɛ
@@ -16837,14 +16818,14 @@ cf fonflo
 \ps v
 \sn
 \ge annoy
-\sd 3.4
+\sd 3.4.2.3.1
 \de to irritate by small repeated acts; to needle someone
 \rf Tape:3-2-506
 \xv Makpɛkpɛ mɩ.
 \xe Don't needle me.
 \cf kpɛ mblɩ
 \ce irritate
-\dt 22/Dec/2013
+\dt 16/Jul/2016
 
 \lx kpɛlɛ
 \ph k͡pɛ́lɛ́
@@ -17463,9 +17444,9 @@ cf fonflo
 \ps v
 \sn
 \ge fed up
-\sd 3.4
+\sd 3.4.2.3.1
 \de tire out
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx kpɔnkpɔntɩ
 \ph k͡pɔŋ͡mk͡pɔntɪ (H)
@@ -19630,9 +19611,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge disrespect
-\sd 3.4
+\sd 4.5.5.2
 \de to disrepect s. o.
-\dt 29/Oct/2013
+\dt 16/Jul/2016
 
 \lx ma nɩ mɩ nɩ
 \ph manɪmɪ́nɪ́
@@ -19950,11 +19931,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge irritation
-\sd 3.4
+\sd 3.4.2.3.1
 \de nominal form of kpɛ mblɩ
 \cf kpɛ mblɩ
 \ce irritate
-\dt 13/Jul/2014
+\dt 16/Jul/2016
 
 \lx mboun
 \ph mboṹʔ
@@ -22358,11 +22339,10 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \cf ofula
 \ce miracle
 \ge miracle
-\sd 3.4
-\sd 4.9
+\sd 4.9.4
 \de miracle
 \bw Akan
-\dt 04/Jul/2014
+\dt 16/Jul/2016
 
 \lx nsi
 \ph nsi(H)
@@ -23046,8 +23026,8 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ph ŋʷãʔ
 \ps v
 \sn 1
-\ge startled
-\sd 3.4
+\ge startle
+\sd 3.4.1.3
 \de to be startled or scared
 \xv Alaha mɩ nanwan.
 \xe He has made me startled.
@@ -23064,14 +23044,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \bb Stewart List:2686
 \xv Nɔtswɩ mango amʋ ha nyebi amʋ ánɩ́ bʋnwan, ɔha ánɩ́ olenya mʋ́ a, alatsu.
 \xe I threw the mango for the children that they should scramble for it that the one that gets it he should take it.
-\dt 28/Apr/2016
+\dt 16/Jul/2016
 
 \lx nwanwa
 \ph ŋʷáŋʷa(H)
 \ps n
 \sn
 \ge surprise
-\sd 3.4
+\sd 3.4.1.3
 \de surprise
 \nt also ifu
 \xv Oyin amʋ bwɛhɛ, lawa mɩ nwanwa, tsufɛ mmeyin ánɩ́ alɩ ogyi nɩ.
@@ -23079,22 +23059,20 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:8-1-232
 \xv Oyin amʋ bwɛhɛ, lawa mɩ nwanwa, tsufɛ mmeyin ánɩ́ otowi atɔ.
 \xe The man's doings have surprised me because I didn't known that he is a thief.
-\dt 16/Jun/2014
+\dt 16/Jul/2016
 
 \lx nwewun
 \ph ŋʷewũ̂ʔ
 \ps n
 \sn
 \ge
-\sd 3.4
 \sd 4.4.4.1
-\sd 4.3.3
 \de to have mercy
 \xv Kebi ɔkʋ labwɛ lalahɛ ánɩ́ ɔlɛkana ɩsʋ bɩtɩ, tamɛ mʋ akwɩɩpʋ bowun mʋ nwɛ sikie mʋ.
 \xe A certain child has behaved badly who deserved punishment, but his parents have had mercy on him and forgiven him.
 \xv Fʋ ba nwewun bʋ alɛ tsufɛ Bulu ɛ obówun fʋ nwɛ.
 \xe To have mercy on your neighbour is good because God will also have mercy on you.
-\dt 01/May/2016
+\dt 16/Jul/2016
 
 \lx nwɛ
 \ph ɪ̃wɛ̃(H)
@@ -23102,9 +23080,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \va nwɛ
 \ge mercy
-\sd 3.4
 \sd 4.4.4.1
-\sd 4.3.3
 \de mercy
 \va ɩwɛ
 \ve South
@@ -23116,7 +23092,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe The man moved me to pity so I helped him with his work.
 \lf Nact = nwɛ owunpʋ
 \le merciful person
-\dt 01/May/2016
+\dt 16/Jul/2016
 
 \lx nwɛn
 \ph ŋʷɛ́ʔ
@@ -24024,9 +24000,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va oo
 \ge Oh!
-\sd 3.4
+\sd 3.4.1.3
+\sd 9.2.7
 \de Oh! an exclamation indicating surprise
-\dt 28/Aug/2013
+\dt 16/Jul/2016
 
 \lx o - o
 \ph oʔo
@@ -24382,11 +24359,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge respect
-\sd 3.4
-\sd 4.3.3
+\sd 4.5.5
 \de respect
 \ng irregular nominal form for "bu" to respect
-\dt 17/Jun/2014
+\dt 16/Jul/2016
 
 \lx obu ɔdɩpʋ
 \ph obu ɔdɪpʊ
@@ -24548,10 +24524,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge respect
-\sd 3.4
-\sd 4.3.3
+\sd 4.5.5
 \de respect
-\dt 17/Jun/2014
+\nt check if this is a variant of obu
+\dt 16/Jul/2016
 
 \lx obutɔ
 \ph obutɔ́
@@ -24846,8 +24822,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge miracle
-\sd 3.4
-\sd 4.9
+\sd 4.9.4
 \de an act that is fearful and amazing
 \cf nsɛnkyrɛne
 \ce miracle (Akan)
@@ -24856,7 +24831,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-2-456
 \xv Sumbi ɔyɔpʋ Paulo ɛ lɔbwɛ ofula tsɔtsɔɔtsɔ Roma wulutɔ.
 \xe Apostle Paul also did many miracles in Rome.
-\dt 08/Jan/2014
+\dt 16/Jul/2016
 
 \lx ofuli
 \ph ofúli
@@ -24937,8 +24912,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge coward
-\sd 3.4
-\sd 8.3.7.1
+\sd 3.4.2.4
+\sd 4.4.3.2
 \de coward
 \pl afupʋ
 \plph afúpʊ́
@@ -24950,7 +24925,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-2-473
 \xv Anɩ tosusu ánɩ́ Takyi bʋ klʋn, sa ofupʋ ogyi.
 \xe We think Takyi is brave man not knowing he is a coward.
-\dt 12/Jul/2014
+\dt 16/Jul/2016
 
 \lx ofutikokoni
 \ph ofutikókóníʔ(H)
@@ -25290,10 +25265,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps INTJ
 \sn
 \ge I don't know!
-\sd 3.4
-\sd 6.8.1.2
+\sd 3.2.3.1
 \de exclamation meaning "I don't know!"
-\dt 08/Jan/2014
+\dt 16/Jul/2016
 
 \lx okekrebegye
 \ph okekrebeʤe
@@ -26784,10 +26758,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sign
-\sd 3.4
-\sd 4.9
+\sd 4.9.4
 \de sign; a wonder
-\dt 21/Jun/2014
+\nt check vs isuna
+\dt 16/Jul/2016
 
 \lx osunapʋ
 \ph osunápʊ́ʔ
@@ -28046,7 +28020,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge anger
-\sd 3.4
+\sd 3.4.2.3
 \de anger
 \rf Tape:5-2-202
 \xv Tsufɛ ɔblɔ mɛ́ɛha mlɩmɔ́ɔbwɛ atɔ wanklaan ánɩ́ Bulu dedunka tsu mlɩ wa.
@@ -28061,16 +28035,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Makpɛ mɩ mblɩ, mɛnɩ mméenya ɔblɔ wa fʋ.
 \xe Don't irritate me so that I won't get angry with you.
 \bb Stewart List:2078
-\dt 22/Jun/2014
+\dt 16/Jul/2016
 
 \lx ɔblɔkpan
 \ph ɔblɔ́k͡pã́
 \ps n
 \sn
 \ge rage
-\sd 3.4
+\sd 3.4.2.3
 \de rage
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx ɔbɔ
 \hm 1
@@ -30958,7 +30932,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge envy
-\sd 3.4
+\sd 3.4.2.1.8
 \sd 4.3.3.1
 \de envy, greed
 \lt red eye
@@ -30969,7 +30943,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔnsɩpɛ ma alɛ, tsufɛ bɛ́talɩ ha fɔ́mɔ ɔha.
 \xe Envy is not good because it can make you kill someone.
 \nt Ɔnsɩpɛ brings ahin (hating of someone because of what he has)
-\dt 12/Jul/2014
+\dt 16/Jul/2016
 
 \lx ɔnwankɩtɩ
 \ph ɔ̃wãŋkɪtɪ
@@ -32971,7 +32945,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge sass
-\sd 3.4
+\sd 4.5.5.2
 \de to respond disrespectfully
 \xv Ɔmapali mʋ asʋn.
 \xe He shouldn't answer back.
@@ -32979,7 +32953,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Children, you shouldn't sass your parents.
 \xv asʋnpalihɛ
 \xe Disrespectful talk.
-\dt 23/Jun/2014
+\dt 16/Jul/2016
 
 \lx pan
 \hm 1
@@ -33179,14 +33153,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge shame
-\sd 3.4
+\sd 3.4.2.2.1
+\sd 3.4.2.4.3 
 \de shame
 \xv Pɛlɩ sʋ a, oyin amʋ lasɩrɩ dalɩ wulutɔ.
 \xe Because of shyness the man ran away from town.
 \xv nya pɛlɩ
 \xe be shy
 \bb Stewart List:2110
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx pɛpɛ
 \ph pɛ́pɛʔ
@@ -34516,7 +34491,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps CNJ
 \sn
 \ge unexpectedly
-\sd 3.4
+\sd 3.4.1.3
 \de unexpectedly and unfortunately
 \nt does this only have negative connotations?
 \xv Ataa lɛkɩ mʋ kɔba, saa mʋ kɔba mɔtsɔ.
@@ -34525,7 +34500,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The time that I went, unexpectedly he also came so we met each other on the road.
 \va sanya
 \ve South
-\dt 21/Jun/2014
+\dt 16/Jul/2016
 
 \lx saafɩ
 \ph sâːfɪ
@@ -39736,11 +39711,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge amaze
-\sd 3.4
+\sd 3.4.1.3
 \de to amaze someone
 \xv Ɩlawa mɩ wanwan.
 \xe It amazed me.
-\dt 17/Apr/2016
+\nt check spelling vs nwanwan
+\dt 16/Jul/2016
 
 \lx wahɛ
 \ph wahɛ
@@ -41001,10 +40977,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps INTJ
 \sn
 \ge after all
-\sd 3.4
-\sd 2.4.3
+\sd 9.2.7
 \de after all
-\dt 08/Jan/2014
+\dt 16/Jul/2016
 
 \lx yɛɩ
 \ph yɛ́ɪ́
