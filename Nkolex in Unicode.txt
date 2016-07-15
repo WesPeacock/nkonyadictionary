@@ -7751,12 +7751,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge pain
-\sd 2.5
+\sd 2.5.6.1
 \de to cause pain
 \rf Tape:2-1-416
 \xv Mɩ nwuntɔ dɛ mɩ dwiin.
 \xe My head hurts.
-\dt 25/Dec/2013
+\dt 16/Jul/2016
 
 \lx dwindwin
 \ph dwĩdwĩ́
@@ -12620,7 +12620,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge illness
-\sd 2.5
+\sd 2.5.2
 \de illness
 \xv Ɩlɔ bʋ ɔsɩn.
 \xe Illness is painful.
@@ -12629,7 +12629,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt From ths: words for medical symptoms: lu (retch), kplai (vomit), kpɩnkɩ (shiver), pin (lose voice), plan (wound),
 \nt From ths: words for illnesses: aklodobi (hernia), ɩsʋn (catarh), ɔnamba(), ɔnamplɔɩ (), sɛsɛ (ringworm), kɛklɛ (boil), owisʋ (malaria), mfa (), ɔlɔ (sore), ɩlɔ pɛpɛ (leprosy), awidwiin (rheumatism), obubupʋ (cripple), etc.
 \bb Stewart List:1410
-\dt 01/Feb/2014
+\dt 16/Jul/2016
 
 \lx ɩlɔ pɛpɛ
 \ph ɪlɔ pɛpɛ
@@ -13550,31 +13550,31 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge nausea
-\sd 2.5
+\sd 2.5.2.3
 \de to feel like vomiting
 \xv Nɩ atsɩ akʋ benya ɔmɛ, begyi klɛmɛtɩ bɔbwɛ oputsu a, ɩwɩtɔ topuli amʋ́.
 \xe When some women are pregnant and they eat soup made of fresh fish, they fell like vomiting.
-\dt 08/Feb/2014
+\dt 16/Jul/2016
 
 \lx ɩwɩtɔ sila
 \ph ɪwɪtɔ silá
 \ps n
 \sn
 \ge constipation
-\sd 2.5
+\sd 2.5.2.3
 \de constipation
 \xv Nɩ fʋ ɩwɩtɔ isila a, gyi oyi abi tsɔtsɔ, afunu ntsu ɛ tsɔtsɔ.
 \xe When you have constipation, eat a lot of fruits and drink plenty water.
-\dt 08/Feb/2014
+\dt 16/Jul/2016
 
 \lx ɩwɩtɔ tu
 \ph ɪwɪtɔ tu
 \ps n
 \sn
 \ge diarrhoea
-\sd 2.5
+\sd 2.5.2.3
 \de diarrhoea
-\dt 08/Feb/2014
+\dt 16/Jul/2016
 
 \lx ɩwɔ
 \ph ɪwɔʔ(H)
@@ -13916,13 +13916,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge get better
-\sd 2.5
+\sd 2.5.7
 \de to get healthier
 \rf Tape:3-1-356
 \xv Mɩ ɩwɩ lakala bwɛ mɩ.
 \xe Myself, it has reduced for me.
 \xe My sickness has lessened.
-\dt 23/Jun/2014
+\dt 16/Jul/2016
 
 \lx kali
 \ph kálíʔ
@@ -19402,7 +19402,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge sick
-\sd 2.5
+\sd 2.5.2
 \de to be sick
 \xv Mɩ bi dɛlɔ sʋ ɔmɔyɔ sukuu.
 \xe My child is sick so he isn't going to school.
@@ -19414,7 +19414,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \cf ɔlɔpʋ
 \ce a sick person
 \bb Stewart List:2066
-\dt 25/Dec/2013
+\dt 16/Jul/2016
 
 \lx lɔɔrɩ
 \ph lɔːrɪ
@@ -31544,7 +31544,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge pain
-\sd 2.5
+\sd 2.5.6.1
 \de pain
 \rf Tape:6-1-383
 \xv Ɩlɔhɔ mʋ ɔsɩn.
@@ -31575,7 +31575,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Tɔnsɩ amʋ bʋ ɔsɩn oputsu amʋtɔ dʋbɩ.
 \xe The pepper is too hot in the soup.
 \bb Stewart List:1441
-\dt 31/May/2016
+\dt 16/Jul/2016
 
 \lx ɔsɩrɩ
 \ph ɔsɪrɪ́
@@ -35198,9 +35198,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge painful
-\sd 2.5
+\sd 2.5.6.1
 \de painful
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx sisa
 \ph sisaʔ
@@ -36983,12 +36983,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge numb
-\sd 2.5
+\sd 2.5.6.1
+\sd 2.3.5
 \de numb
 \rf Tape:7-1-491
 \xv Bawɛn mʋ atɔ dʋbɩ sʋ mʋ ɔyɩlʋ labwɛ titiriti.
 \xe They beat him too much so his skin has become numb.
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx titriu
 \ph titriu
@@ -38888,7 +38889,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge invalid
-\sd 2.5
+\sd 2.5.4
 \de someone who is sick and unable to go out
 \pl tsukʋlɛ asinpʋ
 \plph t͡sukʊlɛ asínpʊ
@@ -38899,7 +38900,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce one place
 \cf sin
 \ce stay
-\dt 30/Jun/2014
+\dt 16/Jul/2016
 
 \lx tsula
 \ph t͡súlá
