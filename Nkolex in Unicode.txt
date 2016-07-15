@@ -475,12 +475,12 @@
 \ps n
 \sn
 \ge antelope
-\sd 1.6.1.1
+\sd 1.6.1.1.3
 \de an antelope bigger than nani
 \nt check the size of nani, abrɛ and other antelopes
 \xv Abrɛ lɛpɛ, bibi ɩna mʋ ɔma. Olomoni dʋn nani, sʋ aha ansɩ tegyi mʋ ɩwɩ dʋn nani.
 \xe Abrɛ has red colour, with a black line on its back. It is bigger than nani, so people like it more than nani.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx abrɩwa
 \ph abrɪwa(H)
@@ -600,11 +600,11 @@
 \ps n
 \sn
 \ge rabbit
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \de rabbit
 \xv Kofi dɛ adango yaɩ amʋ́ woyitɔ.
 \xe Kofi is rearing rabbits in his house.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx adansɩɛ
 \ph adã́nsɪɛ(H)
@@ -1023,14 +1023,14 @@
 \ps n
 \sn
 \ge scorpion
-\sd 1.6.1.3.1
+\sd 1.6.1.8
 \de little brown scorpion
 \nt Southern dialect
 \cf nyankpʋkpie
 \ce scorpion (Northern dialect)
 \xv Bamɔ aganɛ amʋ́ʋ́ ɔlɔsʋra kebi amʋ.
 \xe They have killed the scorpion that stung the child.
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx Agbagya
 \ph ag͡baʤáʔ
@@ -2667,14 +2667,14 @@
 \ps n
 \sn
 \ge very tiny red ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de tiny red ant
 \pl anyɩnapɛpɛ
 \plph aɲɪnapɛpɛ
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 26/Sep/2015
+\dt 15/Jul/2016
 
 \lx anyɔ
 \ph aɲɔ(H)
@@ -4192,7 +4192,7 @@
 \ps n
 \sn
 \ge termite
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de termite
 \pl ababa
 \plph abábaʔ
@@ -4206,7 +4206,7 @@
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
 \bb Stewart List:0811
-\dt 01/Oct/2015
+\dt 15/Jul/2016
 
 \lx baflɛ
 \ph baflɛ́ʔ
@@ -4302,6 +4302,7 @@
 \sn
 \ge wing
 \sd 1.6.2.1
+\sd 1.6.1.2
 \de the wing of a bird
 \pl abamba
 \plph abámbaʔ (L)
@@ -4311,7 +4312,7 @@
 \bb Stewart List:0702
 \xv Obubwi amʋ abamba amʋtɔ lafɔ sʋ ɔmɛtalɩ fuli.
 \xe The wings of the bird is wet so it can't fly.
-\dt 01/Oct/2015
+\dt 15/Jul/2016
 
 \lx bambi
 \ph bámbiʔ
@@ -4362,14 +4363,14 @@
 \ps n
 \sn
 \ge bush pig
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \de bush pig
 \pl abatafɔ
 \plph abatafɔ(H)
 \nt North Nkonya call bush pig with black skin gyasɩɛpɛ, but the one with red skin is called batafɔ.
 \xv Abatafɔ bʋtɛhɩɛ yinta atɔ ndɔtɔ, titriu mankani pʋ agbodi.
 \xe Bush pigs destroys things on farm very much, especially cocoyam and cassava.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx batɛ
 \ph batɛ(H)
@@ -5256,13 +5257,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge pincer
-\sd 1.6.1.5
+\sd 1.6.1.9
 \de pincer of a crab
 \pl ablɩba
 \plph ablɪba
 \xv Fɛkɩta ɔkɔtɔ a, lehian ánɩ́ fɛfaan mʋ ablɩba. Mɛnɩ ɔmɛ́ɛkpa kɩta fʋ.
 \xe If you catch a crab, it is necessary to disable its claws. Then it won't pinch you.
-\dt 19/Jun/2014
+\dt 15/Jul/2016
 
 \lx blɩbɛ
 \ph blɪbɛ(H)
@@ -6739,18 +6740,18 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge centipede
-\sd 1.6.1.3.1
+\sd 1.6.1.9
 \de centipede
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx dakpikpi
 \ph dak͡pík͡pí
 \ps n
 \sn
 \ge wild cat
-\sd 1.6.1.1
+\sd 1.6.1.1.2
 \de wild cat
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx dalɩ
 \ph dálɪ́
@@ -6793,7 +6794,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge red ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de a red ant which lives in trees
 \va damantu
 \pl adamantsu
@@ -6803,7 +6804,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx damli
 \ph dámlí
@@ -6858,7 +6859,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge rabbit
-\sd 1.6.1.3.1
+\sd 1.6.1.1.4
 \de rabbit
 \pl adango
 \plph adaŋgó
@@ -6866,7 +6867,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-1-125
 \xv Kofi dɛ adango yaɩ amʋ́ woyitɔ.
 \xe Kofi is raising rabbits at their house.
-\dt 13/Jul/2014
+\dt 15/Jul/2016
 
 \lx dantapu
 \ph dantápu
@@ -6992,7 +6993,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge monkey
-\sd 1.6.1.1
+\sd 1.6.1.1.1
 \de monkey
 \nt also kʋtɩ
 \pl adeyi
@@ -7001,7 +7002,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɩ deyi dɛda oyitɔ, fʋlɩɩ fʋdɛkɩ a, ɩbʋ akɩlɛ.
 \xe If a monkey is in a tree and you stand and look it is good to look at.
 \bb Stewart List:0618
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx deyi asʋ
 \ph déi asʊ
@@ -7639,7 +7640,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge leopard
-\sd 1.6.1.1
+\sd 1.6.1.1.2
 \de leopard
 \pl adundu
 \plph adúnduʔ
@@ -7647,7 +7648,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Dundu tɛkɩta mʋ aba mbwɩ, wɩ amʋ́.
 \xe A leopard always catches his neighbours animals and eats them.
 \bb Stewart List:0627
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx dunka
 \ph dúŋká
@@ -8081,14 +8082,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge cricket
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de cricket
 \pl afantɩ
 \plph afã́ntɪʔ
 \rf Tape:2-1-445
 \xv Otsu lɛkɩta afantɩ. Abɔ́wɩ!
 \xe He has come from catching crickets. We will eat!
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx fata
 \ph fataʔ
@@ -8387,7 +8388,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de a small black ant that stings (but not severely); generic term
 \pl afinfi
 \plph afíɱfiʔ(L)
@@ -8403,7 +8404,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx finifini
 \ph fínífíní
@@ -8645,7 +8646,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge caterpillar
-\sd 1.6.1.3.1
+\sd 1.6.3
+\sd 1.6.1.7
 \de non-stinging caterpillar
 \pl afonflo
 \plph afoɱfloʔ
@@ -8655,7 +8657,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe A caterpillar turns into a butterfly.
 \cf tɔsɩ1
 \ce stinging caterpillar
-\dt 09/Nov/2015
+\dt 15/Jul/2016
 
 \lx fontroo
 \ph fóntróː (H)
@@ -9016,7 +9018,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge deer
-\sd 1.6.1.1
+\sd 1.6.1.1.3
 \de deer
 \pl afʋlɩtɩ
 \plph afʊlɪtɪ́
@@ -9024,7 +9026,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fʋlɩtɩ iye bʋ ɔdwɛ.
 \xe Deer meat is good to eat.
 \bb Stewart List:0626
-\dt 01/Feb/2014
+\dt 15/Jul/2016
 
 \lx fʋm
 \ph fʊ́m
@@ -9262,13 +9264,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge locust
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de locust
 \cf tsantsankʋ
 \ce locust
 \cf ɔkɛkɛ
 \ce grasshopper
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx gbede
 \hm 1
@@ -9469,7 +9471,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge squirrel
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \de tree squirrel
 \pl agyabɛ
 \plph aʤábɛ̂ʔ
@@ -9479,7 +9481,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Gyabɛ tɛla sia.
 \xe Squirrels make nests (in trees).
 \bb Stewart List:0629
-\dt 09/Nov/2015
+\dt 15/Jul/2016
 
 \lx gyablɩ
 \ph ʤablɪ
@@ -9509,7 +9511,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge bat
-\sd 1.6.1.2
+\sd 1.6.1.1.8
 \de bat
 \ee Order Chiroptera
 \pl agyagya
@@ -9518,7 +9520,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Mbubwi pʋ́ agyagya bʋtofuli, tamɛ agyagya bʋtofuli yɔ anwunsʋ dʋn mbubwi.
 \xe Birds and bats both fly but bats fly higher than birds.
 \bb Stewart List:0625
-\dt 30/May/2016
+\dt 15/Jul/2016
 
 \lx gyagyaagya
 \ph ʤáʤáːʤá
@@ -9617,7 +9619,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge bush pig
-\sd 1.6.1.1
+\sd 1.6.1.1.3
 \de wild boar
 \pl agyasɩɛpɛ
 \plph aʤásɪ́ɛ́pɛʔ
@@ -9627,14 +9629,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-207
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bush pigs have eaten all of my cocoyam in the farm.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx gyata
 \ph ʤatá
 \ps n
 \sn
 \ge lion
-\sd 1.6.1.1
+\sd 1.6.1.1.2
 \de lion
 \pl agyata
 \plph aʤatá
@@ -9643,23 +9645,25 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Gyata amʋ osietɔ igyi lekelekeleke.
 \xe The lion's waist is very slender.
 \bb Stewart List:0621
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx gyata ɔbɔ
 \ph ʤata ɔbɔ
 \ps n
 \sn
 \ge den; hole; lair
-\sd 1.6.1.1
+\sd 1.6.1.1.2
+\sd 1.6.5
+\sd 1.2.1.5
 \de the hiding place of a lion
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx gyawugya
 \ph ʤawuʤá
 \ps n
 \sn
 \ge red ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de tiny red ant
 \na Doesn't make permanent nests; lives in kitchens and gets into just everything.
 \pl agyawugya
@@ -9670,7 +9674,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx gyede
 \ph ʤede
@@ -9985,7 +9989,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge toad
-\sd 1.6.1.3.1
+\sd 1.6.1.4
 \de toad
 \pl agyongyo
 \plph aʤónʤóʔ
@@ -9995,7 +9999,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Gyongyo kpɔnkpɔntɩ ɔkʋ lopula mɩ ɔlɔ́ asɩ odesu.
 \xe A big toad is buried (half in the dirt) at the foot of my pot. He is crying.
 \bb Stewart List:0764
-\dt 24/Dec/2013
+\dt 15/Jul/2016
 
 \lx gyonka
 \ph ʤoŋká
@@ -10456,7 +10460,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge shell
-\sd 1.6.1.3.1
+\sd 1.6.1.9
 \pl ahontro
 \plph ahontro
 \de snail shell
@@ -10464,7 +10468,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe A snail does not travel without its shell.
 \xv Mbien ahontro tetsia wunasʋ, ɩnɩsʋ ɩma alɛ ánɩ́ nyebi béplei wunasʋ ayabi kpan tsufɛ ɩtɛka.
 \xe Snail shells are common on dumps, so it is not good for children to play there with bare feet because it cuts.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx hɔ
 \hm 1
@@ -11229,6 +11233,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge nest
 \sd 1.6.1.2
+\sd 1.6.5
 \de bird's nest
 \pl asia
 \plph asiaʔ
@@ -11236,7 +11241,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Mbubwi bʋtɛla sia, tamɛ agyagya mʋ́ bʋtamala sia.
 \xe Birds make nests but bats never make nests.
 \bb Stewart List:0707
-\dt 27/Apr/2016
+\dt 15/Jul/2016
 
 \lx isiabi
 \ph isiabí (H)
@@ -13075,9 +13080,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge tusk
 \sd 1.6.2
+\sd 1.6.1.1.3
 \de the tusk of an elephant or boar
 \va ɩsɛn
-\dt 10/Oct/2015
+\dt 15/Jul/2016
 
 \lx ɩsɩ
 \ph ɪsɪ (H)
@@ -15029,7 +15035,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge lizard
-\sd 1.6.1.3.1
+\sd 1.6.1.3.2
 \de lizard
 \pl akɩtɩ
 \plph akɪ́tɪʔ
@@ -15038,7 +15044,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The lizard climbed and got away from the cat.
 \ng dʋ/si (climb/leave) escaped by climbing
 \bb Stewart List:0765
-\dt 26/Dec/2012
+\dt 15/Jul/2016
 
 \lx kɩtɩba
 \ph kɪ́tɪ́bá
@@ -15062,11 +15068,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge gecko
-\sd 1.6.1.3.1
+\sd 1.6.1.3.2
 \de gecko
 \pl akɩtɩblʋn
 \plph akɪ́tɪblʊ̃
-\dt 26/Dec/2012
+\dt 15/Jul/2016
 
 \lx kla
 \hm 1
@@ -15249,14 +15255,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass-cutter
-\sd 1.6.1.1
+\sd 1.6.1.1.5
 \de grass-cutter; cane rat
 \pl aklatɩ
 \plph aklatɪ (H)
 \rf Tape:3-2-164
 \xv Mɩ agbla lakɩta klatɩ, aklatɩ amʋ bʋdɛ mɩ agbodi wɩ, sʋ nɛfɩnɩ amʋ́.
 \xe My trap has caught a grass-cutter. Grass-cutters are eating my cassava so I trapped them.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx kle
 \ph kleʔ
@@ -15495,7 +15501,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge rat
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \de rat; mouse
 \pl aklɔtɩ
 \plph aklɔtɪ́
@@ -15504,21 +15510,21 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The cat has climbed up into the ceiling and is catching mice.
 \ng dʋ wie:climb / enter (climb into)
 \bb Stewart List:0634
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx klɔtɩbʋodu
 \ph klɔtɪ́bʊódu(H)
 \ps n
 \sn
 \ge type of mouse
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \de type of mouse with bushy tail
 \lt klɔtɩ bʋ odu "mouse has tail"
 \pl aklɔtɩbʋodu
 \plph aklɔtɪ́bʊódu(H)
 \xv Klɔtɩbʋodu bʋ ɔdwɛ dʋn kpasi.
 \xe Klɔtɩbʋodu is sweeter than rat.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx klukluuklu
 \ph klúklúːklú
@@ -16011,9 +16017,9 @@ cf fonflo
 \ps n
 \sn
 \ge porcupine
-\sd 1.6.1.1
+\sd 1.6.1.9
 \de porcupine
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx kpa
 \hm 1
@@ -16398,6 +16404,7 @@ cf fonflo
 \sn
 \ge goat
 \sd 6.3.1.1
+\sd 1.6.1.1.3
 \de goat
 \pl akpala
 \plph ak͡pálâʔ
@@ -16408,7 +16415,7 @@ cf fonflo
 \xv Abanyɔ kpala a, ɔhaa tamagya mʋ wa bantɔ.
 \xe A goat owned by two people, no one puts it into the fence.
 \bb Stewart List:0613
-\dt 26/Dec/2012
+\dt 15/Jul/2016
 
 \lx kpali
 \ph k͡pali
@@ -16586,11 +16593,11 @@ cf fonflo
 \ps n
 \sn
 \ge baboon
-\sd 1.6.1.1
+\sd 1.6.1.1.1
 \de baboon
 \pl akpantsa
 \plph ak͡pat͡sa
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx kpaoo
 \ph k͡páôː
@@ -16611,7 +16618,7 @@ cf fonflo
 \ps n
 \sn
 \ge rat
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \de bush rat
 \pl akpasi
 \plph ak͡pasiʔ(L)
@@ -16619,7 +16626,7 @@ cf fonflo
 \xv Kpasi ɔkʋ dɛ mɩ gyo wɩ. Sʋ nafɩnɩ mʋ kɩta mʋ. Mʋ odu bʋ swɩ.
 \xe A certain bush rat is eating my yams, so I have trapped him. His tail is long.
 \bb Stewart List:0619
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx kpata
 \hm 1
@@ -17609,7 +17616,7 @@ cf fonflo
 \ps n
 \sn
 \ge buffalo
-\sd 1.6.1.1
+\sd 1.6.1.1.3
 \de buffalo
 \pl akpʋkpʋ
 \plph ak͡pʊ́k͡pʊ
@@ -17619,7 +17626,7 @@ cf fonflo
 \xv Kpʋkpʋ bʋ nsiebi fɛ ɔnantswie. Otetsia pututɔ.
 \xe A buffalo has horns like a cow. It lives in the bush.
 \bb Stewart List:0622
-\dt 13/Jul/2014
+\dt 15/Jul/2016
 
 \lx kpʋɔkpʋɔkpʋɔ
 \ph k͡pʊɔk͡pʊɔk͡pʊɔ
@@ -18021,13 +18028,13 @@ cf fonflo
 \ps ADJ
 \sn
 \ge small (bat)
-\sd 1.6.1.2
+\sd 1.6.1.1.8
 \de a small bat
 \nt occurs only with gyagya
 \rf Tape:4-1-248
 \xv Agyagya kutibii bʋbʋ mɩ obu ikwitɔ. Sʋ bʋdɛ mɩ han.
 \xe Small bats are in the ceiling of my room. So they are troubling me.
-\dt 30/Jun/2014
+\dt 15/Jul/2016
 
 \lx kutuklu
 \ph kútúklú
@@ -18976,12 +18983,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge monitor lizard
-\sd 1.6.1.3.1
+\sd 1.6.1.3.2
 \de monitor lizard
 \pl alata
 \plph alátá(L)
 \bb Stewart List:0766
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx lata
 \hm 2
@@ -19015,7 +19022,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge turtle
-\sd 1.6.1.1
+\sd 1.6.1.3.3
 \de turtle
 \pl alembu
 \plph alémbuʔ
@@ -19026,7 +19033,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-485
 \xv Wurupongfɔ bʋtekisi lembu.
 \xe Wurupong people abstain from turtle meat.
-\dt 26/Dec/2012
+\dt 15/Jul/2016
 
 \lx lɛ
 \ph lɛ́ʔ
@@ -19184,7 +19191,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge crocodile
-\sd 1.6.1.1
+\sd 1.6.1.3.4
 \de crocodile
 \xv Alɛnkɛ sɔɔn bʋ Wɩawɩa ntsutso.
 \xe There are many crocodiles in river Wiawia.
@@ -19193,21 +19200,21 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Water that has a crocodile in it, entering it has fear, because a crocodile always eats people.
 \xe Going into crocodile infested water is dangerous because they eat people.
 \nt crocodile bile lɛnkɛ ɔlɩnkatɩ is a commonly used poison
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx lɛnkɛkpan
 \ph lɛŋkɛk͡pã́
 \ps n
 \sn
 \ge crocodile
-\sd 1.6.1.1
+\sd 1.6.1.3.4
 \de small crocodile
 \pl alɛnkɛkpan
 \plph alɛŋkɛk͡pã́
 \nt This is smaller than a standard crocodile and people eat it.
 \xv Lɛnkɛkpan mʋa mʋ́ pio Alɛnkɛ fɛ́ɛ́ a, bʋ ma alɛ.
 \xe The smaller and its brother the standard crocodiles are not good.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx liga
 \ph ligá
@@ -21201,7 +21208,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge antelope
-\sd 1.6.1.1
+\sd 1.6.1.1.3
 \de an antelope smaller than abrɛ
 \pl anani
 \plph anáníʔ
@@ -21211,7 +21218,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sc Sylvicapra grimmia
 \nq Check whether nani is grey duiker Sylvicapra grimmia
 \bb Stewart List:0631
-\dt 04/Feb/2016
+\dt 15/Jul/2016
 
 \lx nantata
 \ph nantataʔ
@@ -23289,13 +23296,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge tadpole
-\sd 1.6.1.3.1
+\sd 1.6.1.4
+\sd 1.6.3
 \de tadpole
 \nt Nwunkpodi is a mythical character with a big head.
 \rf Tape:5-1-486
 \xv Nwunkpodikpodi sɔɔn bʋ Otukpe bunkpatɔ.
 \xe Many tadpoles are in the Otukpe riverbed.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx nwun-nwun
 \ph ŋʷũŋʷũʔ(L)
@@ -23444,6 +23452,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge maggot
 \sd 1.6.1.7
+\sd 1.6.3
 \de maggot
 \nt the kind that grow in latrines is considered as different from the kind that grow in meat.
 \pl anyambi
@@ -23454,7 +23463,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:5-1-509
 \xv Iye amʋ lawa anyambi.
 \xe The meat has developed maggots.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx nyambi
 \hm 2
@@ -23990,7 +23999,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge millipede
-\sd 1.6.1.3.1
+\sd 1.6.1.9
 \de millipede
 \pl aŋlanwun
 \plph aŋlã́nwũ̂ʔ
@@ -23998,7 +24007,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ŋlanwun bʋ ayabi tsɔtsɔɔtsɔ.
 \xe The millipede has many legs.
 \bb Stewart List:0820
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx o
 \ph óː
@@ -24169,7 +24178,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge snail
-\sd 1.6.1.3.1
+\sd 1.6.1.9
 \de a large snail that is good for eating
 \pl mbien
 \plph mbĩ́ẽ́
@@ -24183,7 +24192,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Obien tamanatɩ si mʋ hontro.
 \xe A snail does not travel without its shell.
 \bb Stewart List:0768
-\dt 17/Jun/2014
+\dt 15/Jul/2016
 
 \lx obitebi
 \ph obitebíʔ
@@ -24938,14 +24947,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge ant lion
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de ant lion
 \pl nfutikokoni
 \plph ɱfutikokoni
 \rf Tape:6-2-478
 \xv Ofutikokoni amʋ dɛ ɩsɩ tutu.
 \xe The ant lion is throwing up sand.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ofwi
 \ph ofwi(H)
@@ -25009,14 +25018,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge red head lizard
-\sd 1.6.1.3.1
+\sd 1.6.1.3.2
 \de red headed agama lizard
 \pl ngbon
 \plph ŋ͡mg͡bõʔ
 \xv Tɛplɛ onun nfɔ a, Ogbon lahɔ nwun pɛ.
 \xe Cockroach drinks the oil, but red headed lizard gets the red head.
 \nt the innocent get blamed for the work of the guilty.
-\dt 13/Jul/2014
+\dt 15/Jul/2016
 
 \lx ogya
 \ph oʤáʔ(H)
@@ -25103,13 +25112,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge firefly
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de firefly
 \xv Ogyaŋɛ amʋ dɛ ogya kpa.
 \xe The firefly is flashing.
 \xv Nɩ aha akʋ bowun ogyaŋɛ amʋ dɛ ogya kpa a, bɛɛ bawun ɔkpɛpʋ.
 \xe When some people see firefly flashing, they think they have seen a witch.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ogyasi
 \ph oʤásîʔ(L)
@@ -25370,7 +25379,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge frog
-\sd 1.6.1.3.1
+\sd 1.6.1.4
 \de frog
 \pl nkle
 \plph ŋ́kléʔ
@@ -25381,21 +25390,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The Yorubas eat all kinds of frogs and snakes.
 \cf gyongyo
 \ce toad
-\dt 24/Mar/2016
+\dt 15/Jul/2016
 
 \lx oklemgbe
 \ph oklemg͡beʔ
 \ps n
 \sn
 \ge shrew
-\sd 1.6.1.3.1
+\sd 1.6.1.1.4
 \de shrew that lives in town
 \pl nklemgbe
 \plph ŋkleŋ͡mg͡be
 \rf Tape:6-2-563
 \xv Oklemgbe tɔwɩ batɛ abi.
 \xe A shrew always eats chicks.
-\dt 13/Jul/2014
+\dt 15/Jul/2016
 
 \lx oklu
 \ph oklúʔ(H)
@@ -25919,7 +25928,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge crocodile
-\sd 1.6.1.1
+\sd 1.6.1.3.4
 \de crocodile
 \pl nloo
 \plph nlǒː
@@ -25928,7 +25937,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe A crocodile has a long mouth that it uses to catch fish in the lake so don't enter the water.
 \va lɛnkɛ
 \ve North
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx olu
 \hm 1
@@ -26816,13 +26825,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge anteater
-\sd 1.6.1.1
+\sd 1.6.1.1.6
 \de scaly anteater
 \pl nswie
 \plph nswie
 \xv Nɛmɛntɩ oswie ánɩ́ ɔmɔkʋ wu, nɔpʋ mʋ ba woyitɔ, tsufɛ ɔtamadun.
 \xe I came across a scaly anteater that had not died and brought it back to the house because he does not bite.
-\dt 21/Jun/2014
+\dt 15/Jul/2016
 
 \lx otebi
 \ph otebiʔ
@@ -26876,12 +26885,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de ant with a very bad smell
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx otonklo
 \ph otóŋkló
@@ -27923,13 +27932,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge gecko
-\sd 1.6.1.3.1
+\sd 1.6.1.3.2
 \de wall gecko
 \pl mblakɩtɩ
 \plph mblákɪtɪ
 \xv Kebi amʋ lamɔ ɔblakɩtɩ amʋ́ʋ́ ɔpan buntiisʋ amʋ.
 \xe The child has killed the wall gecko which was on the wall.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ɔblakwɛ
 \ph ɔblakwɛʔ
@@ -27969,14 +27978,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge small snail
-\sd 1.6.1.3.1
+\sd 1.6.1.9
 \de a small snail
 \pl mblatɩɩ
 \plph mblatɪ̂ːʔ
 \rf Tape:5-2-189
 \xv Mblatɩɩ bʋtetsia kpoli pɔpwɛ ndɔtɔ.
 \xe Small snails live in new corn farms.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ɔblɩ
 \hm 1
@@ -29001,12 +29010,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge flying squirrel
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \nt this is a rare tone pattern (low tone nasalization with no glottal stop)
 \de flying squirrel
 \xv Ɔtapʋ amʋ lɔmɔ ɔhan igye onye.
 \xe The hunter killed a flying squirrel yesterday.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ɔhandɛ
 \ph ɔhandɛʔ
@@ -29275,7 +29284,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge grasshopper
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de small grasshopper
 \pl nkɛkɛ
 \plph ŋkɛkɛ́
@@ -29284,7 +29293,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The grasshopper was perched on the wall, a chicken flew in order to catch him so, he took off and left him.
 \cf gbablama
 \ce locust
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx ɔkɛkɛɛkɛ
 \ph ɔkɛkɛːkɛ
@@ -29391,7 +29400,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge turtle
-\sd 1.6.1.1
+\sd 1.6.1.3.3
 \de turtle
 \pl nklɛbɔ
 \plph ŋklɛbɔ
@@ -29399,7 +29408,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Turtle is a water tortoise.
 \xv Ɔklɛbɔ oboyi bʋswɩ dʋn sawun.
 \xe Turtle's neck is longer than tortoise's.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx Ɔklɩfɔ
 \ph ɔklɪ́fɔ
@@ -29444,7 +29453,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge chameleon
-\sd 1.6.1.3.1
+\sd 1.6.1.3.2
 \de chameleon
 \pl nkɔmfɔbowuo
 \plph ŋkɔɱfɔbowuo(H)
@@ -29455,7 +29464,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔkɔmfɔbowuo tɛnatɩ pʋtɔɔ fɛ owie.
 \xe Chameleon walks slowly like a chief.
 \bb Stewart List:0767
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ɔkɔntɩ
 \ph ɔkɔntɪ
@@ -29477,8 +29486,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge crab
-\sd 1.6.1.5
-\sd 6.4.5
+\sd 1.6.1.9
 \de crab
 \pl nkɔtɔ
 \plph ŋkɔ́tɔ(H)
@@ -29489,7 +29497,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Bʋtamawi ɔkɔtɔ wɩ.
 \xe They never steal a crab and chew it.
 \bb Stewart List:0771
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ɔkpa
 \ph ɔk͡pa(H)
@@ -29669,7 +29677,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de a large black stinging ant
 \pl akpan
 \plph ak͡pã́ʔ
@@ -29682,7 +29690,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 29/Oct/2013
+\dt 15/Jul/2016
 
 \lx ɔkpankpa
 \ph ɔk͡pãŋ͡mk͡pá
@@ -29701,14 +29709,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge aardvark
-\sd 1.6.1.1
+\sd 1.6.1.1.6
 \de not sure
 \pl nkpataku
 \plph ŋ͡mk͡pataku(H)
 \bw Akan fi:pataku
 \xv Ɔkpataku lomoni. Ogyi fɛ ɔprakuo. Mʋ ɔnɔ bʋswɩ. Ɔtɛkɩta mbwɩ fɛ akufa, akpala aná wɩ.
 \xe An ɔpataku is big. It is like a pig. It's mouth is long. It catches animals like sheep and goats and this sort and eats them.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ɔkpɛ
 \hm 1
@@ -31966,7 +31974,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge ground squirrel
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \de ground squirrel
 \pl ntɛ
 \plph ntɛ
@@ -31976,7 +31984,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-466
 \xv Ɔtɛ tɔwɩ kɩtɩba dʋbɩ.
 \xe Ground squirrel eats groundnut too much.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ɔtɛntɛ
 \ph ɔtɛ́ntɛ
@@ -32097,7 +32105,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de small, black, non-biting ant
 \pl ntɔntrɔbwɩ
 \plph ntɔntrɔbwɪ(H)
@@ -32129,7 +32137,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 8.2.1
 \de the smallest morsel imaginable
 \lt ant's eye
-\dt 01/May/2016
+\dt 15/Jul/2016
 
 \lx ɔtɔtɔ
 \ph ɔtɔ́tɔ́
@@ -32630,9 +32638,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge k.o.rat
-\sd 1.6.1.1
+\sd 1.6.1.1.4
 \de a type of rat that lives in hole in the ground
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx ɔwɔlɩ
 \ph ɔwɔ́lɪ́ʔ
@@ -34741,7 +34749,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tortoise
-\sd 1.6.1.1
+\sd 1.6.1.3.3
 \de tortoise
 \pl asawun
 \plph asáwũ̂ʔ
@@ -34752,7 +34760,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Sawun ɔbɛɛ, nɩ fʋ ma ntsu a, oli bʋtɔkɔsɩ yɔ.
 \xe Tortoise says, if you don't have tears, you quickly go to funeral.
 \nt This is an idiom for, If you have something you better start earlier before it becomes too late.
-\dt 26/Dec/2012
+\dt 15/Jul/2016
 
 \lx sawun fla
 \ph sawun fla
@@ -35204,7 +35212,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge housefly
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de housefly
 \pl asisa
 \plph asísa
@@ -35212,7 +35220,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The fly says "The world is in front and behind."
 \nt A proverb referring to when the fly moves its head front and rear, rubbing its head with its front legs.
 \bb Stewart List:0801
-\dt 01/Feb/2014
+\dt 15/Jul/2016
 
 \lx sisankpa
 \ph sisãŋ͡mk͡pa
@@ -35377,10 +35385,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge ostrich
-\sd 1.6.1.1
 \sd 1.6.1.2
 \de ostrich
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx sɔ
 \hm 1
@@ -35560,7 +35567,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge elephant
-\sd 1.6.1.1
+\sd 1.6.1.1.3
 \de elephant
 \pl asrʋfɔ
 \plph asrʊ́fɔ́
@@ -35570,16 +35577,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt When an elephant takes lead, you don't become wet with dews. (When an old man is with you, you don't suffer.
 \rf Tape:7-1-011
 \bb Stewart List:0617
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx srʋfɔbɩ
 \ph srʊ́fɔ́bɪ
 \ps n
 \sn
 \ge trunk
-\sd 1.6.1.1
+\sd 1.6.1.1.3
+\sd 1.6.2
 \de elephant's trunk
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx su
 \ph su (L)
@@ -35972,7 +35980,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge sting
-\sd 1.6.1.3.1
+\sd 1.6.1.7
+\sd 1.6.1.8
 \sd 2.5.3
 \de to sting
 \rf Tape:7-1-214
@@ -35981,7 +35990,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-218
 \xv Finfi lasʋra mɩ.
 \xe An ant has bitten me.
-\dt 04/Jul/2014
+\dt 15/Jul/2016
 
 \lx sʋra
 \hm 2
@@ -36759,7 +36768,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge cockroach
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de cockroach
 \pl atɛplɛ
 \plph atɛ̂plɛ̌ʔ
@@ -36770,7 +36779,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Igye nowun tɛplɛ ɔkʋ mɩ baagɩtɔ, sa atɛplɛ bʋdɛ mɩ atati wɩ.
 \xe Yesterday I saw a cockroach in my bag, unexpectedly, cockroaches are eating my clothes.
 \bb Stewart List:0816
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx tɛtɛ
 \hm 1
@@ -36847,13 +36856,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge gazelle
-\sd 1.6.1.1
+\sd 1.6.1.1.3
 \de gazelle
 \pl atiapʋ
 \plph atíápʊ
 \xv Tiapʋ iyietɔ ma ɔdwɛ, sʋ aha bʋtamakle mʋ́ asʋn.
 \xe The meat of gazelle is not of a good taste, so people do not like it.
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx Tigari
 \ph tígarí
@@ -37531,7 +37540,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge caterpillar, k.o.
-\sd 1.6.1.3.1
+\sd 1.6.1.9
 \de a kind of caterpillar. It stings, and is green with long hairs. It live under leaves
 \pl atɔsɩ
 \plph atɔ́sɪ̂ʔ(L)
@@ -37543,7 +37552,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe My sheep has eaten grass. Unexpectedly, caterpillar was on it, so it is dying.
 \cf fonflo
 \ce non-stinging caterpillar
-\dt 01/Oct/2015
+\dt 15/Jul/2016
 
 \lx tɔsɩ
 \hm 2
@@ -37859,9 +37868,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge civet cat
-\sd 1.6.1.1
+\sd 1.6.1.1.2
 \de civet cat
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx tsan
 \hm 1
@@ -37907,7 +37916,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge earthworm
-\sd 1.6.1.3.1
+\sd 1.6.1.9
 \de earthworm
 \pl atsankasɩ
 \plph at͡saŋkasɪ
@@ -37926,8 +37935,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se tsankasɩ bibi
 \ph t͡saŋkasɪ bibiʔ(L)
 \ge black earthworm
+\sd 1.6.1.9
 \de black earthworm
-\dt 03/Nov/2015
+\dt 15/Jul/2016
 
 \lx tsankɩ
 \ph t͡sã́ŋkɪ́
@@ -37974,9 +37984,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge centipede
-\sd 1.6.1.3.1
+\sd 1.6.1.9
 \de centipede
-\dt 28/Jul/2013
+\dt 15/Jul/2016
 
 \lx tsatsa
 \ph t͡sát͡sâʔ) L
@@ -38602,13 +38612,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge female
-\sd 1.6.2
-\sd 2.1.8.3
-\sd 6.3
+\sd 2.6.5.2
+\sd 1.6.7
 \de female
 \xv opio tsɩhɛ
 \xe sister
-\dt 04/Nov/2015
+\dt 15/Jul/2016
 
 \lx tsɩɩn
 \ph t͡sɪ̃̂ː
@@ -40629,7 +40638,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tsetse fly
-\sd 1.6.1.3.1
+\sd 1.6.1.7
+\sd 1.6.4
 \de tsetse fly
 \pl awʋlʋ
 \plph awʊ́lʊʔ
@@ -40641,7 +40651,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Any wicked person will always be wicked no matter how well reformed he is.
 \xv Wʋlʋ dɛ fʋ dun, ɔdɛ afú fwi wa.
 \xe Lit: When the tsetse fly bites you, he blows cool air on it. Free: When (evil) people hurt you, they will turn around and console you.
-\dt 26/Mar/2016
+\dt 15/Jul/2016
 
 \lx wʋna
 \ph wʊ́na
@@ -40664,7 +40674,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bee
-\sd 1.6.1.3.1
+\sd 1.6.1.7
+\sd 1.6.4
 \de bee
 \pl awʋnsa
 \plph awʊ́nsâʔ
@@ -40672,7 +40683,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Awʋnsa bʋtɔbwɛ ɔkwɛn.
 \xe Bees make honey.
 \bb Stewart List:0808
-\dt 30/Sep/2013
+\dt 15/Jul/2016
 
 \lx wʋsʋ
 \ph wʊ́sʊ
@@ -41203,12 +41214,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge male
 \de male
-\sd 1.6.2
-\sd 2.1.8.3
-\sd 6.3
+\sd 2.6.5.1
+\sd 1.6.7
 \xv opio yinhɛ
 \xe brother
-\dt 04/Nov/2015
+\dt 15/Jul/2016
 
 \lx Yinke
 \ph yiŋké
