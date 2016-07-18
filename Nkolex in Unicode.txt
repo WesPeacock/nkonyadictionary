@@ -1560,11 +1560,12 @@
 \sn
 \ge living
 \sd 1.4
+\sd 2.6
 \de those currently living, those not yet dead
 \nt atɔ ánɩ́ kɩ nkpa. Things seeing life.
 \xv Akɩankpatɔ gyi mbwɩ, aklɛmɛntɩ, aná ánɩ́ bʋkɩ nkpa; bʋmɔkʋ wu.
 \xe The living are animals, fish, and all these things that have life. They are not yet dead.
-\dt 11/Jun/2014
+\dt 18/Jul/2016
 
 \lx akɩɛnsɩ
 \ph akɪɛnsɪ(H)
@@ -6734,13 +6735,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge coffin
-\sd 1.4
+\sd 2.6.6.5
 \de a coffin
 \xv Nyankpʋsa-gyi-nyankpʋsa obu trahɛ gyi mʋ daka.
 \xe Every person's last house is his coffin.
 \nt proverb
 \rf Tape:2-1-221
-\dt 15/Jul/2016
+\dt 18/Jul/2016
 
 \lx dakabi
 \ph dakábiʔ
@@ -6916,13 +6917,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 2
 \ge alternate route
-\sd 1.4
+\sd 7.2.4.6
+\sd 4.4.3.3
 \de to take another route to a goal
 \xv Nɔtsʋn pututɔ lɛdatii mɩ ndɔtɔ ɔkpasʋ.
 \xe I passed through the bush to my farm path.
 \xv Mmedekle ánɩ́ nɔ́tsʋn brʋnʋsʋ sʋ a, nɔtsʋn mmua lɛdatii R. C. asɔrɩ obu asɩ.
 \xe I didn't want to pass through the street so I passed the back way to the R. C. church.
-\dt 02/Nov/2015
+\dt 18/Jul/2016
 
 \lx datobi
 \ph datobi
@@ -10882,7 +10884,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va fuli
 \ge corpse
-\sd 2.1
 \sd 2.6.6.3
 \de corpse, ghost
 \pl afuli
@@ -10909,7 +10910,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The child lied that, he saw a ghost yesterday.
 \xv Ɔha ánɩ́ alawu.
 \xe A dead person.
-\dt 01/Feb/2014
+\dt 18/Jul/2016
 
 \lx ifwie
 \ph ifwíeʔ
@@ -13463,14 +13464,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge light
-\sd 1.4
+\sd 8.3.3.1
 \de light
 \nt nominal form of wankɩ
 \va ɛwankɩ
 \ve South
 \xv Bulu lowun ánɩ́ wankɩ amʋ bʋ alɛ.
 \xe God saw that the light was good.
-\dt 13/Jul/2014
+\dt 18/Jul/2016
 
 \lx ɩwatɛ
 \ph ɪwatɛʔ
@@ -19400,7 +19401,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge death
-\sd 1.4
+\sd 1.4.1
+\sd 2.6.6
 \de death
 \xv Lowu mʋa Nkpa bʋ gyi atabi.
 \xe Death and Life are twins.
@@ -19409,11 +19411,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \bb Stewart List:1409
 \se obugyatɔ lowu
 \ph obuʤaʔtɔ lowu (H)
-\sd 1.4
+\sd 1.4.1
+\sd 2.6.6
+\sd 4.8.2.8
 \ge bad death
 \lt death in blood
 \nt Bad deaths include death in childbirth, by car accident, by falling from a tree, killed with a knife.
-\dt 06/Feb/2014
+\dt 18/Jul/2016
 
 \lx lɔ
 \ph lɔ́
@@ -19519,10 +19523,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge revive
 \sd 1.4
+\sd 2.6
+\sd 8.4.6.1
+\sd 2.5.6.4
 \de to revive a sick person
 \xv Nɩ mégyi Owusu lalʋnlʋan Yaokebi a, tɛkɩ alawu.
 \xe If not Owusu that revived Yaokebi, else he should have died.
-\dt 16/Jun/2014
+\dt 18/Jul/2016
 
 \lx lwii
 \ph lwǐː
@@ -19834,7 +19841,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 3
 \ge tame
-\sd 1.4
 \sd 6.3.1
 \de to tame an animal
 \xv Nyankpʋsa tɛtalɩ bwɛ mbwɩ akugyiakʋ bʋtɛmanta. Tamɛ ɔhaa mɔkʋtalɩ bwɛ ɔdandʋ ɔmanta kɩ.
@@ -20569,8 +20575,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge kill
-\sd 1.4
-\sd 4.8.3
+\sd 2.6.6.1
 \de kill
 \rf Tape:4-2-335
 \xv Yibi lamɔ batɛ amʋ.
@@ -20578,7 +20583,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Ɔlɔmɔ kufa amʋ.
 \xe He killed the sheep.
 \bb Stewart List:2006
-\dt 13/Jul/2014
+\dt 18/Jul/2016
 
 \lx mɔ ɔnɔ
 \ph mɔ ɔnɔ́ʔ (H)
@@ -22092,6 +22097,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge life
 \sd 1.4
+\sd 2.6
 \de life
 \rf Tape:5-1-246
 \xv Nɩ fégyi Bulu asʋn blɩhɛsʋ a, fénya nkpa.
@@ -22101,7 +22107,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe If you lead me there, you will have life and strength. (if you do this for me, you will be blessed).
 \bb Stewart List:1408
 \lf Keyterm = nkpa ɩtamata
-\dt 13/Jul/2014
+\dt 18/Jul/2016
 
 \lx nkpa
 \hm 2
@@ -22767,7 +22773,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Ntsu tamatsʋn anɩ nsɩnɛ.
 \xe Water doesn't pass between us. We are in harmony.
 \nt idiom
-\dt 02/Nov/2015
+\dt 18/Jul/2016
 
 \lx ntsú
 \ph nt͡sú(H)
@@ -27389,7 +27395,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge dead
-\sd 1.4
+\sd 1.4.1
+\sd 2.6.6.8
 \de a dead person, long dead not someone who has just died
 \pl awupʋ
 \plph awupʊʔ
@@ -27398,7 +27405,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔha ánɩ́ alawu tsʋn a, bʋtɛtɩ mʋ owupʋ.
 \xe The one that has already died (not recently) they call a dead person.
 \bb Stewart List:0073
-\dt 24/Dec/2013
+\dt 18/Jul/2016
 
 \lx owʋnfɩ
 \ph owʊɱfɪ́
@@ -28235,7 +28242,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge animal
-\sd 1.4
+\sd 1.6
 \de an animal, non-human animate thing
 \pl mbʷɩ
 \plph mbwɪ
@@ -28252,7 +28259,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt kinds of fish: klɛmɛtɩ (fish), kpakokwe (dried sea fish), ogbangba (lake fish), okikie (small spiny lake fish), ɔtsabi (small fish), okuku (tilapia)opitre (mudfish)
 \nt From ths: kinds of ants: baba (termites), finfi (ant - generic), gyawugya (tiny red ant), konya (driver ant), ɔkpan (large black stinging ant), ɔtɔntrɔbwɩ (small black non-biting ant), kɔklɔ (crazy ant)
 \bb Stewart List:0601
-\dt 28/Jul/2013
+\dt 18/Jul/2016
 
 \lx ɔda
 \ph ɔdaʔ
@@ -30559,12 +30566,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge day of killing
-\sd 1.4
-\sd 4.8.3
+\sd 1.4.1
+\sd 2.6.6.1
+\sd 8.4.1.2
 \de day of killing
 \xv Mbwɩ tsɔtsɔɔtsɔ ɔmɔkɛ gyi nkɛ ogyikɛ.
 \xe The killing day of many animals is festive days.
-\dt 12/Jul/2014
+\dt 18/Jul/2016
 
 \lx ɔmʋ
 \ph ɔmʊ
@@ -32257,7 +32265,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge different
 \sd 9.1.1
-\sd 1.4
 \sd 8.3.5.2.3
 \de different
 \rf Tape:6-1-507
@@ -32266,7 +32273,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se ɔtsan ha
 \ge different from
 \sd 9.1.1
-\sd 1.4
 \sd 8.3.5.2.3
 \de different from
 \rf Tape:6-1-512
@@ -32275,7 +32281,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ɔtsantsan
 \ce variety
 \bb Stewart List:1698
-\dt 17/May/2016
+\dt 18/Jul/2016
 
 \lx ɔtsanfɩ
 \ph ɔt͡sáɱfɪ
@@ -32309,12 +32315,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge various
 \sd 9.1.1
-\sd 1.4
 \sd 8.3.5.2.5
 \de a variety
 \xv Ɔhagyiɔha agywɩɩn igyi ɔtsantsan, mʋ́ sʋ ɩtrɛ bʋ ɔyɩtɔ nɩ.
 \xe Everybody's mind is different, that is why there is quarrelling in the world.
-\dt 17/May/2016
+\dt 18/Jul/2016
 
 \lx ɔtsatsa
 \ph ɔt͡sat͡saʔ
@@ -34981,7 +34986,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge hang
-\sd 1.4
 \sd 7.3.2.4.1
 \sd 4.7.7.4
 \sd 4.6.6.1
@@ -35005,7 +35009,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The man has eaten the leftovers.
 \xv Tsu atɔ sianhɛ amʋ afʋwa mʋ́ ogya.
 \xe Take the leftovers and burn them.
-\dt 15/Jun/2016
+\dt 18/Jul/2016
 
 \lx Sibriso
 \ph sibrísʊ
@@ -37097,8 +37101,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se tɩn ɔha
 \ge behead
 \sd 2.1.1
-\sd 1.4
-\sd 4.8.3
+\sd 2.6.6.1
+\sd 4.7.7.4
 \de to behead a person
 \se tɩn ɔnɔ
 \ge excuse
@@ -37112,7 +37116,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I don't want to go to the communal labour. I want to go the farm so I pretended to have an errand to make an excuse to go to the farm.
 \xv Mapʋ kebi amʋ tɩn ɔnɔ, ba ayɔ.
 \xe Don't use your child as a false excuse, let's go.
-\dt 20/May/2016
+\dt 18/Jul/2016
 \bb Stewart List:3276
 
 \lx tɩn
@@ -37391,10 +37395,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge die
-\sd 1.4
-\sd 2.5
+\sd 1.4.1
+\sd 2.6.6
 \de to die (Euphemism)
-\dt 20/May/2016
+\dt 18/Jul/2016
 
 \lx tɔ
 \hm 2
@@ -39351,13 +39355,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge power
-\sd 1.4
 \sd 4.5.2
 \sd 4.6.1
 \sd 4.6.3
 \de power or authority
 \bw Akan fi:tumi
-\dt 20/May/2016
+\dt 18/Jul/2016
 
 \lx tuntu
 \ph tuntu
@@ -40308,8 +40311,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge die
-\sd 1.4
-\sd 2.5
+\sd 1.4.1
+\sd 2.6
 \de to die
 \bb Stewart List:2005
 \cf owupʋ
@@ -40353,7 +40356,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to become weak
 \xv Nakɩ anwunsʋ lawa ɔpa dʋbɩ. Mɩ oboyi lawu.
 \xe I have looked up for too long. My neck has gotten stiff.
-\dt 17/May/2016
+\dt 18/Jul/2016
 
 \lx wuli
 \ph wúli
@@ -41531,7 +41534,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge die
-\sd 1.4
+\sd 1.4.1
+\sd 2.6
 \de to stop breathing
 \cf lɛ ɔŋɛ
 \ce stop breathing
@@ -41546,7 +41550,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to digest food
 \xv Nɩ fegyi atɔ nyankɩ a, owí botsutsua dan atogyihɛ amʋ bɔ́yɔɩ fʋ, fówun akʋn lala dɛ fʋ.
 \xe When you eat in the morning, before noon the food will digest then you will be hungry again.
-\dt 03/Nov/2015
+\dt 18/Jul/2016
 
 \lx yɔyɔɔyɔ
 \ph yɔ́yɔ́ːyɔ́
