@@ -114,7 +114,6 @@
 \ps n
 \sn
 \ge each other
-\sd 7.2.5.4
 \sd 9.5.2.4
 \de each other
 \rf Tape:1-1-031
@@ -123,7 +122,7 @@
 \xv Anɩ atati bɛ́da aba.
 \xe Our cloths will touch each other.
 \nt Idiom: We will meet later.
-\dt 02/May/2016
+\dt 18/Jul/2016
 
 \lx aba-
 \ph aba(H)
@@ -2343,13 +2342,12 @@
 \ps n
 \sn
 \ge represent
-\sd 4.6.1
-\sd 7.2.5.4
+\sd 4.6.6.3
 \de in place of a person or a thing
 \bw Akan fi:anan mu LH H
 \xv Nɩ owie ma ɩnʋ a, ɔha bʋ ɩnʋ ánɩ́ otetsia mʋ anamu.
 \xe If the chief is not there, there is someone that represent him.
-\dt 11/Jun/2014
+\dt 18/Jul/2016
 
 \lx anantʋprɛdɛ
 \ph anantʊprɛdɛ
@@ -5486,8 +5484,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge join
-\sd 9.1.1.1
-\sd 7.2.5.4
+\sd 4.2.1
 \de join
 \bw Akan fi:bom HL
 \xv Baboun bwɛ kʋlɛ.
@@ -5495,7 +5492,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv kpa boun
 \xe gather together
 \bb Stewart List:2681
-\dt 28/Jul/2013
+\dt 18/Jul/2016
 
 \lx bɔ
 \ph bɔ́
@@ -5808,10 +5805,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 2
 \ge obey
-\sd 7.2.5.4
+\sd 4.5.4.1
 \de to obey s.o.
 \bb Stewart List:3266
-\dt 16/Jul/2016
+\dt 18/Jul/2016
 
 \lx bu
 \hm 2
@@ -5987,7 +5984,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge follow
 \de to follow someone
-\sd 7.2.5.4
+\sd 7.2.5.2
 \rf Tape:2-1-075
 \xv Yesu lɛbla Petro ɔbɛɛ, buo mɩ nɔbwɛ fʋ anyakpʋsa alɛpʋ.
 \xe Jesus told Peter that, follow me and I will make you fishers of men.
@@ -5995,17 +5992,17 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 2
 \ge accompany
-\sd 7.2.5.4
+\sd 7.2.5
 \de to accompany someone
 \bb Stewart List:3256
 \ps vt
 \sn 3
 \ge born after
-\sd 2.2.7
+\sd 4.1.9.1.9
 \de to be born after
 \xv Mʋ da gyi Tawiah. Tsufɛ bɔkwɩɩ mʋ buo atabi.
 \xe Her name is Tawiah, because she was born after twins.
-\dt 02/Nov/2015
+\dt 18/Jul/2016
 
 \lx buto
 \ph butó
@@ -6181,14 +6178,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge help
-\sd 7.2.5.4
+\sd 4.3.4.2
 \de help
 \rf Tape:2-1-134
 \xv Nobwii pa, bʋa mɩ ayɔ agyʋma kpalobi anfɩ sesei.
 \xe I beg you please help me that we should do this small work now.
 \bb Stewart List:3008
 \nt Nkonya is tsa
-\dt 10/Nov/2015
+\dt 18/Jul/2016
 
 \lx bʋa
 \hm 2
@@ -6453,9 +6450,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge plead
-\sd 7.2.5.4
+\sd 3.3.2
 \de plead for
-\dt 30/Jun/2014
+\dt 18/Jul/2016
 
 \lx da
 \hm 1
@@ -6578,7 +6575,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se da ɔbʋn
 \ge gather around
 \sd 3.2.1.1
-\sd 7.2.5.4
 \de gather around to pay close attention to
 \se da ɔkpa
 \ge righteous
@@ -6617,7 +6613,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:5-2-138
 \xv Mɩ atɔ dahɛ amʋ lada ɔbaan.
 \xe My setting out things (yams, water yams) have grown shoots.
-\dt 02/Nov/2015
+\dt 18/Jul/2016
 
 \lx da wa
 \ph dá wá
@@ -7409,11 +7405,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge central square
-\sd 7.2.5.4
+\sd 4.6.7.2
+\sd 4.2.1.5
 \de central square of town; gathering place
 \xv Awie pʋ́ wulu amʋtɔ aha fɛ́ɛ́ bayefia dɩnsʋ ɩnʋ.
 \xe The chiefs and all the people in the town have assembled at the central square.
-\dt 13/Jul/2014
+\dt 18/Jul/2016
 
 \lx dodoodo
 \ph dodoːdo
@@ -8029,14 +8026,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge freely
 \sd 6.8.3.2
-\sd 7.2.5.4
 \de freely
 \rf Tape:2-1-442
 \xv Fapʋ kie mɩ faan.
 \xe You have given me freely.
 \cf awɩtɔlɛ
 \ce generosity
-\dt 01/May/2016
+\dt 18/Jul/2016
 
 \lx faan
 \hm 2
@@ -8283,7 +8279,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge meet
-\sd 7.2.5.4
+\sd 4.2.1.3
 \de to meet
 \xv Ɩlafia mɩ ɔmɛ.
 \xe It has satisfied my thirst.
@@ -8292,7 +8288,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 2
 \ge assemble
-\sd 7.2.5.4
+\sd 4.2.1.5
 \de to meet together (multiple people)
 \xv Ndɛ Nkonya awie bafia Ntumda.
 \xe Today the Nkonya chiefs have met in Ntumda.
@@ -8308,7 +8304,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The time that I went, unexpectedly he also came so we met each other on the road.
 \bb Stewart List:2472
 \bb Stewart List:2476
-\dt 04/Feb/2016
+\dt 18/Jul/2016
 
 \lx fia
 \hm 2
@@ -9449,19 +9445,22 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 2
 \ge follow
-\sd 7.2.5.4
+\sd 7.2.5.2
 \de to follow s.o.
 \rf Tape:2-2-151
 \xv srɩ gya mʋ
 \xe chase him
 \se gya X ɔma
 \ge follow behind
-\sd 7.2.5.4
+\sd 7.2.5.2
+\sd 8.5.1.1.1
 \de to follow behind someone
 \ps vt
 \sn 1
 \ge follow closely
-\sd 7.2.5.4
+\sd 7.2.5.2
+\sd 8.5.1.1.1
+\sd 8.2.6.2
 \de to follow closely
 \xv Nɩ fʋa kebi nyɔ mlɩ na pututɔ ɔkpa a, ha kebi amʋ ogya fʋ ɔma.
 \xe If your child and you walk on a bush path make the child follow you.
@@ -9483,7 +9482,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-153
 \xv Negya mʋ ɔkpa, tsufɛ alawa ɔpá ndɔtɔ.
 \xe I went to get him because he had been at farm a long time.
-\dt 02/Nov/2015
+\dt 18/Jul/2016
 
 \lx gyabɛ
 \ph ʤabɛʔ
@@ -11457,14 +11456,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge boasting
-\sd 7.2.5.4
+\sd 3.5.1.7.3
 \de boasting
 \rf Tape:3-1-257
 \xv Iwitsu ma alɛ Bulu ansɩtɔ, mboun otekle wɩ asɩba.
 \xe Boasting is bad in God's sight, instead he likes humility.
 \xv Matsu wɩ.
 \xe Don't boast.
-\dt 13/Jul/2014
+\dt 18/Jul/2016
 
 \lx iwú
 \ph iwúʔ(H)
@@ -13964,7 +13963,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge force
-\sd 7.2.5.4
+\sd 3.3.3.5
 \de force
 \rf Tape:3-1-369
 \xv Kan kebi amʋ ɔyɔ suku ndɛ.
@@ -13986,7 +13985,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:5-2-532
 \xv Yibi ɔkanpʋ amʋ lɔfʋlɩ ɔkpɛ ha aha bɛtsɛ.
 \xe The car driver is blowing his horn in order to make people move out of his way.
-\dt 27/Apr/2016
+\dt 18/Jul/2016
 
 \lx kan
 \hm 2
@@ -14051,13 +14050,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge praise
-\sd 7.2.5.4
+\sd 3.5.1.7
 \de praise
 \rf Tape:3-1-412
 \xv Anɩtɔpʋ anɩ ɔdandʋ kanfʋ anɩ sɩ pʋ́ anɩ wie Bulu.
 \xe We use our tongue to praise our father and owner God.
 \bb Stewart List:3242
-\dt 30/Jun/2014
+\dt 18/Jul/2016
 
 \lx kankaba
 \ph kaŋkaba
@@ -14719,7 +14718,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 1
 \ge refuse
-\sd 7.2.5.4
+\sd 3.3.2.2
 \de to refuse
 \rf Tape:3-1-547
 \xv Ɔha amʋ lekina, ɔmɛha anɩ atɔ amʋ.
@@ -14742,7 +14741,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Namoni dʋn mɩ atadɩɛ bibi amʋ sʋ a, ɩlakina mɩ.
 \rf Tape:3-1-551
 \xe I have grown too big for my black shirt so it is too tight for me.
-\dt 28/Apr/2016
+\dt 18/Jul/2016
 
 \lx kinkiinkin
 \ph kĩ́kĩ́ːkĩ́ (H)
@@ -15620,12 +15619,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va koli
 \ge beg
-\sd 7.2.5.4
+\sd 6.8.3.4
 \de please
 \rf Tape:3-2-266
 \xv Atɔ lakpa wie mɩ ansibitɔ sʋ kokoli fwi mʋ́ lɛ ha mɩ.
 \xe Something has gotten into my eye so please blow it out for me.
-\dt 27/Aug/2013
+\dt 18/Jul/2016
 
 \lx kokooko
 \ph kokoːko
@@ -15936,11 +15935,11 @@ cf fonflo
 \ps v
 \sn
 \ge challenge
-\sd 7.2.5.4
+\sd 4.8.2.3
 \de to challenge something which some one is saying which is not true
 \xv Nonu ánɩ́ ɔdɛ fʋ ɩwɩ asʋn blɩ, nɔkɔnkɩ mʋ.
 \xe I heard him talking about you and I challenged him.
-\dt 04/Feb/2016
+\dt 18/Jul/2016
 
 \lx kɔnkɩ
 \hm 2
@@ -16060,7 +16059,7 @@ cf fonflo
 \sn 4
 \ge lead
 \sd 4.5.3.1
-\sd 7.2.5.4
+\sd 7.2.5.3
 \de to lead
 \xv Kpa mʋ ya!
 \xe Lead him there!
@@ -16105,7 +16104,7 @@ cf fonflo
 \de to take off (cloth)
 \xv Kpa tati.
 \xe Take off a cloth.
-\dt 01/Jun/2016
+\dt 18/Jul/2016
 
 \lx kpa
 \hm 2
@@ -18080,7 +18079,7 @@ cf fonflo
 \ps ADV
 \sn 1
 \ge forcefully
-\sd 7.2.5.4
+\sd 6.1.2.3.4
 \de strongly
 \ge loudly
 \sd 2.4.1
@@ -18121,7 +18120,7 @@ cf fonflo
 \xv lɩɩ kʋklʋ
 \xe be firm
 \bb Stewart List:2345
-\dt 17/May/2016
+\dt 18/Jul/2016
 
 \lx kʋklʋkʋʋ
 \ph kʊ́klʊ́kʊ́ː
@@ -18209,13 +18208,12 @@ cf fonflo
 \ge ask for
 \sd 6.8.3.1
 \sd 3.3.2
-\sd 7.2.5.4
 \de to ask for something
 \rf Tape:4-1-281
 \xv Kʋlɩ Bʋlu ɔha fʋ.
 \xe Ask God to give you.
 \bb Stewart List:3209
-\dt 22/Jun/2014
+\dt 18/Jul/2016
 
 \lx kʋraa
 \ph kʊ́ráː
@@ -19864,7 +19862,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge friendship
-\sd 7.2.5.4
+\sd 4.1.1
 \de friendship
 \xv mba gyi
 \xe make friends (eat friendship)
@@ -19873,7 +19871,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-037
 \xv Pʋ ɔha wanklaan gyi mba, mɛnɩ fɔbwɛ atɔ wanklaan.
 \xe Make friends with a fine person so that you do fine things.
-\dt 16/Jun/2014
+\dt 18/Jul/2016
 
 \lx mbatahʋn
 \ph mbatahʊ̃ (H)
@@ -20103,9 +20101,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge help
-\sd 7.2.5.4
+\sd 4.3.4.2
 \de to help or advise someone
-\dt 30/Jun/2014
+\dt 18/Jul/2016
 
 \lx mɛ
 \hm 1
@@ -22510,7 +22508,8 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge humiliation
-\sd 7.2.5.4
+\sd 2.5.3
+\sd 3.4.2.2.1
 \de humiliation
 \bw Akan fi:nsʋpa
 \xv Nsʋpa igyi ɩtɔ lalahɛ, tsufɛ ɩtɔwa ɔha pɛlɩtɔ.
@@ -22518,7 +22517,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe Free: Humiliation is a bad thing because it shames people.
 \xv Basʋpa oyin amʋ mʋ abatɔ tsufɛ ototsu wɩ dʋbɩ.
 \xe The man has been disgraced before his neighbour because he bluffs too much.
-\dt 30/Jun/2014
+\dt 18/Jul/2016
 
 \lx nsʋsʋnɛ
 \ph nsʊsʊnɛ́
@@ -27766,7 +27765,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va ba
 \ge companion
-\sd 7.2.5.4
+\sd 7.2.5
+\sd 4.1.1
 \de neighbour; one who is associated with a person; companion
 \pl aba
 \plph aba(H)
@@ -27776,7 +27776,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce human number
 \xv Ɔba gyi ɔha ánɩ́ mɩan mʋ nyɔ dantɔ igyi kʋlɛ, ntɛ anɩdɛ agyʋma ɩkʋlɛ yɔ.
 \xe A neighbour is a person who is my age mate or someone I work with.
-\dt 24/Dec/2013
+\dt 18/Jul/2016
 
 \lx ɔbaan
 \ph ɔbã̂ːʔ
@@ -28172,12 +28172,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge gather
-\sd 7.2.5.4
+\sd 4.2.1.5
 \de gather around in order to question a person in a serious case or to pour libation
 \ng occurs with da
 \xv Notsutsua yɔ ɩnʋ a, bada ɔbʋn wa owikplu amʋ bʋdɛ mʋ asʋn fɩtɛ.
 \xe Before I went there, they have gathered around the thief and were asking him questions.
-\dt 30/Sep/2015
+\dt 18/Jul/2016
 
 \lx ɔbʋn
 \hm 2
@@ -28882,7 +28882,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge stranger
-\sd 7.2.5.4
+\sd 4.6.2.1
 \de stranger, guest
 \pl afɔɔ
 \plph afɔ̌ː
@@ -28895,7 +28895,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Afɔɔ tamasʋra fuli ayabi.
 \xe A strangers does not carry the legs of a corpse. (A strange does not take lead).
 \bb Stewart List:0503
-\dt 14/Aug/2013
+\dt 18/Jul/2016
 
 \lx ɔfranka
 \ph ɔfráŋka(H)
@@ -30908,7 +30908,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge leader
-\sd 7.2.5.4
+\sd 4.5.1
 \de leader
 \pl ɔnɔ alɩɩpʋ
 \plph ɔnɔ́ alɪ̌ːpʊ́
@@ -30916,7 +30916,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Church leaders will meet to plan about Churches.
 \xv Ɔnɔ alɩɩpʋ okugyiɔkʋ anfɩ bʋtesia mʋ.
 \xe They insult every leader.
-\dt 15/Aug/2013
+\dt 18/Jul/2016
 
 \lx ɔnɔkwalɩ
 \ph ɔnɔkwalɪ
@@ -31262,8 +31262,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge joke
-\sd 4.3.3
-\sd 7.2.5.4
+\sd 4.2.8
 \de joking
 \cf mɔsɩla
 \ce laughter
@@ -31272,7 +31271,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Joking is sweet but fooling around, rough housing, evil joking brings fighting.
 \cf ɔplɔɩkpan
 \ce bad joke
-\dt 06/Nov/2015
+\dt 18/Jul/2016
 
 \lx ɔplɔɩkpan
 \ph ɔplɔ́ɪk͡pãʔ(L)
@@ -33922,14 +33921,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn
 \ge close
-\sd 7.2.5.4
+\sd 7.5.1.1
 \de to close a meeting
 \bw Akan fi:pɔɔn
 \xv Sukuufɔ abi amʋ bapɔɔn sukuu.
 \xe The school children have closed from school.
 \xv Anɩ tɔpɔɔn agyumatɔ dɔnatɔ.
 \xe We closed from work at four o'clock.
-\dt 12/Jul/2014
+\dt 18/Jul/2016
 
 \lx pɔɔnʋ
 \ph pɔ̃̂ːnʊ
@@ -35339,14 +35338,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va sɩna
 \ge visit
-\sd 4.3.3
-\sd 7.2.5.4
+\sd 4.2.1.4
 \de to visit someone
 \bw Akan fi:sɩna to visit
 \xv Nɛyɛsɩna mɩ nyawie ɔkʋ amba.
 \xe I am going to go visit a friend and come.
 \bb Stewart List:3220
-\dt 01/Jul/2014
+\dt 18/Jul/2016
 
 \lx sɩnsɩɩn
 \ph sɪ̃́nsɪ̃ː
@@ -35453,15 +35451,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge fun
-\sd 4.3.3
-\sd 7.2.5.4
+\sd 4.2.7
 \de to be fun
 \xv Ɔtɛ ɔwakpa ɩnʋ lasɔ. Anɩlamɔsɩ dʋbɩ.
 \xe The story telling place there was fun. We have laughed too much.
 \xv Plei dɛsɔ a, owí dɛ nkudasɩfɔ ta.
 \xe Because playing is fun, the sun has set on the people from the farms.
 \xe Free: Time flies when you're having fun.
-\dt 23/Jun/2014
+\dt 18/Jul/2016
 
 \lx sɔɔn
 \ph sɔ̃́ː
@@ -35718,7 +35715,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge errand
 \sd 4.5.4.3
 \sd 6.9.2
-\sd 7.2.5.4
 \de errand
 \pl asumbi
 \plph asumbí
@@ -35729,7 +35725,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ sumbi lehian fʋ a, wa mɩ.
 \xe If an errand is necessary for you, send me.
 \bb Stewart List:0410
-\dt 20/May/2016
+\dt 18/Jul/2016
 
 \lx sumbi ɔyɔpʋ
 \ph sumbí ɔyɔpʊ́
@@ -35980,7 +35976,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge humiliate
-\sd 7.2.5.4
+\sd 2.5.3
+\sd 3.4.2.2.1
 \de to disgrace
 \bw Akan fi:sʋpa
 \xv Mɩ sɩ lanun nta bʋ ɔdɛ mɩ sɩa aha ansɩtɔ sʋpa mɩ.
@@ -35988,7 +35985,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe My father has become drunk and he is insulting me in front of people, disgracing me.
 \xv Mɩ sɩ lanun nta bʋ. Mʋ bwɛhɛ lasʋpa mɩ tsufɛ ntamakle nta onunpʋ.
 \xe My father has become drunk. His behaviour has disgraced me because I don't like one who drinks.
-\dt 30/Jun/2014
+\dt 18/Jul/2016
 
 \lx sʋra
 \hm 1
@@ -37755,7 +37752,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge help
-\sd 7.2.5.4
+\sd 4.3.4.2
 \de to help
 \rf Tape:7-2-156
 \xv Oyin amʋ lɔwa mɩ nwɛ, sʋ nɛtsa mʋ agyʋma amʋ yɔ.
@@ -37763,7 +37760,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge heal
-\sd 4.9.7.7
+\sd 2.5.7
 \de to heal
 \rf Tape:7-2-162
 \xv Yesu lɛtsa alɔpʋ tsɔtsɔɔtsɔ ɩlɔ.
@@ -37783,7 +37780,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf tsatsa
 \ce trample
 \bb Stewart List:2841
-\dt 15/Jun/2016
+\dt 18/Jul/2016
 
 \lx tsa
 \hm 3
@@ -38948,9 +38945,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge agree
-\sd 3.2.1.1
 \sd 3.2.5.4
-\sd 7.2.5.4
 \de to agree to someone's proposal
 \rf Tape:7-2-458
 \xv Bɛblɩ fɛɛ Ao fanu - ee (repeat) Mmotsuda - eee Mmotsuda ma wulu. Ɩbwɛ fʋ ta, ɩlawankɩ fʋ.
@@ -38959,7 +38954,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Natsula ánɩ́ ɔyɔ, tamɛ ɔyɔ a, ɔwa ɔsa ba.
 \xe I have agreed that he should go but he should go and come quickly.
 \bb Stewart List:2961
-\dt 20/May/2016
+\dt 18/Jul/2016
 
 \lx tsutsu
 \ph t͡sút͡sú
@@ -39620,7 +39615,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge force
-\sd 7.2.5.4
+\sd 3.3.3.5
 \de to force someone to do something
 \rf Tape:8-1-119
 \xv Ɔlɔwa mʋ ánɩ́ ɔyɔ.
@@ -39629,7 +39624,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2a
 \ge send
 \sd 7.3.3.3
-\sd 7.2.5.4
 \de to send someone to do something
 \rf Tape:8-1-146
 \xv Sʋ anɩ lefia a, lehian ánɩ́ abɔ́wa abi akʋ mlɩ wa, buo Banabas mʋa Paulo.
@@ -39695,7 +39689,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-174
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
-\dt 15/Jun/2016
+\dt 18/Jul/2016
 
 \lx wa bɩ
 \ph wá bɪ
@@ -41068,14 +41062,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge praise
-\sd 7.2.5.4
+\sd 3.5.1.7
 \de to praise someone, particularly God
 \bb Stewart List:3242
 \bw Akan fi:yi ayɛ
 \rf Tape:8-1-540
 \xv Nɩ ansɩ dɛ ɔkʋ gyi a, ɔha amʋ ɔpʋ ɩlʋ wa yi Bulu ayɛ.
 \xe If someone is happy. That person should sing and praise God.
-\dt 17/Jun/2014
+\dt 18/Jul/2016
 
 \lx yia
 \ph yíâʔ
