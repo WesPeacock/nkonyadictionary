@@ -3762,7 +3762,7 @@
 \ps ADJ
 \sn
 \ge passable
-\sd 7.2
+\sd 7.2.3.5
 \de able to be passed or travelled on
 \xv Anɩ ndɔtɔ ɔkpa bʋ atsʋnlɛ.
 \xe Our farm path is passable.
@@ -3772,7 +3772,7 @@
 \xe Our farm path has developed potholes so it is not easily passable.
 \cf tsʋn
 \ce pass
-\dt 29/Oct/2013
+\dt 18/Jul/2016
 
 \lx atsʋnɔ
 \ph at͡sʊnɔ́ʔ
@@ -4142,7 +4142,7 @@
 \ps v
 \sn 1
 \ge come
-\sd 7.2
+\sd 7.2.3.2.1
 \de to come to a place
 \rf Tape:1-2-286
 \xv Nɛbla ɔtsɩ amʋ ánɩ́ nɛ́ba, tamɛ mmɛtalɩ yɔ.
@@ -4155,16 +4155,17 @@
 \ce arrival
 \se ba asɩ
 \ge humble
+\sd 4.3.2.2
 \de to be humble
 \bb Stewart List:2490
 \ps v
 \sn 2
 \ge come (time)
-\sd 8.4.5
+\sd 8.4.5.3.2
 \de to come to a time
 \xv Ɔhagyiɔha mʋ owukɛ bɛ́ba.
-\xe For everybody , the day of their death will come.
-\dt 09/Nov/2015
+\xe For everybody, the day of their death will come.
+\dt 18/Jul/2016
 
 \lx ba
 \hm 2
@@ -4244,7 +4245,7 @@
 \ps vi
 \sn
 \ge turn
-\sd 7.2
+\sd 7.2.2.6
 \sd 6.5.4.1
 \de to turn off of a path
 \xv Alabaɩ mʋ ɔkpabisʋ.
@@ -4253,7 +4254,7 @@
 \xv Nɩ fowie nkwanta ɩnʋ a, baɩ tsʋn gyɔpɩsʋ.
 \xe If you come to a junction there, branch to the right.
 \bb Stewart List:2117
-\dt 27/Apr/2016
+\dt 18/Jul/2016
 
 \lx baka
 \ph baká
@@ -4519,7 +4520,8 @@
 \ps v
 \sn
 \ge near
-\sd 7.2
+\sd 7.2.3
+\sd 8.2.6.2
 \de draw near
 \cf bɛnkɛ
 \ce approach
@@ -4532,7 +4534,7 @@
 \xv Ntsu amʋ lɛbɛɩn anɩ.
 \xe The river is near us.
 \xv Ntsu amʋ lɛmanta anɩ.
-\dt 12/Jun/2014
+\dt 18/Jul/2016
 
 \lx bɛlɛtɩ
 \ph bɛ́lɛtɪʔ
@@ -4553,14 +4555,15 @@
 \ps v
 \sn
 \ge approach
-\sd 7.2
+\sd 7.2.3
+\sd 8.2.6.2
 \de to approach somewhere
 \cf bɛɩn
 \xv Atsu ndɔ aba, anɩlɛbɛnkɛ woyi a, anɩlonu okitikiti.
 \xe We were coming from farm. We were just approaching a house when we heard a lot of noise.
 \xe As we were approaching town from farm we heard a lot of noise.
 \nt Is this one word or is it bɛɛn kɩ- ask FO
-\dt 12/Jun/2014
+\dt 18/Jul/2016
 
 \lx bɛnsɩ
 \ph bɛ́nsɪʔ
@@ -5414,8 +5417,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge go around
-\sd 7.2
-\sd 8
+\sd 7.2.3.5
+\sd 8.5.1.2.1
 \de go around
 \xv Oleki bomli wulu amʋ.
 \xe He went around (the outside) the town.
@@ -5425,14 +5428,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 2
 \ge surround
-\sd 8
+\sd 7.2.2.7
+\sd 4.8.2.3
 \de to surround something
 \xv Ntsu lobomli wulu amʋ. Sʋ, ɔklʋntɔ bʋtetsia yɔ wulu amʋtɔ.
 \xe Water surrounds the town. So they use boats to get there.
 \xe The town is surrounded by water so they use boats to go there.
 \bb Stewart List:2469
 \bb Stewart List:2470
-\dt 02/Nov/2015
+\dt 18/Jul/2016
 
 \lx bon
 \ph bõʔ(L)
@@ -6771,7 +6775,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge go out
-\sd 7.2
+\sd 7.2.3.4.1
 \de to exit
 \xv Ɔdɛdalɩ, sʋ alafin obu.
 \xe He's going out so he has shut up the room.
@@ -6780,7 +6784,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 8.4.1.2.3
 \xv Nɩ owi ɔdalɩ tsu owi okplɩwiekpa a, igyi isuna kpɔnkpɔɔnkpɔntɩ, tsufɛ owi ɔdalɩkpa owi tɛdalɩ tsu.
 \xe When the sun rises from the west, it is a big sign, because the sun rises from the east.
-\dt 17/May/2016
+\dt 18/Jul/2016
 
 \lx dalɩ tsu
 \ph dálɪ́ t͡súʔ
@@ -6788,6 +6792,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge proceed from
 \sd 7.2.3.3
+\sd 8.4.5.1
 \de to proceed in a sequence
 \xv Nɩ fɛdalɩ tsu asienɔ a, fɔyɔ ikwe.
 \xe If you leave seven you are going to eight.
@@ -6800,7 +6805,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-235
 \xv "Yinti" lɛdalɩ tsu "oyi tin"tɔ.
 \xe "Stump" comes from "tree cut off".
-\dt 17/May/2016
+\dt 18/Jul/2016
 
 \lx damantsu
 \ph damant͡sú
@@ -6824,24 +6829,24 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge turn
-\sd 7.2
+\sd 7.2.2.6
 \de turn around
 \cf damli ɩklʋntɔ
 \ce repent
-\sd 4.9.7.2
+\sd 4.8.4.6
 \rf Tape:2-1-240
 \xv Nɩ fɔyɔ nkpa kpalobi a, fayinki damli ba.
 \xe When you go further you should turn back.
 \se damli ɔnɔ
 \ge turn around
-\sd 7.2
+\sd 7.2.2.6
 \de to turn around the opposite direction
 \rf Tape:2-1-244
 \xv Yibi amʋ ansɩtɔ kɩ Kwame wulutɔ, tamɛ ladamli ɔnɔ kɩ Ahenkro.
 \xe The car was headed towards Kwamekrom but it has turned around toward Ahenkro.
 \bb Stewart List:2018
 \bb Stewart List:2752
-\dt 08/Feb/2014
+\dt 18/Jul/2016
 
 \lx damli ɩklʋntɔ
 \ph dámlí ɪklʊ̃tɔ
@@ -7374,7 +7379,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge lower
-\sd 7.2
+\sd 7.3.2.5
 \de lower
 \nt bring down from within reach
 \nt pʋ ba ayasɩ; to bring down from out of reach.
@@ -7395,7 +7400,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe We take scissors and cut our hair when it is full.
 \cf kpa nwun
 \ce shave head
-\dt 02/Oct/2015
+\dt 18/Jul/2016
 
 \lx dɩnsʋ
 \ph dɪnsʊ
@@ -7693,7 +7698,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge climb
-\sd 7.2
+\sd 7.2.2.4
 \de to climb up something
 \rf Tape:2-1-398
 \xv Kɩtɩ amʋ yɔdʋ si andɔ.
@@ -7702,13 +7707,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 2
 \ge copulate
-\sd 2.2.7
+\sd 2.6.2
 \de to copulate (animal)
 \rf Tape:7-1-142
 \xv Ndɛ trʋkpa dunka ɔbɔdʋ mɩ akpala ha mɩ.
 \xe I am looking for a billy goat to service my (she) goats for me.
 \bb Stewart List:2098
-\dt 02/Nov/2015
+\dt 18/Jul/2016
 
 \lx dʋbɩ
 \ph dʊbɪʔ
@@ -7966,7 +7971,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge cross
-\sd 7.2
+\sd 7.2.3.5
 \de go across through water
 \rf Tape:2-1-432
 \xv Alafa ntsu amʋ yɛlɩɩ mʋ́ ɔbɩn.
@@ -7977,7 +7982,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:2480
 \cf nyankɩ2
 \ce cross
-\dt 05/Feb/2016
+\dt 18/Jul/2016
 
 \lx fa
 \hm 2
@@ -14559,15 +14564,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge turn
-\sd 7.2
+\sd 7.3.5
 \de to turn something
 \xv Ki fʋ nwun.
 \xe Turn your head.
-\se ɔmɛ́ɛtɔ ki
+\se ɔmɛtɔ ki
 \ge nausea
 \sd 2.5.1
 \de to be nauseated
-\xv Ɔmɛ́ɛtɔ dɛ fʋ ki?
+\xv Ɔmɛtɔ dɛ fʋ ki?
 \xe Are you feeling nauseated?
 \rf Tape:3-1-523
 \xv Ki yibi amʋ ya bɩnasʋ.
@@ -14587,18 +14592,19 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge twist
 \sd 7.2.2.7
 \de to twist or spin something
-\dt 14/Jun/2016
+\dt 18/Jul/2016
 
 \lx ki fia
 \ph kí fíá
 \ps v
 \sn
 \ge go through exhaustively
-\sd 7.2
+\sd 7.2.1.3
+\sd 9.3.2
 \de to search exhaustively
 \xv Oleki fia wulu amʋ kasian. Omowun mʋ kufa.
 \xe He went through the whole town, but he couldn't find his sheep.
-\dt 30/Jun/2014
+\dt 18/Jul/2016
 
 \lx kian
 \ph kiãʔ
@@ -16179,13 +16185,13 @@ cf fonflo
 \ps v
 \sn
 \ge gather
-\sd 7.2
+\sd 7.5.1
 \de to gather (a liquid) in a place
 \xv Obugya lɛkpa tɩa.
 \xe A blood blister formed.
 \xv Ntsú lɛkpa tɩa.
 \xe Tears gathered in the eyes.
-\dt 21/Jun/2014
+\dt 18/Jul/2016
 
 \lx kpaalɩ
 \ph k͡paːlɪ
@@ -16843,9 +16849,10 @@ cf fonflo
 \ps v
 \sn
 \ge turn head
-\sd 7.2
+\sd 7.3.5
+\sd 2.1.1
 \de to turn your head
-\dt 20/Jun/2016
+\dt 18/Jul/2016
 
 \lx kpɛn
 \ph k͡pɛ̃ʔ
@@ -17542,7 +17549,7 @@ cf fonflo
 \ps v
 \sn
 \ge shift
-\sd 7.2
+\sd 7.2.2.3
 \de to shift or approach someone or something
 \rf Tape:4-1-115
 \xv Atsu ndɔ aba, anɩlɔkpʋkpɛ bɛn wulu a, anɩlonu okitikiti.
@@ -17555,33 +17562,35 @@ cf fonflo
 \ce shift towards
 \cf kpʋkpɛ yɔ
 \ce shift away
-\dt 22/Dec/2013
+\dt 18/Jul/2016
 
 \lx kpʋkpɛ ba
 \ph k͡pʊ́k͡pɛ́ ba
 \ps v
 \sn
 \ge shift towards
-\sd 7.2
+\sd 7.2.2.3
+\sd 7.2.3
 \de to shift towards something
 \cf kpʋkpɛ
 \ce shift; approach
 \cf kpʋkpɛ yɔ
 \ce shift away
-\dt 22/Dec/2013
+\dt 18/Jul/2016
 
 \lx kpʋkpɛ yɔ
 \ph k͡pʊ́k͡pɛ́ yɔ́ʔ (H)
 \ps v
 \sn
 \ge shift away
-\sd 7.2
+\sd 7.2.2.3
+\sd 7.2.3.1
 \de to shift away from something
 \cf kpʋkpɛ
 \ce shift
 \cf kpʋkpɛ ba
 \ce shift toward
-\dt 22/Dec/2013
+\dt 18/Jul/2016
 
 \lx kpʋkpʋ
 \hm 1
@@ -19796,7 +19805,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 1
 \ge close
-\sd 7.2
+\sd 8.2.6.2
 \de to be close to
 \xv Mlɩ kpʋkpɛ manta Bulu mɛnɩ Bulu ɛ obetsia mlɩ wa.
 \xe Draw near to God so that he will draw near to you.
@@ -19830,7 +19839,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de to tame an animal
 \xv Nyankpʋsa tɛtalɩ bwɛ mbwɩ akugyiakʋ bʋtɛmanta. Tamɛ ɔhaa mɔkʋtalɩ bwɛ ɔdandʋ ɔmanta kɩ.
 \xe Humans can tame all kinds of animals. But no-one has yet tamed the tongue.
-\dt 02/Nov/2015
+\dt 18/Jul/2016
 
 \lx mantɛpʋ
 \ph mã́ntɛpʊ
@@ -20420,9 +20429,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge turn over
-\sd 7.2
+\sd 8.3.1.4.1
 \de turn over
-\dt 27/Apr/2016
+\dt 18/Jul/2016
 
 \lx mlin
 \ph mlɪ̃ʔ
@@ -23558,14 +23567,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps v
 \sn
 \ge cross
-\sd 7.2
+\sd 7.2.3.5
 \de cross over without touching
 \rf Tape:5-1-526
 \xv Olofuli nyankɩ ntsu amʋsʋ.
 \xe He jumped over the water.
 \cf fa1
 \ce cross (v)
-\dt 09/Nov/2015
+\dt 18/Jul/2016
 
 \lx nyankpʋ
 \ph ɲaŋ͡mk͡pʊʔ(L)
@@ -29447,10 +29456,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge capsize
-\sd 7.2
+\sd 8.3.1.4.1
 \de to capsize
 \lt ɔklʋn 'boat' bun 'cover'
-\dt 27/Apr/2016
+\dt 18/Jul/2016
 
 \lx ɔkɔmfɔbowuo
 \ph ɔkɔɱfɔbowuo(H)
@@ -34632,7 +34641,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge return
-\sd 7.2
+\sd 7.2.3.6
 \de return
 \nt good minimal pair with sankɩ
 \xv Bla ɔha amʋ fɛɛ ɔkpa mɛda ɩnʋ sʋ ɔsanki ba.
@@ -34640,7 +34649,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Fɔyɔ fasanki ba.
 \xe When you go come back.
 \bb Stewart List:2467
-\dt 30/Sep/2015
+\dt 18/Jul/2016
 
 \lx sankɩ
 \ph sáŋkɪ́
@@ -36225,7 +36234,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge lower
-\sd 7.2
+\sd 7.2.2.5
 \de to lower something from someone's head
 \ng the object is the person who is carrying the load
 \xv Mɩ atɔsʋrahɛ bʋ odwiin dʋbɩ. Ba bɔswɩɩ mɩ.
@@ -36234,7 +36243,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge take off fire
-\sd 5.2.1.1
 \sd 5.2.1.1
 \de to remove from a cooking fire
 \rf Tape:7-1-292
@@ -36245,6 +36253,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 3
 \ge confiscate
 \sd 6.8.1.1
+\sd 7.3.3.1
 \de to grab or seize something by force
 \rf Tape:7-1-296
 \xv Maswɩɩ nyebi amʋ atɔ amʋ gyi.
@@ -36253,6 +36262,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 4
 \ge lodge
 \sd 7.2.4
+\sd 4.2.1.4.2
 \de to lodge overnight
 \rf Tape:7-1-285
 \xv Ɔkʋ dɛtsʋn ɔyɔ Krachi, owí lata wa mʋ nfɩ sʋ, alaswɩɩ mɩ.
@@ -36262,8 +36272,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 5
 \ge deny falsely
 \sd 3.5.2.4
+\sd 3.5.1.3.2
 \de to deny falsely
-\dt 20/May/2016
+\dt 18/Jul/2016
 
 \lx ta
 \ph tá
@@ -38804,7 +38815,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge come from
-\sd 7.2
+\sd 7.2.3.3
+\sd 9.5.1.6.4
 \de to come from
 \rf Tape:7-2-448
 \xv Igye notsu Nkran ba.
@@ -38824,7 +38836,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe They are planning about our festival.
 \xv Kla mʋ́ ánɩ́ fʋyin tsu asʋn amʋ ɩwɩ.
 \xe Tell what you know about the matter.
-\dt 17/May/2016
+\dt 18/Jul/2016
 
 \lx tsua
 \ph t͡súaʔ
@@ -38989,7 +39001,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge pass
-\sd 7.2
+\sd 7.2.3.5
 \de to pass by
 \cf atsʋnlɛ
 \ce easy to pass
@@ -39012,7 +39024,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔha ánɩ́ alawu tsʋn a, bʋtɛtɩ mʋ owupʋ.
 \xe The one that has already died (not recently) they call a dead person.
 \bb Stewart List:0073
-\dt 03/Nov/2015
+\dt 18/Jul/2016
 
 \lx tsʋnkɩ
 \ph t͡sʊŋkɪ́
@@ -39991,7 +40003,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge reach
-\sd 7.2
+\sd 7.2.3.3.1
+\sd 3.3.1.1
 \de to reach somewhere
 \rf Tape:8-1-279
 \xv Ɩlawie mɩ asʋtɔ.
@@ -40008,7 +40021,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Bowie obutɔ anyɔ a, bʋdalɩ asa.
 \xe They should enter the room two and come out three.
 \bb Stewart List:2458
-\dt 15/Jun/2016
+\dt 18/Jul/2016
 
 \lx wɩ
 \hm 1
@@ -41248,7 +41261,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 1
 \ge return
-\sd 7.2
+\sd 7.2.3.6
 \de return
 \xv Yibi kpa a, ɔma iteyinki.
 \xe When a trap sprung, it always goes back.
@@ -41258,22 +41271,24 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 2
 \ge reciprocate
-\sd 7.2
+\sd 7.3.3.2
+\sd 9.1.2.2
+\sd 9.5.2.4
 \de to do something in return
 \rf Tape:8-1-596
 \xv Nɛda mʋ. Oleyinki da mɩ mʋ ɛ.
 \xe I hit him. He also hit me back.
 \bb Stewart List:2467
-\dt 03/Nov/2015
+\dt 18/Jul/2016
 
 \lx yinkɩa
 \ph yíŋkɪ́a
 \ps vt
 \sn
 \ge return
-\sd 7.2
+\sd 7.3.3.2
 \de transitive return
-\dt 30/Jun/2014
+\dt 18/Jul/2016
 
 \lx yinta
 \hm 1
@@ -41434,7 +41449,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge go
-\sd 7.2
+\sd 7.2.3.2
 \de go
 \nt to go do something, first verb in serial verb construction
 \rf Tape:8-1-488
@@ -41500,7 +41515,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv yɔ mʋ́sʋ
 \xe resume
 \bb Stewart List:2960
-\dt 01/Oct/2015
+\dt 18/Jul/2016
 
 \lx yɔfʋn
 \ph yɔ́fʊ̃
