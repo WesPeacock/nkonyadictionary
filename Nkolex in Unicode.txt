@@ -673,6 +673,15 @@
 \ce farm boundary
 \dt 10/Feb/2014
 
+\lx adɔdɩ
+\ph adɔdɪ
+\ps n
+\sn
+\sd 1.6.1.9
+\ge clam
+\de clam
+\dt 19/Jul/2016
+
 \lx adɔmpɔ
 \ph adɔmpɔ (H)
 \ps n
@@ -7170,14 +7179,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 1
 \ge grassland
-\sd 1.3.1.2
+\sd 1.2.1.6
 \de grassland
 \ps n
 \sn 2
 \ge North
-\sd 8
 \de northern Ghana
-\dt 02/Nov/2015
+\dt 19/Jul/2016
 
 \lx dɩ
 \ph dɪ́
@@ -13807,10 +13815,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge surround
 \sd 7.2.2.7
+\sd 8.5.1.2.1
 \de to be everywhere around something
 \xv Ɩsa-akɔpʋ amʋ bakafia wulu amʋ.
 \xe The soldiers have surrounded the town.
-\dt 15/Jul/2016
+\dt 20/Jul/2016
 
 \lx kai
 \ph káîʔ
@@ -21585,7 +21594,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd 1.5.3
 \sd 6.2.1.7
 \sd 7.2.4.1.1
-\de oil, fat
+\de oil, fat, gasoline
 \rf Tape:5-1-010
 \xv Mahɔ abiofobi ntɛ kɩtɩba nfɔ, mboun hɔ nfɔ pɛpɛ.
 \xe Don't buy palm kernel oil, or peanut oil, instead buy palm oil.
@@ -21596,7 +21605,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe palm oil
 \bb Stewart List:1233
 \bb Stewart List:1243
-\dt 31/May/2016
+\dt 19/Jul/2016
 
 \lx nfɔlɩ
 \ph ɱfɔ́lɪʔ
