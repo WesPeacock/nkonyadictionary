@@ -11289,10 +11289,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge clay
-\sd 1.2.2.2
+\sd 1.2.2.1
 \sd 6.6.2.4
 \de clay from termite mound used for pottery & hearths
-\dt 31/May/2016
+\dt 19/Jul/2016
 
 \lx isuna
 \ph isúna
@@ -15985,9 +15985,9 @@ cf fonflo
 \ps n
 \sn
 \ge copper
-\sd 1.2.2
+\sd 1.2.2.3
 \de copper
-\dt 04/Jul/2014
+\dt 19/Jul/2016
 
 \lx kɔɔfɩ
 \ph kɔ̂ːfɪ
@@ -23977,8 +23977,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge sand
-\sd 1.2.2.2
 \sd 1.2.2.1
+\sd 1.2.2.2
 \sd 5.2.1.1
 \de fine sand from a specific k.o. stone
 \rf Tape:5-1-028
@@ -23989,7 +23989,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge grit
-\sd 1.2.2.2
+\sd 1.2.2.1
 \de a soft stone that is ground and used to clean calabashes
 \dt 19/Jul/2016
 
@@ -24315,7 +24315,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge clay
-\sd 1.2.2.2
+\sd 1.2.2.1
 \sd 6.6.2.4
 \de the kind of clay used to make pottery
 \va ebon
@@ -24327,7 +24327,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ bɔpwɛ ta a, bʋtɔtɔ mʋ́, tamɛ ɩtamabwiebwie.
 \xe If they finish sculpting, they fire them but they never break into pieces.
 \bb Stewart List:1055
-\dt 17/Jun/2014
+\dt 19/Jul/2016
 
 \lx oboyi
 \ph obóyiʔ
@@ -24697,12 +24697,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge hard wood
-\sd 1.2.2
+\sd 6.6.3.2
+\sd 6.6.3.1
+\sd 1.5.1
 \de a tree with very hard and expensive wood
+\ee Milicia excelsa; iroko
 \pl ndum
 \plph ndum
 \na Because of deforestation, much rarer than it used to be.
-\dt 17/Jun/2014
+\dt 19/Jul/2016
 
 \lx odwin
 \ph odwĩ
@@ -25101,9 +25104,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge log
-\sd 1.2.2
+\sd 5.5.6
+\sd 1.5.1
 \de firewood log
-\dt 13/Jul/2014
+\dt 19/Jul/2016
 
 \lx ogyama
 \ph oʤamaʔ(H)
@@ -26713,7 +26717,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sand
-\sd 1.2.2.2
 \sd 6.5.3
 \sd 1.2.2.1
 \de sand
@@ -26729,7 +26732,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ŋɛsɩ2
 \ce sand
 \bb Stewart List:1027
-\dt 20/May/2016
+\dt 19/Jul/2016
 
 \lx osumbi
 \ph osúmbí
@@ -27179,14 +27182,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge dust
-\sd 1.2.2.2
+\sd 1.2.2.1
 \de dust
 \xv Nsaɩntɔ lawʋlɩ dʋbɩ, sʋ otutu bʋ ɔkpa amʋtɔ.
 \xe The weather is very dry so the road is dusty.
 \cf ɩsɩ
 \ce dirt
 \bb Stewart List:1033
-\dt 24/Dec/2013
+\dt 19/Jul/2016
 
 \lx owi
 \ph owí(H)
@@ -28556,18 +28559,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge mud
-\sd 1.2.2.2
+\sd 1.2.2.1
+\sd 1.3.3
 \de mud
 \cf ɔdɩbatɔ
 \ce muddy place
-\dt 24/Dec/2013
+\dt 19/Jul/2016
 
 \lx ɔdɩbatɔ
 \ph ɔdɪbatɔ
 \ps n
 \sn
 \ge muddy place
-\sd 1.2.2.2
+\sd 1.2.2.1
+\sd 1.3.3
 \de muddy place
 \cf ɔdɩba
 \ce mud
@@ -28577,7 +28582,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Natsʋn ɔdɩbatɔ sʋ mɩ ayabi asɩ lawa nyanya.
 \xe I passed through a muddy place so my feet aren't clean.
 \bb Stewart List:1028
-\dt 01/Feb/2014
+\dt 19/Jul/2016
 
 \lx ɔdɩhɩɛ
 \ph ɔdɪ́hɪɛ
@@ -31722,12 +31727,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se ɔsʋlʋ
 \ph ɔsʊlʊ́tɔ
 \ge ground
-\sd 1.2.2.2
+\sd 1.2.2.1
 \de ground, dirt
 \xv Nyebi ɩwɩ tɔkpɔɩ, tsufɛ bʋteplei ɔsʋlʋtɔ dʋbɩ.
 \xe Children become dirty because they play on the ground too much.
 \bb Stewart List:1006
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔsʋrapʋ
 \hm 1
@@ -32752,13 +32757,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge leather
-\sd 1.2.2
 \sd 6.6.4.3
 \de dried skin; leather
 \rf Tape:6-2-019
 \xv Anɩtɔpʋ ɔwʋlʋ kpakpa sun akwɛ.
 \xe We put dried skins stretch them on top of the drums.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔwʋnlɩn
 \ph ɔwʊ̃nlɪ́ʔ
@@ -35121,26 +35125,26 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge silver
-\sd 1.2.2
+\sd 1.2.2.3
 \de silver
 \xv Sika pɛpɛ bʋbia dʋn sika fututu.
 \xe Gold is more valuable than silver.
 \cf sika
 \ce money
-\dt 22/Jun/2014
+\dt 19/Jul/2016
 
 \lx sika pɛpɛ
 \ph sika pɛpɛ
 \ps n
 \sn
 \ge gold
-\sd 1.2.2
+\sd 1.2.2.3
 \de gold
 \cf sika
 \ce money
 \xv Sika pɛpɛ bʋbia dʋn sika fututu.
 \xe Gold is more valuable than silver.
-\dt 22/Jun/2014
+\dt 19/Jul/2016
 
 \lx sila
 \ph sílá
@@ -35176,7 +35180,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge lead (n)
-\sd 1.2.2
+\sd 1.2.2.3
 \de lead (metal)
 \nt lead is used in sealing metals/anchor is used as brake for ship
 \xv Kofi lapʋ simpi sɔ bokiti amʋ.
@@ -35189,7 +35193,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de anchor for a boat
 \xv Simpi gyi ɔpʋsʋ yibi breki nɩ.
 \xe The ship uses its anchor as brake.
-\dt 03/Nov/2015
+\dt 19/Jul/2016
 
 \lx sin
 \ph sĩʔ(L)
@@ -35301,12 +35305,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge pot
-\sd 1.2.2
+\sd 5.2.1.3
+\sd 1.2.2.3
 \de aluminium pan or cooking pot
 \bw English fi:silver
 \xv Akosua latsu mʋ silva amʋ ɔdɛ atɔ nɩna mʋ́tɔ.
 \xe Akosusa has taken her sliver and she is cooking in it.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx sɩmpʋa
 \ph sɪmpʊa
