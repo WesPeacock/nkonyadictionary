@@ -5929,10 +5929,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bun fʋ pa nwun.
 \xe Put on your hat.
 \bb Stewart List:2770
+\se bun ansibi
+\ps v
+\ge close eyes
+\sd 5.7.3
+\de to close one's eyes
+\rf Tape:2-1-048
 \ps vt
 \sn 2
 \ge nurse
-\sd 7
 \sd 2.6.4.1.1
 \sd 6.3.1
 \rf Tape:2-1-053
@@ -5945,7 +5950,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 3
 \ge bend down
-\sd 7.1.1
+\sd 7.1.8
 \de to bend down
 \rf Tape:2-1-061
 \xv Bun afʋtsu ibwi ha mɩ.
@@ -5954,16 +5959,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 4
 \ge overturn
-\sd 7.2
+\sd 8.3.1.4.1
 \de to turn something over
 \bb Stewart List:2752
-\se bun ansibi
-\ps v
-\ge close eyes
-\sd 5.7.3
-\de to close one's eyes
-\rf Tape:2-1-048
-\dt 14/Jun/2016
+\dt 19/Jul/2016
 
 \lx bunti
 \ph buntîʔ
@@ -6128,7 +6127,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 1
 \ge be drunk
-\sd 2.5.4
+\sd 5.2.3.7.2
 \de to be drunk
 \rf Tape:2-1-107
 \xv Nabʋ nta.
@@ -6144,7 +6143,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 2
 \ge be weak
-\sd 7
+\sd 2.4.2
 \sd 2.5.1
 \de to be weak
 \rf Tape:2-1-103
@@ -6153,10 +6152,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 3
 \ge wilt
-\sd 7
-\sd 8.3.7.8.2
+\sd 2.4.4
 \de to wilt
-\dt 17/May/2016
+\dt 19/Jul/2016
 
 \lx bʋ-
 \ph bʊ
@@ -6256,10 +6254,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge weak
-\sd 7
+\sd 2.4.2
 \sd 2.5.1
 \de weak
-\dt 17/May/2016
+\dt 19/Jul/2016
 
 \lx bʋn
 \ph bʊ̃ʔ
@@ -6444,13 +6442,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 2
 \ge stand up
-\sd 7.1.1
+\sd 7.1.7
 \de stand up after bending over
 \nt ths: words for dressing: wa (put on underwear, wrist beads, shirt, earrings), dɩda (wrap cloth), klɩ (tie waist beads, belt, head scarf) bun (cover head with hat).
 \nt bwii ɔnɔ - get translation and sentence
 \nt from ths: Open your mouth. words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
 \nt From ths: words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
-\dt 14/Jun/2016
+\dt 19/Jul/2016
 
 \lx bwiipa
 \ph bwíːpa
@@ -6513,7 +6511,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 1
 \ge lie
-\sd 7.1.1
+\sd 7.1.3
 \de to lie (prone)
 \rf Tape:2-2-526
 \xv Nɛfɩtɛ Kwaku mbɛɛ, mɩ ɔtɩ amʋ mɛ? Ɔbɛɛ ɩda ɔsʋlʋtɔ.
@@ -6557,7 +6555,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge stay on farm
 \sd 5.9
 \de to stay on one's farm rather than in town
-\dt 14/Jun/2016
+\dt 19/Jul/2016
 
 \lx da
 \hm 3
@@ -6694,13 +6692,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge deeply
-\sd 7
+\sd 3.4.2.1.6
+\sd 9.3
 \de deeply; strongly; beyond what is normal
 \xv Abraham lɛdɩdɩ dafa.
 \xe Abraham slept so deeply.
 \xv Ɔblɔ tɛha ɔha tɔtɔɩ dafa ha asʋn tɛba.
 \xe Anger makes people talk too far to create problems.
-\dt 29/Jun/2016
+\dt 19/Jul/2016
 
 \lx daɩ
 \ph daɪ
@@ -7193,7 +7192,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 1
 \ge lie down
-\sd 7.1.1
+\sd 7.1.3
 \de to lie down
 \xv Ntsu lɛkpa yi mɩ obu ɔnɔ, sʋ ɔbɔ ladɩ nʋ.
 \xe Water fell vertically at the door of my room so a hole has formed there.
@@ -7223,6 +7222,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge bedbug
 \sd 1.6.1.7
+\sd 7.1.3
 \de bedbug
 \pl adɩba
 \plph adɪ́ba
@@ -7230,7 +7230,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Last night my sleeping mat was infested with bedbugs so I didn't sleep.
 \xv Adɩba sɔɔn bʋ oyin anfɩ atadɩɛtɔ.
 \xe There are many bedbugs in this man's shirt.
-\dt 28/Jul/2013
+\dt 19/Jul/2016
 
 \lx dɩda
 \hm 1
@@ -7239,6 +7239,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge fall
 \sd 7.2.2.5.1
+\sd 7.1.2
 \de fall down from a standing position
 \rf Tape:2-1-316
 \xv Ɔlɛsrɛɩ dɩda bʋsʋ nʋ, tsufɛ ɩnʋ lɔwa ɔplɩ.
@@ -7249,7 +7250,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:2485
 \cf kpada
 \ce fall from height
-\dt 01/Jun/2016
+\dt 19/Jul/2016
 
 \lx dɩdá
 \hm 2
@@ -7309,7 +7310,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge rest on
-\sd 7.1.1
+\sd 8.5.1.3
 \de rest on
 \ng inanimate object rests on an object. A corpse can dɩn but not a living person.
 \ng continuous aspect
@@ -7339,7 +7340,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de persecute
 \xv Bʋ dɩn mlɩsʋ.
 \xe They persecute you.
-\dt 02/Nov/2015
+\dt 19/Jul/2016
 
 \lx dɩnka
 \ph dɪ́ŋká
@@ -7724,8 +7725,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dʋbɩ
 \ph dʊbɪʔ
 \ge too much
-\sd 7
-\sd 8.3.7.8.2
+\sd 8.1.7.1
 \de too much
 \ps ADV
 \sn
@@ -7733,7 +7733,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Aha amʋ bʋdɛtɔɩ dʋbɩ, sʋ mmɛdɛ fʋ asʋn amʋ nu.
 \xe The people are talking too much so I am not hearing you.
 \ce paa
-\dt 12/Jul/2014
+\dt 19/Jul/2016
 
 \lx dʋn
 \ph dʊ̃ʔ
@@ -8007,12 +8007,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 2
 \ge start suddenly
-\sd 7
+\sd 8.4.6.1
+\sd 8.4.8.3
 \de to start suddenly
 \rf Tape:2-1-439
 \xv Ɩtrɛ lafa.
 \xe A quarrel has broken out.
-\dt 14/Jun/2016
+\dt 19/Jul/2016
 
 \lx fa
 \hm 3
@@ -8524,11 +8525,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge stamp
-\sd 7.1.1
+\sd 7.1.9
+\sd 7.7.3
+\sd 7.2.1.1
 \de to stamp something into the ground
 \xv Bafɩn oyi amʋ yi pʋkɩta brɔdɩ amʋ́ʋ́ ɩdebia amʋ.
 \xe They have stamped the stick to support the plantain that is falling down. .
-\dt 17/Jun/2014
+\dt 19/Jul/2016
 
 \lx fɩnɩ
 \ph fɪnɪʔ
@@ -9807,8 +9810,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge protect
 \sd 4.4.4.5
-\sd 8
-\sd 3.3.2
 \de to protect someone or something
 \lt make a fence
 \bb Stewart List:2032
@@ -9819,7 +9820,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 4.6.1
 \de to rule as chief
 \lt eat chieftaincy
-\dt 18/Jul/2016
+\dt 19/Jul/2016
 
 \lx gyi
 \hm 2
@@ -10031,7 +10032,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge squat
-\sd 7.1.1
+\sd 7.1.2
 \de squat; or crouch; or perch
 \nt this verb is gyon in some verb tenses
 \rf Tape:2-2-285
@@ -10040,7 +10041,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-288
 \xv Kebi amʋ logyonka ɔdɛ ɔbɔ amʋ kwi.
 \xe The child has squatted, he is digging a hole.
-\dt 02/Oct/2015
+\dt 19/Jul/2016
 
 \lx Gyɔda
 \ph ʤɔda(H)
@@ -11344,11 +11345,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge stub foot
-\sd 7.1.1
+\sd 2.5.3
+\sd 7.7.3
 \de to stub your foot against s.t.
 \xv Isutin ɩhɩɛ bʋ ɔsɩn.
 \xe To knock foot against a stone is very painful.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx itin
 \ph itĩ(H)
@@ -11608,7 +11610,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va -la
 \ge activity; things
-\sd 7
+\sd 9.4.2
 \de an activity/things that will result in the occurrence of the infixed verb
 \xv ansigyila
 \xe game
@@ -11666,7 +11668,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-503
 \xv Anwunsʋ atɔ kɩ wa ɔpá dʋbɩ a, oboyi ɔwula igyi.
 \xe Look up for a long time (as when picking mangos) is an activity that makes the neck sore.
-\dt 30/Sep/2015
+\dt 19/Jul/2016
 
 \lx ɩba
 \hm 1
@@ -14393,15 +14395,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge show off
-\sd 7.1.1
-\sd 3.4
-\sd 8.3.7.1
+\sd 7.2.1.1
+\sd 3.5.1.7.3
 \sd 4.6.1
 \de to show off or strut
 \rf Tape:4-1-143
-\xv Mɩ nyawie ɔkʋ bʋ akrakun. Yinhɛ, ɔtɛkɛklɛ.
+\xv Mɩ nyawie ɔkʋ bʋ akrakun yinhɛ, ɔtɛkɛklɛ.
 \xe A certain friend of mine has turkeys. The turkey cock always struts.
-\dt 23/Jun/2014
+\dt 19/Jul/2016
 
 \lx kɛklɛ
 \hm 2
@@ -14749,12 +14750,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 3
 \ge tight
-\sd 8
+\sd 8.2.7.1
 \de to be too tight
 \xv Namoni dʋn mɩ atadɩɛ bibi amʋ sʋ a, ɩlakina mɩ.
 \rf Tape:3-1-551
 \xe I have grown too big for my black shirt so it is too tight for me.
-\dt 18/Jul/2016
+\dt 19/Jul/2016
 
 \lx kinkiinkin
 \ph kĩ́kĩ́ːkĩ́ (H)
@@ -14887,12 +14888,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge care for
-\sd 7
+\sd 6.1.2.2.5
+\sd 4.3.4.5.2
 \de to care for s.t.
 \rf Tape:3-1-580
 \xv Bɛlɛ owie pɔpwɛ amʋ obitɛpʋ odua ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
-\dt 11/Nov/2015
+\dt 19/Jul/2016
 
 \lx kɩaɩ
 \ph kɪaɪʔ
@@ -15332,14 +15334,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn
 \ge bend
-\sd 7.1.1
+\sd 7.1.8
+\sd 7.1.6
 \de lean over- front, back, or to the side, but usually sideways
 \rf Tape:3-2-196
 \xv Klɛ yɔ nkpa kpalobi ankɩ.
 \xe Lean forward a little so that I will look (at it).
 \ng klɛ yɔ: lean/yɔ -
 \bb Stewart List:2012
-\dt 11/Nov/2015
+\dt 19/Jul/2016
 
 \lx -klɛ
 \ph klɛ
@@ -15368,7 +15371,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge lie down
-\sd 7.1.1
+\sd 7.1.3
 \de to lie down to sleep
 \rf Tape:3-2-199
 \xv Ɔlɛklɛdɩ.
@@ -15377,7 +15380,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ɔbla mʋ ɔbɛɛ ɔklɛdɩ nfɩ a ɔklɛdɩ.
 \xe If he should say to her lie down here, she should lie down.
 \na part of a wedding blessing
-\dt 13/Jul/2014
+\dt 19/Jul/2016
 
 \lx klɛɩ
 \ph klɛ́ɪ́
@@ -16024,13 +16027,13 @@ cf fonflo
 \ps vi
 \sn
 \ge hurry
-\sd 7
+\sd 8.4.8.1
 \de hurry
- \sy wa ɔsa
+\sy wa ɔsa
 \xv Kɔsɩ ba oo.
 \xe Hurry back.
 \bb Stewart List:2088
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx kɔtɔkɔ
 \ph kɔ́tɔ́kɔ́
@@ -16775,12 +16778,11 @@ cf fonflo
 \sn
 \ge hard
 \sd 6.1.3
-\sd 7
 \de very hard to do
 \nt agyʋma kpekple
 \xv Mɩ sɩ lɛha mɩ agywʋma kpekple mɩ atɔ mabu sʋ.
 \xe My father gave me hard work because of my disobedience.
-\dt 17/May/2016
+\dt 19/Jul/2016
 
 \lx kpɛ mblɩ
 \ph k͡pɛ́ mblɪ́ʔ(L)
@@ -18097,7 +18099,6 @@ cf fonflo
 \ge loudly
 \sd 2.4.1
 \sd 2.5
-\sd 7
 \de loudly
 \rf Tape:4-1-259
 \xv Mɩa mʋ nyɔ nsɩnɛ bʋ fɔ sʋ nokpoli mʋ kʋklʋ asa olotsuda.
@@ -18111,7 +18112,7 @@ cf fonflo
 \ps ADV
 \sn 2
 \ge quickly
-\sd 7
+\sd 7.2.1.2
 \de fast
 \rf Tape:4-1-268
 \xv Mapʋ yibi amʋ srɩ kʋklʋ tsufɛ ɔkpa amʋtɔ ma alɛ.
@@ -18119,7 +18120,7 @@ cf fonflo
 \ps ADV
 \sn 3
 \ge tightly
-\sd 8
+\sd 2.4.1
 \de tightly
 \rf Tape:3-2-256
 \xv Ɔlɛklɩ ngya amʋ kʋklʋ.
@@ -18127,13 +18128,12 @@ cf fonflo
 \ps ADV
 \sn 4
 \ge firmly
-\sd 7
-\sd 2.5
+\sd 6.1.2.3.4
 \de firmly
 \xv lɩɩ kʋklʋ
 \xe be firm
 \bb Stewart List:2345
-\dt 18/Jul/2016
+\dt 19/Jul/2016
 
 \lx kʋklʋkʋʋ
 \ph kʊ́klʊ́kʊ́ː
@@ -18169,10 +18169,9 @@ cf fonflo
 \ps v
 \sn
 \ge excessive
-\sd 7
-\sd 8.3.7.8.2
+\sd 8.1.7.1
 \de to do something excessive
-\dt 13/Jul/2014
+\dt 19/Jul/2016
 
 \lx kʋkʋram
 \ph kʊkʊram
@@ -18250,7 +18249,7 @@ cf fonflo
 \ps vi
 \sn
 \ge rise
-\sd 7.1.1
+\sd 7.2.2.4
 \de get up
 \cf tsinki
 \ce wake up
@@ -18260,9 +18259,6 @@ cf fonflo
 \xv Ɔlɔkʋsʋ, ɔlɔtʋ Kofi.
 \xe He got up and met Kofi.
 \ng kʋsʋ lɩɩ
-\rf Tape:4-1-313
-\xv Mlɩ kʋsʋ lɩɩ Ɔbʋnsam sʋ mɛnɩ ɔbɛ́sɩrɩ natɩ mlɩ wa.
-\xe Resist Satan so that he will he will run away from you.
 \ng sɩrɩ natɩ
 \ng run away
 \xv Nɩ fatsinki a, kʋsʋ.
@@ -18273,7 +18269,7 @@ cf fonflo
 \xv Anɩlatsia gyo mʋ, ɔmɛba sʋ a, kʋsʋ ayɔ woyi.
 \xe We have waited for him, he didn't come, so get up, and let us go to the house.
 \bb Stewart List:2014
-\dt 17/May/2016
+\dt 19/Jul/2016
 
 \lx kʋsʋ lɩɩ
 \ph kʊ́sʊ́ lɪ́ː
@@ -18289,11 +18285,12 @@ cf fonflo
 \se kʋsʋ lɩɩ X sʋ
 \ph kʊ́sʊ́ lɪ́ɪ́ ... sʊ
 \ge resist
+\sd 4.5.4.6
 \de to resist X
 \rf Tape:4-1-313
 \xv Mlɩ kʋsʋ lɩɩ Ɔbʋnsam sʋ mɛnɩ ɔbɛ́sɩrɩ natɩ mlɩ wa.
 \xe Resist Satan so that he will he will run away from you.
-\dt 15/Jun/2016
+\dt 19/Jul/2016
 
 \lx Kwabena
 \ph kʷabɪná
@@ -18942,12 +18939,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge lie across
-\sd 7.1.1
+\sd 7.1.3
+\sd 8.5.1.6
 \de to lie across something
 \rf Tape:4-1-471
 \xv Ɩwɔ lɛlan ɔkpatɔ.
 \xe A snake was lying across the path.
-\dt 13/Jul/2014
+\dt 19/Jul/2016
 
 \lx lan
 \hm 2
@@ -21120,7 +21118,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 1
 \ge walk
-\sd 7.1.1
+\sd 7.2.1.1
 \de walk
 \rf Tape:4-2-507
 \xv Atapʋ amʋ bʋ na amʋ́ ɔkpa sʋ.
@@ -21133,19 +21131,22 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 2
 \ge move
-\sd 7.1.1
+\sd 7.2.1.1
+\sd 7.2.4.3
 \de to move using normal means of propulsion
 \xv Obubwi na afutɔ.
 \xe Birds fly in the sky.
 \ps v
 \sn 3
 \ge proceed
+\sd 8.4.5.1
+\sd 8.4.7
 \de to follow a certain course
 \xv Sɩmpʋa na ɔtsan ha kɛklɛ.
 \xe Cow boils have different symptoms than boils.
 \xv Ntsu amʋ ɩna ɩbʋ amʋ abɩntɔ.
 \xe The stream passes beside the hill.
-\dt 02/Nov/2015
+\dt 19/Jul/2016
 
 \lx naasɩ
 \ph náːsɪ́
@@ -21336,7 +21337,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge walk
-\sd 7.1.1
+\sd 7.2.1.1
 \de walk; go
 \rf Tape:4-2-559
 \xv Nɛnatɩ ayabitɔ yɔ Bumbula ɔkɛ.
@@ -21351,7 +21352,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Nɩ mlɩnatɩ a, abɛ́kaɩn mlɩsʋ.
 \xe If you go we will miss you.
 \bb Stewart List:2020
-\dt 12/Jul/2014
+\dt 19/Jul/2016
 
 \lx natɩ kɩta
 \hm 1
@@ -22654,14 +22655,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge stumbling
-\sd 7.1.1
+\sd 8.5.1.6
 \de stumbling
 \bw Akan fi:ntintaɩn
 \xv Nɩ nta abʋpʋ bʋna a, bʋtɔbɔ ntinta.
 \xe When drunkards are walking, they stumble.
 \xe Drunkards stumble when they walk.
 \rf Tape:1-2-541
-\dt 17/Jun/2014
+\dt 19/Jul/2016
 
 \lx ntobi
 \ph ntobí
@@ -23519,12 +23520,13 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps v
 \sn 2
 \ge mince
-\sd 7.1.1
+\sd 7.2.1.1
+\sd 3.5.1.7.3
 \de to walk in a mincing manner
 \rf Tape:5-1-520
 \xv Ɔha amʋ na ɔdɛ ɩbɩ nyanyanka.
 \xe She walks, she is setting her hands in a mincing manner.
-\dt 15/Jul/2016
+\dt 19/Jul/2016
 
 \lx nyanka
 \hm 2
@@ -30814,8 +30816,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 2
 \ge difficult
-\sd 9.4.2.1
-\sd 7
+\sd 6.1.3
 \de difficult to do
 \rf Tape:6-1-177
 \xv Ɩbʋ dʋ bʋ ɔnlɩn, tsufɛ ɩma adʋlɛ.
@@ -30837,7 +30838,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-163
 \xv Fʋ atɔ fɛhɛ lɛlɩn. Mʋ́ bia ma ɔnlɩn.
 \xe Things you are selling are cheap. Their prices are low.
-\dt 06/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɔnɔ
 \ph ɔnɔ́(H)
@@ -31417,7 +31418,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge speed
-\sd 7
+\sd 8.4.8.1
 \de speed
 \rf Tape:6-1-355
 \xv Ɔna ɔsasʋ.
@@ -31438,7 +31439,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nyankpʋ tswie brɛ a, ɩfa tɔwa ɔsa kɔkwɛ dʋbɩ.
 \xe In Rainy season weeds grow too quickly.
 \bb Stewart List:1429
-\dt 01/Oct/2015
+\dt 19/Jul/2016
 
 \lx ɔsaasɩ
 \ph ɔsaːsɪ́
@@ -31514,9 +31515,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge quickly
-\sd 7
+\sd 8.4.8.1
 \de quickly
-\dt 23/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔsɛmpa
 \ph ɔsɛ́mpá
@@ -31622,10 +31623,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔsɪrɪ́
 \ps n
 \sn
-\ge speed
-\sd 7
-\de speed
-\dt 01/Jul/2014
+\ge running
+\sd 7.2.1.1.1
+\de speed; running
+\dt 19/Jul/2016
 
 \lx ɔsɔfɔ
 \ph ɔsɔ́fɔ(H)
@@ -31670,16 +31671,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge race
-\sd 7.1.1
+\sd 7.2.1.1.1
 \de nominal form of to run
-\dt 25/Dec/2013
+\dt 19/Jul/2016
 
 \lx ɔsrɩpʋ
 \ph ɔsrɪ́pʊ́
 \ps n
 \sn
 \ge runner
-\sd 7.1.1
+\sd 7.2.1.1.1
 \de runner
 \pl asrɩpʋ
 \plph asrɪ́pʊ́
@@ -31687,7 +31688,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Among the runners, only one runner had an award.
 \xv Asɩrɩpʋ amʋ lasɩrɩ alɩɩ nya kɔba pʋ yi woyi.
 \xe The runner has run till he has got money to build a house.
-\dt 07/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɔsʋ
 \ph ɔsʊ́
@@ -32300,14 +32301,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps CNJ
 \sn
 \ge suddenly
-\sd 7
+\sd 8.4.8.3
 \de suddenly
 \ng co-occurs with mʋ . . . a, to make relative clause
 \rf Tape:6-1-517
 \xv Ɔtsanfɩ mʋ́ Amma ɔbɛ́kɩ a, mʋ sɩ mʋa mʋ yín batsu ndɔ ba.
 \xe Suddenly Amma went to look, and her father and her mother had come from farm. (Suddenly, before Amma realised it, her mother and father had come from farm).
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔtsanɩ
 \ph ɔt͡sánɪ́
@@ -32782,7 +32783,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge strength
 \sd 2.4.1
-\sd 7
 \sd 2.5
 \de strength/strong
 \rf Tape:6-2-026
@@ -32796,7 +32796,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:1430
 \xv Lɛ fʋ ɔwʋnlɩn fɛ́ɛ́ pʋ da oyin amʋ tsufɛ ɔtamabu atɔ.
 \xe Use all your strength to beat the man because he does not respect.
-\dt 17/May/2016
+\dt 19/Jul/2016
 
 \lx ɔwʋnlɩnpʋ
 \ph ɔwʊ̃nlɪ̃́pʊ́
@@ -33567,8 +33567,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge swim
-\sd 7.1.1
-\sd 6.5.4.1
+\sd 7.2.4.2.2
 \de to swim
 \xv Ɔklʋn amʋ lobwie aha bɛpɩtɩ dalɩ ntsu amʋtɔ.
 \xe The boat broke and the people had to swim to get out of the water.
@@ -33589,7 +33588,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 4.8.2
 \de to whip someone
 \ge whip
-\dt 31/May/2016
+\dt 19/Jul/2016
 
 \lx pla
 \hm 1
@@ -34197,7 +34196,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge crawl on
-\sd 7.1.1
+\sd 7.2.1.1
+\sd 1.6.4.1
 \de to crawl on someone
 \xv Ntɔntrɔbwɩ bʋ gyi mbwɩ ánɩ́ bʋtamadun, mboun bʋtoputa aha.
 \xe Ntɔntrɔbwɩ are animals that don't bite but crawl all over people.
@@ -34206,7 +34206,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge cram
 \sd 4.2.1.7
 \de to crowd around s.o.
-\dt 07/Jun/2016
+\dt 19/Jul/2016
 
 \lx putu
 \ph putuʔ
@@ -34435,14 +34435,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge slowly
-\sd 7
-\sd 7.1.1
+\sd 7.2.1.2.1
 \de slowly; carefully
 \xv Ologyo tɛnatɩ pʋtɔɔ fɛ owie.
 \xe Chameleon walks slowly like a chief.
 \xv Ɔkɔmfɔbowuo tɛnatɩ pʋtɔɔ fɛ owie.
 \xe Chameleon walks slowly like a chief.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx pwɛ
 \ph pwɛ́
@@ -34643,13 +34642,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge stop
-\sd 7.1.1
+\sd 8.4.6.1.2
 \de to stop someone in the process of doing something
 \xv Ɔlɛsanka mʋ ánɩ́ ɔmáyɔ ɩnʋ.
 \xe He stopped him that he should not go there.
 \xv Sanka yibi amʋ.
 \xe Stop the vehicle.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx sanki
 \ph saŋki
@@ -35551,7 +35550,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn
 \ge run
-\sd 7.1.1
+\sd 7.2.1.1.1
 \de run
 \cf ɔsrɩpʋ
 \ce runner
@@ -35564,7 +35563,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Sukuufɔ abi amʋ basrɩ dalɩ sukuu obuto tsufɛsɛ ba wun ɩwɔ.
 \xe The schoolchildren have run out of the school house because they have seen a snake.
 \bb Stewart List:2021
-\dt 01/Feb/2014
+\dt 19/Jul/2016
 
 \lx srɩgya
 \ph srɪ́ʤa
@@ -35883,7 +35882,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge stub
-\sd 7.1.1
+\sd 2.5.3
+\sd 7.7.3
 \de to stub your foot against a stone
 \rf Tape:7-1-146
 \xv Nosutin, bɔ ntinta, tamɛ mmɛ dɩda.
@@ -35892,7 +35892,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔkɔmfɔbowuo tɛnatɩ pʋtɔɔ fɛ owie mʋ́sʋ ɔtamasutin dɩda.
 \xe Chameleon walks slowly like a chief so he never stumbles.
 \bb Stewart List:2114
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx sʋ
 \ph sʊ
@@ -37179,13 +37179,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge stand alone
 \sd 7.1.1
+\sd 7.3.4.6
 \de stand without support, stand alone
 \nt always collocates with tɩn (and cognates) to convey ideas of learning to stand (child development), and not falling (bottles, head basins etc.).
 \xv Kwame dɛ adɛndɛ tɩn.
 \xe Kwame is standing alone.
 \xv Fatɩn adɛndɛ.
 \xe You are carrying without holding your load.
-\dt 04/Jul/2014
+\dt 19/Jul/2016
 
 \lx tɩnbɩ
 \ph tɪnbɪ
@@ -38154,10 +38155,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn 2
 \ge shuffling
-\sd 7.1.1
+\sd 7.2.1.1
+\sd 7.2.1.5
 \de to walk with a scuffling sound (said quickly)
 \nt occurs only in reduplicated form
-\dt 15/Jun/2016
+\dt 19/Jul/2016
 
 \lx tsɛɩ
 \ph t͡sɛ́ɪ́
@@ -38212,7 +38214,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge sit
-\sd 7.1.1
+\sd 7.1.2
 \de to sit
 \cf tsiatsiaatsia
 \ce sit a long time
@@ -38223,7 +38225,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge stay
-\sd 7.2
 \sd 5.9
 \de to live in a place
 \xv Abɔ́yɔ wulu yile kʋsʋ, yetsia ɩnʋ ofi ɔkʋlɛ gyi ibia nya ɩwɩ.
@@ -38231,13 +38232,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge behave
-\sd 9.1.2
+\sd 4.3
+\sd 4.3.9.2
 \de to behave a certain way
 \xv Matsia alɩ.
 \xe Don't behave like that.
 \cf tsiatɔ
 \ce behaviour
-\dt 15/Jun/2016
+\dt 19/Jul/2016
 
 \lx tsia
 \hm 2
@@ -38245,7 +38247,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge always
-\sd 8.4.5
+\sd 8.4.6.6.4
 \de always
 \nt first verb in a serial verb construction that means that second verb always occurs
 \xv Aha betsia tɩ mʋ, bɛɛ obégyi asʋn.
@@ -38271,7 +38273,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Bɔ́hɔ ɔfɛsɩ abʋtsia pʋfɛɩ obuto.
 \xe They will buy a broom. . .
 \bb Stewart List:2010
-\dt 07/Nov/2015
+\dt 19/Jul/2016
 
 \lx tsia
 \hm 3
@@ -38354,16 +38356,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge sit a long time
-\sd 7.1.1
+\sd 7.1.2
+\sd 8.4.2.2
 \de to sit a long time
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx tsie
 \ph t͡sie
 \ps vi
 \sn
 \ge sitting
-\sd 7.1.1
+\sd 7.1.2
 \de to be sitting- continuous aspect
 \rf Tape:7-2-388
 \xv Ntsie ɩwɩ sʋ.
@@ -38376,7 +38379,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mɩan mɩ ka nyɔ anɩtsie woyi kʋlɛtɔ.
 \xe I am living with my in the same house.
 \bb Stewart List:2499
-\dt 10/Nov/2015
+\dt 19/Jul/2016
 
 \lx tsii
 \hm 1
@@ -38694,7 +38697,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge bow
-\sd 7.1.1
+\sd 7.1.5
 \de to bow the head
 \rf Tape:7-2-419
 \xv Ko nwun tsoli.
@@ -38702,13 +38705,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge wash
-\sd 5.2.3.4
+\sd 5.6.2
+\sd 2.2.8
 \de to wash the anus
 \rf Tape:7-2-422
 \xv Ɔtsɩ amʋ dɛ mʋ bi amʋ tsoli.
 \xe The woman is directing a stream of water on the new baby's anus while bathing him (to prevent sores from forming inside).
 \bb Stewart List:2752
-\dt 15/Jul/2016
+\dt 19/Jul/2016
 
 \lx tsonkoli
 \ph t͡soŋkoli(H)
@@ -39226,12 +39230,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge lay flat
-\sd 7.1.1
+\sd 8.3.1.4
 \de to lie someone flat
 \rf Tape:4-1-453
 \xv Pʋ kebi amʋ tswɩ lala.
 \xe Lay the child flat.
-\dt 20/Jun/2014
+\dt 19/Jul/2016
 
 \lx tswɩtswɩ
 \ph t͡swɪt͡swɪ
@@ -39409,7 +39413,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 1
 \ge jump
-\sd 7.1.1
+\sd 7.2.1.1.3
 \de jump repetitively
 \rf Tape:8-1-020
 \xv Nowun gyongyo ɔkʋ detutu mmua nfɩ.
@@ -39419,7 +39423,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 2
 \ge throw off
-\sd 7.2
+\sd 7.3.1.1
 \de to throw off something
 \rf Tape:7-2-597
 \xv Ofutikokoni amʋ dɛ ɩsɩ tutu.
@@ -39438,7 +39442,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The toilet is throwing off a bad smell.
 \cf bon
 \ce stink
-\dt 10/Nov/2015
+\dt 19/Jul/2016
 
 \lx tuturutuu
 \ph tuturutuː
@@ -40215,13 +40219,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to remove clothing
 \xv Wɔɩ fʋ atadɩɛ amʋ ba mɩanfwɩ mʋ́.
 \xe Take off your dress and bring it to me so that I can wash it.
-\se wɔɩ tɩa
-\ge sit down hard
-\sd 7.1.1
-\de to sit down hard and suddenly
-\xv Nɩ kebi dɛ mʋ yin han, omenya atɔ abwɛlɛ a, nɩ mʋ yin ɔyɛkɩta mʋ a, ɔtɛkplʋn wa mʋ ɔbɛɛ, "Wɔɩ tɩa asɩ afusi mɩ han".
-\xe If a child is bothering his mother, so that she can't get anything done, if his mother catches him she shouts at him and says, Sit down and stop troubling me.
-\dt 11/Jul/2014
+\dt 19/Jul/2016
 
 \lx wɔɩ
 \hm 2
@@ -40247,9 +40245,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge flop down
-\sd 7
+\sd 7.1.2
+\sd 8.4.8.3
 \de to sit down hard and suddenly
-\dt 30/Jun/2014
+\xv Nɩ kebi dɛ mʋ yin han, omenya atɔ abwɛlɛ a, nɩ mʋ yin ɔyɛkɩta mʋ a, ɔtɛkplʋn wa mʋ ɔbɛɛ, "Wɔɩ tɩa asɩ afusi mɩ han".
+\xe If a child is bothering his mother, so that she can't get anything done, if his mother catches him she shouts at him and says, Sit down and stop troubling me.
+\dt 19/Jul/2016
 
 \lx wɔlɩ
 \hm 1
@@ -40276,14 +40277,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge crawl
-\sd 7.1.1
+\sd 7.2.1.1.2
+\sd 2.6.4.1
 \de to crawl on all fours
 \rf Tape:8-1-333
 \xv Kebi amʋ tamanatɩ tamɛ ɔtɔwɔlɩ.
 \xe The child doesn't walk, but he crawls.
 \bb Stewart List:2099
 \bb SIL-AWL:0158
-\dt 04/Feb/2016
+\dt 19/Jul/2016
 
 \lx wɔlʋ
 \ph wɔlʊ(H)
@@ -40358,13 +40360,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 5
 \ge weak
 \sd 2.4.2
-\sd 7
-\sd 2.5.1
-\sd 2.5.4
 \de to become weak
 \xv Nakɩ anwunsʋ lawa ɔpa dʋbɩ. Mɩ oboyi lawu.
 \xe I have looked up for too long. My neck has gotten stiff.
-\dt 18/Jul/2016
+\dt 19/Jul/2016
 
 \lx wuli
 \ph wúli
@@ -40663,9 +40662,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge be slow
-\sd 7.1.1
+\sd 7.2.1.2.1
 \de to be slow
-\dt 23/Jun/2014
+\dt 19/Jul/2016
 
 \lx wʋlʋ
 \ph wʊlʊʔ
@@ -41410,16 +41409,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph yɪlɔ́wɪʔ
 \ps v
 \sn
-\ge slow down
-\sd 7
-\sd 7.1.1
+\ge careful
+\sd 6.1.2.3.
 \de take care
 \rf Tape:8-1-410
 \xv Yɩlɔwɩ kplɩ ɩbʋ amʋ, ɩnʋ bʋ ɔplɩ.
 \xe Take care coming down the mountain it is slippery there.
 \xv Ɔdɔtɔpʋ odua ɔtamayɩlɔwɩ a, otokun ɩwɩ atɔ.
 \xe A farmer who does not take care, cuts himself.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx yɩraka
 \ph yɪ́ráka
@@ -41564,10 +41562,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge weak
 \sd 2.4.2
-\sd 7
 \sd 2.5.1
 \de weak
-\dt 17/May/2016
+\dt 19/Jul/2016
 
 \lx yula
 \ph yúlá
