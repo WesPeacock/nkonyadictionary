@@ -3817,9 +3817,9 @@
 \sn
 \ge maize silk
 \sd 6.2.1.1.3
-\sd 1.1.5
+\sd 1.5.5
 \de maize silk (hair)
-\dt 16/Jul/2016
+\dt 19/Jul/2016
 
 \lx atukeke
 \ph atukéke
@@ -6947,7 +6947,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge metal
-\sd 6.2.8
+\sd 6.6.2.3
+\sd 1.2.2.3
 \de metal
 \rf Tape:2-1-269
 \xv Matsu oyi ɔtʋ amʋ, mboun tsu datɔ klɛ amʋ.
@@ -6963,7 +6964,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:1032
 \pl adatɔ
 \plph adátɔ (L)
-\dt 13/Jun/2014
+\dt 19/Jul/2016
 
 \lx datu
 \ph datu
@@ -12605,6 +12606,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge Volta Lake
 \sd 9.7.2
+\sd 1.3.1.3
 \de Volta River; Volta River
 \va Lɩn
 \se ɩlɩnsʋ
@@ -12615,7 +12617,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de in the Volta River
 \xv Bɛlɛ nkuku lɩntɔ.
 \xe Nkuku are caught in the lake.
-\dt 05/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɩlɩn
 \hm 2
@@ -17042,7 +17044,8 @@ cf fonflo
 \ps v
 \sn 1
 \ge sniff
-\sd 5.7.3
+\sd 2.1.1.3
+\sd 2.3.4
 \de to sniff something
 \rf Tape:3-2-542
 \xv Ɔdɛ asɩra kpɩ.
@@ -17051,7 +17054,8 @@ cf fonflo
 \ps v
 \sn 2
 \ge suck
-\sd 1.1.3
+\sd 2.1.1.4
+\sd 5.2.2.7
 \de to suck something
 \rf Tape:3-2-545
 \xv Mbʋbwɩ amʋ tɛkpɩ flawastɔ ntsu.
@@ -29551,7 +29555,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge path
 \sd 6.5.4.1
-\sd 1.2.1.1
 \de path, road
 \pl nkpa
 \plph ŋ͡mk͡pa
@@ -29613,7 +29616,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge junction
-\sd 1.2.1.1
 \sd 6.5.4.1
 \de more common to use Akan nkwanta
 \pl ɩkpabaɩ
@@ -29621,7 +29623,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-512
 \xv Nawie mɩ ɔkpabaɩ, sʋ abéfia.
 \xe I have reached my junction, so we will meet later.
-\dt 03/Jul/2014
+\dt 19/Jul/2016
 
 \lx ɔkpabi
 \hm 1
@@ -30409,7 +30411,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 3
 \ge teachings
-\sd 3.2.1.1
 \sd 3.6.3
 \de the things one habitually says
 \xv Kebi fónu fʋ akwɩɩpʋ ɔmɛ a, ɩbʋ alɛ ɩtamapian fʋ.
@@ -30418,7 +30419,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-101
 \bb Stewart List:0061
 \bb SIL-AWL:0025
-\dt 16/Jul/2016
+\dt 19/Jul/2016
 
 \lx ɔmɛ
 \hm 2
@@ -33283,12 +33284,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge thicken
 \sd 1.2.3.1
+\sd 5.2.1.1
 \de thicken
 \xv Koko amʋ lapi dʋbɩ, sʋ wa ntsu kpalobi mʋ́tɔ.
 \xe The porridge has thickened too much so put a little water in it.
 \xv Oputsu pihɛ bʋ ampesie agyilɛ.
 \xe Thick soup is good for eating slice.
-\dt 01/May/2016
+\dt 19/Jul/2016
 
 \lx pia
 \ph píá
