@@ -6299,7 +6299,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va ɩbʋta
 \ge boulder
-\sd 1.2.1.1
+\sd 1.2.2.2
 \de boulder
 \pl abʋta
 \plph abʊtã́
@@ -6307,7 +6307,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Anɩlɔdʋ yetsia bʋta kʋsʋ, ɩbʋ amʋsʋ.
 \xe We climbed and sat on a boulder on the mountain.
 \bb Stewart List:1025
-\dt 05/Jul/2013
+\dt 19/Jul/2016
 
 \lx bʋtɩ
 \ph bʊ́tɪ́
@@ -10778,22 +10778,22 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge cave
-\sd 1.2.1.1
+\sd 1.2.1.5
 \de cave
 \pl abwi alatɔ
 \plph abwi alatɔ(H)
 \xv Abrɛ amʋ bʋ ibwi alatɔ ɩnʋ.
 \xe The antelope is in the cave.
-\dt 13/Jul/2014
+\dt 19/Jul/2016
 
 \lx ibwi ɔbɔtɔ
 \ph ibwi ɔbɔtɔ
 \ps n
 \sn
 \ge cave
-\sd 1.2.1.1
+\sd 1.2.1.5
 \de cave
-\dt 13/Jul/2014
+\dt 19/Jul/2016
 
 \lx idu
 \ph idúʔ
@@ -12579,13 +12579,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge gorge (n)
-\sd 1.2.1.1
+\sd 1.2.1.4
 \de gorge; valley
 \rf Tape:3-1-040
 \xv ɩlan kpan ntsu
 \xe empty gorge water; a man made lake
 \bb Stewart List:1012
-\dt 23/Jun/2014
+\dt 19/Jul/2016
 
 \lx Ɩlɩn
 \hm 1
@@ -13017,7 +13017,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge forest
-\sd 1.2.1.1
+\sd 1.2.1.6
 \de forest
 \cf putu
 \ce bush
@@ -13025,7 +13025,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Kɩ alɩa ogya plɛnplɛnbi tɛtalɩ wa pʋ yile ogya.
 \xe See how a spark can set fire to a big forest.
 \bb Stewart List:1022
-\dt 12/Dec/2013
+\dt 19/Jul/2016
 
 \lx Ɩpwɛ
 \ph ɪpʷɛ
@@ -22230,14 +22230,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge junction
-\sd 1.2.1.1
 \sd 6.5.4.1
+\sd 7.5.2.1
 \de where two roads meet
 \bw Akan fi:nkwanta
 \rf Tape:5-1-280
 \xv Nɩ fʋ wie nkwanta ɩnʋ a, baɩ tsʋn gyɔpɩ sʋ.
 \xe When you come to the junction, turn right.
-\dt 22/Jul/2014
+\dt 19/Jul/2016
 
 \lx -nna
 \ph nːa(H)
@@ -23989,9 +23989,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge grit
-\sd 1.2.1.1
+\sd 1.2.2.2
 \de a soft stone that is ground and used to clean calabashes
-\dt 20/May/2016
+\dt 19/Jul/2016
 
 \lx ŋlaɩn
 \ph ŋlaɪ̃́
@@ -29526,7 +29526,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge path
-\sd 1.2.1.1
 \sd 6.5.4.1
 \sd 1.2.1.1
 \de path, road
@@ -29562,18 +29561,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I will go on a long journey.
 \se gya X ɔkpa
 \ge trace
-\sd 8
+\sd 7.2.6
 \de to trace X
 \rf Tape:5-2-507
 \ps n
 \sn 2
 \ge space
-\sd 7.2.4.1.1
+\sd 3.3.4.1
+\sd 6.1.2.9
 \de space; room; allowance
 \rf Tape:5-2-509
 \xv Ha mʋ ɔkpa.
 \xe Allow him; Let him by.
-\dt 03/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɔkpa otupʋ
 \ph ɔk͡pa otupʊ
@@ -31313,9 +31313,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe When thunder strikes it destroys things. It can even split a big tree into two.
 \se ɔprada ibwi
 \ge stone, k.o.
-\sd 1.2.1.1
+\sd 1.2.2.2
 \de a stone with a flat edge deemed to be thrown by thunder, used figuratively of onions
-\dt 16/Jul/2016
+\dt 19/Jul/2016
 
 \lx ɔprakuo
 \ph ɔprákuo(H)
@@ -31894,12 +31894,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge plain
-\sd 1.2.1.1
+\sd 1.2.1.3
 \de flat land
 \rf Tape:7-1-361
 \xv Ɔlɛkplɩ tsu ɩbʋ amʋsʋ bɛlɩɩ ɔtantasʋ.
 \xe He came down from the mountain and came and stood on the plain.
-\dt 13/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔtantra
 \ph ɔtã́ntrâʔ
@@ -31914,8 +31914,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge nail head
-\sd 1.2.1.1
-\sd 8
+\sd 6.7.5
 \de the head of a nail
 \ps n
 \sn 3
@@ -31925,7 +31924,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-453
 \xv Nasʋra atɔ amʋ nwun kpan, sʋ mɩ ɔtantra dɛ mɩ ɔsɩn.
 \xe I have carried things on my head plain, (without a pad), so the crown of my head is paining me.
-\dt 03/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɔtapʋ
 \ph ɔtapʊ́
@@ -34198,7 +34197,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bush
-\sd 1.2.1.1
+\sd 1.2.1.6
 \de bush
 \cf ɩpʋ2
 \ce forest
@@ -34207,7 +34206,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔyasʋbi amʋ ɔyɔ pututɔ.
 \xe The gentle man is going to the bush.
 \xe The gentle man is going for hunting.
-\dt 09/Nov/2015
+\dt 19/Jul/2016
 
 \lx putuputu
 \ph pútúpútú
