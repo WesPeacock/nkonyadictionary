@@ -15831,9 +15831,10 @@ cf fonflo
 \ps ADV
 \sn
 \ge continuously
-\sd 8.4.6
+\sd 9.4.1.2
+\sd 8.4.7
 \de continuously
-\dt 22/Jun/2014
+\dt 19/Jul/2016
 
 \lx koun
 \ph kóṹː
@@ -30336,9 +30337,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge lateness
-\sd 8.4.6
+\sd 8.4.5.3.3
 \de to be late
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔmatoyin
 \ph ɔmátṍyĩ́ʔ
@@ -34886,11 +34887,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 2
 \ge stop
-\sd 8.4.6
+\sd 8.4.6.1.2
 \de to stop
 \xv Si bwɛ!
 \xe Stop doing that!
-\dt 01/Jun/2016
+\dt 19/Jul/2016
 
 \lx si
 \hm 2
@@ -35206,7 +35207,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:2501
 \se sin ɔma
 \ge late
-\sd 8.4.6
+\sd 8.4.5.3.3
 \de to be late
 \dt 19/Jul/2016
 
@@ -38383,7 +38384,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 2
 \ge start
-\sd 8.4.6
+\sd 8.4.6.1
 \de to suddenly start
 \rf Tape:7-2-340
 \xv Ɔlɔpʋ ansɩpɛ tsii ɔsɩrɩ gya Ologyo ɔkpa.
@@ -38399,7 +38400,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-350
 \xv Ogya amʋ detsii ɔswɩtɔ.
 \xe The fire is burning on the hearth.
-\dt 11/Nov/2015
+\dt 19/Jul/2016
 
 \lx tsii
 \hm 2
@@ -39592,12 +39593,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:2772
 \se wa ogya
 \ge set alight
-\sd 8.4.6
+\sd 5.5.1
+\sd 5.5.4
 \de to set something on fire
 \bb Stewart List:2533
 \se wa bɩ
 \ge continue
-\sd 8.4.6
+\sd 8.4.7
 \de to continue doing something wa X bɩ
 \rf Tape:8-2-115
 \xv Ɔlɔwa gyi bɩ.
@@ -39685,7 +39687,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-174
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
-\dt 18/Jul/2016
+\dt 19/Jul/2016
 
 \lx wa bɩ
 \ph wá bɪ
@@ -39702,12 +39704,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge continue
-\sd 8.4.6
+\sd 8.4.7
 \de to continue an action already started
 \rf Tape:8-2-115
 \xv Ɔlɔwa gyi bɩ.
 \xe He continued eating.
-\dt 16/Jul/2016
+\dt 19/Jul/2016
 
 \lx wa lala
 \ph wá laláʔ
