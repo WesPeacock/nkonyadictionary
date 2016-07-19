@@ -8727,7 +8727,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge wet
-\sd 1.3.1.4
+\sd 1.3.3
 \de be wet
 \xv Mɩ tati lafɔ sʋ nɛyɛfɩta mʋ́.
 \xe My cloth is wet therefore am going to dry it.
@@ -8735,7 +8735,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The man fell into the river so his shirt / trousers are wet.
 \bb Stewart List:1701
 \bb Stewart List:2261
-\dt 17/Jun/2014
+\dt 19/Jul/2016
 
 \lx fɔ
 \hm 2
@@ -9329,7 +9329,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge shore
-\sd 1.3.1.3
+\sd 1.3.1.1
 \de sea shore
 \pl agbengbe
 \plph ag͡bẽŋ͡mg͡bé
@@ -9337,7 +9337,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe We have much sand on the seashore.
 \xv Nɩ fɛkɩ ntsu gbengbe a, fʋmɛtalɩ nun mʋ́tɔ ntsu ɩnʋ.
 \xe If you look at the river bank you can't drink water there.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx gblaa
 \ph g͡blaːʔ
@@ -10747,8 +10747,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge well
-\sd 1.3.1.3
-\sd 5.2.3.6
+\sd 1.3.1.4
+\sd 6.6.7.2
 \de well of water
 \pl abun
 \plph abṹ
@@ -10756,7 +10756,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ibun amʋ bʋ oklu, sʋ mmɛ́ɛtalɩ sa ntsu amʋ. Tsufɛsɛ, mɩ ɔfɛ amʋ mɔ́ɔfʋn.
 \xe The well is deep so I cannot draw water from it because my rope will not reach.
 \bb Stewart List:1169
-\dt 12/Jul/2014
+\dt 19/Jul/2016
 
 \lx ibwi
 \ph ibwi (H)
@@ -17059,9 +17059,10 @@ cf fonflo
 \ps vi
 \sn 3
 \ge evaporate
-\sd 1.3.1.4
+\sd 1.2.3
+\sd 1.3
 \de to evaporate (of a liquid)
-\dt 02/Nov/2015
+\dt 19/Jul/2016
 
 \lx kpɩ
 \hm 2
@@ -22765,7 +22766,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn 1
 \ge water
-\sd 1.3.1
+\sd 1.3
 \de water
 \nt in context the previous vowel will be nasalized
 \rf Tape:5-1-422
@@ -22786,7 +22787,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Ntsu tamatsʋn anɩ nsɩnɛ.
 \xe Water doesn't pass between us. We are in harmony.
 \nt idiom
-\dt 18/Jul/2016
+\dt 19/Jul/2016
 
 \lx ntsú
 \ph nt͡sú(H)
@@ -22876,13 +22877,13 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge water source
-\sd 1.3.1.3
+\sd 1.3.1.4
 \sd 5.2.3.6
 \de a place to fetch water from, river, well, spring, pipe, etc.
 \rf Tape:5-1-429
 \xv Ntsu lalan, sʋ abótua yɔ ntsutso ɔkɛ.
 \xe Water is scarce so we will get up early and go to the water source tomorrow.
-\dt 16/Jun/2014
+\dt 19/Jul/2016
 
 \lx ntswɩasɩ
 \ph nt͡swɪasɪ
@@ -27081,7 +27082,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge hot water
-\sd 1.3.1
+\sd 1.3
+\sd 8.3.4
+\sd 5.2.2.7
+\sd 5.2.1.1
+\sd 5.6.2
 \de hot water
 \cf ntsu
 \ce water
@@ -27090,14 +27095,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Aha kʋ bʋtekle otsugya bie lɩlɩtɔ dʋn otsulu, tsufɛ nsaɩtɔ tolwii.
 \xe Some people like to bath hot water in the harmattan season than cold water because the weather becomes cold.
 \bb Stewart List:1658
-\dt 24/Dec/2013
+\dt 19/Jul/2016
 
 \lx otsulu
 \ph ot͡sulúʔ
 \ps n
 \sn
 \ge cold water
-\sd 1.3.1
+\sd 1.3
+\sd 8.3.4.1
+\sd 5.6.2
 \de cold water
 \cf ntsu
 \ce water
@@ -27106,7 +27113,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ ɔha ɩwɩ blɩ ogya obie otsulu a, ɩwɩ tolwii mʋ dʋn nɩ obie otsugya.
 \xe When a person's body is hot and he baths cold water his body becomes cool than to bath hot water.
 \bb Stewart List:1657
-\dt 24/Dec/2013
+\dt 19/Jul/2016
 
 \lx otua
 \ph otua(L)
@@ -30885,7 +30892,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de the top of a tree
 \se ɔpʋ ɔnɔ
 \ge shore
-\sd 1.3.1.3
+\sd 1.3.1.1
 \sd 8.6.6
 \de shoreline of the sea
 \ps n
@@ -31374,7 +31381,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sea
-\sd 1.3.1.3
+\sd 1.3.1.1
 \de sea
 \rf Tape:6-1-351
 \xv Ɔpʋtɔ iye ɩbʋ ɔdwɛ.
@@ -31384,18 +31391,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ fɔ́yɔ Nkran a, ma yɔ ɔpʋ ɔnɔ Branda, tsufɛ ɔpʋ bɛ́talɩ kɩta fʋ.
 \xe If you go to Accra, don't go to the sea on Tuesdays, because you may get drown.
 \bb Stewart List:1007
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔpʋ ɔnɔ
 \ph ɔpʊ ɔnɔ́
 \ps n
 \sn
 \ge beach
-\sd 1.3.1.3
+\sd 1.3.1.1
 \de seashore
 \cf ɔnɔ
 \ce mouth (sense #3)
-\dt 23/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔpʋnʋ
 \ph ɔpʊ́nʊ́
@@ -33117,14 +33124,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge pond
-\sd 1.3.1.3
+\sd 1.3.1.2
 \de pond; swamp
 \pl apatɩ
 \plph apaːtɪ(H)
 \xv Abʋtɩ bʋtetsia patɩtɔ, ɩnɩsʋ patɩtɔ plei ma alɩ.
 \xe Pythons live in swampy places therefore to play in a swampy place is not good.
 \bb Stewart List:1021
-\dt 01/Oct/2015
+\dt 19/Jul/2016
 
 \lx paya
 \ph páya
@@ -33997,12 +34004,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge sopping
-\sd 1.3.1.4
+\sd 1.3.3
 \de very wet
 \xv Nyankpʋ lada mʋ. Alafɔ pɔsɩɩ.
 \xe It rained on him. He was sopping wet.
 \bb Stewart List:1701
-\dt 01/Jul/2014
+\dt 19/Jul/2016
 
 \lx prɛntʋa
 \ph prɛntʊa(H)
@@ -34127,9 +34134,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge draw water
 \sd 1.3.1.4
-\sd 6.7.3
+\sd 6.6.7.2
 \de to draw water
-\dt 04/Jul/2014
+\dt 19/Jul/2016
 
 \lx punya
 \ph púɲá
@@ -34492,7 +34499,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge draw
 \sd 1.3.1.4
-\sd 6.7.3
+\sd 6.6.7.2
 \de to draw a liquid
 \nt used with liquids and solids that can pour; kpoli (corn), ɩsɩ (dirt), ntsu (water), nfɔ (oil)
 \xv Sa ntsu ba apʋnɩna atɔ.
@@ -34503,7 +34510,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The palm wine that you have fetched is too much.
 \bb Stewart List:2668
 \bb Stewart List:2849
-\dt 04/Jul/2014
+\dt 19/Jul/2016
 
 \lx sa
 \hm 2
@@ -40508,6 +40515,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge sprinkle
 \sd 1.3.2.3
+\sd 6.2.3
 \de sprinkle a liquid, sow seed
 \rf Tape:8-1-278
 \xv Ayɔ osumkpa a, bʋtowunya ntsu wʋlɩ anɩ.
@@ -40515,6 +40523,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt This is done both by Catholics and fetish worshippers.
 \se owunyapʋ
 \ge sower
+\sd 6.2.3
 \sd 1.3.2.3
 \de someone who sprinkles water or sews seeds
 \bb Stewart List:2496
@@ -40523,11 +40532,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge float (in air)
 \sd 1.3.2.3
+\sd 1.1.3.1
 \de to float seeds in the wind
 \rf Tape:8-1-373
 \xv Kɛlɩ oyi amʋ tuntu amʋ ɩtɛfa wunya dantapʋ.
 \xe Silk cotton tree's fruit burst and spreads fluff.
-\dt 03/Nov/2015
+\dt 19/Jul/2016
 
 \lx Wurupong
 \ps PropN
@@ -40607,7 +40617,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 1
 \ge dry
-\sd 1.3.1.4
+\sd 1.3.3.1
 \de to dry or wither
 \cf ɔmɛwʋlɩ
 \ce thirsty
@@ -40623,7 +40633,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He is worrying about the matter too much so he is becoming lean.
 \bb Stewart List:2067
 \bb Stewart List:2210
-\dt 01/May/2016
+\dt 19/Jul/2016
 
 \lx wʋlɩ
 \hm 2
