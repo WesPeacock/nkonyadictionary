@@ -1386,13 +1386,12 @@
 \ps n
 \sn
 \ge prostitute
-\sd 6.8.4.8
-\sd 2.6.1
+\sd 2.6.2.3
 \de prostitute
 \bw Akan fi:adwama LLH
 \xv Agywama ɔbɔpʋ ogyi.
 \xe She is a prostitute.
-\dt 28/Apr/2016
+\dt 22/Jul/2016
 
 \lx agywɩɩn
 \ph aʤwɪ̃ː(H)
@@ -1959,12 +1958,12 @@
 \ps n
 \sn
 \ge calculations
-\sd 6.8.4.8
+\sd 6.8.7
 \de to put things together
 \bw English fi:account
 \xv Nɩ fʋmeyin akunta a, fʋmɛtalɩ yɔ kɔba ɔyaɩkpa.
 \xe If you don't know calculations you can't go to the bank.
-\dt 11/Jun/2014
+\dt 22/Jul/2016
 
 \lx akʋkrʋwa
 \ph akʊkrʊwa(H)
@@ -4630,12 +4629,12 @@
 \sn 2
 \nt check for glottal stop
 \ge expensive
-\sd 6.8.4.8
+\sd 6.8.4.3.1
 \de expensive
 \xv Tati amʋ Akua lɔhɔ amʋ bʋ bia.
 \xe The cloth that Akua bought is expensive.
 \bb Stewart List:1706
-\dt 09/Nov/2015
+\dt 22/Jul/2016
 
 \lx bia
 \hm 2
@@ -4718,7 +4717,8 @@
 \ps n
 \sn
 \ge market day
-\sd 8.4.1.1.3.1
+\sd 8.4.1.1
+\sd 8.4.1.3.1
 \sd 6.8.4.8
 \de market day
 \nt Market days in the Nkonya area rotate on a four day cycle. Kpando, Abotoasi, Kwamekrom/Bumbilla, Ahenkro.
@@ -4726,7 +4726,7 @@
 \xe When is Abotoasi market day? I want to go buy a goat.
 \cf bia1 1
 \ce market
-\dt 17/May/2016
+\dt 22/Jul/2016
 
 \lx biam
 \ph biam(L)
@@ -8070,15 +8070,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge water yam
 \sd 6.2.1.2
-\sd 6.8.4.8
-\sd 5.2.3.4
 \de water yam
 \pl afaasɩ
 \plph afaːsɪ (H)
 \rf Tape:2-1-448
 \xv Faasɩ tɔyɔpɔn dʋn igyo, sʋ megyi mʋ́ fɛ́ɛ́ bʋtɔpʋ wɔ fufu. Ɩbʋ alɛ ha nyɔmba.
 \xe Water yam is softer than yam so all of it isn't good for making fufu. It is good for nyɔmba.
-\dt 12/Jul/2014
+\dt 22/Jul/2016
 
 \lx Fada
 \ph fáda
@@ -8837,10 +8835,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge buy on credit
-\sd 6.8.4.8
+\sd 6.8.5.5
 \de to buy on credit
 \bb Stewart List:3203
-\dt 17/Jun/2014
+\dt 22/Jul/2016
 
 \lx fuli
 \hm 2
@@ -9645,15 +9643,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge prostitute
-\sd 6.8.4.8
-\sd 2.6.1
+\sd 2.6.2.3
 \de a woman that does not stay with one man
 \pl agyantra
 \plph aʤantra
 \bw Akan fi:gyantra ni
 \xv Ɔtsɩ anfɩ labwɛ gyantra alɩɩ pʋ kɩ mʋ abisʋ.
 \xe This woman has been a prostitute till she has been able to care for her children.
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx gyasɩɛpɛ
 \ph ʤasɪɛpɛʔ
@@ -9752,9 +9749,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \ge bargain
 \sd 6.8.4.8
+\sd 6.8.4.4
 \lt eat market
 \ge trade
-\sd 6.8.4.4
 \de to buy or sell in a market
 \de to bargain for a price
 \rf Tape:2-2-228
@@ -9832,7 +9829,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 4.6.1
 \de to rule as chief
 \lt eat chieftaincy
-\dt 21/Jul/2016
+\dt 22/Jul/2016
 
 \lx gyi
 \hm 2
@@ -10207,12 +10204,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge lease
-\sd 6.8.4.8
+\sd 6.8.5
 \de lease
 \bw English fi:hire
 \xv Ohian kʋkʋlɛ anfɩsʋ ayin fɛ́ɛ́ bamlɩ ɔsʋlʋ ahaɩpʋ.
 \xe Because of poverty all men have become land leasers.
-\dt 03/Oct/2015
+\dt 22/Jul/2016
 
 \lx hala
 \ph hala
@@ -10711,20 +10708,20 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge price
-\sd 6.8.4.8
+\sd 6.8.4.3
 \de the price of something
 \ps n
 \sn 3
 \ge value
-\sd 6.8.4.8
+\sd 8.3.7.9
 \de value of something
 \se bʋ bia
 \ge valuable
-\sd 6.8.4.8
+\sd 6.8.7.9
 \de to be valuable
 \xv Abuto wʋlɩhɛ amʋ bʋ bia dʋbɩ.
 \xe The old beads are very expensive.
-\dt 05/Feb/2016
+\dt 22/Jul/2016
 
 \lx ibian
 \ph ibiã
@@ -11051,14 +11048,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge pile
-\sd 6.8.4.8
+\sd 8.1.3.3
 \de a pile or heap of something
 \rf Tape:2-2-400
 \se akuaku
 \ge arranged piles
 \xv Nɔyɔ a, bɔbʋa mankani amʋ akuaku. Mʋ́ʋ́ nɛkpa iku kʋlɛ.
 \xe When I went they had set the mankani in piles. And then I collected one pile.
-\dt 18/Jul/2016
+\dt 22/Jul/2016
 
 \lx ikwe
 \ph ikwe
@@ -11406,12 +11403,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge pile
-\sd 6.8.4.8
+\sd 8.1.3.3
 \de pile or heap
 \pl atsu
 \plph at͡sú
 \nt older Nkonya form; iku (Akan) is heard more often)
-\dt 04/Jul/2014
+\dt 22/Jul/2016
 
 \lx itu
 \ph itúʔ
@@ -12414,7 +12411,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge debt
-\sd 6.8.4.8
+\sd 6.8.5.3
 \de debt
 \pl akɔ
 \plph akɔ
@@ -12427,7 +12424,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Don't pay back evil for evil.
 \cf ka ɩkɔ
 \ce pay a debt
-\dt 05/Nov/2015
+\dt 22/Jul/2016
 
 \lx ɩkpɩ
 \ph ɪk͡pɪ(H)
@@ -12708,9 +12705,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge inexpensive
-\sd 6.8.4.8
+\sd 6.8.4.3.2
 \de the price is low
-\dt 26/Jun/2014
+\dt 22/Jul/2016
 
 \lx ɩmɛ
 \ph ɪmɛ
@@ -13748,13 +13745,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge payment
-\sd 6.8.4.8
+\sd 6.8.5.4
 \de payment of a debt incurred; reward; wage
 \xv Nɩ fʋmɔdɔ ta a, fʋma ɩkɔka.
 \xe If you don't finish weeding you won't get wages.
 \xv Nɩ fʋmɔdɔ ta a, mmɛ́ɛka fʋ kɔ.
 \xe If you don't finish weeding I won't pay you.
-\dt 08/Feb/2014
+\dt 22/Jul/2016
 
 \lx ka ɩwɩ lɛ
 \ph ká ɪwɪ lɛ́ʔ (H)
@@ -13924,9 +13921,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge pay
-\sd 6.8.4.8
+\sd 6.8.5.4
 \de to give money for something bought
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx kala
 \ph kálá
@@ -15149,9 +15146,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 4
 \ge count
-\sd 6.8.4.8
+\sd 8.1.2
 \de to count, reciting numbers
-\dt 19/May/2016
+\dt 22/Jul/2016
 
 \lx kla
 \hm 2
@@ -19378,13 +19375,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 3
 \ge inexpensive
-\sd 6.8.4.8
+\sd 6.8.4.3.2
 \de to be inexpensive; plentiful
 \rf Tape:4-1-532
 \xv Fʋ atɔfɛhɛ amʋ lɛlɩn. Mʋ́ bia ma ɔnlɩn.
 \xe The things you are selling are cheap. Their prices are low.
 \bb Stewart List:1707
-\dt 02/Nov/2015
+\dt 22/Jul/2016
 
 \lx lɩn
 \hm 2
@@ -19802,15 +19799,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge cocoyam
 \sd 6.2.1.2
-\sd 6.8.4.8
-\sd 5.2.3.4
 \de cocoyam; taro
 \pl amankani
 \plph amaŋkani
 \rf Tape:4-2-002
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bush pigs have eaten all of my cocoyam in the farm.
-\dt 16/Jun/2014
+\dt 22/Jul/2016
 
 \lx mankɩnsɩ
 \ph mãŋkɪ̃nsɪ
@@ -29028,15 +29023,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cocoyam seed
 \sd 6.2.1.2
-\sd 6.8.4.8
-\sd 5.2.3.4
 \de the hard part of cocoyam which can not be eaten if it is cooked
 \rf Tape:5-2-372
 \xv Mankani amʋ lawa ɔgɔn, ɩma alɛ ha nɩna.
 \xe The cocoyam has become hard and it is not good for cooking.
 \xv Mankani tɔwa ɔgɔn tsu mʋ́ otse amʋsʋ. Nɩ fʋmɔwa ɔsa puli mʋ́ a, mankani amʋ fɛ́ɛ́ bɔ́wa ɔgɔn. Fówun lakwɛkwɛ.
 \xe Cocoyam makes hard from where the cocoyam tubers is attached to the main bulb. If you don't uproot it early, all the cocoyam will become hard. Then it will sprout.
-\dt 16/Jun/2014
+\dt 22/Jul/2016
 
 \lx ɔgywɩyaa
 \ph ɔʤwɪ́yǎʔ
@@ -33059,7 +33052,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge borrow
-\sd 6.8.4.8
+\sd 6.8.5
 \de to borrow s.t.
 \xv Mma atogyihɛ sʋ nayɛpan ɩkʋ mɩ nyawie ɔkʋ wa ánɩ́ nenya a, nɔ́pʋ ya mʋ.
 \xe I don't have food so I have borrowed some from a friend so that when I get some I will take it back.
@@ -33069,7 +33062,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge lend
-\sd 6.8.4.8
+\sd 6.8.5.1
 \de to lend s.t.
 \bb Stewart List:1437
 \bb Stewart List:3206
@@ -33078,7 +33071,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge thank
 \sd 3.5.1.7.1
 \de to thank s.o.
-\dt 21/Jul/2016
+\dt 22/Jul/2016
 
 \lx pan
 \hm 2
@@ -34409,11 +34402,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge sell on credit
-\sd 6.8.4.8
+\sd 6.8.5.5
 \de to sell on credit
 \bb Stewart List:3203
 \bb Stewart List:3204
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx pʋ tsia
 \ph pʊ t͡sia
@@ -38148,8 +38141,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge exchange
-\sd 6.8.1.1
-\sd 6.8.4.8
+\sd 6.8.4.9
 \de to exchange one thing for another
 \rf Tape:7-2-245
 \xv Anɩdɛtɔɩ alɩɩ a, bɛtsɛ ɔnɔ wa mɩ.
@@ -38171,7 +38163,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The world is like chameleon's skin it always changes.
 \nt proverb
 \rf Tape:6-2-002
-\dt 03/Nov/2015
+\dt 22/Jul/2016
 
 \lx tsɛ
 \hm 2
@@ -39237,8 +39229,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to chase a bird by throwing something at it
 \se tswɩ kɩta
 \ge pounce
-\sd 6.3.1
-\sd 6.8.4.8
+\sd 4.8.2.3.1
 \de to dive upon; to pounce upon
 \rf Tape:7-2-546
 \rf Tape:7-2-547
@@ -39247,7 +39238,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se ɩtswɩ
 \ge dash (n)
 \sd 6.8.4.8
-\sd 4.1
+\sd 6.8.3.1
 \sd 6.8.4.4
 \de a small gift added to something purchased
 \rf Tape:7-2-550
@@ -39269,7 +39260,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 7.1.1
 \sd 6.5.4.1
 \de to dive into something
-\dt 15/Jun/2016
+\dt 22/Jul/2016
 
 \lx tswɩ lala
 \ph t͡swɪ lala
