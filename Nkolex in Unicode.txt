@@ -507,7 +507,7 @@
 \ps n
 \sn
 \ge family
-\sd 4.1.9
+\sd 4.1.9.8
 \de family
 \ph mbusuan
 \ph mbusuã(H)
@@ -519,16 +519,16 @@
 \ce family people
 \nt Not literally, but in terms of obligation. That's why people don't trade in town, because everyone claims they are family and should get a reduced price. So you end up with no profit.
 \nt Father (ɔsɩ/sɩ), Mother (oyin/yin), child (kebi), baby (kebi bɔbwɛ), daughter(obitsibi), girl (otsibi), boy (oyinbi),
-\dt 29/Oct/2013
+\dt 20/Jul/2016
 
 \lx abusuanfɔ
 \ph abusuãfɔ́
 \ps n
 \sn
 \ge family
-\sd 4.1.9
+\sd 4.1.9.8
 \de the people that make up a family
-\dt 11/Jun/2014
+\dt 20/Jul/2016
 
 \lx abususʋ
 \ph abususʊ
@@ -1647,9 +1647,9 @@
 \ps n
 \sn
 \ge great grandchildren
-\sd 4.1.9
+\sd 4.1.9.1.5
 \de great, great, great grandchild
-\dt 24/Dec/2013
+\dt 20/Jul/2016
 
 \lx Aklɩfɔ
 \ph aklɪ́fɔ́ (H)
@@ -4869,25 +4869,26 @@
 \ps n
 \sn
 \ge marriage ceremony
-\sd 4.1.9
+\sd 2.6.1.2
 \de final marriage ceremony
 \na A ceremony performed many years into a successful marriage. Alcoholic drinks are given to all the community.
-\dt 02/Nov/2015
+\dt 20/Jul/2016
 
 \lx bite
 \ph bíté
 \ps n
 \sn
 \ge first born
-\sd 4.1.9
+\sd 4.1.9.1.4
+\sd 8.4.5.1.2
 \de first born
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx bitɛpʋ
 \ph bitɛpʊ(H)
 \ps n
 \sn 1
-\sd 4.1.9
+\sd 4.1.9.1.8
 \ge nephew / niece
 \va obitɛpʋ
 \vaph obitɛpʊʔ
@@ -4898,14 +4899,14 @@
 \ps n
 \sn 2
 \ge uncle
-\sd 4.1.9
+\sd 4.1.9.1.6
 \de brother of child's mother
 \rf Tape:1-1-229
 \xv Nkonyafɔ bʋtegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋtegyi abitɛpʋ klɛ.
 \xe Nkonyas inherit fathers' possessions, but Ashantis inherit their maternal uncle's.
 \xv Bɔ́pʋ owie pɔpwɛ amʋ ya mʋ bitɛpʋ ánɩ́ ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
-\dt 28/Apr/2016
+\dt 20/Jul/2016
 
 \lx bitiwie
 \ph bitíwíé
@@ -10689,12 +10690,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge offspring
-\sd 4.1.9
+\sd 4.1.9.1.4
 \de offspring of an animal
 \pl abi
 \plph abí (H)
 \bb Stewart List:0860
-\dt 02/Nov/2015
+\dt 20/Jul/2016
 
 \lx ibia
 \ph ibíá(H)
@@ -11764,15 +11765,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 5.6.2
 \sd 6.5.1.4
 \de a plant that is grown for medicine in the wash area
+\xv Bʋtamayinta ɩbantɔfa.
+\xe They never spoil plants grown in the wash area.
 \ps n
 \sn 2
 \ge family wife
-\sd 4.1.9
+\sd 4.1.9.2.1
 \de a wife that is given from the family
 \na One must take care of such a wife very well because to spoil such a marriage brings enmity between family members. Just as if you destroy a plant carefully tended in the wash area. It would not be available when needed for a sick person.
-\xv Bʋtamayinta bantɔfa.
-\xe They never spoil plants grown in the wash area.
-\dt 20/May/2016
+\dt 20/Jul/2016
 
 \lx ɩbɛ
 \ph ɪbɛʔ(H)
@@ -12630,9 +12631,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge generation
-\sd 4.1.9
+\sd 4.1.9.1
 \de generation
-\dt 23/Jun/2014
+\dt 20/Jul/2016
 
 \lx ɩlɩn
 \hm 3
@@ -15335,11 +15336,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge step-child
-\sd 2.6.4.2
-\sd 4.1.9.6
+\sd 4.1.9.1.4
 \de step child
 \lt armpit child
-\dt 20/May/2016
+\dt 20/Jul/2016
 
 \lx klɛ
 \ph klɛ
@@ -16292,14 +16292,14 @@ cf fonflo
 \ps v
 \sn
 \ge bring home
-\sd 4.1.9
-\sd 2.6.1
+\sd 4.1.9.2.1
+\sd 2.6.1.2
 \de to bring your wife to live at your house
 \rf Tape:3-2-400
 \xv Ndɛ nakpain mɩ ka ba mɩ woyitɔ.
 \xe Today I have brought my wife to my house.
 \bb Stewart List:2203
-\dt 13/Jul/2014
+\dt 20/Jul/2016
 
 \lx kpaɩn
 \hm 2
@@ -16572,11 +16572,11 @@ cf fonflo
 \ps PropN
 \sn
 \ge Konkombas
-\sd 4.1.9
+\sd 9.7.1.4
 \de Konkomba people
 \sg Kpankpanmayin
 \ph k͡pãk͡pãŋ͡mayîʔ
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx kpankpli
 \ph k͡pãk͡pli
@@ -16592,13 +16592,13 @@ cf fonflo
 \ps n
 \sn
 \ge bachelor
-\sd 4.1.9
+\sd 2.6.1.3
 \de bachelor
 \pl akpankʋ
 \plph ak͡paŋkʊ(H)
 \xv Kwasi gyi kpankʋ tsu mʋ nyebitɔ ɔpá.
 \xe Kwasi has been a bachelor since his youth.
-\dt 31/May/2016
+\dt 20/Jul/2016
 
 \lx kpanpuli
 \ph k͡pãpulí
@@ -17860,12 +17860,13 @@ cf fonflo
 \ps n
 \sn
 \ge younger same sex sibling
-\sd 4.1.9
+\sd 4.1.9.1.3
+\sd 8.4.1.3.1
 \de younger same sex sibling
 \rf Tape:5-1-257
-\xv Nɩ bɔkwɩɩ ɔtsɩ Kuoda, bɛtra kwɩɩ ɔtsɩ buo mʋ Kuoda a, bʋtɛtɩ kebi amʋ Akuakuma.
+\xv Nɩ bɔkwɩɩ ɔtsɩ Kuoda, bɛtra kwɩɩ ɔtsɩ buo mʋ Kuoda a, bʋtɛtɩ kebi amʋ Akua kuma.
 \xe If they bear a girl on Wednesday, and the next child is also a girl born on Wednesday they call the child Akuakuma.
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx kun
 \ph kũʔ
@@ -18538,13 +18539,13 @@ cf fonflo
 \ps n
 \sn
 \ge Akan
-\sd 4.1.9
+\sd 9.7.1.4
 \de Akan (Twi) language
 \se Kwawufɔ
 \ge Akans
 \de speakers of the Akan (Twi) language
 \nt Kwawu draws its name from the Akan people whose capital is Abene, near Abetifi.
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx kwebi
 \ph kwebi
@@ -19754,9 +19755,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps VOC
 \sn
 \ge mother
-\sd 4.1.9
+\sd 4.1.9.1.2
 \de way of calling your mother
-\dt 06/Nov/2015
+\dt 20/Jul/2016
 
 \lx mama
 \hm 2
@@ -21189,13 +21190,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge aunt
-\sd 4.1.9
+\sd 4.1.9.1.6
 \de mother's older sister
 \pl anakuma
 \plph anakuma
 \xv Mɩ atasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
 \xe My paternal aunts has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because they are not from the same family.
-\dt 13/Aug/2013
+\dt 20/Jul/2016
 
 \lx nambi
 \ph nambí
@@ -21245,7 +21246,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 1
 \ge grandfather
-\sd 4.1.9
+\sd 4.1.9.1.1
 \de grandfather, vocative form
 \rf Tape:4-2-531
 \xv Nɛtɩ mɩ sɩ ntɛ mɩ yín mʋ sɩ Nanain.
@@ -21258,7 +21259,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-435
 \xv Owie ɛ nɛ́tɩ mʋ Nanain.
 \xe A chief also I will call him Nanain.
-\dt 02/Nov/2015
+\dt 20/Jul/2016
 
 \lx nani
 \ph naniʔ
@@ -21323,11 +21324,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge aunt
-\sd 4.1.9
+\sd 4.1.9.1.6
 \de mother's younger sister
 \pl anapani
 \plph anapani
-\dt 13/Aug/2013
+\dt 20/Jul/2016
 
 \lx natɩ
 \hm 1
@@ -21417,14 +21418,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge great-great-grandparent
-\sd 4.1.9
+\sd 4.1.9.1.1
 \de great-great-grandparent from several generations
 \pl anatɩna
 \plph anatɪna
 \cf ɔnain
 \ce ancestors
 \bb Stewart List:0312
-\dt 05/Nov/2015
+\dt 20/Jul/2016
 
 \lx ndakabi
 \ph ndakabi
@@ -21506,12 +21507,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge generation
-\sd 4.1.9
+\sd 2.6.4.8
 \de this generation
 \rf DS0103 035-037
 \xv Ndɛmba abi anfɩ, bʋtamabu amʋ́ akwɩɩpʋ.
 \xe Children of this generation, do not respect their parents.
-\dt 01/Feb/2014
+\dt 20/Jul/2016
 
 \lx ndobi
 \ph ndobíʔ
@@ -21773,7 +21774,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge Ewe
-\sd 4.1.9
+\sd 9.7.1.4
 \de Ewe language
 \se Nhuanfɔ
 \ph nhuãfɔ
@@ -21783,7 +21784,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sgph nhuãyĩʔ
 \cf Aklɩfɔ
 \ce Alavanyo
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx nim
 \ph nim
@@ -22079,7 +22080,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps PropN
 \sn 1
 \ge Nkonya
-\sd 4.1.9
+\sd 9.7.1.4
 \de Nkonya land
 \ps PropN
 \sn 2
@@ -22089,7 +22090,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:5-1-276
 \xv Nkonyafɔ bʋtɛblɩ Nkonya ɔblɩ.
 \xe The Nkonyas speak the Nkonya language.
-\dt 02/Nov/2015
+\dt 20/Jul/2016
 
 \lx nkɔmbɔ
 \hm 1
@@ -22194,16 +22195,17 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge girl / boyfriend
-\sd 4.1.9
+\sd 4.1.1.1
 \de sexual unmarried companion
 \xv Akua kpamba amʋ lada mʋ mɔ.
 \xe Akua's boyfriend has beaten her to death.
 \se nkpambatɔ
 \ph ŋ͡mk͡pambatɔ
 \ge unmarried
-\sd 4.1.9
+\sd 2.6.2.3
+\sd 2.6.1.3
 \de sexually active in an unmarried state
-\dt 01/Feb/2014
+\dt 20/Jul/2016
 
 \lx nkramboyin
 \ph ŋkramboyĩʔ
@@ -24400,7 +24402,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge white man
-\sd 4.1.9
+\sd 4.6.2.1
 \de white person
 \pl abrɔfɔ
 \plph abrɔfɔ́
@@ -24410,7 +24412,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-2-347
 \xv Obroni anfɩ bʋ awɩtɔlɛ dʋn ɔkʋlɛ amʋ́ʋ́ ɔlɛba nfɩ ofikʋ amʋ.
 \xe This white man is merciful than the one that came here last year.
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx obu
 \hm 1
@@ -25160,10 +25162,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ogyama
 \ph oʤamaʔ(H)
 \ps n
-\sn
-\va gyama
 \ge junior
-\sd 4.1.9
+\sn 4.1.9.1.3
+\sd 8.4.6.5.1
 \de younger sibling
 \pl agyama
 \plph aʤama
@@ -25172,9 +25173,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:2-2-190
 \xv Kwame agyama bʋtamabu mʋ, tsufɛ Kwame onuto tamabu mʋ ɩwɩ.
 \xe Kwame junior brothers don't respect him, because Kwame does not respect himself.
+\va gyama
 \cf ɔkʋsʋ
 \ce younger
-\dt 24/Dec/2013
+\dt 20/Jul/2016
 
 \lx ogyaŋɛ
 \ph oʤáŋɛ̂ʔ
@@ -25575,14 +25577,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge Nkonya
-\sd 4.1.9
 \sd 9.7.1.5
 \de an ethnic Nkonya person
 \pl Nkonyafɔ
 \plph ŋkuɲáfɔ
 \xv Nkonyafɔ bʋ tegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋ tegyi abitɛpʋ klɛ.
 \xe Nkonyas inherit their fathers' possessions, but Ashantis inherit their maternal uncle's.
-\dt 19/May/2016
+\dt 20/Jul/2016
 
 \lx okpebetsu
 \ph ok͡pebet͡suʔ
@@ -25808,7 +25809,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va kulu
 \ge husband
-\sd 4.1.9
+\sd 4.1.9.2.1
 \de husband
 \nt alternate tone HL
 \pl akulu
@@ -25820,7 +25821,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:4-1-173
 \xv Anɩ bi ɛ maha akʋn kɩta mʋ kulu mɛnɩ omóoyonun nta.
 \xe Our child, also, shouldn't let her husband to be hungry so that he won't go and drink.
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx okulu
 \hm 2
@@ -25847,7 +25848,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge marriage
-\sd 4.1.9
 \sd 2.6.1
 \de marriage to a husband
 \cf okulu1
@@ -25856,7 +25856,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce marriage
 \cf ɔka tsia
 \ce marriage
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx okumɛ
 \ph okúmɛ(H)
@@ -26642,7 +26642,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge mother/father-in-law
-\sd 4.1.9
+\sd 4.1.9.2.2
 \de parent of your spouse
 \va sia
 \vaph síá
@@ -26655,12 +26655,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge daughter/son-in-law
+\sd 4.1.9.2.2
 \de spouse of your child
 \pl asia
 \plph asíá
 \bb Stewart List:0319
 \bb Stewart List:0320
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx osiebi
 \ph osiebíʔ (H)
@@ -26815,7 +26816,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge clan
-\sd 4.1.9
+\sd 4.1.9.8
 \de clan
 \pl nsun
 \plph nsṹ
@@ -26823,14 +26824,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce head of a clan
 \xv Osun-gyi-osun mʋ́a mʋ́ ɔhandɛ. Fʋa fʋ osun abi mligyi apio dʋn osun bambatɔ abi.
 \xe Every clan with it's head. You and the members of your clan are more related than other clan members.
-\dt 24/Dec/2013
+\dt 20/Jul/2016
 
 \lx osun ɔhandɛ
 \ph osṹ ɔhandɛʔ
 \ps n
 \sn
 \ge clan head
-\sd 4.1.9
+\sd 4.1.9.8
+\sd 4.5.1
+\sd 2.6.4.5
 \de head of clan
 \pl osun ahandɛ
 \plph osṹ ɔhandɛʔ
@@ -26838,7 +26841,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce clan
 \xv Osun-gyi-osun mʋ́a mʋ́ ɔhandɛ.
 \xe Every clan with it's head.
-\dt 24/Dec/2013
+\dt 20/Jul/2016
 
 \lx osuna
 \ph osúna
@@ -26940,7 +26943,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge clan
-\sd 4.1.9
+\sd 4.1.9.8
 \de clan; neighbourhood
 \pl ntin
 \plph ntĩ
@@ -26949,7 +26952,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Our clan has communal labour today, so we will not go to farm.
 \cf osun
 \ce clan
-\dt 24/Dec/2013
+\dt 20/Jul/2016
 
 \lx otobon
 \ph otobõʔ(H)
@@ -27199,13 +27202,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PropN
 \sn
 \ge otukpe
-\sd 9.7.2
-\sd 4.1.9
+\sd 9.7.2.9
 \de a certain stream near Planki in Wurupong
 \na twins are ritually washed in Otukpe just before the chief's yam festival
 \xv Mayɛsa ntsu Otukpetɔ, tsufɛ mʋ́tɔ ma alɛ. Mboun yɛsa Plankɩ apʋwa ɔlɔ́tɔ.
 \xe Don't go fetch water from Otukpe, because the water in it is bad, instead go fetch it from Planki so that we can put it into the pot.
-\dt 04/Apr/2016
+\dt 20/Jul/2016
 
 \lx otuntu
 \ph otuntuʔ
@@ -28567,7 +28569,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge older
-\sd 4.1.9
+\sd 4.1.9.1.3
+\sd 2.6.4.5
 \de older, used only with humans
 \pl adɛhɛn
 \plph adɛ́hɛ̃́ʔ
@@ -28580,7 +28583,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va dɛhɛn
 \xv Nɛtɩ mɩ apio adɛhɛn amʋtɔ okugyiɔkʋ mbɛɛ, "Dɛhɛn".
 \xe I will call any of my older siblings "Elder".
-\dt 24/Dec/2013
+\dt 20/Jul/2016
 
 \lx Ɔdɛkɛtrakɛ
 \ph ɔdɛkɛtrákɛ
@@ -29157,7 +29160,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va ka
 \ge wife
-\sd 4.1.9
+\sd 4.1.9.2.1
 \de wife
 \pl aka
 \plph aká
@@ -29166,7 +29169,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Owie Krafi mʋa mʋ ka bɔkwɩɩ abi ana.
 \xe Chief Krafi and his wife had four children.
 \bb Stewart List:0307
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx ɔka
 \hm 2
@@ -29191,20 +29194,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge marriage
-\sd 4.1.9
+\sd 4.1.9.2.1
+\sd 2.6.1
 \de marriage to a wife
 \cf ɔka1
 \ce wife
 \cf tsia3
 \ce marriage
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx ɔkaba
 \ph ɔkabá
 \ps n
 \sn
 \ge rival
-\sd 4.1.9
+\sd 4.1.9.2
 \de co-wife
 \pl akaba
 \plph akabá
@@ -29212,18 +29216,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe A co-wife is my husband's second wife.
 \xv Akaba abi bʋtobwie woyi, tsufɛ bʋtɛpɩrɩ agyapadɩɛ.
 \xe Children of rivals destroy a house because they struggle for properties.
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx ɔkabagya
 \ph ɔkabáʤâʔ
 \ps n
 \sn
 \ge jealousy
-\sd 4.1.9
+\sd 4.1.9.2
+\sd 3.4.2.1.8
 \de jealousy, particularly between rivals in a marriage
 \xv Ɔtsɩ ánɩ́ ɔbʋ ɔkabagya dʋbɩ a, ɔbɛ́talɩ wa ɔkpɛ.
 \xe A woman who is too jealous could practice witchcraft.
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx ɔkan
 \ph ɔkãʔ
@@ -30020,7 +30025,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge younger
-\sd 4.1.9
+\sn 4.1.9.1.3
+\sd 8.4.6.5.1
 \de younger used with humans
 \cf kusubi
 \ce smaller (non-human)
@@ -30033,7 +30039,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce junior
 \an ɔdɛhɛn
 \ce elder
-\dt 05/Nov/2015
+\dt 20/Jul/2016
 
 \lx ɔkwaɩ
 \ph ɔkʷaɪ(H)
@@ -30089,7 +30095,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge parent
-\sd 4.1.9
+\sd 4.1.9.1.2
 \de parent
 \pl akwɩɩpʋ
 \plph akwɪ̌ːpʊ́
@@ -30097,7 +30103,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe It is necessary for every parent to love his/her child in order that the child will also love people.
 \xv Akwɩɩpʋ bʋma tɩrɛ amʋ́ abi ansɩtɔ, mɛnɩ nyebi amʋ bʋmɔ́ɔbwɛ atɩrɛpʋ.
 \xe Parents should not quarrel in front of their children so that the children will not become quarrelsome children.
-\dt 15/Aug/2013
+\dt 20/Jul/2016
 
 \lx ɔla
 \ph ɔlá
@@ -30193,8 +30199,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge saviour
-\sd 4.1.9
-\sd 2.5.3
+\sd 4.4.4.4
 \sd 4.9.7.2
 \de one who takes you out of trouble
 \cf lɛ
@@ -30203,7 +30208,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe A saviour is one who takes you out of trouble or a tight place.
 \xv Anɩ ɔlɛpʋ gyi anɩ wie Yesu Kristo.
 \xe Our saviour is our Lord Jesus Christ.
-\dt 08/Jan/2014
+\dt 20/Jul/2016
 
 \lx ɔlɔ
 \ph ɔlɔ(H)
@@ -30256,8 +30261,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sick person
-\sd 4.1.9
-\sd 2.5
+\sd 2.5.1
 \de one who is sick, particularly in a chronic sense
 \pl alɔpʋ
 \plph alɔpʊ́
@@ -30265,7 +30269,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe All of last night a certain sick man was groaning so I couldn't sleep.
 \cf lɔ
 \ce be sick
-\dt 08/Jan/2014
+\dt 20/Jul/2016
 
 \lx ɔlʋpʋ
 \ph ɔlʊpʊ́
@@ -30317,6 +30321,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge nation
+\sd 4.6.7.1
 \sd 4.1.9
 \de nation
 \pl ɔma-ɔma
@@ -30326,7 +30331,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔmá ɔmá fɛ́ɛ́ bufia abʋkɩta mʋ́ alɩa bɔ́bwɛ asa ɩwɩlwii bɛ́ba ɔyɩtɔ.
 \xe All nations should meet to decide how there will be peace in the world.
 \bb Stewart List:1506
-\dt 15/Aug/2013
+\dt 20/Jul/2016
 
 \lx ɔma oyibi
 \ph ɔma oyibi
@@ -30729,7 +30734,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge grandfather
-\sd 4.1.9
+\sd 4.1.9.1.1
 \de grandfather
 \pl anain
 \plph anáĩ́ʔ
@@ -30749,7 +30754,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge ancestor
 \de ancestor
 \nt usually used in the plural
-\dt 06/Nov/2015
+\dt 20/Jul/2016
 
 \lx ɔnamba
 \ph ɔnambá
@@ -31798,7 +31803,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge widow
-\sd 4.1.9
+\sd 4.1.9.3
 \de widow / widower
 \pl asʋrapʋ
 \plph asʊrapʊ
@@ -31806,7 +31811,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-420
 \xv Ɔha ánɩ́ mʋ ka ntɛɛ mʋ kulu owu a, ɔsʋrapʋ ogyi. Obosu ɩsʋra.
 \xe The one whose wife or husband should die is a widow/widower. He will perform widowhood rites.
-\dt 29/Aug/2013
+\dt 20/Jul/2016
 
 \lx ɔsʋrapʋ
 \hm 2
@@ -31823,11 +31828,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge widow's husband
-\sd 4.1.9
+\sd 4.1.9.3
 \de man that marries a widow
 \pl asʋrapʋka
 \plph asʊrapʊká
-\dt 15/Aug/2013
+\dt 20/Jul/2016
 
 \lx ɔsʋsʋ
 \ph ɔsʊ́sʊ́
@@ -32478,11 +32483,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge engage
-\sd 4.1.9
-\sd 2.6.1
+\sd 2.6.1.1
 \de engagement to marry
 \lt ask for woman
-\dt 12/Jul/2014
+\dt 20/Jul/2016
 
 \lx ɔtsɔpɩ
 \ph ɔt͡sɔpɪ́
@@ -33116,11 +33120,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps VOC
 \sn
 \ge father
-\sd 4.1.9
+\sd 4.1.9.1.2
 \de way of calling your father
 \xv Papa nobwipa, ha mɩ kɔba.
 \xe Father I beg you, give me money.
-\dt 06/Nov/2015
+\dt 20/Jul/2016
 
 \lx papa
 \hm 2
@@ -35151,14 +35155,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge marry
-\sd 4.1.9
+\sd 2.6.1.2
 \de to perform marriage customs
 \cf asiɛntɔ
 \ce bride price
 \nt tsia is to live with a woman; sien is to perform the marriage custom
-\xv Fʋ ma ɔkpa tɩ ɔtsɩ ánɩ́ fʋ mɔkʋ sien mʋ fɛɛ fʋ ka.
+\xv Fʋ ma ɔkpa tɩ ɔtsɩ ánɩ́ fʋ mɔkʋsien mʋ fɛɛ fʋ ka.
 \xe You have no right to call a woman you have not perform the marriage rites as your wife.
-\dt 25/Dec/2013
+\dt 20/Jul/2016
 
 \lx sika
 \ph sika
@@ -36321,7 +36325,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 3
 \ge confiscate
-\sd 6.8.1.1
 \sd 7.3.3.1
 \de to grab or seize something by force
 \rf Tape:7-1-296
@@ -36343,7 +36346,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 3.5.2.4
 \sd 3.5.1.3.2
 \de to deny falsely
-\dt 18/Jul/2016
+\dt 20/Jul/2016
 
 \lx ta
 \ph tá
@@ -38336,7 +38339,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge marry
-\sd 4.1.9
 \sd 2.6.1
 \de marry
 \rf Tape:4-2-479
@@ -38346,7 +38348,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf tsiaba
 \ce spouse
 \bb Stewart List:3230
-\dt 02/Oct/2015
+\dt 20/Jul/2016
 
 \lx tsiaba
 \ph t͡síabá
@@ -40235,7 +40237,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge nephew; uncle
-\sd 4.1.9
+\sd 4.1.9.1.6
 \de child of man's sister / female cousin; brother of child's mother
 \na This is a reciprocal relationship. The uncle and the nephew / neice will call each other "Wɔfa."
 \bw Akan fi:wɔfa
@@ -40244,10 +40246,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge patron
-\sd 4.1.9
+\sd 4.3.4.2
 \de patron
 \na The Akans have matrilineal inheritance, so one inherits from one's wɔfa. Hence, the patronage relationship.
-\dt 03/Nov/2015
+\dt 20/Jul/2016
 
 \lx wɔɩ
 \hm 1
