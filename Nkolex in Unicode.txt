@@ -1187,9 +1187,10 @@
 \ps n
 \sn
 \ge fire
-\sd 5.2.1.1
+\sd 5.5.6
+\sd 6.2.5.4
 \de a fire with large logs
-\dt 11/Jun/2014
+\dt 21/Jul/2016
 
 \lx agyapadɩɛ
 \ph aʤapadɪɛ(H)
@@ -1215,7 +1216,8 @@
 \ps n
 \sn
 \ge charcoal
-\sd 5.2.1.1
+\sd 5.5.6
+\sd 6.2.5.4
 \de burnt fire wood
 \xv Ofienɩ ngya ma ɩnʋ mʋ́ sʋ agyawunu lawa bia.
 \xe This year there is no firewood, therefore charcoal has become expensive.
@@ -1228,19 +1230,19 @@
 \sg gyawunu
 \sgph ʤawunu
 \nt plural form is more common
-\dt 15/Jul/2016
+\dt 21/Jul/2016
 
 \lx agyawunu ɔtɔpʋ
 \ph aʤawunu ɔtɔpʊ́
 \ps n
 \sn
 \ge charcoal burner
-\sd 5.2.1.1
-\sd 6.2.5.3
+\sd 5.5.6
+\sd 6.2.5.4
 \de charcoal burner
 \xv Agyawunu ɔtɔpʋ atadɩɛ tebi, tsufɛ agyawunu lebi.
 \xe charcoal burner's attire blackens, because charcoal is black.
-\dt 28/Apr/2016
+\dt 21/Jul/2016
 
 \lx agyilɛ
 \ph aʤílɛʔ
@@ -3248,12 +3250,12 @@
 \ps n
 \sn
 \ge stone pile
-\sd 5.2.1.1
+\sd 5.5.7
 \de a pile of stones heaped together to make a temporary hearth
 \xv Sun asubwi afʋwa ogya ha mɩ.
 \xe Pile up some stones and set fire in it for me.
 \nt key term for altar.
-\dt 12/Jun/2014
+\dt 21/Jul/2016
 
 \lx asubwisʋ
 \ph asubwisʊ
@@ -3285,15 +3287,6 @@
 \xv Nɔyɔ Nkran, mʋʋ anɩ pɩ amʋ́ʋ́ bʋbʋ Nkran amʋ bɛfɩtɛ mɩ bɛɛ, "Amansʋ bʋ woyi?" Nɛbla amʋ́ ánɩ́ asʋasʋn ma woyi.
 \xe I went to Accra, then our people in Accra asked me, "Is there any news at home?" I told them there is no case at home.
 \dt 18/May/2016
-
-\lx asʋbwi
-\ph asʊbwi
-\ps n
-\sn
-\ge cooking stone
-\sd 5.2.1.1
-\de stones fixed for cooking
-\dt 12/Jun/2014
 
 \lx Asʋhompeiin
 \ph asʊhompeĩː
@@ -5216,12 +5209,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 1
 \ge hot
-\sd 8.3.4.1
+\sd 8.3.4
 \de to be hot
 \ps vi
 \sn 2
 \ge cooked
-\sd 8.3.4.1
+\sd 8.3.4
 \sd 5.2.1.1
 \de to be cooked
 \xv Nɩ atɔ amʋ blɩ a, swɩɩ mʋ́ yaɩ.
@@ -5241,7 +5234,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-2-515
 \bb Stewart List:2252
 \nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
-\dt 02/Nov/2015
+\dt 21/Jul/2016
 
 \lx blɩ ogya
 \ph blɪ oʤáʔ (H)
@@ -5553,7 +5546,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn 1
 \ge raw
-\sd 5.2.1.1
+\sd 5.2.3
 \de raw
 \nt used by itself refers to water, because other drinks are cooked
 \rf Tape:1-2-579
@@ -5568,7 +5561,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-2-571
 \xv Kebi bɔbwɛ ɩlɔ tɛhan, tsufɛ ɔmɛ́ɛtalɩ blɩ ɔtɩnɛ ánɩ́ dɛ mʋ dwiin.
 \xe A new baby's illness gives difficulty because he can't say where it is hurting him.
-\dt 20/May/2016
+\dt 21/Jul/2016
 
 \lx bɔɩ
 \ph bɔ́ɪ́
@@ -7663,7 +7656,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 2
 \ge quench
-\sd 5.2.1.1
+\sd 5.5.3
 \de to quench a light; used with light, electricity and the sun
 \xv Ɔyɩ lakɛ, sʋ olodun ɔkandɩɛ.
 \xe It's morning so he extinguished the lantern.
@@ -7672,7 +7665,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-409
 \xv Dun ɔkandɩɛ amʋ ha mɩ.
 \xe Turn off the light for me.
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx dundu
 \ph dunduʔ
@@ -10550,13 +10543,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge burn
-\sd 5.2.1.1
+\sd 5.5.4
 \de burn
 \rf Tape:2-2-352
 \xv Bapʋ igyo dɩnka ogya. Bʋmɛdɛ mʋ́ kɩ sʋ, Ɩlahɔ.
 \xe They have put yam on the fire and they aren't watching it. It has burned.
 \bb Stewart List:2255
-\dt 04/Feb/2016
+\dt 21/Jul/2016
 
 \lx hɔ X sʋ gyi
 \ph hɔ sʊ ʤi
@@ -10608,10 +10601,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge singe
-\sd 5.2.1.1
-\sd 6.4.1
+\sd 5.5.4
 \de to be burnt lightly
-\dt 23/Jun/2014
+\dt 21/Jul/2016
 
 \lx hʋnanaana
 \ph hʊ́nánáːná
@@ -14314,12 +14306,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge kerosene
-\sd 5.2.1.1
+\sd 5.5.6
 \de kerosene
 \rf Tape:3-1-483
 \xv Keresin tɛtalɩ dudu.
 \xe Kerosene can leak.
-\dt 13/Jul/2014
+\dt 21/Jul/2016
 
 \lx kete
 \ph keté
@@ -19816,12 +19808,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge match
-\sd 5.2.1.1
+\sd 5.5.1
 \de match (to light a fire)
 \rf Tape:6-2-501
 \xv Mankɩnsɩ amʋ lakpa ogya.
 \xe The match has caught fire.
-\dt 16/Jun/2014
+\dt 21/Jul/2016
 
 \lx mansʋ
 \ph mán!sʊ́
@@ -21466,7 +21458,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge okra
-\sd 5.2.1.1
+\sd 5.2.3.1.3
+\sd 6.2.1.3
 \de okra
 \rf Tape:4-2-570
 \xv Mbɔdɩ pʋ́ ndawun oputsu bʋ agyilɛ.
@@ -21477,7 +21470,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \cf awanwan
 \ce dried okra
 \bb Stewart List:0915
-\dt 29/Oct/2013
+\dt 21/Jul/2016
 
 \lx ndɛ
 \ph ndɛ
@@ -21748,8 +21741,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge firewood
-\sd 5.2.1.1
-\sd 6.2.5.3
+\sd 5.5.6
+\sd 6.2.5.4
 \de firewood
 \rf Tape:5-1-110
 \xv Bʋtɔpʋ ngya wa ogya.
@@ -21757,7 +21750,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \bb Stewart List:1211
 \cf ogyatin
 \ce firewood
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx nhɩhɩɛ
 \ph nhɪhɪɛ́
@@ -22534,13 +22527,13 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge ash
-\sd 5.2.1.1
+\sd 5.5.5
 \de ash
 \rf Tape:5-1-314
 \xv Atsɩ akʋ bɔkʋsʋ nyankɩ a, bʋtɛlɛ amʋ́ ɔswɩtɔ nsuo, kpita ɔswɩ asa bʋtɔwa ogya.
 \xe When certain women get up in the morning they remove the ashes from their hearth, and paint the ɔswɩ before setting fire.
 \bb Stewart List:1031
-\dt 22/Jun/2014
+\dt 21/Jul/2016
 
 \lx nsʋ
 \ph nsʊ
@@ -23956,14 +23949,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge light
-\sd 2.3.1
-\sd 5.2.1.1
+\sd 8.3.3
 \de light
 \rf Tape:5-2-002
 \xv Alanywɛn ɔkandɩɛ yaɩ obuto.
 \xe He has lit the lantern and put it in the room.
 \bb Stewart List:2314
-\dt 30/Sep/2015
+\dt 21/Jul/2016
 
 \lx ŋa
 \ph ŋaʔ
@@ -24189,7 +24181,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge torch
-\sd 5.2.1.1
+\sd 8.3.3.1.1
 \de torch
 \pl mbia
 \plph mbia(H)
@@ -24201,7 +24193,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ fɔ́bwɛ obia a, fɔ́bɔbɔɩ awaimbi putuputi, lɛ mʋ́tɔ gyo tsitsa, fɩta mʋ́ fɛ nkɛnsa. Ɩwʋlɩ a, fakpa mʋ́ pʋ́ ɔblakwɛ klɩ mʋ́ alɩ ánɩ́ bowie ɔbɛkpʋn amʋtɔ, fówun fapʋsʋta ogya. Ɩtsankɩ a, fapʋ yofwi ɩbɛ.
 \xe If you want to make a torch, you split the central stalk of a palm branch into small pieces, removing and throwing away the core(which is soft). Then you dry the small pieces for three days (or so). When they are dry you gather them and tie them with the new leaves of a palm tree so that they go into the hole in the felled palm tree. You put one end of it in the fire to catch fire and then you put it into the hole to smoke the tree (so that the wine ferments).
 \bb Stewart List:1267
-\dt 17/Jun/2014
+\dt 21/Jul/2016
 
 \lx obian
 \ph obíã́ʔ
@@ -25103,7 +25095,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge fire
-\sd 5.2.1.1
+\sd 5.5
 \de fire
 \rf Tape:6-2-501
 \xv Mankɩnsɩ amʋ lakpa ogya.
@@ -25117,7 +25109,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge interest
-\sd 3.3.2
+\sd 3.4.1.4
 \de interest
 \rf Tape:6-2-509
 \xv Ɔbʋ ogya agyʋma amʋtɔ.
@@ -25125,7 +25117,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 3
 \ge sharpness
-\sd 6.6.2.3
+\sd 8.3.2.3
 \de sharpness
 \bb Stewart List:1050
 \rf Tape:3-2-141
@@ -25137,18 +25129,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Krantɩɛ amʋ ɔnɔ lawa ogya klaklakla.
 \xe The cutlass is very sharp.
 \bb Stewart List:1713
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx ogya plɛnplɛn
 \ph oʤa plɛ̃́plɛ̃́ʔ
 \ps n
 \sn
 \ge flame
-\sd 5.2.1.1
+\sd 5.5
 \de flame
 \xv Ogya plɛnplɛn amʋ lɔtswɩ kɩta pipi amʋ hɔ mʋ́.
 \xe The flame spread and caught the thatch and burned it.
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx ogyakpatin
 \ph oʤak͡patĩ́ʔ
@@ -25156,9 +25148,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge log
 \sd 5.5.6
-\sd 1.5.1
+\sd 6.2.5.4
 \de firewood log
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx ogyama
 \ph oʤamaʔ(H)
@@ -25197,7 +25189,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge smoke
-\sd 5.2.1.1
+\sd 5.5.5
 \de smoke
 \rf Tape:6-2-512
 \xv Ogyasi tegya kpasi.
@@ -25206,30 +25198,31 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ogyasi amʋ labi gyadɩ amʋtɔ ɩnʋ tuun.
 \xe Smoke has completely blackened the kitchen there.
 \bb Stewart List:1051
-\dt 30/Sep/2015
+\dt 21/Jul/2016
 
 \lx ogyatin
 \ph oʤatĩʔ
 \ps n
 \sn
 \ge firewood
-\sd 5.2.1.1
+\sd 5.5.6
+\sd 6.2.5.4
 \de one stick of firewood
 \pl ngyatin but commonly shortened to ngya
 \plph nʤatin / nʤá
 \rf Tape:6-2-518
 \xv Naka ogyatin kpɔnkpɔntɩ nɔ́pʋ sun ɔswɩ ɔnɔ.
 \xe I have cut a large stick of firewood, and I will put it in my hearth as the central fire log.
-\dt 23/Dec/2013
+\dt 21/Jul/2016
 
 \lx ogyatɔ
 \ph oʤatɔ
 \ps n
 \sn
 \ge fire place
-\sd 5.2.1.1
+\sd 5.5.7
 \de fire place
-\dt 13/Jun/2014
+\dt 21/Jul/2016
 
 \lx ogyikpa
 \ph oʤík͡pâʔ
@@ -29271,7 +29264,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge lantern
-\sd 5.2.1.1
+\sd 5.1
+\sd 8.3.3.1.1
 \de lantern, lamp or light
 \pl nkandɩɛ
 \plph ŋkandɪ́ɛ́
@@ -29282,7 +29276,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge electricity
-\sd 5.2.1.1
+\sd 6.6.8.1
 \sd 6.5.4
 \de electricity
 \ps n
@@ -29293,7 +29287,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:3-1-108
 \xv Ɩnwɛn Yaoda, nɔyɔ nkandɩɛtɔ.
 \xe Last Thursday, I went to the city.
-\dt 01/May/2016
+\dt 21/Jul/2016
 
 \lx ɔkasɩkpa
 \ph ɔkasɪ́k͡pá
@@ -31862,7 +31856,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge hearth
-\sd 5.2.1.1
+\sd 5.5.7
 \de hearth
 \pl nswɩ
 \plph nswɪ
@@ -31872,7 +31866,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ fɔ́pwɛ ɔswɩ a, féhian ɩsɩ ánɩ́ mʋ́tɔ lɔsɔ fówun fawɔ mʋ́a mbepi wa mʋ́tɔ. Mbepi amʋ bɛ́ha ɔswɩ amʋ mɛ́ɛbaba. Fówun fapwɛ mʋ́.
 \xe When you want to make a hearth, you will need clay then you pound it together with palm nut rubbish. The palm nut rubbish will make the hearth not to crack. Then you start moulding it.
 \bb Stewart List:1159
-\dt 07/Nov/2015
+\dt 21/Jul/2016
 
 \lx ɔtabʋ
 \ph ɔtabʊ(H)
@@ -33123,7 +33117,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge fan
-\sd 5.2.1.1
+\sd 5.5.2
+\sd 1.1.2.1
 \de fan
 \pl apapa
 \plph apapa
@@ -33131,7 +33126,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe This is a fan. They use it for blowing wind.
 \xv Tsu papa amʋ ha mɩ mɩa pʋ fwi ɩwɩ afu.
 \xe Give me the fan to fan myself.
-\dt 06/Nov/2015
+\dt 21/Jul/2016
 
 \lx papaapa
 \ph papaːpa
@@ -33784,13 +33779,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph plɛ̃plɛ̃bi(H)
 \ps n
 \sn
-\ge spark
-\sd 5.2.1.1
-\de spark
+\ge sparks
+\sd 5.5.5
+\de sparks
 \rf Tape:3-1-150
 \xv Kɩ alɩa ogya plɛnplɛnbi ɩtɛtalɩ wa ɩpʋ yile ogya.
 \xe See how a spark can set fire to a big forest.
-\dt 01/Jul/2014
+\dt 21/Jul/2016
 
 \lx plɩ
 \ph plɪ́ʔ
@@ -38454,7 +38449,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 3
 \ge blaze
-\sd 5.2.1.1
+\sd 5.5
 \de to blaze up
 \rf Tape:7-2-346
 \xv Ogya letsii kɩta paya oyi amʋ.
@@ -38462,7 +38457,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-350
 \xv Ogya amʋ detsii ɔswɩtɔ.
 \xe The fire is burning on the hearth.
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx tsii
 \hm 2
