@@ -7150,12 +7150,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge title
-\sd 6.8.1.2
+\sd 4.5.5.1
 \de title
 \nt Is this a borrowed word?
 \xv Oyin amʋ dibia gyi gyɔpɩsʋ owie (Nifahene).
 \xe The title of the man is right-hand side chief.
-\dt 28/Jul/2013
+\dt 20/Jul/2016
 
 \lx diin
 \ph dĩ́ːʔ (H)
@@ -8131,13 +8131,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge worthy
-\sd 6.8.1.2
+\sd 8.3.7.5
 \de worthy, befitting, becoming, suited to you
 \nt contrast with kana
 \bw Akan fi:fata
 \xv Mahan fʋ wɩ, mmɛfata ánɩ́ fɛ́ba mɩ woyitɔ.
 \xe Don't trouble yourself, I am not worthy that you should come to my house.
-\dt 12/Jul/2014
+\dt 20/Jul/2016
 
 \lx fɛ
 \hm 1
@@ -8633,9 +8633,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge isolated
-\sd 6.8.1.2
+\sd 4.1.6.3
 \de isolated
-\dt 06/Nov/2015
+\dt 20/Jul/2016
 
 \lx flo
 \ph floʔ
@@ -10346,8 +10346,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge need
-\sd 6.8.1.2
-\sd 6.8.1.1
+\sd 6.8.1.3
+\sd 8.1.7.2
 \de need
 \rf Tape:2-2-324
 \xv Ndɛ tɔkʋ hian.
@@ -10361,7 +10361,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce poor person
 \cf atohianhɛ
 \ce necessary things
-\dt 01/Feb/2014
+\dt 20/Jul/2016
 
 \lx hɩ
 \ph hɪ́
@@ -10510,24 +10510,24 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge receive
-\sd 6.8.1.1
+\sd 7.4.2
 \de to receive something
 \bb Stewart List:3213
 \se hɔ ɩda
 \ge famous
-\sd 6.8.1.2
+\sd 3.2.3.1
 \de to be famous
 \lt receive a name
 \bb Stewart List:3232
 \ps v
 \sn 2
 \ge accept
-\sd 6.8.1.1
+\sd 3.3.5.1
 \de to accept something
 \ps v
 \sn 3
 \ge buy
-\sd 6.8.4.8
+\sd 6.8.4.1
 \de to buy something
 \xv Nɔyɔhɔ atogyihɛ brɔnʋsʋ.
 \xe I'm going to buy food on the street.
@@ -10537,12 +10537,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 4
 \ge take
-\sd 6.8.1.1
+\sd 7.3.3.1
 \de to take something
 \cf swɩɩ
 \ce confiscate
 \bb Stewart List:3219
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx hɔ
 \hm 2
@@ -11966,11 +11966,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe His name is Kwame.
 \se hɔ da
 \ge famous
-\sd 6.8.1.2
+\sd 3.2.3.1
+\sd 4.3.2
 \de to be famous
 \bb Stewart List:3232
 \bb Stewart List:0072
-\dt 18/May/2016
+\dt 20/Jul/2016
 
 \lx ɩdan
 \hm 1
@@ -16349,7 +16350,7 @@ cf fonflo
 \ps ADJ
 \sn 1
 \ge crowded
-\sd 6.8.1.2
+\sd 4.2.1.7
 \de crowded
 \rf Tape:3-2-417
 \xv Aha bebla wulu amʋtɔ kpakpaakpa.
@@ -16357,9 +16358,11 @@ cf fonflo
 \ps ADJ
 \sn 2
 \ge closed
+\sd 7.3.6.1
+\sd 8.2.7.1
 \de closed very tightly
 \nt This sense is only Southern dialect.
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx kpakpahe
 \ph k͡pák͡pá!hé
@@ -18485,13 +18488,12 @@ cf fonflo
 \ps n
 \sn
 \ge fool
-\sd 3.2.7
-\sd 6.8.1.2
+\sd 3.2.1.4
 \de fool
 \bw Akan fi:kwasiaa
 \xv Kwasɩa tama nu asʋn asɩ.
 \xe A fool doesn't understand things..
-\dt 08/Jan/2014
+\dt 20/Jul/2016
 
 \lx kwata
 \ph kwataʔ(L)
@@ -22248,11 +22250,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADJ
 \sn
 \ge alone
-\sd 6.8.1.2
+\sd 8.1.5.7
+\sd 4.4.2.5
 \de alone
 \xv Ɩlasi Kwaku Kebi nkʋlɛ amʋ woyitɔ nʋ.
 \xe Remaining Kwaku Kebi alone in their family.
-\dt 22/Jun/2014
+\dt 20/Jul/2016
 
 \lx nkʋnʋ
 \ph ŋkʊ́nʊ
@@ -22624,7 +22627,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge drunkard
-\sd 6.8.1.2
+\sd 5.2.3.7.2
 \de drunkard
 \pl nta abʋpʋ
 \plph ntá abʊpʊ́
@@ -22634,7 +22637,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe Drunkards will not go to heaven.
 \xv Obuo kʋkʋ ma nta ɔbʋpʋsʋ.
 \xe There is no respect for any drunkard.
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx ntam
 \ph ntam
@@ -23245,14 +23248,13 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge orphan
-\sd 4.1.9
-\sd 6.8.1.2
+\sd 4.1.9.4
 \de orphan
 \xv Nwumbi gyi ɔha ánɩ́ mʋ sɩ mʋa mʋ yín bawu si mʋ.
 \xe An orphan is a person that his father and mother have died and left him.
 \xv Nwumbi gyi bʋ nwɛn.
 \xe To be an orphan is miserable.
-\dt 16/Jun/2014
+\dt 20/Jul/2016
 
 \lx nwun
 \ph ŋʷũ (H)
@@ -24646,13 +24648,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge captive
 \sd 4.5.4.4
-\sd 6.8.1.2
+\sd 4.8.3.5
 \de captive
 \pl ndoun
 \plph ndoũʔ
 \xv Bɛkɩta amʋ́ ndoun brɛa amʋ́ʋ́ bɔkɔ ɩsa amʋ.
 \xe They were held captives the time that there was war.
-\dt 20/May/2016
+\dt 20/Jul/2016
 
 \lx odu
 \hm 1
@@ -25295,8 +25297,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge poverty
-\sd 6.8.1.1
-\sd 6.8.1.2
+\sd 6.8.1.3
 \de poverty
 \bw Akan fi:ohian
 \rf Tape:6-2-528
@@ -25306,16 +25307,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe A poor person does not have a friend.
 \xv Fɛyɩrɩ wɩ yɔ agyuma kinkiinkin a, fʋ megyi ohian.
 \xe If you work seriously, you will never be poor.
-\dt 30/Jun/2014
+\dt 20/Jul/2016
 
 \lx ohiani
 \ph ohiáni
 \ps n
 \sn
 \ge poor person
-\sd 6.8.1.2
+\sd 6.8.1.3
 \de poor person
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx ohogyipʋ
 \ph ohóʤipʊ
@@ -26482,7 +26483,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge gluttony
-\sd 6.8.1.2
+\sd 4.3.6.1
+\sd 5.2.2.4
 \de greediness in the sense of gluttony
 \pl apotuafɔ
 \plph apotuafɔ
@@ -26490,7 +26492,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The one who eats too much has gluttony.
 \xv Batɛ ogyi atɔ ɔtamamwɛ sʋ ɔbʋ opotsua.
 \xe A fowl eats and does not become satisfy so he has gluttony.
-\dt 23/Jun/2014
+\dt 20/Jul/2016
 
 \lx opulakpa
 \ph opulak͡pa
@@ -26698,13 +26700,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge rich man
-\sd 6.8.1.1
-\sd 6.8.1.2
-\sd 6.8.6
 \sd 6.8.1.2
 \de rich person
 \bw Akan fi:osikani
-\dt 21/Jun/2014
+\dt 20/Jul/2016
 
 \lx osɩregyo
 \ph osɪreʤo
@@ -26792,16 +26791,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge servant
-\sd 6.8.1.2
+\sd 4.5.4.3
 \de servant
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx osumpʋ
 \ph osúmpʊ̂ʔ
 \ps n
 \sn
 \ge servant
-\sd 6.8.1.2
+\sd 4.5.4.3
 \de servant
 \pl asumpʋ
 \plph asúmpʊ́ʔ
@@ -26809,7 +26808,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce worship
 \xv Osumpʋ odua otosum mʋ wie wanklaan a, mʋ ɩwɩ tɔwa mʋ wie ansigyi .
 \xe A servant who serves his master well, pleases his master.
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx osun
 \ph osṹ
@@ -27381,10 +27380,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge thief
-\sd 6.8.1.1
-\sd 8.3.7.1
-\sd 6.8.1.2
-\sd 4.6.6.1
+\sd 6.8.9.1
 \de thief
 \pl awikplu
 \plph awik͡plu(H)
@@ -27392,7 +27388,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If you steal a thief's things it troubles him a lot because he also steals peoples things.
 \bb Stewart List:0413
 \va oyikplu
-\dt 08/Jan/2014
+\dt 20/Jul/2016
 
 \lx owilɩn
 \ph owilɪ̃̂ʔ
@@ -27584,16 +27580,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge thief
-\sd 6.8.1.1
-\sd 8.3.7.1
-\sd 6.8.1.2
-\sd 4.6.6.1
+\sd 6.8.9.1
 \de thief
 \pl ayikplu
 \plph ayik͡plu(H)
 \va owikplu
 \ve Youth
-\dt 11/Jul/2014
+\dt 20/Jul/2016
 
 \lx oyin
 \ph oyĩ(H)
@@ -28673,13 +28666,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge crowd
-\sd 6.8.1.2
+\sd 4.2.1.7
 \de crowd
 \bw Akan fi:ɔdɔm
 \rf Tape:5-2-296
 \xv Ɔlɛdamli kɩ ɔdɔm amʋ́ʋ́ bubuo Mʋ amʋ.
 \xe He turned and looked at the crowd that followed him.
-\dt 14/Aug/2013
+\dt 20/Jul/2016
 
 \lx ɔdɔn
 \ph ɔdɔ̃́ʔ
@@ -29688,8 +29681,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge servant
-\sd 6.8.1.2
-\de servant
+\sd 4.5.4.4
 \pl nkpabi
 \plph ŋ͡mk͡pábi
 \va ɛkpabi
@@ -29698,7 +29690,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Lehian ánɩ́ ɔkpabi obobu mʋ wie.
 \xe It is necessary that a servant respect his master.
 \bb Stewart List:0502
-\dt 15/Aug/2013
+\dt 20/Jul/2016
 
 \lx ɔkpagyiɔkpa
 \ph ɔk͡paʤiɔk͡pa
@@ -30391,14 +30383,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge neighbourhood
-\sd 6.8.1.2
+\sd 4.1.4
 \de neighbourhood
 \pl mmanti
 \plph mːanti(H)
 \na The Southern part of Nkonya call sections in their towns"mmanti". The Northern part call theirs "ntin" but there is a section in Wurupong called "ɔmanti"
 \xv Ɔmanti-gyi-ɔmanti ánɩ́ bʋ wulutɔ mʋ́a mʋ́tɔ asʋn.
 \xe Every section in a town has its problem.
-\dt 30/Jun/2014
+\dt 20/Jul/2016
 
 \lx ɔmasin
 \ph ɔmasĩ́ʔ
@@ -35758,11 +35750,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge serve
-\sd 6.8.1.2
+\sd 4.5.4.3
 \de to serve
 \cf osumpʋ
 \ce servant
-\dt 03/Nov/2015
+\dt 20/Jul/2016
 
 \lx suma
 \ph suma
@@ -35802,13 +35794,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge errand runner
-\sd 6.8.1.2
+\sd 4.5.4.3
 \de a person who runs errand, messenger
 \pl sumbi ayɔpʋ
 \plph sumbí ayɔpʊ́
 \xv Ɔha ánɩ́ bɔwa mʋ sumbi, ɔtɔyɔ, wa ɔsa yinki ba a, sumbi ɔyɔpʋ wanklaan ogyi.
 \xe A person who is being sent on an errand and he goes and comes back quickly is a good errand runner.
-\dt 15/Aug/2013
+\dt 20/Jul/2016
 
 \lx sumuɛ
 \ph sumuɛ(H)
@@ -36972,7 +36964,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge meet
-\sd 6.8.1.2
+\sd 4.2.1.2
 \de to meet something unexpectedly
 \rf Tape:7-1-459
 \xv Brɛa bʋdeki ndɔ amʋtɔ a, beyetii akpin amʋsʋ.
@@ -36992,13 +36984,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge start
-\sd 8.4.5
+\sd 8.4.6.1
 \de to start (of rainy season)
 \rf Tape:7-1-471
 \xv Nyankpʋ latii.
 \xe The rains have started.
 \rf Awɩtɔlɛ Wa Akatua
-\dt 01/May/2016
+\dt 20/Jul/2016
 
 \lx tila asʋ
 \ph tílá asʊ
@@ -39537,7 +39529,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge meet
-\sd 6.8.1.2
+\sd 4.2.1.3
 \de to meet without planning to
 \rf Tape:8-1-051
 \xv Mɩa mɩ pio ayɔ oli Ntumda a, ɔlɛnatɩ si mɩ. Tamɛ, nɛsɩrɩ yɔtʋ mʋ Tepo. Anɩ fɛ́ɛ́ anɩlowie Ntumda kɛkɛ.
@@ -39550,7 +39542,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce assemble
 \cf tii 1
 \ce meet unexpectedly
-\dt 10/Nov/2015
+\dt 20/Jul/2016
 
 \lx tʋn
 \hm 1
@@ -41242,9 +41234,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe a very big stone
 \se ɔha yile
 \ge good person
-\sd 6.8.1.2
+\sd 4.3.1
 \de a good person
-\dt 01/May/2016
+\dt 20/Jul/2016
 
 \lx yin
 \hm 1
