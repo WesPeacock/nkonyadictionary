@@ -840,11 +840,11 @@
 \ps n
 \sn
 \ge type of vine
-\sd 1.5.5
+\sd 1.5.3
 \de forest vine
 \xv Afonflo fla igyi fla kʋa mʋ́ ntsu lofuli. Ɩma ɔlɩn ha atɔ klɩ.
 \xe This vine is a vine that has white fluid. It is not strong for tying.
-\dt 30/Sep/2015
+\dt 19/Jul/2016
 
 \lx afɔdɩɛ
 \ph afɔdɪɛ(H)
@@ -4267,13 +4267,13 @@
 \sn
 \ge basket
 \sd 6.7.3
-\sd 1.5.3
+\sd 6.6.4.2
 \de basket
 \va lakpa
 \ve North
 \cf blawunu
 \ce basket
-\dt 19/Jun/2014
+\dt 19/Jul/2016
 
 \lx bakɛ
 \ph bakɛ
@@ -7164,7 +7164,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
+\sd 1.5.3
 \de grass
 \rf Tape:2-1-309
 \xv Kufa amʋ dɛ dimbi wɩ.
@@ -7172,7 +7172,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Dimbi gyi ɩfa kʋa ɩma tɔtɔ bwɛtɔ, tamɛ mʋ́lɔhɔ ɩda nɩ. Aklɔtɩ tɔpʋ la isia.
 \xe This grass is a type that is not used for anything. But is the best know. Mice use it for theirnests.
 \nt From ths: words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfa (grass, weeds) kɛnkɛ,
-\dt 01/Oct/2015
+\dt 19/Jul/2016
 
 \lx dimbisʋ
 \ph dimbísʊ́
@@ -8151,7 +8151,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge crack
-\sd 1.5.5
+\sd 5.2.1.2.1
 \de to crack (palm kernel)
 \rf Tape:2-1-463
 \xv Fɛ bebi ha mɩ anwɩ.
@@ -8159,13 +8159,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 2
 \ge husk
-\sd 1.5.5
+\sd 5.2.1.2.1
 \de to remove corn from the cob
 \rf Tape:2-1-467
 \xv Nɛfɛ mɩ kpoli lɛ mʋ́ nkpokployisʋ, anfɛ mʋ ha kpoli ahɔpʋ.
 \xe I shelled my corn and removed the cobs in order to sell it to a corn dealer.
 \bb Stewart List:3203
-\dt 28/Apr/2016
+\dt 19/Jul/2016
 
 \lx fɛ
 \hm 3
@@ -11569,7 +11569,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge tooth
-\sd 2.1.1.1.4
+\sd 2.1.1.5
 \de tooth
 \pl anyin
 \plph aɲĩ́ʔ
@@ -11579,7 +11579,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Mɩ iyin dɛ kpɩnkɩ, ɩdɛ mɩ dwiin dʋbɩ, sʋ fialɩ bɔ́kpa.
 \xe My tooth is shaking and it pains me so perhaps it is going to fall out.
 \bb Stewart List:0013
-\dt 16/Jul/2016
+\dt 20/Jul/2016
 
 \lx ɩ-
 \hm 1
@@ -11729,14 +11729,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge arrival
-\sd 1.5.3
+\sd 7.2.3.3.1
 \de arrival, coming
 \xv Mlɩ ɛ, mlɩnya klʋn amlɩkɩ anɩ Wie ɔkpa. Mʋ ɩbá lawie woyi.
 \xe You(pl) also get your heart (be patient) and you should and watch Our Lord's road (expect him). His coming has reached the house (his return is imminent).
 \xe You also should patiently expect Our Lord. His return is imminent.
 \cf ba1
 \ce come
-\dt 09/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɩban
 \ph ɪbã (H)
@@ -11923,11 +11923,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge vine
-\sd 1.5.5
+\sd 1.5.3
 \de forest vine
 \xv Bʋsʋ itekle tsia. Ɩbʋ ɔlɩn ha atɔ klɩ.
 \xe It is mainly on the mountains. It is very strong for tying things.
-\dt 01/Jul/2014
+\dt 19/Jul/2016
 
 \lx ɩbwɛbwɛɛbwɛ
 \ph ɪbwɛ́bwɛ̂ːbwɛ
@@ -11972,7 +11972,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge storage
-\sd 1.5.1
+\sd 6.2.6.4
+\sd 6.5.1.2
 \de a way of storing certain harvested items, e.g., corn, beans, yam, water yam,
 \pl ndan
 \plph ndã
@@ -11983,7 +11984,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The second kind: You use bamboo to make it. You arrange the corn on it (usually in a circular pile).
 \cf ɔdankpa
 \ce storage place
-\dt 01/Feb/2014
+\dt 19/Jul/2016
 
 \lx ɩdan
 \hm 2
@@ -12022,14 +12023,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge shelter
-\sd 1.5.1
-\sd 6.2.1.2
+\sd 6.2.6.4
+\sd 6.5.1.2
 \de shelter around yam seedlings to protect them from the sun
 \rf Tape:2-2-539
 \xv Igyo mʋ́a afaasɩ amʋ fɛ́ɛ́ lakɔkwɛ wa ɩfa amʋtɔ.
 \xe All the yam and water yam have sprouted in the yam shed.
 \bb Stewart List:1281
-\dt 12/Jun/2014
+\cf ɩdan
+\ce storage 
+\dt 19/Jul/2016
 
 \lx ɩfa
 \hm 2
@@ -12037,7 +12040,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass; weeds; bush
-\sd 1.5.5
+\sd 1.5.3
 \de grass, bush
 \nt From ths: words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfa (grass, weeds)
 \rf Tape:2-2-543
@@ -12045,7 +12048,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe In rainy season weeds grow too quickly.
 \bb Stewart List:0866
 \bb Stewart List:1270
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɩfɛ
 \ph ɪfɛʔ
@@ -12068,7 +12071,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge leaf
 \sd 1.5.5
-\sd 1.5.5
 \de leaf
 \pl afɩta
 \plph afɪta
@@ -12080,14 +12082,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \ge smoke marijuana
 \de to smoke marijuana "wee"
-\dt 11/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɩfla
 \ph ɪfla(H)
 \ps n
 \sn
 \ge vine
-\sd 1.5.5
+\sd 1.5.3
 \va fla
 \de vine for tying things, also a sweet potato vine
 \pl afla
@@ -12096,17 +12098,17 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Lɛ ifla ba mɩampʋ klɩ mɩ ngya amʋ ya bu asɩ.
 \xe Remove a vine and bring it to me so I can tie up my firewood and bring it to my farm hut.
 \nt From ths: kinds of vine: ɩfla pɛpɛ, sawun fla, tʋnkpa, afonflo fla, ɔsapɔ, apʋsɛ, bʋsʋ fla, otsi, ɔtwankanti,
-\dt 02/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɩfla pɛpɛ
 \ph ɪfla pɛpɛʔ
 \ps n
 \sn
 \ge vine
-\sd 1.5.5
+\sd 1.5.3
 \de forest vine
 \xv Ɩfla pɛpɛ a, mʋ́ wɩ lɛpɛ. Ɩbʋ alɛ ha atɔ klɩ.
-\dt 01/Jul/2014
+\dt 19/Jul/2016
 
 \lx ɩflɛ
 \ph ɪflɛ́ʔ
@@ -12267,7 +12269,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
+\sd 1.5.3
 \de elephant grass
 \xv Ɩka igyi dimbisʋ ɩfa kʋ ánɩ́ tamakɔsɩ wu. Bʋtɛtalɩ pʋ sʋta ɩgyo. Mʋ́ bʋtɔpʋ da ekeyi nɩ.
 \xe Elephant grass is a type of grass that does not die quickly. They can use it to stake yams. It is also used as a staff for questioning a corpse.
@@ -12278,7 +12280,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bʋtamagya obubwi ɩbansʋ tra yegya mʋ ɩkasʋ.
 \xe They don't chase a bird from the fence and then again from the grass.
 \bb Stewart List:0873
-\dt 01/Oct/2015
+\dt 19/Jul/2016
 
 \lx ɩka
 \hm 2
@@ -12299,11 +12301,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
+\sd 1.5.3
 \de red grass
 \xv Bʋtɔpʋ ɩka pɛpɛ bwɛ afa.
 \xe The red grass is used for medicine.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɩka wɩhɛ
 \ph ɪka wɪhɛ́ʔ
@@ -13155,7 +13157,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge ear
-\sd 2.1.1
+\sd 2.1.1.3
 \de ear
 \pl asʋ
 \plph asʊ
@@ -13170,7 +13172,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv ha asʋ
 \xe proclaim innocent
 \bb Stewart List:3249
-\dt 26/Aug/2013
+\dt 19/Jul/2016
 
 \lx ɩsʋbɩtɩ
 \ph ɪsʊbɪtɪ́(H)
@@ -13236,10 +13238,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge ear wax
-\sd 2.1.1
+\sd 2.1.1.3
 \de ear wax
 \bb SIL-AWL:0096
-\dt 26/Aug/2013
+\dt 19/Jul/2016
 
 \lx ɩswɩ
 \ph ɪswɪ́ (H)
@@ -13279,13 +13281,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge shoulder
-\sd 2.1.1
+\sd 2.1.2
 \de top of shoulder
 \rf Tape:3-1-196
 \xv Nɔpʋ ogyatin amʋ dɩnka ɩta ba woyitɔ.
 \xe I carried a stick of firewood to my house on my shoulder.
 \nt From ths: words for shoulder: ɩta, ɩba, nkɔnkɔ, nkanta.
-\dt 04/Feb/2016
+\dt 19/Jul/2016
 
 \lx ɩta
 \hm 2
@@ -13462,12 +13464,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
+\sd 1.5.3
 \de spear grass
 \nt It is the new shoots that are sharp like spears and dangerous to step on.
 \xv Ɩtʋn tɔwɔ aha. Butokun mʋ́ pʋ bua obu.
 \xe The spear grass pricks people. It is cut and used for roofing huts.
-\dt 26/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɩwankɩ
 \ph ɪwaŋkɪ́ʔ
@@ -13538,12 +13540,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge body hair
-\sd 2.1.1
+\sd 2.1.3
 \de body hair
 \xv Oyin anfɩ ɩwɩ imi lofulu fɛ tɔkʋtɔkʋ.
 \xe This man's body hair's is as white as something.
 \bb SIL-AWL:0029
-\dt 01/Feb/2014
+\dt 19/Jul/2016
 
 \lx ɩwɩ sɔɔn
 \ph ɪwɪ
@@ -14089,12 +14091,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge shelter
 \sd 6.5.1.2
-\sd 4.6.1
 \de shelter made from bamboo and palm branches used for gatherings
 \rf Tape:3-1-418
 \xv Bɛɛ abégyi nkɛ amʋ dɩnsʋ sʋ a, ayɛda kantankpa aba.
 \xe They say we will make a festive occasion at Denso, so we are going to erect a palm shelter and come.
-\dt 31/May/2016
+\dt 19/Jul/2016
 
 \lx kantankplama
 \ph kántáŋ͡mk͡plámá
@@ -14143,14 +14144,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge chest
-\sd 2.1.1
+\sd 2.1.3
 \de chest
 \rf Tape:3-1-435
 \xv Mlɩ mapʋ ɩbɩ si kantɔ blɩ mlɩya anyansafɔ pʋ́ aha wanklaan mlɩ gyi.
 \xe Don't boast and say you are wise, fine people.
 \bb Stewart List:0017
 \bb SIL-AWL:0033
-\dt 26/Aug/2013
+\dt 19/Jul/2016
 
 \lx kaplɛ
 \ph kaplɛ
@@ -14427,12 +14428,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge kapok tree
 \sd 6.2.5.4
-\sd 1.5.5
 \sd 1.5.1
 \de large tree
 \pl akɛlɩ
 \plph akɛlɪ (H)
 \sc Ceiba pentandra
+\ee kapok
 \xv Nɩ kɛlɩ puli a, baflɛ tɔkɔkwɛ mʋ́ asɩ.
 \xe When a silk cotton tree uproots, pawpaw trees take its place.
 \xe You can't replace a great man.
@@ -14444,7 +14445,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt idiom
 \rf Tape:3-1-505
 \bb Stewart List:0878
-\dt 20/May/2016
+\dt 19/Jul/2016
 
 \lx kɛmɛ
 \ph kɛmɛ
@@ -14523,13 +14524,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
+\sd 1.5.3
 \de a kind of wild grass
 \pl akɛnkɛ
 \plph akɛŋkɛ(H)
 \xv Kɛnkɛ tɔkɔsɩ dan dʋn dimbisʋ ɩfa trahɛ fɛ́ɛ́. Tamɛ, ɩtɔkɔsɩ wu. Ɩbʋ imi, ɩtɔwɔlɩ wɩ fɛ tʋnkpa.
 \xe This wild grass grows quicker than all other grasses. But it dies quickly(six months). It has hairs on the leaves which makes you itchy like tʋnkpa.
-\dt 03/Oct/2015
+\dt 19/Jul/2016
 
 \lx kɛnkɛ
 \hm 2
@@ -15224,20 +15225,21 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge vine, k. o.
-\sd 1.5.5
+\sd 1.5.3
 \de a straight vine, It is very strong
-\dt 01/Jul/2014
+\dt 19/Jul/2016
 
 \lx klandua
 \ph klandua
 \ps n
 \sn
 \ge jatropha
-\sd 1.5.5
+\sd 1.5.2
+\sd 6.2.5.4
 \de a plant with seeds used for oil
 \xv Klandua wɩ lawa ɔnlɩn.
 \xe Jatropha is now difficult to get.
-\dt 01/Jul/2014
+\dt 19/Jul/2016
 
 \lx klankpa
 \ph klaŋ͡mk͡pa(H)
@@ -15278,14 +15280,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge grass-cutter
-\sd 1.6.1.1.5
+\sd 1.6.1.1.4
 \de grass-cutter; cane rat
 \pl aklatɩ
 \plph aklatɪ (H)
 \rf Tape:3-2-164
 \xv Mɩ agbla lakɩta klatɩ, aklatɩ amʋ bʋdɛ mɩ agbodi wɩ, sʋ nɛfɩnɩ amʋ́.
 \xe My trap has caught a grass-cutter. Grass-cutters are eating my cassava so I trapped them.
-\dt 15/Jul/2016
+\dt 19/Jul/2016
 
 \lx kle
 \ph kleʔ
@@ -15683,18 +15685,18 @@ cf fonflo
 \ps n
 \sn
 \ge praying mantis
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de praying mantis
 \pl akonkolifi
 \plph akóŋkólifí
-\dt 28/Jul/2013
+\dt 19/Jul/2016
 
 \lx konkolifi nkonto
 \ph kóŋkólifí ŋkõnto(H)
 \ps n
 \sn
 \ge grass, k.o.
-\sd 1.5.5
+\sd 1.5.3
 \de a type of grass which looks like thatch but not good for roofing
 \lt praying mantis' badly healed fracture on the shin
 \xv Konkolifi nkonto gyi fɛ ipi, tamɛ ɩma alɛ ha obu bua. Ɩtɔkɔsɩ biabia.
@@ -15703,7 +15705,7 @@ cf fonflo
 \ce praying mantis
 \cf nkonto
 \ce fracture
-\dt 01/Feb/2014
+\dt 19/Jul/2016
 
 \lx konkonte
 \ph kõkõnte
@@ -15757,7 +15759,7 @@ cf fonflo
 \ps n
 \sn
 \ge ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de driver ant
 \pl akonya
 \plph akoɲaʔ
@@ -15772,7 +15774,7 @@ cf fonflo
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 29/Oct/2013
+\dt 19/Jul/2016
 
 \lx kooko
 \ph kóːkó
@@ -15939,14 +15941,14 @@ cf fonflo
 \ps n
 \sn
 \ge ant
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de ant that scurries around, are attracted to the sweet palm and gather when it is tapped
 \pl akɔklɔ
 \plph akɔklɔ
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 29/Oct/2013
+\dt 19/Jul/2016
 
 \lx kɔnkɩ
 \hm 1
@@ -16597,11 +16599,11 @@ cf fonflo
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
+\sd 1.5.3
 \de short grass
 \xv Kpanpuli tamafʋa fʋn akpawunutɔ. Ɩtɛka aha. Bʋtɔpʋ lʋ itu.
 \xe This grass does not grow as high as the knee. It cuts people. It is used to weave a type of broom used inside rooms.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx kpantankplama
 \ph k͡pã́tã́k͡plámá
@@ -16973,13 +16975,13 @@ cf fonflo
 \ps n
 \sn
 \ge black fly
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de black fly
 \pl nkpikplibi
 \plph ŋ͡mk͡pik͡plibi(H)
 \xv Kpikplibi iduun ɩtɛha ɔha nsibi tobwie.
 \xe Black fly bites make a person blind.
-\dt 28/Jul/2013
+\dt 19/Jul/2016
 
 \lx kpini
 \hm 1
@@ -17138,6 +17140,7 @@ cf fonflo
 \xe He is shivering with fever.
 \se iyin kpɩnkɩ
 \ge loose tooth
+\sd 2.1.1.5
 \sd 7.2.2.8
 \de loose tooth
 \rf Tape:3-2-560
@@ -17158,7 +17161,7 @@ cf fonflo
 \bb Stewart List:2301
 \xv Lɔɔrɩ konti lɛkpɩnkɩ.
 \xe The truck tire wobbled.
-\dt 15/Jun/2016
+\dt 20/Jul/2016
 
 \lx kpɩsa
 \ph k͡pɪsá(H)
@@ -17401,7 +17404,7 @@ cf fonflo
 \ps n
 \sn
 \ge beetle
-\sd 1.6.1.3.1
+\sd 1.6.1.7
 \de big black beetle that inhabits dead palm trees
 \cf kian
 \ce grub
@@ -17414,7 +17417,7 @@ cf fonflo
 \xe The black beetle is not fatty; His brother is the larvae.
 \na A proverb of a person who is poor, but has a powerful relative.
 \rf Tape:3-2-331
-\dt 22/Dec/2013
+\dt 19/Jul/2016
 
 \lx kpoun
 \ph k͡póṹ(H)
@@ -18632,13 +18635,15 @@ cf fonflo
 \ps n
 \sn
 \ge womb
-\sd 2.1.1
+\sd 2.1.3
+\sd 2.6.3.2
+\sd 2.1.8.4
 \de womb
 \xv Falɛ fʋ ɔkwɩɩ puni tsitsa bia afɩta.
 \xe You have taken out your womb and thrown it away and you have put leaves in.
 \nt idiomatic expression for loving other children more than yours.
 \bb SIL-AWL:0041
-\dt 01/Feb/2014
+\dt 19/Jul/2016
 
 \lx kwɩɩda
 \ph kwɪ̌ːdâʔ
@@ -18830,7 +18835,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge basket
-\sd 1.5.3
+\sd 6.7.3
+\sd 6.6.4.2
 \de basket
 \va baka
 \ve South
@@ -18842,7 +18848,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Mlɩtsu lakpa mɛnɩ abɔ́pʋ sʋra atɔ ba woyitɔ.
 \xe You (pl) bring a basket so that we will carry things to the house.
 \bb Stewart List:1185
-\dt 23/Jun/2014
+\dt 19/Jul/2016
 
 \lx lakpan
 \ph lak͡pã(H)
@@ -20034,7 +20040,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge board
-\sd 1.5.5
+\sd 6.6.3.2
 \de board
 \pl mbrɛtɩ
 \plph mbrɛtɪ
@@ -20043,7 +20049,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-140
 \xv Mbrɛtɩ tsɔtsɔɔtsɔ amʋ dɩn fʋ obusʋ amʋ laplɔ.
 \xe Many boards that are on top of your building are rotten.
-\dt 22/Dec/2013
+\dt 19/Jul/2016
 
 \lx mbuaɛ
 \ph mbuaɛ
@@ -20857,7 +20863,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge intestine
-\sd 2.1.1
+\sd 2.1.8
 \de intestine
 \nt the singular form is rarely used
 \xv opuni tsii
@@ -20866,7 +20872,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe I heard the matter and my intestine uprooted me.
 \bb Stewart List:0042
 \bb SIL-AWL:0086
-\dt 26/Aug/2013
+\dt 19/Jul/2016
 
 \lx mpupubi
 \ph mpupubi
@@ -21377,18 +21383,18 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge web
-\sd 1.6.1.3.1
+\sd 1.6.1.8
 \de a spider web
-\dt 27/Apr/2016
+\dt 19/Jul/2016
 
 \lx natɩ tati
 \ph natɪ́ tati
 \ps n
 \sn
 \ge web
-\sd 1.6.1.3.1
+\sd 1.6.1.8
 \de web of a spider
-\dt 27/Apr/2016
+\dt 19/Jul/2016
 
 \lx natɩna
 \ph natɪna
@@ -21409,11 +21415,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge standing breast
-\sd 2.1.1
+\sd 2.1.2
+\sd 2.1.8.4
 \de a breast that does not lie down
 \xv Akosua bʋ ndakabi anyɔpʋ fɛ mʋ yín.
 \xe Akosua has a standing breast like the mother.
-\dt 01/Feb/2014
+\dt 19/Jul/2016
 
 \lx ndawɔtswɩ
 \ph ndawɔt͡swɪ
@@ -21598,7 +21605,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge oil
 \sd 1.2.3.2
-\sd 1.5.3
+\sd 1.5.1
 \sd 6.2.1.7
 \sd 7.2.4.1.1
 \de oil, fat, gasoline
@@ -21619,7 +21626,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge salt
-\sd 1.5.3
 \sd 5.2.3.3.2
 \de salt
 \xv Nfɔlɩ tamakanfʋ ɩwɩ.
@@ -21630,7 +21636,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Nflɩ tɔwa oputsu ɔdwɛ.
 \xe Salt makes soup sweet.
 \bb Stewart List:1234
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx nfuni
 \ph ɱfuní
@@ -21889,7 +21895,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge shoulder
-\sd 2.1.1
+\sd 2.1.3
 \de top of the shoulder, where one carries a load; used of humans only
 \rf Tape:5-1-177
 \xv Bʋ to tsu nyebi dɩnka nkanta.
@@ -21897,19 +21903,20 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \bb Stewart List:0016
 \bb SIL-AWL:0031
 \nt From ths: words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
-\dt 25/Dec/2012
+\dt 19/Jul/2016
 
 \lx nkanta iwu
 \ph ŋkanta iwú
 \ps n
 \sn
 \ge shoulder blade
-\sd 2.1.1
+\sd 2.1.3
+\sd 2.1.6
 \de shoulder blade
 \xv Yibi amʋ́ʋ́ lɛlɛ Kwame da amʋsʋ mʋ nkanta iwu lebia.
 \xe The accident caused Kwame's shoulder blade to break.
 \bb SIL-AWL:0032
-\dt 25/Dec/2012
+\dt 19/Jul/2016
 
 \lx nkɛ
 \ph ŋkɛ
@@ -22097,7 +22104,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge shoulders
-\sd 2.1.1
+\sd 2.1.2
 \de on the shoulders
 \xv Bʋ tsu mʋ wa nkɔnkɔ tsufɛsɛ alagyi sʋ.
 \xe They carried him on their shoulders because he has won.
@@ -22105,7 +22112,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:5-1-231
 \nt From ths: words for shoulder: ɩta, ɩba, ba, nkɔnkɔ, nkanta
 \bb Stewart List:0016
-\dt 25/Dec/2012
+\dt 19/Jul/2016
 
 \lx nkpa
 \hm 1
@@ -22728,12 +22735,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge black spot
 \sd 8.3.3.3
-\sd 1.5.3
+\sd 1.5.6
 \de black spot as on a banana or on mango
 \rf Tape:5-1-398
 \xv Mango amʋ lada ntsalabi; sʋ lawa agyilɛ.
 \xe The mango has black spots so it has become good to eat.
-\dt 17/Jun/2014
+\dt 19/Jul/2016
 
 \lx ntsan
 \ph nt͡sã́ʔ (H)
@@ -22904,12 +22911,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge flower
 \sd 1.5.5
-\sd 1.5.5
 \de flower
 \xv Mango amʋ lawa ntswɩtswɩ.
 \xe The mango has flowered.
 \rf Tape:5-1-434
-\dt 17/Jun/2014
+\dt 19/Jul/2016
 
 \lx ntumbua
 \ph ntũmbua
@@ -22936,13 +22942,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge soursop
-\sd 6.2.1.2
+\sd 1.5.1
+\sd 5.2.3.1.2
 \de soursop
 \sc Annona muricata
 \rf Tape:5-1-437
 \xv Ntunkum bʋ ɔdwɛ. Agyagya bʋtekle mʋ́ gyi.
 \xe Soursop is sweet. Bats like to eat it.
-\dt 04/Feb/2016
+\dt 19/Jul/2016
 
 \lx ntʋkʋta
 \ph ntʊkʊta(H)
@@ -23251,9 +23258,10 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge skull
 \sd 2.1.1
+\sd 2.1.6
 \de skull
 \bb SIL-AWL:0077
-\dt 26/Aug/2013
+\dt 19/Jul/2016
 
 \lx nwun olu
 \ph ŋʷũ olú
@@ -23366,6 +23374,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge brains
 \sd 2.1.1
+\sd 2.1.8
 \de brains
 \xv Kufa nwuntɔbɔ ɩtsɔ dʋn dei klɛ.
 \xe Sheep brains are bigger than monkey brains.
@@ -23374,7 +23383,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe Free: Kuku is mad.
 \bb Stewart List:0007
 \bb SIL-AWL:0081
-\dt 26/Aug/2013
+\dt 19/Jul/2016
 
 \lx nwʋlʋta
 \ph ŋʷʊlʊ́tâʔ
@@ -23652,7 +23661,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn 2
 \ge scorpion
-\sd 1.6.1.3.1
+\sd 1.6.1.8
 \de small brown scorpion
 \nt The myth is that a scorpion bite will cause pain until the next time you hear thunder; In northern dialect this is any scorpion, in the southern this is only the big black ones. The little brown ones are aganɛ, borrowed from Ewe. Nyankpʋ kpie is cognate with other Guang languages.
 \rf Tape:5-1-542
@@ -23661,7 +23670,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \bb Stewart List:0802
 \cf aganɛ
 \ce scorpion
-\dt 16/Jul/2016
+\dt 19/Jul/2016
 
 \lx nyankpʋsa
 \ph ɲaŋ͡mk͡pʊsaʔ
@@ -23804,12 +23813,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge molar
-\sd 2.1.1
+\sd 2.1.1.5
 \de molar toot
 \xv Oyin dɛnhɛn amʋ nyewtɔ iyin lakpakpa mʋ́sʋ ɔtamatalɩ wɩ awu.
 \xe The old man's molar tooth is removed and so he can't chew bones.
 \bb SIL-AWL:0019
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx nyimɛ
 \ph ɲímɛ́
@@ -23892,7 +23901,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge breast
-\sd 2.1.1
+\sd 2.1.2
+\sd 2.1.8.4
+\sd 2.6.4.1.1
 \de breast
 \pl anyɔpʋ
 \plph aɲɔ́pʊ
@@ -23902,7 +23913,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ayin akʋ ɛ anyɔpʋ lomoni.
 \xe Some men also have bigger breasts.
 \bb Stewart List:0035
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx nyɔpʋ
 \hm 2
@@ -24302,16 +24313,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bladder
-\sd 2.1.1
+\sd 2.2.7
+\sd 2.1.2
+\sd 2.1.8
 \de bladder
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx oblun
 \ph oblũ (H)
 \ps ADJ
 \sn 1
 \ge unripened
-\sd 1.5.3
+\sd 1.5.6
 \de unripened
 \rf Tape:6-2-336
 \xv Negyi kwadu oblun amʋ a, mɩ ɔnɔtɔ lɔbwɛ mɩ yaa.
@@ -24320,12 +24333,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 2
 \ge inexperienced
-\sd 3.2.1.1
+\sd 6.1.1.1
 \de inexperienced
 \rf Tape:6-2-334
 \xv Kebi oblun ánɩ́ omeyin asʋn.
 \xe An inexperienced child who doesn't know anything.
-\dt 03/Nov/2015
+\dt 19/Jul/2016
 
 \lx obon
 \ph obṍʔ
@@ -24562,10 +24575,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge thorn tree
-\sd 6.2.5.4
 \sd 1.5.5
 \de thorn tree
-\dt 17/Jun/2014
+\dt 19/Jul/2016
 
 \lx obuo
 \ph obúo
@@ -24718,7 +24730,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 6.6.3.1
 \sd 1.5.1
 \de a tree with very hard and expensive wood
-\ee Milicia excelsa; iroko
+\sc Milicia excelsa
+\ee iroko
 \pl ndum
 \plph ndum
 \na Because of deforestation, much rarer than it used to be.
@@ -25364,12 +25377,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge vine
-\sd 1.5.5
+\sd 1.5.3
 \de k.o. vine
 \na also called agyɔ (perhaps Ewe) and okyimpaɩ (Akan)
 \xv Okikibwie igyi ɩfla, fékiki mʋ́ bwie a, fanya ɩfɛ́ tsɔtsɔɔtsɔ. Bʋtɔpʋ klɩ atɔ, bʋtɔpʋ mʋ́ ɛ ban igyo nɩ.
 \xe Okikibwie is a vine, when it is twisted it splits in order to get more ropes. It is used to bind things and its also used to bind yams.
-\dt 01/Jul/2014
+\dt 19/Jul/2016
 
 \lx okikie
 \ph okíkíéʔ
@@ -26488,6 +26501,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cotton
 \sd 1.5.3
+\sd 6.6.1.2
+\sd 6.6.1.4
 \de cotton
 \xv Bʋtɔtswɩ opuli bwɛ ɔfɛ.
 \xe They spin cotton to make rope.
@@ -26496,7 +26511,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:0924
 \cf opuli-mputɔ
 \ce cotton wool
-\dt 05/Nov/2015
+\dt 19/Jul/2016
 
 \lx opuli-mputɔ
 \ph opuli-mpútɔ́
@@ -26514,7 +26529,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge navel
-\sd 2.1.1
+\sd 2.1.2
 \de navel
 \pl mpulu
 \plph mpulu(H)
@@ -26522,7 +26537,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If they birth children and don't look after their navel well they will get abdominal illness.
 \bb Stewart List:0068
 \bb SIL-AWL:0037
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx opulu ɔfɛ
 \ph opulu ɔ́fɛ́
@@ -26544,9 +26559,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \va puni
 \ge womb; intestines
-\sd 2.1.1
+\sd 2.1.2
+\sd 2.1.8
 \de womb, intestines
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx opuntu
 \ph opuntu
@@ -26648,14 +26664,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge waist
-\sd 2.1.1
+\sd 2.1.2
 \de circumference of the waist
 \xv Ɔtsɩ amʋ dɩdɩ abuto mʋ osiesʋ.
 \xe The woman tied beads about her waist.
 \xv Gyata amʋ osietɔ gyi lekeleke.
 \xe The lion's waist is very slender.
 \bb SIL-AWL:0036
-\dt 01/Feb/2014
+\dt 20/Jul/2016
 
 \lx osikani
 \ph osikani
@@ -26971,13 +26987,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge vine
-\sd 1.5.5
+\sd 1.5.3
 \de a certain kind of vine
 \pl ntsi
 \plph nt͡si
 \xv Otsi gyi ɩfla kʋa tomoni. Nkɛtɩ fabɔbɔɩ mʋ́tɔ asa fɛ́talɩ pʋ klɩ atɔ. Ɩtɔwa swɩ dʋ klɛɩ dɩnka nyisʋ. Mʋ́ ɔfɛ amʋ ɛ bʋ alɛ ha ɩdɩn lʋ.
-\xe This is a kind of vine that grows very think. It is necessary to split it before you use it to tie things. It is long and climbs on trees. It's rope is also good for weaving mats.
-\dt 21/Jun/2014
+\xe This is a kind of vine that grows very thick. It is necessary to split it before you use it to tie things. It is long and climbs on trees. It's rope is also good for weaving mats.
+\dt 19/Jul/2016
 
 \lx otsiakpa
 \hm 1
@@ -28055,13 +28071,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge tube
 \sd 1.5.5
-\sd 5.2.3.7
+\sd 5.2.3.7.1
 \de a tube from a certain grass used in palm wine tapping to allow the sap to drain into a pot
 \pl mblɩ
 \plph mblɪ
 \xv Ɔblɩ bʋtɔpʋ tin ɔbɛ pʋ wa ibuntɔ, mɛnɩ nta bénya ɔkpa wie ibuntɔ wanklaan.
 \xe A tube is used to connect pot to the palm tree, so that the palm wine will pass through it into the pot.
-\dt 12/Jul/2014
+\dt 19/Jul/2016
 
 \lx ɔblɩn
 \ph ɔblɪ̃ʔ
@@ -28374,14 +28390,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge storage facility
-\sd 1.5.1
+\sd 6.2.6.4
+\sd 6.5.1.2
 \de storage table for storing harvest
 \cf ɩdan1
 \ce storage
 \xv Nɩ ɔkʋ medekle ánɩ́ ɔbɔ́bwɛ ɩfa a, ɔbɔ́pʋ botodua bwɛ ɔdankpa. Fówun alapʋ mʋ igyo aná dɩnka mʋ́sʋ.
 \xe If someone does not want to build a yam barn, he will make a bamboo table so that he can put the yam on it.
 \nt This gets the yam off the ground and can be used instead of tying the yam up the sides of the ifa with vine.
-\dt 09/Nov/2015
+\dt 19/Jul/2016
 
 \lx ɔdansɩyin
 \ph ɔdãnsɪyĩʔ
@@ -28403,7 +28420,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge loincloth
-\sd 5.4.1
+\sd 5.3.3
 \de loincloth
 \pl ndanta
 \plph ndántá
@@ -28411,7 +28428,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \na so Igna suggest that the etymology here is pounded cloth ɔda ɔtan
 \xv Atɩtɩfɔ bʋtɛda poli afwɛ bwɛ ɔdanta pʋ́ ɔklan.
 \xe The olden times people beat poli bark to make loincloths and mat.
-\dt 13/Jun/2014
+\dt 19/Jul/2016
 
 \lx ɔdanta
 \hm 2
@@ -28435,16 +28452,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔdantrʊ́ba(H)
 \ps n
 \sn
-\ge shell
-\sd 1.5.5
-\de seashell
+\ge clamshell
+\sd 1.6.2.5
+\de clamshell
 \pl ndantrʋba
 \plph ndantrʊ́ba(H)
 \xv Nɩ fowuli mbɔdɩ, ɩhɔ wa darɩsɛɩntɔ a, fawa ntsu mʋ́tɔ. Ɩpɔn a, fapʋ ɔdantrʋba nwɔsɩ mʋ́tɔ.
-\xe If you stirred porridge and it burned in the pot, put water in it. When it is soft, use seashell to scrape it.
+\xe If you stirred porridge and it burned in the pot, put water in it. When it is soft, use clamshell to scrape it.
 \nt Are there other kinds of shells. What about a snail shell, tanibi, ɔkɔtɔ. What about adɔdɩ (not in dictionary)
-\nt From ths: Kinds of shells: obien hontro (snail shell), ɔkɔtɔ koko (crab shell), ɔdantrʋba (adɔdɩ shell)
-\dt 30/Jun/2014
+\nt From ths: Kinds of shells: obien hontro (snail shell), ɔkɔtɔ koko (crab shell), ɔdantrʋ́ba (adɔdɩ shell)
+\dt 19/Jul/2016
 
 \lx ɔdanʋ
 \ph ɔdanʊ́
@@ -31901,9 +31918,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 4
 \ge backbone
-\sd 2.1.1
+\sd 2.1.2
+\sd 2.1.6
 \de backbone
-\dt 31/May/2016
+\dt 20/Jul/2016
 
 \lx ɔtansʋ imi
 \ph ɔtansʊ imi
@@ -33108,7 +33126,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge shed
-\sd 1.5.5
+\sd 6.5.1.2
 \de shed
 \pl apata
 \plph apatá
@@ -33118,7 +33136,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ababegyi nkɛ, sʋ abɛ́da apata mɛnɩ aha bétsia mʋ́ ayasɩ. Fówun owí mɔtɔ amʋ́.
 \xe We are coming to have a festival, so we will make sheds in order that people will sit under it. So that the sun will not burn them.
 \bb Stewart List:1265
-\dt 07/Nov/2015
+\dt 19/Jul/2016
 
 \lx patɩ
 \ph paːtɪ(H)
@@ -33140,14 +33158,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge avocado
 \sd 1.5.1
-\sd 6.2.1.7
+\sd 6.2.1.4
 \de avocado
 \pl apaya
 \plph apáya
 \bw English fi:pear
 \xv Paya mʋ́a bodobodo bʋ agyilɛ.
 \xe Avocado and bread are easy to eat .
-\dt 31/May/2016
+\dt 19/Jul/2016
 
 \lx pentenplein
 \ph pentẽmplẽĩ
@@ -33194,10 +33212,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge ripen
-\sd 1.5.3
+\sd 1.5.6
 \de to ripen
 \bb Stewart List:2251
-\dt 20/May/2016
+\dt 19/Jul/2016
 
 \lx pɛlɩ
 \ph pɛ́lɪʔ
@@ -33226,10 +33244,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 2
 \ge ripe
-\sd 1.5.3
+\sd 1.5.6
 \de ripe
 \bb Stewart List:1683
-\dt 03/Nov/2015
+\dt 19/Jul/2016
 
 \lx pɛpɛɛpɛ
 \ph pɛ́pɛ́ːpɛ́
@@ -33818,12 +33836,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bark tree
-\sd 1.5.5
-\sd 6.6.1.2
+\sd 1.5.1
+\sd 6.6.1.1
 \de a certain tree used to make bark cloth in the olden days
 \xv Atɩtɩfɔ betsia da poli afwɩ bwɛ ɔdanta pʋ́ ɔsan.
 \xe The olden times people beat poli bark to make loincloths and towels.
-\dt 21/Jun/2014
+\dt 19/Jul/2016
 
 \lx posoglo
 \ph posoglo(L)
@@ -33966,11 +33984,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
+\sd 1.5.3
 \de broad leafed grass that resembles millet
 \xv Pɔplɔtɩ igyi dimbisʋ ɩfa fʋahɛ, tamɛ ɩtamalɩɩ dʋn ofi. Mʋ́ atɛ lɛtɛɩ, ɩtɛhɩɛ hɔ obetsu.
 \xe This broad leafed grass is a tall grass, but it doesn't live more than a year. Its leaves are wide, it catches a lot of dew.
-\dt 01/Oct/2015
+\dt 19/Jul/2016
 
 \lx pɔpɔ
 \ph pɔpɔ
@@ -34628,11 +34646,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge fruit
-\sd 1.5.5
+\sd 1.5.1
+\sd 5.2.3.1.2
 \de fruit about the size of a grapefruit
 \xv Sakatin bʋ ɔdwɛ dʋn ntunkum, tsufɛ ntunkum igyi nyagbanyagba.
 \xe Sakatin is better to eat than ntunkum because ntunkum is sour.
-\dt 23/Jun/2014
+\dt 19/Jul/2016
 
 \lx sama
 \ph sã́mâʔ
@@ -34803,11 +34822,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge vine
-\sd 1.5.5
+\sd 1.5.3
 \de kind of vine
 \xv Sawun fla ɩwɩ lofuli. Asawun bʋtegyi mʋ́ abi.
 \xe Vine bark is white, tortoises they eat it's fruits.
-\dt 01/Jul/2014
+\dt 19/Jul/2016
 
 \lx sesei
 \ph séséi
@@ -35988,11 +36007,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge vine, k.o.
-\sd 1.5.5
+\sd 1.5.3
 \de a kind of vine with irritating leaves
 \xv Nɩ sʋnswɛ tɔ fʋ a, ɩtɔhɔ ɔsɩn, ɩtɔwɔlɩ.
 \xe When a leave of vine touches you, it pains and itches.
-\dt 04/Feb/2016
+\dt 19/Jul/2016
 
 \lx sʋpa
 \ph sʊ́pa
@@ -37314,12 +37333,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge grass, (k.o.)
-\sd 1.5.5
-\sd 2.5.7
+\sd 1.5.3
+\sd 2.5.7.2
 \de it is a herb that cures many diseases
 \xv Nɩ ɩtɔ da fʋ a, kwɛ tɩtɩfobi manta mʋ́ ɩbɛ́fa, fʋ ɩwɩ bólwii fʋ.
 \xe If you have a boil, grind the herb on it and the boil will burst and you will be free.
-\dt 26/Jun/2014
+\dt 19/Jul/2016
 
 \lx tɩtɩɩtɩ
 \ph tɪtɪːtɪ
@@ -38624,8 +38643,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge stump
 \sd 1.5.5
+\sd 6.2.4.2
 \de a tree stump
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx tsɩ
 \ph t͡sɪ
@@ -39543,14 +39563,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge itchy vine
-\sd 1.5.5
+\sd 1.5.3
 \de forest vine
 \pl atʋnkpa
 \plph atʊŋ͡mk͡pa(H)
 \nt Particularly if you go near it from January to May.
 \xv Tʋnkpa igyi ɩfla kʋ ánɩ́ iswie a, ɩtɔwɔlɩ ɩwɩ dʋbɩ. Fɛtalɩ pʋ klɩ atɔ.
 \xe It is a vine when it bears it itches the body badly. You can use it to tie anything.
-\dt 01/Jul/2014
+\dt 19/Jul/2016
 
 \lx tʋntʋn
 \ph tʊ́ntʊ̃
@@ -41040,11 +41060,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn
 \ge spread
-\sd 1.5.5
+\sd 1.5.6
 \de spread over top of
 \xv Mmɛtalɩ yi mɩ ngyoyi ofienɩ sʋ mɩ igyo afla layɛyɛɩ wa mɩ ndɔ amʋtɔ fɛ́ɛ́.
 \xe This year I could not fix trees to support my yams so the vines have spread all over my farm.
-\dt 31/May/2016
+\dt 19/Jul/2016
 
 \lx yi
 \hm 1
@@ -41356,13 +41376,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge stump
 \sd 1.5.5
+\sd 6.2.4.2
 \de stump of a tree
 \pl ayinti
 \plph ayinti(H)
 \rf Tape:8-2-015
 \xv Ayinti bʋ mɩ ndɔtɔ dʋbɩ sʋ yinti lawɔ mɩ ayabitɔ.
 \xe There are many stumps in my farm so a stump has pierced my foot.
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx -yintse
 \ph -yint͡se
@@ -41380,9 +41401,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge heap
-\sd 1.5.3
+\sd 7.5.9.1
 \de to heap something
-\dt 30/Jun/2014
+\dt 19/Jul/2016
 
 \lx yiyi
 \hm 1
