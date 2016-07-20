@@ -5412,14 +5412,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge bucket
-\sd 6.7.3
+\sd 6.6.7.2
 \de bucket
 \pl abokiti
 \plph abókitiʔ (L)
 \bw English fi:bucket
 \xv Otsibi amʋ dɛ atɔ fwɩ bokiti amʋtɔ.
 \xe The girl is washing in the bucket.
-\dt 13/Jul/2014
+\dt 22/Jul/2016
 
 \lx bomli
 \ph bómlí
@@ -6493,7 +6493,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to touch something
 \se pʋ da
 \ge dip
-\sd 6.7.3
+\sd 7.3.2.6
+\sd 1.3.4
 \de dip
 \bb Stewart List:2679
 \se da ɔnɔ
@@ -6505,7 +6506,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge Exclaim
 \sd 2.5.8
 \de express surprise/dismay by tapping the mouth while saying "Uuuuuuuuuu"
-\dt 21/Jul/2016
+\dt 22/Jul/2016
 
 \lx da
 \hm 2
@@ -6679,7 +6680,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge cooking pot
-\sd 6.7.3
+\sd 5.2.1.3
+\sd 6.7.7
 \de large cooking pot with handles
 \pl adadɩsɛɩn
 \plph adadɪsɛ́ɪ̃́
@@ -6688,7 +6690,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt They come in different numbered sizes with the size number stamped on them
 \xv Mbʋ adadɩsɛɩn tsɔtsɔɔtsɔ mɩ woyitɔ, mʋ́tɔ ntɛnɩna atɔ nɩ.
 \xe I have many large aluminium cooking pots in my house, in which I cook.
-\dt 01/Oct/2015
+\dt 22/Jul/2016
 
 \lx dafa
 \ph dáfá
@@ -7961,7 +7963,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge calabash
-\sd 6.7.3
+\sd 1.5.3
+\sd 1.5.5
+\sd 6.7.7
 \de calabash
 \pl nwɛ
 \plph nwɛ(H)
@@ -7975,7 +7979,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf onuwe
 \ce drinking calabash
 \bb Stewart List:1210
-\dt 13/Jul/2014
+\dt 22/Jul/2016
 
 \lx fa
 \hm 1
@@ -9262,7 +9266,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge can
-\sd 6.7.3
+\sd 6.7.7
+\sd 8.2.5.1
 \de can
 \pl aganu
 \plph aganú
@@ -9273,7 +9278,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-119
 \xv Ganu amʋ ɩwɩ lawɩ nkandʋ.
 \xe The outside of the can has rusted.
-\dt 13/Jul/2014
+\dt 22/Jul/2016
 
 \lx gate
 \ph gaté
@@ -9598,13 +9603,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge glass jug
-\sd 6.7.3
+\sd 8.2.5.1
 \de a jug holding four gallons, commonly used with palm wine
 \na They often weave a basket type holder around the jar.
 \rf Tape:2-2-197
 \xv Ayin amʋ banun nta amʋ́ʋ́ bʋ gyanifi amʋtɔ fɛ́ɛ́.
 \xe The men have drunk all the wine in the jug.
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx gyankpa
 \ph ʤaŋ͡mk͡pá
@@ -12286,13 +12291,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge pad
-\sd 6.7.3
+\sd 6.7.6
 \de pad for carrying a load on the head
 \rf Tape:2-2-575
 \xv Mmeyin alɩ ánɩ́ bʋtɛla blɔdɩ atɛ ɩká.
 \xe I don't know how they make pad out of plantain leaves.
 \bb Stewart List:1221
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx ɩka pɛpɛ
 \ph ɪka pɛpɛʔ
@@ -13385,11 +13390,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge load
-\sd 6.7.3
+\sd 7.3.1
 \de a load carried on head or shoulder
 \pl atɔsʋrahɛ
 \plph atɔsʊráhɛ́
-\dt 13/Jul/2014
+\dt 22/Jul/2016
 
 \lx ɩtrɛ
 \ph ɪtrɛ́ʔ (H)
@@ -16021,9 +16026,9 @@ cf fonflo
 \ps n
 \sn
 \ge cup
-\sd 6.7.3
+\sd 5.2.2.8
 \de cup
-\dt 12/Jul/2014
+\dt 22/Jul/2016
 
 \lx kɔsɩ
 \ph kɔsɪ́
@@ -17849,17 +17854,17 @@ cf fonflo
 \dt 20/Jul/2016
 
 \lx kuma
-\ph kuma
+\ph kúmá
 \ps n
 \sn
 \ge younger same sex sibling
 \sd 4.1.9.1.3
 \sd 8.4.1.3.1
-\de younger same sex sibling
+\de younger same sex sibling born on same day of the week
 \rf Tape:5-1-257
 \xv Nɩ bɔkwɩɩ ɔtsɩ Kuoda, bɛtra kwɩɩ ɔtsɩ buo mʋ Kuoda a, bʋtɛtɩ kebi amʋ Akua kuma.
 \xe If they bear a girl on Wednesday, and the next child is also a girl born on Wednesday they call the child Akuakuma.
-\dt 20/Jul/2016
+\dt 22/Jul/2016
 
 \lx kun
 \ph kũʔ
@@ -28205,12 +28210,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge pan
-\sd 6.7.3
+\sd 5.2.1.3
 \de frying pan- a thing used in frying
 \rf Tape:5-2-234
 \xv Bʋa atɔ amʋ ɔbʋatɔ amʋtɔ.
 \xe Fry the things in the frying pan.
-\dt 26/Dec/2012
+\dt 22/Jul/2016
 
 \lx ɔbʋkɔ
 \ph ɔbʊkɔ
@@ -30170,7 +30175,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge dish
-\sd 6.7.3
+\sd 5.2.2.8
+\sd 6.6.2.4
 \de bowl made of clay
 \pl nlɛpɛ
 \plph nlɛpɛ(H)
@@ -30183,7 +30189,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge sub-clan
 \de a group of families within a clan
-\dt 03/Nov/2015
+\dt 22/Jul/2016
 
 \lx ɔlɛpʋ
 \ph ɔlɛpʊ́
@@ -30223,7 +30229,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge pot
-\sd 6.7.3
+\sd 6.7.7
+\sd 6.6.2.4
+\sd 6.6.7.2
 \de water pot
 \pl nlɔ
 \plph nlɔ
@@ -30235,7 +30243,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ɔlanka
 \ce cooking pot
 \bb Stewart List:1209
-\dt 01/May/2016
+\dt 22/Jul/2016
 
 \lx ɔlɔkʋ
 \ph ɔlɔkʊ(H)
@@ -31811,9 +31819,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge carrier
-\sd 6.7.3
+\sd 7.3.1
 \de one who is carrying a load
-\dt 29/Aug/2013
+\dt 22/Jul/2016
 
 \lx ɔsʋrapʋka
 \ph ɔsʊrapʊká
@@ -34055,7 +34063,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bottle
-\sd 6.7.3
+\sd 6.7.7
 \de glass bottle
 \pl aprɛntʋa
 \plph aprɛntʊa(H)
@@ -34066,16 +34074,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ko prɛntʋa tsoli, afʋtsɛɩ nfɔ amʋ lɛ prɛntʋa amʋtɔ.
 \xe Turn the bottle over and pour the oil out of the bottle.
 \bb Stewart List:1183
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx prɛtɩ
 \ph prɛ́tɪ
 \ps n
 \sn
 \ge plate
-\sd 6.7.3
+\sd 5.2.2.8
 \de we eat inside plate
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx prɩ
 \ph prɪ̂ʔ
@@ -37987,13 +37995,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge hang
 \sd 7.3.1
-\sd 6.7.3
-\sd 6.7.7.1
 \de hang from shoulder
 \rf Tape:7-2-207
 \xv Alatsan kotokua.
 \xe He has hung a bag from his shoulder.
-\dt 15/Jun/2016
+\dt 22/Jul/2016
 
 \lx tsankasɩ
 \ph t͡sãŋkasɪ
