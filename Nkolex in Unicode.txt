@@ -5226,7 +5226,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 3
 \ge strong magic
-\sd 2.5.7
+\sd 4.9.4.1
 \sd 4.9.7.7
 \de having powerful magic
 \xv Nɩ fɛblɩ dʋbɩ a, fɔ́hɔ.
@@ -10642,12 +10642,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge bless
-\sd 4.9.7.7
+\sd 4.9.4.3
 \de bless
 \bw Akan fi:hyira
 \cf yula
 \ce bless
-\dt 12/Dec/2013
+\dt 21/Jul/2016
 
 \lx ibebi
 \ph ibébiʔ
@@ -13766,13 +13766,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge swear
-\sd 4.9.7.7
+\sd 4.7.5.7
 \de to make an oath
 \bw Akan fi: ka ntam
 \rf Tape:3-1-299
 \xv Owie pɔpwɛ amʋ ɛ ɔbɛ́ka ntam suna ahanden amʋ.
 \xe The new chief also will swear an oath to the elders.
-\dt 25/Dec/2013
+\dt 21/Jul/2016
 
 \lx kaba
 \ph kabaʔ
@@ -14790,6 +14790,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge forbid; taboo
 \sd 4.9.7.7
+\sd 4.9.5.6.1
 \de refuse; forbid; taboo
 \rf Tape:3-1-561
 \xv Bulu lekisi oyi kʋ ha amʋ́ ánɩ́ bʋ magyi mʋ́ abi.
@@ -14802,7 +14803,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf akisitɔ
 \ce forbidden things
 \bb Stewart List:2096
-\dt 05/Nov/2015
+\dt 21/Jul/2016
 
 \lx kɩ
 \hm 1
@@ -15487,8 +15488,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge bind spiritually
 \sd 4.9.7.7
+\sd 4.9.4.1
 \de to use magic to bind someone spiritually
-\dt 14/Jun/2016
+\dt 21/Jul/2016
 
 \lx klɩhɛ
 \ph klɪhɛ
@@ -22179,13 +22181,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge salvation
-\sd 4.9.7.7
-\sd 4.9.7.3
-\sd 4.9.7.2
+\sd 4.9.5.7
 \de being saved from danger
 \xv Yesu lowu pʋ hɔ anɩ nkpa.
 \xe Jesus died to save us.
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx nkpamba
 \ph ŋ͡mk͡pamba
@@ -22639,7 +22639,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge oath
-\sd 4.9.7.7
+\sd 4.7.5.7
 \de oath
 \bw Akan fi:ka ntam
 \xv Omankrado laka ntam ha Omanhene.
@@ -22651,7 +22651,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Mlɩmaka hwɩɩ ntam.
 \xe Don't swear by anything.
 \bb Stewart List:1492
-\dt 25/Dec/2013
+\dt 21/Jul/2016
 
 \lx ntɛ
 \ph ntɛ̂ː
@@ -25382,12 +25382,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge questioning corpse
 \sd 4.9.7.7
+\sd 4.2.2.1
+\sd 2.6.6.3
 \de the act of questioning a corpse in order to know the cause of his/her death
 \va ekeyi
 \ve South
 \xv Ɔhagyiɔha tsiatɔ bʋtɔpʋ da mʋ okeyi nɩ owu.
 \xe Everyone's behaviour is used to question him when he/she dies.
-\dt 14/Aug/2013
+\dt 21/Jul/2016
 
 \lx okikibwie
 \ph okikíbwie(H)
@@ -28840,14 +28842,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge herbalist
-\sd 2.5.7
-\sd 4.9.7.7
+\sd 2.5.7.5
 \de a person who uses herbs for medicine
 \pl afapʋ
 \plph afápʊ́
 \xv Takyi gyi ɔfapʋ wulu anfɩtɔ nɩ.
 \xe Takyi is the herbalist in this town.
-\dt 08/Jan/2014
+\dt 21/Jul/2016
 
 \lx ɔfɛ
 \ph ɔfɛ́
@@ -29829,7 +29830,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge witchcraft
-\sd 4.9.7.7
+\sd 4.9.4.1
 \de witchcraft
 \cf ɔkpɛpʋ
 \ce witch
@@ -29839,14 +29840,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ fʋdɛ fʋ ba lu a, igyi ɔkpɛ.
 \xe If you hate your neighbour, is witchcraft.
 \bb Stewart List:1433
-\dt 24/Dec/2013
+\dt 21/Jul/2016
 
 \lx ɔkpɛpʋ
 \ph ɔk͡pɛ́pʊ́
 \ps n
 \sn
 \ge witch / wizard
-\sd 4.9.7.7
+\sd 4.9.4.1
 \de witch / wizard
 \pl akpɛpʋ
 \plph ak͡pɛ́pʊ́
@@ -29855,7 +29856,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Megyi ɔha ánɩ́ ototsu asuma aha sʋ pɛ gyi ɔkpɛpʋ. Ɔha ánɩ́ otolu mʋ ba, blɩ mʋ ɩwɩ asʋn lalahɛ pʋ kpɔɩ mʋ ɛ a, ɔkpɛpʋ ogyi.
 \xe It isn't a person who uses juju against people who is only a witch. A person who hates his neighbour and says evil things against him to spoil his name is also a witch.
 \bb Stewart List:0412
-\dt 09/Nov/2015
+\dt 21/Jul/2016
 
 \lx ɔkpɩpʋ
 \ph ɔk͡pɪpʊ́
@@ -32484,14 +32485,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge idol
-\sd 4.9.7.7
+\sd 4.9.8.1
 \de a small clay image sculpted with a mouth that is fed a portion of the food whenever the elder eats
 \pl ntsɔpɩ
 \plph nt͡sɔpɪ́
 \xv Ɔtsɔpɩ bʋ ansibi, tamɛ ɔtamawun atɔ. Ɔbʋ asʋ, tamɛ ɔtamanu asʋn. Ɔbʋ ayabi, tamɛ ɔtamanatɩ.
 \xe Idol has eyes, but does not see. It has ears, but does hear. It has legs, but does not walk.
 \nt Usually a child is delegated to feed the idol. Before he does so he will have to use a stick to remove previous portions. Unless he is lucky enough to have a chicken eat it before. It is kept in the corner of a room.
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx ɔtsra
 \ph ɔt͡sra(H)
@@ -35713,7 +35714,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge swear
-\sd 4.9.7.7
+\sd 4.7.5.7
 \de to swear
 \cf ka ntam
 \ce swear oath
@@ -35721,7 +35722,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The elders will send one of the chiefs to go and swear to the new chief.
 \nt should translation be that he should go and swear
 \rf Tape:7-1-039
-\dt 25/Dec/2013
+\dt 21/Jul/2016
 
 \lx sukuu
 \ph sukûːʔ
@@ -35761,13 +35762,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge juju
 \sd 4.9.7.7
+\sd 4.9.8
 \de magical object
 \pl asuma
 \plph asuma
 \rf Tape:7-1-073
 \xv Oyin amʋ bʋ suma, tamɛ ɔbɛɛ ɔbɛ́tra hɔ ɩkʋ wa mʋ tɔ, fówun onya asuma.
 \xe The man has a magical object but he says he will get another in addition so that he will have magical objects.
-\dt 01/Jul/2014
+\dt 21/Jul/2016
 
 \lx sumbi
 \ph sumbí
@@ -35986,13 +35988,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge charm
-\sd 4.9.7.7
+\sd 4.9.4.1
 \de to invoke a charm on someone
 \xv wa ɔha sʋkpʋsali
 \xe to charm someone
 \xv Sʋkpʋsali oyin amʋ lɔwa ɔtsɩ amʋ. Mʋ́ sʋ ɔtsɩ amʋ talɩ ɔtsia mʋ nɩ.
 \xe The man charmed the woman that is why the woman is able to marry the man.
-\dt 02/Oct/2015
+\dt 21/Jul/2016
 
 \lx sʋn
 \ph sʊ̃
@@ -36949,14 +36951,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PropN
 \sn
 \ge name of a fetish
-\sd 4.9.7.7
+\sd 4.9.8.1
 \de a certain fetish
 \xv Tigari ɔkpɩ latsia nfɩ kɩ.
 \xe A Tigari fetish has been here before.
 \rf Tape:7-1-454
 \xv Akɩaɩ bʋtɔpʋ ha Tigari igyi.
 \xe Dogs are used for a sacrifice to Tigari fetish.
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx tii
 \ph tíː
@@ -37877,7 +37879,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge charm
-\sd 4.9.7.7
+\sd 4.9.4.1
 \de to charm someone
 \xv Kwame lawa Amba tsafa han mʋ ɔnɔ lakiki.
 \xe Kwame has charmed Amba to make her mouth crooked.
@@ -37885,7 +37887,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If you break an animals leg you have caused it to suffer.
 \xv Tsafawa ɩma alɛ.
 \xe Causing someone to suffer is not good.
-\dt 13/Jul/2014
+\dt 21/Jul/2016
 
 \lx tsakoto
 \ph t͡sákoto
@@ -39548,14 +39550,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge break oath
-\sd 4.9.7.7
+\sd 4.7.5.7
 \de to break an oath, to forswear yourself
 \xv Nɩ mɩ ɛ asʋn lɔtʋ fʋ, nɛsɩrɩ si fʋ a, nɛka nɔtʋn.
 \xe Me too, If trouble comes to you and l run away and leave you, l have broken my oath.
 \na Part of the oath that a new chief will swear.
 \rf Tape:8-1-103
 \nt From ths: words that break: bwie(break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn(break a law, oath), sɩɛtɩ (break off)
-\dt 11/Nov/2015
+\dt 21/Jul/2016
 
 \lx tʋn
 \hm 2
@@ -41601,7 +41603,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge bless
-\sd 4.9.7.7
+\sd 4.9.4.3
 \de bless
 \rf Tape:8-2-052
 \xv Nana Bulu toyula aha amʋ bʋtegyi mʋ asʋnsʋ amʋ fɛ́ɛ́.
@@ -41612,4 +41614,4 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:3243
 \cf hyira
 \ce bless
-\dt 12/Dec/2013
+\dt 21/Jul/2016
