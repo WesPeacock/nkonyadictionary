@@ -8961,7 +8961,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge breathe
-\sd 2.1.8
+\sd 2.2.1
 \de breathe
 \rf Tape:2-2-025
 \xv Omɔkʋ wu. Ɔdɛ ɔŋɛ fʋ.
@@ -8980,7 +8980,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-293
 \xv Abɛ amʋ lafʋ, sʋ abɔ́gyɔɩ mʋ́ ndɛ.
 \xe The palm nuts have loosened so we will remove them today.
-\dt 01/May/2016
+\dt 20/Jul/2016
 
 \lx fʋa
 \hm 1
@@ -13528,12 +13528,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 3
 \ge private parts
 \sd 2.1.8.3
+\sd 2.1.8.4
 \de euphemism for genitals
 \xv oyin wɩ
 \xe a man's genitals
 \xv ɔtsɩ wɩ
 \xe a woman's genitals
-\dt 18/Jul/2016
+\dt 20/Jul/2016
 
 \lx ɩwɩ imi
 \ph ɪwɪ imi
@@ -25526,7 +25527,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge anus
-\sd 2.1.8.3
+\sd 2.2.8
+\sd 2.1.8
 \xv Agyagya bʋma okokoni.
 \xe Bats don't have anuses.
 \rf Tape:6-2-576
@@ -25534,7 +25536,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The child's anus has a sore, so give him an enema.
 \bb SIL-AWL:0045
 \bb Stewart List:0063
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx okonkisʋ
 \ph okoŋkísʊ́
@@ -25644,14 +25646,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge buttocks
-\sd 2.1.8.3
+\sd 2.2.8
 \de buttocks
 \pl nkponkpo
 \plph ŋ͡mk͡poŋ͡mk͡pó
 \xv Atɔ osunapʋ amʋ dɛ nyebi amʋ okponkpotɔ atɔ pɩtɩ, tsufɛ bʋdɛtɔɩ dʋbɩ.
 \xe The teacher is whipping the children at their buttocks because they are talking too much.
 \bb SIL-AWL:0044
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx okpoti
 \ph ok͡potí
@@ -26332,14 +26334,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge vagina
-\sd 2.1.8.3
+\sd 2.1.8.4
 \de vagina
 \nt opie used to be used for private parts in general
 \bb Stewart List:0065
 \xv Opietɔ bʋtɔkwɩɩ nyankpʋsa tsʋn.
 \xe People are born through the vagina.
 \bb SIL-AWL:0048
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx opiki
 \ph opiki
@@ -27066,10 +27068,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge clitoris
-\sd 2.1.8.3
+\sd 2.1.8.4
 \de clitoris
 \bb SIL-AWL:0049
-\dt 26/Aug/2013
+\dt 20/Jul/2016
 
 \lx otsrim
 \ph ot͡srim
@@ -30262,7 +30264,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge back
-\sd 2.1.8
+\sd 2.1.2
 \de back of the body
 \cf ɔmagya
 \ce follow
@@ -30287,7 +30289,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge after
 \sd 8.4.5
 \de afterwards
-\dt 03/Nov/2015
+\dt 20/Jul/2016
 
 \lx ɔmá
 \ph ɔmá
