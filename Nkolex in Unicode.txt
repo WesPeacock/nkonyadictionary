@@ -2871,14 +2871,14 @@
 \ps ADV
 \sn
 \ge before
-\sd 8.4.5
+\sd 8.4.5.2
 \de before
 \rf Tape:1-1-560
 \xv Asa nɔ́kʋsʋ nyankɩgyinyankɩ a, ntɔbɔ mpaɩ, da Bulu pan ha alɩ ánɩ́ alaha ɔyɩ lakɛ mɩ.
 \xe Before I will get up every morning, I always pray, thanking God that he has given me the morning (taken care of me until this time).
 \va asan
 \ve South
-\dt 11/Jun/2014
+\dt 21/Jul/2016
 
 \lx asa
 \hm 2
@@ -3912,7 +3912,7 @@
 \ps n
 \sn
 \ge end
-\sd 8.4.5
+\sd 8.4.6.1.3
 \de end of a month; of a person, his final state
 \bw Akan fi:
 \xv Ɔtsra anfɩ awiɛɩ nɔ́yɔ Nkran.
@@ -3921,7 +3921,7 @@
 \xe At the end of this month I will go to Accra.
 \cf ɔnɔ ɔmɔkpa
 \ce ending
-\dt 06/Nov/2015
+\dt 21/Jul/2016
 
 \lx awikpan
 \ph awik͡pã
@@ -5666,13 +5666,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps TIME
 \sn
 \ge always
-\sd 8.4.5
+\sd 8.4.6.6.5
 \de all the time
 \nt etymology brɛ gyi brɛ "time every time"
 \rf Tape:1-2-590
 \xv Ntɛba fʋ woyitɔ bregyibrɛ, tamɛ ntamatʋ fʋ.
 \xe I come to your house all the time but I never meet you.
-\dt 01/Feb/2014
+\dt 21/Jul/2016
 
 \lx brɛ
 \ph brɛ́(H)
@@ -5701,7 +5701,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn 1
 \ge sometimes
-\sd 8.4.5
+\sd 8.4.6.6.2
 \de sometimes
 \xv Brɛ kʋtɔ a, nɩ nyankpʋ detswie a, atsufolibi tɔkpa.
 \xe Sometimes, if it rains, hail falls.
@@ -5712,16 +5712,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps TIME
 \ge some time
 \de a certain (but unspecified) time
-\dt 05/Nov/2015
+\dt 21/Jul/2016
 
 \lx brɛkʋtɔ
 \ph brɛ́kʊtɔ
 \ps ADJ
 \sn
 \ge usually
-\sd 8.4.5
+\sd 8.4.6.6.3
 \de usually
-\dt 28/Apr/2016
+\dt 21/Jul/2016
 
 \lx bribribribri
 \ph bribribribri
@@ -6659,7 +6659,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge old
-\sd 8.4.5
+\sd 8.4.6.5.2
 \de old
 \pl adada
 \plph adáda
@@ -6672,7 +6672,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe My shirt is getting old. Tomorrow I'll buy a new one.
 \an pɔpwɛ
 \bb Stewart List:1666
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx dadɩsɛɩn
 \ph dadɪsɛ́ɪ̃́
@@ -7432,12 +7432,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va dodo
 \ge already
-\sd 8.4.5
+\sd 9.4.4
+\sd 8.4.5.2
 \de already
 \rf Tape:1-2-435
 \xv Nɔwa fʋ sumbi dodoodo amʋ a, biansʋ faba nɩ?
 \xe I sent you on an errand a long time ago and just now you have come? (That is, what took you so long?)
-\dt 22/Jun/2014
+\dt 21/Jul/2016
 
 \lx dɔ
 \hm 1
@@ -7463,7 +7464,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge hour
-\sd 8.4.5
+\sd 8.4.1
 \de hour
 \se dɔ fɩnɩ
 \ge when
@@ -7473,7 +7474,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lt How many bells have struck?
 \nt this is a unique form of ɔdɔn which occurs only in this expresion.
 \rf Tape:2-1-354
-\dt 08/Feb/2014
+\dt 21/Jul/2016
 
 \lx dɔkɩta
 \ph dɔkɪ́ta
@@ -7939,11 +7940,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge never
-\sd 8.4.5
+\sd 8.4.6.6.6
 \de never
 \xv Ɛkɛkɛɛkɛ, mɩa fʋnyɔ anɩ ma asʋasʋn.
 \xe Never, I don't have any case with you.
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx ɛkɛwʋlɛ
 \ph ɛkɛwʊ́lɛ
@@ -9075,14 +9076,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 1
 \ge enough
-\sd 6.8.1.1
+\sd 8.1.7
 \de to be enough
 \xv Q: Ɩlafʋn? A: O-o!
 \xe Q: Is that enough? A: No!
 \ps vi
 \sn 2
 \ge reach
-\sd 7.2
+\sd 3.3.1.1
+\sd 7.2.3.3.1
 \de to reach a certain place
 \rf Tape:2-2-057
 \xv Nafʋn nfɩ.
@@ -9091,7 +9093,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce reach
 \se fʋn ɔkpatɔ
 \ge begin
-\sd 8.4.5
+\sd 8.4.6.1
 \de to begin
 \rf Tape:2-2-061
 \xv Bɔpʋ amʋ agyʋma amʋ fʋn ɔkpatɔ, bɛɛ ndɛ bɔ́yɔ mʋ sʋ.
@@ -9102,7 +9104,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge until
 \sd 8.4.6.1.4
 \de until
-\dt 17/May/2016
+\dt 22/Jul/2016
 
 \lx fʋnaa
 \ph fʊ́naː
@@ -12505,11 +12507,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge again
-\sd 8.4.5
 \sd 8.4.6.6.1
 \de again
 \lt a certain one as well
-\dt 22/Jun/2014
+\dt 22/Jul/2016
 
 \lx ɩkʋlɛ
 \ph ɪkʊlɛʔ
@@ -14845,11 +14846,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge before
-\sd 8.4.5
+\sd 8.4.5.2
 \de before
 \xv Ɔmɔkʋ wun mʋ́ kɩ.
 \xe He had never seen it before.
-\dt 23/Jun/2014
+\dt 22/Jul/2016
 
 \lx kɩ
 \hm 3
@@ -16816,13 +16817,13 @@ cf fonflo
 \ps ADV
 \sn
 \ge until
-\sd 8.4.5
+\sd 8.4.6.1.4
 \de until
 \xv Omegyi atɔ tsu nyankɩ kpɛfʋn ntʋpwɛ.
 \xe He didn't eat anything from morning until evening.
 \xv Kebi amʋ méesi su, kpefʋn brɛa ɔtsɩ amʋ laha mʋ nyɔpʋ.
 \xe The child will not crying until the woman breastfeed him.
-\dt 22/Jun/2014
+\dt 22/Jul/2016
 
 \lx kpɛkpɛ
 \hm 1
@@ -18095,13 +18096,13 @@ cf fonflo
 \ps v
 \sn
 \ge first
-\sd 8.4.5
+\sd 8.4.5.2
 \de to do something first, instead of something else
 \xv Ɔtɔkʋ yɔ ndɔ asa ɔtɛba agyʋmasʋ.
 \xe He puts off going to work for a bit while he goes to farm.
 \xv Kʋ lɩɩ asa nɛ́ba ayɔ.
 \xe Wait for the meantime, before I will come so that we should go.
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx kʋklʋ
 \ph kʊklʊ́
@@ -18705,18 +18706,17 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 1
 \ge again
-\sd 8.4.5
 \sd 8.4.6.6.1
 \de to do something again
 \ps v
 \sn 2
 \ge unexpectedly
-\sd 3.4
+\sd 3.2.7
 \de to unexpectedly occur
 \rf Tape:4-1-407
 \xv Ansigyi amʋ fɛ́ɛ́ lɛla damlɩ ansɩpɛpɛ.
 \xe All the happiness unexpectedly turned to trouble.
-\dt 03/Nov/2015
+\dt 22/Jul/2016
 
 \lx la
 \hm 2
@@ -20620,17 +20620,17 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge finish
-\sd 8.4.5
+\sd 6.1.2.3.5
 \de to finish something
 \lt kill mouth
 \se ɔnɔ ɔmɔkpa
 \ge ending
-\sd 8.4.5
+\sd 6.1.2.3.5
 \de the ending of something
 \rf Tape:4-2-239
 \xv Ɩlasi kpalobi anɩla mɔ anɩ agyʋma ɔnɔ.
 \xe There is only a little left before we finish our work.
-\dt 22/Dec/2013
+\dt 22/Jul/2016
 
 \lx mɔkʋ
 \ph mɔkʊ́ʔ
@@ -20638,7 +20638,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \va mɔkʋ-
 \ge not yet
-\sd 8.4.5
+\sd 9.4.1.2
 \de not yet
 \rf Tape:4-2-371
 \xv Ɔmɔkʋ nya yɔ.
@@ -20652,7 +20652,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-378
 \xv Omɔkʋ wu. Ɔdɛ ɔŋɛ fʋ.
 \xe He's not yet dead. He's still breathing.
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx mɔmʋ
 \ph mɔmʊ
@@ -29329,12 +29329,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge edge
-\sd 8.4.5
+\sd 8.6.6
 \de edge; beside
 \nt from ɔka - boundary + sʋ - on
 \xv Mmeyin ntsu pɩtɩ, sʋ mʋ́ akasʋ nɔtsʋn yɔ woyi.
 \xe I don't know how to swim so I passed along the edge of it (the river) to the house.
-\dt 04/Jul/2014
+\dt 22/Jul/2016
 
 \lx ɔkɛ
 \ph ɔkɛ (H)
@@ -29385,7 +29385,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge never
-\sd 8.4.5
+\sd 8.4.6.6.6
 \de never
 \rf Tape:5-2-430
 \xv Matra blɩ alɩ ɔkɛkɛɛkɛ.
@@ -29393,7 +29393,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-433
 \xv Matra bwɛ alɩ ɔkɛkɛɛkɛ.
 \xe Don't ever do that again.
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx ɔkɩankpapʋ
 \ph ɔkɪaŋ͡mk͡papʊ
@@ -30299,14 +30299,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge back
-\sd 7.2
+\sd 7.2.3.6
 \de the place one has returned to
 \ps n
 \sn 3
 \ge after
-\sd 8.4.5
+\sd 8.4.5.2.1
 \de afterwards
-\dt 20/Jul/2016
+\dt 22/Jul/2016
 
 \lx ɔmá
 \ph ɔmá
@@ -30373,10 +30373,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge follow
-\sd 8.4.5
+\sd 7.2.5.2
 \de follow
 \va ɛmagya
-\dt 04/Jan/2014
+\dt 22/Jul/2016
 
 \lx ɔmanti
 \ph ɔmanti(H)
@@ -30922,7 +30922,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de where something starts
 \se oyi ɔnɔ
 \ge treetop
-\sd 8.4.5
+\sd 8.6.2
 \de the top of a tree
 \se ɔpʋ ɔnɔ
 \ge shore
@@ -30961,7 +30961,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-188
 \xv Anɩ asʋn amʋ ɔnɔ mɔtɔ pɛ, mʋʋ oyin amʋ lɛba a.
 \xe Just as our matter finished, then the man came.
-\dt 21/Jul/2016
+\dt 22/Jul/2016
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
@@ -31121,7 +31121,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge since
-\sd 8.4.5
+\sd 8.4.6.1.5
 \de since
 \se ɔyɩ ɔpa
 \ge long ago
@@ -31133,7 +31133,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-283
 \xv Ɔyɩ ɔpa amʋ́ʋ́ nɔwa fʋ sumbi amʋ a, bɩansʋ fɛba nɩ?
 \xe I sent you on the errand long ago, are you now coming?
-\dt 20/Jul/2016
+\dt 22/Jul/2016
 
 \lx ɔpablɩsʋ
 \ph ɔpablɪ́sʊ́
@@ -32413,11 +32413,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn 2
 \ge at once
-\sd 8.4.5
+\sd 8.4.6.4.4
 \de at once
 \xv ɔtsawʋlɛ pɛ
 \xe at once
-\dt 03/Nov/2015
+\dt 22/Jul/2016
 
 \lx ɔtsɩ
 \ph ɔt͡sɪʔ(H)
@@ -33679,10 +33679,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge repeat
-\sd 8.4.1
-\sd 8.4.5
+\sd 3.5.1.2.6
 \de to repeat something over and over
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx Plankɩ
 \ph plãŋkɪ
@@ -34026,7 +34025,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge new
-\sd 8.4.5
+\sd 8.4.6.5.3
 \de new
 \pl apɔpwɛ
 \plph apɔ́pwɛʔ(L)
@@ -34037,7 +34036,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Atɔ pɔpwɛ bʋ akɩlɛ.
 \xe New things are good to look at.
 \bb Stewart List:1665
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx pɔsɩɩ
 \ph pɔsɪː
@@ -36346,7 +36345,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 1
 \ge finish
-\sd 8.4.5
+\sd 6.1.2.3.5
 \de to finish
 \rf Tape:7-1-304
 \xv Nabwɛ ta.
@@ -36375,8 +36374,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He almost finished eating.
 \se ta X ta
 \ge nearly
-\sd 8.1
-\de to very neary accomplish some action
+\sd 8.1.5.6
+\de to very nearly accomplish some action
 \xv Ɔlɛta wu ta.
 \xe He very nearly died.
 \xv Ɔlɛta gyi ta.
@@ -36385,12 +36384,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge often
-\sd 8.4.5
+\sd 8.4.6.6.3
 \de to do something often
 \xv Nkʋnʋ fʋdɛta bɔtsʋn yɔ alɩ a?
 \xe Where do you often go when you pass here?
 \bb Stewart List:2958
-\dt 20/Jul/2016
+\dt 22/Jul/2016
 
 \lx taan
 \ph tã̂ːʔ
@@ -37701,7 +37700,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge again
-\sd 8.4.5
+\sd 8.4.6.6.1
 \de again, still
 \cf trahɛ
 \ce final
@@ -37716,7 +37715,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Tra wa fʋ ɩlʋ amʋ ɩkʋɛ.
 \xe Repeat your song again.
 \bb Stewart List:1849
-\dt 01/Feb/2014
+\dt 22/Jul/2016
 
 \lx trahɛ
 \ph tráhɛ
@@ -38784,12 +38783,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge enough
-\sd 8.4.5
+\sd 8.1.7
 \de enough
 \rf Tape:7-2-432
 \xv Ɩtsɔ? Eee, ɩtsɔ.
 \xe Is that enough? Yes it's enough.
-\dt 21/Jun/2014
+\dt 22/Jul/2016
 
 \lx tsɔ
 \hm 2
@@ -39039,7 +39038,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge before
-\sd 8.4.5
+\sd 8.4.5.2
 \de before
 \rf Tape:7-2-506
 \xv Oyin amʋ lotsutsua ba a, ayɔ.
@@ -39047,7 +39046,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-509
 \xv Owí bótsutsua pɔn a, mɩ atɔ amʋ lawʋlɩ.
 \xe By late afternoon (the sun has softened) my things had dried.
-\dt 23/Jun/2014
+\dt 22/Jul/2016
 \xv Emma lotsutsua tsu ndɔtɔ ba a, oyin amʋ lanatɩ.
 \xe Before Emma could come from farm, the man had left.
 \xv Owí lotsutsua pɔn a, nanɩna atɔ ta.
@@ -40355,7 +40354,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge end
-\sd 8.4.5
+\sd 8.6.7
 \de to end or expire
 \rf Tape:8-1-342
 \xv Mɩ yibi ɔwʋlʋ lawu.
@@ -40366,7 +40365,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge dull
-\sd 6.6.2.3
+\sd 8.3.2.4
 \de to become dull
 \rf Tape:8-1-344
 \xv Mɩ krantɩɛ ɔnɔ lawu.
@@ -40388,7 +40387,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to become weak
 \xv Nakɩ anwunsʋ lawa ɔpa dʋbɩ. Mɩ oboyi lawu.
 \xe I have looked up for too long. My neck has gotten stiff.
-\dt 19/Jul/2016
+\dt 22/Jul/2016
 
 \lx wuli
 \ph wúli
@@ -40483,7 +40482,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge immediately
-\sd 8.4.5
+\sd 8.4.6.4.4
 \de immediately
 \rf Tape:8-1-422
 \xv Wuna wanlɩn fʋ ɩda ha mɩ asa fʋ nati.
@@ -40491,7 +40490,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Wuna mɔ mɩ!
 \xe Kill me right now!
 \xe You might as well kill me!
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx wunsinɛsʋ
 \ph wunsinɛsʊ
@@ -41562,9 +41561,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge until
-\sd 8.4.5
+\sd 8.4.6.1.4
 \de until
-\dt 22/Jun/2014
+\dt 22/Jul/2016
 
 \lx yɔɩ
 \ph yɔ́ɪ́
