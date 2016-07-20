@@ -3647,9 +3647,10 @@
 \ps n
 \sn
 \ge intestine worm
-\sd 2.5.1
+\sd 1.6.1.9
+\sd 2.5.5
 \de intestinal worm
-\dt 28/Jul/2013
+\dt 21/Jul/2016
 
 \lx atse
 \ph at͡séʔ
@@ -6147,7 +6148,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge be weak
 \sd 2.4.2
-\sd 2.5.1
 \de to be weak
 \rf Tape:2-1-103
 \xv Mɩ wɩ dɛ mɩ bʋ.
@@ -6157,7 +6157,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge wilt
 \sd 2.4.4
 \de to wilt
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx bʋ-
 \ph bʊ
@@ -6258,9 +6258,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge weak
 \sd 2.4.2
-\sd 2.5.1
 \de weak
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx bʋn
 \ph bʊ̃ʔ
@@ -6476,7 +6475,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:2754
 \se atɔ lada
 \ge grow boil
-\sd 2.5.1
+\sd 2.5.2.2
 \de to grow a boil
 \lt things have hit
 \xv Atɔ lada mɩ.
@@ -6506,7 +6505,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge Exclaim
 \sd 2.5.8
 \de express surprise/dismay by tapping the mouth while saying "Uuuuuuuuuu"
-\dt 02/Nov/2015
+\dt 21/Jul/2016
 
 \lx da
 \hm 2
@@ -8512,11 +8511,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge bloat
 \de be bloated
-\sd 8.1.4.2
-\sd 2.5.1
+\sd 2.5.2.3
+\sd 2.5.6.3
 \xv Oyin amʋ ɔmɛ lafɩ.
 \xe That old man has got a bloated stomach.
-\dt 01/May/2016
+\dt 21/Jul/2016
 
 \lx fɩkɔfɩkɔfɩkɔ
 \ph fɪ́kɔ́fɪ́kɔ́fɪ́kɔ́
@@ -9587,9 +9586,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge elephantiasis
-\sd 2.5.1
+\sd 2.5.6.3
+\sd 2.5.2.2
 \de elephantiasis
-\dt 12/Jul/2014
+\dt 21/Jul/2016
 
 \lx gyanifi
 \ph ʤanifí
@@ -10823,9 +10823,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps NUM
 \sn
 \ge eleven
-\sd 2.5.1
+\sd 8.1.1.1
 \de eleven
-\dt 12/Jul/2014
+\dt 21/Jul/2016
 
 \lx idusɩ
 \ph idúsɪ́
@@ -11694,7 +11694,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge tick
 \sd 1.6.1.7
-\sd 2.5.1
 \de a small blood sucking insect; a tick
 \pl aba
 \plph aba(H)
@@ -11702,7 +11701,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Aba bayi mɩ kɩaɩ.
 \xe Ticks have stuck onto my dog.
 \rf Tape:1-1-031
-\dt 11/Jul/2014
+\dt 21/Jul/2016
 
 \lx ɩba
 \hm 3
@@ -12126,11 +12125,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge canker
-\sd 2.5.1
+\sd 2.5.2.2
 \de canker
 \cf mpumpu ngya
 \ce blister
-\dt 22/Dec/2013
+\dt 21/Jul/2016
 
 \lx ɩfʋ
 \ph ɪfʊʔ
@@ -12653,11 +12652,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge leprosy
-\sd 2.5.1
+\sd 2.5.2.2
 \sd 2.5.4
 \de leprosy
 \lt red disease
-\dt 13/Jul/2014
+\dt 21/Jul/2016
 
 \lx ɩlʋ
 \ph ɪlʊʔ(H)
@@ -12677,11 +12676,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge hernia
-\sd 2.5.1
+\sd 2.5.2.3
+\sd 2.5.6.3
 \de hernia
 \cf aklodobi
 \ce hernia
-\dt 12/Dec/2013
+\dt 21/Jul/2016
 
 \lx ɩma
 \ph ɪmaʔ
@@ -13633,13 +13633,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge mole
-\sd 2.5.1
+\sd 8.3.7.8.2
+\sd 2.1.4
 \de mole on the skin
 \rf Tape:3-1-268
 \xv Ɩyɛ labwɛ mʋ wɩ fɛ́ɛ́.
 \xe He has many moles.
 \nt From ths: illnesses that make us (labwɛ): mfa, ɔnamba, ɔnamplɔɩ, sɛsɛ, ɩyɛ
-\dt 27/Aug/2013
+\dt 21/Jul/2016
 
 \lx ka
 \hm 1
@@ -14408,14 +14409,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge boil (n)
-\sd 2.5.1
+\sd 2.5.2.2
 \de boil (on the skin)
 \pl akɛklɛ
 \plph akɛklɛ (H)
 \xv Mɩ kɛklɛ amʋ lafa sʋ ɩwɩ lalwii mɩ.
 \xv My boil has burst so I am at peace.
 \rf Tape:3-1-496
-\dt 13/Jul/2014
+\dt 21/Jul/2016
 
 \lx kɛlɩ
 \ph kɛlɪ (H)
@@ -14582,7 +14583,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Turn your head.
 \se ɔmɛtɔ ki
 \ge nausea
-\sd 2.5.1
+\sd 2.5.2.3
 \de to be nauseated
 \xv Ɔmɛtɔ dɛ fʋ ki?
 \xe Are you feeling nauseated?
@@ -14604,7 +14605,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge twist
 \sd 7.2.2.7
 \de to twist or spin something
-\dt 18/Jul/2016
+\dt 21/Jul/2016
 
 \lx ki fia
 \ph kí fíá
@@ -17207,14 +17208,14 @@ cf fonflo
 \ps v
 \sn
 \ge vomit
-\sd 2.5.1
+\sd 2.5.2.3
 \de vomit
 \xv Falu mɩ tamɛ fʋmɛ́ɛtalɩ kplaɩ mɩ.
 \xe You have hated / retched on (see sense 2) me but you will not be able to vomit me.
 \xe Free: You hate but you can't get rid of me.
 \rf Tape:4-1-546
 \bb Stewart List:2047
-\dt 12/Jul/2014
+\dt 21/Jul/2016
 
 \lx kplakitsi
 \ph k͡plakit͡si
@@ -17309,11 +17310,12 @@ cf fonflo
 \ps v
 \sn
 \ge nick
-\sd 2.5.1
+\sd 2.5.3
+\sd 2.1.4
 \de to scrape the skin
 \xv Kebi amʋ ladɩda kplɔɩ mʋ owunfisʋ.
 \xe The child has fallen down to nick his forehead.
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx kplʋn
 \ph k͡plʊ̃̂ʔ(L)
@@ -19497,9 +19499,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge retch
-\sd 2.5.1
+\sd 2.5.2.3
 \de to retch on something
-\dt 04/Feb/2016
+\dt 21/Jul/2016
 
 \lx luluulu
 \ph lúlúːlú
@@ -20862,11 +20864,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge blister
-\sd 2.5.1
+\sd 2.5.2.2
 \de blister
 \cf ɩfɔɩ
 \ce canker
-\dt 22/Dec/2013
+\dt 21/Jul/2016
 
 \lx mpuni
 \ph mpúniʔ
@@ -21541,7 +21543,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge guinea worm
-\sd 2.5.1
+\sd 2.5.5
+\sd 1.6.1.9
 \de guinea worm
 \rf Tape:4-2-220
 \xv Nfa bʋ batɛ mpuni amʋtɔ sʋ pʋ tsitsa.
@@ -21551,7 +21554,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Guinea worm has attacked his leg.
 \bb Stewart List:0770
 \nt From ths: illnesses that make us (labwɛ): nfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
-\dt 28/Jul/2013
+\dt 21/Jul/2016
 
 \lx nfansrɩ
 \ph ɱfánsrɪ́
@@ -24501,7 +24504,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge louse
 \sd 1.6.1.7
-\sd 2.5.1
 \de louse
 \pl mbubwi
 \plph mbubwi
@@ -24514,7 +24516,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv kpolitɔ obubwi
 \xe weevil
 \lt corn louse
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx obugya
 \ph obuʤaʔ
@@ -24665,11 +24667,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se lɔ odu
 \ph lɔ́ odú
 \ge get haemorrhoids
-\sd 2.5.1
+\sd 2.5.2
+\sd 2.2.8
 \de to develop haemorrhoids
 \xv Bɛɛ fenya gyi mankani dʋbɩ a, fɔ́lɔ odu.
 \xe They say that if you eat too much mankani you will develop haemorrhoids.
-\dt 29/Aug/2013
+\dt 21/Jul/2016
 
 \lx odu
 \hm 2
@@ -25267,9 +25270,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge ringworm
-\sd 2.5.1
+\sd 2.5.2.2
+\sd 1.6.1.9
+\sd
 \de ringworm
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx ogyo otswapʋ
 \ph oʤo ot͡swapʊ́
@@ -27396,7 +27401,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge malaria
-\sd 2.5.1
+\sd 2.5.2
 \de malaria
 \xv Owisʋ dɛ mɩ han.
 \xe Malaria is troubling me.
@@ -27405,9 +27410,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge fever
-\sd 2.5.1
+\sd 2.5.6.2
 \de usually fever but can be any nonspecific viral type illness
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx owu
 \ph owu(H)
@@ -30200,7 +30205,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sore
-\sd 2.5.1
+\sd 2.5.2.2
+\sd 2.5.3
 \de sore
 \pl nlɔ
 \plph nlɔ(H)
@@ -30209,7 +30215,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔdɩn ɔlɔ mʋ ofinsʋ. Oyeyia mʋ́ ɔba.
 \xe He has a sore on his shin. He is going to press it with warm compresses and come.
 \bb Stewart List:0032
-\dt 01/Jul/2014
+\dt 21/Jul/2016
 
 \lx ɔlɔ́
 \ph ɔlɔ́
@@ -30746,7 +30752,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sore
-\sd 2.5.1
+\sd 2.5.2.2
 \de sore on the heel caused when the skin cracks mostly happens in the dry season
 \pl nnamba
 \plph nnambá
@@ -30754,21 +30760,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔnamba labwɛ mɩ ɔnanku, ɩdɛ mɩ dwiin.
 \xe There is a sore on my heel, so it is paining me.
 \nt From ths: illnesses that make us (labwɛ): mfa, ɔnamba, ɔnamplɔɩ, sɛsɛ, ɩyɛ
-\dt 26/Dec/2012
+\dt 21/Jul/2016
 
 \lx ɔnamplɔɩ
 \ph ɔnamplɔɪʔ(H)
 \ps n
 \sn
 \ge sore
-\sd 2.5.1
+\sd 2.5.2.2
 \de cracks between the toes, it mostly happens in the raining season
 \pl nnamplɔɩ
 \plph nnamplɔɪʔ(H)
 \xv Ɔnamplɔɩ labwɛ mɩ anambitɔ, sʋ mmɛtalɩ natɩ wanklaan.
 \xe I have developed cracks between my toes so I can't walk well.
 \nt From ths: illnesses that make us (labwɛ): mfa, ɔnamba, ɔnamplɔɩ, sɛsɛ, ɩyɛ
-\dt 26/Dec/2012
+\dt 21/Jul/2016
 
 \lx ɔnanku
 \ph ɔnaŋkûʔ
@@ -33593,14 +33599,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge scar
-\sd 2.5.1
+\sd 5.4.6
 \de scar
 \pl apɩna
 \plph apɪná
 \xv Pɩna dɩn mʋ onwunfisʋ.
 \xe He has a scar on his forehead.
 \bb Stewart List:0052
-\dt 26/Aug/2013
+\dt 21/Jul/2016
 
 \lx pɩtɩ
 \ph pɪ́tɪ́
@@ -33707,7 +33713,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge scar
-\sd 2.5.1
+\sd 7.9.1
+\sd 2.1.4
 \de scar
 \pl aplebi
 \plph aplébîʔ
@@ -33725,7 +33732,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf hɩɛ nsʋ
 \ce brand
 \nt There was a case where a farmer caught a man red-handed stealing yams from his farm. So he went to the family and complained. They said that because he had not cut him (kun) with a cutlass to mark him (dɩnka mʋ plebi) he had no proof that the accused was a thief. Therefore the family would not do anything. So the farmer has gone to the police to lodge a complaint and has said that if that is the case the next time the man comes to his farm to steal he will shoot him and if he kills him the family won't be able to say anything against him because this time they complained that he hadn't wounded him.
-\dt 07/Nov/2015
+\dt 21/Jul/2016
 
 \lx plei
 \ph pléí
@@ -33906,7 +33913,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge weak
 \sd 2.4.2
-\sd 2.5.1
+\sd 8.3.6.5
 \de to become weak
 \xv Mɩ bi lɔpɔn sʋ, mʋ aba bʋtɛda mʋ.
 \xe My son is weak, so his mates always hit him.
@@ -33942,7 +33949,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 4.7.6.2
 \de to declare guilty
 \bb Stewart List:3250
-\dt 01/Jun/2016
+\dt 21/Jul/2016
 
 \lx pɔntɔ
 \ph pɔ̃ntɔ(H)
@@ -34176,14 +34183,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge swell
-\sd 2.5.1
+\sd 2.5.6.3
 \de swell
 \xv Owu lawɔ mʋ yabi, sʋ ɩlapunya.
 \xe He has a thorn in his foot. The foot has swollen up.
 \xv Awʋnsa basʋra mɩ ɩbɩ sʋ lapunya.
 \xe Bees have stung my arm so it has swollen up.
 \bb Stewart List:2263
-\dt 11/Jul/2014
+\dt 21/Jul/2016
 
 \lx pupu
 \ph pupu
@@ -34917,12 +34924,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge ringworm
-\sd 2.5.1
+\sd 2.5.2.2
 \de ringworm
 \xv Sɛsɛ labwɛ kebi amʋ nwuntɔ.
 \xe The child has ringworm on his head.
 \nt From ths: illnesses that make us (ya bwɛ): nfa, ɔnamba, ɔnampɔɩ, sɛsɛ, ɩyɛ
-\dt 26/Dec/2012
+\dt 21/Jul/2016
 
 \lx si
 \hm 1
@@ -35371,7 +35378,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge boil
-\sd 2.5.1
+\sd 2.5.2.2
 \de cow boil
 \nt At the time when British pounds were used a sɩmpʋa was threepence. When these boils heal they leave small circular black scars and so take their name from the coin. They are differentiated from ordinary boils called kɛklɛ more by their outcome than by any physical characteristics. It is believed that if you inject someone who has a sɩmpʋa they will die. Recently a woman with severe hypertension developed a boil. As a logical extension of the above she went off her antihypertensives.
 \va ɔnantswie sɩmpʋa
@@ -35384,7 +35391,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If you inject, it can kill you.
 \xv Nnantswɩɛ ɛ bʋ tɔlɔ mʋ. Mʋ́ sʋ bʋtɛtɩ mʋ́ ɔnantswie sɩmpʋa nɩ.
 \xe Cows also get these boils. Because of this they call it cow boil.
-\dt 21/Aug/2013
+\dt 21/Jul/2016
 
 \lx sɩnaa
 \ph sɪnâː
@@ -38020,16 +38027,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 1
 \ge spread
-\sd 2.5.1
+\sd 2.5.5
+\sd 7.5.7
+\sd 5.5.4
 \de spread, as fire or disease
 \xv Oyin ɔkʋ lawa ogya, ɩlatsankɩ wie aha ndɔtɔ.
 \xe A certain man has set fire and it has spread into people's farm.
 \ps v
 \sn 2
 \ge jump
-\sd 2.5.1
+\sd 7.2.1.1.3
 \de jump from tree to tree
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx tsantsabwi
 \ph t͡sant͡sabwi
@@ -38213,14 +38222,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn 2
 \ge have diarrhoea
-\sd 2.5.1
+\sd 2.2.8
 \sd 2.5.2.3
 \de to have diarrhoea
 \rf Tape:7-2-263
 \xv Fʋ bi amʋ ɩwɩtɔ latii sʋ ɔdɛtsɛɩ.
 \xe Your child's stomach has opened so he is running diarrhoea.
 \bb Stewart List:2666
-\dt 15/Jun/2016
+\dt 21/Jul/2016
 
 \lx tsɛlɛ
 \hm 1
@@ -38228,12 +38237,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge sprain
-\sd 2.5.1
+\sd 2.5.3
 \de to sprain an joint
 \ng The joint is the agent, the person is the patient.
 \xv Mɩ yabi latsɛlɛ mɩ.
 \xe I have sprained my ankle/foot.
-\dt 04/Feb/2016
+\dt 21/Jul/2016
 
 \lx tsɛlɛ
 \hm 2
@@ -41122,7 +41131,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge dress sore
-\sd 2.5.1
+\sd 2.5.7
+\sd 2.5.7.5
 \de to squeeze a sore
 \na This is the traditional way of treating a sore.
 \xv Oteyia kebi amʋ ɔlɔ wanklaan.
@@ -41146,7 +41156,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-554
 \xv Ɔdɛ oyi yia.
 \xe He is using a walking stick.
-\dt 15/Jun/2016
+\dt 21/Jul/2016
 
 \lx yibi
 \ph yibi(H)
@@ -41431,14 +41441,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge careful
-\sd 6.1.2.3.
+\sd 6.1.2.3.1
 \de take care
 \rf Tape:8-1-410
 \xv Yɩlɔwɩ kplɩ ɩbʋ amʋ, ɩnʋ bʋ ɔplɩ.
 \xe Take care coming down the mountain it is slippery there.
 \xv Ɔdɔtɔpʋ odua ɔtamayɩlɔwɩ a, otokun ɩwɩ atɔ.
 \xe A farmer who does not take care, cuts himself.
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx yɩraka
 \ph yɪ́ráka
@@ -41583,9 +41593,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge weak
 \sd 2.4.2
-\sd 2.5.1
 \de weak
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx yula
 \ph yúlá
