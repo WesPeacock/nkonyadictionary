@@ -1835,12 +1835,12 @@
 \sn
 \ge sniffable
 \sd 2.3.4
-\sd 5.7.3
+\sd 2.1.1.3
 \de nice to sniff, like Vicks, snuff
 \rf Tape:1-1-355
 \xv Tɔnsɩ ma akpɩlɛ, tsufɛ ɩbʋ ɔsɩn.
 \xe Pepper is not good to sniff because it burns.
-\dt 11/Jun/2014
+\dt 20/Jul/2016
 
 \lx akpɩn
 \ph ak͡pɪ̃
@@ -3005,11 +3005,12 @@
 \ps n
 \sn
 \ge nightmare
-\sd 5.7.3
+\sd 5.7.2
+\sd 8.3.7.1
 \de caused by evil spirit while sleeping
 \xv Kebi amʋ lekle owu, tsufɛ asiansian lesian mʋsʋ igye onye.
 \xe The child nearly died, because he suffered out of nightmare last night.
-\dt 12/Jun/2014
+\dt 20/Jul/2016
 
 \lx asie
 \ph asie (H)
@@ -5940,7 +5941,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se bun ansibi
 \ps v
 \ge close eyes
-\sd 5.7.3
+\sd 2.1.1.1
 \de to close one's eyes
 \rf Tape:2-1-048
 \ps vt
@@ -5970,7 +5971,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 8.3.1.4.1
 \de to turn something over
 \bb Stewart List:2752
-\dt 19/Jul/2016
+\dt 20/Jul/2016
 
 \lx bunti
 \ph buntîʔ
@@ -6442,7 +6443,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph bwiː ansibi
 \ps vt
 \ge open eyes
-\sd 5.7.3
+\sd 2.1.1.1
 \de to open one's eyes
 \rf Tape:2-1-159
 \xv Bwii ansibi afʋkɩ atɔ wanklaan.
@@ -6456,7 +6457,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt bwii ɔnɔ - get translation and sentence
 \nt from ths: Open your mouth. words for undressing: kpa (take off cloth), lɛ (remove wrist beads, earrings), sankɩ (untie headscarf), tu (pull off headscarf), bwii (take off hat, uncover head)
 \nt From ths: words for open: bwii (open/uncover eyes), finki (open door, room), yaa (open mouth, ears), tɛɩ (open hand)
-\dt 19/Jul/2016
+\dt 20/Jul/2016
 
 \lx bwiipa
 \ph bwíːpa
@@ -6596,7 +6597,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to be righteous
 \se da ɔkpʋnʋ
 \ge rest
-\sd 5.7.3
+\sd 2.4.5
 \de to rest
 \ps vt
 \sn 2
@@ -7218,14 +7219,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge sleep
 \se ɩdɩ
 \xe sleep (n)
-\sd 5.7.3
+\sd 5.7
 \de to sleep
 \se aba dɩ
 \ge copulate
 \sd 2.6.2
 \de to copulate with each other
 \nt dɩ means to lie down, but a contrast can be made with dɩdɩ, which means strictly to sleep. There seems to be a patient/agent difference. English to sleep; & to be asleep. dɩ is the more active form.
-\dt 19/Jul/2016
+\dt 20/Jul/2016
 
 \lx dɩba
 \ph dɪbaʔ (L)
@@ -7284,7 +7285,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge sleep
-\sd 5.7.3
+\sd 5.7.1
 \de sleep
 \rf Tape:2-1-327
 \xv Alamwɛ, sʋ aladɩdɩ.
@@ -7298,8 +7299,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se dɩdɩ tsʋn
 \ge sleep through
 \de sleep through s.t.
-\sd 5.7.3
-\dt 04/Feb/2016
+\sd 5.7
+\dt 20/Jul/2016
 
 \lx dɩdɩ
 \hm 2
@@ -8568,9 +8569,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge open
-\sd 5.7.3
+\sd 7.3.6
 \de cut open
-\dt 17/Jun/2014
+\dt 20/Jul/2016
 
 \lx fɩta
 \ph fɪ́tá
@@ -9042,12 +9043,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge blow
-\sd 5.7.3
+\sd 1.1.2.1
 \de blow
 \xv Owie dɛ igyo gyi. Ɔdɛ ɔkpɛ fʋlɩ.
 \xe The chief is having yam festival. They are blowing a trumpet.
 \bb Stewart List:2847
-\dt 17/Apr/2016
+\dt 20/Jul/2016
 
 \lx fʋlɩtɩ
 \ph fʊlɪtɪ́
@@ -9141,7 +9142,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge blow
-\sd 5.7.3
+\sd 1.1.2.1
 \de blow air
 \rf Tape:2-2-084
 \xv Atɔ lɛkpa wie mɩ ansibitɔ sʋ kokoli fwi mʋ́ lɛ ha mɩ.
@@ -9156,7 +9157,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge shrewd
 \sd 3.2.1.3
 \de to be shrewd or clever
-\dt 03/Jun/2016
+\dt 20/Jul/2016
 
 \lx fwie
 \hm 1
@@ -9897,16 +9898,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge cry over nothing
-\sd 5.7.3
+\sd 3.5.6.5
 \sd 3.5.1.8.5
-\sd 8.3.7.1
-\sd 4.3.3.1
+\sd 3.4.2.3
 \de cry over nothing
 \cf kɛklɛ2
 \ce show off
 \xv Kebi amʋ degybi tsufɛ mʋ yin dɛ ɔmɛ wa mbla ha mʋ osi gyibi.
 \xe The child is crying because his mother is pregnant and has ordered him to stop crying for nothing.
-\dt 01/May/2016
+\dt 20/Jul/2016
 
 \lx gyigyaa
 \ph ʤiʤâː
@@ -10135,12 +10135,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn
 \ge doze
-\sd 5.7.3
+\sd 5.7.1
 \de to doze
 \rf Tape:2-2-306
 \xv Matra gyɔsɩ, sʋ yɛklɛdɩ.
 \xe Don't doze again, go lie down.
-\dt 02/Jan/2014
+\dt 20/Jul/2016
 
 \lx gyɔwɩ
 \ph ʤɔwɪ(H)
@@ -11202,11 +11202,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge fatigue
-\sd 5.7.3
+\sd 2.4.4
 \de fatigue; nominal form of pian "to tire"
 \xv Nɩ fotsu ndɔ ba, febie a, ipian amʋ tɔkʋsʋ fʋsʋ.
 \xe If you come from farm and you bathe, the fatigue leaves you.
-\dt 01/Jul/2014
+\dt 20/Jul/2016
 
 \lx ipin
 \ph ipĩ
@@ -14516,9 +14516,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge grunt
-\sd 5.7.3
+\sd 2.3.2.3
 \de to grunt
-\dt 25/Jun/2014
+\dt 20/Jul/2016
 
 \lx kɛn
 \hm 4
@@ -14640,6 +14640,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge larvae
 \sd 1.6.1.7
+\sd 1.6.3
 \de large larvae of a black beetle; eaten by children and adults; inhabits dead palm trees.
 \pl akian
 \plph akíã
@@ -14654,7 +14655,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \na Used of dragging a case out even if you are guilty, or cutting it short by accepting guilt even if you are innocent.
 \nt proverb
 \rf Tape:3-1-529
-\dt 01/Feb/2014
+\dt 20/Jul/2016
 
 \lx kie
 \ph kíéʔ
@@ -14983,14 +14984,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge groan
-\sd 5.7.3
+\sd 2.5.6.1
+\sd 2.3.2.3
 \de groan
 \rf Tape:3-2-038
 \xv Igye onye fɛ́ɛ́ ɔlɔpʋ ɔkʋ lɛkɩmɩ sʋ mmɛtalɩ dɩdɩ.
 \xe All of last night a certain sick man was groaning so I couldn't sleep.
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \bb Stewart List:2092
-\dt 30/Jun/2014
+\dt 20/Jul/2016
 
 \lx kɩta
 \ph kɪ́tá
@@ -16932,7 +16934,8 @@ cf fonflo
 \ps vi
 \sn
 \ge burp
-\sd 5.7.3
+\sd 2.2.2
+\sd 2.1.8.2
 \de burp
 \rf Tape:3-2-533
 \xv Brɛ ánɩ́ olegyi atɔ mwɛ a, olekpie.
@@ -16944,7 +16947,7 @@ cf fonflo
 \ce thunder
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \bb Stewart List:2053
-\dt 22/Dec/2013
+\dt 20/Jul/2016
 
 \lx kpie
 \hm 2
@@ -17022,9 +17025,9 @@ cf fonflo
 \ps v
 \sn
 \ge sob
-\sd 5.7.3
+\sd 3.5.6.5
 \de to sob intensely
-\dt 01/Jul/2014
+\dt 20/Jul/2016
 
 \lx kpita
 \ph k͡pitá
@@ -17484,14 +17487,15 @@ cf fonflo
 \ps v
 \sn
 \ge snore
-\sd 5.7.3
+\sd 5.7.1
+\sd 2.3.2.3
 \de snore
 \rf Tape:4-1-083
 \xv Aladɩdɩ ɔdɛ kpɔlɩ "Hɔn, hɔn hɔn".
 \xe He has fallen asleep and is snoring "Zzzz. . . zzzz".
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \bb Stewart List:2048
-\dt 01/Jul/2014
+\dt 20/Jul/2016
 
 \lx kpɔn
 \ph k͡pɔ̃
@@ -17571,12 +17575,11 @@ cf fonflo
 \ps v
 \sn 3
 \ge wink
-\sd 5.7.3
 \sd 2.1.1.1
 \sd 3.5.6.3
 \de to wink the eye
 \bb SIL-AWL:0104
-\dt 19/May/2016
+\dt 20/Jul/2016
 
 \lx kpʋkpɛ
 \ph k͡pʊ́k͡pɛ́ (H)
@@ -17679,9 +17682,9 @@ cf fonflo
 \ps ADV
 \sn
 \ge foaming
-\sd 5.7.3
+\sd 1.3.2
 \de foaming
-\dt 30/Jun/2014
+\dt 20/Jul/2016
 
 \lx krakun
 \ph krakũ̂ʔ (L)
@@ -17900,11 +17903,12 @@ cf fonflo
 \ps vi
 \sn
 \ge dream
-\sd 5.7.3
+\sd 5.7.2
 \de to dream
 \cf okude
 \ce dream (n)
-\dt 24/Dec/2013
+\nt Dreams are believed to be caused by Natɩ (spider).
+\dt 20/Jul/2016
 
 \lx kunka
 \ph kũŋkaʔ
@@ -19767,7 +19771,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 1
 \ge yawn
-\sd 5.7.3
+\sd 2.1.1.4
+\sd 2.4.4
+\sd 5.7.1
 \de yawn
 \xv Dɩdɩ dɛ mʋ. Alamama.
 \xe He is sleepy. He has yawned.
@@ -19775,7 +19781,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Bʋtamamama ahatɔ.
 \xe They don't yawn in public.
 \bb Stewart List:2051
-\dt 15/Jun/2016
+\dt 20/Jul/2016
 
 \lx mama
 \hm 3
@@ -20685,7 +20691,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge laugh
-\sd 5.7.3
+\sd 3.5.6.4
 \de laugh
 \rf Tape:4-2-388
 \xv Oyin amʋ lɔbwɛ mɔsɩla, sʋ anɩlɔmɔsɩ mʋ.
@@ -20697,10 +20703,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \se mɔsɩla
 \ps n
 \ge amusement
+\sd 3.5.6.4
+\sd 4.2.7
 \de amusement
 \cf ɩ- -la
 \ge activity
-\dt 06/Nov/2015
+\dt 20/Jul/2016
 
 \lx mpa
 \ph mpá (H)
@@ -22828,7 +22836,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge tear
-\sd 5.7.3
+\sd 3.5.6.5
 \de tear
 \xv Odesu, tamɛ ɔmɛdɛ ntsú lɩn.
 \xe He is crying but there are no tears.
@@ -22839,9 +22847,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \bb SIL-AWL:0097
 \se ntsú lɛkpa tɩa
 \ge tears gather
-\sd 5.7.3
+\sd 3.5.6.5
 \de tears gathered in the eyes
-\dt 17/Jun/2014
+\dt 20/Jul/2016
 
 \lx ntsu ɔbɩn
 \ph nt͡su ɔbɪ̃ʔ(L)
@@ -23303,14 +23311,15 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps v
 \sn
 \ge frown
-\sd 5.7.3
+\sd 3.5.6.3
+\sd 3.2.5.9
 \de frown
 \xv Bɔwa kebi amʋ sumbi a, olonwuna, tsufɛ omedeklea ɔbɔ́yɔ.
 \xe When they sent the child on an errand he frowned because he did not want to go.
 \rf Tape:5-1-462
 \xv Akʋn nya ɩdɛ Yao a alanwuna.
 \xe When Yao is hungry then he frowns.
-\dt 08/Feb/2014
+\dt 20/Jul/2016
 
 \lx nwunasʋ
 \ph ŋwúná!sʊ́
@@ -24005,9 +24014,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge smoke (v)
-\sd 5.2.1.1
-\sd 6.4.5
-\sd 6.4.1
+\sd 5.5.5
+\sd 8.3.7.8.4
 \de to smoke as in smoked fish
 \rf Tape:5-1-575
 \xv Ndɛ iye ŋɛsɩ.
@@ -24017,9 +24025,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge breathe fumes
-\sd 5.7.3
+\sd 5.2.1.1
+\sd 2.2.1
 \de to breathe the fumes of herbs that are brewed
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx ŋɛsɩ
 \hm 2
@@ -25691,7 +25700,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge hiccough
-\sd 5.7.3
+\sd 2.2.2
 \de hiccough
 \xv Okpowu dɛ mʋ bwɛ, sʋ mbɛɛ onun ntsu.
 \xe He is hiccoughing so I said he should drink water.
@@ -25699,7 +25708,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Hiccoughing is something if you don't take time it can kill you.
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \bb Stewart List:1420
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx Okristoyin
 \ph okrístoyĩʔ
@@ -25730,7 +25739,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge dream
-\sd 5.7.3
+\sd 5.7.2
 \de to dream
 \pl nkude
 \plph ŋkude
@@ -25746,7 +25755,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:1407
 \cf kun okude
 \ce dream (v)
-\dt 24/Dec/2013
+\dt 21/Jul/2016
 
 \lx okugyiɔkʋ
 \ph okuʤiɔkʊ
@@ -28995,7 +29004,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge whistling
-\sd 5.7.3
+\sd 2.3.2.3
+\sd 4.2.3.3
 \de whistling
 \xv Ɔfʋlɩ tɛtɩ ɩlʋ.
 \xe Whistling calls a song.
@@ -29008,7 +29018,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Quarrelling brings fighting. (a small thing leads to a greater).
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \bb Stewart List:1432
-\dt 16/Jun/2014
+\dt 21/Jul/2016
 
 \lx ɔfʋnkpa
 \ph ɔfʊ̃ŋ͡mk͡pá
@@ -29934,7 +29944,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge rest
-\sd 5.7.3
+\sd 2.4.5
 \de rest
 \rf Tape:5-2-559
 \xv Kwasieda igyi ɔkpʋnʋ ɔdakɛ.
@@ -29945,7 +29955,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ve South
 \rf Tape:5-2-562
 \bb Stewart List:2059
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx ɔkʋ
 \ph ɔkʊ
@@ -30887,7 +30897,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge mouth
-\sd 5.7.3
+\sd 2.1.1.4
 \de mouth
 \va ɛnɔ
 \vaph ɛnɔ́
@@ -30898,7 +30908,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge speech
-\sd 3.5.1
+\sd 3.5.1.1
 \de speech
 \rf Tape:6-1-200
 \xv Kɩ fʋ ɔnɔ.
@@ -30962,7 +30972,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-188
 \xv Anɩ asʋn amʋ ɔnɔ mɔtɔ pɛ, mʋʋ oyin amʋ lɛba a.
 \xe Just as our matter finished, then the man came.
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
@@ -31055,7 +31065,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge breath
-\sd 5.7.3
+\sd 2.2.1
 \de breath
 \rf Tape:6-1-255
 \xv Ɔmɔkʋ wu. Ɔdɛ ɔŋɛ fʋ.
@@ -31066,7 +31076,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge spirit
-\sd 8.3.3.2.1
+\sd 3.1
+\sd 1.4.2
+\sd 4.9.4.2
 \de spirit
 \se Ɔŋɛ Wankɩhɛ
 \ge Holy Spirit
@@ -31081,7 +31093,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de evil spirit
 \cf ɔbʋnsam
 \ce Satan
-\dt 06/Nov/2015
+\dt 21/Jul/2016
 
 \lx ɔpa
 \hm 1
@@ -33356,14 +33368,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge tire
-\sd 5.7.3
+\sd 2.4.4
 \de tire
 \xv Nɔyɔ agyʋma ndɔtɔ. Ɩlapian mɩ.
 \xe I went to work on the farm. It has made me tired.
 \bb Stewart List:2068
 \xv Bʋa fʋ aba mɛnɩ ɔkɛ méepian fʋ.
 \xe Help your neighbour so that tomorrow will not tire you.
-\dt 11/Jul/2014
+\dt 21/Jul/2016
 
 \lx pilan
 \ph pilã́ʔ
@@ -34122,11 +34134,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge frown
-\sd 5.7.3
+\sd 3.2.5.9
+\sd 3.5.6.3
 \de to show displeasure on the face; to frown; to pout
 \xv Asʋn amʋ mɔwa oyin amʋ ɔdwɛ sʋ alapu.
 \xe The matter didn't please the man so he has shown displeasure.
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx pula
 \ph púlá
@@ -35669,7 +35682,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge cry
-\sd 5.7.3
+\sd 3.5.6.5
 \de to weep or cry
 \rf Tape:7-1-018
 \xv Aha bʋdesu olitɔ ɩnʋ dʋbɩ.
@@ -35686,7 +35699,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:2-2-278
 \xv Gyongyo kpɔnkpɔntɩ ɔkʋ lopula mɩ ɔlɔ́ asɩ odesu.
 \xe A big toad is buried (half in the dirt) at the foot of my pot. He is crying.
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx suan
 \ph sũãʔ
@@ -37043,14 +37056,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge sneeze
-\sd 5.7.3
+\sd 2.2.2
 \de sneeze
 \rf Tape:7-1-483
 \xv Alawa asɩra odetinsa.
 \xe He has taken snuff and is sneezing.
 \bb Stewart List:2052
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx tinti
 \ph tintí
@@ -38550,7 +38563,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Odewu oo! Mlɩtsinki mʋ!
 \xe He is dying (or has fainted)! Bring him back to life.
 \bb Stewart List:2028
-\dt 12/Jul/2014
+\xv Kebi amʋ letsɩnkɩ lawa ɔpá.
+\xe The child woke up long ago.
+\dt 21/Jul/2016
 
 \lx tsintsiin bɔnɔ
 \ph t͡sint͡sĩː bɔnɔ
@@ -38721,17 +38736,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nyankpʋ onya si tswie a, ndɔtɔ atɔ tɛtsɩɩn.
 \xe If the rain should stop raining things in the farm stop growing.
 \dt 01/May/2016
-
-\lx tsɩnkɩ
-\ph t͡sɪ́ŋkɪ́
-\ps v
-\sn
-\ge wake up
-\sd 5.7.3
-\de to wake up from asleep
-\xv Kebi amʋ letsɩnkɩ lawa ɔpá.
-\xe The child woke up long ago.
-\dt 21/Jun/2014
 
 \lx tsoli
 \ph t͡soli
@@ -39336,11 +39340,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:2483
 \se tu atsʋnɔ
 \ge spit
-\sd 5.7.3
+\sd 2.2.3
 \de to spit
 \rf Tape:7-2-568
 \bb Stewart List:2040
-\dt 15/Jun/2016
+\dt 21/Jul/2016
 
 \lx tu
 \hm 2
@@ -39970,8 +39974,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge cough
-\sd 5.7.3
-\sd 2.5.1
+\sd 2.2.2
 \de cough
 \rf Tape:8-1-238
 \xv Alawata lɛ ɔwɛ.
@@ -39979,7 +39982,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \bb Stewart List:1411
 \bb Stewart List:2041
-\dt 12/Jul/2014
+\dt 21/Jul/2016
 
 \lx wesee
 \ph wéséː
@@ -40135,9 +40138,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge cry hard
-\sd 5.7.3
+\sd 3.5.6.5
+\sd 9.3
 \de strongly - used of crying
-\dt 19/Jun/2014
+\dt 21/Jul/2016
 
 \lx wotii
 \ph wotǐː
@@ -40476,13 +40480,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge frown
-\sd 5.7.3
+\sd 3.2.5.9
+\sd 3.5.6.3
 \de to frown
 \va muna
 \ve South
 \xv Kebi ánɩ́ ɔtamakle sunbi yɔ a, fenya tɩ mʋ pɛ otowuna.
 \xe A child who does not want to be sent, as soon as you call him he frowns his face.
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx wuna
 \hm 2
@@ -40827,7 +40832,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge open
-\sd 5.7.3
+\sd 7.3.6
 \de open body orifice used with mouth; ears; anus
 \rf Tape:8-1-460
 \xv Yaa ɔnɔ afʋhɔ.
@@ -40838,7 +40843,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt From ths: words for open: bwii (open/uncover eyes), finki (open door, room), yaa(open mouth, ears), tɛɩ (open hand)
 \bb Stewart List:2105
 \bb Stewart List:3304
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx yaa
 \hm 2
