@@ -3591,9 +3591,9 @@
 \ps n
 \sn
 \ge gift
-\sd 6.8.1.1
+\sd 6.8.3.1
 \de to give something to someone freely
-\dt 12/Jun/2014
+\dt 22/Jul/2016
 
 \lx atɔla
 \ph atɔ́la
@@ -5372,10 +5372,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge deposit
-\sd 6.8.1.1
-\sd 6.8.1.4
+\sd 6.8.5.5
 \de deposit
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx bodobodo
 \ph bodobodoʔ
@@ -9193,7 +9192,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge lost
-\sd 6.8.1.1
+\sd 7.6.3
 \de to be lost
 \rf Tape:2-2-106
 \xv Oyin amʋ kɔba lafwɩ sʋ mʋ ansɩ lapɛ ɔdɛ mʋ́ dunka.
@@ -9209,7 +9208,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Lit: His key is lost.
 \rf Tape:2-2-097
 \bb Stewart List:3325
-\dt 20/Jul/2016
+\dt 22/Jul/2016
 
 \lx fwɩ
 \hm 2
@@ -10183,9 +10182,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ha
 \ph há
 \ps v
-\sn
+\sn 1
 \ge give
-\sd 6.8.1.1
+\sd 7.4.1
 \de give
 \va han
 \ve South
@@ -10197,7 +10196,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv ha itsia
 \xe greet
 \bb Stewart List:3241
-\dt 18/Dec/2012
+\ps v
+\sn 2
+\ge permit
+\sd 3.3.4.1
+\de to allow or permit
+\sn 3
+\ge cause
+\sd 9.6.2.5
+\de to cause or make to happen
+\dt 22/Jul/2016
 
 \lx haɩ
 \ph háɪ
@@ -10593,12 +10601,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge lose
-\sd 6.8.1.1
+\sd 6.8.2.3
+\sd 7.6.3
 \de lose irretrievably
 \sy fwɩ1
 \xv Fɔkʋla sika a, fɔ́hʋlɩ fʋ ɔkla.
 \xe If you seek money you will lose your soul.
-\dt 09/Nov/2015
+\dt 22/Jul/2016
 
 \lx hʋlɔn
 \ph hʊlɔ̃
@@ -13431,9 +13440,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge enough
-\sd 6.8.1.1
+\sd 8.1.7
 \de enough
-\dt 12/Jul/2014
+\dt 22/Jul/2016
 
 \lx ɩtswɛ
 \ph ɪt͡swɛʔ
@@ -14650,7 +14659,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge dash
-\sd 6.8.1.1
+\sd 3.5.1.7.1
 \de give as a gift
 \rf Tape:3-1-534
 \xv Mʋ adwɛpʋ, ánɩ́ bʋbʋ ntɩnɛ-ntɩnɛ ɛ bɛbɛ́klɩ mʋ aba kie mʋ atɔ.
@@ -14658,7 +14667,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:3216
 \cf si kie
 \ce forgive
-\dt 12/Jul/2014
+\dt 22/Jul/2016
 
 \lx kiki
 \hm 1
@@ -15366,9 +15375,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn 2
 \ge made of
-\sd 6.8.1.1
+\sd 8.3.6
 \de made of X e.g. the one made of metal, the rubber one
-\dt 11/Nov/2015
+\dt 22/Jul/2016
 
 \lx klɛdɩ
 \ph klɛ́dɪ
@@ -20272,14 +20281,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps vt
 \sn
 \ge find
-\sd 6.8.1.1
+\sd 7.6.2
 \de come across unexpectedly
-\xv Nɛmɛntɩ osuye ánɩ́ ɔmɔkʋ wu, nɔpʋ mʋ ba woyitɔ tsufɛsɛ ɔtamadun.
+\xv Nɛmɛntɩ oswie ánɩ́ ɔmɔkʋ wu, nɔpʋ mʋ ba woyitɔ tsufɛsɛ ɔtamadun.
 \xe I came across a scaly anteater that had not died and brought him back to the house because he does not bite.
 \xv Kɔba amʋ famɛntɩ mɩ bʋ, pʋ ha mɩ.
 \xe The money that you have found is mine, give it to me.
 \bw fi:Akan nɛntɩ
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx mimla
 \ph mimlá
@@ -23109,15 +23118,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps v
 \sn 2
 \ge scramble
-\sd 6.8.1.1
-\sd 4.2.4
+\sd 7.2.1.2
 \de to get something in a scramble of people
 \xv Nanwan awun du.
 \xe I got ten shillings (when tossed in a scramble)
 \bb Stewart List:2686
 \xv Nɔtswɩ mango amʋ ha nyebi amʋ ánɩ́ bʋnwan, ɔha ánɩ́ olenya mʋ́ a, alatsu.
 \xe I threw the mango for the children that they should scramble for it that the one that gets it he should take it.
-\dt 16/Jul/2016
+\dt 22/Jul/2016
 
 \lx nwanwa
 \ph ŋʷáŋʷa(H)
@@ -23430,25 +23438,25 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps vt
 \sn 1
 \ge get
-\sd 6.8.1.1
+\sd 7.4.3
 \de to acquire
 \cf atonyahɛ
 \ce possessions
 \se nya ansigyi
 \ge happy
-\sd 3.4
+\sd 3.4.1.2
 \de to be happy
 \rf Tape:5-1-494
 \xv nya ansigyi
 \xe be happy
 \se nya ifu
 \ge fear
-\sd 3.4
+\sd 3.4.2.4
 \de to become afraid
 \bb Stewart List:2084
 \se nya ɩklʋn
 \ge patient
-\sd 3.4
+\sd 4.3.1.5
 \de to be patient
 \se nya ɩklʋn amʋ manta
 \ge close door partially
@@ -23459,11 +23467,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:5-1-497
 \se nya ɩwɩ
 \ge rich
-\sd 6.8.1.1
+\sd 6.8.1.2
 \de to become rich
 \se nya ɔblɔ
 \ge get angry
-\sd 3.4
+\sd 3.4.2.3
 \de to become angry
 \bb Stewart List:2078
 \se nya ɔmɛ
@@ -23473,23 +23481,22 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps v
 \sn 2
 \ge just
-\sd 8.4.6
+\sd 8.4.6.2.1
 \de to start; used as the first verb in a serial verb construction to start doing
 \xv Benya wun mʋ alɩ, ...
 \xe When they noticed him doing that, ...
-\dt 19/Jul/2016
+\dt 22/Jul/2016
 
 \lx nya ɩwɩ
 \ph ɲá ɪwɪ
 \ps v
 \sn
 \ge become rich
-\sd 6.8.1.1
 \sd 6.8.6
 \sd 6.8.1.2
 \de to become rich
 \lt get self
-\dt 16/Jun/2014
+\dt 22/Jul/2016
 
 \lx nyagbanyagba
 \ph ɲág͡báɲág͡bá
@@ -27249,6 +27256,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \dt 19/Jul/2016
 
 \lx owi
+\hm 1
 \ph owí(H)
 \ps n
 \sn
@@ -27263,17 +27271,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Owi lalɩn dʋbɩ, sʋ ɔsʋlʋtɔ lablɩ ogya.
 \xe The sun has shone brightly so the ground has become hot.
 \bb Stewart List:1002
-\dt 17/May/2016
+\dt 22/Jul/2016
 
 \lx owi
+\hm 2
 \ph owi(H)
 \ps n
 \sn
 \ge theft
-\sd 6.8.1.1
+\sd 6.8.9.1
 \de nominal form of 'to steal'
 \nt This is a minimal tonal pair with owí 'sun'
-\dt 28/Sep/2013
+\dt 22/Jul/2016
 
 \lx owi opuekpa
 \ph owí opuek͡pa
@@ -27361,9 +27370,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de head of a house; landlord
 \se ɔha mʋ wie
 \ge body owner
-\sd 4.6.1
+\sd 2.6.6.3
 \de person who represents the family interests in a funeral
-\dt 04/Feb/2016
+\dt 22/Jul/2016
 
 \lx owie ogyikpa
 \ph owíê oʤík͡pá
@@ -32724,14 +32733,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge desire
-\sd 6.8.1.1
+\sd 3.3.1.8
 \de desire/lust
 \rf Tape:6-1-582
 \xv Ɩsɔkɩ itsu nyankpʋsa onuto ɔwɔlɩ lalahɛ watɔ.
 \xe Temptations come from people's own evil desires.
 \xv Ɔtsɩ amʋ lɛkɩ oyi abi amʋ, ɩlɛdɩnka mʋ ɔwɔlɩ.
 \xe The woman looked at the fruit, and she desired for it.
-\dt 22/Jun/2014
+\dt 22/Jul/2016
 
 \lx ɔwɔntɩ
 \ph ɔwɔntɪ́
@@ -38354,7 +38363,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge inheritance
-\sd 6.8.1.1
 \sd 6.8.1.5
 \sd 2.6.6.3
 \de to sit in someone's place, take someone's place
@@ -38365,7 +38373,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-325
 \xv Nɩ fʋ sɩ ma ɩnʋ a, tsia mʋ anaŋu.
 \xe When your father is not there, take his place.
-\dt 04/Feb/2016
+\dt 22/Jul/2016
 
 \lx tsianɩ
 \ph tsianɪ̌ʔ
@@ -38823,14 +38831,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge enough
-\sd 6.8.1.1
+\sd 8.1.7
 \de enough
 \xv Aha ánɩ́ bʋtɔyɔ agyʋma kpekple a, bʋtegyi atɔ tsɔtsɔ.
 \xe People who work hard, eat enough food.
 \rf Tape:7-2-432
 \xv Ɩtsɔ? Eee, ɩtsɔ.
 \xe Is that enough? Yes it's enough.
-\dt 21/Jun/2014
+\dt 22/Jul/2016
 
 \lx tsɔtsɔɔtsɔ
 \ph t͡sɔt͡sɔːt͡sɔ
@@ -39789,9 +39797,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge scarce
-\sd 6.8.1.1
+\sd 8.1.7.2
 \de difficult to get
-\dt 27/Apr/2016
+\dt 22/Jul/2016
 
 \lx wa wanwan
 \ph wá wã́wãʔ
@@ -40026,13 +40034,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge steal
-\sd 6.8.1.1
+\sd 6.8.9.1
 \de steal
 \rf Tape:8-1-257
 \xv Owikplu amʋ lawi tɔkʋ ɔsɩrɩ.
 \xe The thief has stolen something and run.
 \bb Stewart List:3217
-\dt 04/Jul/2014
+\dt 22/Jul/2016
 
 \lx wie
 \ph wíé
@@ -40132,9 +40140,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge discover
-\sd 6.8.1.1
+\sd 7.6.2
 \de to suddenly encounter
-\dt 25/Dec/2013
+\dt 22/Jul/2016
 
 \lx woyi
 \ph wóyí
