@@ -230,6 +230,7 @@
 \sn
 \ge Abena
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a female born on Tuesday
 \bw Akan fi:Abena LHH
 \xv Branda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Abena.
@@ -240,7 +241,7 @@
 \ce Tuesday
 \cf Kwabena
 \ce Tuesday born man
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx abɛ
 \ph abɛ́
@@ -944,6 +945,7 @@
 \sn
 \ge Afua
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de girl's name; Friday born
 \va Afia
 \vaph afíá(H)
@@ -957,7 +959,7 @@
 \ce Friday
 \cf Kofi
 \ce Friday born man
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx afunu
 \ph afunuʔ(L)
@@ -1298,6 +1300,7 @@
 \sn
 \ge Adjua
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a female born on Monday
 \va Agyua
 \va Adwoa
@@ -1312,7 +1315,7 @@
 \ce Monday
 \cf Kudjo
 \ce Monday born man
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx agyonwun
 \ph aʤonwũ(H)
@@ -1715,6 +1718,7 @@
 \sn
 \ge Akosua
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a female born on Sunday
 \va Akwasua
 \va Akos
@@ -1724,10 +1728,10 @@
 \cf kwɩɩda
 \ce day name
 \cf Kwasieda
-\ce Saturday
+\ce Sunday
 \cf Kwasi
-\ce Saturday born man
-\dt 30/Sep/2015
+\ce Sunday born man
+\dt 20/Jul/2016
 
 \lx akɔklɔ
 \ph akɔklɔ(L)
@@ -1879,6 +1883,7 @@
 \sn
 \ge Akua
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a female born on Wednesday
 \bw Akan fi:Akua
 \xv Kuoda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Akua.
@@ -1889,7 +1894,7 @@
 \ce Wednesday
 \cf Kwaku
 \ce Wednesday born man
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx akuda
 \ph akuda(H)
@@ -2235,6 +2240,7 @@
 \sn
 \ge Amma
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a female born on Saturday
 \va Amba
 \xv Amba ɔwʋlʋ bɩ sʋ, mʋgyi sukuusʋ ɔkɩpʋ nɩ.
@@ -2246,7 +2252,7 @@
 \ce Saturday
 \cf Kwame
 \ce Saturday born man
-\dt 04/Feb/2016
+\dt 20/Jul/2016
 
 \lx amʋ
 \ph amʊ
@@ -4280,7 +4286,7 @@
 \ps TIME
 \sn
 \ge predawn
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de early morning hours before sunrise
 \rf Tape:1-2-323
 \xv Nɩ ɔkɛ bakɛ fonu batɛ ɔbɔn a, mɩdɛ fʋ ɩpan da.
@@ -4288,7 +4294,7 @@
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx balɩ
 \ph bálɪ́
@@ -5634,7 +5640,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps TIME
 \sn
 \ge Tuesday
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
 \de Tuesday
 \bw Akan fi:Branda
 \rf Tape:4-1-344
@@ -5656,7 +5662,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce Saturday
 \cf Kwasieda
 \ce Sunday
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx bregyibrɛ
 \ph bréʤíbrɛ́
@@ -5676,7 +5682,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge time
-\sd 8.4.1.2.2
+\sd 8.4
 \de time; time of day
 \xv Brɛ ánɩ́ nɛba a, aha amʋ bɔyɔ, tsufɛ mmɔwa ɔsa ba.
 \xe When I came, people had left because I didn't come quickly.
@@ -5691,7 +5697,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:1602
 \cf ɔmɛnkɛ
 \ce when - what day?
-\dt 05/Nov/2015
+\dt 20/Jul/2016
 
 \lx brɛkʋ
 \ph brɛ́kʊ
@@ -7847,8 +7853,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge every day
-\sd 8.1
-\sd 8.4.1.2.2
+\sd 8.1.5
+\sd 8.4.1.2
 \de every day
 \va okekegyiɔkɛ
 \ve North
@@ -7857,7 +7863,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Every day this child is crying.
 \cf ɛkɛ
 \ce day
-\dt 04/Nov/2015
+\dt 20/Jul/2016
 
 \lx ɛ
 \ph ɛ
@@ -7910,7 +7916,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge day
-\sd 8.4.1.2.2
+\sd 8.4.1.2
 \de day
 \pl nkɛ
 \plph ŋkɛ
@@ -7931,7 +7937,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ekekegyiɛkɛ bakɛ a, abatɛ bʋtɔbɔn.
 \xe Every early morning, roosters crow.
 \bb Stewart List:1102
-\dt 04/Nov/2015
+\dt 20/Jul/2016
 
 \lx ɛkɛkɛɛkɛ
 \ph ɛkɛkɛːkɛ (H)
@@ -7949,9 +7955,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge one day
-\sd 8.4.1.2.2
+\sd 8.4.3
+\sd 8.4.1.2
 \de one day
-\dt 30/Jun/2014
+\dt 20/Jul/2016
 
 \lx ɛwɛ
 \ph ɛwɛ (H)
@@ -8360,7 +8367,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps TIME
 \sn
 \ge Friday
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
 \de Friday
 \bw Akan fi:Fida HH
 \xv Nkrambofɔ bʋtɔyɔ asɔrɩ Fieda.
@@ -8381,7 +8388,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce Saturday
 \cf Kwasieda
 \ce Sunday
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx fin
 \ph fĩʔ
@@ -8774,14 +8781,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps TIME
 \sn
 \ge twilight
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de evening after sunset
 \cf ma nɩ mɩ nɩ
 \ce dusk
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx fra
 \ph frá
@@ -10051,7 +10058,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps TIME
 \sn
 \ge Monday
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
 \de Monday
 \xv Kwasieda lɛtra kwɩɩ Gyɔda.
 \xe Time went by.
@@ -10073,7 +10080,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce Saturday
 \cf Kwasieda
 \ce Sunday
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx gyɔɩ
 \ph ʤɔ́ɪ́
@@ -12740,12 +12747,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge which
-\sd 8.4.1.2.2
+\sd 9.6.1.2
+\sd 3.3.1.2
 \de which of a number of alternatives
 \rf Tape:3-2-584
 \xv Mɩ yín dɛlɔ ɔbɛɛ mpʋ mʋ ya Hohoe. Mɩ ka ɛ ɔbɛɛ mpʋ mʋ ya agyʋmatɔ Kwamewulutɔ. Sʋ nakplan. Mmeyin mʋ́tɔ ɩmʋa ngyankpa bwɛ.
 \xe My mother is sick and says I should take her to Hohoe. My wife says I should take her to work at Kwamekrom so I'm in a tight place. I don't know which I should do first.
-\dt 12/Jul/2014
+\dt 20/Jul/2016
 
 \lx ɩna ... sʋ
 \ph ɪnaʔ (H) ... sʊ
@@ -13043,7 +13051,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps TIME
 \sn
 \ge 1st day
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
+\sd 4.9.7.7
 \de day of rest in Nkonya week; first day of Nkonya week
 \na The Nkonya week has six days. The main days are the first and fourth. The first day is Ɩpwɛ, the day of the main fetish Sia. The fourth is Kulihɛ, the day of the ancestors. Various activities, such as funerals, are allowed on certain days but not on others. Farming is not allowed on Ɩpwɛ.
 \na In the Southern dialect the days are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, Kulihɛ, Kulihɛ Odekeyikɛ, Kulihɛ Ɔdɛkɛtrakɛ". In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulihɛ, Kulihɛ Odekeyikɛ, Ɔdɛkɛtrakɛ"
@@ -13064,31 +13073,33 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce sixth day
 \cf Ɔdɛkɛtrakɛ
 \ce third or sixth day
-\dt 03/Nov/2015
+\dt 20/Jul/2016
 
 \lx Ɩpwɛ Odekeyikɛ
 \ph ɪpʷɛ odekeyikɛ
 \ps TIME
 \sn
 \ge Second day
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
+\sd 4.9.7.7
 \de the day following Ɩpwɛ; the second day of the Nkonya week
 \cf Ɩpwɛ
 \ce first day
-\dt 06/Jan/2014
+\dt 20/Jul/2016
 
 \lx Ɩpwɛ Ɔdɛkɛtrakɛ
 \ph ɪpʷɛ ɔdɛkɛtrákɛ
 \ps TIME
 \sn
 \ge Third day
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
+\sd 4.9.7.7
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
 \va Yinke
 \ve North
 \cf Ɩpwɛ
 \ce first day
-\dt 06/Jan/2014
+\dt 20/Jul/2016
 
 \lx ɩsa
 \ph ɪsáʔ
@@ -14353,13 +14364,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn
 \ge dawn, to
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de dawn, to, used only with ɔyɩ
 \rf Tape:3-1-486
 \xv Ɔyɩ lɛkɛ a, sʋ ba ayɔ anɩ ɔkpa amʋ aba.
 \xe The world has lightened so come let's go on our way and come.
 \bb Stewart List:2352
-\dt 13/Jul/2014
+\dt 20/Jul/2016
 
 \lx kɛkɛ
 \hm 1
@@ -15598,6 +15609,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge Kofi
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a male born on Friday
 \rf Tape:4-1-339
 \xv Fieda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kofi.
@@ -15608,7 +15620,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ce Friday
 \cf Afua
 \ce Friday born woman
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx koko
 \ph koko
@@ -17718,6 +17730,7 @@ cf fonflo
 \sn
 \ge Kudjo
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a male born on Monday
 \rf Tape:4-1-339
 \xv Gyɔda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kudjo.
@@ -17731,7 +17744,7 @@ cf fonflo
 \ce Monday
 \cf Agyoa
 \ce Monday born woman
-\dt 26/Dec/2013
+\dt 20/Jul/2016
 
 \lx kufa
 \ph kufa
@@ -17806,38 +17819,41 @@ cf fonflo
 \sn
 \ge ancestral day
 \ge Fourth day
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
+\sd 4.9.7.7
 \de ancestral day; fourth day of the traditional Nkonya week
 \na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \xv Kulihɛ gyi Nkonyafɔ nkɛ naasɩ nɩ.
 \xe Kulihɛ is the fourth day of they Nkonyas.
 \cf Ɩpwɛ
 \ce first day
-\dt 06/Jan/2014
+\dt 20/Jul/2016
 
 \lx Kulihɛ Odekeyikɛ
 \ph kulihɛ́ odekeyikɛ
 \ps TIME
 \sn
 \ge Fifth day
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
+\sd 4.9.7.7
 \de day following ancestral day; the fifth day of the traditional Nkonya week
 \na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \cf Ɩpwɛ
 \ce first day
-\dt 06/Jan/2014
+\dt 20/Jul/2016
 
 \lx Kulihɛ Ɔdɛkɛtrakɛ
 \ph kulihɛ́ odɛkɛtrákɛ
 \ps TIME
 \sn
 \ge Sixth day
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
+\sd 4.9.7.7
 \de the second day following ancestral day; the sixth and final day of the traditional Nkonya week
 \na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \cf Ɩpwɛ
 \ce first day
-\dt 06/Jan/2014
+\dt 20/Jul/2016
 
 \lx kuma
 \ph kuma
@@ -17962,7 +17978,7 @@ cf fonflo
 \ps TIME
 \sn
 \ge Wednesday
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
 \de Wednesday
 \bw Akan:kuoda (LL)
 \xv Nɩ bɔkwɩɩ ɔtsɩ Kuoda, bɛtra kwɩɩ ɔtsɩ buo mʋ Kuoda a, bɛtɩ kebi amʋ Akuakuma.
@@ -17984,7 +18000,7 @@ cf fonflo
 \cf Kwasieda
 \ce Sunday
 \rf Tape:5-1-257
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx kusubi
 \ph kusubi
@@ -18302,6 +18318,7 @@ cf fonflo
 \sn
 \ge Kwabena
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a male born on Tuesday
 \va Kɔmla
 \nt Akan: Kwabɩna; Ewe: Kɔmla
@@ -18317,7 +18334,7 @@ cf fonflo
 \ce Tuesday
 \cf Abena
 \ce Tuesday born woman
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx kwadu
 \ph kwadú
@@ -18350,6 +18367,7 @@ cf fonflo
 \sn
 \ge Kwaku
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a male born on Wednesday
 \va Kweku
 \rf Tape:4-1-339
@@ -18361,7 +18379,7 @@ cf fonflo
 \ce Wednesday
 \cf Akua
 \ce Wednesday born woman
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx Kwame
 \ph kʷamɪ
@@ -18369,6 +18387,7 @@ cf fonflo
 \sn
 \ge Kwame
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a male born on Saturday
 \rf Tape:4-1-339
 \xv Mɩmnɩda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Kwame.
@@ -18379,7 +18398,7 @@ cf fonflo
 \ce Saturday
 \cf Amma
 \ce Saturday born woman
-\dt 12/Dec/2013
+\dt 20/Jul/2016
 
 \lx Kwamewulutɔ
 \ph kʷamɪwúlutɔ
@@ -18409,6 +18428,7 @@ cf fonflo
 \sn
 \ge Kwesi
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a male born on Sunday
 \va Kwesi
 \rf Tape:4-1-356
@@ -18422,14 +18442,14 @@ cf fonflo
 \ce Sunday
 \cf Akosua
 \ce Sunday born woman
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx Kwasieda
 \ph kʷasieda
 \ps TIME
 \sn 1
 \ge Sunday
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
 \de Sunday
 \bw Akan fi:kwasiada
 \xv Akristofɔ bʋtɔyɔ asɔrɩ Kwasieda.
@@ -18453,11 +18473,11 @@ cf fonflo
 \ps n
 \sn 2
 \ge week
-\sd 8.4.1.2.2
+\sd 8.4.1.3
 \de a week, seven days
 \cf ndawɔtswɩ
 \ce week
-\dt 05/Nov/2015
+\dt 20/Jul/2016
 
 \lx kwasɩa
 \ph kwasɪaʔ(L)
@@ -18646,7 +18666,7 @@ cf fonflo
 \ps n
 \sn
 \ge day name
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
 \de the name given based on what day of the week one is born
 \na A person has an affinity for those born on the same day of the week.
 They are considered to have a similar personality, and can call each other opio (sibling).
@@ -18684,7 +18704,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ce Sunday born man
 \cf Akosua
 \ce Sunday born woman
-\dt 26/Dec/2013
+\dt 20/Jul/2016
 
 \lx la
 \hm 1
@@ -19664,14 +19684,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps TIME
 \sn
 \ge dusk
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de dusk
 \cf fɔɔn
 \ce dusk
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx ma ɔdwɛ
 \ph ma ɔdwɛ
@@ -20199,9 +20219,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge then
-\sd 8.4.1.2.2
+\sd 8.4.5.2.1
 \de then
-\dt 11/Jul/2014
+\dt 20/Jul/2016
 
 \lx mɛ́ɛ-
 \ph mɛ̂ː-
@@ -20343,7 +20363,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps TIME
 \sn
 \ge Saturday
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
 \de Saturday
 \bw Akan fi:Memeneda HH
 \xv SDAfɔ bʋtɔyɔ asɔrɩ Mɩmɩnɩda.
@@ -20365,7 +20385,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ce Friday
 \cf Kwasieda
 \ce Sunday
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx mla
 \ph mla
@@ -20644,7 +20664,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge which
-\sd 8.4.1.2.2
+\sd 9.2.3.4
 \de which
 \rf Tape:4-2-381
 \xv Ntobi amʋ mɔmʋ gyi fʋ klɛ?
@@ -20655,7 +20675,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Sukuu amʋ mɔmʋtɔ fɔ́yɔ?
 \xe Which of the school are you going?
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
-\dt 12/Jul/2014
+\dt 20/Jul/2016
 
 \lx mɔsɩ
 \ph mɔ́sɪ́ʔ
@@ -21045,14 +21065,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps CNJ
 \sn
 \ge then
-\sd 8.4.1.2.2
+\sd 9.6.2.8
 \de then
 \rf Tape:4-2-467
 \xv Nɩ fɔyɔ a, mʋ́mʋ́ mɩ ɛ nɔ́yɔ.
 \xe If you are going then I am also going.
 \xv Nɩ fotsu sika amʋ a, mʋmʋ mɩ ɛ notsu ɔsʋlʋ amʋ.
 \xe If you take the money, then I will take the land.
-\dt 03/Oct/2015
+\dt 20/Jul/2016
 
 \lx mʋʋ
 \ph mʊ́ː
@@ -21423,7 +21443,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 1
 \ge week
-\sd 8.4.1.2.2
+\sd 8.4.1.3
 \de week
 \bw Akan fi:"eight days"
 \rf Tape:4-2-565
@@ -21434,9 +21454,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 2
 \ge week celebrations
-\sd 8.4.1.2.2
+\sd 8.4.1.3
+\sd 2.6.6.3
 \de the celebrations held a week after the burial of a person
-\dt 05/Nov/2015
+\dt 20/Jul/2016
 
 \lx ndawun
 \ph ndawṹ
@@ -21478,7 +21499,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ce tomorrow
 \cf klaɛ
 \ce day after tomorrow
-\dt 05/Feb/2016
+\dt 20/Jul/2016
 
 \lx ndɛmba
 \ph ndɛmba
@@ -21942,9 +21963,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge some days
-\sd 8.4.1.2.2
+\sd 8.4.5.2.1
+\sd 8.4.1.2
 \de several days
-\dt 01/Jul/2014
+\dt 20/Jul/2016
 
 \lx nkɛtɩ
 \ph ŋkɛ́tɪ
@@ -22235,14 +22257,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADV
 \sn
 \ge where?
-\sd 8.4.1.2.2
+\sd 9.2.3.4
 \de where?
 \rf Tape:5-1-271
 \xv Nkʋnʋ fotsu? Nkʋnʋ fɔyɔ?
 \xe Where do you come from? where are you going to?
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \bb Stewart List:1601
-\dt 12/Jul/2014
+\dt 20/Jul/2016
 
 \lx nkwanta
 \ph ŋkwanta
@@ -22966,21 +22988,23 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge evening
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de evening
 \xv Nɩ akʋ bɔyɔ ndɔtɔ a, ntʋpwɛ bʋtɛba woyitɔ, tsufɛ owí ɔnɔ tɔwa ɔlɩn ɔpa.
 \xe When some people go to farm, they come back home in the evening, because the sun becomes hot in the afternoon.
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\sd ntʋpwɛnye
+\ce dusk
+\dt 20/Jul/2016
 
 \lx ntʋpwɛnye
 \ph ntʊpwɛɲé
 \ps n
 \sn
 \ge dusk
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de dusk
 \cf ma nɩ mɩ nɩ
 \ce dusk
@@ -22989,7 +23013,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx nu
 \ph núʔ(H)
@@ -23557,7 +23581,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps TIME
 \sn
 \ge morning
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de morning
 \rf Tape:5-1-530
 \xv Ɔkɛ nyankɩ notua yɔ ndɔ.
@@ -23589,7 +23613,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ce night time
 \cf ɔyɩ nsɩnɛ
 \ce midnight
-\dt 05/Feb/2016
+\dt 20/Jul/2016
 
 \lx nyankɩ
 \hm 2
@@ -24758,7 +24782,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge year
-\sd 8.4.1.2.2
+\sd 9.2.3.4
 \de year
 \pl nfi
 \plph ɱfí
@@ -24776,7 +24800,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Asa ofi anfɩ bɔ́mɔ ɔnɔ a, abotu yɔ anɩ agyuma ɔyɔkpa pɔpwɛ amʋtɔ.
 \xe Before the year ends, we shall move to our new office.
 \bb Stewart List:1112
-\dt 18/Jun/2014
+\dt 20/Jul/2016
 
 \lx ofiakpa
 \ph ofíak͡pa
@@ -24791,7 +24815,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge next year
-\sd 8.4.1.2.2
+\sd 8.4.1.6
 \de next year
 \va efieba
 \ve South
@@ -24802,7 +24826,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Nobody knows what will happen next year.
 \xv Ofieba nɩ Bulu obotsula a, néfi mɩ obu yi asɩ.
 \xe Next year if God will permit, I will start to build my house.
-\dt 30/Jun/2014
+\dt 20/Jul/2016
 
 \lx ofienɩ
 \ph ofienɪ(H)
@@ -26240,7 +26264,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge night
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \sd 8.4.1.2.1
 \de night
 \va enye
@@ -26255,7 +26279,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce morning
 \nt see nyankɩ for other words for time of day
 \bb Stewart List:1104
-\dt 17/May/2016
+\dt 20/Jul/2016
 
 \lx onyelulu
 \ph oɲelulúʔ
@@ -26278,9 +26302,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tonight
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de tonight
-\dt 12/Jul/2014
+\dt 20/Jul/2016
 
 \lx oo
 \ph óː
@@ -27295,12 +27319,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps TIME
 \sn
 \ge evening
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de evening
 \xv Owí pɔnhɛsʋ lɩɩ yɔ agyʋma bʋ ayɔlɛ, tsufɛ nsaɩntɔ tolwii.
 \xe Working in the evening is pleasant, because the weather becomes cool.
 \nt From ths: words describing time of day: bakɛ(early morning hours before sunrise), ɔyɩ ya kɛ(sunrise, world lightening), nyankɩ (morning), ɔpa, ɔpawisʋ(noon), owí ɩpɔn(afternoon), ntɔpwɛ(evening), maanɩ mɩnɩ (dusk), onye(night)
-\dt 11/Jun/2014
+\dt 20/Jul/2016
 
 \lx owie
 \ph owíêʔ
@@ -27846,12 +27870,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge pass slowly
-\sd 8.4.1.2.2
+\sd 8.4.2.2
 \de to pass slowly
 \nt Usually used in the negative, "to pass quickly"
 \xv Ofi ma ɔbalɔ.
 \xe The year will pass quickly.
-\dt 03/Nov/2015
+\dt 20/Jul/2016
 
 \lx ɔbɛ
 \ph ɔbɛ́ʔ
@@ -31068,7 +31092,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge early afternoon
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de early afternoon
 \va ɛpa
 \ve South
@@ -31081,7 +31105,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce morning
 \nt see nyankɩ for other words for time of day
 \bb Stewart List:1106
-\dt 05/Feb/2016
+\dt 20/Jul/2016
 
 \lx ɔpa
 \hm 2
@@ -31104,7 +31128,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de since
 \se ɔyɩ ɔpa
 \ge long ago
-\sd 8.4.1.2.2
+\sd 8.4.6.2
 \de beginning of the world
 \xv Lowu lɛba tsu ɔyɩ ɔpa, mʋ́sʋ lowu bʋ ɩnʋ nɩ.
 \xe Death came from the world's beginning, because of this death is there.
@@ -31112,14 +31136,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-283
 \xv Ɔyɩ ɔpa amʋ́ʋ́ nɔwa fʋ sumbi amʋ a, bɩansʋ fɛba nɩ?
 \xe I sent you on the errand long ago, are you now coming?
-\dt 28/Apr/2016
+\dt 20/Jul/2016
 
 \lx ɔpablɩsʋ
 \ph ɔpablɪ́sʊ́
 \ps n
 \sn
 \ge noon
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de noon
 \va ɛpablɩsʋ
 \ve South
@@ -31130,7 +31154,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 05/Feb/2016
+\dt 20/Jul/2016
 
 \lx ɔpalɩ
 \ph ɔpalɪ́
@@ -31186,7 +31210,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge noon
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de noon
 \va ɛpawisʋ
 \ve South
@@ -31198,7 +31222,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 05/Feb/2016
+\dt 20/Jul/2016
 
 \lx ɔpayin
 \ph ɔpayĩʔ
@@ -32213,9 +32237,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge last person
-\sd 8.4.1.2.2
+\sd 8.4.5.1.4
 \de the last person
-\dt 21/Jun/2014
+\dt 20/Jul/2016
 
 \lx ɔtrapʋ
 \ph ɔtrá!pʊ́
@@ -32339,12 +32363,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge when
-\sd 8.4.1.2.2
+\sd 9.2.3.3
 \de time that
 \rf Tape:6-1-522
 \xv Ɔtsanɩ fɔ́yɔ a, bla mɩ ankla fʋ mɩ pio.
 \xe When you are going, tell me in order that I can send a message to my brother with you.
-\dt 12/Jul/2014
+\dt 20/Jul/2016
 
 \lx ɔtsantsan
 \ph ɔt͡sãt͡sã
@@ -32906,25 +32930,25 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \nt JG contrast with ɔyɩkɛhɛ/ɛyɩkɛhɛ
 \ge dawn
-\sd 8.4.1.2.2
 \sd 8.4.1.2.3
 \de the time that the sun rises
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 17/May/2016
+\dt 20/Jul/2016
 
 \lx ɔyɩ nsɩnɛ
 \ph ɔyɪ́nsɪnɛ́
 \ps n
 \sn
 \ge midnight
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
+\sd 8.4.1.2.1
 \de midnight
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\dt 09/Nov/2015
+\dt 20/Jul/2016
 
 \lx ɔyɩkɛhɛtɔ
 \ph ɔyɪkɛhɛtɔ
@@ -32932,9 +32956,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge day time
 \sd 8.4.1.2.3
-\sd 8.4.1.2.2
+\sd 8.4.1.2
 \de daytime
-\dt 17/May/2016
+\dt 20/Jul/2016
 
 \lx ɔyɩlʋ
 \ph ɔyɪlʊ
@@ -34834,17 +34858,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps TIME
 \sn
 \ge now
-\sd 8.4.1.2.2
+\sd 8.4.6.3.1
 \de now
 \va sei
 \ve South
 \ph séi
-\cf sesei
-\ce immediately
+\se sesei
+\ge immediately
+\nt South uses sei for now, sesei for immediately. North uses sesei for now, sesesei for immediately
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
-\dt 25/Dec/2013
+\dt 20/Jul/2016
 
 \lx sɛ
 \hm 1
@@ -36334,9 +36359,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔkandɩɛtɔ tatida lata.
 \xe The lantern wick (rag) is finished.
 \bb Stewart List:2321
-\se Owí lata
+\se owí lata
 \ge evening
-\sd 8.4.1.2.2
+\sd 8.4.1.2.3
 \de early evening
 \lt the sun is finished
 \bb Stewart List:2353
@@ -36369,7 +36394,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nkʋnʋ fʋdɛta bɔtsʋn yɔ alɩ a?
 \xe Where do you often go when you pass here?
 \bb Stewart List:2958
-\dt 19/Jul/2016
+\dt 20/Jul/2016
 
 \lx taan
 \ph tã̂ːʔ
@@ -40790,6 +40815,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge Yaa
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name given to a female born on Thursday
 \xv Yaoda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Yaa.
 \xe I was born on Thursday, so they call me Yaa.
@@ -40799,7 +40825,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce Thursday
 \cf Yao
 \ce Thursday born man
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx yaa
 \hm 1
@@ -40903,6 +40929,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge Yao
 \sd 9.7.1.1
+\sd 8.4.1.3.1
 \de name of a male born on Thursday
 \rf Tape:4-1-339
 \xv Yaoda bɔkwɩɩ mɩ sʋ bʋtɛtɩ mɩ Yao.
@@ -40914,14 +40941,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce Thursday
 \cf Yaa
 \ce Thursday born woman
-\dt 19/Jun/2014
+\dt 20/Jul/2016
 
 \lx Yaoda
 \ph yáoda(H)
 \ps TIME
 \sn
 \ge Thursday
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
 \de Thursday
 \bw Akan fi:yaoda
 \rf Tape:3-1-108
@@ -40943,7 +40970,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce Saturday
 \cf Kwasieda
 \ce Sunday
-\dt 05/Dec/2013
+\dt 20/Jul/2016
 
 \lx yaya
 \ph yayá
@@ -41270,14 +41297,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps TIME
 \sn
 \ge Third day
-\sd 8.4.1.2.2
+\sd 8.4.1.3.1
+\sd 4.9.7.7
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
 \nt More information is available under the entry for Ɩpwɛ.
 \va Ɩpwɛ Ɔdɛkɛtrakɛ
 \ve South
 \cf Ɩpwɛ
 \ce first day
-\dt 04/Apr/2016
+\dt 20/Jul/2016
 
 \lx yinki
 \ph yíŋkí
