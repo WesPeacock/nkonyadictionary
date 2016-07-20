@@ -1130,11 +1130,16 @@
 \lx agoo
 \ph ágôː
 \ps INTERj
-\sn
+\sn 1
+\ge Hello!
+\sd 3.5.1.4.3
+\sd 6.5.2.4
+\de Anybody home? Equivalent to knocking on a door.
+\sn 2
 \ge Hello!
 \sd 9.6.3.3
 \de Interjection used to get attention; Anybody Home?
-\dt 16/Jul/2016
+\dt 21/Jul/2016
 
 \lx agude
 \ph agude(H)
@@ -1431,13 +1436,12 @@
 \sn
 \ge envy
 \sd 3.4.2.1.8
-\sd 4.3.3.1
 \de to dislike, or resent someone because of something he has
 \bw Akan fi:ahin LH
 \rf Tape:1-1-294
 \xv Asʋn amʋ lɔwa Owie amʋ ahin.
 \xe The matter made the chief envious.
-\dt 15/Jul/2016
+\dt 21/Jul/2016
 
 \lx ahinla
 \ph ahinlá(H)
@@ -3893,10 +3897,8 @@
 \sn
 \ge namesake
 \sd 9.7.1.1
-\sd 9.7.1.1
-\sd 4.3.3
 \de namesake
-\dt 18/May/2016
+\dt 21/Jul/2016
 
 \lx awiaburo
 \ph awiabúro (H)
@@ -4942,8 +4944,7 @@
 \ps vt
 \sn 1
 \ge know
-\sd 3.2.2.5
-\sd 4.3.3
+\sd 3.2.3
 \de to come to know
 \xv Kebi ánɩ́ otobu atɔ a, ɔtɛbɩ atɔ ɔsasʋ.
 \xe A child that is respectful comes to know things quickly.
@@ -4957,7 +4958,7 @@
 \de to recognize
 \xv Tamɛ ɔnɔkwalɩ asʋn, Elia laba dodoodo. Mboun ɔhaa mɛbɩ mʋ.
 \xe But, truthfully Elijah has come already. Instead nobody recognized him.
-\dt 20/Jul/2016
+\dt 21/Jul/2016
 
 \lx bɩ
 \hm 3
@@ -5062,9 +5063,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge trusted one
 \sd 3.2.5.1.1
-\sd 4.3.3
+\sd 4.1.3
 \de one you trust more than anyone else
-\dt 01/May/2016
+\dt 21/Jul/2016
 
 \lx bɩtɩ
 \ph bɪ́tɪ́(H)
@@ -6575,7 +6576,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to render
 \se da ɩpan
 \ge thank
-\sd 4.3.3
+\sd 3.5.1.7.1
 \de to thank someone
 \rf Tape:2-1-172
 \xv Nɛda fʋ ɩpan.
@@ -6628,7 +6629,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:5-2-138
 \xv Mɩ atɔ dahɛ amʋ lada ɔbaan.
 \xe My setting out things (yams, water yams) have grown shoots.
-\dt 20/Jul/2016
+\dt 21/Jul/2016
 
 \lx da wa
 \ph dá wá
@@ -7539,12 +7540,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge RESPONSE
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de Northern variant of Ɛdɔɔ!
 \rf Tape:2-1-357
 \xv Mlɩyaaloo! Fówun batsuda mʋ́sʋ bɛɛ, "Dɔɔ, fɛdɩ?"
 \xe Good morning, so that they have responded to it, "Dɔɔ have you slept?"
-\dt 01/Feb/2014
+\dt 21/Jul/2016
 
 \lx du
 \ph dúʔ
@@ -7883,13 +7884,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge morning response
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de response to morning greeting
 \va dɔɔ
 \ve Northern dialect
 \xv Mlɩyaaloo! Fówun batsula mʋ́sʋ bɛɛ, "Ɛdɔɔ, Ɛyɩlɛkɛ?"
 \xe Good morning, so that they have responded to it, "Ɛdɔɔ, Dawn has come?"
-\dt 04/Jan/2014
+\dt 21/Jul/2016
 
 \lx ɛfɛ
 \ph ɛfɛ́(H)
@@ -8917,7 +8918,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:2479
 \se futi fɩtatɔ kɩ
 \ge discriminate
-\sd 4.3.3.1
+\sd 4.7.9.4
 \de to discriminate against someone
 \lt to pierce a leaf and look through it
 \ps vt
@@ -8927,7 +8928,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 2.6.4.1.1
 \de to give a medical injection
 \rf Tape:2-2-014
-\dt 14/Jun/2016
+\dt 21/Jul/2016
 
 \lx fututu
 \ph futútú
@@ -9116,13 +9117,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge RESPONSE
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de response to the afternoon / evening greeting
 \cf fʋ1 na
 \rf Tape:2-2-069
 \xv A: Tsianɩ! B: Fʋnaa! Woyi da?
 \xe A: Good afternoon/evening! B: Hi! How's your household?.
-\dt 04/Feb/2016
+\dt 21/Jul/2016
 
 \lx fʋrʋ
 \ph fʊ́rʊ
@@ -9567,12 +9568,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge farewell
-\sd 4.3.3
+\sd 3.5.1.4.4
 \de farewell greeting; go well
 \rf Tape:2-2-164
 \xv "Nɩ fɔyɔ a, gyagyaagya, nɛha amʋ́ fɛ́ɛ́ itsia."
 \xe When you are going, go well, I greet them all.
-\dt 23/Jun/2014
+\dt 21/Jul/2016
 
 \lx gyakuo
 \ph ʤakuo(H)
@@ -9783,7 +9784,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge be friends
-\sd 4.3.3
+\sd 4.1.1
 \de to be friends
 \rf Tape:2-2-236
 \xv Pʋ ɔha wanklaan gyi mba, mɛnɩ fɔbwɛ atɔ wanklaan.
@@ -9793,7 +9794,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge argue
 \sd 3.5.1.6.2
-\sd 4.3.3.1
 \de to argue
 \rf Tape:2-2-239
 \xv Akʋ bʋtegyi nwɛn kpan.
@@ -9832,7 +9832,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 4.6.1
 \de to rule as chief
 \lt eat chieftaincy
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx gyi
 \hm 2
@@ -9990,11 +9990,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge halloo
 \sd 3.5.1.4.1
-\sd 4.3.3
 \de call loudly usually "wuu"
 \xv Anɩlɔyɔ pututɔ ɩnʋ a, anɩlɔwa fɔ aba wa sʋ nogyoli mʋ.
 \xe If we are going to the bush there, we go far from our mate we call him.
-\dt 18/May/2016
+\dt 21/Jul/2016
 
 \lx gyoli
 \hm 2
@@ -10386,7 +10385,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 1
 \ge decide
-\sd 4.3.3
+\sd 3.3.1.6
+\sd 3.3.1
 \de to determine to do something
 \rf Tape:2-2-333
 \xv Nahɩɛ ánɩ́ nótu ɔkpa.
@@ -10398,7 +10398,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 2
 \ge promise
-\sd 4.3.3
+\sd 3.5.1.9
 \de to promise someone something
 \xv Bulu ɔhɩɛ fʋ tɔkʋ omékina mʋ́ bwɛ.
 \xe If God should promise you something he will not refuse to do it.
@@ -10424,7 +10424,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-341
 \xv Ɔbʋ akɩlɛ.
 \xe She is beautiful.
-\dt 20/Jul/2016
+\dt 21/Jul/2016
 
 \lx hɩɛ nsʋ
 \ph hɪɛ nsʊ
@@ -10563,7 +10563,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge trust
-\sd 4.3.3
+\sd 3.2.5.1.1
 \de trust
 \xv Nahɔ mʋ/mʋ́ sʋ gyi.
 \xe I trust him/it.
@@ -10575,21 +10575,21 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nahɔ mʋ sʋ gyi, tsufɛ ɔlɛblɩ ɔbɛɛ, ɔbɛ́ba, lɛlɛ a, alaba.
 \xe I trust him because he said he would be back and truly he has come.
 \bb Stewart List:3160
-\dt 03/Oct/2015
+\dt 21/Jul/2016
 
 \lx huna
 \ph húnáʔ (L)
 \ps v
 \sn
 \ge threaten
-\sd 4.3.3.1
+\sd 3.3.3.8
 \de to scare a child; to threaten bodily harm; to threaten with a cutlass, a stick, etc
 \rf Tape:2-2-363
 \xv Kebi ɔbwɛ tɔ lalahɛ a, huna mʋ fɛkɩ ɔmɛ́ɛtra bwɛ.
 \xe If a child should do something wrong, threaten him so that he won't do it again.
 \xv Olohuna mɩ, tamɛ mménya mʋ fu.
 \xe He intimidated me but I wasn't scared of him.
-\dt 11/Jul/2014
+\dt 21/Jul/2016
 
 \lx hʋlɩ
 \ph hʊ́lɪ́ʔ
@@ -11383,13 +11383,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge greetings
-\sd 4.3.3
+\sd 3.5.1.4.3
 \va tsia
 \de afternoon, evening greetings
 \rf Tape:2-2-451
 \xv Ɔdɛ mlɩ tsia ha.
 \xe He is greeting you (pl).
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx itsitsa
 \ph it͡sit͡saʔ
@@ -12375,9 +12375,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de bravery
 \se ɩklʋn nya
 \ge patience
-\sd 3.4
 \sd 4.3.1.5
-\sd 4.3.3
 \de patience
 \xv Kokoli makpla mʋ, nya klʋn anuu.
 \xe Please don't mind him but be patient, you hear.
@@ -12389,11 +12387,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se lwii ɩklʋn
 \ge comfort
 \sd 4.4.4.2
-\sd 2.6.4.1.1
-\sd 4.3.3
 \de to comfort someone
 \bb SIL-AWL:0082
-\dt 18/May/2016
+\dt 21/Jul/2016
 
 \lx ɩklʋn lwii
 \ph ɪklʊ̃lwǐː
@@ -12401,10 +12397,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge console; comfort
 \sd 4.4.4.2
-\sd 2.6.4.1.1
-\sd 4.3.3
 \de comfort
-\dt 18/May/2016
+\dt 21/Jul/2016
 
 \lx ɩklʋn nya
 \ph ɪklʊ̃ɲá
@@ -12959,12 +12953,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge thanks
-\sd 4.3.3
+\sd 3.5.1.7.1
 \de thanks
 \rf Tape:3-1-138
 \xv Nɩ ɔkɛ bakɛ fonu batɛ ɩbɔn a, mɩdɛ fʋ pan da.
 \xe If tomorrow dawn you hear a rooster's crowing I am thanking you.
-\dt 11/Jul/2014
+\dt 21/Jul/2016
 
 \lx ɩpɩn
 \ph ɪpɪ̃̂ʔ
@@ -13315,12 +13309,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge GREET AM
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de morning greeting from before daybreak until noon
 \rf Tape:3-1-207
 \xv Ɔdɛ mlɩ tɛ ha, mlɩtsuda.
 \xe He is greeting you, so answer.
-\dt 25/Dec/2012
+\dt 21/Jul/2016
 
 \lx ɩtɛ
 \hm 2
@@ -14021,7 +14015,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge in harmony
 \sd 8.3.7.7.3
 \sd 3.2.5.4
-\sd 4.3.3
 \de to be in harmony with
 \rf Tape:3-1-380
 \xv Asʋn bʋ anɩ nsɩnɛ sʋ anɩmɛkan.
@@ -14029,7 +14022,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-383
 \xv Mɩa mʋ nyɔ anɩlɛkan.
 \xe He and I are free with each other.
-\dt 18/May/2016
+\dt 21/Jul/2016
 
 \lx kana
 \ph kanâːʔ (L)
@@ -15912,8 +15905,7 @@ cf fonflo
 \ps v
 \sn 1
 \ge fight
-\sd 4.3.3.1
-\sd 4.8.3
+\sd 4.8.2
 \de to fight
 \rf Tape:3-2-342
 \xv Kwaku tamakɔ, tamɛ ndɛ mʋ́ a, ɔdɛkɔ.
@@ -15924,7 +15916,7 @@ cf fonflo
 \ge make war
 \sd 4.8.3
 \de to make war
-\dt 02/Nov/2015
+\dt 21/Jul/2016
 
 \lx kɔ
 \hm 3
@@ -16671,7 +16663,8 @@ cf fonflo
 \ps vt
 \sn 1
 \ge placate
-\sd 4.3.3
+\sd 3.4.2.3
+\sd 4.8.4.8
 \de to placate an angry person
 \nt also to pacify, as in when you give money or cloth to a first wife in order to pacify her when you take another wife.
 \rf Tape:3-2-484
@@ -16681,7 +16674,7 @@ cf fonflo
 \ps vt
 \sn 2
 \ge separate (fighters)
-\sd 4.3.3.1
+\sd 4.8.4.8
 \de to separate two people who are fighting
 \rf Tape:3-2-481
 \xv Nyebi amʋ bu dɛ kɔ, sʋ yɔ kpata amʋ́.
@@ -16690,11 +16683,10 @@ cf fonflo
 \xe he separated them.
 \se ɔkpatapʋ
 \ge peacemaker
-\sd 3.4
-\sd 4.3.3
-\sd 4.8.3
+\sd 3.4.2.3
+\sd 4.8.4.8
 \de one who stops people from fighting
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx kpata
 \hm 2
@@ -16821,10 +16813,9 @@ cf fonflo
 \ps v
 \sn
 \ge gossip
-\sd 4.3.3.1
 \sd 3.5.1.8.4
 \de to gossip about
-\dt 19/May/2016
+\dt 21/Jul/2016
 
 \lx kpɛfʋn
 \ph k͡pɛ́fʊ̃
@@ -17475,12 +17466,12 @@ cf fonflo
 \sn 2
 \ge slander
 \sd 3.5.1.8.4
-\sd 4.3.3.1
+\sd 3.5.1.8.2
 \de to slander someone
 \rf Tape:4-1-074
 \xv Mɩ nyawie lawa afunu, blɩ asʋn lalahɛ pʋ kpɔɩ mɩ ɩwɩ.
 \xe My friend has told lies, spoken evil things, and slandered me.
-\dt 19/May/2016
+\dt 21/Jul/2016
 
 \lx kpɔlɩ
 \ph k͡pɔ́lɪ́
@@ -19050,12 +19041,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge embrace
-\sd 4.3.3
+\sd 4.1.8
 \de embrace
 \nt see also puta
 \xv Igye ɔlɛlata kebi amʋ puta.
 \xe He embraced the child yesterday.
-\dt 12/Jul/2014
+\dt 21/Jul/2016
 
 \lx lekelekeleke
 \ph lekelekeleke
@@ -19183,12 +19174,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge betray
-\sd 4.3.3.1
+\sd 4.8.2.7
 \de to betray someone
 \rf Tape:4-1-495
 \xv Bɛlɛ Anyankpʋsatɔ Ɔdɛhɛn amʋ ha aha.
 \xe They will betray the Son of Man to people.
-\dt 23/Jun/2014
+\dt 21/Jul/2016
 
 \lx lɛ ɩla
 \ph lɛ ɪlaʔ(H)
@@ -19196,11 +19187,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge criticize
 \sd 3.5.1.8
-\sd 4.3.3.1
 \de criticize
 \xv Mʋ́ sʋ mlɩmanya ɔblɔ abasʋ, lɛ aba la.
 \xe So don't get angry and criticize your neighbour.
-\dt 19/May/2016
+\dt 21/Jul/2016
 
 \lx lɛ mʋ́tɔ
 \ph lɛ mʊ́tɔ
@@ -20422,7 +20412,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps vi
 \sn 1
 \ge deceive
-\sd 4.3.3.1
+\sd 4.3.5.5
 \de deceive
 \rf Tape:4-2-267
 \xv Ɔlɛblɩ ánɩ́ ɔbɛ́ba sa ɔdɛ mɩ mlɛ sʋ ɔmɛba.
@@ -20436,11 +20426,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps vi
 \sn 2
 \ge coax
-\sd 6.8.1.1
+\sd 3.3.3.3
+\sd 4.3.5.5
 \de to coax
 \xv mlɛ tswɩ
 \xe put someone to sleep
-\dt 02/Nov/2015
+\dt 21/Jul/2016
 
 \lx mlɛɛn
 \ph mlɛ̃ː
@@ -20529,14 +20520,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps INTJ
 \sn
 \ge greet A.M.
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de greetings in the morning to multiple people
 \cf ɔyaa
 \ce greet A.M.
 \rf Tape:6-1-039
 \xv Nyankɩ, nɩ fɔtʋ ɔha a, ha mʋ ɩtɛ fɛɛ "Ɔyaa". Nɩ bʋ tsɔ a, "Mlɩyaa."
 \xe When you meet a person in the morning, greet him/her saying "Ɔyaa", if they are many say "Mlɩyaa."
-\dt 01/Feb/2014
+\dt 21/Jul/2016
 
 \lx mmɛ
 \ph mmɛ(H)
@@ -20838,9 +20829,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de a sexual relationship
 \pl mpɩnafɔ
 \plph mpɪnafɔ (H)
+\nt needs checking -- example sentence doen't match the 
 \xv Kebi bʋtamatsu mpɩna nɩ fʋmɛdɛ agyuma yɔ.
 \xe A child does not keep friendship if you are not working.
-\dt 26/Mar/2016
+\dt 21/Jul/2016
 
 \lx mpu
 \ph mpú
@@ -21695,7 +21687,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 1
 \ge blame
-\sd 4.3.3.1
+\sd 3.5.1.8.1
 \de blame
 \bw Akan fi:mfʋmsʋ
 \nt Nkonya is ɩpɔn but ɩpɔn refers to guilt decided at arbitration
@@ -21713,7 +21705,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe If you speak Nkonya, if a mistake is in it, I will correct you.
 \xv Nɩ fʋ tɔɩ ɩma alɛ, nfumsʋ bʋ mʋ́tɔ a, nɛ́la tswii fʋ.
 \xe If you speak badly, with mistakes in it, I will correct you.
-\dt 20/Jul/2016
+\dt 21/Jul/2016
 
 \lx ngya
 \hm 1
@@ -21773,11 +21765,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge promise
-\sd 4.3.3
+\sd 3.5.1.9
 \de a promise
 \cf hɩɛ
 \ce promise (v)
-\dt 23/Dec/2013
+\dt 21/Jul/2016
 
 \lx Nhuan
 \ph nhuãʔ(L)
@@ -23071,12 +23063,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge honour
-\sd 4.3.3
+\sd 4.5.5
 \de honour
 \bw Akan fi:anunyam LLH
 \xv Mʋ́ʋ́ ɔlɛbla Yesu ɔbɛɛ, "Nɔ́pʋ ɔmá anfɩ fɛ́ɛ́ tumi pʋ́ amʋ́ numnyam ha fʋ, tsufɛ mɩ ɩbɩtɔ bapʋ wa."
 \xe Then he said to Jesus, "I will give you the authority of all these lands and their honour, because into my hand they have put it.
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx nun
 \ph nũʔ
@@ -23196,8 +23188,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn 1
 \ge argument
-\sd 3.5.1.6
-\sd 4.3.3.1
+\sd 3.5.1.6.2
 \de argument; debate
 \ng occurs with gyi "to eat"
 \xv Nwɛn gyi lɛda awie abanyɔ amʋ nsɩnɛ sʋ lekle mlɩn ɩkɔ.
@@ -23218,7 +23209,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Bʋsrɩ nwɛnsʋ.
 \xe They are competing in a race.
 \sd 4.3.4.3.1
-\dt 19/May/2016
+\dt 21/Jul/2016
 
 \lx nwɛn atɔ
 \ph ŋʷɛ̃́ atɔ́
@@ -23790,7 +23781,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge friend
-\sd 4.3.3
+\sd 4.1.1
 \de friend
 \va onyawie
 \vaph oɲawíe
@@ -23809,7 +23800,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Fʋ nyawie ɔbɛ́talɩ sankɩ bwɛ fʋ olupʋ.
 \xe Your friend can turn to become your enemy.
 \bb Stewart List:0311
-\dt 04/Feb/2016
+\dt 21/Jul/2016
 
 \lx nyebitɔ
 \ph ɲebitɔ
@@ -25332,7 +25323,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge believer
-\sd 4.3.3
+\sd 3.2.5.1
 \de a person who believes
 \pl ahogyipʋ
 \plph ahóʤipʊ
@@ -25342,7 +25333,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The believers in the town have met in the big house.
 \xv Ahogyipʋ amʋ fɛ́ɛ́ bénya ɔŋɛ wankɩhɛ amʋ ɔkɛ wʋlɛ.
 \xe All the believers received the Holy Spirit one day.
-\dt 20/May/2016
+\dt 21/Jul/2016
 
 \lx ohuam
 \ph ohuam
@@ -25381,13 +25372,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge meddle
 \sd 4.3.4.6
-\sd 4.3.3.1
 \de meddle
 \xv Akosuakuma bʋ okengye dʋbɩ.
 \xe Akosuakuma meddles too much.
 \xv Atsɩ akʋ bʋbʋ okengye dʋbɩ.
 \xe Some women meddle too much.
-\dt 19/May/2016
+\dt 21/Jul/2016
 
 \lx okeyi
 \ph okeyíʔ
@@ -29755,13 +29745,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge boy/girlfriend
-\sd 4.3.3
+\sd 4.1.1.1
 \de illegal marriage
 \pl akpamba
 \plph ak͡pambaʔ
 \xv Ɔkpamba ɔtsɩ anfɩ gyi ha oyin anfɩ, mʋ́ sʋ ɔmɛtalɩ wie woyitɔ amʋtɔ nɩ, tsufɛ ɔdɛ oyin amʋ mʋ ka ifu-nya.
 \xe This woman is a girlfriend to this man, that was why she couldn't entered the house because she is afraid of the man's wife.
-\dt 15/Aug/2013
+\dt 21/Jul/2016
 
 \lx ɔkpan
 \ph ɔk͡pã́ʔ
@@ -30611,12 +30601,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge deceit
-\sd 4.3.3.1
+\sd 4.3.5.5
 \de deceit
 \rf Tape:6-1-123
 \xv Ɔbʋ ɔmlɛn.
 \xe He is deceitful.
-\dt 12/Jul/2014
+\dt 21/Jul/2016
 
 \lx ɔmlɛ́n
 \ph ɔmlɛ̃́ʔ
@@ -30855,7 +30845,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge hard
-\sd 8.3.2
+\sd 8.3.6.2
 \de physically hard
 \rf Tape:6-1-173
 \xv Kunka ibi bʋ ɔnlɩn fɛ ibwi.
@@ -30877,8 +30867,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 3
 \ge hardhearted
-\sd 8.3.7.1
-\sd 4.3.3.1
+\sd 4.7.9.5
 \de harsh
 \rf Tape:6-1-168
 \xv Bawa onwuntɔ ɔnlɩn mʋsʋ.
@@ -30886,11 +30875,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 4
 \ge expensive
-\sd 6.8.4.8
+\sd 6.8.4.3.1
 \rf Tape:6-1-163
 \xv Fʋ atɔ fɛhɛ lɛlɩn. Mʋ́ bia ma ɔnlɩn.
 \xe Things you are selling are cheap. Their prices are low.
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx ɔnɔ
 \ph ɔnɔ́(H)
@@ -31038,7 +31027,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge envy
 \sd 3.4.2.1.8
-\sd 4.3.3.1
 \de envy, greed
 \lt red eye
 \rf Tape:6-1-227
@@ -31048,7 +31036,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔnsɩpɛ ma alɛ, tsufɛ bɛ́talɩ ha fɔ́mɔ ɔha.
 \xe Envy is not good because it can make you kill someone.
 \nt Ɔnsɩpɛ brings ahin (hating of someone because of what he has)
-\dt 16/Jul/2016
+\dt 21/Jul/2016
 
 \lx ɔnwankɩtɩ
 \ph ɔ̃wãŋkɪtɪ
@@ -31349,12 +31337,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bad joke
-\sd 4.3.3
+\sd 4.2.7
 \de bad joke; rough housing
 \rf Tape:6-1-326
 \xv Ɔplɔɩ bʋ ɔdwɛ, tamɛ ɔplɔɩkpan tɔpʋ ɩkɔ ba.
 \xe Joking is sweet but fooling around, rough housing, evil joking brings fighting.
-\dt 21/Jun/2014
+\dt 21/Jul/2016
 
 \lx ɔpɔnkɔ
 \ph ɔpɔŋkɔ(H)
@@ -32879,14 +32867,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps INTJ
 \sn
 \ge greet AM
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de greetings in the morning to single person
 \pl mlɩyaa
 \plph mlɪyǎː
 \rf Tape:6-1-039
 \xv Nyankɩ, nɩ fɔtʋ ɔha a, ha mʋ ɩtɛ fɛɛ "Ɔyaa". Nɩ bʋ tsɔ a, "Mlɩyaa."
 \xe When you meet a person in the morning, greet him/her saying "Ɔyaa", if they are many say "Mlɩyaa."
-\dt 02/Oct/2015
+\dt 21/Jul/2016
 
 \lx ɔyasubi
 \ph ɔyasubi(H)
@@ -33080,9 +33068,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 3
 \ge thank
-\sd 4.3.3
+\sd 3.5.1.7.1
 \de to thank s.o.
-\dt 04/Feb/2016
+\dt 21/Jul/2016
 
 \lx pan
 \hm 2
@@ -33474,11 +33462,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 2
 \ge peaceful
-\sd 3.4
-\sd 4.3.3
-\sd 4.8.3
+\sd 4.8.4
 \de peaceful
-\dt 03/Nov/2015
+\dt 21/Jul/2016
 
 \lx pitoo
 \ph pitôː
@@ -34030,9 +34016,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge soothe
 \sd 3.4.1.2.2
 \sd 2.6.4.1.1
-\sd 4.3.3
 \de soothe
-\dt 30/May/2016
+\dt 21/Jul/2016
 
 \lx pɔpwɛ
 \ph pɔ́pwɛʔ(L)
@@ -34238,7 +34223,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge embrace
-\sd 4.3.3
+\sd 7.3.4.4
+\sd 4.1.8
 \de to put your arms around something/somebody
 \xv Mmotsu bɛnsɩ sʋ a, nɛlata atɔ amʋ puta.
 \xe I didn't bring a head pan so I carried the things in my arms.
@@ -34248,8 +34234,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge rely on
-\sd 4.9.7.2
-\sd 4.3.3
+\sd 4.3.5.3
+\sd 7.1.6
 \de to rely on someone
 \xv Otoputa mɩ, bʋtoputa mɩ.
 \xe He always leans on me, they always lean on me.
@@ -34267,7 +34253,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge cram
 \sd 4.2.1.7
 \de to crowd around s.o.
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx putu
 \ph putuʔ
@@ -35009,8 +34995,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge forgive
-\sd 4.9.7.2
-\sd 4.3.3
+\sd 4.8.4.7
 \de forgive
 \xv Si asʋn kie fʋaba, mɛnɩ Bulu obési fʋklɛ kie fʋ.
 \xe Forgive your neighbour's case so that God will forgive yours.
@@ -35023,19 +35008,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce leave
 \cf kie
 \ce give as a gift
-\dt 09/Nov/2015
+\dt 21/Jul/2016
 
 \lx sia
 \ph siá
 \ps v
 \sn
 \ge insult
-\sd 4.3.3.1
+\sd 3.5.1.8.2
 \de to insult someone
 \xv Abasia maalɛ.
 \xe Insulting your neighbour is bad.
 \bb Stewart List:3255
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx siadɩɛ
 \ph siadɪɛ
@@ -37161,7 +37146,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge cut off
-\sd 5.2.1.2
+\sd 7.5.2.4
 \de to cut off the top or most valuable part
 \rf Tape:7-1-532
 \xv Fɔyɔ ndɔtɔ a, tɩn kwadu ba mɩ.
@@ -37181,9 +37166,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to behead a person
 \se tɩn ɔnɔ
 \ge excuse
-\sd 4.8.4.7
-\sd 4.6.6.1.2
-\sd 4.3.3.1
+\sd 4.7.5.4
 \de to make a false excuse
 \xv Ɔplɔɩ bʋtɔpʋ tɩn ɔnɔ wɩ nyambi.
 \xe They take rotten meat to stop protests, eat maggots.
@@ -37191,7 +37174,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I don't want to go to the communal labour. I want to go the farm so I pretended to have an errand to make an excuse to go to the farm.
 \xv Mapʋ kebi amʋ tɩn ɔnɔ, ba ayɔ.
 \xe Don't use your child as a false excuse, let's go.
-\dt 18/Jul/2016
+\dt 21/Jul/2016
 \bb Stewart List:3276
 
 \lx tɩn
@@ -37613,14 +37596,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge gossip
 \ge harvest
 \sd 3.5.1.8.4
-\sd 4.3.3.1
 \de to gossip about someone
 \xv Atsɩ amʋ bʋdɛ tɔnsɩ gyɔɩ.
 \xe The women are harvesting tɔnsɩ.
 \xe Free: The women are gossiping.
 \rf Tape:7-1-023
 \nt used as an idiom for gossiping
-\dt 31/May/2016
+\dt 21/Jul/2016
 
 \lx tɔnsɩ kwɛbwi
 \ph tɔnsɪ́ kwɛ́bwí
@@ -38389,11 +38371,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge greet PM
 \va tsianɩ-oo
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de greetings in the afternoon/evening to single person
 \pl tsiamlɩnɩ
 \plph tsiamlɪnɪ̌ʔ
-\dt 02/Oct/2015
+\dt 21/Jul/2016
 
 \lx tsiatɔ
 \ph t͡siátɔ́ʔ(L)
@@ -38490,7 +38472,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge gossip
 \sd 3.5.1.8.4
-\sd 4.3.3.1
 \de to gossip about someone
 \xv Bʋtamalɩɩ isinsʋ tsii kpasi.
 \xe They never stand on an ant hill and gossip about the bush rat.
@@ -38503,14 +38484,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce gossip
 \cf yiyi2
 \ce gossip
-\dt 19/May/2016
+\dt 21/Jul/2016
 
 \lx tsii opuni
 \ph t͡síː opúni
 \ps v
 \sn
 \ge frighten
-\sd 4.3.3.1
+\sd 3.4.2.4
+\sd 3.4.1.3
 \de to be frightened
 \xv tsii fʋ opuni
 \xe frighten you
@@ -38518,7 +38500,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-337
 \xv Brɛa olonu okitikiti amʋ a, opuni letsii mʋ.
 \xe When he heard the noise, he was frightened.
-\dt 30/Jun/2014
+\dt 21/Jul/2016
 
 \lx tsikitsiki
 \ph t͡sikit͡siki
@@ -38572,14 +38554,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge mythical egg
-\sd 4.3.3.1
+\sd 4.3.5.5
 \sd 3.5.4.6
 \de ruse, ploy, deception; mythical object
 \nt It is not a real object; somewhat akin to unicorn's horn. It is used especially when talking to children, but not exclusively, as an incentive to run an errand or execute a bidding promptly and discreetly. It is this sense a 'false' reward or the object of a promise which is in reality not delivered.
 \xv Nɩ fɔwa ɔsa ba a, nɛ́ha fʋ tsintsiin bɔnɔ.
 \xe If you put quick come I would give you a tsintsiin egg.
 \xe I will give you (as a reward) a tsintsiin egg if you're quick about it.
-\dt 23/Jun/2014
+\dt 21/Jul/2016
 
 \lx tsitsa
 \hm 1
@@ -39578,10 +39560,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps INTJ
 \sn
 \ge greetings
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de used to respond to a greeting when angry at another person to indicate that the anger in the voice is not directed at the one being greeted
 \xv (B is angrily shouting at C) A: Ɔyaloo! B: Ɛdɔɔ! Tʋn! ...
-\dt 11/Nov/2015
+\dt 21/Jul/2016
 
 \lx tʋnkpa
 \ph tʊŋ͡mk͡pa(H)
@@ -39602,11 +39584,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge greet
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de greet
 \cf tʋn2
 \ce greet
-\dt 10/Nov/2015
+\dt 21/Jul/2016
 
 \lx vunvun
 \ph vũvũ̂ʔ
@@ -39703,7 +39685,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge make
-\sd 2.5.7
+\sd 6.6.4
 \de to make (only used with certain objects)
 \rf Tape:8-1-123
 \xv Ɔlɔwa akʋnta.
@@ -39715,7 +39697,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to make some types of speech acts
 \se wa ɩlʋ
 \ge sing
-\sd 4.2.3.5
+\sd 4.2.3.3
 \de to sing a song
 \rf Tape:8-1-126
 \xv Ɔlɔwa ɩlʋ.
@@ -39723,6 +39705,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:2045
 \se wa ɔtɛ
 \ge tell story
+\sd 3.5.1
 \sd 3.5.4.1
 \de to tell a story
 \rf Tape:8-1-129
@@ -39756,12 +39739,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He stuffed cotton into a bag.
 \se wa ɩbɩ
 \ge shake hands
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de to shake hands
 \rf Tape:8-1-174
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
-\dt 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx wa bɩ
 \ph wá bɪ
@@ -40851,9 +40834,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps INTJ
 \sn
 \ge response
-\sd 4.3.3
+\sd 3.5.1.4.3
 \de response to "ayɛ"
-\dt 01/Feb/2014
+\dt 21/Jul/2016
 
 \lx yaa
 \hm 3
