@@ -4112,12 +4112,13 @@
 \ge wedding
 \sd 4.9.7.3
 \sd 4.9.7.2
+\sd 2.6.1.2
 \de a Christian wedding
 \nt From Akan meaning a new deed because it was something added to the traditional rites.
 \bw Akan fi:ayɩfʋrɔ LLHH (ayi fʋfʋrɔ)
 \xv Ɔtsɩ anfɩ bɔ́bwɛ mʋ ayɩfʋrɔ amʋ megyi nkɛsa bekina mʋ.
 \xe This wedded woman did not last for three days before being divorced.
-\dt 30/Sep/2015
+\dt 22/Jul/2016
 
 \lx ayo
 \ph ayó
@@ -5902,14 +5903,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge God
-\sd 4.9.7.2
+\sd 4.9.1
 \de creator god; sky god
 \xv Bulu tɔdwɛ ɔhagyiɔha, ɔtɛha nyankpʋ totswie wʋlɩ aha lalahɛ pʋ́ aha wanklaan atɔsʋ.
 \xe God loves everyone. He makes rain fall and water evil people and good peoples things.
 \xe God loves everyone and sends rain to the to the evil and the good.
 \rf Tape:1-2-532
 \bb Stewart List:0273
-\dt 04/Apr/2016
+\dt 22/Jul/2016
 
 \lx Bumbula
 \ph bumbula
@@ -6860,10 +6861,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge repent
-\sd 4.9.7.2
+\sd 4.8.4.6
 \de repent
 \lt turn in the heart
-\dt 08/Feb/2014
+\dt 22/Jul/2016
 
 \lx dan
 \ph dãʔ(L)
@@ -7006,14 +7007,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge evidence
 \sd 4.6.6.1.2
 \sd 4.6.6.1
-\sd 4.9.7.3
-\sd 4.9.7.2
 \de evidence
 \xv Oyin amʋ lɛblɩ asʋn yɔ mɩ, sʋ nɛkɩta asʋn amʋ dedua ánɩ́ nɛ́tɩ mʋ ɔkʋ wa.
 \xe The man spoke against me, I had an evidence in his speech and I will call him before an elder.
 \xv Anɩlakɩta mʋ́ dedua.
 \xe We have had an evidence.
-\dt 12/Jul/2014
+\dt 22/Jul/2016
 
 \lx deyi
 \ph déiʔ
@@ -12385,15 +12384,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Please don't mind him but be patient, you hear.
 \se ɩklʋntɔ damli
 \ge repent
-\sd 4.9.7.3
-\sd 4.9.7.2
+\sd 4.8.4.6
 \de repent
 \se lwii ɩklʋn
 \ge comfort
 \sd 4.4.4.2
 \de to comfort someone
 \bb SIL-AWL:0082
-\dt 21/Jul/2016
+\dt 22/Jul/2016
 
 \lx ɩklʋn lwii
 \ph ɪklʊ̃lwǐː
@@ -13141,8 +13139,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge test
 \sd 2.3.1
-\sd 4.9.7.3
-\sd 4.9.7.2
 \sd 3.6.2
 \de to test something
 \xv Sɔ mʋ́ kɩ bɛɛ ɩbʋ alɛ́.
@@ -13156,7 +13152,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:3-1-167
 \xv Ɩsɔkɩ tsu nyankpʋsa onuto ɔwɔlɩ lalahɛ watɔ.
 \xe Temptations come from a person's own evil desires.
-\dt 25/Apr/2016
+\dt 22/Jul/2016
 
 \lx ɩsʋ
 \ph ɪsʊʔ (H)
@@ -15117,7 +15113,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge read
 \sd 3.5.7.3
 \sd 3.6.2
-\sd 4.6.3
 \de to read a book or paper
 \rf Tape:3-2-094
 \xv Kla ɔwʋlʋ amʋ koklo anɩ fɛ́ɛ́ anu.
@@ -15127,8 +15122,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge witness
 \sd 4.6.6.1.2
 \sd 4.6.6.1
-\sd 4.9.7.3
-\sd 4.9.7.2
 \de to give witness in a case
 \rf Tape:3-2-098
 \xv Oyin amʋ dɛ mʋ asʋn kla.
@@ -20741,6 +20734,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge prayer
 \sd 4.9.7.2
+\sd 4.9.7.3
+\sd 4.9.7.7
 \de prayer
 \bw Akan fi:mpae
 \nt co-occurs only with bɔ
@@ -20749,7 +20744,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Pray that God should give us long life.
 \xv Bulu dɛ anɩ mpaɩtɔ nu sʋ, alaha nyankpʋ detswie ha anɩ.
 \xe God is hearing our prayers so it is raining for us.
-\dt 01/Feb/2014
+\dt 22/Jul/2016
 
 \lx mpesie
 \ph mpesie
@@ -21799,9 +21794,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge righteous
-\sd 4.9.7.2
+\sd 4.3.1
 \de to be righteous
-\dt 30/Jun/2014
+\dt 22/Jul/2016
 
 \lx nɩ
 \hm 1
@@ -28428,12 +28423,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge witness
 \sd 4.6.6.1.2
 \sd 4.6.6.1
-\sd 4.9.7.3
-\sd 4.9.7.2
 \de one who witnesses
 \pl adansɩfɔ
 \plph adãnsɪfɔ
-\dt 12/Jul/2014
+\dt 22/Jul/2016
 
 \lx ɔdanta
 \hm 1
@@ -31696,7 +31689,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-398
 \xv Ɔsɔfɔ akʋ bʋ bʋ alɛ, akʋ ɛ bʋ mʋ́ alɛ.
 \xe Some pastors are good, some too are not good.
-\dt 20/May/2016
+\dt 22/Jul/2016
 
 \lx ɔsɔhwɩɛ
 \ph ɔsɔ́hʷɪ́ɛ́
@@ -31704,8 +31697,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge trial
 \sd 2.3.1
-\sd 4.9.7.3
-\sd 4.9.7.2
 \sd 3.6.2
 \de trial, temptation, exam
 \pl nsɔhwɩɛ
@@ -31716,7 +31707,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe His evil desires have led him into temptation.
 \cf ɩsɔkɩ
 \ce trial
-\dt 25/Apr/2016
+\dt 22/Jul/2016
 
 \lx ɔsrɩ
 \ph ɔsrɪ
