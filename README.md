@@ -3,6 +3,10 @@ Nkonya is a language spoken in the Volta Region of Eastern Ghana.
 See http://http://nkonya.wycliffe.ca/Dictionary/ for details.
 Formatted versions of the dictionary are occasionally posted there.
 
+The main lexical file is Nkolex in Unicode.txt in this directory.
+The main Toolbox project file is Toolbox Project.prj in Settings directory.
+The control files assume that this directory is C:\My Toolbox Projects\Nkonya.
+
 The following program files are used but not included in the repository:
 
 * Scripts\busybox.exe is available from the link on https://github.com/pclouds/busybox-w32
