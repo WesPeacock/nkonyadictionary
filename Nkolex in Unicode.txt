@@ -826,7 +826,9 @@
 \ps Q
 \sn
 \ge how much
-\sd 8.1
+\sd 8.1.3.1
+\sd 9.2.3.4
+\sd 8.1.1.3
 \de how much; how many
 \xv Fʋ atɔ amʋ afɩnɩ, afɩnɩ?
 \xe Your things, how much?
@@ -834,7 +836,7 @@
 \rf Tape:1-1-153
 \nt question words ma (who), mɔmʋ (which), amɛndɩ (which persons), mɔmʋ odu (which type), afɩnɩ (how much), dɔ fɩnɩ (how many bell strokes - what time of day), tse fɩnɩ (how many times), ntogyi, ntogyi sʋ (why). X mɛ (where is), nkɩ X mɛ (where is), nkʋnʋ (where), nkalɩ (how, sometimes what), ntɔ (what), ɔmɛnkɛ (when - what day)
 \bb Stewart List:1604
-\dt 28/Sep/2013
+\dt 25/Jul/2016
 
 \lx afonflo
 \ph afoɱflo(H)
@@ -4310,11 +4312,11 @@
 \ps ADJ
 \sn
 \ge another
-\sd 8.1
-\de something different
+\sd 8.1.4
+\de additional item
 \xv Anɩbʋ oyi bamba ɩkʋ ha fʋ.
 \xe We have another stick for you.
-\dt 12/Jun/2014
+\dt 25/Jul/2016
 
 \lx bamba
 \ph bámbaʔ (L)
@@ -5834,7 +5836,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 2
 \ge count
-\sd 8.1
+\sd 8.1.2
 \de to count s.t.
 \cf akunta2
 \ce calculations
@@ -5845,7 +5847,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to fold something a certain number of times (requires a number)
 \xv Bu tati amʋtɔ anyɔ afʋpʋ dɩda kebi amʋ.
 \xe Fold the cloth in two so that you can wrap it around the child.
-\dt 20/Jul/2016
+\dt 25/Jul/2016
 
 \lx bu
 \hm 3
@@ -8204,7 +8206,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge all
-\sd 8.1
+\sd 8.1.5
 \de all
 \xv Tsu fʋ nwʋlʋ amʋ fɛ́ɛ́ ba mɩ ankɩ.
 \xe Bring all your papers here in order for me to look at them.
@@ -8214,7 +8216,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt fɛ́ɛ́ always follows a noun, and does not stand alone
 \bb Stewart List:1513
 \bb Stewart List:1523
-\dt 27/Oct/2013
+\dt 25/Jul/2016
 
 \lx fɛflɛ
 \ph fɛflɛ(L)
@@ -9637,7 +9639,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge first
-\sd 8.1
+\sd 8.4.5.1.2
 \de first
 \xv Ɔkɛ gyankpapʋ nɩ.
 \xe This is the first day.
@@ -9645,7 +9647,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The first child of God is our Lord Jesus Christ.
 \xv Ɔbɛɛ mʋ ka dɛhɛn gyankpapʋ amʋ a.
 \xe He told his first and eldest wife.
-\dt 02/Oct/2015
+\dt 25/Jul/2016
 
 \lx gyantra
 \ph ʤantra
@@ -9862,7 +9864,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va gyi
 \ge every
-\sd 8.1
+\sd 8.1.5
 \de bound morpheme indicating each something
 \xv okekegyiɔkɛ
 \xe every day
@@ -9888,7 +9890,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv togyitɔ
 \xv everything
 \bb Stewart List:1515
-\dt 12/Jul/2014
+\dt 25/Jul/2016
 
 \lx gyi nkɛ
 \ph ʤi ŋkɛ
@@ -12500,7 +12502,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \va kʋ
 \ge some; certain
-\sd 8.1
+\sd 8.1.5.1
 \de some, a certain thing
 \nt has agreement ɔkʋ animate singular akʋ animate plural ɩkʋ inanimate
 \xv Atsulii gyihɛ amʋ ɩkʋ aná gyi: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsuli, kplokplobi.
@@ -12520,7 +12522,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv ɩkʋ ɛ
 \xe again
 \bb Stewart List:1849
-\dt 29/Sep/2015
+\dt 25/Jul/2016
 
 \lx ɩkʋɛ
 \ph ɪkʊɛ
@@ -15873,12 +15875,12 @@ cf fonflo
 \ps ADV
 \sn
 \ge EMPH; exactly
-\sd 8.1
+\sd 9.6.3.2
 \de emphasis marker
 \rf Tape:3-2-323
 \xv Natɩ dɛ mbwɩ amʋ wɩ koun.
 \xe Nate was eating plenty of animals.
-\dt 22/Jun/2014
+\dt 25/Jul/2016
 
 \lx kɔ
 \hm 1
@@ -16770,13 +16772,14 @@ cf fonflo
 \ps ADV
 \sn
 \ge exactly
-\sd 8.1
+\sd 8.1.5.8
+\sd 8.4.1.2.3
 \de at the exact time
 \nt Onomatopoetic sound of a bell being rung.
 \rf Tape:3-2-406
 \xv Yinki ba donyɔtɔ kpein.
 \xe Come back here at exactly two o'clock.
-\dt 13/Jul/2014
+\dt 25/Jul/2016
 
 \lx kpekpe
 \ph k͡pek͡pe
@@ -17726,11 +17729,11 @@ cf fonflo
 \ps ADJ
 \sn
 \ge single
-\sd 8.1
+\sd 8.1.1.1.1
 \de just one
 \xv Fɩtɛ asʋn kua kʋlɛ.
 \xe Ask just one question.
-\dt 23/Jun/2014
+\dt 25/Jul/2016
 
 \lx Kudjo
 \ph kuʤó
@@ -18217,7 +18220,7 @@ cf fonflo
 \ps n
 \sn
 \ge not at all
-\sd 8.1
+\sd 8.1.5.2
 \de none at all
 \rf Tape:3-2-272
 \xv Atɔ amʋ fafɩtɛ amʋ fɛ́ɛ́ kʋkʋʋkʋ ma nʋ.
@@ -18225,7 +18228,7 @@ cf fonflo
 \rf Tape:3-2-275
 \xv Nyebi amʋtɔ ɔkʋkʋʋkʋ ma woyitɔ.
 \xe None of the children are at the house.
-\dt 30/Jun/2014
+\dt 25/Jul/2016
 
 \lx kʋla
 \ph kʊ́lá
@@ -18262,7 +18265,7 @@ cf fonflo
 \ps ADV
 \sn
 \ge not at all
-\sd 8.1
+\sd 8.1.5.2
 \de not at all
 \bw Akan fi:kʋraa
 \rf Tape:4-1-295
@@ -18272,7 +18275,7 @@ cf fonflo
 \xe If he doesn't come at all, we will go.
 \xe Even if he didn't come, we will go.
 \rf Tape:4-1-299
-\dt 30/Jun/2014
+\dt 25/Jul/2016
 
 \lx kʋsʋ
 \ph kʊ́sʊ́
@@ -21129,12 +21132,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps CLASS
 \sn
 \ge PL
-\sd 8.3
+\sd 8.1.3
 \de plural
 \rf Tape:4-2-487
 \xv Tsu otubi amʋ bɔwa ntubi amʋtɔ afʋpʋ lɛyaɩ obuto.
 \xe Take the spoon and put it with the other spoons so that you put them away in the room.
-\dt 30/Sep/2015
+\dt 25/Jul/2016
 
 \lx n-
 \hm 2
@@ -25764,11 +25767,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge everyone
-\sd 8.1
+\sd 8.1.5
 \de every animate person (animal, person, and animate objects like stars)
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
 \xe It is necessary that every child will respect his father so that the father also looks after his child well.
-\dt 26/Aug/2013
+\dt 25/Jul/2016
 
 \lx okuku
 \hm 1
@@ -26323,9 +26326,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge even
-\sd 8.1
+\sd 8.1.3.1
 \de even
-\dt 12/Jul/2014
+\dt 25/Jul/2016
 
 \lx ope
 \ph opéʔ
@@ -29075,7 +29078,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge no one
-\sd 8.1
+\sd 8.1.5.2
 \de no one
 \rf Tape:5-2-386
 \xv Igye ɔhaa mɔyɔ ndɔ, tsufɛ oli bʋ wulutɔ.
@@ -29085,7 +29088,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe No one is there.
 \xv Megyi ɔhaa nɩ.
 \xe It isn't anybody.
-\dt 30/Jun/2014
+\dt 25/Jul/2016
 
 \lx ɔhakpan
 \ph ɔhak͡pãʔ
@@ -29707,13 +29710,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge every way
-\sd 8.1
+\sd 7.2.4.6
+\sd 8.1.5
 \de every way
 \xv Ɔkpagyiɔkpa sʋ a, fʋ klɛ ma nʋ.
 \xe In everyway yours is not there.
 \xv It's completely your fault.
 \rf Tape:5-2-499
-\dt 12/Jul/2014
+\dt 25/Jul/2016
 
 \lx ɔkpakɩ
 \ph ɔk͡pakɪ̂ːʔ
@@ -32410,7 +32414,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn 1
 \ge once
-\sd 8.1
+\sd 8.4.6.6
 \de once
 \rf Tape:6-1-527
 \xv Tse fɩnɩ fɔ́yɔ ntsu amʋtɔ? Ɔtsawʋlɛ pɛ.
@@ -32429,7 +32433,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de at once
 \xv ɔtsawʋlɛ pɛ
 \xe at once
-\dt 22/Jul/2016
+\dt 25/Jul/2016
 
 \lx ɔtsɩ
 \ph ɔt͡sɪʔ(H)
@@ -33017,7 +33021,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge much
-\sd 8.1
+\sd 8.1.3.1
 \de much
 \bw Akan fi:paa
 \cf dʋbɩ
@@ -33029,7 +33033,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt Praise for someone who is farming hard.
 \cf papaapa
 \ce very much
-\dt 23/Jun/2014
+\dt 25/Jul/2016
 
 \lx paɩ
 \ph páɪʔ
@@ -33218,11 +33222,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge only
-\sd 8.1
+\sd 8.1.5.7
 \de only
 \xv Agbodi pɛ nenya biasʋ.
 \xe I only got cassava at the market.
-\dt 30/Jun/2014
+\dt 25/Jul/2016
 
 \lx pɛ
 \hm 2
@@ -34885,13 +34889,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge much
-\sd 8.1
+\sd 8.1.3.1
 \de very much
 \xv Ɔlɔmɔsɩ sɛ.
 \xe He laughed hard.
 \xv Oyin amʋ bʋalɛ sɛ.
 \xe The man is very good.
-\dt 23/Jun/2014
+\dt 25/Jul/2016
 
 \lx sɛ
 \hm 2
@@ -37865,9 +37869,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge add to
-\sd 8.1
+\sd 7.5.2.3
 \de to add something to something else
-\dt 22/Jun/2014
+\dt 25/Jul/2016
 
 \lx tsa
 \hm 4
@@ -38101,7 +38105,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge instance
-\sd 8.1
+\sd 9.1.2.1
 \de instance, number of times
 \rf Tape:6-1-527
 \xv Tse fɩnɩ fɔ́yɔ ntsu amʋtɔ? Ɔtsawʋlɛ pɛ.
@@ -38128,7 +38132,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \ge four times
 \de four times
-\dt 07/Nov/2015
+\dt 25/Jul/2016
 
 \lx tsebi
 \ph t͡sébi(L)
@@ -38691,18 +38695,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge add
-\sd 8.1
+\sd 7.5.2.3
 \de add something to something
 \rf Tape:7-2-402
 \xv Tsɩa siminti mʋ́a ɩsɩ amʋ wa abatɔ ha mɩ.
 \xe Mix the cement and the sand together for me.
 \se pʋ tsɩa
 \ge add
-\sd 8.1
+\sd 7.5.2.3
 \de to add something to something
 \bb Stewart List:2676
 \bb Stewart List:2860
-\dt 22/Jun/2014
+\dt 25/Jul/2016
 
 \lx tsɩhɛ
 \ph t͡sɪ́hɛ́
@@ -38847,14 +38851,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge plenty
-\sd 8.1
+\sd 8.1.3.1
 \de plenty
 \nt also tsɔtsɔ
 \rf Tape:7-2-438
 \xv Ɔbʋ akufa tsɔtsɔɔtsɔ.
 \xe He has plenty of, many, sheep.
 \bb Stewart List:1511
-\dt 22/Apr/2016
+\dt 25/Jul/2016
 
 \lx tsu
 \hm 1
@@ -40619,13 +40623,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 2
 \ge only
-\sd 8.1
+\sd 8.1.5.7
 \de only
 \xv Megyi atogyihɛ wʋlɛ nyakpʋsa obégyi tsia.
 \xe It is not by food only that mankind lives.
 \xv Atsulii amʋ wʋlɛ bʋ bɛnsɩ amʋtɔ.
 \xe There are only mushrooms in the basin.
-\dt 03/Nov/2015
+\dt 25/Jul/2016
 
 \lx wʋlɛwʋlɛ
 \ph wʊlɛwʊlɛ
