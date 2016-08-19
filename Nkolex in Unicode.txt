@@ -905,7 +905,7 @@
 \xv Oyi ánɩ́ mʋ́ wɩ bʋ afu a, bʋtamapʋ sre oplimbi.
 \xe A tree that has bumps, they never take and carve into a pestle.
 \xe They never carve a pestle out of a bumpy pole, sapling.
-\sg ifu(H)
+\sg ifu
 \ph ifu(H)
 \bb Stewart List:0973
 \sn 2
@@ -915,7 +915,7 @@
 \de foam, from soap or bubbles
 \xv Ɔkwaɩ amʋ ma ogya, mʋ́ sʋ ɩtama lɩn afu.
 \xe The soap is not good and so it does not produce foam.
-\dt 15/Jul/2016
+\dt 19/Aug/2016
 
 \lx afu
 \hm 2
@@ -6385,10 +6385,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge doing
+\sd 9.1.2
 \de things that have been done
 \xv atɔ bwɛhɛ
 \xe actions
-\dt 04/Nov/2015
+\dt 19/Aug/2016
 
 \lx bwie
 \ph bwie
@@ -7834,7 +7835,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph eː (H)
 \ps INTJ
 \sn
-\ge Yes
+\ge yes
 \sd 9.4.6
 \sd 3.4
 \sd 2.4.3
@@ -7843,7 +7844,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \vaph ĩː(H)
 \va een
 \vaph ẽː(H)
-\dt 18/May/2016
+\dt 19/Aug/2016
 
 \lx ee
 \hm 2
@@ -10764,8 +10765,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge palm fruit
+\sd 6.2.1.7
 \de k.o palm fruit
-\dt 04/Nov/2015
+\dt 19/Aug/2016
 
 \lx ibu
 \ph ibúʔ
@@ -10920,10 +10922,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 1
 \ge lump
+\sd 8.3.1.3.1
 \de lump
 \cf afu1
 \ce lumps
-\dt 05/Feb/2016
+\dt 19/Aug/2016
 
 \lx ifuli
 \ph ifúliʔ
@@ -11051,10 +11054,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \sn
 \ge yes
+\sd 9.4.6
 \de yes
 \cf ee1
 \ce yes
-\dt 09/Nov/2015
+\dt 19/Aug/2016
 
 \lx ikpin
 \ph ik͡pĩʔ (L)
@@ -11599,8 +11603,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge fisherman
+\sd 6.6
 \de fisherman
-\dt 05/Nov/2015
+\dt 19/Aug/2016
 
 \lx iyin
 \ph iɲĩ́ʔ
@@ -13727,11 +13732,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ka
 \ps v
 \sn
-\ge UNKNOWN
+\ge render
+\sd 9.1.2
 \de Akan loan word with uncertain core meaning ka hon - join; ka ntam - swear an oath; ka anim - rebuke
 \rf Tape:3-1-287
-\xv ka hon
-\xe join
+\se ka hon
+\ge join
+\sd 4.2.1.6
+\de to join s.o.
 \rf Tape:3-1-287
 \xv Ka amʋ́ hʋn amlɩyɔ.
 \xe Join them so that you(pl) can go.
@@ -13739,14 +13747,17 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Tsufɛsɛ omedekle ánɩ́ ɔkʋ onya akpin amʋ ɩkʋ ka mʋ hʋn. Mʋ́ sʋ ɔmɛha mʋ anyawie amʋ.
 \xe Because he didn't want that someone should acquire the same garden eggs as he had he didn't give his friends any.
 \rf Awɩtɔlɛ Bwɛ Akatua
-\xv ka ntam
-\xe swear (cut) an oath
+\se ka ntam
+\ge swear oath
+\de to swear an oath
 \rf Tape:3-1-299
 \xv Owie pɔpwɛ amʋ ɛ ɔbɛ́ka ntam suna ahandɛn amʋ.
 \xe The new chief also will swear an oath to the elders.
-\xv ka anim
-\xe rebuke
-\dt 09/Nov/2015
+\se ka anim
+\ge rebuke
+\sd 4.8.4.1
+\de to rebuke s.o.
+\dt 19/Aug/2016
 
 \lx ka anim
 \ph ka anim
@@ -14545,10 +14556,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 4
 \ph kɛ̃ʔ(L)
 \ps v
-\sn 2.6.4.6
+\sn
 \ge enlarge
+\sd 2.6.4.6
 \de to become larger
-\dt 17/May/2016
+\dt 19/Aug/2016
 
 \lx kɛnkɛ
 \hm 1
@@ -15949,9 +15961,11 @@ cf fonflo
 \hm 3
 \ps n
 \sn
+\ge pay
+\sd 6.8.4.5
 \cf ɩkɔ
 \ce payment
-\dt 02/Nov/2015
+\dt 19/Aug/2016
 
 \lx kɔba
 \ph kɔ́baʔ (L)
@@ -17808,8 +17822,9 @@ cf fonflo
 \ps PRO
 \sn
 \ge everything
+\sd 8.1.5
 \de everything
-\dt 05/Nov/2015
+\dt 19/Aug/2016
 
 \lx kukuruku
 \hm 1
@@ -18938,9 +18953,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ph lala
 \ps ADV
 \sn
+\ge flat
+\sd 8.3.1.4
 \cf tswɩ lala
 \ce lay flat
-\dt 02/Nov/2015
+\dt 19/Aug/2016
 
 \lx lalahɛ
 \ph lalahɛ
@@ -19177,12 +19194,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \va lɔ-
 \va lo-
 \ge PAST
+\sd 9.4.1.1
 \de perfective Tense-Aspect marker; simple past tense marker
 \va yɛ-
 \ve North
 \ph yɛ-/yɛ́-
 \nt Has high tone following a proper noun or after anɩ; mlɩ.
-\dt 11/Nov/2015
+\dt 19/Aug/2016
 
 \lx -lɛ-
 \hm 3
@@ -19193,9 +19211,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \va -lɔ-
 \va -lo-
 \ge COND
+\sd 9.4.1
 \de Tense-Aspect marker in relative clause
 \nt This occurs in a relative clause and is always low tone
-\dt 06/Jan/2012
+\dt 19/Aug/2016
 
 \lx lɛ ha
 \ph lɛ́ há
@@ -19225,24 +19244,28 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge decrease
+\sd 8.1.4.3
 \de to subtract something
-\dt 22/Apr/2016
+\dt 19/Aug/2016
 
 \lx lɛ ɔŋɛ
 \ph lɛ ɔŋɛ́
 \ps v
 \sn
 \ge stop breathing
+\sd 2.2.1
+\sd 2.6.6
 \de stop breathing
-\dt 07/Nov/2015
+\dt 19/Aug/2016
 
 \lx lɛbɛ
 \ph lɛbɛ́
 \ps n
 \sn
 \ge palm fruit
+\sd 6.2.1.7
 \de k.o palm fruit
-\dt 04/Nov/2015
+\dt 19/Aug/2016
 
 \lx lɛlɛ
 \ph lɛlɛ
@@ -19768,10 +19791,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADJ
 \sn
 \ge detached
+\sd 7.5.2.4
 \de detached
 \xv bodobodo maɩnhɛ
 \xe bun
-\dt 04/Nov/2015
+\dt 19/Aug/2016
 
 \lx mama
 \hm 1
@@ -20591,11 +20615,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ph mobaɪl
 \ps n
 \sn
-\ge mobile phone
+\ge mobile telephone
+\sd 3.5.9.2
 \de mobile telephone
+\bw English:mobile
 \cf ɔfɛtɩ
 \ce landline telephone
-\dt 19/May/2016
+\dt 19/Aug/2016
 
 \lx mondo
 \ph móndó
@@ -22890,8 +22916,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge river bank
+\sd 1.3.1.5
 \de river bank
-\dt 05/Nov/2015
+\dt 19/Aug/2016
 
 \lx ntsubi
 \ph nt͡subiʔ
@@ -23028,9 +23055,10 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \cf nyankɩ1
 \ce morning
 \nt see nyankɩ for other words for time of day
-\sd ntʋpwɛnye
+\sd 8.4.1.2.3
+\cf ntʋpwɛnye
 \ce dusk
-\dt 20/Jul/2016
+\dt 19/Aug/2016
 
 \lx ntʋpwɛnye
 \ph ntʊpwɛɲé
@@ -24836,8 +24864,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge meeting place
+\sd 4.2.1.5
 \de meeting place
-\dt 04/Nov/2015
+\dt 19/Aug/2016
 
 \lx ofieba
 \ph ofíébáʔ
@@ -25303,9 +25332,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge ringworm
 \sd 2.5.2.2
 \sd 1.6.1.9
-\sd
 \de ringworm
-\dt 21/Jul/2016
+\dt 19/Aug/2016
 
 \lx ogyo otswapʋ
 \ph oʤo ot͡swapʊ́
@@ -26345,8 +26373,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge palm fruit
+\sd 6.2.1.7
 \de palm fruit about to ripen
-\dt 04/Nov/2015
+\dt 19/Aug/2016
 
 \lx opian
 \ph opĩã(H)
@@ -27386,8 +27415,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge kingdom
+\sd 4.6.1
 \de kingdom
-\dt 05/Nov/2015
+\dt 19/Aug/2016
 
 \lx owikplu
 \ph owik͡plu(H)
@@ -28929,10 +28959,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge questioning place
-\de place to ask about somethin
+\sd 3.5.1.5
+\de place to ask about something
 \xv Naba mɩ asʋn amʋ asɩ ɔfɩtɛkpa tsu fʋ wa.
 \xe I have come here to ask you about my case.
-\dt 04/Nov/2015
+\dt 19/Aug/2016
 
 \lx ɔflɛ
 \ph ɔflɛʔ
@@ -29259,8 +29290,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge town crier
+\sd 3.5.1.2.1
 \de town crier; one who proclaims something.
-\dt 06/Jun/2016
+\dt 19/Aug/2016
 
 \lx ɔkanda
 \ph ɔkanda(H)
@@ -31059,10 +31091,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge hawk
+\sd 1.6.1.2
 \de hawk
 \cf wampʋ
 \ce hawk
-\dt 07/Nov/2015
+\dt 19/Aug/2016
 
 \lx ɔŋɛ
 \ph ɔŋɛ́
@@ -32644,6 +32677,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔwãʔ
 \sn
 \ge public
+\sd 3.5.1.2.1
+\sd 3.2.3.1
 \de to make or become known to the public
 \ps ADV
 \xv Asʋn amʋ́ʋ́ ɔlɔpʋ ŋain amʋ a, lalɩn ɔwan.
@@ -32661,7 +32696,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-264
 \xv Bɛlɛ owie pɔpwɛ amʋ́ʋ́ bakɩta amʋ ɔwan ɔkɛ.
 \xe The new chief that they have caught will be revealed tomorrow.
-\dt 27/Apr/2016
+\dt 19/Aug/2016
 
 \lx ɔwankɩtɩ
 \ph ɔwãŋkɪtɪʔ
@@ -33154,8 +33189,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge very much
-\de very mucj
-\dt 07/Nov/2015
+\sd 9.3
+\de very much
+\dt 19/Aug/2016
 
 \lx pata
 \ph patá
@@ -38357,10 +38393,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge spouse
+\sd 4.1.9.2.1
 \de spouse
 \cf tsia3
 \ce marry
-\dt 10/Nov/2015
+\dt 19/Aug/2016
 
 \lx tsianaŋu
 \ph t͡síánaŋu
