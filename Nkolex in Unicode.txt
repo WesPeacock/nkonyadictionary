@@ -5294,6 +5294,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx blɩbɛ
 \ph blɪbɛ(H)
 \ps n
+\sn
 \sd 6.2.1.4
 \ge pineapple
 \de pineapple
@@ -5306,7 +5307,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Okonko ablɩbɛ amʋtɔ bʋ ɔdwɛ dʋn mʋ dɛnhɛ klɛ.
 \xe Okonko's pineapple is sweeter than his brother's.
 \bb Stewart List:0913
-\dt 31/May/2016
+\dt 19/Aug/2016
 
 \lx blɔdɩ
 \ph blɔdɪ(H)
@@ -11628,11 +11629,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 1
 \ph ɪ-
 \ps PRO
+\sn
 \va i-
 \ge it
 \sd 9.2.3
 \de 3rd person inanimate pronoun
-\dt 17/May/2016
+\dt 19/Aug/2016
 
 \lx ɩ-
 \hm 2
@@ -11860,11 +11862,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩbɩkpan
 \ph ɪbɪk͡pã
 \ps ADJ
-\sn 8.1.8.1
+\sn
+\sd 8.1.8.1
 \sd 7.4.6
 \ge empty-handed
 \de empty handed
-\dt 14/Jun/2016
+\dt 19/Aug/2016
 
 \lx ɩbɩtata
 \ph ɪbɪtata
@@ -25219,7 +25222,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph oʤamaʔ(H)
 \ps n
 \ge junior
-\sn 4.1.9.1.3
+\sn
+\sd 4.1.9.1.3
 \sd 8.4.6.5.1
 \de younger sibling
 \pl agyama
@@ -25232,7 +25236,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va gyama
 \cf ɔkʋsʋ
 \ce younger
-\dt 20/Jul/2016
+\dt 19/Aug/2016
 
 \lx ogyaŋɛ
 \ph oʤáŋɛ̂ʔ
@@ -30061,7 +30065,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge younger
-\sn 4.1.9.1.3
+\sn
+\sd 4.1.9.1.3
 \sd 8.4.6.5.1
 \de younger used with humans
 \cf kusubi
@@ -30075,7 +30080,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce junior
 \an ɔdɛhɛn
 \ce elder
-\dt 20/Jul/2016
+\dt 19/Aug/2016
 
 \lx ɔkwaɩ
 \ph ɔkʷaɪ(H)
@@ -39725,7 +39730,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔlɔwa mʋ ánɩ́ ɔyɔ.
 \xe He forced him to go. (He forced him; he said he should go.)
 \ps v
-\sn 2a
+\sn 3
 \ge send
 \sd 7.3.3.3
 \de to send someone to do something
@@ -39733,7 +39738,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Sʋ anɩ lefia a, lehian ánɩ́ abɔ́wa abi akʋ mlɩ wa, buo Banabas mʋa Paulo.
 \xe So we met, it was necessary that we would send messengers to you accompanying Barnabas and Paul.
 \ps v
-\sn 3
+\sn 4
 \ge make
 \sd 6.6.4
 \de to make (only used with certain objects)
@@ -39741,7 +39746,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔlɔwa akʋnta.
 \xe He made a household juju.
 \ps v
-\sn 4
+\sn 5
 \ge tell
 \sd 3.5.1
 \de to make some types of speech acts
@@ -39775,7 +39780,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Negyi ɩban wa mɩ ndɔ.
 \xe I built a fence around my farm.
 \ps v
-\sn 5
+\sn 6
 \ge put in
 \sd 7.3.2.6
 \de to put something in something
@@ -39794,7 +39799,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-174
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
-\dt 21/Jul/2016
+\dt 19/Aug/2016
 
 \lx wa bɩ
 \ph wá bɪ
