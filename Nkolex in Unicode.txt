@@ -11,8 +11,8 @@
 \xv Fɔyɔ wulutɔ a, hɔ kɩtɩba ba mɩ.
 \xe If you go to town, buy me some groundnuts.
 \xv Ɔtsanɩ fɔyɔ wulutɔ a, hɔ kɩtɩba ba mɩ.
-\xe When you go to town buy peanuts for me.
-\dt 17/May/2016
+\xe When you go to town, buy me some groundnuts.
+\dt 29/Aug/2016
 
 \lx a-
 \hm 1
@@ -26,9 +26,9 @@
 \xv ibwi, abwi
 \xe stone, stones
 \rf Tape:1-1-018
-\xv Kufa ɔkʋlɛ, akufa anyɔ
-\xe one sheep, two sheep.
-\dt 02/May/2016
+\xv kufa ɔkʋlɛ, akufa anyɔ
+\xe one sheep, two sheep
+\dt 29/Aug/2016
 
 \lx a-
 \hm 2
@@ -43,7 +43,7 @@
 \xe We will go to farm today.
 \xv Mɩa Ataa nyɔ abɔ́flɔɩ kpoli.
 \xe Ataa and I both will husk corn.
-\dt 02/May/2016
+\dt 29/Aug/2016
 
 \lx a-
 \hm 3
@@ -332,12 +332,12 @@
 \sn
 \ge butcherable
 \sd 6.3.4
-\de easy to butcher (open and gut - remove the intestines)
+\de easy to butcher (open and gut – remove the intestines)
 \xv Ɔbwɩ ánɩ́ aladan a, ɔbʋ abiolɛ dʋn ɔmʋa ɔmɔkʋ dan.
 \xe An animal that has grown is easier to butcher (open and remove the intestines) than one that has not grown.
 \xe It's easier to butcher an adult animal than a young one.
 \rf Tape:1-1-088
-\dt 08/Feb/2014
+\dt 29/Aug/2016
 
 \lx abɩn
 \ph abɪ̃ʔ
@@ -818,8 +818,8 @@
 \de wide-headed mushroom
 \rf Tape:1-2-150
 \xv Afio, mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋswɩ. Ɩtɔwa ɔdwɛ oputsutɔ. Bʋtɛkaka mʋ́ wa oputsutɔ. Ɩtɔkwɛ sinsʋ.
-\xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in an termite mound.
-\dt 31/May/2016
+\xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in a termite mound.
+\dt 29/Aug/2016
 
 \lx afɩnɩ
 \ph afɪnɪ(H)
@@ -1008,8 +1008,8 @@
 \cf tɔɩ kpla
 \ce advise
 \xv afutuo ɔhapʋ
-\xe counsellor
-\dt 20/May/2016
+\xe counselor
+\dt 29/Aug/2016
 
 \lx afʋfʋ
 \ph afʊfʊʔ
@@ -2228,7 +2228,7 @@
 \sn
 \ge which people
 \sd 9.2.3.2
-\de which ones - of people only. plural form of ma.
+\de which ones – of people only. plural form of ma.
 \rf Tape:1-1-426
 \xv Nɩ amɛndɩ bɛba, asa afʋbla mɩ?
 \xe If which people should come, before you tell me?
@@ -2239,7 +2239,7 @@
 \cf ɔmɛnkɛ
 \ce what day
 \nt see ɔmɛnkɛ entry for notes on -mɛ- questions.
-\dt 15/Jul/2016
+\dt 29/Aug/2016
 
 \lx Amma
 \ph ámːa
@@ -2568,11 +2568,11 @@
 \xe The reason is that, he is happy about something.
 \rf Tape:1-1-492
 \xv Nyebi amʋ ansɩ bégyi tsufɛ, babla amʋ́ bɛɛ, bɛ́ha amʋ́ sukuu ɔkpa.
-\xe The children's eyes will eat because, they have told them (said) they will give their school the road. The children will be happy because they will soon go on vacation.
+\xe The children will be happy because they will soon go on vacation.
 \rf Tape:8-1-540
 \xv Nɩ ansɩ dɛ ɔkʋ gyi a, ɔha amʋ ɔpʋ ɩlʋwa yi Bulu ayɛ.
 \xe If someone is happy. That person especially should sing and praise God.
-\dt 16/Jul/2016
+\dt 29/Aug/2016
 
 \lx ansɩ
 \ph ansɪ́
@@ -3728,7 +3728,7 @@
 \xe Some kinds of edible mushrooms are:
 \rf Tape:1-2-150
 \xv Afio, mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋswɩ. Ɩtɔwa ɔdwɛ oputsutɔ. Bʋtɛkaka mʋ́ wa oputsutɔ. Ɩtɔkwɛ sinsʋ.
-\xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in an termite mound.
+\xe Afio, it's head is wide. It's stalk is long. It makes soup sweet. They chop it up into soup. It grows in a termite mound.
 \rf Tape:1-2-171
 \xv Mpionkɛntɛ tɔkwɛ ɔbɛ oyi plɔhɛsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi ma swɩ. Fɛtalɩ kpa mʋ́ nwun amʋ kwɛ mʋ́ wa oputsutɔ, si mʋ́ oyi amʋ. Mʋ́ ɛ bʋ ɔdwɛ.
 \xe Mpionkɛntɛ sprouts on rotten palm trees. It's head is wide. It's stalk is not long. You can remove the heads and grind them and put them in the soup and leave the stalks. It also is sweet.
@@ -3752,7 +3752,7 @@
 \xv Kplokplobi tɔkwɛ oyi plɔhɛsʋ. Ɩbʋ ɔplɩ, bʋtamakwɛ mʋ́. Mʋ́a abɛ oputsu bʋ ɔdwɛ dʋbɩ.
 \xe Kploklobi grows in rotting trees, It is slippery; they never grind it. It is very good with palm nut soup.
 \bb Stewart List:0872
-\dt 16/Jul/2016
+\dt 29/Aug/2016
 
 \lx atsulii bibi
 \ph at͡sulîbibi
@@ -3997,13 +3997,13 @@
 \xe God took Jesus up on top.
 \rf Tape:4-1-236
 \xv Kuti atogyihɛ amʋ wanklan, makukuti mʋ́ awunsʋ.
-\xe Cut the food well (mʋ akasʋ) don't cut bits off the top.
+\xe Cut the food well; don't cut bits off the top.
 \rf Tape:7-1-554
 \xv Tɩnkɩ afʋdɩnkɩ atɔ amʋ awunsʋ ha mɩ.
 \xe Stretch so that you should bring the things down from up top for me.
 \xv Dɩnkɩ atɔ amʋ ɩdɩn obu awunsʋ amʋsʋ ha mɩ.
 \xe Remove the thing on top of the house for me.
-\dt 02/May/2016
+\dt 29/Aug/2016
 
 \lx awútɔ nfɔ
 \ph awútɔ ɱfɔ
@@ -5099,8 +5099,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \ge slither
 \sd 7.2.1.5.1
-\de slither - as a snake moves
-\dt 14/Jun/2016
+\de slither – as a snake moves
+\dt 29/Aug/2016
 
 \lx bɩtɩa
 \ph bɪ́tɪ́a
@@ -5473,8 +5473,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph bónbólint͡sú nyí
 \rf Tape:1-2-552
 \xv Bonbolintsu gyi oyi ánɩ́ tomoni swie flawasɩ pɛpɛ. Bʋtɛmaɩn mʋ́ afwɩ pʋwa ɩkʋtɔ nɩna obugya afa.
-\xe The tulip tree is a big tree that bears red flowers. They remove the bark and put it in medicine for the blood (they combine it with bark from several different kinds of trees - including mahogany bark).
-\dt 01/May/2016
+\xe The tulip tree is a big tree that bears red flowers. They remove the bark and put it in medicine for the blood (they combine it with bark from several different kinds of trees – including mahogany bark).
+\dt 29/Aug/2016
 
 \lx botodua
 \ph botodua (H)
@@ -5696,8 +5696,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de when -- what time?
 \bb Stewart List:1602
 \cf ɔmɛnkɛ
-\ce when - what day?
-\dt 20/Jul/2016
+\ce when – what day?
+\dt 29/Aug/2016
 
 \lx brɛkʋ
 \ph brɛ́kʊ
@@ -6548,7 +6548,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Asɔrɩ da?
 \xe How was church?
 \xv Anɩdɛ ɔkpa kʋlɩ. Yoo, ɔkpa da.
-\xe We are asking for the road (taking leave). Response: O.K., The road is there. (You are free to leave.)
+\xe We are asking for the road (taking leave). Response: OK, The road is there. (You are free to leave.)
 \xe This is the normal formal leave taking.
 \xv Anɩ wulutɔ da pisii.
 \xe Our town is peaceful.
@@ -6562,7 +6562,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge stay on farm
 \sd 5.9
 \de to stay on one's farm rather than in town
-\dt 19/Jul/2016
+\dt 29/Aug/2016
 
 \lx da
 \hm 3
@@ -7000,9 +7000,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-274
 \rf Tape:2-1-277
 \xv Bʋdɛ nta debidebi fɛ biasʋ.
-\xe They are selling sweet drinks (akɔklɔ, liha, minerals -- non-alcoholic) in the market.
+\xe They are selling sweet drinks (akɔklɔ, liha, minerals – non-alcoholic) in the market.
 \bb Stewart List:1678
-\dt 04/Apr/2016
+\dt 29/Aug/2016
 
 \lx dedua
 \ph dedua(H)
@@ -7068,7 +7068,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The case concerns me too.
 \bb Stewart List:2664
 \xv Fʋdɛ aye asʋn a, aye tɛba.
-\xe If you hold a meat case, meat will come. - If you talk about a case, a similar case will occur. (You should not speak about bad news lest it happen to you.)
+\xe Lit: If you hold a meat case, meat will come.
+\xe If you talk about a case, a similar case will occur. (You should not speak about bad news lest it happen to you.)
 \ps v
 \sn 3
 \ge trouble
@@ -7076,7 +7077,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to be ill in a certain place
 \xv Q: Fʋ nkʋnʋ dɛ fʋ? A: Mɩ ɔmɛ́ɛtɔ dɛ mɩ. Ɩdɛ mɩ ki.
 \xe Where is it troubling you? My stomach. It is making me nauseated.
-\dt 20/Jul/2016
+\dt 29/Aug/2016
 
 \lx dɛ
 \hm 2
@@ -7178,9 +7179,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Kufa amʋ dɛ dimbi wɩ.
 \xe The sheep is eating grass.
 \xv Dimbi gyi ɩfa kʋa ɩma tɔtɔ bwɛtɔ, tamɛ mʋ́lɔhɔ ɩda nɩ. Aklɔtɩ tɔpʋ la isia.
-\xe This grass is a type that is not used for anything. But is the best know. Mice use it for theirnests.
+\xe This grass is a type that is not used for anything. But is well known. Mice use it for their nests.
 \nt From ths: words for grass: dimbi (grass) ɩka (grass, sugar cane), ɩfa (grass, weeds) kɛnkɛ,
-\dt 19/Jul/2016
+\dt 29/Aug/2016
 
 \lx dimbisʋ
 \ph dimbísʊ́
@@ -7582,12 +7583,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge daub
 \sd 5.4
-\de reduplication of dua - daub repetitively
+\de reduplication of dua – daub repetitively
 \xv Akɔmfɔ amʋ bapʋ ofuli duadua atabi amʋ wɩ.
 \xe Priestesses have taken white and daubed it on the twins.
 \nt They use the mouth of a bottle to put the clay on in white circles.
 \rf Tape:2-1-371
-\dt 22/Jun/2014
+\dt 29/Aug/2016
 
 \lx duana
 \ph dúana
@@ -7682,9 +7683,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph adúnduʔ
 \rf Tape:2-1-388
 \xv Dundu tɛkɩta mʋ aba mbwɩ, wɩ amʋ́.
-\xe A leopard always catches his neighbours animals and eats them.
+\xe A leopard always catches his neighbour's animals and eats them.
 \bb Stewart List:0627
-\dt 15/Jul/2016
+\dt 29/Aug/2016
 
 \lx dunka
 \ph dúŋká
@@ -8567,8 +8568,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 7.2.1.1
 \de to stamp something into the ground
 \xv Bafɩn oyi amʋ yi pʋkɩta brɔdɩ amʋ́ʋ́ ɩdebia amʋ.
-\xe They have stamped the stick to support the plantain that is falling down. .
-\dt 19/Jul/2016
+\xe They have stamped the stick to support the plantain that is falling down.
+\dt 29/Aug/2016
 
 \lx fɩnɩ
 \ph fɪnɪʔ
@@ -8964,9 +8965,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I have a white sheep.
 \rf Tape:2-2-020
 \xv Obroni gyi ɔha fututu.
-\xe An European is a white man.
+\xe A European is a white man.
 \bb Stewart List:1681
-\dt 17/Jun/2014
+\dt 29/Aug/2016
 
 \lx fututuutu
 \ph fútútúːtú
@@ -12513,12 +12514,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 6.6.4.1
 \sd 7.5.4
 \de knot
-\xv Bʋtamatsʋn oserebiyinsʋ yɛda kpʋn.
-\xe They never by pass the thumb tie a knot (Particularly knotting a cloth around money).
-\xe Free: If an elder is in the house nothing is done without his knowledge - so consult him.
+\xv Bʋtamatsʋn oserebiyinsʋ yɛda ɩkpʋn.
+\xe They never by pass the thumb tie a knot.
+\xe Free: If an elder is in the house nothing is done without his knowledge – so consult him.
 \nt proverb
 \bb Stewart List:1206
-\dt 14/Jun/2016
+\dt 29/Aug/2016
 
 \lx ɩkʋ
 \ph ɪkʊ
@@ -12529,8 +12530,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sd 8.1.5.1
 \de some, a certain thing
 \nt has agreement ɔkʋ animate singular akʋ animate plural ɩkʋ inanimate
-\xv Atsulii gyihɛ amʋ ɩkʋ aná gyi: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsuli, kplokplobi.
-\xe Some kinds of edible mushrooms are: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsuli, kplokplobi.
+\xv Atsulii gyihɛ amʋ ɩkʋ aná gyi: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsulii, kplokplobi.
+\xe Some kinds of edible mushrooms are: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsulii, kplokplobi.
 \pl akʋ
 \plph akʊ
 \cf ɔkʋ
@@ -12546,7 +12547,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv ɩkʋ ɛ
 \xe again
 \bb Stewart List:1849
-\dt 25/Jul/2016
+\dt 29/Aug/2016
 
 \lx ɩkʋɛ
 \ph ɪkʊɛ
@@ -13269,8 +13270,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de period of mourning
 \rf Tape:7-1-208
 \xv Bʋ tɛdɩda tati bibi su sʋra.
-\xe They put on back cloths when they wail mourning .
-\dt 23/Jun/2014
+\xe They put on back cloths when they wail mourning.
+\dt 29/Aug/2016
 
 \lx ɩsʋtɔ ifin
 \ph ɪsʊtɔ ifĩ
@@ -13418,11 +13419,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lf Compound = ɩtɔ anfɩ
 \le this thing here
 \lf Compound = ntobi
-\le things/ small things - possessions
+\le things/ small things – possessions
 \lf Compound = tɔkʋ (ɩtɔ ɩkʋ)
 \le this certain thing
 \bb Stewart List:0951
-\dt 18/Jul/2016
+\dt 29/Aug/2016
 
 \lx ɩtɔsʋrahɛ
 \ph ɪtɔsʊráhɛ̂ʔ
@@ -13738,7 +13739,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge render
 \sd 9.1.2
-\de Akan loan word with uncertain core meaning ka hon - join; ka ntam - swear an oath; ka anim - rebuke
+\de Akan loan word with uncertain core meaning ka hon – join; ka ntam – swear an oath; ka anim – rebuke
 \rf Tape:3-1-287
 \se ka hon
 \ge join
@@ -15781,14 +15782,14 @@ cf fonflo
 \sn
 \ge large rooster
 \sd 6.3.6
-\de large - used only of roosters
+\de large – used only of roosters
 \rf Tape:3-2-292
 \xv batɛ konkonyin
 \xe large rooster
 \rf Tape:3-2-294
 \xv Batɛ konkonyin amʋ ladan moni dʋbɩ, sʋ ɔmɛtalɩ tra bɔn.
 \xe The large rooster has grown so big he can no longer crow.
-\dt 13/Jul/2014
+\dt 29/Aug/2016
 
 \lx konti
 \ph konti
@@ -17527,10 +17528,10 @@ cf fonflo
 \de snore
 \rf Tape:4-1-083
 \xv Aladɩdɩ ɔdɛ kpɔlɩ "Hɔn, hɔn hɔn".
-\xe He has fallen asleep and is snoring "Zzzz. . . zzzz".
+\xe He has fallen asleep and is snoring "Zzzz. . . zzzz."
 \nt From ths: words that describe nonverbal human noises: su (cry), laugh (mɔsɩ), tinsa (sneeze) kpɔlɩ hɔn, hɔn, hɔn (snore), kpie (burp), okpowu, okpowu dɛ mʋ bwɛ (hiccough), fɛn mmɛ (blow nose), kɩmɩ (groan), kpɩ (sniff), pʋ ɔfʋlɩ, pʋ ɔfʋlɩ tɩ (whistle), wata (cough)
 \bb Stewart List:2048
-\dt 20/Jul/2016
+\dt 29/Aug/2016
 
 \lx kpɔn
 \ph k͡pɔ̃
@@ -17929,10 +17930,7 @@ cf fonflo
 \xv Nɔpʋ limba kun oyi yile kʋ mɩ ndɔtɔ.
 \xe I will take an axe and fell a big tree on my farm.
 \bb Stewart List:2854
-\xv Igye onye nokun okude nowun fuli.
-\xe Last night I dreamt I saw a ghost.
-\bb Stewart List:2046
-\dt 09/Nov/2015
+\dt 29/Aug/2016
 
 \lx kun okude
 \ph kũ okudeʔ
@@ -17944,7 +17942,10 @@ cf fonflo
 \cf okude
 \ce dream (n)
 \nt Dreams are believed to be caused by Natɩ (spider).
-\dt 20/Jul/2016
+\xv Igye onye nokun okude nowun fuli.
+\xe Last night I dreamed I saw a ghost.
+\bb Stewart List:2046
+\dt 29/Aug/2016
 
 \lx kunka
 \ph kũŋkaʔ
@@ -18090,13 +18091,13 @@ cf fonflo
 \de take some food from a communal portion
 \rf Tape:4-1-236
 \xv Kuti atogyihɛ amʋ wanklaan, makukuti mʋ́ anwunsʋ.
-\xe Cut the food well (mʋ akasʋ) don't cut a littlie bit off the top.
+\xe Cut the food well (mʋ akasʋ) don't cut a little bit off the top.
 \se kukuti
 \ge take off
 \de take off repetitively
 \cf kutibi
 \ce pinch
-\dt 15/Jun/2016
+\dt 29/Aug/2016
 
 \lx kutibi
 \ph kutibí (H)
@@ -18611,8 +18612,8 @@ cf fonflo
 \ge sprout
 \sd 1.5.5
 \de sprout
-\xv . . . mʋa la kɔkwɛ amʋ ɔma.
-\xe . . which were shooting behind.
+\xv ... mʋa la kɔkwɛ amʋ ɔma.
+\xe ... which were sprouting behind.
 \se kɔkwɛ
 \ps v
 \ge sprout
@@ -18621,7 +18622,7 @@ cf fonflo
 \xv Mɩ kpoli lakwɛ.
 \xe My corn has sprouted.
 \bb Stewart List:2205
-\dt 05/Nov/2015
+\dt 29/Aug/2016
 
 \lx kwɛ
 \hm 2
@@ -20941,12 +20942,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de intestine
 \nt the singular form is rarely used
 \xv opuni tsii
-\xe uproot your intestine - sick feeling in the pit of your stomach
+\xe uproot your intestine – sick feeling in the pit of your stomach
 \xv Nonu asʋn amʋ a, opuni letsii mɩ.
 \xe I heard the matter and my intestine uprooted me.
 \bb Stewart List:0042
 \bb SIL-AWL:0086
-\dt 19/Jul/2016
+\dt 29/Aug/2016
 
 \lx mpupubi
 \ph mpupubi
@@ -22361,8 +22362,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sd 8.3.1.5
 \de to bend or bow an object
 \xv Nnɛ fʋ oyi amʋtɔ mɩ ankɩ bɛɛ ɩbébia.
-\xe Bend the stick for me to see whether it will break. .
-\dt 15/Jul/2016
+\xe Bend the stick for me to see whether it will break.
+\dt 29/Aug/2016
 
 \lx nnonyɔ
 \ps n
@@ -23136,7 +23137,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sd 5.2.1.2.2
 \de drink
 \xv Otonun Plankɩ.
-\xe He understands Nkonya. Lit: He drinks Planki (the stream that flows through Wurupong).
+\xe He understands Nkonya. Lit: He drinks Planke (the stream that flows through Wurupong).
 \nt idiom
 \rf Tape:5-1-451
 \xv Ɔtsɩ amʋ tonun nta dʋbɩ.
@@ -23146,7 +23147,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv nun owí
 \xe bask in (drink) the sun
 \bb Stewart List:2033
-\dt 16/Jun/2014
+\dt 29/Aug/2016
 
 \lx nuusɩ
 \ph núːsɪ́
@@ -23628,11 +23629,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge set (trap)
 \sd 6.4.2
-\de to set a trap - open it and place it
+\de to set a trap – open it and place it
 \rf Tape:5-1-518
 \xv nyanka agblaa amʋ.
 \xe Set the trap.
-\dt 15/Jul/2016
+\dt 29/Aug/2016
 
 \lx nyankɩ
 \hm 1
@@ -24595,8 +24596,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Blood has come out.
 \rf Tape:6-2-371
 \xv Obugya lawʋlɩ asɩ.
-\xe Blood has spilt on the ground.
+\xe Blood has spilled on the ground.
 \xv Obugya ɩwʋlɩ asɩ a, asʋn laba.
+\xe If blood is spilled, a case has come.
 \na If blood is shed then it's a serious case. (Meaning if blood is shed then the case must be taken very seriously. Revenge will have to be taken.)
 \nt proverb
 \rf Tape:6-2-373
@@ -24606,7 +24608,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Blood is thicker than water.
 \bb Stewart List:0027
 \bb SIL-AWL:0098
-\dt 17/May/2016
+\dt 29/Aug/2016
 
 \lx obulu
 \ph obulúʔ
@@ -24829,11 +24831,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The goat is not heavy he is light.
 \rf Tape:2-1-551
 \xv Fʋ atɔsʋrahɛ amʋ́ʋ́ fʋsʋ amʋ ma odwin.
-\xe There is no weight in your load that you are carrying .
+\xe There is no weight in your load that you are carrying.
 \cf dwindwiindwin
 \ce very heavy
 \bb Stewart List:1695
-\dt 01/May/2016
+\dt 29/Aug/2016
 
 \lx ofi
 \ph ofíʔ
@@ -25797,7 +25799,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nakun okude.
 \xe I had a dream.
 \xv Igye onye nokun okude, nowun fuli.
-\xe Last night I dreamt I saw a ghost.
+\xe Last night I dreamed I saw a ghost.
 \xv Natɩ mɔkʋwu. Okude mɔkʋ ta.
 \xe Spider hasn't yet died, so dreaming hasn't stopped.
 \na Proverb: The cause of a phemenon hasn't stopped, so the effects continue.
@@ -25805,7 +25807,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:1407
 \cf kun okude
 \ce dream (v)
-\dt 21/Jul/2016
+\dt 29/Aug/2016
 
 \lx okugyiɔkʋ
 \ph okuʤiɔkʊ
@@ -26454,9 +26456,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \pl apio
 \plph apíó
 \xv Mɩ pio kʋsʋ gyi Sami, tsufɛ nadan dʋn mʋ.
-\xe My younger brother is Sami because I am older than he.
+\xe Sami is my younger brother because I am older than he.
 \bb Stewart List:0301
-\dt 20/May/2016
+\dt 29/Aug/2016
 
 \lx opitre
 \ph opitre(H)
@@ -26637,9 +26639,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de bag woven from a sisal like plant (finfɛ)
 \pl mpuntu
 \plph mpuntu
-\xv Tɩtɩ amʋ a, aha bʋtɔpʋ amʋ́ atɔ wa opuntutɔ tu ɔkpa. Sesei mʋ́ a, bʋtamatra putu ɔkpa tsufɛ abaagɩ awanklaan bʋ nʋ.
-\xe In the olden days people put their clothes in bags (opuntu) to travel but now, they do not travel with it because fine bags are available.
-\dt 28/Apr/2016
+\xv Tɩtɩ amʋ a, aha bʋtɔpʋ amʋ́ atɔ wa opuntutɔ tu ɔkpa. Sesei mʋ́ a, bʋtamatra pʋtu ɔkpa tsufɛ abaagɩ awanklaan bʋ nʋ.
+\xe In the olden days people put their clothes in bags to travel. But now, they do not travel with it because fine bags are available.
+\dt 30/Aug/2016
 
 \lx oputsu
 \ph oput͡súʔ
@@ -26652,9 +26654,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ oputsu ta atogyihɛtɔ a, ɩma agyilɛ.
 \xe If the soup in the food finishes it is not easy to eat.
 \xv Bʋtɔpʋ abɛ, kɩtɩba, ndawun ana pʋ lɛ oputsu.
-\xe They use palm nuts, ground nuts, okro and so on to prepare soup.
+\xe They use palm nuts, ground nuts, okra and so on to prepare soup.
 \bb Stewart List:1237
-\dt 17/Jun/2014
+\dt 30/Aug/2016
 
 \lx opuun
 \ph opûːʔ(L)
@@ -26666,8 +26668,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ mlɩ hogyi lomoni fɛ opuun ibi a, tɛkɩ mlɛ́talɩ bla ɩbʋ anfɩ mlɩaa otu.
 \xe If your faith is as big as the seed of opuun, you can tell this mountain that it should leave.
 \xv Opuun oputsu mʋ́a konkonte bʋ ɔdwɛ dʋbɩ.
-\xe The green leaves and konkonte is very sweet.
-\dt 31/May/2016
+\xe Soup from green leaves with cassava porridge is very tasty.
+\dt 30/Aug/2016
 
 \lx oseyee
 \ph oséyěːʔ
@@ -27245,11 +27247,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge otukpe
 \sd 9.7.2.9
-\de a certain stream near Planki in Wurupong
+\de a certain stream near Planke in Wurupong
 \na twins are ritually washed in Otukpe just before the chief's yam festival
 \xv Mayɛsa ntsu Otukpetɔ, tsufɛ mʋ́tɔ ma alɛ. Mboun yɛsa Plankɩ apʋwa ɔlɔ́tɔ.
-\xe Don't go fetch water from Otukpe, because the water in it is bad, instead go fetch it from Planki so that we can put it into the pot.
-\dt 20/Jul/2016
+\xe Don't go fetch water from Otukpe, because the water in it is bad, instead go fetch it from Planke so that we can put it into the pot.
+\dt 29/Aug/2016
 
 \lx otuntu
 \ph otuntuʔ
@@ -27708,8 +27710,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 6.6.1.1
 \sd 6.6.1.2
 \de cloth dyed with tree bark
-\na oyipɛ tati - a cloth that has been dyed with tree bark, at one point, our grandmother's time they would sew flour sacking and use it, That's how the tie and dye started.
-\dt 29/Jun/2016
+\na oyipɛ tati – a cloth that has been dyed with tree bark, at one point, our grandmother's time they would sew flour sacking and use it, That's how the tie and dye started.
+\dt 29/Aug/2016
 
 \lx oyitsu
 \ph oyit͡suʔ
@@ -27805,6 +27807,53 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Pray that he should get a good resting place.
 \dt 17/May/2016
 
+\lx ɔ- -pʋ
+\ph ɔ- -pʊ / -pʊ́
+\ps NOMR
+\sn
+\ge AGENT
+\sd 9.1.2
+\de agent marker; means "one who does"
+\xv ɔdɔtɔpʋ
+\xe farmer
+\xv osunapʋ
+\xe teacher
+\rf Tape:5-2-087
+\xv ɔkpɛpʋ
+\xe witch
+\rf Tape:5-2-089
+\xv opulapʋ
+\xe burier
+\rf Tape:5-2-091
+\xv bia ogyipʋ
+\xe merchant
+\rf Tape:5-2-093
+\xv atɔ ɔfɛpʋ
+\xe petty trader
+\rf Tape:5-2-095
+\xv ɔkpa otupʋ
+\xe An Nkonya living outside of Nkonya
+\rf Tape:5-2-098
+\xv ɔwʋnlɩnpʋ
+\xe a strong person
+\rf Tape:5-2-098
+\xv ɔlɔpʋ
+\xe a sick person
+\xv agyawunu atɔpʋ
+\xe charcoal burners
+\xv Agyawunu atɔpʋ bʋtokwi ɔbɔ kʋla nyi wa mʋ́tɔ, fówun bawa ogya mʋ́tɔ yinki kpa ɩsɩ bun mʋ́sʋ, ɩhɔ ta a, balɛ agyawunu amʋ.
+\xe Charcoal burners dig a hole, and put trees in it, so that they have set fire in it and returned gathered sand and covered it. When it finishes burning they remove the charcoal.
+\xv ɔtapʋ
+\xe a hunter
+\rf Tape:1-1-236
+\xv ɔwʋlʋ ɔbɩpʋ
+\xe a learned man
+\xv atɔ ɔbɩnpʋ
+\xe seamstress
+\xv Nta abʋpʋ a, nɩ bʋ na bʋ dɛ ntinta bɔ.
+\xe Drinkers, if they are drunk, they stumble.
+\dt 30/Aug/2016
+
 \lx ɔ- -tɔ
 \ph ɔ- -tɔ
 \ps NOMR
@@ -27840,7 +27889,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe lid (thing to close)
 \rf Tape:5-2-117
 \xv ɔkatɔ
-\xe things to cut; krantɩɛ; ɔdayi; etc
+\xe cutting tools – krantɩɛ (cutlass/machete); ɔdayi (knife)
 \rf Tape:5-2-119
 \xv akɔtɔ
 \xe weapons
@@ -27861,8 +27910,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe toys; musical instruments
 \rf Tape:5-2-129
 \xv apulatɔ
-\xe burial items; ɔklan; atati; daka; sika
-\dt 17/May/2016
+\xe items buried with a corpse; ɔklan (mat); atati (cloths); daka (coffin); sika (money)
+\dt 30/Aug/2016
 
 \lx ɔba
 \ph ɔba(H)
@@ -29186,8 +29235,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 6.6.1.2
 \de white cloth
 \xv Ɔhrada bʋtɔpʋ bɩn afadafɔ ntadɩɛ.
-\xe They use white cloth to sew Rev. Frs. cassocks.
-\dt 17/Jun/2014
+\xe They use white cloth to sew (Catholic) Fathers' cassocks.
+\dt 30/Aug/2016
 
 \lx ɔka
 \hm 1
@@ -29547,11 +29596,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge Alavanyo
 \sd 9.7.1.4
-\de Alavanyo - the Ewe speaking people to the east of Nkonya
+\de Alavanyo – the Ewe speaking people to the east of South Nkonya
 \na For nearly the last century there has been periodic war between the Nkonyas and the Alavanyos.
 \cf klɩ
 \ce tie
-\dt 15/Jul/2016
+\dt 29/Aug/2016
 
 \lx ɔklʋn
 \ph ɔklʊ̃ʔ
@@ -29746,10 +29795,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 8.1.5
 \de every way
 \xv Ɔkpagyiɔkpa sʋ a, fʋ klɛ ma nʋ.
-\xe In everyway yours is not there.
+\xe Lit:In every way yours is not there.
+\xe You are completely wrong.
 \xv It's completely your fault.
 \rf Tape:5-2-499
-\dt 25/Jul/2016
+\dt 30/Aug/2016
 
 \lx ɔkpakɩ
 \ph ɔk͡pakɪ̂ːʔ
@@ -31313,8 +31363,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Fufu amʋ bʋ ɔpɩ mlɛɛn.
 \xe The fufu is very sticky.
 \xv Ndawun oputsu amʋ ma ɔpɩ tsufɛ ndawun amʋ lasɩnsɩɩn.
-\xe The okro soup is not stringy because the okro has become stiff.
-\dt 04/Jul/2014
+\xe The okra soup is not stringy because the okra has become stiff.
+\dt 30/Aug/2016
 
 \lx ɔpɩm
 \ph ɔpɪ́m
@@ -31527,13 +31577,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The one that (he) is clever learns quickly.
 \xv Nda akudasʋ mɩ ndɔtɔ agyʋma tɔwa mɩ ɔsa.
 \xe I sleep at (my) akuda so my farm work always goes quickly for me.
-\xe Because I sleep at my village I can get my farm work done quickly.
+\xe Because I sleep at my field hut I can get my farm work done quickly.
 \rf Tape:1-1-358
 \rf Tape:2-2-543
 \xv Nyankpʋ tswie brɛ a, ɩfa tɔwa ɔsa kɔkwɛ dʋbɩ.
 \xe In Rainy season weeds grow too quickly.
 \bb Stewart List:1429
-\dt 19/Jul/2016
+\dt 30/Aug/2016
 
 \lx ɔsan
 \ph ɔsã(H)
@@ -32238,7 +32288,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \pl ntɔntrɔbwɩ
 \plph ntɔntrɔbwɪ(H)
 \xv Ntɔntrɔbwɩ bʋ gyi mbwɩ ánɩ́ bʋtamadun, mboun bʋtoputa aha.
-\xe Ntɔntrɔbwɩ are insects that don't bite but crawl all over people.
+\xe Ntɔntrɔbwɩ are insects that don't bite but instead crawl on people.
 \rf Tape:5-1-383
 \xv Fenya ɩklʋn bio ɔtɔntrɔbwɩ a, fʋtowun mʋ mpuni.
 \xe If you patiently dissect an ant you see its stomach.
@@ -32265,7 +32315,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 8.2.1
 \de the smallest morsel imaginable
 \lt ant's eye
-\dt 15/Jul/2016
+\dt 30/Aug/2016
 
 \lx ɔtɔtɔ
 \ph ɔtɔ́tɔ́
@@ -32366,8 +32416,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph nt͡sak͡pa
 \rf Tape:6-1-501
 \xv Ɔtsakpa gyi fɛ klatɩ, tamɛ olomoni dʋn klatɩ, ɔtɔwɩ mankani ndɔtɔ.
-\xe Ɔtsakpa is like a grass-cutter but he is bigger than a grass-cutter, he eats cocoyam on the farm.
-\dt 20/Jul/2016
+\xe The hedgehog is like a grass-cutter but he is bigger than a grass-cutter, he eats cocoyam on the farm.
+\dt 30/Aug/2016
 
 \lx ɔtsan
 \ph ɔt͡sãʔ
@@ -33239,8 +33289,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph apáya
 \bw English fi:pear
 \xv Paya mʋ́a bodobodo bʋ agyilɛ.
-\xe Avocado and bread are easy to eat .
-\dt 19/Jul/2016
+\xe Avocado and bread are easy to eat.
+\dt 30/Aug/2016
 
 \lx pentenplein
 \ph pentẽmplẽĩ
@@ -33610,8 +33660,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 8.3.4.1
 \de very hot
 \xv Ɩlɔ amʋ sʋ a, kebi amʋ wɩ lablɩ pɩmpɩɩmpɩ.
-\xe Because of the sickness, the child is very hot, .
-\dt 01/Jul/2014
+\xe Because of the sickness, the child is very hot.
+\dt 30/Aug/2016
 
 \lx pɩmpɩn
 \ph pɪmpɪ̃
@@ -33744,8 +33794,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 9.7.2.9
 \de the name of the stream that Wurupong draws the best water from
 \xv Anɩlabɩtɩa plankɩ ba wulutɔ anɩdɛ mʋ́ sa.
-\xe We have brought Plankɩ to the town and we are fetching it.
-\dt 14/Jul/2016
+\xe We have brought Planke to the town and we are fetching it.
+\dt 29/Aug/2016
 
 \lx plasta
 \ph plásta
@@ -34265,12 +34315,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge plough
 \sd 6.2.1.1
 \de work up land before planting
-\nt from puli to uproot
+\nt puli + REDUP
 \xv Ɔdɔtɔpʋ amʋ lopupuli mʋ ndɔtɔ asa olodu atɔ, mɛnɩ ɩfa mɛ́ɛhan mʋ.
 \xe The man ploughed his farm before he planted his crops in order that he will not be disturbed by weeds.
 \xv Katapila ɔkanpʋ amʋ lapupuli ɔtsɩ amʋ ndɔ amʋ wanklaan ha mʋ.
-\xe The tractor operator has plough the woman's farm for her nicely.
-\dt 30/Jun/2014
+\xe The tractor operator has ploughed the woman's farm for her nicely.
+\cf puli
+\ce uproot
+\dt 30/Aug/2016
 
 \lx puta
 \ph pútá
@@ -34320,10 +34372,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ce forest
 \xv Mbwɛ bʋtekle pututɔ tsia.
 \xe Animals like to live in the bush.
-\xv Ɔyasʋbi amʋ ɔyɔ pututɔ.
-\xe The gentle man is going to the bush.
-\xe The gentle man is going for hunting.
-\dt 19/Jul/2016
+\xv Ɔyasubi amʋ ɔyɔ pututɔ.
+\xe The young man is going to the bush.
+\dt 30/Aug/2016
 
 \lx putuputu
 \ph pútúpútú
@@ -34372,53 +34423,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Tɛkɩ nɔyɔ mʋ wa, tamɛ bɛɛ alapʋ ɔkpa.
 \xe I went to see him but they said he had gone a short distance.
 \dt 15/Jun/2016
-
-\lx -pʋ
-\ph -pʊ / -pʊ́
-\ps NOMR
-\sn
-\ge AGENT
-\sd 9.1.2
-\de agent marker; means "one who does"
-\xv ɔdɔtɔpʋ
-\xe farmer
-\xv osunapʋ
-\xe teacher
-\rf Tape:5-2-087
-\xv ɔkpɛpʋ
-\xe witch
-\rf Tape:5-2-089
-\xv opulapʋ
-\xe burier
-\rf Tape:5-2-091
-\xv bia ogyipʋ
-\xe merchant
-\rf Tape:5-2-093
-\xv atɔ ɔfɛpʋ
-\xe petty trader
-\rf Tape:5-2-095
-\xv ɔkpa otupʋ
-\xe An Nkonya living outside of Nkonya
-\rf Tape:5-2-098
-\xv ɔwʋnlɩnpʋ
-\xe a strong person
-\rf Tape:5-2-098
-\xv ɔlɔpʋ
-\xe a sick person
-\xv agyawunu atɔpʋ
-\xe charcoal burners
-\xv Agyawunu atɔpʋ bʋtokwi ɔbɔ kʋla nyi wa mʋ́tɔ, fówun bawa ogya mʋ́tɔ yinki kpa ɩsɩ bun mʋ́sʋ, ɩhɔ ta a, balɛ agyawunu amʋ.
-\xe Charcoal burners dig a hole, and put trees in it, so that they have set fire in it and returned gathered sand and covered it. When it finishes burning they remove the charcoal.
-\xv ɔtapʋ
-\xe a hunter
-\rf Tape:1-1-236
-\xv ɔwʋlʋ ɔbɩpʋ
-\xe a learnt man
-\xv atɔ ɔbɩnpʋ
-\xe seamstress
-\xv Nta abʋpʋ a, nɩ bʋ na bʋ dɛ ntinta bɔ.
-\xe Drinkers, if they are drunk, they stumble.
-\dt 17/May/2016
 
 \lx pʋ́
 \ph pʊ́
@@ -35141,9 +35145,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de cedi; Ghanaian currency, a cedi is 100 pesewas
 \bw English fi:cedi
 \xv Ghanafɔ bʋtegyi sidi, Nigeriafɔ ɛ bʋtegyi naira.
-\xe Ghanaians use cedis and Nigerians also use naira.
+\xe Ghanaians use cedis and Nigerians (also) use naira.
 \na The cedi was redonimated in 2007. 10,000 cedis became 'Ghana cedi'
-\dt 13/Jul/2014
+\dt 30/Aug/2016
 
 \lx sie
 \ph sie
@@ -35439,12 +35443,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Cow boils have different symptoms than boils.
 \lt Sɩmpʋa walks differently than kɛklɛ.
 \xv Nɩ ɩda fʋ a, igyi fɛ kɛklɛ tamɛ ɩtɛha fʋ ɩwɩ tɛblɩ ogya.
-\xe If you get it, it is like kɛklɛ but it makes your body hot.
+\xe If you get it, it is like a boil, but it makes your body hot.
 \xv Nɩ fofuti a, ɩbɛ́talɩ mɔ fʋ.
 \xe If you inject, it can kill you.
 \xv Nnantswɩɛ ɛ bʋ tɔlɔ mʋ. Mʋ́ sʋ bʋtɛtɩ mʋ́ ɔnantswie sɩmpʋa nɩ.
 \xe Cows also get these boils. Because of this they call it cow boil.
-\dt 21/Jul/2016
+\dt 30/Aug/2016
 
 \lx sɩnaa
 \ph sɪnâː
@@ -35938,14 +35942,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 7.2.2.5.1
 \de to fall over, as a tree felled
 \xv Nɔpʋ oplimbi kpɩsa bunti sʋ, nɛba a, la sunki da.
-\xe I leaned the oplimbi against the wall and when I came back it had fallen over.
+\xe I leaned the pestle against the wall and when I came back it had fallen over.
 \rf Tape:7-1-115
 \xv Bunti amʋ lasunki da oyin amʋsʋ alawu.
 \xe The wall has fallen on the man and he is dead.
 \cf kpada
 \ce fall from height
 \nt From ths: words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpa wie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
-\dt 01/Jun/2016
+\dt 30/Aug/2016
 
 \lx susu
 \ph súsûʔ
@@ -36278,10 +36282,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-244
 \xv Gya batɛ amʋ fɛɛ "Swɛɛ!" Afʋ gya kpala amʋ fɛɛ "Kai!"
 \xe Shoo the chicken by saying "Swɛɛ!" You should shoo the goat by saying "Kai!".
+\nt check spellingvs Swɩ!
 \cf kai
 \ce shoo!
 \va swɩ
-\dt 20/May/2016
+\dt 30/Aug/2016
 
 \lx swie
 \hm 1
@@ -39055,13 +39060,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sd 3.2.5.4
 \de to agree to someone's proposal
 \rf Tape:7-2-458
-\xv Bɛblɩ fɛɛ Ao fanu - ee (repeat) Mmotsuda - eee Mmotsuda ma wulu. Ɩbwɛ fʋ ta, ɩlawankɩ fʋ.
-\xe They say (advise) You say "I have heard" "I won't . . . I won't" has no town. (it takes you nowhere; it doesn't). When it is all finished; it will be clear to you. (If your refuse you come to regret it.) - Words to a song.
+\xv Bɛblɩ fɛɛ Ao fanu-ee (repeat) Mmotsuda-eee Mmotsuda ma wulu. Ɩbwɛ fʋ ta, ɩlawankɩ fʋ.
+\xe They say (advise) You say "I have heard" "I won't . . . I won't" has no town. (It takes you nowhere.) When it is all finished for you; it will be clear to you. (If your refuse you come to regret it.) Words to a song.
+\nt lyrics to a funeral song
 \rf Tape:7-2-475
 \xv Natsula ánɩ́ ɔyɔ, tamɛ ɔyɔ a, ɔwa ɔsa ba.
 \xe I have agreed that he should go but he should go and come quickly.
 \bb Stewart List:2961
-\dt 18/Jul/2016
+\dt 30/Aug/2016
 
 \lx tsutsu
 \ph t͡sút͡sú
@@ -40059,7 +40065,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph awɛ
 \rf Tape:8-1-243
 \xv Natɩn abɛ, ndɛ mʋ́ abɛ wɛ amʋ tɔsɩ.
-\xe I have cut a heart of abɛ, and I am picking up the loose ones.
+\xe I have cut a heart of palm fruits, and I am picking up the loose ones.
 \rf Tape:8-1-249
 \xv Lɛ kwadu awɛ amʋ kʋ ha mɩ.
 \xe Remove some of the broken bananas for me.
@@ -40071,7 +40077,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de broken in pieces
 \xv Noyosuna Mr Lear alɩa bʋtɔbwɛ krantɩɛ wɛ yibi.
 \xe I am going to teach Mr. Lear how they make a handleless cutlass snare.
-\dt 19/Jul/2016
+\dt 30/Aug/2016
 
 \lx wi
 \ph wí
@@ -40176,8 +40182,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge cry hard
 \sd 3.5.6.5
 \sd 9.3
-\de strongly - used of crying
-\dt 21/Jul/2016
+\de strongly – used of crying
+\dt 29/Aug/2016
 
 \lx wotii
 \ph wotǐː
@@ -40225,7 +40231,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe They took a spear and pierced Jesus' side.
 \rf Tape:1-2-399
 \xv Nɩ fʋdɛ abɛ gyɔɩ a, kɩ wanklaan, tsufɛ mbɛtɛ amʋ tɔwɔ aha.
-\xe If you are removing the palm nuts from the palm heart be careful because the mbɛtɛ pierces people.
+\xe If you are removing the palm nuts from the palm heart be careful because the palm thorn pierces people.
 \xv Ayinti bʋ mɩ ndɔtɔ dʋbɩ sʋ yinti lawɔ mɩ ayabitɔ.
 \xe There are many stumps in my farm so a stump has pierced the bottom of my foot.
 \nt From ths: words that cut: ka (general term), kaka (chop), kun (gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
@@ -40262,7 +40268,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to say something hurtful with words
 \xv Nɛblɩ oblikpini wɔ mɩ kulu.
 \xe I spoke indirectly and hurt my husband.
-\dt 15/Jun/2016
+\dt 30/Aug/2016
 
 \lx wɔfa
 \ph wɔfa
@@ -40556,10 +40562,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge courtyard
 \sd 6.5.1.4
-\de courtyard - open space inside a compound
+\de courtyard – open space inside a compound
 \xv Oyin amʋ nwunsɩnɛsʋ lɛtɛɩ tɛtrɛtɛɛ.
 \xe The man's courtyard is very wide.
-\dt 20/May/2016
+\dt 29/Aug/2016
 
 \lx wunti
 \ph wúntí
@@ -41259,7 +41265,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf alɛ
 \ce good
 \xv Fɔbwɛ yile a, fénya mʋ́sʋ mfasʋ tsɔtsɔɔtsɔ.
-\xe If you do good a , you will get a big profit from it. .
+\xe If you do good you will get a lot of profit from it.
 \nt proverb
 \nt From ths: used with oyi, aye, ɩpʋ
 \nt From ths: words for big: yile, kpɔnkpɔntɩ, moni (vi), tsɔtsɔɔtsɔ - large in quantity
@@ -41278,7 +41284,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge good person
 \sd 4.3.1
 \de a good person
-\dt 20/Jul/2016
+\dt 30/Aug/2016
 
 \lx yin
 \hm 1
