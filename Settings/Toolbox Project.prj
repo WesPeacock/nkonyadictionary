@@ -101,7 +101,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri oplintibi
+\fldPri abɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -151,7 +151,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri oplintibi
+\fldPri abɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -201,7 +201,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri oplintibi
+\fldPri abɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -217,6 +217,7 @@
 \-db
 
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
+\ReadOnly
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -8 -28 123 5 1288 326
@@ -256,8 +257,8 @@
 \mkrSecKey lx
 \-ind
 \+rec 
-\fldPriKey 6.6.1
-\fldSecKey ɔbwata
+\fldPriKey
+\fldSecKey a
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -268,8 +269,8 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 5
-\CaretLineScroll 5
+\CaretLine 0
+\CaretLineScroll 0
 \CaretChar 0
 \-wnd
 \+wnd 
@@ -308,7 +309,7 @@
 \-ind
 \+rec 
 \fldPriKey bɩtɩ
-\fldSecKey 7.3.2.8
+\fldSecKey
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -324,7 +325,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 133 10 1323 382
-\z 8
+\z 10
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -357,7 +358,7 @@
 \-ind
 \+rec 
 \fldPriKey a
-\fldSecKey 9.2.5.2
+\fldSecKey
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -373,7 +374,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 213 143 1296 688
-\z 6
+\z 5
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -422,7 +423,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -8 -30 75 75 1198 535
-\z 7
+\z 6
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -455,7 +456,7 @@
 \-ind
 \+rec 
 \fldPriKey a
-\fldSecKey 9.2.5.2
+\fldSecKey
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -471,7 +472,7 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 160 160 1289 614
-\z 9
+\z 7
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -524,50 +525,11 @@
 \-wndlst
 \-db
 
-\+db C:\My Toolbox Projects\Nkonya\tmp\result.txt
-\+wndlst 
-\+wnd 
-\placement normal 160 923 -1 -1 144 237 1327 781
-\z 5
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr ref
-\width 1155
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey ref
-\srtPriKey English
-\-ind
-\+rec 
-\fldPriKey
-\-rec
-\+keySearch 
-\fldPri gegyefe
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
-\-wnd
-\-wndlst
-\-db
-
 \+db C:\Users\Wes\AppData\Local\Temp\nklex.txt
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -1 -1 3 264 1472 650
-\z 10
+\z 8
 \ViewMarkers
 \widthMarkerArea 50
 \Browse
@@ -586,27 +548,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 171
-\-brf
-\+brf 
-\mkr sd1
-\width 171
-\-brf
-\+brf 
-\mkr sd2
-\width 171
-\-brf
-\+brf 
-\mkr sd3
-\width 171
-\-brf
-\+brf 
-\mkr sd4
-\width 171
-\-brf
-\+brf 
-\mkr sd5
-\width 174
+\width 1064
 \-brf
 \-brflst
 \+ind 
@@ -615,10 +557,11 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey a
-\fldSecKey
+\fldPriKey -a
+\fldSecKey 2
 \-rec
 \+keySearch 
+\fldPri -a
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -628,10 +571,9 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 192 192 1486 646
-\z 11
+\z 9
 \ViewMarkers
 \widthMarkerArea 50
-\Browse
 \JumpTarget
 \FocusTarget
 \+brflst 
@@ -647,27 +589,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 171
-\-brf
-\+brf 
-\mkr sd1
-\width 171
-\-brf
-\+brf 
-\mkr sd2
-\width 171
-\-brf
-\+brf 
-\mkr sd3
-\width 171
-\-brf
-\+brf 
-\mkr sd4
-\width 170
-\-brf
-\+brf 
-\mkr sd5
-\width 0
+\width 910
 \-brf
 \-brflst
 \+ind 
@@ -676,7 +598,7 @@
 \mkrSecKey hm
 \-ind
 \+rec 
-\fldPriKey a
+\fldPriKey abɛ
 \fldSecKey
 \-rec
 \+keySearch 
@@ -686,6 +608,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \-wnd
 \-wndlst
 \-db

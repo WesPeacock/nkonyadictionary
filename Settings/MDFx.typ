@@ -334,6 +334,109 @@
 \CharStyle
 \-mkr
 
+\+mkr is1
+\nam Semantic index1
+\desc dummy is marker
+\lng English
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
+\+mkr is10
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is11
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is12
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is13
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is14
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is15
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is16
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is17
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is2
+\nam Semantic index2
+\desc dummy is marker
+\lng English
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
+\+mkr is3
+\nam Semantic index3
+\desc dummy is marker
+\lng English
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
+\+mkr is4
+\nam Semantic index4
+\desc dummy is marker
+\lng English
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
+\+mkr is5
+\nam Semantic index5
+\desc dummy is marker
+\lng English
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
+\+mkr is6
+\nam Semantic index6
+\desc dummy is marker
+\lng English
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
+\+mkr is7
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is8
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr is9
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
 \+mkr lc
 \nam Citation form
 \desc This should be added only if the lexical entry form is inappropriate for the printed dictionary, and you want to substitute another form for the printed entry. When formatting a document, MDF always replaces the contents of the \lx field with the contents of the \lc field (if present).
@@ -669,109 +772,6 @@
 \lng English
 \mkrOverThis sn
 \CharStyle
-\-mkr
-
-\+mkr sd1
-\nam Semantic domain1
-\desc dummy sd marker
-\lng English
-\mkrOverThis sn
-\CharStyle
-\-mkr
-
-\+mkr sd10
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd11
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd12
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd13
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd14
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd15
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd16
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd17
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd2
-\nam Semantic domain2
-\desc dummy sd marker
-\lng English
-\mkrOverThis sn
-\CharStyle
-\-mkr
-
-\+mkr sd3
-\nam Semantic domain3
-\desc dummy sd marker
-\lng English
-\mkrOverThis sn
-\CharStyle
-\-mkr
-
-\+mkr sd4
-\nam Semantic domain4
-\desc dummy sd marker
-\lng English
-\mkrOverThis sn
-\CharStyle
-\-mkr
-
-\+mkr sd5
-\nam Semantic domain5
-\desc dummy sd marker
-\lng English
-\mkrOverThis sn
-\CharStyle
-\-mkr
-
-\+mkr sd6
-\nam Semantic domain6
-\desc dummy sd marker
-\lng English
-\mkrOverThis sn
-\CharStyle
-\-mkr
-
-\+mkr sd7
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd8
-\lng vernacular
-\mkrOverThis lx
-\-mkr
-
-\+mkr sd9
-\lng vernacular
-\mkrOverThis lx
 \-mkr
 
 \+mkr se
