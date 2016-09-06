@@ -1,0 +1,3 @@
+# build a /tmp/nklex.txt that adds the Semantic domain title to the number and numbers \sd markers
+perl -a -F\\t -lne 'print "s/sd $F[0]\$/sd $F[0]\\t$F[1]/;";' <SemanticDomains/SDTN.txt >/tmp/x.pl
+fromdos <Nkolex\ in\ Unicode.txt |perl -p /tmp/x.pl |sed  's/MDF 4.0/MDF 4.0x/' | perl -pe 'if (/\\lx/) {$sdcount=0} ; s/\\sd /"\\sd".++$sdcount." "/ge;' |todos >/tmp/nklex.txt
