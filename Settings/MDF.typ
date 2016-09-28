@@ -899,9 +899,9 @@
 \match_char i
 \-fil
 
-\+fil InitialLetter
+\+fil InitialString
 \mkr lx
-\txt [#]a
+\txt [#]gyagya
 \match_char c
 \-fil
 
@@ -1063,15 +1063,7 @@
 \-expRTF
 
 \+expSF Standard Format
-\exportedFile C:\My Toolbox Projects\NkonyaAffixes.sfm
-\+mkrsubsetIncluded 
-\mkr de
-\mkr ge
-\mkr lx
-\mkr ps
-\mkr sn
-\mkr va
-\-mkrsubsetIncluded
+\exportedFile C:\My Toolbox Projects\Nkonya\Nkolex-test.sfm
 \-expSF
 
 \+expXML XML
@@ -1079,7 +1071,8 @@
 \exportedFile C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.xml
 \-expXML
 
-\expDefault XML
+\expDefault Standard Format
+\CurrentWindow
 \-expset
 \PreventNumbering
 \DisableNumbering
