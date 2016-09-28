@@ -62,7 +62,7 @@
 \command echo hipl | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \command echo until | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \-rundosMarkers
-\placementMain normal -1 -1 -1 -1 13 75 1521 855
+\placementMain normal -1 -1 -1 -1 1756 151 3264 931
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
@@ -101,7 +101,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri abɛ
+\fldPri wʋlɩ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -151,7 +151,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri abɛ
+\fldPri wʋlɩ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -201,7 +201,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri abɛ
+\fldPri wʋlɩ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -217,7 +217,6 @@
 \-db
 
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
-\ReadOnly
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -8 -28 123 5 1288 326
@@ -325,11 +324,11 @@
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 133 10 1323 382
-\z 10
+\z 8
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
-\widthMarkerArea 165
+\widthMarkerArea 253
 \JumpTarget
 \+brflst 
 \FieldEmptyEntry *empty*
@@ -348,16 +347,17 @@
 \-brf
 \+brf 
 \mkr sd
-\width 409
+\width 388
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
 \mkrSecKey sd
+\fil search
 \-ind
 \+rec 
-\fldPriKey a
+\fldPriKey wʋlɩ
 \fldSecKey
 \-rec
 \+keySearch 
@@ -499,15 +499,17 @@
 \-brf
 \+brf 
 \mkr sd
-\width 137
+\width 116
 \-brf
 \-brflst
 \+ind 
-\mkrPriKey pl
+\mkrPriKey lx
 \srtPriKey NkonyaU
+\mkrSecKey pl
 \-ind
 \+rec 
-\fldPriKey atɔ awunpʋ
+\fldPriKey tɔá
+\fldSecKey
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -518,120 +520,18 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 13
+\CaretLine 15
 \CaretLineScroll 9
-\CaretChar 11
-\-wnd
-\-wndlst
-\-db
-
-\+db C:\Users\Wes\AppData\Local\Temp\nklex.txt
-\+wndlst 
-\+wnd 
-\placement normal -1 -1 -1 -1 3 264 1472 650
-\z 8
-\ViewMarkers
-\widthMarkerArea 50
-\Browse
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 171
-\-brf
-\+brf 
-\mkr ps
-\width 171
-\-brf
-\+brf 
-\mkr ge
-\width 1064
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey hm
-\-ind
-\+rec 
-\fldPriKey -a
-\fldSecKey 2
-\-rec
-\+keySearch 
-\fldPri -a
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\-wnd
-\+wnd 
-\placement normal -1 -1 -1 -1 192 192 1486 646
-\z 9
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 171
-\-brf
-\+brf 
-\mkr ps
-\width 171
-\-brf
-\+brf 
-\mkr ge
-\width 910
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey hm
-\-ind
-\+rec 
-\fldPriKey abɛ
-\fldSecKey
-\-rec
-\+keySearch 
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretChar 4
 \-wnd
 \-wndlst
 \-db
 
 \-dblst
 \+Find 
-\Field plph
+\Field ee
 \match_char e
 \+ftxlst 
-\+ftx 
-\text kpakpa
-\lng vernacular
-\-ftx
-\+ftx 
-\text Ewe
-\lng English
-\-ftx
-\+ftx 
-\text Ceiba pentandra
-\lng English
-\-ftx
 \+ftx 
 \text Annona muricata
 \lng English
@@ -698,6 +598,18 @@
 \-ftx
 \+ftx 
 \text TN_
+\lng English
+\-ftx
+\+ftx 
+\text Vitellaria paradoxa
+\lng English
+\-ftx
+\+ftx 
+\text Delon
+\lng English
+\-ftx
+\+ftx 
+\text fi\garlic
 \lng English
 \-ftx
 \-ftxlst

@@ -860,6 +860,14 @@
 \CharStyle
 \-mkr
 
+\+mkr xl
+\nam Example Literal Translation
+\desc Word for WordEnglish translation of the example sentence given in the \xv field. Use capitalization and punctuation as needed.
+\lng vernacular
+\mkrOverThis xv
+\CharStyle
+\-mkr
+
 \+mkr xn
 \nam Example free trans. (n)
 \desc National language translation of the example sentence given in the \xv field. Use capitalization and punctuation as needed.
@@ -899,9 +907,9 @@
 \match_char i
 \-fil
 
-\+fil InitialLetter
+\+fil InitialString
 \mkr lx
-\txt [#]a
+\txt [#]gyagya
 \match_char c
 \-fil
 
@@ -938,8 +946,7 @@
 \-fil
 
 \+fil search
-\mkr ge
-\txt [D]
+\mkr lt
 \match_char c
 \-fil
 
@@ -1063,15 +1070,7 @@
 \-expRTF
 
 \+expSF Standard Format
-\exportedFile C:\My Toolbox Projects\NkonyaAffixes.sfm
-\+mkrsubsetIncluded 
-\mkr de
-\mkr ge
-\mkr lx
-\mkr ps
-\mkr sn
-\mkr va
-\-mkrsubsetIncluded
+\exportedFile C:\My Toolbox Projects\Nkonya\Nkolex-test.sfm
 \-expSF
 
 \+expXML XML
@@ -1079,7 +1078,8 @@
 \exportedFile C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.xml
 \-expXML
 
-\expDefault XML
+\expDefault Standard Format
+\CurrentWindow
 \-expset
 \PreventNumbering
 \DisableNumbering
