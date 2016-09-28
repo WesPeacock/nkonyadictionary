@@ -101,7 +101,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri wʋlɩ
+\fldPri galiki
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -151,11 +151,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-<<<<<<< HEAD
-\fldPri wʋlɩ
-=======
-\fldPri bɩ
->>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
+\fldPri galiki
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -205,11 +201,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-<<<<<<< HEAD
-\fldPri wʋlɩ
-=======
-\fldPri bɩ
->>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
+\fldPri galiki
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -355,25 +347,15 @@
 \-brf
 \+brf 
 \mkr sd
-\width 388
+\width 409
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
-\mkrSecKey sd
-<<<<<<< HEAD
-\fil search
 \-ind
 \+rec 
-\fldPriKey wʋlɩ
-=======
-\fil InitialString
-\-ind
-\+rec 
-\fldPriKey gyagya
->>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
-\fldSecKey
+\fldPriKey galiki
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -383,9 +365,13 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 1
+\CaretLineScroll 1
+\CaretChar 6
+\fil InitialString
+\-ind 
+\fldSecKey 
+\-rec 
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 213 143 1296 688
@@ -514,16 +500,17 @@
 \-brf
 \+brf 
 \mkr sd
-\width 116
+\width 137
 \-brf
 \-brflst
 \+ind 
 \mkrPriKey lx
 \srtPriKey NkonyaU
 \mkrSecKey pl
+\fil search
 \-ind
 \+rec 
-\fldPriKey tɔá
+\fldPriKey Aban
 \fldSecKey
 \-rec
 \+keySearch 
@@ -535,71 +522,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-<<<<<<< HEAD
-\CaretLine 15
+\CaretLine 9
 \CaretLineScroll 9
-\CaretChar 4
-=======
-\CaretLine 10
-\CaretLineScroll 6
-\CaretChar 14
-\-wnd
-\-wndlst
-\-db
-
-\+db C:\My Toolbox Projects\Nkonya\Nkolex-test.sfm
-\+wndlst 
-\+wnd 
-\placement normal -1 -1 -1 -1 96 96 1390 550
-\z 9
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 109
-\-brf
-\+brf 
-\mkr hm
-\width 359
-\-brf
-\+brf 
-\mkr ps
-\width 234
-\-brf
-\+brf 
-\mkr ge
-\width 234
-\-brf
-\+brf 
-\mkr sd
-\width 137
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey hm
-\-ind
-\+rec 
-\fldPriKey gyagya
-\fldSecKey
-\-rec
-\+keySearch 
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
->>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
+\CaretChar 19
 \-wnd
 \-wndlst
 \-db
@@ -609,17 +534,6 @@
 \Field ee
 \match_char e
 \+ftxlst 
-\+ftx 
-<<<<<<< HEAD
-=======
-\text Ceiba pentandra
-\lng English
-\-ftx
-\+ftx 
->>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
-\text Annona muricata
-\lng English
-\-ftx
 \+ftx 
 \text yesterday
 \lng English
@@ -692,13 +606,14 @@
 \text Delon
 \lng English
 \-ftx
-<<<<<<< HEAD
 \+ftx 
 \text fi\garlic
-\lng English
+\lng vernacular
 \-ftx
-=======
->>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
+\+ftx 
+\text garlic
+\lng vernacular
+\-ftx
 \-ftxlst
 \Replace I
 \-Find
