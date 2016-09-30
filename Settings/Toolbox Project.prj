@@ -151,7 +151,11 @@
 \fldSecKey
 \-rec
 \+keySearch 
+<<<<<<< HEAD
 \fldPri wʋlɩ
+=======
+\fldPri bɩ
+>>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -201,7 +205,11 @@
 \fldSecKey
 \-rec
 \+keySearch 
+<<<<<<< HEAD
 \fldPri wʋlɩ
+=======
+\fldPri bɩ
+>>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -354,10 +362,17 @@
 \mkrPriKey lx
 \srtPriKey NkonyaU
 \mkrSecKey sd
+<<<<<<< HEAD
 \fil search
 \-ind
 \+rec 
 \fldPriKey wʋlɩ
+=======
+\fil InitialString
+\-ind
+\+rec 
+\fldPriKey gyagya
+>>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
 \fldSecKey
 \-rec
 \+keySearch 
@@ -520,9 +535,71 @@
 \MatchWhole
 \match_char p
 \-keyInsert
+<<<<<<< HEAD
 \CaretLine 15
 \CaretLineScroll 9
 \CaretChar 4
+=======
+\CaretLine 10
+\CaretLineScroll 6
+\CaretChar 14
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\My Toolbox Projects\Nkonya\Nkolex-test.sfm
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -1 -1 96 96 1390 550
+\z 9
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 109
+\-brf
+\+brf 
+\mkr hm
+\width 359
+\-brf
+\+brf 
+\mkr ps
+\width 234
+\-brf
+\+brf 
+\mkr ge
+\width 234
+\-brf
+\+brf 
+\mkr sd
+\width 137
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey NkonyaU
+\mkrSecKey hm
+\-ind
+\+rec 
+\fldPriKey gyagya
+\fldSecKey
+\-rec
+\+keySearch 
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+>>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
 \-wnd
 \-wndlst
 \-db
@@ -533,6 +610,13 @@
 \match_char e
 \+ftxlst 
 \+ftx 
+<<<<<<< HEAD
+=======
+\text Ceiba pentandra
+\lng English
+\-ftx
+\+ftx 
+>>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
 \text Annona muricata
 \lng English
 \-ftx
@@ -608,10 +692,13 @@
 \text Delon
 \lng English
 \-ftx
+<<<<<<< HEAD
 \+ftx 
 \text fi\garlic
 \lng English
 \-ftx
+=======
+>>>>>>> 2f5a3fc5f84c54656e4f563a57922a191f5833f7
 \-ftxlst
 \Replace I
 \-Find
