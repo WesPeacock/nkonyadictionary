@@ -946,7 +946,13 @@
 \-fil
 
 \+fil search
-\mkr lt
+\mkr sn
+\match_char c
+\-fil
+
+\+fil searchnot
+\fel Not
+\mkr sn
 \match_char c
 \-fil
 
