@@ -574,7 +574,7 @@
 \nam Plural form
 \desc This is a special paradigm field used to give the plural form of the lexeme. (It is better to use the \pdl field set for this.)
 \lng vernacular
-\mkrOverThis ps
+\mkrOverThis lx
 \CharStyle
 \-mkr
 
@@ -792,7 +792,7 @@
 \nam Variant form(s)
 \desc Where variant forms of the lexical entry or subentry can be noted (e.g. forms from another dialect or minor alternations in the focus dialect). Usually these forms occur elsewhere in the dictionary as minor entries. Comments on this field are given with the \ve, \vn, and \vr fields.
 \lng vernacular
-\mkrOverThis sn
+\mkrOverThis lx
 \CharStyle
 \-mkr
 

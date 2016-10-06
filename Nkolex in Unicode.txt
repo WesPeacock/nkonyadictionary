@@ -238,13 +238,13 @@
 \lx abawa
 \ph abawá
 \ps n
+\pl abawafɔ
+\plph abawáfɔ
 \sn
 \ge maid
 \is 4.5.4.3
 \is 2.6.5.2
 \de maidservant
-\pl abawafɔ
-\plph abawáfɔ
 \nt This is a Akan loan word. It comes from "Ɔbea" meaning girl or woman and the suffix wa meaning little or less in value.
 \bw Akan fi:abawa LLH - maid servant
 \xv Abawa akʋ bʋtowun asʋn amʋ́ awie wa, tsufɛ awie amʋ akʋ bʋbʋ owuntɔlɩ.
@@ -388,6 +388,8 @@
 \ps n
 \va abɩnwu
 \vaph abɪ̃wú
+\pl abɩn awu
+\plph abɪ̃ awú
 \sn
 \ge rib
 \is 2.1.2
@@ -395,8 +397,6 @@
 \de rib
 \lt side bone
 \bb SIL-AWL:0080
-\pl abɩn awu
-\plph abɪ̃ awú
 \xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
 \xe If your rib breaks and you don't take care, you will die.
 \dt 30/Sep/2016
@@ -515,13 +515,13 @@
 \lx abrɩwa
 \ph abrɪwa(H)
 \ps n
+\pl mbrɩwa
+\plph mbrɪwa(H)
 \sn
 \ge old woman
 \is 2.6.4.5
 \is 2.6.5.2
 \de old woman
-\pl mbrɩwa
-\plph mbrɪwa(H)
 \bw Akan fi:abrɩwa
 \xv Akʋkrʋwa mʋa abrɩwa tegyi mba.
 \xe Old men and women are friendly with one another.
@@ -910,12 +910,12 @@
 \lx afrimu
 \ph afrímú
 \ps n
+\pl mfrimu
+\plph ɱfrímú
 \sn
 \ge donkey
 \is 6.3.1.1
 \de donkey
-\pl mfrimu
-\plph ɱfrímú
 \bw Akan fi:afrim LH!H
 \xv Afrimu tɔsʋra atɔ dʋn ɔpɔnkɔ.
 \xe A donkey carries things more than a horse.
@@ -1954,12 +1954,12 @@
 \lx akuda
 \ph akuda(H)
 \ps n
+\pl nkuda
+\plph ŋkuda
 \sn
 \ge village
 \is 6.5.1.2
 \de house on the farm, out of town
-\pl nkuda
-\plph ŋkuda
 \bw Akan fi:akuda
 \xv Nda akuda, sʋ mɩ ndɔtɔ agyʋma tɔwa mɩ ɔsa.
 \xe I sleep at (my) village so my farm work always goes quickly for me.
@@ -2018,13 +2018,13 @@
 \lx akʋkrʋwa
 \ph akʊkrʊwa(H)
 \ps n
+\pl nkʋkrʋwa
+\plph ŋkʊkrʊwa
 \sn
 \ge old man
 \is 2.6.4.5
 \is 2.6.5.1
 \de old man
-\pl nkʋkrʋwa
-\plph ŋkʊkrʊwa
 \bw Akan fi:Akʋkrʋwa LLLH
 \xv Akʋkrʋwa mʋa abrɩwa tegyi mba.
 \xe Old men and women are friendly with one another.
@@ -2590,12 +2590,12 @@
 \lx ansibi obwiepʋ
 \ph ansibi obwiepʊ́
 \ps n
+\pl ansibi abwiepʋ
+\plph ansibi abwiepʊ́
 \sn
 \ge blind person
 \is 2.5.4.1
 \de person that cannot see
-\pl ansibi abwiepʋ
-\plph ansibi abwiepʊ́
 \nt
 \et bwie ansibi – broken eyes
 \xv Ansibi obwiepʋ amʋ otse ɔsʋsʋ amʋ lawu.
@@ -2741,12 +2741,12 @@
 \lx anyɩnapɛpɛ
 \ph aɲɪnapɛpɛʔ(L)
 \ps n
+\pl anyɩnapɛpɛ
+\plph aɲɪnapɛpɛ
 \sn
 \ge very tiny red ant
 \is 1.6.1.7
 \de tiny red ant
-\pl anyɩnapɛpɛ
-\plph aɲɪnapɛpɛ
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
@@ -3472,12 +3472,12 @@
 \lx atadɩɛ
 \ph atadɪɛ (H)
 \ps n
+\pl ntadɩɛ
+\plph ntadɪɛ
 \sn
 \ge dress
 \is 5.3
 \de European style clothing; dress, trousers, shirt
-\pl ntadɩɛ
-\plph ntadɪɛ
 \bw Akan fi:atadɩ LLH
 \rf Tape:1-2-161
 \xv Nyebi bʋtamakle atadɩɛ wa, okunku sʋ.
@@ -3608,13 +3608,13 @@
 \lx atɔ owunpʋ
 \ph atɔ owũ̂mpʊʔ
 \ps n
+\pl atɔ awunpʋ
+\plph atɔ awũ̂mpʊ
 \sn
 \ge diviner
 \is 4.9.4.7
 \is 4.9.7.7
 \de one who sees the future
-\pl atɔ awunpʋ
-\plph atɔ awũ̂mpʊ
 \na Some people just see things in a vision, but some people use various methods such as looking in water.
 \xv Atɔ owunpʋ towun atɔ ánɩ́ bɛ́ba, bla aha mɛnɩ bɛ́da wɩsʋ.
 \xe A diviner sees the things that will come and tells people so that they can watch out.
@@ -3623,12 +3623,12 @@
 \lx atɔ ɔbɩnpʋ
 \ph atɔ́ ɔbɪ̃́mpʊ
 \ps n
+\pl atɔ abɩnpʋ
+\plph atɔ́ abɪ́npʊ
 \sn
 \ge seamstress/tailor
 \is 6.6.1
 \de seamstress or tailor
-\pl atɔ abɩnpʋ
-\plph atɔ́ abɪ́npʊ
 \xv Atɔ ɔbɩnpʋ amʋ dɛ mɩ atadɩɛ bɩn.
 \xe The seamstress/tailor is sewing my clothes.
 \nt see bɩn
@@ -3637,12 +3637,12 @@
 \lx atɔ ɔfɛpʋ
 \ph atɔ́ ɔfɛpʊ́ʔ
 \ps n
+\pl atɔ afɛpʋ
+\plph atɔ́ afɛpʊ́
 \sn
 \ge trader
 \is 6.8.4.2
 \de petty trader
-\pl atɔ afɛpʋ
-\plph atɔ́ afɛpʊ́
 \xv Atɔ ɔfɛpʋ amʋ ɔlɔhɔ atɔ ba bɛfɛ.
 \xe The petty trader bought things in order to come and sell.
 \cf bia ogyipʋ
@@ -3654,12 +3654,12 @@
 \lx atɔ ɔlapʋ
 \ph atɔ́ ɔlapʊ́
 \ps n
+\pl atɔ alapʋ
+\plph atɔ́ alapʊ́
 \sn
 \ge soothsayer
 \is 4.9.4.7
 \de a person who practice soothsaying
-\pl atɔ alapʋ
-\plph atɔ́ alapʊ́
 \xv Oyin ɔkʋ lawun isuna ánɩ́ omonu mʋ́ asɩ, sʋ ɔyɔ atɔ ɔlapʋ woyi yɛfɩtɛ atɔ.
 \xe A certain man has seen a sign which he did not understand, so he is going to a soothsayer's house to consult him.
 \cf atɔ owunpʋ
@@ -4290,12 +4290,12 @@
 \lx baba
 \ph babaʔ
 \ps n
+\pl ababa
+\plph abábaʔ
 \sn
 \ge termite
 \is 1.6.1.7
 \de termite
-\pl ababa
-\plph abábaʔ
 \rf Tape:1-1-054
 \xv Ababa bʋtɔwɩ atati.
 \xe Termites chew cloths.
@@ -4311,13 +4311,13 @@
 \lx baflɛ
 \ph baflɛ́ʔ
 \ps n
+\pl abaflɛ
+\plph abaflɛ́
 \sn
 \ge pawpaw
 \is 6.2.1.7
 \sc Carica papaya
 \de pawpaw
-\pl abaflɛ
-\plph abaflɛ́
 \rf Tape:1-2-306
 \xv Anyawie abasa amʋ bɔyɔtʋ baflɛ lapɛ bla oyi.
 \xe The three friends went and unexpectedly came upon a pawpaw tree full of ripe fruit.
@@ -4399,12 +4399,12 @@
 \lx bamba
 \ph bámbaʔ (L)
 \ps n
+\pl abamba
+\plph abámbaʔ (L)
 \sn
 \ge wing
 \is 1.6.2.1
 \de the wing of a bird
-\pl abamba
-\plph abámbaʔ (L)
 \rf Tape:1-2-328
 \xv Batɛ bamba bʋ ɔdwɛ.
 \xe A chicken's wing is sweet.
@@ -4416,12 +4416,12 @@
 \lx bambi
 \ph bámbiʔ
 \ps n
+\pl abambi
+\plph abámbiʔ
 \sn
 \ge branch
 \is 1.5.5
 \de branch
-\pl abambi
-\plph abámbiʔ
 \xv Ka oyi wʋlɩhɛ bambi ha mɩanpʋ wa ogya.
 \xe Cut a dry tree's branch for me so that I will be able to/should put it on the fire.
 \xe Cut a dry branch for me to put on the fire.
@@ -4461,12 +4461,12 @@
 \lx batafɔ
 \ph batafɔʔ(H)
 \ps n
+\pl abatafɔ
+\plph abatafɔ(H)
 \sn
 \ge bush pig
 \is 1.6.1.1.3
 \de bush pig
-\pl abatafɔ
-\plph abatafɔ(H)
 \na Northern dialect calls bush pig with black skin gyasɩɛpɛ, but the one with red skin is called batafɔ.
 \xv Abatafɔ bʋtɛhɩɛ yinta atɔ ndɔtɔ, titriu mankani pʋ agbodi.
 \xe Bush pigs destroys things on farm very much, especially cocoyam and cassava.
@@ -4475,12 +4475,12 @@
 \lx batɛ
 \ph batɛ(H)
 \ps n
+\pl abatɛ
+\plph abatɛ(H)
 \sn
 \ge fowl
 \is 6.3.6
 \de domestic chicken
-\pl abatɛ
-\plph abatɛ(H)
 \nt Etymology: bʋ atɛ / has feathers
 \na names for domestic animals have undergone taboo deformation.
 \rf Tape:1-2-350
@@ -4632,13 +4632,13 @@
 \lx bɛlɛtɩ
 \ph bɛ́lɛtɪʔ
 \ps n
+\pl abɛlɛtɩ
+\plph abɛ́lɛtɪ
 \sn
 \ge belt
 \is 5.4.1
 \de belt
 \bw English fi:belt
-\pl abɛlɛtɩ
-\plph abɛ́lɛtɪ
 \xv Ayin bʋtɛklɩ bɛlɛtɩ, atsɩ ɛ bʋtɔbɔ abɔsɔʋ.
 \xe Men put on belt and women tie strip of cloth.
 \dt 26/Dec/2012
@@ -4661,12 +4661,12 @@
 \lx bɛnsɩ
 \ph bɛ́nsɪʔ
 \ps n
+\pl abɛnsɩ
+\plph abɛ́nsɪ
 \sn
 \ge basin
 \is 6.7.3
 \de basin
-\pl abɛnsɩ
-\plph abɛ́nsɪ
 \bw English fi:basin
 \rf Tape:1-2-394
 \xv Nɩ fɛba a, hɔ bɛnsɩ gyi atɔ pʋ́ bɛnsɩ sʋrahɛ ba mɩ.
@@ -4759,12 +4759,12 @@
 \lx bia ogyipʋ
 \ph bíá óʤípʊ́ʔ
 \ps n
+\pl bia agyipʋ
+\plph bíá áʤípʊ́
 \sn
 \ge merchant
 \is 6.8.4.2
 \de merchant
-\pl bia agyipʋ
-\plph bíá áʤípʊ́
 \nt atɔ ɔfɛpʋ (petty trader), bia ogyipʋ (merchant)
 \xv Papa Asiedu gyi bia ogyipʋ.
 \xe Papa Asiedu is a merchant.
@@ -4860,14 +4860,14 @@
 \lx bibi
 \ph bíbiʔ
 \ps ADJ
+\pl abibi
+\plph abíbi
 \sn
 \ge black
 \is 8.3.3.3
 \de black
 \cf bi
 \ce blacken, to
-\pl abibi
-\plph abíbi
 \rf Tape:1-2-439
 \xv Kwankwadabi ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe The crow's back is black, it's chest is white.
@@ -5122,13 +5122,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx bɩsɩ
 \ph bɪsɪ(H)
 \ps n
+\pl abɩsɩ
+\plph abɪsɪ(H)
 \sn
 \ge cola nut
 \is 5.2.6
 \is 2.6.6.4
 \de cola nut
-\pl abɩsɩ
-\plph abɪsɪ(H)
 \bw Akan fi:bɩsɩ LH
 \rf Tape:1-2-481
 \xv Bʋtɔwɩ abɩsɩ olitɔ.
@@ -5229,6 +5229,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx blanwɛ
 \ph blanwɛ́
 \ps n
+\pl ablanwɛ
+\plph ablanwɛ́
 \sn
 \ge pan
 \is 6.7.7
@@ -5236,32 +5238,30 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-2-506
 \xv Ɔhagyiɔha otsu mʋ blanwɛ- gyi atɔ ba, ɔbɔhɔ mʋ atogyihɛ.
 \xe Every person should bring his food bowl in order that he will get his food.
-\pl ablanwɛ
-\plph ablanwɛ́
 \nt means the same as bɛnsɩ, which is an English loan word.
 \dt 29/Sep/2013
 
 \lx blanwɛbi
 \ph blanwébi
 \ps n
+\pl ablanwébi
+\plph ablanwɛbi
 \sn
 \ge small pan
 \is 6.7.7
 \de a small pan; also used of the amount that a small pan can hold
-\pl ablanwébi
-\plph ablanwɛbi
 \dt 30/Sep/2013
 
 \lx blawunu
 \ph blawunuʔ
 \ps n
+\pl ablawunu
+\plph ablawunu
 \sn
 \ge basket
 \is 6.7.3
 \de a makeshift basket made from palm fronds
 \na Just used to carry things from farm.
-\pl ablawunu
-\plph ablawunu
 \rf Tape:1-2-510
 \xv Nɔyɔ ndɔtɔ a, mmɔpʋ lakpa ya, sʋ nɔlʋ blawunu pʋ mɩ atɔsʋrahɛ amʋ wa mʋ́tɔ.
 \xe I went to farm and I didn't take a basket there so I wove a basket of palm fronds and put the things I wanted to carry in it.
@@ -5350,12 +5350,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 1
 \ph blɪba(H)
 \ps n
+\pl ablɩba
+\plph ablɪba(H)
 \sn
 \ge million
 \is 8.1.1.1
 \de million
-\pl ablɩba
-\plph ablɪba(H)
 \xv Atɔ amʋ anɩ lɔhɔ amʋ fɛ́ɛ́ igyi sidi blɩba kʋlɛ mʋa ɩfʋn pɛ.
 \xe The whole thing that we bought is one and half million cedis only.
 \dt 19/Jun/2014
@@ -5364,12 +5364,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 2
 \ph blɪba
 \ps n
+\pl ablɩba
+\plph ablɪba
 \sn
 \ge pincer
 \is 1.6.2.5
 \de pincer of a crab
-\pl ablɩba
-\plph ablɪba
 \xv Fɛkɩta ɔkɔtɔ a, lehian ánɩ́ fɛfaan mʋ ablɩba. Mɛnɩ ɔmɛ́ɛkpa kɩta fʋ.
 \xe If you catch a crab, it is necessary to disable its claws. Then it won't pinch you.
 \dt 07/Sep/2016
@@ -5377,12 +5377,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx blɩbɛ
 \ph blɪbɛ(H)
 \ps n
+\pl ablɩbɛ
+\plph ablɪbɛ(H)
 \sn
 \is 6.2.1.4
 \ge pineapple
 \de pineapple
-\pl ablɩbɛ
-\plph ablɪbɛ(H)
 \bw Akan fi:brʋbɛ LH
 \rf Tape:1-2-524
 \xv Blɩbɛ ntsu bʋ ɔdwɛ.
@@ -5497,12 +5497,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx bokiti
 \ph bókitiʔ
 \ps n
+\pl abokiti
+\plph abókitiʔ (L)
 \sn
 \ge bucket
 \is 6.6.7.2
 \de bucket
-\pl abokiti
-\plph abókitiʔ (L)
 \bw English fi:bucket
 \xv Otsibi amʋ dɛ atɔ fwɩ bokiti amʋtɔ.
 \xe The girl is washing in the bucket.
@@ -5549,12 +5549,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx bonbolintsu
 \ph bónbólint͡sú (H)
 \ps n
+\pl bonbolintsu nyi
+\plph bónbólint͡sú nyí
 \sn
 \ge Tulip tree
 \is 1.5.1
 \de tulip tree
-\pl bonbolintsu nyi
-\plph bónbólint͡sú nyí
 \rf Tape:1-2-552
 \xv Bonbolintsu gyi oyi ánɩ́ tomoni swie flawasɩ pɛpɛ. Bʋtɛmaɩn mʋ́ afwɩ pʋwa ɩkʋtɔ nɩna obugya afa.
 \xe The tulip tree is a big tree that bears red flowers. They remove the bark and put it in medicine for the blood (they combine it with bark from several different kinds of trees – including mahogany bark).
@@ -5563,13 +5563,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx botodua
 \ph botodua (H)
 \ps n
+\pl abotodua
+\plph abotodua (H)
 \sn
 \ge bamboo
 \is 6.2.5.4
 \is 6.6.3
 \de bamboo
-\pl abotodua
-\plph abotodua (H)
 \bw Akan fi:bɔtɔ dua "sack tree" but Twi word is pamprʋ
 \rf Tape:1-2-560
 \xv Botodua bɔɩhɛ bʋ ogya. Sʋ nɩ fʋdɛpʋ yɔ agyʋma a, kɩ wanklaan; tsufɛ ɩtɛka.
@@ -5680,24 +5680,24 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx bɔnbɔntɩ
 \ph bɔnbɔntɪ́
 \ps n
+\pl abɔnbɔntɩ
+\plph abɔnbɔntɪ́
 \sn
 \ge daubing wasp
 \is 1.6.1.7
 \de wasp that build mud nest
-\pl abɔnbɔntɩ
-\plph abɔnbɔntɪ́
 \dt 08/Feb/2014
 
 \lx bɔnɔ
 \ph bɔnɔʔ (L)
 \ps n
+\pl abɔnɔ
+\plph abɔ́nɔʔ (L)
 \sn
 \ge egg
 \is 1.6.2.1
 \is 6.3.6
 \de egg
-\pl abɔnɔ
-\plph abɔ́nɔʔ (L)
 \xv Mɩ batɛ laka bɔnɔ kʋlɛ.
 \xe My hen has laid an egg.
 \bb Stewart List:0705
@@ -5823,13 +5823,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx brigyi
 \ph briʤi
 \ps n
+\pl abrigyi
+\plph abríʤi
 \sn
 \ge bridge
 \is 6.5.4.1
 \de a bridge
 \bw English fi:bridge
-\pl abrigyi
-\plph abríʤi
 \xv Oyin amʋ ɔdɛ anɩ ɔkpa bwɛ amʋ yin abrigyi bwɛ.
 \xe The contractor building our road knows how to build bridges.
 \dt 01/Oct/2015
@@ -5849,13 +5849,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx brɔdʋma
 \ph brɔ́dʊma(H)
 \ps n
+\pl abrɔdʋma
+\plph abrɔ́dʊma
 \sn
 \ge dove
 \is 1.6.1.2
 \is 6.3.6
 \de pigeon; dove; often used as a sign for peace
-\pl abrɔdʋma
-\plph abrɔ́dʊma
 \bw Akan fi:abrɔnʋma LHHL
 \xv Brɔdʋma gyi obwibwi ɔkʋa mʋ́ iyietɔ bʋ ɔdwɛ.
 \xe Dove is a bird that its meat is sweet.
@@ -5866,12 +5866,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx brɔnʋ
 \ph brɔnʊ(H)
 \ps n
+\pl abrɔnʋ
+\plph abrɔnʊ
 \sn
 \ge street
 \is 6.5.4.1
 \de street
-\pl abrɔnʋ
-\plph abrɔnʊ
 \bw Akan fi:brɔnʋ LH
 \nt often brɔnʋsʋ
 \rf Tape:2-1-004
@@ -6072,12 +6072,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx bunti
 \ph buntîʔ
 \ps n
+\pl abunti
+\plph abuntíʔ
 \sn
 \ge wall
 \is 6.5.2.1
 \de wall
-\pl abunti
-\plph abuntíʔ
 \xv bunti
 \xe wall of a room
 \rf Tape:2-1-066
@@ -6117,12 +6117,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx buto
 \ph butó
 \ps n
+\pl abuto
+\plph abutó
 \sn
 \ge bead
 \is 5.5.2
 \de bead
-\pl abuto
-\plph abutó
 \cf butobi
 \ce small bead
 \xv Ɔtsɩ amʋ́ʋ́ ɔtɛfɛ abuto amʋ laba nfɩ igye.
@@ -6144,12 +6144,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx butobi
 \ph butóbí
 \ps n
+\pl abutobi
+\plph abutóbí
 \sn
 \ge small bead
 \is 5.5.2
 \de small bead
-\pl abutobi
-\plph abutóbí
 \dt 05/Jul/2013
 
 \lx bʋ
@@ -6392,12 +6392,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx bʋnkpa
 \ph bʊŋ͡mk͡pa(H)
 \ps n
+\pl abʋnkpa
+\plph abʊŋ͡mk͡pa(H)
 \sn
 \ge riverbed
 \is 1.3.1.3
 \de riverbed
-\pl abʋnkpa
-\plph abʊŋ͡mk͡pa(H)
 \rf Tape:5-1-486
 \xv Nwunkpodikpodi sɔɔn bʋ Otukpe bʋnkpatɔ.
 \xe Many tadpoles are in the Otukpe riverbed.
@@ -6406,12 +6406,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx bʋtɩ
 \ph bʊ́tɪ́
 \ps n
+\pl abʋtɩ
+\plph abʊ́tɪ́
 \sn
 \ge python
 \is 1.6.1.3.1
 \de python
-\pl abʋtɩ
-\plph abʊ́tɪ́
 \sc Python sebae
 \xv Abʋtɩ bʋtetsia patɩtɔ.
 \xe Pythons live in swampy places.
@@ -6746,12 +6746,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dada
 \ph dáda
 \ps n
+\pl adada
+\plph adáda
 \sn
 \ge old
 \is 8.4.6.5.2
 \de old
-\pl adada
-\plph adáda
 \nt seems to be reduplication because you have tatida - rag (old cloth)
 \rf Tape:2-1-200
 \xv Mɩ tati amʋ labwɛ dada, sʋ nɔ́pʋbwɛ tatida. Fɔkwɩɩ a, fapʋ kebi amʋ tswɩ mʋ́sʋ.
@@ -6766,13 +6766,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dadɩsɛɩn
 \ph dadɪsɛ́ɪ̃́
 \ps n
+\pl adadɩsɛɩn
+\plph adadɪsɛ́ɪ̃́
 \sn
 \ge cooking pot
 \is 5.2.1.3
 \is 6.7.7
 \de large cooking pot with handles
-\pl adadɩsɛɩn
-\plph adadɪsɛ́ɪ̃́
 \xv Mɩ dadɩsɛɩn bʋ odwin dʋn fʋ klɛ, tamɛ fʋklɛ bʋ akɩlɛ dʋn mɩ klɛ.
 \xe My aluminium pot is heavier than yours, but yours is looks nicer than mine.
 \nt They come in different numbered sizes with the size number stamped on them
@@ -6825,6 +6825,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx daka
 \ph dáka(H)
 \ps n
+\pl adaka
+\plph adáka(H)
 \sn 1
 \ge box
 \is 6.7.7
@@ -6834,8 +6836,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Atɛplɛ bawie mɩ dakatɔ, bʋdɛ atɔ yinta. Sʋ ndɛ afa kle ampʋwʋlɩ amʋ́sʋ.
 \xe Cockroaches have entered my box. They are spoiling things, so I want medicine to sprinkle on them.
 \bb Stewart List:1182
-\pl adaka
-\plph adáka(H)
 \cf dakabi
 \ce small box
 \ps n
@@ -6871,13 +6871,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dakpikpi
 \ph dak͡pík͡pí
 \ps n
+\pl adakpikpi
+\plph adak͡pík͡pí
 \sn
 \ge wild cat
 \is 1.6.1.1.2
 \de wild cat
 \sc Felis silvestris libyca?
-\pl adakpikpi
-\plph adak͡pík͡pí
 \dt 08/Sep/2016
 
 \lx dalɩ
@@ -6922,12 +6922,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \va damantu
 \vaph damantú
+\pl adamantsu
+\plph adamant͡sú
 \sn
 \ge red ant
 \is 1.6.1.7
 \de a red ant which lives in trees
-\pl adamantsu
-\plph adamant͡sú
 \xv Adamantsu boputa ɔdɔtɔpʋ ɔkʋ mʋ ndɔtɔ olesi ɔlɩɩ ɔdɛ amʋ́ kpakpa.
 \xe Red ants went all over the body of a certain farmer on his farm and he stood up in order to rub them off.
 \cf ɔtɔntrɔbwɩ
@@ -6988,12 +6988,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dango
 \ph daŋgó
 \ps n
+\pl adango
+\plph adaŋgó
 \sn
 \ge rabbit
 \is 1.6.1.1.4
 \de rabbit
-\pl adango
-\plph adaŋgó
 \bw Akan fi:adanko LLH
 \rf Tape:1-1-125
 \xv Kofi dɛ adango yaɩ amʋ́ woyitɔ.
@@ -7054,6 +7054,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx datɔ
 \ph dátɔ (L)
 \ps n
+\pl adatɔ
+\plph adátɔ (L)
 \sn
 \ge metal
 \is 6.6.2.3
@@ -7071,8 +7073,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Datɔ ɔfɛ tɔwa ɔsa mli dʋn fla.
 \xe Wire (metal rope) tangles more easily than vine.
 \bb Stewart List:1032
-\pl adatɔ
-\plph adátɔ (L)
 \dt 19/Jul/2016
 
 \lx datu
@@ -7121,13 +7121,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx deyi
 \ph déiʔ
 \ps n
+\pl adeyi
+\plph adéiʔ
 \sn
 \ge monkey
 \is 1.6.1.1.1
 \de monkey
 \nt also kʋtɩ
-\pl adeyi
-\plph adéiʔ
 \rf Tape:2-1-279
 \xv Nɩ deyi dɛda oyitɔ, fʋlɩɩ fʋdɛkɩ a, ɩbʋ akɩlɛ.
 \xe If a monkey is in a tree and you stand and look it is good to look at.
@@ -7203,12 +7203,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dɛdɛ
 \ph dɛdɛ́
 \ps ADJ
+\pl adɛdɛ
+\plph adɛdɛ
 \sn 1
 \ge sweet
 \is 2.3.3
 \de sweet
-\pl adɛdɛ
-\plph adɛdɛ
 \sy debidebi
 \rf Tape:2-1-288
 \xv Bʋdɛ nta dɛdɛ fɛ biasʋ.
@@ -7332,13 +7332,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dɩba
 \ph dɪbaʔ (L)
 \ps n
+\pl adɩba
+\plph adɪ́ba
 \sn
 \ge bedbug
 \is 1.6.1.7
 \is 7.1.3
 \de bedbug
-\pl adɩba
-\plph adɪ́ba
 \xv Igye onye adɩba bɛhan mɩ ɔklansʋ, sʋ mmɛdɩdɩ.
 \xe Last night my sleeping mat was infested with bedbugs so I didn't sleep.
 \xv Adɩba sɔɔn bʋ oyin anfɩ atadɩɛtɔ.
@@ -7597,12 +7597,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dɔkɩta
 \ph dɔkɪ́ta
 \ps n
+\pl adɔkɩtafɔ
+\plph adɔkɪ́tafɔ
 \sn
 \ge doctor
 \is 2.5.7.1
 \de doctor
-\pl adɔkɩtafɔ
-\plph adɔkɪ́tafɔ
 \xv Oyin amʋ lasuna ɔwʋlʋ alɩa, alabwɛ ɔwʋlʋtɔ ɔbɩntɔpʋ dɔkɩta.
 \xe The man has studied hard to become a doctor.
 \nt need a better translation for ɔwʋlʋtɔ ɔbɩntɔpʋ dɔkɩta
@@ -7741,12 +7741,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx duku
 \ph dúkuʔ
 \ps n
+\pl aduku
+\plph adúkuʔ
 \sn
 \ge scarf
 \is 5.4.3.2
 \de scarf
-\pl aduku
-\plph adúkuʔ
 \bw Akan fi:duku LL
 \rf Tape:2-1-382
 \xv Nɔhɔ duku wanklaan ba mɩ ka.
@@ -7789,13 +7789,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dundu
 \ph dunduʔ
 \ps n
+\pl adundu
+\plph adúnduʔ
 \sn
 \ge leopard
 \is 1.6.1.1.2
 \de leopard
 \sc Panthera pardus
-\pl adundu
-\plph adúnduʔ
 \rf Tape:2-1-388
 \xv Dundu tɛkɩta mʋ aba mbwɩ, wɩ amʋ́.
 \xe A leopard always catches his neighbour's animals and eats them.
@@ -8038,12 +8038,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \vaph ɔfɛ́ banʤa
 \ve Northern
 \ph ɔfɛ́ bã́nʤá
+\pl nfɛ
+\plph ɱfɛ́
 \sn
 \ge axe
 \is 6.2.8
 \de axe
-\pl nfɛ
-\plph ɱfɛ́
 \rf Tape:5-2-334
 \xv Mbʋ ɛfɛ kʋ, mʋ́ ɔnɔ bʋ ogya.
 \xe I have an axe, it is sharp.
@@ -8106,14 +8106,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \va ɔwɛ
 \ve Northern
+\pl nwɛ
+\plph nwɛ(H)
 \sn
 \ge calabash
 \is 1.5.3
 \is 1.5.5
 \is 6.7.7
 \de calabash
-\pl nwɛ
-\plph nwɛ(H)
 \xv Kebi amʋ dɛ ntsu nun ɛwɛ amʋtɔ.
 \xe The child is drinking water in the calabash.
 \rf Tape:6-1-567
@@ -8210,12 +8210,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx faasɩ
 \ph faːsɪ (H)
 \ps n
+\pl afaasɩ
+\plph afaːsɪ (H)
 \sn
 \ge water yam
 \is 6.2.1.2
 \de water yam
-\pl afaasɩ
-\plph afaːsɪ (H)
 \rf Tape:2-1-448
 \xv Faasɩ tɔyɔpɔn dʋn igyo, sʋ megyi mʋ́ fɛ́ɛ́ bʋtɔpʋ wɔ fufu. Ɩbʋ alɛ ha nyɔmba.
 \xe Water yam is softer than yam so all of it isn't good for making fufu. It is good for nyɔmba.
@@ -8255,12 +8255,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx fantɩ
 \ph fãntɪʔ
 \ps n
+\pl afantɩ
+\plph afã́ntɪʔ
 \sn
 \ge cricket
 \is 1.6.1.7
 \de cricket
-\pl afantɩ
-\plph afã́ntɪʔ
 \rf Tape:2-1-445
 \xv Otsu lɛkɩta afantɩ. Abɔ́wɩ!
 \xe He has come from catching crickets. We will eat!
@@ -8566,12 +8566,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx finfi
 \ph fiɱfiʔ(L)
 \ps n
+\pl afinfi
+\plph afíɱfiʔ(L)
 \sn
 \ge ant
 \is 1.6.1.7
 \de a small black ant that stings (but not severely); generic term
-\pl afinfi
-\plph afíɱfiʔ(L)
 \xv Fatsa mɩ woyitɔ afinfi fɛ́ɛ́ mɔ.
 \xl You have stepped on all the ants in my house and killed them
 \xe You have come to my house so many times that I'm weary of it.
@@ -8759,13 +8759,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx flawasɩ
 \ph fláwasɪʔ
 \ps n
+\pl aflawasɩ
+\plph afláwasɪʔ
 \sn
 \ge flower
 \is 1.5.5
 \is 1.5.5
 \de flower
-\pl aflawasɩ
-\plph afláwasɪʔ
 \bw English fi:flowers
 \xv Flawasɩ gyi tɔa ɩbʋ akɩlɛ wanklaan.
 \xe Flowers is something very beautiful.
@@ -8824,13 +8824,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx fonflo
 \ph foɱfloʔ
 \ps n
+\pl afonflo
+\plph afoɱfloʔ
 \sn
 \ge caterpillar
 \is 1.6.3
 \is 1.6.1.7
 \de non-stinging caterpillar
-\pl afonflo
-\plph afoɱfloʔ
 \xv Konkolibatɛ asɩ itsu fonflo.
 \xe A butterfly comes from a caterpillar.
 \xv Fonflo tɛdamli bwɛ konkolibatɛ.
@@ -9196,12 +9196,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx fʋlɩtɩ
 \ph fʊlɪtɪ́
 \ps n
+\pl afʋlɩtɩ
+\plph afʊlɪtɪ́
 \sn
 \ge deer
 \is 1.6.1.1.3
 \de deer
-\pl afʋlɩtɩ
-\plph afʊlɪtɪ́
 \rf Tape:2-1-045
 \xv Fʋlɩtɩ iye bʋ ɔdwɛ.
 \xe Deer meat is good to eat.
@@ -9398,25 +9398,25 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx galɔn
 \ph gálɔ̃ʔ
 \ps n
+\pl agalɔn
+\plph agálɔ̃ʔ
 \sn
 \ge gallon
 \is 6.7.7
 \de a gallon container; also used of the amount.
-\pl agalɔn
-\plph agálɔ̃ʔ
 \bw English fi:gallon
 \dt 30/Sep/2013
 
 \lx ganu
 \ph ganú
 \ps n
+\pl aganu
+\plph aganú
 \sn
 \ge can
 \is 6.7.7
 \is 8.2.5.1
 \de can
-\pl aganu
-\plph aganú
 \bw Ewe fi:ganu (LH) ga - iron; nu - container
 \rf Tape:2-2-117
 \xv Ganu amʋtɔ lawɩ nkandʋ.
@@ -9429,12 +9429,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gate
 \ph gaté
 \ps n
+\pl agate
+\plph agaté
 \sn
 \ge grinding mill
 \is 5.2.1.2.3
 \de gas powered grinding mill
-\pl agate
-\plph agaté
 \bw Ewe fi:gate (LL) ga - iron, tunu - grind things
 \rf Tape:2-2-126
 \xv Gate amʋ dɛ kpoli kwɛ.
@@ -9485,12 +9485,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gbengbe
 \ph g͡bẽŋ͡mg͡bé
 \ps n
+\pl agbengbe
+\plph ag͡bẽŋ͡mg͡bé
 \sn
 \ge shore
 \is 1.3.1.1
 \de sea shore
-\pl agbengbe
-\plph ag͡bẽŋ͡mg͡bé
 \xv Ɩsɩ tsɔtsɔɔtsɔ bʋ ɔpʋ ɔnɔ nʋ.
 \xe We have much sand on the seashore.
 \xv Nɩ fɛkɩ ntsu gbengbe a, fʋmɛtalɩ nun mʋ́tɔ ntsu ɩnʋ.
@@ -9531,13 +9531,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gbɔngblɛn
 \ph g͡bɔ́ŋ͡mg͡blɛ̃́
 \ps n
+\pl agbɔnblɛn
+\plph ag͡bɔ́ŋ͡mg͡blɛ̃́
 \sn
 \ge dustpan
 \is 8.3.7.8.3
 \is 5.1
 \de dustpan
-\pl agbɔnblɛn
-\plph ag͡bɔ́ŋ͡mg͡blɛ̃́
 \nt from the sound it makes
 \xv ipi kpatɔ akɩɛnsɩ; gbɔngblɛn
 \xe rubbish gather thing metal. dustpan
@@ -9658,12 +9658,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gyabɛ
 \ph ʤabɛʔ
 \ps n
+\pl agyabɛ
+\plph aʤábɛ̂ʔ
 \sn
 \ge squirrel
 \is 1.6.1.1.4
 \de tree squirrel
-\pl agyabɛ
-\plph aʤábɛ̂ʔ
 \cf ɔtɛ2
 \ce ground squirrel
 \rf Tape:2-2-169
@@ -9698,13 +9698,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gyagya
 \ph ʤaʤaʔ
 \ps n
+\pl agyagya
+\plph aʤáʤaʔ
 \sn
 \ge bat
 \is 1.6.1.1.8
 \de bat
 \sc Order Chiroptera
-\pl agyagya
-\plph aʤáʤaʔ
 \rf Tape:2-2-178
 \xv Mbubwi pʋ́ agyagya bʋtofuli, tamɛ agyagya bʋtofuli yɔ anwunsʋ dʋn mbubwi.
 \xe Birds and bats both fly but bats fly higher than birds.
@@ -9792,12 +9792,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gyantra
 \ph ʤantra
 \ps n
+\pl agyantra
+\plph aʤantra
 \sn
 \ge prostitute
 \is 2.6.2.3
 \de a woman that does not stay with one man
-\pl agyantra
-\plph aʤantra
 \bw Akan fi:gyantra ni
 \xv Ɔtsɩ anfɩ labwɛ gyantra alɩɩ pʋ kɩ mʋ abisʋ.
 \xe This woman has been a prostitute in order to care for her children.
@@ -9806,12 +9806,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gyasɩɛpɛ
 \ph ʤasɪɛpɛʔ
 \ps n
+\pl agyasɩɛpɛ
+\plph aʤásɪ́ɛ́pɛʔ
 \sn
 \ge bush pig
 \is 1.6.1.1.3
 \de wild boar
-\pl agyasɩɛpɛ
-\plph aʤásɪ́ɛ́pɛʔ
 \nt gyasɩɛpɛ is brown - batafɔ is black -FO
 \rf Tape:2-2-207
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
@@ -9821,13 +9821,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gyata
 \ph ʤatá
 \ps n
+\pl agyata
+\plph aʤatá
 \sn
 \ge lion
 \is 1.6.1.1.2
 \de lion
 \sc Panthera leo
-\pl agyata
-\plph aʤatá
 \bw Akan fi:gyata LH
 \rf Tape:2-2-212
 \xv Gyata amʋ osietɔ igyi lekelekeleke.
@@ -9849,13 +9849,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gyawugya
 \ph ʤawuʤá
 \ps n
+\pl agyawugya
+\plph aʤawuʤá
 \sn
 \ge red ant
 \is 1.6.1.7
 \de tiny red ant
 \na Doesn't make permanent nests; lives in kitchens and gets into just everything.
-\pl agyawugya
-\plph aʤawuʤá
 \rf Tape:2-2-217
 \xv Agyawugya babʋla asikre daka amʋ.
 \xe The little red ants have filled the sugar box.
@@ -10179,13 +10179,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx gyongyo
 \ph ʤonʤoʔ
 \ps n
+\pl agyongyo
+\plph aʤónʤóʔ
 \sn
 \ge toad
 \is 1.6.1.4
 \de toad
 \sc Amietophrynus regularis
-\pl agyongyo
-\plph aʤónʤóʔ
 \cf okle
 \ce frog
 \rf Tape:2-2-278
@@ -10656,11 +10656,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx hontro
 \ph hontro(H)
 \ps n
+\pl ahontro
+\plph ahontro
 \sn
 \ge shell
 \is 1.6.2.5
-\pl ahontro
-\plph ahontro
 \de snail shell
 \xv Obien tamanatɩ si mʋ hontro.
 \xe A snail does not travel without its shell.
@@ -10833,12 +10833,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ibebi
 \ph ibébiʔ
 \ps n
+\pl abebi
+\plph abébi
 \sn
 \ge palm kernel
 \is 6.2.1.7
 \de palm kernel
-\pl abebi
-\plph abébi
 \rf Tape:1-1-070
 \xv Bebi dɩ ɔsʋlʋtɔ wa ɔpá a, ɩtɔkwɛ mlin ɔbɛ.
 \xe If a palm nut stays in the ground a long time it will germinate, turn into a palm tree.
@@ -10853,6 +10853,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ibi
 \ph ibí (H)
 \ps n
+\pl abi
+\plph abí (H)
 \sn 1
 \ge seed
 \is 1.5.5
@@ -10865,8 +10867,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge offspring
 \is 4.1.9.1.4
 \de offspring of an animal
-\pl abi
-\plph abí (H)
 \bb Stewart List:0860
 \dt 20/Jul/2016
 
@@ -10928,13 +10928,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ibun
 \ph ibṹʔ
 \ps n
+\pl abun
+\plph abṹ
 \sn
 \ge well
 \is 1.3.1.4
 \is 6.6.7.2
 \de well of water
-\pl abun
-\plph abṹ
 \rf Tape:5-2-239
 \xv Ibun amʋ bʋ oklu, sʋ mmɛ́ɛtalɩ sa ntsu amʋ. Tsufɛsɛ, mɩ ɔfɛ amʋ mɔ́ɔfʋn.
 \xe The well is deep so I cannot draw water from it because my rope will not reach.
@@ -10944,12 +10944,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ibwi
 \ph ibwi (H)
 \ps n
+\pl abwi
+\plph abwi (H)
 \sn 1
 \ge stone
 \is 1.2.2.2
 \de stones
-\pl abwi
-\plph abwi (H)
 \xv Balɛ mʋ ibwi.
 \xe They have taken out his stone; He has fallen into disrepute; no one bothers him. He has been declared an outcast.
 \nt idiom
@@ -10969,12 +10969,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ibwi alatɔ
 \ph ibwi alatɔ(H)
 \ps n
+\pl abwi alatɔ
+\plph abwi alatɔ(H)
 \sn
 \ge cave
 \is 1.2.1.5
 \de cave
-\pl abwi alatɔ
-\plph abwi alatɔ(H)
 \xv Abrɛ amʋ bʋ ibwi alatɔ ɩnʋ.
 \xe The antelope is in the cave.
 \dt 19/Jul/2016
@@ -10993,12 +10993,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps NUM
 \va du
 \vaph dú
+\pl adu
+\plph adu
 \sn
 \ge ten
 \is 8.1.1.1
 \de ten
-\pl adu
-\plph adu
 \bb Stewart List:1810
 \dt 01/Oct/2016
 
@@ -11075,13 +11075,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \va fuli
 \vaph fúliʔ
+\pl afuli
+\plph afúliʔ
 \sn
 \ge corpse
 \is 1.4.1
 \is 2.6.6.2
 \de corpse, ghost
-\pl afuli
-\plph afúliʔ
 \rf Tape:2-1-572
 \xv Kufa fuli da lɔɔrɩ ɔkpasʋ, lɔɔrɩ lamɔ mʋ.
 \xe A sheep corpse lies on the road. A truck has killed him.
@@ -11206,12 +11206,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ikpin
 \ph ik͡pĩʔ (L)
 \ps n
+\pl akpin
+\plph ak͡pĩʔ
 \sn
 \ge garden egg
 \is 6.2.1.3
 \de egg plant; garden egg
-\pl akpin
-\plph ak͡pĩʔ
 \rf Tape:2-2-394
 \xv Bʋtɔpʋ akpin wa oputsutɔ; bʋtɔpʋ kwɛ aboun ɛ.
 \xe They take garden eggs and put them in soup and they grind them and put them in stew also.
@@ -11221,12 +11221,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx iku
 \ph ikúʔ
 \ps n
+\pl aku
+\plph akú
 \sn 1
 \ge group
 \is 8.3.1.8
 \de group, as in a group of people
-\pl aku
-\plph akú
 \bw Akan fi:kuw H
 \ps n
 \sn 2
@@ -11327,12 +11327,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx imu
 \ph imuʔ (L)
 \ps n
+\pl amu
+\plph amuʔ (L)
 \sn
 \ge cluster
 \is 8.3.1.8
 \de cluster
-\pl amu
-\plph amuʔ (L)
 \xv apʋsɛ imu
 \xe pepper cluster
 \rf Tape:2-2-417
@@ -11389,12 +11389,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ipu
 \ph ipu (H)
 \ps n
+\pl apu
+\plph apu
 \sn 1
 \ge stomach
 \is 2.1.8.2
 \de stomach
-\pl apu
-\plph apu
 \cf ɔmɛ2 1
 \ce belly
 \rf Tape:2-2-436
@@ -11416,12 +11416,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ipubi
 \ph ipubí
 \ps n
+\pl apubi
+\plph apubí
 \sn
 \ge small stomach
 \is 2.1.8
 \de small stomach
-\pl apubi
-\plph apubí
 \xv Mmenya Natɩ, ndɛ mʋ apubi.
 \xl I didn't get Spider, I hold his small stomach.
 \xe I didn't get what I want, but I have something have something I can hold.
@@ -11430,13 +11430,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx isia
 \ph isia
 \ps n
+\pl asia
+\plph asiaʔ
 \sn
 \ge nest
 \is 1.6.1.2
 \is 1.6.5
 \de bird's nest
-\pl asia
-\plph asiaʔ
 \rf Tape:2-2-441
 \xv Mbubwi bʋtɛla sia, tamɛ agyagya mʋ́ bʋtamala sia.
 \xe Birds make nests but bats never make nests.
@@ -11446,12 +11446,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx isiabi
 \ph isiabí (H)
 \ps n
+\pl asiabi
+\plph asiabí (H)
 \sn
 \ge insult
 \is 3.5.1.8.2
 \de the contents of an insult
-\pl asiabi
-\plph asiabí (H)
 \xv Mʋ isiabi gyi Nwun Kpɔnkpɔntɩ.
 \xe His insult is big head. (He has a big head physically).
 \dt 16/Jul/2016
@@ -11495,13 +11495,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx isutin
 \ph isutĩ́
 \ps ADJ
+\pl asutin
+\plph asutĩ́
 \sn 1
 \ge deaf
 \is 2.5.4.3
 \de deaf
 \lt ɩsʋ "ear" tin "plug"
-\pl asutin
-\plph asutĩ́
 \ps n
 \sn 2
 \ge deaf person
@@ -11577,12 +11577,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx itsu
 \ph it͡sú
 \ps n
+\pl atsu
+\plph at͡sú
 \sn
 \ge pile
 \is 8.1.3.3
 \de pile or heap
-\pl atsu
-\plph at͡sú
 \nt older Nkonya form; iku (Akan) is heard more often)
 \dt 22/Jul/2016
 
@@ -11655,12 +11655,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx iwu
 \ph iwúʔ(H)
 \ps n
+\pl awu
+\plph awu
 \sn
 \ge bone
 \is 2.1.6
 \de bone
-\pl awu
-\plph awu
 \rf Tape:2-2-458
 \xv Iyie amʋ iwu lawɔ mɩ.
 \xe The fish bone has stabbed me.
@@ -11691,12 +11691,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx iyabwi
 \ph iyabwi (H)
 \ps n
+\pl ayabwi
+\plph ayabwi (H)
 \sn
 \ge grinding stone
 \is 5.2.1.3
 \de grinding stone (upper)
-\pl ayabwi
-\plph ayabwi (H)
 \bb Stewart List:1261
 \dt 30/Jun/2014
 
@@ -11704,12 +11704,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 1
 \ph iyeʔ
 \ps n
+\pl aye
+\plph ayeʔ
 \sn
 \ge meat; fish
 \is 6.4.5
 \de meat; fish
-\pl aye
-\plph ayeʔ
 \rf Tape:2-2-467
 \xv Ntsutso iye fɛnɩna, ntɛ ɔbwɩ iye.
 \xe Have you cooked fish or animal meat.
@@ -11747,12 +11747,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx iyin
 \ph iɲĩ́ʔ
 \ps n
+\pl anyin
+\plph aɲĩ́ʔ
 \sn
 \ge tooth
 \is 2.1.1.5
 \de tooth
-\pl anyin
-\plph aɲĩ́ʔ
 \xv Ɩtswɛ ɩkʋlɛ lakpa mʋ inyin kʋlɛ.
 \xe One blow has removed his one tooth.
 \rf Tape:2-2-426
@@ -11857,13 +11857,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 1
 \ph ɪba(H)
 \ps n
+\pl aba
+\plph aba(H)
 \sn
 \ge shoulder
 \is 2.1.2
 \is 2.1.3.1
 \de shoulder includes the upper arm, shoulder and shoulder blade; also used of a forward haunch of an animal
-\pl aba
-\plph aba(H)
 \nt From ths: words for shoulder: ɩta, ɩba, nkɔnkɔ, nkanta
 \rf Tape:2-2-508
 \xv Nɩ fɔpʋ bɩ yɔ agyʋma kinkin a, fʋ ɩbatɔ todwiin fʋ.
@@ -11875,12 +11875,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 2
 \ph ɪba(H)
 \ps n
+\pl aba
+\plph aba(H)
 \sn
 \ge tick
 \is 1.6.1.7
 \de a small blood sucking insect; a tick
-\pl aba
-\plph aba(H)
 \rf Tape:2-2-506
 \xv Aba bayi mɩ kɩaɩ.
 \xe Ticks have stuck onto my dog.
@@ -11891,13 +11891,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 3
 \ph ɪbá
 \ps n
+\pl aba
+\plph abá
 \sn
 \ge slap
 \is 4.8.2
 \de slap repetitively; co-occurs with sɛ
 \nt single slap is ɩba
-\pl aba
-\plph abá
 \xv Nɩ atsɩ bʋdɛkɔ a, bʋtɛsɛ aba aba.
 \xe If women they are fighting (When women fight) they slap each other.
 \xe Women slap each other when they fight.
@@ -11953,12 +11953,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩbɛ
 \ph ɪbɛʔ(H)
 \ps n
+\pl abɛ
+\plph abɛʔ(H)
 \sn
 \ge puff adder
 \is 1.6.1.3.1
 \de puff adder
-\pl abɛ
-\plph abɛʔ(H)
 \dt 30/Sep/2013
 
 \lx ɩbɛ
@@ -11979,12 +11979,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \va abɛtɛ
 \vaph abɛ́tɛʔ
+\pl mbɛtɛ
+\plph mbɛ́tɛʔ
 \sn
 \ge palm thorn
 \is 6.2.1.7
 \de thorny part of a palm nut head
-\pl mbɛtɛ
-\plph mbɛ́tɛʔ
 \ve alternate plural
 \nt some prefer abɛtɛ LHHʔ -FO; pʋ dɩnka ogya abɛtɛtɔ
 \rf Tape:1-2-399
@@ -12067,12 +12067,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 1
 \ph ɪbɔʔ
 \ps n
+\pl abɔ
+\plph abɔʔ
 \sn 1
 \ge cripple
 \is 2.5.4
 \de a cripple
-\pl abɔ
-\plph abɔʔ
 \bb Stewart List:0252
 \ps n
 \sn 2
@@ -12089,12 +12089,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪbɔ́ʔ(H)
 \ps n
 \va bɔ
+\pl abɔ
+\plph abɔ
 \sn
 \ge neck
 \is 2.1.1
 \de neck
-\pl abɔ
-\plph abɔ
 \xv Mʋ bɔ́tɔ kpɩ wahɛ.
 \xe His neck is short.
 \bb SIL-AWL:0023
@@ -12103,12 +12103,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩbʋ
 \ph ɪbʊʔ(H)
 \ps n
+\pl abʋ
+\plph abʊʔ(H)
 \sn
 \ge mountain
 \is 1.2.1.1
 \de mountain
-\pl abʋ
-\plph abʊʔ(H)
 \nt Northern has no plural abʋ is Southern dialect
 \rf Tape:2-2-523
 \xv Ɩbʋ bʋ anɩ wulutɔ, sʋ anɩtɔdɔ ɩbʋsʋ.
@@ -12132,12 +12132,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \va bʋta
 \vaph bʊtá
+\pl abʋta
+\plph abʊtã́
 \sn
 \ge boulder
 \is 1.2.2.2
 \de boulder
-\pl abʋta
-\plph abʊtã́
 \rf Tape:2-1-148
 \xv Anɩlɔdʋ yetsia bʋta kʋsʋ, ɩbʋ amʋsʋ.
 \xe We climbed and sat on a boulder on the mountain.
@@ -12159,12 +12159,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪdáʔ (H)
 \ps n
 \va da
+\pl ada
+\plph adá (H)
 \sn
 \ge name
 \is 9.7
 \de name
-\pl ada
-\plph adá (H)
 \xv Fɛtɩ ɔha da, fatsu obia yaɩ.
 \xe If you called someone's name you have put a chair out for him.
 \xe Free: "Speak of the devil"
@@ -12187,13 +12187,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 1
 \ph ɪdã̂(L)
 \ps n
+\pl ndan
+\plph ndã
 \sn
 \ge storage
 \is 6.2.6.4
 \is 6.5.1.2
 \de a way of storing certain harvested items, e.g., corn, beans, yam, water yam,
-\pl ndan
-\plph ndã
 \xv Kpoli ɩdan igyi aku anyɔ. Gyankpapʋ a, fókwi nyi yi. Fówun faklɩ ntan manta mʋ́ sʋ, da fʋ kpoli akpʋn sian mʋ́ sʋ.
 \xe There are two kinds of corn storage. For the first you set up poles and tie crossbars between them and hang the corn from them.
 \nt cobs are tied together by their husks and hung over the crossbars.
@@ -12220,14 +12220,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩdɩn
 \ph ɪdɪ̃ʔ
 \ps n
+\pl adɩn
+\plph adɪ̃ʔ
 \sn
 \ge mat
 \is 6.2.1.7.2
 \is 6.2.6
 \is 1.3.3.1
 \de mat used for drying cocoa
-\pl adɩn
-\plph adɪ̃ʔ
 \xv Ɩdɩn bwɛ; Fɔbɔɩ awainbi, fɩta mʋ́. Fówun fapʋ otsi ɔfɛ lʋ mʋ́. Mʋ́sʋ bʋtɛfɩta kooko aná nɩ. Bʋtɔbwɛ kʋ ɛ pʋ sian obu ɔnɔ nɩ fʋmɔkʋ sre klʋn wa mʋ́ ɔnɔ.
 \xe How to make a drying mat: You split stripped palm branches and dry them. Then you will take a certain vine and weave them into a mat. On this they dry cocoa and other things (coffee, okra, tomato seeds etc.). They hang them at the entrance of rooms if there is no door.
 \dt 15/Jul/2016
@@ -12268,12 +12268,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩfɛ
 \ph ɪfɛʔ
 \ps n
+\pl afɛ
+\plph afɛʔ
 \sn
 \ge hip
 \is 2.1.3.2
 \de hip
-\pl afɛ
-\plph afɛʔ
 \cf obiantɔ
 \ce thigh
 \xv Atɔ lada mɩ fɛsʋ.
@@ -12285,12 +12285,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩfɩta
 \ph ɪfɪtâːʔ(L)
 \ps n
+\pl afɩta
+\plph afɪta
 \sn
 \ge leaf
 \is 1.5.5
 \de leaf
-\pl afɩta
-\plph afɪta
 \rf Tape:2-1-533
 \xv Kpɔtɩ fɩta ha mɩampʋ mɩ atsulii anfɩ wa mʋ́tɔ.
 \xe Pluck a leaf for me in order that I put these my mushrooms into it.
@@ -12304,12 +12304,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩfla
 \ph ɪfla(H)
 \ps n
+\pl afla
+\plph afla(H)
 \sn
 \ge vine
 \is 1.5.3
 \de vine for tying things, also a sweet potato vine
-\pl afla
-\plph afla(H)
 \rf Tape:2-2-546
 \xv Lɛ ifla ba mɩampʋ klɩ mɩ ngya amʋ ya bu asɩ.
 \xe Remove a vine and bring it to me so I can tie up my firewood and bring it to my farm hut.
@@ -12403,13 +12403,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩfʋnka
 \ph ɪ
 \ps n
+\pl afʋnka
+\plph afʊ́ŋkâʔ
 \sn
 \ge side
 \is 8.6.3
 \is 8.1.1.6
 \de used of a bipolar entity, one of the poles, end or side; used of long objects for ends, flat objects for sides, used metaphorically of sides in a argument or a clan
-\pl afʋnka
-\plph afʊ́ŋkâʔ
 \xv Anɩlayie ndɔ amʋtɔ. Mɩ funka bʋ gyɔpɩsʋ a.
 \xe We have divided the farm. My side is on the right.
 \rf Tape:2-2-076
@@ -12430,12 +12430,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩfwɩ
 \ph ɪfwɪ (H)
 \ps n
+\pl afwɩ
+\plph afwɪ (H)
 \sn 1
 \ge skin
 \is 5.2.1.2
 \de outer skin of something; peel of a fruit or tubers; bark (plural form); fish scales (plural form)
-\pl afwɩ
-\plph afwɪ (H)
 \cf bɔnɔ ɩfwɩ
 \ce eggshell
 \ps n
@@ -12556,12 +12556,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪklʊ̃ʔ(L)
 \ps n
 \va klʋn
+\pl aklʋn
+\plph aklʊ̃ʔ
 \sn
 \ge door
 \is 6.5.2.4
 \de door
-\pl aklʋn
-\plph aklʊ̃ʔ
 \rf Tape:2-2-584
 \xv Mɩ obu ɩklʋn layinta.
 \xe My room's door has spoiled.
@@ -12624,12 +12624,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪkɔ (H)
 \ps n
 \va kɔ
+\pl akɔ
+\plph akɔ
 \sn
 \ge debt
 \is 6.8.5.3
 \de debt
-\pl akɔ
-\plph akɔ
 \rf Tape:2-2-588
 \xv Alaka mɩ kɔ.
 \xe He has paid me.
@@ -12643,11 +12643,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩkpɩ
 \ph ɪk͡pɪ(H)
 \ps n
+\pl nkpɩ
+\plph ŋ͡mk͡pɪ(H)
 \sn
 \ge fetish
 \is 4.9.7.7
-\pl nkpɩ
-\plph ŋ͡mk͡pɪ(H)
 \de fetish
 \rf Tape:5-2-545
 \xv Akɔmfɔ bʋtɔtswɛ ɔkpɩ.
@@ -12694,6 +12694,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪkʊ
 \ps ART
 \va kʋ
+\pl akʋ
+\plph akʊ
 \sn
 \ge some; certain
 \is 8.1.5.1
@@ -12701,8 +12703,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt has agreement ɔkʋ animate singular akʋ animate plural ɩkʋ inanimate
 \xv Atsulii gyihɛ amʋ ɩkʋ aná gyi: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsulii, kplokplobi.
 \xe Some kinds of edible mushrooms are: afio, mpionkɛntɛ, deyi asʋ, atsulii bibi, mantɛpʋ, kikidiki, abi atsulii, kplokplobi.
-\pl akʋ
-\plph akʊ
 \cf ɔkʋ
 \ce some, animate form
 \rf Tape:3-1-002
@@ -12760,12 +12760,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩkwɛ
 \ph ɪkwɛʔ(L)
 \ps n
+\pl akwɛ
+\plph akwɛʔ
 \sn
 \ge drum
 \is 4.2.3.5
 \de drum
-\pl akwɛ
-\plph akwɛʔ
 \ph akwɛʔ(L)
 \xv Kebi amʋ tɛda akwɛ wanklaan.
 \xe The child can play the drum very well.
@@ -13377,12 +13377,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \va ɩsʋn
 \vaph ɪsʊ̃
 \ve Southern
+\pl asʋ
+\plph asʊ
 \sn
 \ge ear
 \is 2.1.1.2
 \de ear
-\pl asʋ
-\plph asʊ
 \rf Tape:3-1-176
 \xv Baka ɔbwɩ amʋ sʋ pʋ hɩɛ mʋ nsʋ.
 \xe They have cut the animal's ear to mark it.
@@ -13535,12 +13535,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 2
 \ph ɪtɛʔ(L)
 \ps n
+\pl atɛ
+\plph atɛ
 \sn 1
 \ge feather
 \is 1.6.2.1
 \de feather
-\pl atɛ
-\plph atɛ
 \rf Tape:3-1-201
 \xv Tsii batɛ ɩtɛ ba mɩ ampʋlɛ mɩ asʋtɔ.
 \xe Pluck a chicken feather for me so I can use it to clean my ear canal.
@@ -13559,12 +13559,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩtokiehɛ
 \ph ɪtokiehɛ́ (H)
 \ps n
+\pl atokiehɛ
+\plph atokiehɛ́
 \sn
 \ge gift
 \is 4.1
 \de gift
-\pl atokiehɛ
-\plph atokiehɛ́
 \dt 28/Apr/2016
 
 \lx ɩtonya
@@ -13581,12 +13581,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪtɔ́ʔ(H)
 \ps n
 \va tɔ
+\pl atɔ
+\plph atɔ́
 \sn
 \ge thing
 \is 9.1.3
 \de thing
-\pl atɔ
-\plph atɔ́
 \rf Tape:3-1-217
 \xv Lɛ tɔ amʋ́ʋ́ bʋ ɔbɔ amʋtɔ amʋ ba mɩ.
 \xe Remove the thing that is in the hole and bring it to me.
@@ -13606,12 +13606,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩtɔsʋrahɛ
 \ph ɪtɔsʊráhɛ̂ʔ
 \ps n
+\pl atɔsʋrahɛ
+\plph atɔsʊráhɛ́
 \sn
 \ge load
 \is 7.3.1
 \de a load carried on head or shoulder
-\pl atɔsʋrahɛ
-\plph atɔsʊráhɛ́
 \dt 22/Jul/2016
 
 \lx ɩtrɛ
@@ -13660,12 +13660,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪt͡swɛʔ
 \ps n
 \va tswɛ
+\pl atswɛ
+\plph at͡swɛ
 \sn
 \ge fist
 \is 2.1.3.1
 \de fist, knuckle
-\pl atswɛ
-\plph at͡swɛ
 \rf Tape:7-2-533
 \xv Wɔ mʋ tswɛ.
 \xe Punch him.
@@ -13707,14 +13707,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩwatɛ
 \ph ɪwatɛʔ
 \ps n
+\pl awatɛ
+\plph awatɛʔ
 \sn
 \ge hoof
 \is 1.6.2
 \is 6.3
 \is 6.3.4
 \de hoof
-\pl awatɛ
-\plph awatɛʔ
 \dt 30/Jun/2014
 
 \lx ɩwɩ
@@ -13826,12 +13826,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ɩwɔ
 \ph ɪwɔʔ(H)
 \ps n
+\pl awɔ
+\plph awɔʔ(H)
 \sn
 \ge snake
 \is 1.6.1.3.1
 \de snake
-\pl awɔ
-\plph awɔʔ(H)
 \rf Tape:3-1-263
 \xv Ɩwɔ tɛbɩtɩ mʋ ipusʋ.
 \xe A snake always slithers on its stomach.
@@ -13843,12 +13843,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \va wɔlʋ
 \vaph wɔlʊ
+\pl awɔlʋ
+\plph awɔlʊ
 \sn
 \ge nail
 \is 2.1.3.3
 \de fingernail or toenail
-\pl awɔlʋ
-\plph awɔlʊ
 \rf Tape:8-1-339
 \rf Tape:4-1-433
 \xv Ɔdɛ awɔlʋ laɩ.
@@ -14277,12 +14277,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kanahɛ
 \ph kanáhɛʔ
 \ps n
+\pl akanahɛ
+\plph akanáhɛʔ
 \sn
 \ge medium
 \is 8.2.7
 \de medium
-\pl akanahɛ
-\plph akanáhɛʔ
 \rf Tape:3-1-405
 \xv Nɩ fɔyɔ a, mahɔ yile, mahɔ kusubi ɛ, mboun hɔ kanahɛ.
 \xe If you are going don't buy the big one, don't buy the little one, instead buy the medium sized one.
@@ -14304,12 +14304,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kankaba
 \ph kaŋkaba
 \ps n
+\pl akankaba
+\plph akaŋkaba
 \sn
 \ge orange
 \is 6.2.1.4
 \de orange; citrus fruit
-\pl akankaba
-\plph akaŋkaba
 \bb Stewart List:0903
 \dt 31/May/2016
 
@@ -14338,12 +14338,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kantankua
 \ph kantaŋkua
 \ps n
+\pl nkantankua
+\plph ŋkantaŋkua
 \sn
 \ge chair
 \is 5.1.1.2
 \de chair with straight back, the kind we sit at a table with
-\pl nkantankua
-\plph ŋkantaŋkua
 \rf Tape:3-1-422
 \xv Afɔɔ amʋ ba ba sʋ yo tsu nkantankua ba abʋ tsia mʋ́ sʋ.
 \xe The strangers have come so go bring chairs so that they should sit on them.
@@ -14474,12 +14474,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kebi
 \ph kebi
 \ps n
+\pl nyebi
+\plph ɲebí
 \sn
 \ge child
 \is 2.6.4.2
 \de child
-\pl nyebi
-\plph ɲebí
 \rf Tape:3-1-463
 \xv Kebi amʋ ansɩ lagyi, tsufɛ mʋ sɩ labla mʋ ɔbɛɛ ɔbɔ́hɔ sukuu atadɩɛ pɔpwɛ ba mʋ.
 \xe The child has become happy because his father has told him that he will buy new school clothes and bring them for him.
@@ -14513,12 +14513,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx keke
 \ph keké
 \ps n
+\pl akeke
+\plph akeké
 \sn
 \ge wagon; trailer
 \is 7.2.4.1.1
 \de wagon; trailer
-\pl akeke
-\plph akeké
 \bw Ewe fi:keke LH
 \rf Tape:3-2-029
 \xv Yibi amʋ dɛ keke bɩtɩa buo mʋ́.
@@ -14639,12 +14639,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 2
 \ph kɛklɛ(H)
 \ps n
+\pl akɛklɛ
+\plph akɛklɛ (H)
 \sn
 \ge boil (n)
 \is 2.5.2.2
 \de boil (on the skin)
-\pl akɛklɛ
-\plph akɛklɛ (H)
 \xv Mɩ kɛklɛ amʋ lafa sʋ ɩwɩ lalwii mɩ.
 \xv My boil has burst so I am at peace.
 \rf Tape:3-1-496
@@ -14653,13 +14653,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kɛlɩ
 \ph kɛlɪ (H)
 \ps n
+\pl akɛlɩ
+\plph akɛlɪ (H)
 \sn
 \ge kapok tree
 \is 6.2.5.4
 \is 1.5.1
 \de large tree
-\pl akɛlɩ
-\plph akɛlɪ (H)
 \sc Ceiba pentandra
 \ee kapok
 \xv Nɩ kɛlɩ puli a, baflɛ tɔkɔkwɛ mʋ́ asɩ.
@@ -14751,12 +14751,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 1
 \ph kɛŋkɛ(H)
 \ps n
+\pl akɛnkɛ
+\plph akɛŋkɛ(H)
 \sn
 \ge grass, (k.o.)
 \is 1.5.3
 \de a kind of wild grass
-\pl akɛnkɛ
-\plph akɛŋkɛ(H)
 \xv Kɛnkɛ tɔkɔsɩ dan dʋn dimbisʋ ɩfa trahɛ fɛ́ɛ́. Tamɛ, ɩtɔkɔsɩ wu. Ɩbʋ imi, ɩtɔwɔlɩ wɩ fɛ tʋnkpa.
 \xe This wild grass grows quicker than all other grasses. But it dies quickly(six months). It has hairs on the leaves which makes you itchy like tʋnkpa.
 \dt 19/Jul/2016
@@ -14774,12 +14774,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kɛntɛ
 \ph kɛntɛʔ
 \ps n
+\pl akɛntɛ
+\plph akɛntɛ
 \sn
 \ge bag
 \is 6.7.3
 \de bag
-\pl akɛntɛ
-\plph akɛntɛ
 \cf kotokuo
 \ce sack (n)
 \rf Tape:3-1-510
@@ -14856,13 +14856,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kian
 \ph kiãʔ
 \ps n
+\pl akian
+\plph akíã
 \sn
 \ge larvae
 \is 1.6.1.7
 \is 1.6.3
 \de large larvae of a black beetle; eaten by children and adults; inhabits dead palm trees.
-\pl akian
-\plph akíã
 \cf kponkpoli
 \ce black beetle
 \xv Kponkpoli ma nfɔ; mʋ pio gyi kian.
@@ -14919,14 +14919,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \hm 2
 \ph kîːki
 \ps n
+\pl akiiki
+\plph akîːki
 \sn
 \ge spectacles
 \is 2.3.1.9
 \is 2.5.4.2
 \is 5.4.1
 \de eyeglasses
-\pl akiiki
-\plph akîːki
 \rf Tape:3-1-538
 \xv Oyin amʋ atɔ mawun wanklaan sʋ a, baha mʋ kiiki bɛɛ otsia pʋ tin ansibi.
 \xe The man does not see well, they have given him glasses and said he should always use them to make his eyes clear.
@@ -15127,7 +15127,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 
 \lx kɩ ɔkpa
 \ph kɪ ɔk͡pa(H)
-\sn
 \ps v
 \ge expect
 \is 3.2.7
@@ -15135,7 +15134,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Mlɩ ɛ, mlɩ nya ɩklʋn kɩ anɩ Wie ɔkpa.
 \xe You also, you be patient and expect our Lord.
 \rf Tape:3-1-580
-\dt 03/Oct/2016
+\dt 17/Sep/2016
 
 \lx kɩ Xsʋ
 \ph kɪ sʊ
@@ -15153,12 +15152,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kɩaɩ
 \ph kɪaɪʔ
 \ps n
+\pl akɩaɩ
+\plph akɪ́aɪʔ
 \sn
 \ge dog
 \is 6.3.1.5
 \de dog
-\pl akɩaɩ
-\plph akɪ́aɪʔ
 \rf Tape:3-2-008
 \xv Kɩaɩ amʋ ladun Kebi amʋ.
 \xe The dog has bitten the child.
@@ -15303,12 +15302,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kɩtakɩta
 \ph kɪ́tákɪ́tá
 \ps ADJ
+\pl akɩtakɩta
+\plph akɪ́tákɪ́tá
 \sn
 \ge bitter
 \is 2.3.3
 \de bitter
-\pl akɩtakɩta
-\plph akɪ́tákɪ́tá
 \cf ɔkɩta
 \ce bitterness
 \rf Tape:3-2-066
@@ -15322,12 +15321,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kɩtɩ
 \ph kɪtɪʔ
 \ps n
+\pl akɩtɩ
+\plph akɪ́tɪʔ
 \sn
 \ge lizard
 \is 1.6.1.3.2
 \de lizard
-\pl akɩtɩ
-\plph akɪ́tɪʔ
 \rf Tape:3-2-075
 \xv Kɩtɩ amʋ lɔdʋ si andɔ amʋ.
 \xe The lizard climbed and got away from the cat.
@@ -15355,12 +15354,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx kɩtɩblʋn
 \ph kɪtɪblʊ̃
 \ps n
+\pl akɩtɩblʋn
+\plph akɪ́tɪblʊ̃
 \sn
 \ge gecko
 \is 1.6.1.3.2
 \de gecko
-\pl akɩtɩblʋn
-\plph akɪ́tɪblʊ̃
 \dt 15/Jul/2016
 
 \lx kla
@@ -15506,12 +15505,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx klankpa
 \ph klaŋ͡mk͡pa(H)
 \ps n
+\pl aklankpa
+\plph aklaŋ͡mk͡pa(H)
 \sn
 \ge raven
 \is 1.6.1.2
 \de piebald raven
-\pl aklankpa
-\plph aklaŋ͡mk͡pa(H)
 \sy kwankwadabi
 \xv Klankpa ɔma igyi bibi tuun, mʋ kantɔ ɛ lofuli fututuutu.
 \xe A piebald raven's back is black, his chest also is white.
@@ -15523,12 +15522,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx klantida
 \ph klantidaʔ
 \ps n
+\pl aklantida
+\plph aklantidaʔ
 \sn
 \ge rag
 \is 6.6.1.1
 \de rag
-\pl aklantida
-\plph aklantidaʔ
 \nt older and more ragged than tatida
 \xv Bɛyaɩ aklantida ha mʋ gyadɩtɔ nʋ; mʋ́ ɔyɛdɩ ɩnʋ a.
 \xe They put rags down in the kitchen for him to sleep on.
@@ -15540,12 +15539,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx klatɩ
 \ph klatɪ (H)
 \ps n
+\pl aklatɩ
+\plph aklatɪ (H)
 \sn
 \ge grass-cutter
 \is 1.6.1.1.4
 \de grass-cutter; cane rat
-\pl aklatɩ
-\plph aklatɪ (H)
 \rf Tape:3-2-164
 \xv Mɩ agbla lakɩta klatɩ, aklatɩ amʋ bʋdɛ mɩ agbodi wɩ, sʋ nɛfɩnɩ amʋ́.
 \xe My trap has caught a grass-cutter. Grass-cutters are eating my cassava so I trapped them.
@@ -15673,12 +15672,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx klɛkpakpa
 \ph klɛ́k͡pak͡paʔ (L)
 \ps n
+\pl aklɛkpakpa
+\plph aklɛ́k͡pak͡pa
 \sn
 \ge woodpecker
 \is 1.6.1.2
 \de woodpecker
-\pl aklɛkpakpa
-\plph aklɛ́k͡pak͡pa
 \cf ɔdakpokpo
 \ce woodpecker; Southern dialect
 \rf Tape:3-2-216
@@ -15690,12 +15689,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx klɛmɛtɩ
 \ph klɛmɛtɪ́
 \ps n
+\pl aklɛmɛtɩ
+\plph aklɛmɛtɪ́ (H)
 \sn
 \ge fish
 \is 1.6.1.5
 \de fish
-\pl aklɛmɛtɩ
-\plph aklɛmɛtɪ́ (H)
 \rf Tape:3-2-222
 \xv Aklɛmɛtɩ sɔɔn bʋ ntsu amʋ tɔ. Sʋ kɩta ɔkʋlɛ ha mɩ.
 \xe There are many fish in the water so catch one for me.
@@ -15787,12 +15786,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx klɔtɩ
 \ph klɔtɪ́
 \ps n
+\pl aklɔtɩ
+\plph aklɔtɪ́
 \sn
 \ge rat
 \is 1.6.1.1.4
 \de rat; mouse
-\pl aklɔtɩ
-\plph aklɔtɪ́
 \rf Tape:3-2-242
 \xv Andɔ amʋ ladʋ wie obu amʋ ikwitɔ ɔdɛ aklɔtɩ kɩta.
 \xe The cat has climbed up into the ceiling and is catching mice.
@@ -15803,13 +15802,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx klɔtɩbʋodu
 \ph klɔtɪ́bʊódu(H)
 \ps n
+\pl aklɔtɩbʋodu
+\plph aklɔtɪ́bʊódu(H)
 \sn
 \ge type of mouse
 \is 1.6.1.1.4
 \de type of mouse with bushy tail
 \lt klɔtɩ bʋ odu "mouse has tail"
-\pl aklɔtɩbʋodu
-\plph aklɔtɪ́bʊódu(H)
 \xv Klɔtɩbʋodu bʋ ɔdwɛ dʋn kpasi.
 \xe Klɔtɩbʋodu is sweeter than rat.
 \dt 15/Jul/2016
@@ -15933,12 +15932,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx konkolibatɛ
 \ph kõkolibatɛ
 \ps n
+\pl akonkolɩbatɛ
+\plph akoŋkolɪbatɛ
 \sn
 \ge butterfly; moth
 \is 1.6.1.7
 \de butterfly
-\pl akonkolɩbatɛ
-\plph akoŋkolɪbatɛ
 \xv Konkolibatɛ asɩ itsu fonflo.
 \xe A butterfly comes from a caterpillar.
 cf fonflo
@@ -15947,12 +15946,12 @@ cf fonflo
 \lx konkolifi
 \ph kóŋkólifí
 \ps n
+\pl akonkolifi
+\plph akóŋkólifí
 \sn
 \ge praying mantis
 \is 1.6.1.7
 \de praying mantis
-\pl akonkolifi
-\plph akóŋkólifí
 \dt 19/Jul/2016
 
 \lx konkolifi nkonto
@@ -16027,12 +16026,12 @@ cf fonflo
 \lx konya
 \ph koɲaʔ
 \ps n
+\pl akonya
+\plph akoɲaʔ
 \sn
 \ge ant
 \is 1.6.1.7
 \de driver ant
-\pl akonya
-\plph akoɲaʔ
 \nt Driver ants will destroy any penned or trapped animal so if you hear your sheep crying it might be a good idea to check on them.
 \xv Brɛ ánɩ́ anɩlɔtsʋn akonya amʋtɔ a, saa konya amʋ ɔkʋ lesin mɩ atadɩɛtɔ.
 \xe The time that we passed through the driver ants, unexpectedly, one was left in my shirt.
@@ -16067,12 +16066,12 @@ cf fonflo
 \lx kosi
 \ph kósíʔ
 \ps n
+\pl akosi
+\plph akósíʔ
 \sn
 \ge yam mound
 \is 6.2.1.2
 \de yam mound
-\pl akosi
-\plph akósíʔ
 \rf Tape:3-2-309
 \xv Mɩ wie, mɩ akosi amʋ a, kpasi dɛ kʋ tɛtɛ mʋ́tɔ.
 \xe My friend, there is a rat digging in one of my yam mounds.
@@ -16096,12 +16095,12 @@ cf fonflo
 \lx kotokuo
 \ph kotokuo
 \ps n
+\pl akotokuo
+\plph akotokuo
 \sn
 \ge bag
 \is 6.7.3
 \de sack
-\pl akotokuo
-\plph akotokuo
 \bw Akan fi:kotokuo
 \rf Tape:3-2-317
 \xv Nɔsura mɩ igyo amʋ kotokuotɔ ba woyitɔ tsufɛ mma lakpa.
@@ -16210,12 +16209,12 @@ cf fonflo
 \lx kɔklɔ
 \ph kɔklɔ
 \ps n
+\pl akɔklɔ
+\plph akɔklɔ
 \sn
 \ge ant
 \is 1.6.1.7
 \de ant that scurries around, are attracted to the sweet palm and gather when it is tapped
-\pl akɔklɔ
-\plph akɔklɔ
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
@@ -16503,12 +16502,12 @@ cf fonflo
 \lx kpabi
 \ph k͡pabiʔ
 \ps n
+\pl akpabi
+\plph ak͡pabi
 \sn
 \ge testicle
 \is 2.1.8.3
 \de testicle
-\pl akpabi
-\plph ak͡pabi
 \xv Ayin bʋbʋ akpabi anyɔ.
 \xe Men have two testicles.
 \bb Stewart List:0066
@@ -16580,12 +16579,12 @@ cf fonflo
 \lx kpakokwe
 \ph k͡pakókwé
 \ps n
+\pl akpakokwe
+\plph ak͡pakókwé
 \sn
 \ge dried fish
 \is 1.6.1.5
 \de small dried sea fish
-\pl akpakokwe
-\plph ak͡pakókwé
 \bw Ewe fi:kpakokwe
 \rf Tape:4-2-424
 \xv Nɔyɔ biasʋ a, mɩ nyawie dɛ akpakʋkwɩ pɛpɛ fɛ, sʋ nɛlɛ kpakokwe wɩ, tɛkɩ fututu nde kle asa.
@@ -16630,12 +16629,12 @@ cf fonflo
 \lx kpakpahe
 \ph k͡pák͡pá!hé
 \ps n
+\pl akpakpahe
+\plph ak͡pak͡pahe
 \sn
 \ge duck
 \is 6.3.6
 \de duck
-\pl akpakpahe
-\plph ak͡pak͡pahe
 \rf Tape:3-2-420
 \xv Kpakpahe oboi bʋ swɩ dʋn batɛ klɛ.
 \xe A duck's neck is longer than a chicken's.
@@ -16702,13 +16701,13 @@ cf fonflo
 \lx kpala
 \ph k͡pálâʔ
 \ps n
+\pl akpala
+\plph ak͡pálâʔ
 \sn
 \ge goat
 \is 6.3.1.1
 \is 1.6.1.1.3
 \de goat
-\pl akpala
-\plph ak͡pálâʔ
 \lf Etym=kpa "gather" la "evil" (cf. lalahɛ)
 \xv Gya akpala amʋ lɛ ban amʋtɔ, tsufɛsɛ bʋdɛ agbodi atɛ amʋ wɩ.
 \xe Chase the goats out of the fenced area because they are eating the cassava leaves.
@@ -16868,12 +16867,12 @@ cf fonflo
 \lx kpankʋ
 \ph k͡pãŋkʊ(H)
 \ps n
+\pl akpankʋ
+\plph ak͡paŋkʊ(H)
 \sn
 \ge bachelor
 \is 2.6.1.3
 \de bachelor
-\pl akpankʋ
-\plph ak͡paŋkʊ(H)
 \xv Kwasi gyi kpankʋ tsu mʋ nyebitɔ ɔpá.
 \xe Kwasi has been a bachelor since his youth.
 \dt 20/Jul/2016
@@ -16901,12 +16900,12 @@ cf fonflo
 \lx kpantsa
 \ph k͡pat͡sa
 \ps n
+\pl akpantsa
+\plph ak͡pat͡sa
 \sn 1
 \ge baboon
 \is 1.6.1.1.1
 \de baboon
-\pl akpantsa
-\plph ak͡pat͡sa
 \sn 2
 \ge ape
 \de large ape
@@ -16945,12 +16944,12 @@ cf fonflo
 \lx kpasi
 \ph k͡pasiʔ(L)
 \ps n
+\pl akpasi
+\plph ak͡pasiʔ(L)
 \sn
 \ge rat
 \is 1.6.1.1.4
 \de bush rat
-\pl akpasi
-\plph ak͡pasiʔ(L)
 \rf Tape:3-2-475
 \xv Kpasi ɔkʋ dɛ mɩ gyo wɩ. Sʋ nafɩnɩ mʋ kɩta mʋ. Mʋ odu bʋ swɩ.
 \xe A certain bush rat is eating my yams, so I have trapped him. His tail is long.
@@ -17005,12 +17004,12 @@ cf fonflo
 \lx kpawu
 \ph k͡pawu (H)
 \ps n
+\pl akpawu
+\plph ak͡pawu (H)
 \sn
 \ge owl
 \is 1.6.1.2
 \de owl
-\pl akpawu
-\plph ak͡pawu (H)
 \rf Tape:3-2-492
 \xv Igye onye nowun kpawu mʋ ansibi lomoni. Mbɛɛ ankɩ mʋ wanklaan alɩ a, olofuli si mɩ.
 \xe Last night I saw an owl, his eyes were big. When I decided I would look at him well he flew away from me.
@@ -17019,12 +17018,12 @@ cf fonflo
 \lx kpawunu
 \ph k͡pawunuʔ
 \ps n
+\pl akpawunu
+\plph ak͡pawunuʔ
 \sn
 \ge knee
 \is 2.1.3.2
 \de knee
-\pl akpawunu
-\plph ak͡pawunuʔ
 \rf Tape:3-2-499
 \xv Nɛda akpawunu wa ɔpá dʋbɩ, sʋ mɩ kpawunu dɛ mɩ dwiin.
 \xe I knelt for a long time so my knee is sore.
@@ -17278,12 +17277,12 @@ cf fonflo
 \lx kpikplibi
 \ph k͡pik͡plibi(H)
 \ps n
+\pl nkpikplibi
+\plph ŋ͡mk͡pik͡plibi(H)
 \sn
 \ge black fly
 \is 1.6.1.7
 \de black fly
-\pl nkpikplibi
-\plph ŋ͡mk͡pik͡plibi(H)
 \xv Kpikplibi iduun ɩtɛha ɔha nsibi tobwie.
 \xe Black fly bites make a person blind.
 \dt 19/Jul/2016
@@ -17712,14 +17711,14 @@ cf fonflo
 \lx kponkpoli
 \ph k͡pṍk͡póli(H)
 \ps n
+\pl akponkpoli
+\plph ak͡pṍk͡póli(H)
 \sn
 \ge beetle
 \is 1.6.1.7
 \de big black beetle that inhabits dead palm trees
 \cf kian
 \ce grub
-\pl akponkpoli
-\plph ak͡pṍk͡póli(H)
 \rf Tape:3-2-327
 \xv Akponkpoli bʋbʋ obebun amʋtɔ.
 \xe Black beetles are in the tapped palm tree.
@@ -17806,12 +17805,12 @@ cf fonflo
 \lx kpɔnkpɔntɩ
 \ph k͡pɔŋ͡mk͡pɔntɪ (H)
 \ps ADJ
+\pl akpɔnkpɔntɩ
+\plph ak͡pɔŋ͡mk͡pɔntɪ (H)
 \sn
 \ge big
 \is 8.2
 \de big
-\pl akpɔnkpɔntɩ
-\plph ak͡pɔŋ͡mk͡pɔntɪ (H)
 \rf Tape:4-1-091
 \xv Mlɩ asikafɔ, Mlɩ su koklo amlɩ gyi awɩrɩhɔ, tsufɛsɛ ipian kpɔnkpɔntɩ ɩbɛ́ba mlɩ sʋ.
 \xe You rich people, cry hard and mourn because big trouble is coming on you.
@@ -17822,12 +17821,12 @@ cf fonflo
 \lx kpɔsɔ
 \ph k͡pɔ́sɔ́
 \ps n
+\pl akpɔsɔ
+\plph ak͡pɔ́sɔ́
 \sn
 \ge camel
 \is 6.3.1.1
 \de camel
-\pl akpɔsɔ
-\plph ak͡pɔ́sɔ́
 \xv Kpɔsɔ tɔsʋra atɔ dwindwin.
 \xe A camel carries heavy loads.
 \dt 28/Jul/2013
@@ -17960,12 +17959,12 @@ cf fonflo
 \hm 2
 \ph k͡pʊk͡pʊ(L)
 \ps n
+\pl akpʋkpʋ
+\plph ak͡pʊ́k͡pʊ
 \sn
 \ge buffalo
 \is 1.6.1.1.3
 \de buffalo
-\pl akpʋkpʋ
-\plph ak͡pʊ́k͡pʊ
 \xv Kpʋkpʋ gyi pututɔ ɔnantswie. Ɔmʋa ɔlɛdan a, ɔbʋ ɔwʋnlɩn, mʋ nsiebi tɔwa ɩswɩ, sʋ aha bʋtenya mʋ́ ifu.
 \xe A buffalo is a bush cow. When it is grown it is strong, its horns are long so people are afraid of him.
 \rf Tape:4-1-027
@@ -17986,12 +17985,12 @@ cf fonflo
 \lx krakun
 \ph krakũ̂ʔ (L)
 \ps n
+\pl akrakun
+\plph akrakũ̂ʔ(L)
 \sn
 \ge turkey
 \is 6.3.6
 \de turkey
-\pl akrakun
-\plph akrakũ̂ʔ(L)
 \rf Tape:4-1-143
 \xv Mɩ nyawie ɔkʋbʋ akrakun. Oyinhɛ tɛkɛklɛ.
 \xe A certain friend of mine has turkeys. A turkey cock always shows off.
@@ -18004,12 +18003,12 @@ cf fonflo
 \lx krantɩɛ
 \ph krantɪ́ɛ́ (H)
 \ps n
+\pl akrantɩɛ
+\plph akrantɪɛ
 \sn
 \ge cutlass
 \is 6.2.8
 \de cutlass
-\pl akrantɩɛ
-\plph akrantɪɛ
 \rf Tape:4-1-154
 \xv Krantɩɛ amʋ ɔnɔ lawa ogya klaklakla.
 \xe The cutlass is very sharp.
@@ -18055,12 +18054,12 @@ cf fonflo
 \lx kufa
 \ph kufa
 \ps n
+\pl akufa
+\plph akúfa
 \sn
 \ge sheep
 \is 6.3.1.1
 \de sheep
-\pl akufa
-\plph akúfa
 \cf kufabi
 \ce lamb
 \nt ɔsantɩ (cognate with other Guang languages) is used for the name in fetish worship.
@@ -18075,12 +18074,12 @@ cf fonflo
 \lx kufabi
 \ph kufabi
 \ps n
+\pl akufabi
+\plph akufabi
 \sn
 \ge lamb
 \is 6.3.1.1
 \de a young sheep
-\pl akufabi
-\plph akufabi
 \dt 26/Dec/2012
 
 \lx kugyikʋ
@@ -18270,12 +18269,12 @@ cf fonflo
 \lx kuntu
 \ph kuntú
 \ps n
+\pl akuntu
+\plph akuntú
 \sn
 \ge blanket
 \is 5.1.1.3
 \de blanket
-\pl akuntu
-\plph akuntú
 \bw Akan fi:Kuntu
 \rf Tape:4-1-225
 \xv Yaɩ kuntu amʋ tswɩ mpa amʋsʋ, asa afʋyaɩ tati amʋ dɩnka mʋ́sʋ.
@@ -18314,12 +18313,12 @@ cf fonflo
 \lx kusubi
 \ph kusubi
 \ps ADJ
+\pl nkusubi
+\plph ŋkusubi
 \sn
 \ge small
 \is 8.2.1
 \de small
-\pl nkusubi
-\plph ŋkusubi
 \xv Alatsu amango kpɔnkpɔntɩ; alapʋ nkusubi ha mɩ.
 \xe He has taken large mangos and given me small ones.
 \nt From ths: words for small kusubi, putuputu, kɛtsɛkɛtsɛ, small in amount: kpalobi, tukuriibi
@@ -18330,12 +18329,12 @@ cf fonflo
 \hm 1
 \ph kuti(H)
 \ps n
+\pl akuti
+\plph akuti(H)
 \sn
 \ge claw
 \is 1.6.2.1
 \de claw
-\pl akuti
-\plph akuti(H)
 \rf Tape:4-1-232
 \xv Andɔ amʋ kuti latsan mɩ. Sʋ nɩ ɔblɔ ɩkɩta mʋ a, ɔbɛ́tsan fʋ akuti.
 \xe The cat's claw has scratched me so if anger catches him it will scratch you with its claws.
@@ -18648,12 +18647,12 @@ cf fonflo
 \lx kwadu
 \ph kwadú
 \ps n
+\pl akwadu
+\plph akwadú
 \sn
 \ge banana
 \is 6.2.1.7
 \de banana
-\pl akwadu
-\plph akwadú
 \bw Akan fi:kwadu
 \rf Tape:4-1-331
 \xv Mango oyi ɩbɛ́talɩ swie abɛ? Ntɛ baflɛ ɩbɛ́talɩ swie kwadu oyi sʋ.
@@ -18805,6 +18804,8 @@ cf fonflo
 \lx kwata
 \ph kwataʔ(L)
 \ps n
+\pl akwatafɔ
+\plph akwatafɔ (H)
 \sn
 \ge leprosy
 \is 2.5.2.2
@@ -18818,8 +18819,6 @@ cf fonflo
 \ge leper
 \is 2.5.2.2
 \de leper
-\pl akwatafɔ
-\plph akwatafɔ (H)
 \sy kwata ɔlɔpʋ
 \dt 20/May/2016
 
@@ -19118,12 +19117,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx lafa
 \ph lafa
 \ps NUM
+\pl alafa
+\plph alafa
 \sn
 \ge hundred
 \is 8.1.1.1
 \de hundred
-\pl alafa
-\plph alafa
 \xv Fɛdalɩ adukweba-kweba a, fɔyɔ lafa.
 \xe From ninety-nine you go to one hundred.
 \rf Tape:4-1-428
@@ -19152,13 +19151,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx lakpa
 \ph lak͡pá
 \ps n
+\pl alakpa
+\plph alak͡pá
 \sn
 \ge basket
 \is 6.7.3
 \is 6.6.4.2
 \de a basket; Northern dialect.
-\pl alakpa
-\plph alak͡pá
 \xv Bʋtɔpʋ lakpa sʋra atɔ.
 \xe They use baskets for carrying things.
 \rf Tape:4-1-439
@@ -19224,13 +19223,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx lalahɛ
 \ph lalahɛ
 \ps ADJ
+\pl alalahɛ
+\plph alalahɛ
 \sn
 \ge evil
 \is 8.3.7.1
 \np Northern: LLL Southern: LHL
 \de evil
-\pl alalahɛ
-\plph alalahɛ
 \nt stronger than lakpan
 \cf lakpan
 \ce sin
@@ -19317,12 +19316,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx lasa
 \ph lasaʔ
 \ps n
+\pl alasa
+\plph alásâʔ
 \sn
 \ge vulture
 \is 1.6.1.2
 \de vulture
-\pl alasa
-\plph alásâʔ
 \rf Tape:4-1-473
 \xv Lasa tegyi mbwɩ wuhɛ.
 \xe Vulture eats dead animals.
@@ -19333,13 +19332,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \hm 1
 \ph lata(L)
 \ps n
+\pl alata
+\plph alátá(L)
 \sn
 \ge monitor lizard
 \is 1.6.1.3.2
 \de Nile monitor lizard
 \sc Varanus niloticus
-\pl alata
-\plph alátá(L)
 \bb Stewart List:0766
 \dt 07/Sep/2016
 
@@ -19373,12 +19372,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx lembu
 \ph lembuʔ
 \ps n
+\pl alembu
+\plph alémbuʔ
 \sn
 \ge turtle
 \is 1.6.1.3.3
 \de turtle
-\pl alembu
-\plph alémbuʔ
 \na Wurupong reveres this animal because legend has it that when the time came to cross the Volta, The animal came up to provide stepping stones to cross the river.
 \rf Tape:4-1-482
 \xv Lembu lɔpʋ Nkonya Wurupongfɔ fa Ɩlɩn.
@@ -19597,12 +19596,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx lɛnkɛkpan
 \ph lɛŋkɛk͡pã́
 \ps n
+\pl alɛnkɛkpan
+\plph alɛŋkɛk͡pã́
 \sn
 \ge crocodile
 \is 1.6.1.3.4
 \de small crocodile
-\pl alɛnkɛkpan
-\plph alɛŋkɛk͡pã́
 \nt This is smaller than a standard crocodile and people eat it.
 \xv Lɛnkɛkpan mʋa mʋ́ pio Alɛnkɛ fɛ́ɛ́ a, bʋ ma alɛ.
 \xe The smaller and its brother the standard crocodiles are not good.
@@ -19622,12 +19621,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx limba
 \ph limbá
 \ps n
+\pl none
+\plph none
 \sn
 \ge axe
 \is 6.2.8
 \de large axe used in felling trees
-\pl none
-\plph none
 \xv Nɔ́pʋ limba kun oyi yile kʋ mɩ ndɔtɔ.
 \xe I will take an axe and fell a big tree on my farm.
 \dt 13/Jun/2014
@@ -19749,12 +19748,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx lɩnlɩnlɩn
 \ph lɪ̃lɪ̃lɪ̃ʔ
 \ps ADJ
+\pl alɩnlɩnlɩn
+\plph alɪ̃nlɪ̃nlɪ̃
 \sn
 \ge hard
 \is 8.3.2
 \de hard
-\pl alɩnlɩnlɩn
-\plph alɪ̃nlɪ̃nlɪ̃
 \xv Mpulu tɔwʋlɩ ɔsʋlʋ lɩnlɩnlɩn sʋ.
 \xe Peppers dry on hard ground.
 \rf Tape:3-2-554
@@ -20144,12 +20143,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx mankani
 \ph maŋkaní
 \ps n
+\pl amankani
+\plph amaŋkani
 \sn
 \ge cocoyam
 \is 6.2.1.2
 \de cocoyam; taro
-\pl amankani
-\plph amaŋkani
 \rf Tape:4-2-002
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bush pigs have eaten all of my cocoyam in the farm.
@@ -20396,12 +20395,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx mbrɛtɩ
 \ph mbrɛtɪ(H)
 \ps n
+\pl mbrɛtɩ
+\plph mbrɛtɪ
 \sn
 \ge board
 \is 6.6.3.2
 \de board
-\pl mbrɛtɩ
-\plph mbrɛtɪ
 \xv Nabɔbɔɩ ndum, sʋ mbʋ mbrɛtɩ tsɔtsɔɔtsɔ.
 \xe I have split ndum so I have many boards.
 \rf Tape:4-2-140
@@ -21100,13 +21099,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx mpesie
 \ph mpesie
 \ps n
+\pl ampesie
+\plph ampesie
 \sn
 \ge yam slice
 \is 6.2.1.2
 \de sliced yam or plantain
 \bw Akan fi:ampesie
-\pl ampesie
-\plph ampesie
 \rf Tape:4-2-408
 \xv Mmɛ́ɛtalɩ wɩ ampesie sʋ nɔ́wɔ fufu.
 \xe I will not be able to chew slice so I will pound fufu.
@@ -21173,12 +21172,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx mpɩna
 \ph mpɪna
 \ps n
+\pl mpɩnafɔ
+\plph mpɪnafɔ (H)
 \sn
 \ge love
 \is 4.3.3
 \de a sexual relationship
-\pl mpɩnafɔ
-\plph mpɪnafɔ (H)
 \nt needs checking -- example sentence doen't match the 
 \xv Kebi bʋtamatsu mpɩna nɩ fʋmɛdɛ agyuma yɔ.
 \xe A child does not keep friendship if you are not working.
@@ -21540,12 +21539,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx nakuma
 \ph nakuma
 \ps n
+\pl anakuma
+\plph anakuma
 \sn
 \ge aunt
 \is 4.1.9.1.6
 \de mother's older sister
-\pl anakuma
-\plph anakuma
 \xv Mɩ atasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
 \xe My paternal aunts has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because they are not from the same family.
 \dt 20/Jul/2016
@@ -21553,12 +21552,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx nambi
 \ph nambí
 \ps n
+\pl anambi
+\plph anambí
 \sn
 \ge toe
 \is 2.1.3.3
 \de toe
-\pl anambi
-\plph anambí
 \rf Tape:2-1-519
 \xv Nasutin, sʋ mɩ nambi latin.
 \xe I stubbed my toe so it is cut.
@@ -21630,12 +21629,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx nani
 \ph naniʔ
 \ps n
+\pl anani
+\plph anáníʔ
 \sn
 \ge antelope
 \is 1.6.1.1.3
 \de an antelope smaller than abrɛ
-\pl anani
-\plph anáníʔ
 \rf Tape:4-2-539
 \xv Nanɩ bʋ ɔsrɩ. Ogyi pututɔ kpala. Nani wɩ gyi fɛ nsuo.
 \xe An antelope is fast / has speed. It is a bush goat. Nani is ash in colour.
@@ -21688,25 +21687,25 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx napani
 \ph napani
 \ps n
+\pl anapani
+\plph anapani
 \sn
 \ge aunt
 \is 4.1.9.1.6
 \de mother's younger sister
-\pl anapani
-\plph anapani
 \dt 20/Jul/2016
 
 \lx natɩ
 \hm 1
 \ph natɪʔ(L)
 \ps n
+\pl anatɩ
+\plph anátɪ̂ʔ(L)
 \sn 1
 \ge spider
 \is 1.6.1.8
 \is 3.5.4.1
 \de spider
-\pl anatɩ
-\plph anátɪ̂ʔ(L)
 \rf Tape:4-2-556
 \xv Natɩ bʋ ɩkatɔ a, bʋtamagyi mʋ bia.
 \lt If Spider is in the grass they never bargain his price.
@@ -21787,12 +21786,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx natɩna
 \ph natɪna
 \ps n
+\pl anatɩna
+\plph anatɪna
 \sn
 \ge great-great-grandparent
 \is 4.1.9.1.1
 \de great-great-grandparent from several generations
-\pl anatɩna
-\plph anatɪna
 \cf ɔnain
 \ce ancestors
 \bb Stewart List:0312
@@ -21935,12 +21934,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx nfansrɩ
 \ph ɱfánsrɪ́
 \ps n
+\pl afansrɩ
+\plph afánsrɪ́
 \sn
 \ge window
 \is 6.5.2.5
 \de window
-\pl afansrɩ
-\plph afánsrɪ́
 \bw Akan fi:mfɛnsrɩ LHHH
 \rf Tape:4-2-585
 \xv Finki nfansɩrɩ amʋ ha obu amʋtɔ lɔwankɩ.
@@ -22584,12 +22583,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx nkramboyin
 \ph ŋkramboyĩʔ
 \ps n
+\pl nkrambofɔ
+\plph ŋkrambofɔ
 \sn
 \ge Muslim
 \is 4.9.7.3
 \de Muslim
-\pl nkrambofɔ
-\plph ŋkrambofɔ
 \bw Akan fi:nkramofʋ
 \xv Nkrambofɔ bʋtɔyɔ asɔrɩ Fieda.
 \xe Muslims go to church on Fridays.
@@ -22806,12 +22805,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \lx nsibi
 \ph nsíbiʔ
 \ps n
+\pl ansibi
+\plph ansíbiʔ
 \sn
 \ge eye
 \is 2.1.1.1
 \de eye
-\pl ansibi
-\plph ansíbiʔ
 \rf Tape:5-1-300
 \xv Tɔkʋ lawie mɩ nsibitɔ.
 \xe Something has entered into my eye.
@@ -22836,11 +22835,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \lx nsibi klambi
 \ph nsíbi klambi
 \ps n
+\pl ansibi klambi
+\plph ansibi klambi
 \sn 1
 \ge eyeball
 \is 2.1.1.1
-\pl ansibi klambi
-\plph ansibi klambi
 \sn 2
 \ge white of the eye
 \is 2.1.1.1
@@ -22892,12 +22891,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \lx nsɩnɛ
 \ph nsɪnɛ́
 \ps ADJ
+\pl ansɩnɛpʋ
+\plph ansɪnɛ́pʊ́
 \sn
 \ge middle
 \is 8.6.5
 \de middle; medium, between
-\pl ansɩnɛpʋ
-\plph ansɪnɛ́pʊ́
 \nt can be the middle one or the medium sized one
 \rf Tape:5-1-308
 \xv Tepo bʋ Wurupong mʋ́a Ntumda nsɩnɛ.
@@ -23002,12 +23001,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \lx nta ɔbʋpʋ
 \ph ntá ɔbʊpʊ́
 \ps n
+\pl nta abʋpʋ
+\plph ntá abʊpʊ́
 \sn
 \ge drunkard
 \is 5.2.3.7.2
 \de drunkard
-\pl nta abʋpʋ
-\plph ntá abʊpʊ́
 \cf bʋ3
 \ce drunk
 \xv Nta ɔbʋpʋ ɔkʋkʋ mɔ́ɔyɔ Bulusʋ.
@@ -23653,12 +23652,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \lx nwun
 \ph ŋʷũ (H)
 \ps n
+\pl anwun
+\plph ãwũ
 \sn
 \ge head
 \is 2.1.1
 \de head
-\pl anwun
-\plph ãwũ
 \xv Nwun bʋnʋ a, kpawunu tamabun ɩpa.
 \xe If head is there, knee never wears a hat.
 \nt proverb
@@ -23875,14 +23874,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \hm 1
 \ph ɲambi(H)
 \ps n
+\pl anyambi
+\plph aɲambi
 \sn
 \ge maggot
 \is 1.6.1.7
 \is 1.6.3
 \de maggot
 \nt the kind that grow in latrines is considered as different from the kind that grow in meat.
-\pl anyambi
-\plph aɲambi
 \rf Tape:5-1-506
 \xv Anyambi bʋbʋ ɔkpʋntɔ.
 \xe Maggots are in the toilet.
@@ -24063,12 +24062,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \lx nyankpʋsa
 \ph ɲaŋ͡mk͡pʊsaʔ
 \ps n
+\pl anyankpʋsa
+\plph aɲáŋ͡mk͡pʊsaʔ
 \sn
 \ge human being
 \is 2
 \de human being
-\pl anyankpʋsa
-\plph aɲáŋ͡mk͡pʊsaʔ
 \rf Tape:5-1-545
 \xv Nyankpʋsa gyi fɛ afu, ɔyɔ ɔmɛ́ɛtra ba.
 \xe A person is like wind, if he should go he will not again come back.
@@ -24145,12 +24144,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \va onyawie
 \vaph oɲawíe
+\pl anyawie
+\plph aɲawíe
 \sn
 \ge friend
 \is 4.1.1
 \de friend
-\pl anyawie
-\plph aɲawíe
 \xv Mɩ nyawie nɩ.
 \xe This is my friend
 \xv gyi nkɔmbɔ
@@ -24178,12 +24177,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \lx nyewu
 \ph ɲewú
 \ps n
+\pl anyewutɔ
+\plph aɲewútɔ
 \sn
 \ge cheek
 \is 2.1.1
 \de cheek
-\pl anyewutɔ
-\plph aɲewútɔ
 \nt nyewu is used by younger people; mpie is used by elders
 \xv Nɩ kebi mɛdɛ asʋn nu a, kɩta mʋ nyewutɔ bɩtɩa mʋ́, ɔkɛ owun atɔ ɔbɛ́kɩ mʋ́ wanklaan.
 \xe If a child does not respect, you pull his/her cheeks, tomorrow if he/she sees something he/she will look at it well.
@@ -24274,13 +24273,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph ɲɔ́pʊʔ(L)
 \ps n
+\pl anyɔpʋ
+\plph aɲɔ́pʊ
 \sn
 \ge breast
 \is 2.1.2
 \is 2.1.8.4
 \de breast
-\pl anyɔpʋ
-\plph aɲɔ́pʊ
 \xv Ɔtsɩgyiɔtsɩ bʋ anyɔpʋ.
 \xe Every woman has breasts.
 \rf Tape:5-1-594
@@ -24425,12 +24424,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ŋlanwun
 \ph ŋlanwũʔ
 \ps n
+\pl aŋlanwun
+\plph aŋlã́nwũ̂ʔ
 \sn
 \ge millipede
 \is 1.6.1.9
 \de millipede
-\pl aŋlanwun
-\plph aŋlã́nwũ̂ʔ
 \rf Tape:5-2-054
 \xv Ŋlanwun bʋ ayabi tsɔtsɔɔtsɔ.
 \xe The millipede has many legs.
@@ -24451,14 +24450,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx obebuni
 \ph obebuniʔ
 \ps n
+\pl mbebuni
+\plph mbebuniʔ
 \sn
 \ge dead palm tree
 \is 6.2.5.4
 \is 6.2.1.7
 \de a dead discarded palm tree that has been tapped
 \nt from palm tree and ibun -well
-\pl mbebuni
-\plph mbebuniʔ
 \rf Tape:6-2-275
 \xv Akponkpoli bʋbʋ obebuni amʋtɔ.
 \xe The black beetles are in the tapped palm tree.
@@ -24488,13 +24487,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph obíʔ
 \ps n
 \va bi
+\pl abi
+\plph abíʔ
 \sn
 \ge child
 \is 2.6.4.2
 \is 1.6.3
 \de child; young of animal
-\pl abi
-\plph abíʔ
 \xv Mɩ bi nɩ.
 \xe This is my child.
 \rf Tape:1-2-406
@@ -24510,13 +24509,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va ebia
 \ve Southern
 \ph ebíáʔ(H)
+\pl mbia
+\plph mbíáʔ(H)
 \sn
 \ge stool
 \is 5.1.1.2
 \is 4.6.1
 \de stool
-\pl mbia
-\plph mbíáʔ(H)
 \xv obiatɔ tsia.
 \xe to be chairman.
 \rf Tape:6-2-286
@@ -24537,12 +24536,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph obia(H)
 \ps n
+\pl mbia
+\plph mbia(H)
 \sn
 \ge torch
 \is 8.3.3.1.1
 \de torch
-\pl mbia
-\plph mbia(H)
 \rf Tape:6-2-291
 \xv Bʋtɔpʋ obia fwi ɩbɛ́.
 \xe They use a torch to fire a palm tree.
@@ -24556,12 +24555,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx obian
 \ph obíã́ʔ
 \ps n
+\pl mbian
+\plph mbíã́ʔ
 \sn
 \ge thigh
 \is 2.1.3.2
 \de thigh
-\pl mbian
-\plph mbíã́ʔ
 \xv Ɩba tamadʋn obian.
 \xe Arm is never bigger than thigh.
 \xe Young men are not greater than elders.
@@ -24580,12 +24579,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx obiantɔ
 \ph obíã́ntɔ́ʔ
 \ps n
+\pl mbiantɔ
+\plph mbíã́ntɔ́
 \sn
 \ge hip
 \is 2.1.3.2
 \de hip
-\pl mbiantɔ
-\plph mbíã́ntɔ́
 \bb Stewart List:0067
 \bb SIL-AWL:0065
 \dt 01/Feb/2014
@@ -24615,13 +24614,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx obitebi
 \ph obitebíʔ
 \ps n
+\pl mbitebi
+\plph mbitebíʔ
 \sn
 \ge young woman
 \is 2.6.4.3
 \is 2.6.5.2
 \de young woman
-\pl mbitebi
-\plph mbitebíʔ
 \rf Tape:6-2-306
 \xv Obitebi anyɔpʋ tɛlɩɩ tɩntɩ.
 \xe A young woman's breast stands tall (doesn't sag).
@@ -24735,12 +24734,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oboyi
 \ph obóyiʔ
 \ps n
+\pl mboyi
+\plph mbóyi
 \sn
 \ge neck (nape of neck)
 \is 2.1.1
 \de neck
-\pl mboyi
-\plph mbóyi
 \xv Soholi oboyi bʋswɩ.
 \xe Ostrich neck is long.
 \rf Tape:6-2-343
@@ -24753,12 +24752,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx obroni
 \ph obroni(H)
 \ps n
+\pl abrɔfɔ
+\plph abrɔfɔ́
 \sn
 \ge white man
 \is 4.6.2.1
 \de white person
-\pl abrɔfɔ
-\plph abrɔfɔ́
 \bw Akan fi:obroni LLH
 \xv Obroni lɛpɛ, otsu abrɔfɔ wulutɔ.
 \xe The white man is red. He comes from abroad.
@@ -24771,12 +24770,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph obu (H)
 \ps n
+\pl mbu
+\plph mbu
 \sn
 \ge building
 \is 6.5.1
 \de building
-\pl mbu
-\plph mbu
 \rf Tape:6-2-352
 \xv Beyi sukuu obu amʋ manta asɔrɩ obu amʋ.
 \xe They built a school building next to the church building.
@@ -24844,12 +24843,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph obubwí(H)
 \ps n
+\pl mbubwi
+\plph mbubwí(H)
 \sn
 \ge knoll
 \is 1.2.1.1
 \de knoll
-\pl mbubwi
-\plph mbubwí(H)
 \xv Nɩ fʋ ndɔ dɩn obubwisʋ nyankpʋ otswie a, ntsu amʋ ɔfan tɛsɩrɩ yɔ obubwi amʋ ayasɩ ha ɔha amʋ́ʋ́ mʋ ndɔ bʋ obubwi ayasɩ amʋ atɔ tɔwa alɛ dʋn fʋ klɛ.
 \xe If your farm is on the knoll and it rains, most of the water runs to the base of the knoll to make the one whose farm is at the base crops grow well than yours.
 \dt 17/Jun/2014
@@ -24858,12 +24857,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 3
 \ph obubwi
 \ps n
+\pl mbubwi
+\plph mbubwi
 \sn 1
 \ge louse
 \is 1.6.1.7
 \de louse
-\pl mbubwi
-\plph mbubwi
 \ps n
 \sn 2
 \ge weevil
@@ -24923,12 +24922,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx obun
 \ph obũʔ(L)
 \ps n
+\pl mbun
+\plph mbũʔ(L)
 \sn 1
 \ge oven
 \is 5.2.3.4
 \de oven
-\pl mbun
-\plph mbũʔ(L)
 \rf Tape:6-2-381
 \xv Bʋdɛ bodobodo amʋ tɔ obuntɔ.
 \xe They are baking bread in an oven.
@@ -24996,13 +24995,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx odoun
 \ph odoũʔ
 \ps n
+\pl ndoun
+\plph ndoũʔ
 \sn
 \ge captive
 \is 4.5.4.4
 \is 4.8.3.5
 \de captive
-\pl ndoun
-\plph ndoũʔ
 \xv Bɛkɩta amʋ́ ndoun brɛa amʋ́ʋ́ bɔkɔ ɩsa amʋ.
 \xe They were held captives the time that there was war.
 \dt 20/Jul/2016
@@ -25081,13 +25080,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx odudu
 \ph odudu
 \ps n
+\pl ndudu
+\plph ndudu
 \sn
 \ge rice silo
 \is 6.2.6.4
 \is 6.2.1.1.1
 \de a storage container made of clay for rice particularly but also other grains
-\pl ndudu
-\plph ndudu
 \na There was one standing in Ɔsʋsʋ neighbourhodd of Wurupong in the early 1990's
 \xv Mɩ nain bʋ odudu mʋ woyitɔ ánɩ́ ɔtɔpʋ mʋ ɩmɔ wa mʋ́tɔ yaɩ.
 \xe My grandfather has a grain silo that he stores his rice in.
@@ -25098,6 +25097,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx odum
 \ph odum
 \ps n
+\pl ndum
+\plph ndum
 \sn
 \ge hard wood
 \is 6.6.3.2
@@ -25106,8 +25107,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de a tree with very hard and expensive wood
 \sc Milicia excelsa
 \ee iroko
-\pl ndum
-\plph ndum
 \na Because of deforestation, much rarer than it used to be.
 \dt 19/Jul/2016
 
@@ -25218,12 +25217,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofin
 \ph ofĩ́ʔ
 \ps n
+\pl nfin
+\plph ɱfĩ́ʔ
 \sn
 \ge shin
 \is 2.1.3.2
 \de shin
-\pl nfin
-\plph ɱfĩ́ʔ
 \cf konti
 \ce shin
 \se ofintɔ
@@ -25241,12 +25240,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofobi
 \ph ofobí
 \ps n
+\pl nfobi
+\plph ɱfobí
 \sn
 \ge pomade
 \is 5.4.5
 \de pomade
-\pl nfobi
-\plph ɱfobí
 \xv Nɛfɛ mɩ abi amʋ, ampʋ bwɛ abi ofobi. Tsufɛ, ndekle ánɩ́ nɔ́bʋa ɩyie.
 \xe I will crack my palm kernels, in order to take(them) and make palm kernel oil, because I want to fry fish.
 \rf Tape:6-2-445
@@ -25287,12 +25286,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofulifuli
 \ph ofúlífuliʔ
 \ps n
+\pl nfulifuli
+\plph ɱfúlífuli
 \sn
 \ge egret
 \is 1.6.1.2
 \de egret
-\pl nfulifuli
-\plph ɱfúlífuli
 \nt etym. from o-fuli-fuli "white-white"
 \rf Tape:6-2-439
 \xv Nɩ fɔyɔ ntsu ɔnɔ a, fówun nfulifuli.
@@ -25305,12 +25304,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofumbi
 \ph ofumbi(H)
 \ps n
+\pl nfumbi
+\plph ɱfumbi
 \sn
 \ge bag
 \is 6.7.3
 \de a small raffia bag used by women
-\pl nfumbi
-\plph ɱfumbi
 \xv Ɔtsɩ ɔkʋ ofumbi bʋ akɩlɛ tamɛ tɔtɔ ma mʋ́tɔ.
 \xe A certain woman's raffia bag is nice but there's nothing is in it.
 \xv Ɔtsɩ tegyi mʋ yín ofumbi, fɛ́kɩ oyin ɛ lagyi mʋ sɩ atɔ.
@@ -25320,12 +25319,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofunupʋ
 \ph ofunupʊʔ
 \ps n
+\pl afunupʋ
+\plph afunupʊʔ
 \sn
 \ge liar
 \is 3.5.1.3.2
 \de person who tells lies
-\pl afunupʋ
-\plph afunupʊʔ
 \rf Tape:6-2-463
 \xv Ɔha ánɩ́ ɔtɛblɩ asʋn aha ɔma a, ofunupʋ ogyi.
 \xe The person that talks evil of a person in his absence is a liar.
@@ -25336,12 +25335,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofunya
 \ph ofuɲa(H)
 \ps n
+\pl nfunya
+\plph ɱfuɲa(H)
 \sn
 \ge comb
 \is 5.4.3.1
 \de comb
-\pl nfunya
-\plph ɱfuɲa(H)
 \xv Oyin anfɩ ma ofunya, sʋ ɔtamafunya nwun.
 \xe This man does not have a comb so he never combs his hair.
 \rf Tape:6-2-468
@@ -25352,13 +25351,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofupʋ
 \ph ofúpʊ́ʔ
 \ps n
+\pl afupʋ
+\plph afúpʊ́
 \sn
 \ge coward
 \is 3.4.2.4
 \is 4.4.3.2
 \de coward
-\pl afupʋ
-\plph afúpʊ́
 \xv Ofupʋ ogyi.
 \xe He is a coward.
 \xv Ɔha ánɩ́ atɔ tɔwa mʋ ifu a, ofupʋ ogyi.
@@ -25372,12 +25371,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofutikokoni
 \ph ofutikókóníʔ(H)
 \ps n
+\pl nfutikokoni
+\plph ɱfutikokoni
 \sn
 \ge ant lion
 \is 1.6.1.7
 \de ant lion
-\pl nfutikokoni
-\plph ɱfutikokoni
 \rf Tape:6-2-478
 \xv Ofutikokoni amʋ dɛ ɩsɩ tutu.
 \xe The ant lion is throwing up sand.
@@ -25386,12 +25385,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ofwi
 \ph ofwi(H)
 \ps n
+\pl nfwi
+\plph ɱfwi(H)
 \sn
 \ge quail
 \is 1.6.1.2
 \de quail with brown beak and legs in the grasslands
-\pl nfwi
-\plph ɱfwi(H)
 \rf Tape:6-2-481
 \xv Ofwi gyi pututɔ batɛ. Oteyinta kpoli ndɔtɔ.
 \xe An Ofwi is a bush chicken. It spoils corn in the farms.
@@ -25401,12 +25400,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ogbangba
 \ph og͡bã́ŋ͡mg͡baʔ
 \ps n
+\pl ngbangba
+\plph ŋ͡mg͡bã́ŋ͡mg͡baʔ
 \sn
 \ge lake fish
 \is 1.6.1.5
 \de a kind of lake fish
-\pl ngbangba
-\plph ŋ͡mg͡bã́ŋ͡mg͡baʔ
 \xv Ogbangba gyi ntsutso iyie, nɩ ɔdan a, ɔbʋ ɔdwɛ.
 \xe Ogbangba is a lake fish. When it is grown it is sweet.
 \rf Tape:6-2-487
@@ -25443,13 +25442,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ogbon
 \ph og͡bõʔ
 \ps n
+\pl ngbon
+\plph ŋ͡mg͡bõʔ
 \sn
 \ge red head lizard
 \is 1.6.1.3.2
 \de red headed agama lizard
 \sc agama agama
-\pl ngbon
-\plph ŋ͡mg͡bõʔ
 \xv Tɛplɛ onun nfɔ a, Ogbon lahɔ nwun pɛ.
 \xe Cockroach drinks the oil, but red headed lizard gets the red head.
 \nt the innocent get blamed for the work of the guilty.
@@ -25521,13 +25520,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph oʤamaʔ(H)
 \ps n
 \va gyama
+\pl agyama
+\plph aʤama
 \sn
 \ge junior
 \is 4.1.9.1.3
 \is 8.4.6.5.1
 \de younger sibling
-\pl agyama
-\plph aʤama
 \xv Mɩ dɛhɛn gyi Kwame, Kwame ɛ mʋ gyama gyi mɩ.
 \xe My older brother is Kwame. Kwame too his junior brother am I.
 \rf Tape:2-2-190
@@ -25569,13 +25568,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ogyatin
 \ph oʤatĩʔ
 \ps n
+\pl ngyatin but commonly shortened to ngya
+\plph nʤatin / nʤá
 \sn
 \ge firewood
 \is 5.5.6
 \is 6.2.5.4
 \de one stick of firewood
-\pl ngyatin but commonly shortened to ngya
-\plph nʤatin / nʤá
 \rf Tape:6-2-518
 \xv Naka ogyatin kpɔnkpɔntɩ nɔ́pʋ sun ɔswɩ ɔnɔ.
 \xe I have cut a large stick of firewood, and I will put it in my hearth as the central fire log.
@@ -25593,12 +25592,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ogyikpa
 \ph oʤík͡pâʔ
 \ps n
+\pl ngyikpa
+\plph nʤík͡pâʔ
 \sn
 \ge eating place
 \is 5.2.2
 \de place where eating occurs; chop bar
-\pl ngyikpa
-\plph nʤík͡pâʔ
 \rf Tape:6-2-523
 \xv Oyin amʋ ɔyɔ asʋn ogyikpa.
 \xe The man is going to court, place of arbitration.
@@ -25679,12 +25678,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ohogyipʋ
 \ph ohóʤipʊ
 \ps n
+\pl ahogyipʋ
+\plph ahóʤipʊ
 \sn
 \ge believer
 \is 3.2.5.1
 \de a person who believes
-\pl ahogyipʋ
-\plph ahóʤipʊ
 \xv Ohogyipʋ gyi ɔha ánɩ́ ɔmɔkuwun tɔtɔ, tamɛ alahogyia ɩbɛ́ba.
 \xe A believer is a person who have not seen anything, but believes that it will come.
 \xv Ahogyipʋ amʋ́ʋ́ bʋbʋ wulu amʋtɔ amʋ bafia woyi yile amʋtɔ.
@@ -25807,12 +25806,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx okle
 \ph ókleʔ
 \ps n
+\pl nkle
+\plph ŋ́kléʔ
 \sn
 \ge frog
 \is 1.6.1.4
 \de frog
-\pl nkle
-\plph ŋ́kléʔ
 \xv Nkle sɔɔn bʋ Otukpe bunkpatɔ, sʋ yibi lɔmɔ okle.
 \xe There are nothing but frogs in Otukpe's riverbed, so a lorry killed a frog.
 \rf Tape:6-2-558
@@ -25825,12 +25824,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oklemgbe
 \ph oklemg͡beʔ
 \ps n
+\pl nklemgbe
+\plph ŋkleŋ͡mg͡be
 \sn
 \ge shrew
 \is 1.6.1.1.4
 \de shrew that lives in town
-\pl nklemgbe
-\plph ŋkleŋ͡mg͡be
 \rf Tape:6-2-563
 \xv Oklemgbe tɔwɩ batɛ abi.
 \xe A shrew always eats chicks.
@@ -25885,13 +25884,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx okoklobi
 \ph okoklobiʔ
 \ps n
+\pl nkoklobi
+\plph ŋkoklobi
 \sn
 \ge corner
 \is 6.5.2
 \is 8.6.6
 \de corner
-\pl nkoklobi
-\plph ŋkoklobi
 \nt occurs only with -tɔ suffix
 \rf Tape:6-2-571
 \xv Fɛɩ nkoklobitɔ ɩnʋ fɛ́ɛ́.
@@ -25935,12 +25934,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx Okonyayin
 \ph okuɲáyĩ̂ʔ
 \ps n
+\pl Nkonyafɔ
+\plph ŋkuɲáfɔ
 \sn
 \ge Nkonya
 \is 9.7.1.5
 \de an ethnic Nkonya person
-\pl Nkonyafɔ
-\plph ŋkuɲáfɔ
 \xv Nkonyafɔ bʋ tegyi asɩ agyapadɩɛ, tamɛ Asantefɔ bʋ tegyi abitɛpʋ klɛ.
 \xe Nkonyas inherit their fathers' possessions, but Ashantis inherit their maternal uncle's.
 \dt 20/Jul/2016
@@ -25948,12 +25947,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx okpebetsu
 \ph ok͡pebet͡suʔ
 \ps n
+\pl nkpebetsu
+\plph ŋ͡mk͡pebet͡su
 \sn
 \ge strainer
 \is 5.2.1.3
 \de strainer
-\pl nkpebetsu
-\plph ŋ͡mk͡pebet͡su
 \rf Tape:6-2-583
 \xv Bʋtɔpʋ okpebetsu dwɩɩ abɛ.
 \xe They use a strainer to strain (drip) palm nuts.
@@ -25995,12 +25994,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx okpokployi
 \ph ok͡pók͡plóyiʔ
 \ps n
+\pl nkpokployi
+\plph ŋ͡mk͡pók͡plóyi
 \sn
 \ge maize cob
 \is 6.2.1.1
 \de maize cob
-\pl nkpokployi
-\plph ŋ͡mk͡pók͡plóyi
 \nt from kpoli+oyi+REDUPLICATION
 \rf Tape:7-1-
 \xv Nɛfɛ mɩ kpoli lɛ mʋ́ nkpokployisʋ, anfɛ mʋ́ ha kpoli ɔhɔpʋ.
@@ -26011,12 +26010,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx okpokpo
 \ph ok͡pók͡po(H)
 \ps n
+\pl nkpokpo
+\plph ŋ͡mk͡pók͡po(H)
 \sn
 \ge ram
 \is 6.3.1.1
 \de a male sheep; a ram
-\pl nkpokpo
-\plph ŋ͡mk͡pók͡po(H)
 \rf Tape:6-2-586
 \xv Ndekle ánɩ́ mɩ okpokpo omoni sʋ a, naflo mʋ.
 \xe I want my ram to be big so I have castrated him.
@@ -26025,12 +26024,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx okponkpo
 \ph ok͡poŋ͡mk͡póʔ
 \ps n
+\pl nkponkpo
+\plph ŋ͡mk͡poŋ͡mk͡pó
 \sn
 \ge buttocks
 \is 2.2.8
 \de buttocks
-\pl nkponkpo
-\plph ŋ͡mk͡poŋ͡mk͡pó
 \xv Atɔ osunapʋ amʋ dɛ nyebi amʋ okponkpotɔ atɔ pɩtɩ, tsufɛ bʋdɛtɔɩ dʋbɩ.
 \xe The teacher is whipping the children at their buttocks because they are talking too much.
 \bb SIL-AWL:0044
@@ -26064,12 +26063,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx Okristoyin
 \ph okrístoyĩʔ
 \ps PropN
+\pl Akristofɔ
+\plph akrístofɔ
 \sn
 \ge Christian
 \is 4.9.7.2
 \de Christian
-\pl Akristofɔ
-\plph akrístofɔ
 \xv Ɩlehian ánɩ́ Okristoyin obétsia nkpa fɛ alɩ amʋ́ʋ́ Kristo letsia amʋ.
 \xe It is necessary that a Christian should live as Christ lived.
 \xv Ha fʋ tsiatɔ ɩlɩan Kristo, mɛnɩ aha bʋmɛtɩ fʋ Okristoyin lalalahɛ.
@@ -26088,12 +26087,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx okude
 \ph okudeʔ
 \ps n
+\pl nkude
+\plph ŋkude
 \sn
 \ge dream
 \is 5.7.2
 \de to dream
-\pl nkude
-\plph ŋkude
 \rf Tape:4-1-179
 \xv Nakun okude.
 \xe I had a dream.
@@ -26123,24 +26122,24 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph okúkuʔ
 \ps n
+\pl nkuku
+\plph ŋkúku
 \sn
 \ge hill
 \is 1.2.1.1
 \de hill
-\pl nkuku
-\plph ŋkúku
 \dt 30/Jun/2014
 
 \lx okuku
 \hm 2
 \ph okúkuʔ(L)
 \ps n
+\pl nkuku
+\plph ŋkúku
 \sn
 \ge tilapia
 \is 1.6.1.5
 \de flat fish resembling sunfish; cooked either deep-fried or smoked and cooked in soup
-\pl nkuku
-\plph ŋkúku
 \xv Okuku gyi ntsutso iyie ánɩ́ ɔbʋ ɔdwɛ.
 \xe Tilapia is a lake fish that is good to eat.
 \xv Bʋtɛlɛ nkuku lɩntɔ.
@@ -26169,13 +26168,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph okúlu
 \va kulu
 \ps n
+\pl akulu
+\plph akúlu
 \sn
 \ge husband
 \is 4.1.9.2.1
 \de husband
 \nt alternate tone HL
-\pl akulu
-\plph akúlu
 \bb Stewart List:0306
 \rf Tape:4-1-166
 \xv Fɛ alɩa ɔtsɩ tɛdalɩ mʋ kulu ɔma a, mlɩ ɛ, mlɩma ɔnɔkwalɩ ha Bulu.
@@ -26240,12 +26239,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx okun
 \ph okṹʔ
 \ps n
+\pl nkun
+\plph ŋkṹʔ
 \sn
 \ge handle
 \is 6.6.2.3
 \de handle
-\pl nkun
-\plph ŋkṹʔ
 \xv Krantɩɛ amʋ okun labwie.
 \xe The cutlass' handle is broken.
 \bb Stewart List:1262
@@ -26283,12 +26282,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx olin
 \ph olîʔ
 \ps n
+\pl nlin
+\plph nlîʔ
 \sn
 \ge root
 \is 1.5.5
 \de root of a tree
-\pl nlin
-\plph nlîʔ
 \xv Ɔbɛ nliin tsɔ, sʋ nɩ fɛka olin lɛ mʋ́tɔ a, ɩmɔ́ɔmɔ ɔbɛ amʋ.
 \xe A palm tree has many roots so if you cut a root out of it, it won't kill the palm tree.
 \xv Bʋtɔpʋ oyi kʋ aná nlin bwɛ afa.
@@ -26302,13 +26301,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va elikantɩ
 \ve Southern
+\pl nlinkantɩ
+\plph nliŋkantɪ
 \sn
 \ge bile
 \is 2.2
 \is 2.3.3
 \de bile
-\pl nlinkantɩ
-\plph nliŋkantɪ
 \rf Tape:6-1-011
 \xv Olinkantɩ bʋ ɔkɩta. Ɩfa wa iyietɔ a, fʋmɛ́ɛtalɩ wɩ.
 \xe Bile is bitter. If it should burst and get in the meat you will not be able to eat it.
@@ -26350,12 +26349,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oloo
 \ph ólǒːʔ
 \ps n
+\pl nloo
+\plph nlǒː
 \sn
 \ge crocodile
 \is 1.6.1.3.4
 \de crocodile
-\pl nloo
-\plph nlǒː
 \bw Ewe fi:elo LH
 \xv Oloo ɔnɔ bʋswɩ. Ɔtɔpʋ kɩta aklɛmɛtɩ ntsutso, sʋ mawie ntsu amʋtɔ.
 \xe A crocodile has a long mouth that it uses to catch fish in the lake so don't enter the water.
@@ -26417,12 +26416,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx olupʋ
 \ph olupʊ́
 \ps n
+\pl alupʋ
+\plph alupʊ́
 \sn
 \ge enemy
 \is 4.3.3.1
 \de enemy
-\pl alupʋ
-\plph alupʊ́
 \dt 22/Dec/2013
 
 \lx omenyapʋ
@@ -26472,12 +26471,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx omumu
 \ph omúmuʔ(H)
 \ps n
+\pl amumu
+\plph amúmu
 \sn
 \ge mute
 \is 2.5.4.4
 \de mute
-\pl amumu
-\plph amúmu
 \xv Omumu ogyi. Ɔtamatɔɩ.
 \xe He is a mute; he never speaks.
 \xv Omumu-gyi-omumu tɔkɔsɩ nya ɔblɔ.
@@ -26539,12 +26538,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx onunpʋ
 \ph onúpʊ
 \ps n
+\pl anunpʋ
+\plph anúpʊ
 \sn
 \ge drinker
 \is 5.2.2
 \de a person who drinks something
-\pl anunpʋ
-\plph anúpʊ
 \xv Ɔtsɩ amʋ gyi nta fututu onunpʋ, tamɛ fʋmowun mʋa alabʋ kɩ.
 \xe That woman is palm wine drinker, but you will never see her being intoxicated.
 \dt 20/May/2016
@@ -26591,24 +26590,24 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx onuwe
 \ph onuwé
 \ps n
+\pl nnuwe
+\plph nnuwé
 \sn
 \ge large drinking calabash
 \is 6.7.3
 \is 1.5.3
 \de large drinking calabash
-\pl nnuwe
-\plph nnuwé
 \dt 13/Jul/2014
 
 \lx onwunfi
 \ph onwuɱfíʔ
 \ps n
+\pl nwunfi
+\plph nwuɱfí
 \sn
 \ge forehead
 \is 2.1.1
 \de forehead
-\pl nwunfi
-\plph nwuɱfí
 \xv Pɩna dɩn mʋ onwunfisʋ.
 \xe He has a scar on his forehead.
 \xv Okongo onwunfi lomoni dʋbɩ.
@@ -26620,12 +26619,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx onyansapʋ
 \ph oɲã́nsapʊ
 \ps n
+\pl anyansapʋ
+\plph aɲã́nsapʊ
 \sn
 \ge wise person
 \is 3.2.1.3
 \de wise person
-\pl anyansapʋ
-\plph aɲã́nsapʊ
 \rf Tape:6-1-240
 \xv Owie amʋ tɔbwɛ mʋ atɔ fɛ́ɛ́ nyansatɔ, sʋ onyansapʋ ogyi.
 \xe The chief does his everything wisely so he is a wise person.
@@ -26750,13 +26749,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx opiki
 \ph opiki
 \ps n
+\pl mpiki
+\plph mpiki
 \sn
 \ge thatch
 \is 6.5.3
 \is 6.5.2.2
 \de thatch
-\pl mpiki
-\plph mpiki
 \nq Tone needs to be checked
 \va pipi
 \ve thatch; Northern dialect
@@ -26768,13 +26767,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va epini
 \ve Southern
 \vaph epíniʔ
+\pl mpini
+\plph mpínîʔ
 \sn
 \ge ring
 \is 5.4
 \is 6.6.2.3
 \de ring for finger, or a metal ring type bracelet
-\pl mpini
-\plph mpínîʔ
 \xv Sika pɛpɛ opini tɛkpa ogya.
 \xe A gold ring shines.
 \xv Kofi lawun mʋ sika pɛpɛ opini amʋ́ʋ́ lɔfwɩ amʋ Yao oserebitɔ.
@@ -26786,13 +26785,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph opíó
 \ps n
 \va pio
+\pl apio
+\plph apíó
 \sn
 \ge brother/sister
 \is 4.1.9.1.3
 \is 4.1.9.1.7
 \de brother or sister. This includes all my grandfathers' and grandmothers' grandchildren.
-\pl apio
-\plph apíó
 \xv Mɩ pio kʋsʋ gyi Sami, tsufɛ nadan dʋn mʋ.
 \xe Sami is my younger brother because I am older than he.
 \bb Stewart List:0301
@@ -26801,13 +26800,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx opitre
 \ph opitre(H)
 \ps n
+\pl mpitre
+\plph mpitre
 \sn
 \ge mudfish
 \is 1.6.1.5
 \is 6.4.5
 \de mudfish
-\pl mpitre
-\plph mpitre
 \xv Opitre nwun gyi pɛtɛplɛ.
 \xe The mudfish's head is flat.
 \xv Opitre ɩwɩ bʋ ɔplɩ, ɩnɩsʋ ɩbʋ ɔlɩn ánɩ́ fɔ́pʋ ɩbɩ kɩta mʋ.
@@ -26820,12 +26819,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va eplimbi
 \ve Southern
+\pl mplimbi
+\plph mplimbi(H)
 \sn
 \ge mortar
 \is 5.2.1.3
 \de a wooden bowl for pounding fufu
-\pl mplimbi
-\plph mplimbi(H)
 \xv Oplimbi amʋtɔ bʋ okulu, sʋ fufu towie mʋ́tɔ tsɔtsɔ.
 \xe The mortar is deep so it can hold a lot of fufu.
 \nt good phrase for contain
@@ -26837,12 +26836,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oplímbi
 \ph oplímbiʔ
 \ps n
+\pl mplimbi
+\plph mplímbi
 \sn
 \ge pestle
 \is 5.2.1.3
 \de pounding stick
-\pl mplimbi
-\plph mplímbi
 \nt H in the tone is HF, evidence that plim is two tone bearing units
 \xv Oplimbi ánɩ́ bʋ ɩpa a, ɩbʋ atɔ awɔlɛ. Ɩtɛha fufu tɔwa ɔsa pɩn dʋn oplimbi kpakpahɛ.
 \xe The pestle that has a hat, is easy to pound with. It makes fufu smooth faster than a bald pestle.
@@ -26864,13 +26863,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx opotsua
 \ph opot͡sua(H)
 \ps n
+\pl apotuafɔ
+\plph apotuafɔ
 \sn
 \ge gluttony
 \is 4.3.6.1
 \is 5.2.2.4
 \de greediness in the sense of gluttony
-\pl apotuafɔ
-\plph apotuafɔ
 \xv Ɔha ánɩ́ otegyi atɔ tsɔtsɔ a, ɔbʋ opotsua.
 \xe The one who eats too much has gluttony.
 \xv Batɛ ogyi atɔ ɔtamamwɛ sʋ ɔbʋ opotsua.
@@ -26894,12 +26893,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx opulapʋ
 \ph opulápʊ̂ʔ
 \ps n
+\pl apulapʋ
+\plph apulápʊ̂ʔ
 \sn
 \ge burier
 \is 2.6.6.3
 \de person ritually responsible for the funeral of someone
-\pl apulapʋ
-\plph apulápʊ̂ʔ
 \xv Akʋ bʋtɛlɛ amʋ́ apulapʋ yaɩ asa bʋtowu. Akʋ ɛ bʋtowu asa bʋtɛlɛ apulapʋ ha amʋ́.
 \xe Some people choose those who will bury them before they die. Others too die before buriers are chosen for them.
 \dt 14/Sep/2016
@@ -26937,12 +26936,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx opulu
 \ph opulu(H)
 \ps n
+\pl mpulu
+\plph mpulu(H)
 \sn
 \ge navel
 \is 2.1.2
 \de navel
-\pl mpulu
-\plph mpulu(H)
 \xv Nɩ bɔkwɩɩ nyebi, bʋmɛkɩ amʋ́ opulu wanklaan a, bʋtenya ɔmɛtɔ ɩlɔ.
 \xe If they birth children and don't look after their navel well they will get abdominal illness.
 \bb Stewart List:0068
@@ -26977,12 +26976,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx opuntu
 \ph opuntu
 \ps n
+\pl mpuntu
+\plph mpuntu
 \sn
 \ge bag
 \is 6.7.3
 \de bag woven from a sisal like plant (finfɛ)
-\pl mpuntu
-\plph mpuntu
 \xv Tɩtɩ amʋ a, aha bʋtɔpʋ amʋ́ atɔ wa opuntutɔ tu ɔkpa. Sesei mʋ́ a, bʋtamatra pʋtu ɔkpa tsufɛ abaagɩ awanklaan bʋ nʋ.
 \xe In the olden days people put their clothes in bags to travel. But now, they do not travel with it because fine bags are available.
 \dt 30/Aug/2016
@@ -27033,6 +27032,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va sia
 \vaph síá
+\pl asia
+\plph asíá
 \sn 1
 \ge mother/father-in-law
 \is 4.1.9.2.2
@@ -27048,8 +27049,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge daughter/son-in-law
 \is 4.1.9.2.2
 \de spouse of your child
-\pl asia
-\plph asíá
 \bb Stewart List:0319
 \bb Stewart List:0320
 \dt 03/Oct/2016
@@ -27060,12 +27059,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va esiebi
 \vaph esiebíʔ (H)
 \ve Southern
+\pl nsiebi
+\plph nsiebíʔ (H)
 \sn
 \ge horn
 \is 1.6.2
 \de horn (of an animal)
-\pl nsiebi
-\plph nsiebíʔ (H)
 \xv Mbwɩ ánɩ́ bʋbʋ nsiebi a, mʋ́ bʋtɔpʋ kɔ.
 \xe Animals that have horns use them to fight.
 \bb Stewart List:0604
@@ -27101,12 +27100,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va esrebi
 \ve Southern
 \vaph osrebi
+\pl asirebi
+\plph asirebi
 \sn
 \ge finger
 \is 2.1.3.3
 \de finger
-\pl asirebi
-\plph asirebi
 \xv Osrebiyin lomoni dʋn asrebi trahɛ.
 \xe The thumb is bigger than the rest of the fingers.
 \bb Stewart List:0021
@@ -27115,12 +27114,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx osrebiyin
 \ph osrebiyĩʔ
 \ps n
+\pl asrebiyin
+\plph asrebiyĩʔ
 \sn
 \ge thumb
 \is 2.1.3.3
 \de thumb
-\pl asrebiyin
-\plph asrebiyĩʔ
 \xv Bʋtamatsʋn osrebiyinsʋ yɛda ɩkpʋn.
 \xe They never by pass the thumb tie a knot (money tied into the corner of a cloth).
 \nt If an elder is in the house nothing is done without his knowledge - so consult him.
@@ -27143,13 +27142,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx osuanpʋ
 \ph osuã́mpʊʔ
 \ps n
+\pl asuanpʋ
+\plph asuã́mpʊʔ
 \sn
 \ge student
 \is 3.6.2
 \is 3.2.2
 \de student or disciple
-\pl asuanpʋ
-\plph asuã́mpʊʔ
 \nt from suan (learn) kasɩ
 \bw Akan fi:osuani LLH
 \xv Osunapʋ amʋ dɛ asuanpʋ amʋ atɔ suna wanklaan, tamɛ osuanpʋ ɔkʋlɛ tamayɔ.
@@ -27190,12 +27189,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx osumpʋ
 \ph osúmpʊ̂ʔ
 \ps n
+\pl asumpʋ
+\plph asúmpʊ́ʔ
 \sn
 \ge servant
 \is 4.5.4.3
 \de servant
-\pl asumpʋ
-\plph asúmpʊ́ʔ
 \cf tswɛ2
 \ce worship
 \xv Osumpʋ odua otosum mʋ wie wanklaan a, mʋ ɩwɩ tɔwa mʋ wie ansigyi .
@@ -27205,12 +27204,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx osun
 \ph osṹ
 \ps n
+\pl nsun
+\plph nsṹ
 \sn
 \ge clan
 \is 4.1.9.8
 \de clan
-\pl nsun
-\plph nsṹ
 \cf osun ɔhandɛ
 \ce head of a clan
 \xv Osun-gyi-osun mʋ́a mʋ́ ɔhandɛ. Fʋa fʋ osun abi mligyi apio dʋn osun bambatɔ abi.
@@ -27220,14 +27219,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx osun ɔhandɛ
 \ph osṹ ɔhandɛʔ
 \ps n
+\pl osun ahandɛ
+\plph osṹ ɔhandɛʔ
 \sn
 \ge clan head
 \is 4.1.9.8
 \is 4.5.1
 \is 2.6.4.5
 \de head of clan
-\pl osun ahandɛ
-\plph osṹ ɔhandɛʔ
 \cf osun
 \ce clan
 \xv Osun-gyi-osun mʋ́a mʋ́ ɔhandɛ.
@@ -27247,12 +27246,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx osunapʋ
 \ph osunápʊ́ʔ
 \ps n
+\pl asunapʋ
+\plph asunápʊ́
 \sn
 \ge teacher
 \is 3.6.2
 \de teacher
-\pl asunapʋ
-\plph asunápʊ́
 \xv Ɔha ánɩ́ otosuna aha atɔ a, osunapʋ ogyi.
 \xe The person that teaches people is a teacher.
 \dt 28/Jul/2013
@@ -27260,12 +27259,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx osupʋ
 \ph osúpʊ̂ʔ
 \ps n
+\pl asupʋ
+\plph asúpʊ̂ʔ
 \sn
 \ge mourner
 \is 2.6.6.4
 \de mourner
-\pl asupʋ
-\plph asúpʊ̂ʔ
 \xv Gya asupʋ amʋ lɛ fuli asɩ nʋ, anya ɔkpa tsu mʋ ya asiɛɩ.
 \xe Sack the mourners from around the corpse so that we have room to take him to the cemetery.
 \sn 2
@@ -27292,13 +27291,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph oswie(H)
 \ps n
+\pl nswie
+\plph nswie
 \sn
 \ge anteater
 \is 1.6.1.1.6
 \de scaly anteater; tree pangolin
 \sc Phataginus tricuspis
-\pl nswie
-\plph nswie
 \xv Nɛmɛntɩ oswie ánɩ́ ɔmɔkʋ wu, nɔpʋ mʋ ba woyitɔ, tsufɛ ɔtamadun.
 \xe I came across a scaly anteater that had not died and brought it back to the house because he does not bite.
 \dt 08/Sep/2016
@@ -27309,12 +27308,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va etebi
 \ph etebiʔ
 \ve Southern
+\pl ntebi
+\plph ntebiʔ
 \sn
 \ge ankle
 \is 2.1.3.2
 \de ankle
-\pl ntebi
-\plph ntebiʔ
 \xv Ɔlɔ dɩn oyin ɔkʋ otebisʋ, mʋ́sʋ ɔlɔwa ntʋkʋta a, omenya anatɩlɛ.
 \xe A certain man has a sore on his ankle, he put on shoes and could not walk well.
 \bb SIL-AWL:0069
@@ -27338,12 +27337,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otintɔ
 \ph otĩntɔ(H)
 \ps n
+\pl ntin
+\plph ntĩ
 \sn
 \ge clan
 \is 4.1.9.8
 \de clan; neighbourhood
-\pl ntin
-\plph ntĩ
 \nt the singular does not usually occur without -tɔ; the plural does not occur with it.
 \xv Anɩ otintɔ aha ɔbɔ́yɔ agyʋma ndɛ, sʋ anɩmɔ́ɔyɔ ndɔ.
 \xe Our clan has communal labour today, so we will not go to farm.
@@ -27366,13 +27365,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otonklo
 \ph otóŋkló
 \ps n
+\pl ntonklo
+\plph ntóŋkló
 \sn
 \ge tobacco
 \is 6.2.1.5.2
 \is 5.2.4
 \de tobacco
-\pl ntonklo
-\plph ntóŋkló
 \xv Otonklo nun maalɛ, tsufɛ ɩtɛha ɩlɔ.
 \xe Smoking of tobacco is not good because it causes sickness.
 \dt 31/May/2016
@@ -27391,12 +27390,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otse
 \ph ot͡sé
 \ps n
+\pl ntse
+\plph nt͡sé
 \sn
 \ge cocoyam bulb
 \is 6.2.1.2
 \de cocoyam bulb which is used for planting
-\pl ntse
-\plph nt͡sé
 \xv Bʋtɔbɔ́ɩ mankani otse da mʋ́, tamɛ nɩ fetsii swie a, ɩtɔwa ɔsa wɩ dʋn mʋ́a babɔɩ mʋ́ da amʋ.
 \xe They split cocoyam bulb to plant, but when you uproot the young ones and plant them, they grow faster than the split ones.
 \dt 21/Jun/2014
@@ -27404,12 +27403,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otsi
 \ph ot͡siʔ
 \ps n
+\pl ntsi
+\plph nt͡si
 \sn
 \ge vine
 \is 1.5.3
 \de a certain kind of vine
-\pl ntsi
-\plph nt͡si
 \xv Otsi gyi ɩfla kʋa tomoni. Nkɛtɩ fabɔbɔɩ mʋ́tɔ asa fɛ́talɩ pʋ klɩ atɔ. Ɩtɔwa swɩ dʋ klɛɩ dɩnka nyisʋ. Mʋ́ ɔfɛ amʋ ɛ bʋ alɛ ha ɩdɩn lʋ.
 \xe This is a kind of vine that grows very thick. It is necessary to split it before you use it to tie things. It is long and climbs on trees. It's rope is also good for weaving mats.
 \dt 19/Jul/2016
@@ -27453,13 +27452,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otsin
 \ph ot͡sĩ́ʔ
 \ps n
+\pl ntsin
+\plph nt͡sĩ́ʔ
 \sn
 \ge vein
 \is 2.2.5
 \is 2.1.8.1
 \de vein; artery; blood vessels
-\pl ntsin
-\plph nt͡sĩ́ʔ
 \xv Nokun mɩ bɩ atɔ a, saa lɛka otsin.
 \xe I cut my hand and unexpectedly cut a blood vessel.
 \bb Stewart List:0070
@@ -27469,12 +27468,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otsobi
 \ph ot͡sobíʔ
 \ps n
+\pl ntsobi
+\plph nt͡sobíʔ
 \sn
 \ge mattock
 \is 6.2.8
 \de narrow hoe with no bend used for digging holes
-\pl ntsobi
-\plph nt͡sobíʔ
 \rf Tape:2-2-132
 \xv Gbede dɛ otsobi amʋ ɔnɔ daɩ.
 \xe The blacksmith is hammering the hoe blade (to sharpen it).
@@ -27506,12 +27505,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otsubunɔ
 \ph ot͡subúnɔ
 \ps n
+\pl ntsubunɔ
+\plph nt͡subúnɔ
 \sn
 \ge beach
 \is 1.3.1.3
 \de beach
-\pl ntsubunɔ
-\plph nt͡subúnɔ
 \xv Anɩ ntsusʋ yibi amʋ lalɩɩ otsubunɔ nʋ.
 \xe Our ship has landed at the beach.
 \dt 23/Jun/2014
@@ -27557,13 +27556,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otua
 \ph otua(L)
 \ps n
+\pl ntua
+\plph ntua
 \sn
 \ge gun
 \is 6.4.1
 \is 4.8.3
 \de gun
-\pl ntua
-\plph ntua
 \xv Ɔtapʋ amʋ lada ɔbwɩ amʋ otua.
 \xe The hunter has shot the animal with his gun.
 \bb Stewart List:1192
@@ -27581,12 +27580,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otubi
 \ph otubíʔ
 \ps n
+\pl ntubi
+\plph ntubíʔ
 \sn
 \ge spoon
 \is 5.2.1.3
 \de spoon
-\pl ntubi
-\plph ntubíʔ
 \cf ɔtʋ
 \ce ladle
 \xv Tsu mɩ otubi amʋ ba, mɩampʋ nun koko.
@@ -27609,13 +27608,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otuntu
 \ph otuntuʔ
 \ps n
+\pl ntuntu
+\plph ntuntuʔ
 \sn
 \ge gourd
 \is 6.7.3
 \is 1.5.3
 \de gourd that grows on a tree that is easily climbed
-\pl ntuntu
-\plph ntuntuʔ
 \xv Tsu otuntu amʋ afʋsa ntsu wa mʋ́tɔ.
 \xe Take the gourd and fetch water into it.
 \dt 19/Jun/2014
@@ -27623,13 +27622,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx otuntubi
 \ph otuntubi(H)
 \ps n
+\pl ntuntubi
+\plph ntuntubi(H)
 \sn
 \ge gourd
 \is 6.7.3
 \is 1.5.3
 \de small gourd
-\pl ntuntubi
-\plph ntuntubi(H)
 \xv Anɩ anain betsia pʋ amʋ́ asɩra wa ntuntubitɔ.
 \xe Our grandfathers used to put their snuff into small gourds.
 \dt 19/Jun/2014
@@ -27732,12 +27731,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va wie
 \vaph wieʔ
+\pl awie
+\plph awíe
 \sn 1
 \ge chief
 \is 4.6.1
 \de chief
-\pl awie
-\plph awíe
 \cf iwiegyi
 \ce chieftaincy
 \cf owie ogyikpa
@@ -27781,12 +27780,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va owikplu
 \ve Youth
 \ps n
+\pl awikplu
+\plph awik͡plu(H)
 \sn
 \ge thief
 \is 6.8.9.1
 \de thief
-\pl awikplu
-\plph awik͡plu(H)
 \xv Fowi owikplu atɔ a, ɩtɛhan mʋ dʋbɩ, tsufɛ mʋ ɛ otowi aha atɔ.
 \xe If you steal a thief's things it troubles him a lot because he also steals peoples things.
 \bb Stewart List:0413
@@ -27823,12 +27822,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx owu
 \ph owu(H)
 \ps n
+\pl awu
+\plph awu
 \sn
 \ge thorn
 \is 1.5.5
 \de thorn
-\pl awu
-\plph awu
 \xv Owu latsan mɩ.
 \xe A thorn scratched me.
 \xv Owu lawɔ mɩ, sʋ bɛlɛ mʋ́ ha mɩ.
@@ -27856,13 +27855,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx owupʋ
 \ph owupʊ́ʔ
 \ps n
+\pl awupʋ
+\plph awupʊʔ
 \sn
 \ge dead person
 \is 1.4.1
 \is 2.6.6.8
 \de a dead person, long dead not someone who has just died
-\pl awupʋ
-\plph awupʊʔ
 \cf ifuli
 \ce corpse
 \xv Ɔha ánɩ́ alawu tsʋn a, bʋtɛtɩ mʋ owupʋ.
@@ -27884,6 +27883,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oyi
 \ph oyíʔ
 \ps n
+\pl nyi
+\plph ɲyí
 \sn 1
 \ge tree
 \is 1.5.1
@@ -27892,8 +27893,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I will take an axe and fell a big tree on my farm.
 \nt From ths: kinds of trees: ɔbɛ (palm nut tree), agode(coconut), bombolintsu(tulip tree), kankaba (orange), paya (avocado), ntunkum(soursop), ɔgywɩyaa (lemon)
 \bb Stewart List:0851
-\pl nyi
-\plph ɲyí
 \ps n
 \sn 2
 \ge stick
@@ -27913,14 +27912,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oyi ibi
 \ph oyí ibí
 \ps n
+\pl oyi abi
+\plph oyí abí
 \sn
 \ge fruit
 \is 1.5.5
 \is 1.5.5
 \is 6.2.5.3
 \de fruit
-\pl oyi abi
-\plph oyí abí
 \dt 20/May/2016
 
 \lx oyi ɔma
@@ -27947,12 +27946,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oyibibi
 \ph oyibibíʔ
 \ps n
+\pl nyibibi
+\plph ɲibibíʔ
 \sn
 \ge stick
 \is 1.5.5
 \de small stick; straw of a broom; twig
-\pl nyibibi
-\plph ɲibibíʔ
 \cf oyi
 \ce tree
 \xv Nɔyɔtswɩ oyibibi tsitsa amba.
@@ -27965,12 +27964,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oyikpalihɛ
 \ph oyik͡palíhɛ
 \ps n
+\pl nyikpalihɛ
+\plph ɲik͡palíhɛ
 \sn
 \ge cross
 \is 4.9.7.2
 \de cross
-\pl nyikpalihɛ
-\plph ɲik͡palíhɛ
 \xv Bɛda Yesu manta oyikpalihɛsʋ, olowu pʋ hɔ aha fɛ́ɛ́ nkpa.
 \xe Jesus was nailed on to the cross, He died and saved all people.
 \cf asendua
@@ -27982,12 +27981,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va owikplu
 \ve Youth
+\pl ayikplu
+\plph ayik͡plu(H)
 \sn
 \ge thief
 \is 6.8.9.1
 \de thief
-\pl ayikplu
-\plph ayik͡plu(H)
 \dt 03/Oct/2016
 
 \lx oyin
@@ -27995,13 +27994,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va yin
 \vaph yĩ(H)
+\pl ayin
+\plph ayĩ(H)
 \sn
 \ge man
 \is 2.6.5.1
 \is 2.6.4.4
 \de man (male)
-\pl ayin
-\plph ayĩ(H)
 \cf -yin
 \ce 'Xer
 \rf Tape:5-1-587
@@ -28018,13 +28017,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va yin
 \vaph yĩ́
+\pl ayín
+\plph ayĩ́
 \sn
 \ge mother
 \is 4.1.9.1.2
 \is 2.6.5.2
 \de mother
-\pl ayín
-\plph ayĩ́
 \rf Tape:8-1-584
 \xv Mʋ yin gyi ɔtsɩ anfɩ, tsufɛ mʋ lɔkwɩɩ mʋ.
 \xe His mother is this woman, because she gave birth to him.
@@ -28037,13 +28036,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va eyinflɛ
 \ph eyiɱflɛʔ
 \ve Southern
+\pl nyinflɛ
+\plph ɲiɱflɛ
 \sn 1
 \ge gums
 \is 2.1.1.4
 \de space in between two teeth
 \nt etym. teeth sheath
-\pl nyinflɛ
-\plph ɲiɱflɛ
 \na Space between the teeth is considered beautiful in Ghana.
 \xv Nyinflɛ onuto bʋ akɩlɛ.
 \xe Natural gums itself is beautiful.
@@ -28074,12 +28073,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx oyitsu
 \ph oyit͡suʔ
 \ps n
+\pl ayitsu
+\plph ayit͡suʔ
 \sn
 \ge eagle
 \is 1.6.1.2
 \de large eagle
-\pl ayitsu
-\plph ayit͡suʔ
 \nt smaller one nwapʋ /hawk
 \xv Oyitsu gyi obubwi ánɩ́ olomoni. Ɔmʋ́a ɔlɛhɩɛ moni a, ototsu aha.
 \xe An eagle is a large bird. The largest take people.
@@ -28220,12 +28219,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔ- -tɔ
 \ph ɔ- -tɔ
 \ps NOMR
+\pl a- -tɔ
+\plph a- -tɔ
 \sn
 \ge instrument
 \is 9.5.1.2
 \de an instrument used in doing something; ɔ-X-tɔ something that is used in doing X.
-\pl a- -tɔ
-\plph a- -tɔ
 \rf Tape:5-2-103
 \xv abietɔ
 \xe things to bathe with
@@ -28280,13 +28279,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔba(H)
 \ps n
 \va ba
+\pl aba
+\plph aba(H)
 \sn
 \ge companion
 \is 7.2.5
 \is 4.1.1
 \de neighbour; one who is associated with a person; companion
-\pl aba
-\plph aba(H)
 \cf ɔ- -ba
 \ce mate
 \cf aba-
@@ -28298,12 +28297,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔbaan
 \ph ɔbã̂ːʔ
 \ps n
+\pl mbaan
+\plph mbã̂ː
 \sn
 \ge sprout
 \is 1.5.5
 \de sprout on a yam
-\pl mbaan
-\plph mbã̂ː
 \rf Tape:5-2-138
 \xv Mɩ atɔ dahɛ amʋ lada ɔbaan.
 \xe My setting out things (yams, water yams,) have grown shoots.
@@ -28333,12 +28332,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔbɛ
 \ph ɔbɛ́ʔ
 \ps n
+\pl mbɛ
+\plph mbɛ́ʔ
 \sn
 \ge palm tree
 \is 6.2.1.7
 \de palm tree
-\pl mbɛ
-\plph mbɛ́ʔ
 \xv Mbʋ mbɛ mɩ ndɔtɔ, tamɛ ɔbɛ ɔkʋlɛ tamaswie.
 \xe I have palm trees in my farm, but one does not bear fruit.
 \xv Anɩ tenya nta fututu lɛ ɔbɛtɔ.
@@ -28394,13 +28393,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔbɩma
 \ph ɔbɪmâʔ
 \ps n
+\pl mbɩma
+\plph mbɪmáʔ
 \sn
 \ge back of hand
 \is 2.1.3.1
 \de back of the hand
 \nt etymology? ɔma + ɩbɩ
-\pl mbɩma
-\plph mbɪmáʔ
 \xv Bʋtamapʋ ɔbɩma da ɔha oswie.
 \xe They don't slap someone with the back of the hand.
 \xv Ɔbɩma mɛ́ɛtali kɩta atɔ fɛ ɩbɩtatatɔ.
@@ -28422,13 +28421,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph ɔbɪ̃ʔ
 \ps n
+\pl mbɩn
+\plph mbɪ̃ʔ
 \sn
 \ge arrow
 \is 6.4.1
 \is 4.8.3
 \de arrow
-\pl mbɩn
-\plph mbɪ̃ʔ
 \xv Bʋtɔpʋ ɩta tswɩ ɔbɩn.
 \xe They use a bow to shoot an arrow.
 \rf Tape:5-2-178
@@ -28440,12 +28439,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔbɩwɛtɔ
 \ph ɔbɪwɛtɔ(H)
 \ps n
+\pl mbɩwɛtɔ
+\plph mbɪwɛtɔ
 \sn
 \ge wrist
 \is 2.1.3.1
 \de wrist
-\pl mbɩwɛtɔ
-\plph mbɪwɛtɔ
 \rf Tape:5-2-183
 \xv Ɔtsɩ amʋ lɔwa abuto mʋ ɔbɩwɛtɔ.
 \xe The woman put beads on her wrist.
@@ -28466,14 +28465,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔblakɩtɩ
 \ph ɔblákɪtɪ
 \ps n
+\pl mblakɩtɩ
+\plph mblákɪtɪ
 \sn
 \ge gecko
 \is 1.6.1.3.2
 \de wall gecko
 \nt probably tropical house gecko
 \sc Hemidactylus mabouia
-\pl mblakɩtɩ
-\plph mblákɪtɪ
 \xv Kebi amʋ lamɔ ɔblakɩtɩ amʋ́ʋ́ ɔpan buntiisʋ amʋ.
 \xe The child has killed the wall gecko which was on the wall.
 \dt 07/Sep/2016
@@ -28481,14 +28480,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔblakwɛ
 \ph ɔblakwɛʔ
 \ps n
+\pl mblakwɛ
+\plph mblakwɛ
 \sn
 \ge central palm
 \is 6.2.5.4
 \is 6.2.1.7
 \de the new central palm growth
 \na It is used to call fetish and is planted as an oath.
-\pl mblakwɛ
-\plph mblakwɛ
 \nt It is taboo to bring ɔblakwɛ into town, but Christians do it on Palm Sunday.
 \xv Bʋtɛtalɩ pʋ ɔblakwɛ bwɛ ɔfɛ klɩ atɔ.
 \xe They can take ɔblakwɛ and use it to make rope to tie things.
@@ -28501,12 +28500,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔblapʋ
 \ph ɔblapʊ(H)
 \ps n
+\pl ablapʋ
+\plph ablapʊ
 \sn
 \ge menstruating woman
 \is 2.1.8.4
 \de women who are menstruating
-\pl ablapʋ
-\plph ablapʊ
 \xv Owie ntɛ ɔkpɩpʋ tamagyi ɔblapʋ atɔ.
 \xe A chief or a fetish priest never eats food prepared by a woman under menstruation.
 \dt 19/Jul/2016
@@ -28514,12 +28513,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔblatɩɩ
 \ph ɔblatɪ̂ːʔ
 \ps n
+\pl mblatɩɩ
+\plph mblatɪ̂ːʔ
 \sn
 \ge small snail
 \is 1.6.1.9
 \de a small snail
-\pl mblatɩɩ
-\plph mblatɪ̂ːʔ
 \rf Tape:5-2-189
 \xv Mblatɩɩ bʋtetsia kpoli pɔpwɛ ndɔtɔ.
 \xe Small snails live in new corn farms.
@@ -28546,13 +28545,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph ɔblɪ
 \ps n
+\pl mblɩ
+\plph mblɪ
 \sn
 \ge tube
 \is 1.5.5
 \is 5.2.3.7.1
 \de a tube from a certain grass used in palm wine tapping to allow the sap to drain into a pot
-\pl mblɩ
-\plph mblɪ
 \xv Ɔblɩ bʋtɔpʋ tin ɔbɛ pʋ wa ibuntɔ, mɛnɩ nta bénya ɔkpa wie ibuntɔ wanklaan.
 \xe A tube is used to connect pot to the palm tree, so that the palm wine will pass through it into the pot.
 \dt 19/Jul/2016
@@ -28605,13 +28604,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph ɔbɔ́
 \ps n
+\pl mbɔ
+\plph mbɔ́
 \sn
 \ge hole
 \is 7.8.5
 \is 1.6.5
 \de hole
-\pl mbɔ
-\plph mbɔ́
 \xv fuli ɔbɔ
 \xe grave (until filled in)
 \rf Tape:5-2-222
@@ -28641,12 +28640,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔbɔpʋ
 \ph ɔbɔpʊ(L)
 \ps n
+\pl abɔpʋ
+\plph abɔpʊ
 \sn
 \ge messenger
 \is 3.5.2.2
 \de messenger
-\pl abɔpʋ
-\plph abɔpʊ
 \rf Tape:5-2-227
 \xv Anɩlɔwa ɔbɔpʋ (obi) mʋ wa ánɩ́ ɔba, tsufɛ asʋn laba.
 \xe We sent a messenger to him that he should come because a case has come up.
@@ -28706,12 +28705,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph ɔbʊ̃́ʔ(H)
 \ps n
+\pl abʋn
+\plph abʊ̃́ʔ
 \sn
 \ge stream
 \is 1.3.1.3
 \de a stream
-\pl abʋn
-\plph abʊ̃́ʔ
 \xv Ɔbʋntɔ ntsu bʋ anunlɛ.
 \xe Stream water is good to drink.
 \dt 30/Jun/2014
@@ -28719,12 +28718,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔbʋnkpabi
 \ph ɔbʊŋ͡mk͡pabi
 \ps n
+\pl abʋnkpabi
+\plph abʊŋ͡mk͡pabi
 \sn
 \ge brook
 \is 1.3.1.3
 \de a small stream
-\pl abʋnkpabi
-\plph abʊŋ͡mk͡pabi
 \xv Nyankpʋ tswie brɛ a, ɔbʋnkpabi fa bʋ alɛ dʋn bʋnkpa yile fa, tsufɛ ntsu tomoni bʋnkpa yiletɔ dʋn ɔbʋnkpabitɔ.
 \xe It is easier to cross a brook in the raining season than to cross a big stream, because water flows very much than in a brook.
 \dt 13/Jul/2014
@@ -28732,13 +28731,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔbʋnsam
 \ph ɔbʊnsám
 \ps n
+\pl abʋnsam
+\plph abʊnsám
 \sn
 \ge evil spirit
 \is 4.9.7.3
 \is 4.9.7.2
 \de Satan; evil spirit
-\pl abʋnsam
-\plph abʊnsám
 \bw Akan fi:
 \rf Tape:5-2-247
 \xv Ɔhagyiɔha ánɩ́ ɔtɔbwɛ lalahɛ a, ɔbʋnsam mʋ bi ogyi.
@@ -28750,12 +28749,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔbwata
 \ph ɔbʷata(H)
 \ps n
+\pl mbwata
+\plph mbʷata(H)
 \sn
 \ge shuttle
 \is 6.6.1
 \de a weaver's shuttle
-\pl mbwata
-\plph mbʷata(H)
 \xv Tati ɔlʋpʋ amʋ ɔbwata layɩnta, sʋ alasi atati lʋ.
 \xe The weaver's shuttle has spoiled, so he has stopped weaving.
 \dt 20/May/2016
@@ -28766,12 +28765,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va ɛbwɩ
 \vaph ɛbʷɪ(H)
 \ve Southern
+\pl mbʷɩ
+\plph mbwɪ
 \sn
 \ge animal
 \is 1.6
 \de an animal, non-human animate thing
-\pl mbʷɩ
-\plph mbwɪ
 \rf Tape:5-2-253
 \xv Ɔbwɩ ɔkʋ dɛ mɩ atɔ yinta.
 \xe A certain animal is spoiling my things.
@@ -28781,12 +28780,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔda
 \ph ɔdaʔ
 \ps n
+\pl nda
+\plph ndaʔ
 \sn
 \ge jaw
 \is 2.1.1
 \de jaw
-\pl nda
-\plph ndaʔ
 \rf Tape:5-2-258
 \xv Awú amʋʋ́ nadun bwie amʋ bʋ ɔnlɩn dʋbɩ, sʋ mɩ ɔda dɛ mɩ dwiin.
 \xe The bones I have bitten and broke were too strong so my jaw is aching me.
@@ -28797,12 +28796,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdadʋwa
 \ph ɔdadʊwa(H)
 \ps n
+\pl ndadʋwa
+\plph ndadʊwa
 \sn
 \ge fish hook
 \is 6.4.5
 \de fishing line with hooks
-\pl ndadʋwa
-\plph ndadʊwa
 \nt ndadʋwa is also a multihooked, baited, weighted fishing line that is laid from a boat into deep water to catch large fish.
 \xv Fɔpʋ ɔtsabi yi ɔdadʋwa ɔnɔ a, fɛ́lɛ iyie yile.
 \xe If you bait a hook with a small fish you will catch a big fish.
@@ -28826,12 +28825,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdakpokpo
 \ph ɔdak͡pok͡po
 \ps n
+\pl ndakpokpo
+\plph ndak͡pok͡po
 \sn
 \ge woodpecker
 \is 1.6.1.2
 \de woodpecker
-\pl ndakpokpo
-\plph ndak͡pok͡po
 \cf klɛkpakpa
 \ce woodpecker; Northern dialect
 \rf Tape:3-2-216
@@ -28843,13 +28842,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdandʋ
 \ph ɔdandʊ
 \ps n
+\pl ndandʋ
+\plph ndandʊ
 \sn
 \ge tongue
 \is 2.1.1.4
 \is 3.5.3
 \de tongue
-\pl ndandʋ
-\plph ndandʊ
 \rf Tape:5-2-264
 \xv Ɔhaa tamatalɩ kɩta ɔdandʋ otsia diin kɩ.
 \xe No one can control his tongue.
@@ -28875,25 +28874,25 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdansɩyin
 \ph ɔdãnsɪyĩʔ
 \ps n
+\pl adansɩfɔ
+\plph adãnsɪfɔ
 \sn
 \ge witness
 \is 4.6.6.1.2
 \is 4.6.6.1
 \de one who witnesses
-\pl adansɩfɔ
-\plph adãnsɪfɔ
 \dt 22/Jul/2016
 
 \lx ɔdanta
 \hm 1
 \ph ɔdántá
 \ps n
+\pl ndanta
+\plph ndántá
 \sn
 \ge loincloth
 \is 5.3.3
 \de loincloth
-\pl ndanta
-\plph ndántá
 \na In the older days they took the bark of the poli tree and beat it to remove the outer layers and used the inner flexible layers to make cloth and mats.
 \na so Igna suggest that the etymology here is pounded cloth ɔda ɔtan
 \xv Atɩtɩfɔ bʋtɛda poli afwɛ bwɛ ɔdanta pʋ́ ɔklan.
@@ -28904,12 +28903,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph ɔdanta(H)
 \ps n
+\pl ndanta
+\plph ndanta(H)
 \sn
 \ge pistol
 \is 4.8.3.7
 \de muzzle loaded pistol
-\pl ndanta
-\plph ndanta(H)
 \bw Akan fi:danta LH
 \np this shows the tone shift that has occured Twi danta LH -> LL(H).
 \cf otua ohoun
@@ -28921,12 +28920,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdantrʋba
 \ph ɔdantrʊ́ba(H)
 \ps n
+\pl ndantrʋba
+\plph ndantrʊ́ba(H)
 \sn
 \ge clamshell
 \is 1.6.2.5
 \de clamshell
-\pl ndantrʋba
-\plph ndantrʊ́ba(H)
 \xv Nɩ fowuli mbɔdɩ, ɩhɔ wa darɩsɛɩntɔ a, fawa ntsu mʋ́tɔ. Ɩpɔn a, fapʋ ɔdantrʋba nwɔsɩ mʋ́tɔ.
 \xe If you stirred porridge and it burned in the pot, put water in it. When it is soft, use clamshell to scrape it.
 \nt Are there other kinds of shells. What about a snail shell, tanibi, ɔkɔtɔ. What about adɔdɩ (not in dictionary)
@@ -28936,13 +28935,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdanʋ
 \ph ɔdanʊ́
 \ps n
+\pl ndanʋ
+\plph ndanʊ́
 \sn
 \ge edge
 \is 6.6.1.1
 \is 6.6.1.2
 \de finished edge of cloth or dress
-\pl ndanʋ
-\plph ndanʊ́
 \xv Mɩ tati amʋ ɔdanʋ latɩtɩ, tsufɛ atɔ ɔbɩnpʋ amʋ mɛbɩn mʋ́ wanklaan.
 \xe The edge of my cloth has torn, because the tailor did not sew it well.
 \dt 21/Jun/2014
@@ -28950,6 +28949,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdatobi
 \ph ɔdatobi(H)
 \ps n
+\pl ndatobi
+\plph ndatobi(H)
 \sn
 \ge nail
 \is 6.5.3
@@ -28957,8 +28958,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 6.7.5
 \is 7.5.2
 \de nail
-\pl ndatobi
-\plph ndatobi(H)
 \ng ɔdatɔ metal thing (nail) oda+ɩtɔ
 \rf Tape:5-2-270
 \xv Lɛ ɔdatobi bɛda ɩban amʋ ha mɩ.
@@ -28968,12 +28967,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdawu
 \ph ɔdawuʔ
 \ps n
+\pl ndawu
+\plph ndawuʔ
 \sn
 \ge chin
 \is 2.1.1
 \de chin
-\pl ndawu
-\plph ndawuʔ
 \cf ikwitɔ
 \ce beard
 \rf Tape:5-2-274
@@ -28986,14 +28985,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdayi
 \ph ɔdayí
 \ps n
+\pl ndayi
+\plph ndayí
 \sn
 \ge knife
 \is 5.2.1.3
 \is 6.6.2.3
 \de knife
 \nt da+o yi 'metal stick' cf ɩdatɔ da+ɩ tɔ
-\pl ndayi
-\plph ndayí
 \rf Tape:5-2-281
 \xv Anɩtɔpʋ ɔdayi sire atɔ.
 \xe We use knives for peeling/carving things.
@@ -29017,13 +29016,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔdɛ́hɛ̃́ʔ
 \ps n
 \va dɛhɛn
+\pl adɛhɛn
+\plph adɛ́hɛ̃́ʔ
 \sn 1
 \ge older sibling
 \is 4.1.9.1.3
 \is 8.4.6.5.2
 \de older, used only with humans
-\pl adɛhɛn
-\plph adɛ́hɛ̃́ʔ
 \rf Tape:2-1-297
 \xv Mɩ dɛhɛn gyi Kwame, Kwame ɛ mʋ gyama gyi mɩ.
 \xe My older brother is Kwame. Kwame too his junior brother am I.
@@ -29058,12 +29057,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdɩ
 \ph ɔdɪ́
 \ps n
+\pl ndɩ
+\plph ndɪ́
 \sn
 \ge another town
 \is 9.5.1.6.4
 \de another town
-\pl ndɩ
-\plph ndɪ́
 \rf Tape:5-2-287
 \xv Aha anfɩ botsu ɔdɩ, bʋmotsu anɩ wulutɔ.
 \xe These people came from another town, they are not from our town.
@@ -29138,14 +29137,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔdɔ̃́ʔ
 \ps n
 \va do
+\pl ndɔn
+\plph ndɔ̃́ʔ
 \sn
 \ge bell
 \is 6.6.2.3
 \is 4.2.2.3
 \is 4.2.3.5
 \de bell
-\pl ndɔn
-\plph ndɔ̃́ʔ
 \bw Akan fi:ɔdɔn
 \rf Tape:5-2-301
 \xv Asɔrɩ ɔdɔn dɛda.
@@ -29158,23 +29157,23 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdɔpʋ
 \ph ɔdɔ́pʊ
 \ps n
+\pl ɔdɔpʋ
+\plph adɔ́pʊ
 \sn
 \ge farm worker
 \de one who works on a farm
 \is 6.2.1
-\pl ɔdɔpʋ
-\plph adɔ́pʊ
 \dt 22/Apr/2016
 
 \lx ɔdɔtɔpʋ
 \ph ɔdɔtɔpʊ
 \ps n
+\pl adɔtɔpʋ
+\plph adɔtɔpʊ
 \sn
 \ge farmer
 \is 6.2.1
 \de farmer
-\pl adɔtɔpʋ
-\plph adɔtɔpʊ
 \nt ɔdɔpʋ is farm worker, ɔdɔtɔpʋ is farm owner
 \xv Tsia gyo anɩ Wie Yesu Kristo ɩbá, fɛ alɩa ɔdɔtɔpʋ tenya ɩklʋn tsia gyo nyankpʋ amʋ.
 \xe Wait for our Lord Jesus Christ's coming like a farmer waits patiently for rain.
@@ -29302,12 +29301,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔfapʋ
 \ph ɔfápʊ́
 \ps n
+\pl afapʋ
+\plph afápʊ́
 \sn
 \ge herbalist
 \is 2.5.7.5
 \de a person who uses herbs for medicine
-\pl afapʋ
-\plph afápʊ́
 \xv Takyi gyi ɔfapʋ wulu anfɩtɔ nɩ.
 \xe Takyi is the herbalist in this town.
 \dt 21/Jul/2016
@@ -29315,12 +29314,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔfɛ
 \ph ɔfɛ́
 \ps n
+\pl ɩfɛ́
+\plph ɪfɛ́
 \sn
 \ge rope
 \is 7.5.4.1
 \de rope
-\pl ɩfɛ́
-\plph ɪfɛ́
 \cf ɔfɛtɩ
 \ce telephone
 \nt in Northern dialect this is a homonym with ɛfɛ
@@ -29338,12 +29337,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔfɛsɩ
 \ph ɔfɛsɪ́
 \ps n
+\pl nfɛsɩ
+\plph ɱfɛsɪ́
 \sn 1
 \ge broom
 \is 5.2.1.3
 \de short broom with no handle made from the stems of palm leaves
-\pl nfɛsɩ
-\plph ɱfɛsɪ́
 \rf Tape:5-2-343
 \xv Nɔhɔ ɔfɛsɩ, mɩantsia pʋ fɛɩ obuto.
 \xe I will buy a broom in order that I will always take it and sweep the room.
@@ -29386,14 +29385,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔflɛ
 \ph ɔflɛʔ
 \ps n
+\pl nflɛ
+\plph ɱflɛʔ
 \sn
 \ge sheath
 \is 5.2.1.3
 \is 6.6.2.3
 \is 4.8.3
 \de knife sheath
-\pl nflɛ
-\plph ɱflɛʔ
 \xv Pio ɔdai amʋ lɛ mʋ́ ɔflɛtɔ ba mɩ.
 \xe Pull the knife out of its sheath and bring it to me.
 \xv Nɩ ɔdaɩ bʋ ɔflɛtɔ a, mʋ́ ɩbʋ ifu tamɛ nɩ bépio mʋ́ lɛ mʋ́a, ɩtra ma ifu.
@@ -29403,12 +29402,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔfɔɔ
 \ph ɔfɔ̌ː
 \ps n
+\pl afɔɔ
+\plph afɔ̌ː
 \sn
 \ge stranger
 \is 4.6.2.1
 \de stranger, guest
-\pl afɔɔ
-\plph afɔ̌ː
 \rf Tape:5-2-348
 \xv Ɔfɔɔ meyin wulutɔ asʋn.
 \xe The stranger doesn't know what is happening in the town.
@@ -29423,13 +29422,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔfranka
 \ph ɔfráŋka(H)
 \ps n
+\pl nfranka
+\plph ɱfráŋka(H)
 \sn
 \ge flag
 \de flag
 \is 4.6.3
 \is 4.8.3
-\pl nfranka
-\plph ɱfráŋka(H)
 \bw English fi:flag (through Akan)
 \rf Tape:5-2-355
 \xv Ɔdɛ asafʋ ɔfranka amʋ wʋna.
@@ -29519,12 +29518,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔha
 \ph ɔhá
 \ps n
+\pl aha
+\plph ahá
 \sn
 \ge person
 \is 2
 \de person
-\pl aha
-\plph ahá
 \rf Tape:5-2-382
 \xv Ɔha yile ogyi.
 \xe He is a good person.
@@ -29621,12 +29620,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔká
 \ps n
 \va ka
+\pl aka
+\plph aká
 \sn
 \ge wife
 \is 4.1.9.2.1
 \de wife
-\pl aka
-\plph aká
 \va ka
 \vaph ka
 \xv Owie Krafi mʋa mʋ ka bɔkwɩɩ abi ana.
@@ -29669,12 +29668,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkaba
 \ph ɔkabá
 \ps n
+\pl akaba
+\plph akabá
 \sn
 \ge rival
 \is 4.1.9.2
 \de co-wife
-\pl akaba
-\plph akabá
 \xv Ɔkaba gyi mɩ kulu mʋ ka nyɔɔsɩ.
 \xe A co-wife is my husband's second wife.
 \xv Akaba abi bʋtobwie woyi, tsufɛ bʋtɛpɩrɩ agyapadɩɛ.
@@ -29696,6 +29695,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkan
 \ph ɔkãʔ
 \ps n
+\pl nkan
+\plph ŋkãʔ
 \sn
 \ge gong-gong
 \is 3.5.1.2.1
@@ -29703,8 +29704,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 4.2.2.3
 \is 4.2.3.5
 \de gong-gong
-\pl nkan
-\plph ŋkãʔ
 \rf Tape:5-2-404
 \xv Bʋdɛ ɔkan da tɩ anɩ bɛɛ abéfia dɩnsʋ.
 \xe They are beating gong-gong, inviting us to the durbar ground.
@@ -29741,13 +29740,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkandɩɛ
 \ph ɔkandɪ́ɛ́
 \ps n
+\pl nkandɩɛ
+\plph ŋkandɪ́ɛ́
 \sn 1
 \ge lantern
 \is 5.1
 \is 8.3.3.1.1
 \de lantern, lamp or light
-\pl nkandɩɛ
-\plph ŋkandɪ́ɛ́
 \bw Akan fi:kanɩa
 \rf Tape:5-2-002
 \xv Alanywɛ ɔkandɩɛ yaɩ obuto.
@@ -29784,13 +29783,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkasɩpʋ
 \ph ɔkasɪ́pʊ́
 \ps n
+\pl akasɩpʋ
+\plph akasɪ́pʊ́
 \sn
 \ge disciple
 \is 4.5.4.5
 \is 3.2.2
 \de a person who imitates
-\pl akasɩpʋ
-\plph akasɪ́pʊ́
 \xv Ɔkasɩpʋ gyi ɔha ánɩ́ ɔtɛkasɩ mʋ wie, lɩan mʋ.
 \xe A disciple is a person who imitates his master to resemble him.
 \xv Akristofɔ bʋbwɛ Yesu akasɩpʋ mɛnɩ bɛ́lɩan Mʋ.
@@ -29840,12 +29839,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkɛkɛ
 \ph ɔkɛkɛ́
 \ps n
+\pl nkɛkɛ
+\plph ŋkɛkɛ́
 \sn
 \ge grasshopper
 \is 1.6.1.7
 \de small grasshopper
-\pl nkɛkɛ
-\plph ŋkɛkɛ́
 \rf Tape:5-2-424
 \xv Ɔkɛkɛ amʋ gyon buntisʋ, batɛ lofuli ánɩ́ ɔbɔ́tswɛ mʋ alɩ a, olotu si mʋ.
 \xe The grasshopper was perched on the wall, a chicken flew in order to catch him so, he took off and left him.
@@ -29880,12 +29879,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkɩankpatɔ
 \ph ɔkɪaŋ͡mk͡patɔ
 \ps n
+\pl akɩankpatɔ
+\plph akɪaŋ͡mk͡patɔ
 \sn
 \ge living
 \is 1.4
 \de living thing
-\pl akɩankpatɔ
-\plph akɪaŋ͡mk͡patɔ
 \dt 15/Aug/2013
 
 \lx ɔkɩta
@@ -29908,12 +29907,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkla
 \ph ɔkláʔ (L)
 \ps n
+\pl akla
+\plph aklá
 \sn
 \ge soul
 \is 8.3.3.2.1
 \de soul
-\pl akla
-\plph aklá
 \rf Tape:5-2-440
 \xv Ɔkla amʋ́ʋ́ otse nyankpʋsatɔ amʋ a, ɔdalɩ a, ɔyɔ mʋ wie Bulu wa.
 \xe when the soul that lives in man leaves, it goes to his owner, God.
@@ -29924,12 +29923,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔklan
 \ph ɔklãʔ
 \ps n
+\pl nklan
+\plph ŋklãʔ
 \sn
 \ge mat
 \is 5.1.1.3
 \de mat
-\pl nklan
-\plph ŋklãʔ
 \rf Tape:5-2-446
 \xv Anɩtɛdɩ nklansʋ.
 \xe We sleep on mats.
@@ -29939,13 +29938,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔklantida
 \ph ɔklãntida
 \ps n
+\pl aklantida
+\plph aklantida
 \sn
 \ge old mat
 \is 5.1.1.3
 \is 6.6.3
 \de old sleeping mat
-\pl aklantida
-\plph aklantida
 \xv Lɛ fʋ ɔklantida amʋ lɛ obu amʋtɔ, afʋfɛɩ nʋ. Ɩnʋ lawa nyanya.
 \xe Remove your old cloths and sleeping mats from the room, so that you can sweep there. There has become nasty, dirty.
 \cf aklantida
@@ -29956,12 +29955,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔklɛbɔ
 \ph ɔklɛbɔ
 \ps n
+\pl nklɛbɔ
+\plph ŋklɛbɔ
 \sn
 \ge turtle
 \is 1.6.1.3.3
 \de turtle
-\pl nklɛbɔ
-\plph ŋklɛbɔ
 \xv Ɔklɛbɔ gyi ntsutso sawun.
 \xe Turtle is a water tortoise.
 \xv Ɔklɛbɔ oboyi bʋswɩ dʋn sawun.
@@ -29983,13 +29982,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔklʋn
 \ph ɔklʊ̃ʔ
 \ps n
+\pl nklʋn
+\plph ŋklʊ̃
 \sn
 \ge boat
 \is 6.4.5
 \is 7.2.4.2.1
 \de boat; canoe
-\pl nklʋn
-\plph ŋklʊ̃
 \rf Tape:5-2-456
 \xv Bʋtetsia ɔklʋntɔ fa ntsu.
 \xe They sit in a boat to cross a river.
@@ -30009,12 +30008,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkɔmfɔbowuo
 \ph ɔkɔɱfɔbowuo(H)
 \ps n
+\pl nkɔmfɔbowuo
+\plph ŋkɔɱfɔbowuo(H)
 \sn
 \ge chameleon
 \is 1.6.1.3.2
 \de chameleon
-\pl nkɔmfɔbowuo
-\plph ŋkɔɱfɔbowuo(H)
 \nt Used only in Northern dialect is "fetish priest says he will die" in Akan (perhaps the name is lost due to taboo deformation, as the chameleon is used in magic).
 \va ologyo
 \ve Southern
@@ -30030,12 +30029,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkɔntɩ
 \ph ɔkɔntɪ
 \ps n
+\pl nkɔntɩ
+\plph ŋkɔntɪ
 \sn
 \ge crook
 \is 6.2.8
 \de short wooden crook used in weeding
-\pl nkɔntɩ
-\plph ŋkɔntɪ
 \rf Tape:5-2-467
 \xv Ɔkɔntɩ pʋ́ krantɩɛ anɩtɔpʋ dɔ. Ɩtɛha ɩdɔ amʋ tɛpɩn.
 \xe We use a wooden crook and a cutlass to weed. It makes the weeding smooth (does not leave ragged clumps).
@@ -30044,12 +30043,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkɔtɔ
 \ph ɔkɔ́tɔ(H)
 \ps n
+\pl nkɔtɔ
+\plph ŋkɔ́tɔ(H)
 \sn
 \ge crab
 \is 1.6.1.9
 \de crab
-\pl nkɔtɔ
-\plph ŋkɔ́tɔ(H)
 \sc Liberonautes latidactylus?
 \rf Tape:5-2-472
 \xv Ndɛ ɔkɔtɔ kɩta bʋnkpa amʋtɔ.
@@ -30063,12 +30062,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpa
 \ph ɔk͡pa(H)
 \ps n
+\pl nkpa
+\plph ŋ͡mk͡pa
 \sn 1
 \ge path
 \is 6.5.4.1
 \de path, road
-\pl nkpa
-\plph ŋ͡mk͡pa
 \rf Tape:5-2-484
 \xv Nyankpʋ latswie yinta anɩ lɔɔrɩ ɔkpa.
 \xe Rain has fallen and spoiled our car road.
@@ -30129,12 +30128,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpabaɩ
 \ph ɔk͡pabaɪ́ʔ
 \ps n
+\pl ɩkpabaɩ
+\plph ɪk͡pabáɪ
 \sn
 \ge junction
 \is 6.5.4.1
 \de more common to use Akan nkwanta
-\pl ɩkpabaɩ
-\plph ɪk͡pabáɪ
 \rf Tape:5-2-512
 \xv Nawie mɩ ɔkpabaɩ, sʋ abéfia.
 \xe I have reached my junction, so we will meet later.
@@ -30144,12 +30143,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph ɔk͡pabí(H)
 \ps n
+\pl nkpabi
+\plph ŋ͡mk͡pabí
 \sn
 \ge forked stick
 \is 6.2.8
 \de forked stick
-\pl nkpabi
-\plph ŋ͡mk͡pabí
 \rf Tape:5-2-516
 \xv Ka ɔkpabi ba mɩ, ampʋ wa nkpabi amʋtɔ anda kantankpa.
 \xe Cut a forked stick and bring it so that I can put it with the other forked sticks so that we can build a palm leaf shelter.
@@ -30201,12 +30200,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpakwebi
 \ph ɔk͡pakwebí
 \ps n
+\pl nkpakwebi
+\plph ŋ͡mk͡pakwebí
 \sn
 \ge clothes
 \is 5.3.7
 \is 6.6.1
-\pl nkpakwebi
-\plph ŋ͡mk͡pakwebí
 \de clothes worn in the house on the farm work
 \xv Atsɩ ansɩ tegyi ɔkpakwebi ɩwɩ, tsufɛ ɩma bia, ɩtɛha bʋtamayinta amʋ́ atati ánɩ́ bʋ bia.
 \xe Women like cloth worn for farm because it is less expensive and it helps to save their expensive clothes.
@@ -30225,12 +30224,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpamba
 \ph ɔk͡pambaʔ
 \ps n
+\pl akpamba
+\plph ak͡pambaʔ
 \sn
 \ge boy/girlfriend
 \is 4.1.1.1
 \de illegal marriage
-\pl akpamba
-\plph ak͡pambaʔ
 \xv Ɔkpamba ɔtsɩ anfɩ gyi ha oyin anfɩ, mʋ́ sʋ ɔmɛtalɩ wie woyitɔ amʋtɔ nɩ, tsufɛ ɔdɛ oyin amʋ mʋ ka ifu-nya.
 \xe This woman is a girlfriend to this man, that was why she couldn't entered the house because she is afraid of the man's wife.
 \dt 21/Jul/2016
@@ -30238,12 +30237,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpan
 \ph ɔk͡pã́ʔ
 \ps n
+\pl akpan
+\plph ak͡pã́ʔ
 \sn
 \ge ant
 \is 1.6.1.7
 \de a large black stinging ant
-\pl akpan
-\plph ak͡pã́ʔ
 \np good minimal nasalisation pair with path
 \rf Tape:5-2-527
 \xv Ɔkpan odun fʋ a, ɩtɔhɔ ɔsɩn; ɩtɔsʋrasʋra wa.
@@ -30270,13 +30269,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpataku
 \ph ɔk͡pataku(H)
 \ps n
+\pl nkpataku
+\plph ŋ͡mk͡pataku(H)
 \sn
 \ge hyena
 \is 1.6.1.1.2
 \de hyena
 \sc Crocuta crocuta
-\pl nkpataku
-\plph ŋ͡mk͡pataku(H)
 \bw Akan fi:pataku
 \xv Ɔkpataku lomoni. Ogyi fɛ ɔprakuo. Mʋ ɔnɔ bʋswɩ. Ɔtɛkɩta mbwɩ fɛ akufa, akpala aná wɩ.
 \xe An ɔpataku is big. It is like a pig. It's mouth is long. It catches animals like sheep and goats and this sort and eats them.
@@ -30286,12 +30285,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph ɔk͡pɛ(H)
 \ps n
+\pl nkpɛ
+\plph ŋ͡mk͡pɛ
 \sn 1
 \ge trumpet
 \is 4.2.3.5
 \de trumpet
-\pl nkpɛ
-\plph ŋ͡mk͡pɛ
 \xv Apolisifɔ amʋ bɔfʋlɩ nkpɛ pʋsi amʋ́ pio amʋ́ʋ́ alawu amʋ ɔkpa.
 \xe The police blew trumpets to send their brother that has died on his way.
 \rf Tape:5-2-532
@@ -30329,12 +30328,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpɛpʋ
 \ph ɔk͡pɛ́pʊ́
 \ps n
+\pl akpɛpʋ
+\plph ak͡pɛ́pʊ́
 \sn
 \ge witch / wizard
 \is 4.9.4.1
 \de witch / wizard
-\pl akpɛpʋ
-\plph ak͡pɛ́pʊ́
 \cf ɔkpɛ2
 \ce witchcraft
 \xv Megyi ɔha ánɩ́ ototsu asuma aha sʋ pɛ gyi ɔkpɛpʋ. Ɔha ánɩ́ otolu mʋ ba, blɩ mʋ ɩwɩ asʋn lalahɛ pʋ kpɔɩ mʋ ɛ a, ɔkpɛpʋ ogyi.
@@ -30345,12 +30344,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpɩpʋ
 \ph ɔk͡pɪpʊ́
 \ps n
+\pl akpɩpʋ
+\plph ak͡pɪpʊ́
 \sn
 \ge fetish priest
 \is 4.9.7.1
 \de fetish priest
-\pl akpɩpʋ
-\plph ak͡pɪpʊ́
 \xv Ɔkpɩpʋ tɛha ɔkpɩ igyi nɩ.
 \xe It is the fetish priest who gives sacrifices to the fetish.
 \xv Ɔkpɩpʋ amʋ lawi batɛ mʋ́ sʋ bawa mʋ obu tsra nu.
@@ -30360,12 +30359,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpɩtsa
 \ph ɔk͡pɪt͡saʔ
 \ps n
+\pl nkpɩtsa
+\plph ŋ͡mk͡pɪt͡sa
 \sn
 \ge cluster
 \is 8.1.3.3
 \de cluster
-\pl nkpɩtsa
-\plph ŋ͡mk͡pɪt͡sa
 \xv Agode toswie ɔkpɩtsatɔ wa mʋ́ oyitɔ.
 \xe Coconut bears in its tree in a cluster.
 \xe A coconut tree bears its fruit in a cluster.
@@ -30387,13 +30386,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkpʋn
 \ph ɔk͡pʊ̃
 \ps n
+\pl nkpʋn
+\plph ŋ͡mk͡pʊ̃
 \sn
 \ge toilet
 \is 2.2.8
 \is 2.2.7
 \de toilet (crude term)
-\pl nkpʋn
-\plph ŋ͡mk͡pʊ̃
 \rf Tape:5-2-550
 \xv Abokwi ɔkpʋn ɔkɛ. Tsufɛ anɩ ɔkpʋn dada amʋ layinta.
 \xe We will dig a toilet tomorrow because our old toilet has spoiled.
@@ -30456,13 +30455,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkʋabi
 \ph ɔkʊ́abíʔ
 \ps n
+\pl akʋabi
+\plph akʊ́abí
 \sn
 \ge lake fish
 \is 1.6.1.5
 \is 6.4.5
 \de lake fish that can grow longer than a man's height
-\pl akʋabi
-\plph akʊ́abí
 \xv Akʋabi gyi klɛmɛntɩ ɔkʋ ánɩ́ olomoni.
 \xe Akuabi is a fish that grows large.
 \nt One of the largest fish found in Lake Volta.
@@ -30522,13 +30521,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkwaɩ
 \ph ɔkʷaɪ(H)
 \ps n
+\pl nkwaɩ
+\plph ŋkwaɪ(H)
 \sn
 \ge soap
 \is 5.6.2
 \is 5.6.4
 \de soap
-\pl nkwaɩ
-\plph ŋkwaɪ(H)
 \bw Ewe fi:ekwɛn
 \xv Ɔkwaɩ ánɩ́ bʋ ogya a, ɩtɛlɩn afu.
 \xe Soap that is effective always makes lather.
@@ -30586,12 +30585,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔkwɩɩpʋ
 \ph ɔkwɪ̌ːpʊ́
 \ps n
+\pl akwɩɩpʋ
+\plph akwɪ̌ːpʊ́
 \sn
 \ge parent
 \is 4.1.9.1.2
 \de parent
-\pl akwɩɩpʋ
-\plph akwɪ̌ːpʊ́
 \xv Lehian ánɩ́ ɔkwɩɩpʋ-gyi-ɔkwɩɩpʋ ɔbɔ́dwɛ mʋ bi, mɛnɩ kebi amʋ ɛ ɔbɔ́dwɛ aha.
 \xe It is necessary for every parent to love his/her child in order that the child will also love people.
 \xv Akwɩɩpʋ bʋma tɩrɛ amʋ́ abi ansɩtɔ, mɛnɩ nyebi amʋ bʋmɔ́ɔbwɛ atɩrɛpʋ.
@@ -30655,12 +30654,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔlanka
 \ph ɔlaŋka(H)
 \ps n
+\pl nlanka
+\plph nlaŋka
 \sn
 \ge pot
 \is 5.2.1.3
 \de pot, cooking pot
-\pl nlanka
-\plph nlaŋka
 \rf Tape:5-2-593
 \xv Ɔlankatɔ ntɛlɛ oputsu ndɔtɔ. Ɩsɩ bʋtɔpʋ pwɛ mʋ́.
 \xe I make soup on the farm in an ɔlanka, They make it out of clay.
@@ -30670,13 +30669,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔlɛpɛ
 \ph ɔlɛpɛ(H)
 \ps n
+\pl nlɛpɛ
+\plph nlɛpɛ(H)
 \sn 1
 \ge dish
 \is 5.2.2.8
 \is 6.6.2.4
 \de bowl made of clay
-\pl nlɛpɛ
-\plph nlɛpɛ(H)
 \rf Tape:5-2-598
 \xv Bʋtɔpʋ fufu wa ɔlɛpɛtɔ gyi. Bʋtɔkwɛ tɔnsɩ aná ɔlɛpɛtɔ ɛ.
 \xe They always put fufu in a bowl and eat. They grind pepper and others in the bowl also.
@@ -30707,13 +30706,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔlɔ
 \ph ɔlɔ(H)
 \ps n
+\pl nlɔ
+\plph nlɔ(H)
 \sn
 \ge sore
 \is 2.5.2.2
 \is 2.5.3
 \de sore
-\pl nlɔ
-\plph nlɔ(H)
 \nt minimal lexical tonal pair with ɔlɔ pot
 \rf Tape:6-1-024
 \xv Ɔdɩn ɔlɔ mʋ ofinsʋ. Oyeyia mʋ́ ɔba.
@@ -30724,14 +30723,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔlɔ́
 \ph ɔlɔ́
 \ps n
+\pl nlɔ
+\plph nlɔ
 \sn
 \ge pot
 \is 6.7.7
 \is 6.6.2.4
 \is 6.6.7.2
 \de water pot
-\pl nlɔ
-\plph nlɔ
 \nt minimal lexical tonal pair with ɔlɔ sore
 \xv Sa ɔlɔ́tɔ ntsu ba mɩ, lolwii dʋn baarɩtɔ klɛ.
 \xe Fetch water from the pot for me. it is cooler than the barrel's water.
@@ -30756,12 +30755,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔlɔpʋ
 \ph ɔlɔpʊ́
 \ps n
+\pl alɔpʋ
+\plph alɔpʊ́
 \sn
 \ge sick person
 \is 2.5.1
 \de one who is sick, particularly in a chronic sense
-\pl alɔpʋ
-\plph alɔpʊ́
 \xv Igye onye fɛ́ɛ́ ɔlɔpʋ ɔkʋ lɛkɩmɩ sʋ mmɛtalɩ dɩdɩ.
 \xe All of last night a certain sick man was groaning so I couldn't sleep.
 \cf lɔ
@@ -30771,12 +30770,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔlʋpʋ
 \ph ɔlʊpʊ́
 \ps n
+\pl alʋpʋ
+\plph alʊpʊ́
 \sn
 \ge weaver
 \is 6.6.1
 \de a weaver's shuttle
-\pl alʋpʋ
-\plph alʊpʊ́
 \xv Tati ɔlʋpʋ amʋ ɔbwata layɩnta, sʋ alasi atati lʋ.
 \xe The weaver's shuttle has spoiled, so he has stopped weaving.
 \dt 20/May/2016
@@ -30817,13 +30816,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔmá
 \ph ɔmá
 \ps n
+\pl ɔma-ɔma
+\plph ɔmá ɔmá
 \sn
 \ge nation
 \is 4.6.7.1
 \is 4.1.9
 \de nation
-\pl ɔma-ɔma
-\plph ɔmá ɔmá
 \xv Ɔmá kugyikʋ mʋ́a mʋ́tɔ mbla.
 \xe Every nation and its law.
 \xv Ɔmá ɔmá fɛ́ɛ́ bufia abʋkɩta mʋ́ alɩa bɔ́bwɛ asa ɩwɩlwii bɛ́ba ɔyɩtɔ.
@@ -30846,13 +30845,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔma ɔlɩɩpʋ
 \ph ɔma ɔlɪ̌ːpʊ́
 \ps n
+\pl ɔma alɩɩpʋ
+\plph ɔma alɪ̌ːpʊ́
 \sn
 \ge supporter
 \is 4.3.4.5.1
 \is 4.4.4.2
 \de advocate
-\pl ɔma alɩɩpʋ
-\plph ɔma alɪ̌ːpʊ́
 \rf Tape:6-1-060
 \xv Ɔma ɔlɩɩpʋ amʋ́ʋ́ Mɩ Sɩ ɔbɔ́wa mɩ ɩdatɔ amʋ a, mʋ obosuna mlɩ togyitɔ, kaɩn mlɩ asʋn amʋ́ʋ́ nabla mlɩ amʋ fɛ́ɛ́.
 \xe The advocate my father will send in my name, he will show you everything, remind you of all the things I have told you.
@@ -30908,12 +30907,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔmanti
 \ph ɔmanti(H)
 \ps n
+\pl mmanti
+\plph mːanti(H)
 \sn
 \ge neighbourhood
 \is 4.1.4
 \de neighbourhood
-\pl mmanti
-\plph mːanti(H)
 \na The Southern part of Nkonya call sections in their towns"mmanti". The Northern part call theirs "ntin" but there is a section in Wurupong called "ɔmanti"
 \xv Ɔmanti-gyi-ɔmanti ánɩ́ bʋ wulutɔ mʋ́a mʋ́tɔ asʋn.
 \xe Every section in a town has its problem.
@@ -30931,12 +30930,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔmatoyin
 \ph ɔmátṍyĩ́ʔ
 \ps n
+\pl ɔmatɔfɔ
+\plph ɔmátɔ́fɔ
 \sn
 \ge pagan
 \is 4.9.7.7
 \de pagan; follower of traditional religion
-\pl ɔmatɔfɔ
-\plph ɔmátɔ́fɔ
 \rf Tape:6-1-087
 \xv Ɔmatɔfɔ bʋtɔtswɛ ɔkpɩ pʋ́ asuma. Bʋtamayɔ asɔrɩ.
 \xe Pagans worship fetishes and juju. They never go to church.
@@ -31111,12 +31110,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔmlawɩ
 \ph ɔmláwɪ
 \ps n
+\pl mlawɩ
+\plph mláwɪ
 \sn
 \ge cloth
 \is 6.6.1.2
 \de cloth
-\pl mlawɩ
-\plph mláwɪ
 \xv Kofi mʋ tsiaba ma ɔmlawɩ.
 \xe Kofi's wife doesn't have a cloth.
 \cf tati
@@ -31221,14 +31220,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔná
 \ps n
 \va na
+\pl aná
+\plph aná
 \sn 1
 \ge grandmother
 \is 4.1.9.1.1
 \is 2.6.5.2
 \de grandmother
 \vaph na
-\pl aná
-\plph aná
 \rf Tape:4-2-497
 \xv Mɩ aná gyi mɩ sɩ pʋ́ mɩ yɩn ayín.
 \xe My grandmothers are my father and mother's mothers.
@@ -31254,12 +31253,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va nain
 \ph náĩ́ʔ
+\pl anain
+\plph anáĩ́ʔ
 \sn 1
 \ge grandfather
 \is 4.1.9.1.1
 \de grandfather
-\pl anain
-\plph anáĩ́ʔ
 \rf Tape:4-2-515
 \xv Mɩ nain gyi mɩ sɩ ntɛ mɩ yin mʋ sɩ.
 \xe My grandfather is my father or my mother's father.
@@ -31280,12 +31279,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔnamba
 \ph ɔnambá
 \ps n
+\pl nnamba
+\plph nnambá
 \sn
 \ge sore
 \is 2.5.2.2
 \de sore on the heel caused when the skin cracks mostly happens in the dry season
-\pl nnamba
-\plph nnambá
 \rf Tape:6-1-147
 \xv Ɔnamba labwɛ mɩ ɔnanku, ɩdɛ mɩ dwiin.
 \xe There is a sore on my heel, so it is paining me.
@@ -31295,12 +31294,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔnamplɔɩ
 \ph ɔnamplɔɪʔ(H)
 \ps n
+\pl nnamplɔɩ
+\plph nnamplɔɪʔ(H)
 \sn
 \ge sore
 \is 2.5.2.2
 \de cracks between the toes, it mostly happens in the raining season
-\pl nnamplɔɩ
-\plph nnamplɔɪʔ(H)
 \xv Ɔnamplɔɩ labwɛ mɩ anambitɔ, sʋ mmɛtalɩ natɩ wanklaan.
 \xe I have developed cracks between my toes so I can't walk well.
 \nt From ths: illnesses that make us (labwɛ): mfa, ɔnamba, ɔnamplɔɩ, sɛsɛ, ɩyɛ
@@ -31312,12 +31311,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va ɛnanku
 \ph ɛnaŋkûʔ
 \ve Southern
+\pl nnanku
+\plph nnaŋkú
 \sn
 \ge heel
 \is 2.1.3.2
 \de heel
-\pl nnanku
-\plph nnaŋkú
 \xv Ɔlɔ ɩdɩn mɩ ɔnakusʋ, sʋ mmɛtalɩ wa ntʋkʋta.
 \xe There's a sore on my heel, I can't wear shoes.
 \bb SIL-AWL:0071
@@ -31326,12 +31325,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔnantswie
 \ph ɔnant͡swie(H)
 \ps n
+\pl nnantwie
+\plph nnantwie(H)
 \sn
 \ge cow
 \is 6.3.1.1
 \de cow
-\pl nnantwie
-\plph nnantwie(H)
 \bw Akan fi:nantwi
 \xv Bʋtenyimɛ ɔnantswie nyɔpʋ ntsu bwɛ mliki.
 \xe They milk cows to get milk. They express the fluid in cow udders and take it to make milk.
@@ -31362,12 +31361,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔnɩ
 \ph ɔ́nɪ
 \ps n
+\pl anɩ
+\plph ánɪ
 \sn
 \ge this person
 \is 9.2.3.5
 \de this person
-\pl anɩ
-\plph ánɪ
 \dt 24/Jun/2016
 
 \lx ɔnlɩn
@@ -31490,12 +31489,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
 \ps n
+\pl ɔnɔ alɩɩpʋ
+\plph ɔnɔ́ alɪ̌ːpʊ́
 \sn
 \ge leader
 \is 4.5.1
 \de leader
-\pl ɔnɔ alɩɩpʋ
-\plph ɔnɔ́ alɪ̌ːpʊ́
 \xv Asɔrɩ ɔnɔ alɩɩpʋ fɛ́ɛ́ béfia abʋkɩta agywɩɩn tsu asɔrɩ ɩwɩ.
 \xe Church leaders will meet to plan about Churches.
 \xv Ɔnɔ alɩɩpʋ okugyiɔkʋ anfɩ bʋtesia mʋ.
@@ -31521,12 +31520,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔnɔkwalɩpʋ
 \ph ɔnɔkwalɪpʊ
 \ps n
+\pl anɔkwalɩpʋ
+\plph anɔkwalɪpʊ
 \sn
 \ge faithful person
 \is 4.3.5.2
 \de a person who can be trusted
-\pl anɔkwalɩpʋ
-\plph anɔkwalɪpʊ
 \xv Kwasi gyi ɔnɔkwalɩpʋ wulu amʋtɔ nɩ.
 \xe Kwasi is the faithful person in the town.
 \xv Kwaku ɔnɔkwalɩ wa sʋ bɔ́pʋ mʋ yaɩ owie nɩ.
@@ -31686,13 +31685,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔpalɩ
 \ph ɔpalɪ́
 \ps n
+\pl mpalɩ
+\plph mpalɪ́
 \sn 1
 \ge rafter
 \is 6.5.2.2
 \is 6.6.3
 \de rafter of a thatch hut
-\pl mpalɩ
-\plph mpalɪ́
 \rf Tape:6-1-298
 \xv Badɩnka mpalɩ obu amʋsʋ. Ɔkɛ bobua mʋ́.
 \xe They have put rafters on the building. Tomorrow they will roof it.
@@ -31723,12 +31722,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \vaph ɛpasua(H)
 \ve Southern
 \ps n
+\pl mpasua
+\plph mpasua(H)
 \sn
 \ge group
 \is 8.3.1.3
 \de group
-\pl mpasua
-\plph mpasua(H)
 \xv Sadukiifɔ bʋgyi ɔpasua kʋ ánɩ́ bʋtɛblɩ bɛɛ aha bowu bʋmɛ́ɛtra kʋsʋ tsu afulitɔ.
 \xe The Sadducees were a group that they said that people who die will not rise again from the dead.
 \dt 03/Oct/2016
@@ -31756,12 +31755,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔpayin
 \ph ɔpayĩʔ
 \ps n
+\pl apafɔ
+\plph apafɔ
 \sn
 \ge labourer
 \is 6.9.2
 \de labourer
-\pl apafɔ
-\plph apafɔ
 \nt Nkonya equivalent agyʋma ɔyɔpʋ/ agyʋma ayɔpʋ
 \bw Akan fi:ɔpaani
 \xv Nabɔ ɔpayin ɔkʋ ɩpa ánɩ́ ɔdɔ mɩ ndɔtɔ ha mɩ, fówun mɩanka mʋ ɩkɔ.
@@ -31771,13 +31770,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔpɛwa
 \ph ɔpɛwa(H)
 \ps n
+\pl mpɛwa
+\plph mpɛwa(H)
 \sn
 \ge chisel
 \is 6.2.8
 \is 6.6.3
 \de chisel
-\pl mpɛwa
-\plph mpɛwa(H)
 \xv Bʋtɔpʋ ɔpɛwa da nyitɔ ɔbɔ.
 \xe They use chisels to make holes in trees.
 \dt 26/Mar/2016
@@ -31799,12 +31798,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔpɩm
 \ph ɔpɪ́m
 \ps NUM
+\pl mpɩm
+\plph mpɪ́m
 \sn
 \ge thousand
 \is 8.1.1.1
 \de thousand
-\pl mpɩm
-\plph mpɪ́m
 \bw Akan fi:apim
 \xv Mʋ́ ɩswɩtɔ igyi ayabi mpɩm anyɔ.
 \xe It's length is two thousand feet.
@@ -31879,12 +31878,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔpɔnkɔ
 \ph ɔpɔŋkɔ(H)
 \ps n
+\pl mpɔnkɔ
+\plph mpɔŋkɔ(H)
 \sn
 \ge horse
 \is 6.3.1.1
 \de horse
-\pl mpɔnkɔ
-\plph mpɔŋkɔ(H)
 \bw Akan fi:ɔpɔnkɔ (LLLH)
 \xv Datobi kʋ pɛ bʋtɔpʋ wa ɔpɔnkɔ ɔnɔ, pʋ damli mʋ, suna mʋ tɔa ɔbwɛ.
 \xe A small bit only they put in a horse's mouth, to turn it and show it what it should do.
@@ -31912,12 +31911,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔprakuo
 \ph ɔprákuo(H)
 \ps n
+\pl mprakuo
+\plph mprákuo(H)
 \sn
 \ge pig
 \is 6.3.1.1
 \de pig
-\pl mprakuo
-\plph mprákuo(H)
 \bw Akan fi:prakʋ H!H
 \rf Tape:6-1-340
 \xv Febie ɔprakuo alɩa-gyi-alɩa a, obéyinki yɔ ɔdɩbatɔ.
@@ -31928,12 +31927,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔprɩm
 \ph ɔprɪm
 \ps n
+\pl mprɩm
+\plph mprɪm
 \sn
 \ge cannon
 \is 4.8.3.6
 \de cannon
-\pl mprɩm
-\plph mprɪm
 \bw Akan fi:aprɩm
 \rf Tape:6-1-346
 \xv Do dʋanyɔ lada, batswɩ mprɩm.
@@ -31974,12 +31973,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔpʋnʋ
 \ph ɔpʊ́nʊ́
 \ps n
+\pl mpʋnʋ
+\plph mpʊ́nʊ́
 \sn
 \ge table
 \is 5.1.1.1
 \de table
-\pl mpʋnʋ
-\plph mpʊ́nʊ́
 \xv Wanlɩn atɔ amʋ ɔpʋnʋ amʋsʋ.
 \xe Write the things on the table.
 \xv Gyi atɔ amʋ ɔpʋnʋ amʋsʋ.
@@ -32017,12 +32016,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsan
 \ph ɔsã(H)
 \ps n
+\pl nsan
+\plph nsãʔ(H)
 \sn
 \ge towel
 \is 5.6.2
 \de towel
-\pl nsan
-\plph nsãʔ(H)
 \xv Nanyɩmɛ ɔsan amʋtɔ; Ɩlalɩn ntsu tsɔtsɔɔtsɔ.
 \xe I have wrung out the towel; there was lots of water in it.
 \rf Tape:6-1-358
@@ -32054,13 +32053,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsapɔ
 \ph ɔsapɔ
 \ps n
+\pl nsapɔ
+\plph nsapɔ
 \sn
 \ge sponge
 \is 5.6.2
 \de sponge made from a climbing vine; luffa
 \sc Luffa aegyptiaca
-\pl nsapɔ
-\plph nsapɔ
 \cf mpʋsa
 \ce sponge
 \rf Tape:6-1-365
@@ -32111,12 +32110,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \va sɩ
 \vaph sɪ
+\pl asɩ
+\plph asɪ́
 \sn
 \ge father
 \is 4.1.9.1.2
 \de father
-\pl asɩ
-\plph asɪ́
 \xv Oyin amʋ mʋ sɩ bʋ nkpa. Alabwɛ akʋkrʋwa.
 \xe The man's father is living. He has become an old man.
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
@@ -32127,12 +32126,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsɩkɛtɛ
 \ph ɔsɪ́kɛ́tɛ
 \ps n
+\pl ansɩkɛtɛ
+\plph ansɪ́kɛ́tɛ
 \sn
 \ge eyelash
 \is 2.1.1.1
 \de eyelash
-\pl ansɩkɛtɛ
-\plph ansɪ́kɛ́tɛ
 \rf Tape:6-1-371
 \xv Nsɩka bʋ fʋ ɔsɩkɛtɛtɔ, sʋ lɛ mʋ́.
 \xe Eye discharge is on your eyelash, so remove it.
@@ -32142,12 +32141,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsɩkunkun
 \ph ɔsɪ́kũŋkũ
 \ps n
+\pl ansɩkunkun
+\plph ansɪ́kũŋkũʔ
 \sn
 \ge eyebrow
 \is 2.1.1.1
 \de eye brow
-\pl ansɩkunkun
-\plph ansɪ́kũŋkũʔ
 \nt ɔsɩ is singular of ansɩ kunkun
 \rf Tape:6-1-377
 \xv Aha ánɩ́ bʋbʋ imi a, amʋ́ ɔsɩkunkunsʋ imi tɛbla.
@@ -32205,13 +32204,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsɔfɔ
 \ph ɔsɔ́fɔ(H)
 \ps n
+\pl asɔfɔ
+\plph asɔ́fɔ(H)
 \sn
 \ge priest
 \is 4.9.7.1
 \is 4.9.7.2
 \de pastor; priest; used only of Christians
-\pl asɔfɔ
-\plph asɔ́fɔ(H)
 \bw Akan fi:ɔsɔfɔ
 \xv Ɔsɔfɔ amʋ lɛblɩ asʋn amʋ wanklaan, wa anulɛ.
 \xe The pastor spoke well, it was good to listen to.
@@ -32223,13 +32222,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsɔhwɩɛ
 \ph ɔsɔ́hʷɪ́ɛ́
 \ps n
+\pl nsɔhwɩɛ
+\plph nsɔ́hwɪ́ɛ́
 \sn
 \ge trial
 \is 3.6.2
 \is 3.6.7
 \de trial, temptation, exam
-\pl nsɔhwɩɛ
-\plph nsɔ́hwɪ́ɛ́
 \bw Akan fi:ɔsɔhwɛ LHH
 \rf Tape:6-1-404
 \xv Mʋ ɔwɔlɩ lalahɛ amʋ lakpa mʋ wa ɔsɔhwɩɛtɔ.
@@ -32250,12 +32249,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsrɩpʋ
 \ph ɔsrɪ́pʊ́
 \ps n
+\pl asrɩpʋ
+\plph asrɪ́pʊ́
 \sn
 \ge runner
 \is 7.2.1.1.1
 \de runner
-\pl asrɩpʋ
-\plph asrɪ́pʊ́
 \xv Asɩrɩpʋ amʋtɔ fɛ́ɛ́ a, ɔsɩrɩpʋ ɔkʋlɛ pɛ lenya atokiehɛ.
 \xe Among the runners, only one runner had an award.
 \xv Asɩrɩpʋ amʋ lasɩrɩ alɩɩ nya kɔba pʋ yi woyi.
@@ -32326,12 +32325,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph ɔsʊrapʊ
 \ps n
+\pl asʋrapʋ
+\plph asʊrapʊ
 \sn
 \ge widow
 \is 4.1.9.3
 \de widow / widower
-\pl asʋrapʋ
-\plph asʊrapʊ
 \nt the sʋra here in v-ɔ pʋ construction would be LLʔ (as opposed to LH to carry) but is a bound morpheme
 \rf Tape:6-1-420
 \xv Ɔha ánɩ́ mʋ ka ntɛɛ mʋ kulu owu a, ɔsʋrapʋ ogyi. Obosu ɩsʋra.
@@ -32351,12 +32350,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsʋrapʋka
 \ph ɔsʊrapʊká
 \ps n
+\pl asʋrapʋka
+\plph asʊrapʊká
 \sn
 \ge widow's husband
 \is 4.1.9.3
 \de man that marries a widow
-\pl asʋrapʋka
-\plph asʊrapʊká
 \dt 20/Jul/2016
 
 \lx ɔsʋsʋ
@@ -32394,12 +32393,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔswɩ
 \ph ɔswɪ
 \ps n
+\pl nswɩ
+\plph nswɪ
 \sn
 \ge hearth
 \is 5.5.7
 \de hearth
-\pl nswɩ
-\plph nswɪ
 \rf Tape:6-1-436
 \xv Ogya amʋ detsii ɔswɩtɔ.
 \xe The fire is burning in the hearth.
@@ -32411,12 +32410,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtabʋ
 \ph ɔtabʊ(H)
 \ps n
+\pl ntabʋ
+\plph ntabʊ(H)
 \sn
 \ge oar
 \is 6.4.5
 \de oar
-\pl ntabʋ
-\plph ntabʊ(H)
 \rf Tape:6-1-439
 \xv Bʋtɔpʋ ɔtabʋ pla ɔklʋn.
 \xe They use paddles to row a canoe.
@@ -32427,12 +32426,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph ɔtãʔ(H)
 \ps n
+\pl ntan
+\plph ntãʔ
 \sn
 \ge cloth
 \is 5.4.1
 \de bark cloth made from the bark of the poli tree
-\pl ntan
-\plph ntãʔ
 \cf tati
 \ce cloth
 \rf Tape:6-1-449
@@ -32444,6 +32443,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph ɔtãʔ
 \ps n
+\pl ntan
+\plph ntãʔ
 \sn 1
 \ge centre pole
 \is 6.5.2.2
@@ -32463,8 +32464,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge pillar
 \is 6.5.2.2
 \de pillar of building
-\pl ntan
-\plph ntãʔ
 \ps n
 \sn 4
 \ge backbone
@@ -32526,12 +32525,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtapʋ
 \ph ɔtapʊ́
 \ps n
+\pl atapʋ
+\plph atapʊ́
 \sn
 \ge hunter
 \is 6.4.1
 \de hunter
-\pl atapʋ
-\plph atapʊ́
 \nt from ɩta - bow
 \xv Ɔtapʋ bʋ otua, ɔtɔpʋ fɩnɩ mbwɩ.
 \xe A hunter has a gun he takes to hunt animals.
@@ -32544,12 +32543,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtapʋ nyambi
 \ph ɔtapʊ́ ɲámbi
 \ps n
+\pl atapʋ nyambi
+\plph atapʊ́ ɲámbi
 \sn
 \ge hunter's servant
 \is 6.4.1
 \de a person who follows a hunter to the bush
-\pl atapʋ nyambi
-\plph atapʊ́ ɲámbi
 \xv Ɔtapʋ nyambi gyi ɔha ánɩ́ otobuo ɔtapʋ yɔ pututɔ.
 \xe A hunter's servant is someone who follows a hunter to the bush.
 \dt 08/Jan/2014
@@ -32557,12 +32556,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtatibi
 \ph ɔtatibíʔ
 \ps n
+\pl ntatibi
+\plph ntatibíʔ
 \sn
 \ge loincloth
 \is 5.4.1
 \de loincloth
-\pl ntatibi
-\plph ntatibíʔ
 \xv Atsɩ bʋtefio ɔtatibi.
 \xe Women gird their loins with otatibi.
 \bb Stewart List:1280
@@ -32586,12 +32585,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph ɔ́tɛ(L)
 \ps n
+\pl ntɛ
+\plph ntɛ
 \sn
 \ge ground squirrel
 \is 1.6.1.1.4
 \de ground squirrel
-\pl ntɛ
-\plph ntɛ
 \nt ground squirrel bigger than gyabɛ, the tree squirrel
 \xv Ɔtɛ tokwi ɔbɔ. Olomoni dʋn gyabɛ.
 \xe A Ground squirrel digs a hole. It is bigger than a tree squirrel.
@@ -32603,14 +32602,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtɛntɛ
 \ph ɔtɛ́ntɛ
 \ps n
+\pl ntɛntɛ
+\plph ntɛ́ntɛ
 \sn
 \ge flute
 \is 4.6.6.1
 \is 4.2.4
 \is 4.2.6.2.1
 \de bamboo flute
-\pl ntɛntɛ
-\plph ntɛ́ntɛ
 \xv Ɔdɛ ɔtɛntɛ fʋlɩ.
 \xe He is blowing a flute.
 \rf Tape:6-1-482
@@ -32636,12 +32635,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va ɛtɩ
 \vaph ɛtɪ(H)
 \ve Southern
+\pl ntɩ
+\plph ntɪ(H)
 \sn
 \ge hoe
 \is 6.2.8
 \de hoe
-\pl ntɩ
-\plph ntɪ(H)
 \xv Fʋ ɔtɩ amʋ ma ankosi awɔlɛ, tsufɛ ɔtɩ oyi amʋ lɛba asɩ dʋbɩ.
 \xe It is not easy to make mounds with your hoe because the angle of the crook is too small.
 \rf Tape:6-1-487
@@ -32665,12 +32664,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va ɛtɩnɛ
 \ve Southern
 \vaph ɛtɪ́nɛ́
+\pl ntɩnɛ
+\plph ntɪ́nɛ́
 \sn
 \ge place
 \is 8.5.3
 \de place
-\pl ntɩnɛ
-\plph ntɪ́nɛ́
 \rf Tape:6-1-492
 \xv Nɔyɔ ɔtɩnɛ ɩkʋ.
 \xe I will go somewhere.
@@ -32691,13 +32690,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtɔfɔ
 \ph ɔtɔ́fɔ
 \ps n
+\pl atɔfɔ
+\plph atɔ́fɔ
 \sn
 \ge accidental death
 \is 2.6.6
 \is 8.3.7.1
 \de an unexpected death
-\pl atɔfɔ
-\plph atɔ́fɔ
 \xv Ɔtɔfɔ lowu bʋ ɔsɩn dʋbɩ.
 \xe Accidental death is very painful.
 \dt 12/Sep/2016
@@ -32705,12 +32704,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtɔɩkplapʋ
 \ph ɔtɔɪ́k͡plápʊ́
 \ps n
+\pl atɔɩkplapʋ
+\plph atɔɪ́k͡plápʊ́
 \sn
 \ge Counsellor/ adviser
 \is 3.3.3.2 Advise
 \de one who advises people
-\pl atɔɩkplapʋ
-\plph atɔɪ́k͡plápʊ́
 \xv Anɩ sɩ Brabi gyi ɔtɔɩkplapʋ ha Ghana aban.
 \xe Mr. Brabi is a counsellor for the Ghana government.
 \dt 20/May/2016
@@ -32718,12 +32717,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtɔntrɔbwɩ
 \ph ɔtɔntrɔbwɪ(H)
 \ps n
+\pl ntɔntrɔbwɩ
+\plph ntɔntrɔbwɪ(H)
 \sn
 \ge ant
 \is 1.6.1.7
 \de small, black, non-biting ant
-\pl ntɔntrɔbwɩ
-\plph ntɔntrɔbwɪ(H)
 \xv Ntɔntrɔbwɩ bʋ gyi mbwɩ ánɩ́ bʋtamadun, mboun bʋtoputa aha.
 \xe Ntɔntrɔbwɩ are insects that don't bite but instead crawl on people.
 \rf Tape:5-1-383
@@ -32778,14 +32777,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtrapʋ
 \ph ɔtrá!pʊ́
 \ps n
+\pl atrapʋ
+\plph atrá!pʊ́
 \sn
 \ge Newly delivered woman
 \is 2.6.5.2
 \is 4.1.9.1.2
 \de the mother of a newly born baby
 \nt term is good for one year
-\pl atrapʋ
-\plph atrá!pʊ́
 \xv Ilehian ánɩ́ ɔtrapʋ ɔbɛ́ha mʋ bi nyɔpʋ nɩ mɔtsɔ-mɔtsɔ kʋraa lɛha nfi nyɔ.
 \xe It is necessary that the mother of a newly born baby should breast feed her child at least for two years.
 \dt 20/May/2016
@@ -32806,12 +32805,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph ɔt͡sabi(L)
 \ps n
+\pl ntsabi
+\plph nt͡sabi
 \sn
 \ge small fish
 \is 1.6.1.5
 \de small fish
-\pl ntsabi
-\plph nt͡sabi
 \rf Tape:5-1-389
 \xv Mahɔ ntsabi mboun hɔ adanhɛ.
 \xe Don't buy small fish, instead buy ones that have grown.
@@ -32828,12 +32827,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph ɔt͡sabí(H)
 \ps n
+\pl ntsabi
+\plph nt͡sabí
 \sn
 \ge shelf
 \is 6.7.7
 \de shelf over hearth
-\pl ntsabi
-\plph nt͡sabí
 \xv Ɔtsɩ amʋ a, mʋ ɔtsabi ibi tuun.
 \xe The woman, her cooking shelf should be blackened completely.
 \na This sentence is part of a prayer at a traditional wedding ceremony.
@@ -32843,6 +32842,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtsakpa
 \ph ɔt͡sak͡pa
 \ps n
+\pl ntsakpa
+\plph nt͡sak͡pa
 \sn
 \ge brush-tailed porcupine
 \is 1.6.1.1.4
@@ -32851,8 +32852,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sc Atherurus africanus
 \nt minimal tonal pair with ɔtsâkpa - dancing place and ɔtsakpa stepping place
 \nt This animal has spines on its back and the end of the tail is like a head of rice, when it shakes it, it rattles. It does not roll up when frightened.
-\pl ntsakpa
-\plph nt͡sak͡pa
 \rf Tape:6-1-501
 \xv Ɔtsakpa gyi fɛ klatɩ, tamɛ olomoni dʋn klatɩ, ɔtɔwɩ mankani ndɔtɔ.
 \xe The hedgehog is like a grass-cutter but he is bigger than a grass-cutter, he eats cocoyam on the farm.
@@ -32961,13 +32960,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtsɩ
 \ph ɔt͡sɪʔ(H)
 \ps n
+\pl atsɩ
+\plph at͡sɪʔ(H)
 \sn
 \ge woman
 \is 2.6.4.4
 \is 2.6.5.2
 \de woman
-\pl atsɩ
-\plph at͡sɪʔ(H)
 \rf Tape:6-1-532
 \xv Ɔtsɩ anfɩ a, abi oyín wanklaan ogyi, tsufɛ ɔtɛkɩ mʋ abisʋ wanklaan.
 \xe This woman is a good mother because she looks after her children well.
@@ -32980,12 +32979,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtsɩamɩ
 \ph ɔt͡ʃɪámɪ(H)
 \ps n
+\pl ntsɩamɩ
+\plph nt͡ʃɪámɪ(H)
 \sn
 \ge linguist
 \is 4.6.1
 \de spokesman of a chief
-\pl ntsɩamɩ
-\plph nt͡ʃɪámɪ(H)
 \bw Akan fi:ɔkyeame
 \xv Oyin anfɩ gyi ɔtsɩamɩ denhɛ wulu anfɩtɔ nɩ.
 \xe This man is the senior linguist in this town.
@@ -32996,12 +32995,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtsɩrɩbɩ
 \ph ɔt͡sɪrɪ́bɪ́ʔ
 \ps n
+\pl ntsɩrɩbɩ
+\plph nt͡sɪrɪ́bɪ́
 \sn
 \ge mamba
 \is 1.6.1.3.1
 \de green mamba
-\pl ntsɩrɩbɩ
-\plph nt͡sɪrɪ́bɪ́
 \sc Dendroaspis viridis
 \xv Ɔtsɩrɩbɩ asʋn ma alɛ. Nɩ odun fʋ, fʋmɔkɔsɩ nya mʋ́ afa a fówu.
 \xe The green mamba is not good. When it bites and you didn't get its medicine quickly, you will die.
@@ -33022,12 +33021,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtsɔpɩ
 \ph ɔt͡sɔpɪ́
 \ps n
+\pl ntsɔpɩ
+\plph nt͡sɔpɪ́
 \sn
 \ge idol
 \is 4.9.8.1
 \de a small clay image sculpted with a mouth that is fed a portion of the food whenever the elder eats
-\pl ntsɔpɩ
-\plph nt͡sɔpɪ́
 \xv Ɔtsɔpɩ bʋ ansibi, tamɛ ɔtamawun atɔ. Ɔbʋ asʋ, tamɛ ɔtamanu asʋn. Ɔbʋ ayabi, tamɛ ɔtamanatɩ.
 \xe Idol has eyes, but does not see. It has ears, but does hear. It has legs, but does not walk.
 \nt Usually a child is delegated to feed the idol. Before he does so he will have to use a stick to remove previous portions. Unless he is lucky enough to have a chicken eat it before. It is kept in the corner of a room.
@@ -33074,13 +33073,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtsrakpabi
 \ph ɔt͡srak͡pabiʔ
 \ps n
+\pl ntsrakpabi
+\plph nt͡srak͡pabiʔ
 \sn
 \ge star
 \is 1.1.1.2
 \de star
 \lt moon servant
-\pl ntsrakpabi
-\plph nt͡srak͡pabiʔ
 \rf Tape:6-1-544
 \xv Ntsrakpabi bugyi nkpabi ha ɔtsra.
 \xe The stars are servants to the moon.
@@ -33125,12 +33124,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtswɩnkɩ
 \ph ɔt͡swɪ́ŋkɪ́
 \ps n
+\pl ntswɩnkɩ
+\plph nt͡swɪ́ŋkɪ́
 \sn
 \ge mosquito
 \is 1.6.1.7
 \de mosquito
-\pl ntswɩnkɩ
-\plph nt͡swɪ́ŋkɪ́
 \np Northern tonal pattern frequently different - ɔtswɪŋkɪ́
 \rf Tape:6-1-552
 \xv Nɩ ɔtswɩnkɩ odun fʋ a, ɔtɔpʋ owisʋ wa fʋ awútɔ.
@@ -33140,12 +33139,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtswɩtswɩ
 \ph ɔt͡swɪ́t͡swɪ
 \ps n
+\pl ntswɩtswɩ
+\plph nt͡swɪ́t͡swɪ
 \sn
 \ge small bird
 \is 1.6.1.2
 \de small bird
-\pl ntswɩtswɩ
-\plph nt͡swɪ́t͡swɪ
 \xv Ɔtwsɩtswɩ gyi tukuriibi mbubwitɔ fɛ́ɛ́ nɩ.
 \xe Ɔtwsɩtswɩ is the smallest among the birds.
 \dt 28/Dec/2012
@@ -33153,12 +33152,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔtʋ
 \ph ɔtʊ(H)
 \ps n
+\pl ntʋ
+\plph ntʊ(H)
 \sn
 \ge ladle
 \is 5.2.1.3
 \de ladle
-\pl ntʋ
-\plph ntʊ(H)
 \rf Tape:6-1-557
 \xv Matsu datɔ ɔtʋ amʋ, mboun tsu oyi klɛ amʋ.
 \xe Don't take the metal ladle, instead bring the wooden one.
@@ -33195,12 +33194,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔwankɩtɩ
 \ph ɔwãŋkɪtɪʔ
 \ps n
+\pl awankɩtɩ
+\plph awaŋkɪtɪ
 \sn
 \ge hawk
 \is 1.6.1.2
 \de hawk
-\pl awankɩtɩ
-\plph awaŋkɪtɪ
 \nt synonym to ɔwanpʋ
 \xv Awankɩtɩ bʋ tsɔ afutɔ.
 \xe There are a lot of hawks in the air.
@@ -33213,12 +33212,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔwanpʋ
 \ph ɔwãmpʊ
 \ps n
+\pl nwanpʋ
+\plph ŋwãmpʊ
 \sn
 \ge hawk
 \is 1.6.1.2
 \de hawk
-\pl nwanpʋ
-\plph ŋwãmpʊ
 \xv Ɔnwapʋ tɛkɩta abatɛ abi.
 \xe Hawks catch chickens.
 \cf ɔnwankɩtɩ
@@ -33229,12 +33228,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔwantɩntsu
 \ph ɔwantɪnt͡sú
 \ps n
+\pl awantɩntsu
+\plph awantɪnt͡sú
 \sn
 \ge dragonfly
 \is 1.6.1.7
 \de dragonfly
-\pl awantɩntsu
-\plph awantɪnt͡sú
 \rf Tape:6-1-561
 \xv Nyebi bʋtekle awantɩntsutɔ plei tsufɛ bʋtofuli fɛ olomple.
 \xe The children like to play with dragonflies because they fly like an airplane.
@@ -33330,6 +33329,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔwʋlʋ
 \ph ɔwʊlʊ́ʔ
 \ps n
+\pl nwʋlʋ
+\plph nwʊlʊ́ʔ
 \sn 1
 \ge skin
 \is 2.1.4
@@ -33347,8 +33348,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 4.9.7.2
 \is 3.6.2
 \de paper; book; letter
-\pl nwʋlʋ
-\plph nwʊlʊ́ʔ
 \rf Tape:6-2-013
 \xv Anɩdɛ ɔwʋlʋ wanlɩn.
 \xe We are writing a letter (or book).
@@ -33395,12 +33394,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔwʋnlɩnpʋ
 \ph ɔwʊ̃nlɪ̃́pʊ́
 \ps n
+\pl awʋnlɩnpʋ
+\plph awʊnlɪ́npʊ́
 \sn
 \ge strong person
 \is 2.4.1
 \de someone who is healthy/a strong person
-\pl awʋnlɩnpʋ
-\plph awʊnlɪ́npʊ́
 \xv Ɔwʋnlɩnpʋ ɔbɛ́talɩ damli ɔlɔpʋ. Ɩnɩa ɩlɔ tamakla sʋ a, fʋmɛ́ɛbɩ.
 \xe A healthy person can turn into a sick person. As illness doesn't inform you beforehand you won't know.
 \rf Tape:3-1-088
@@ -33411,12 +33410,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔyaa
 \ph ɔyǎː
 \ps INTJ
+\pl mlɩyaa
+\plph mlɪyǎː
 \sn
 \ge greet AM
 \is 3.5.1.4.3
 \de greetings in the morning to single person
-\pl mlɩyaa
-\plph mlɪyǎː
 \rf Tape:6-1-039
 \xv Nyankɩ, nɩ fɔtʋ ɔha a, ha mʋ ɩtɛ fɛɛ "Ɔyaa". Nɩ bʋ tsɔ a, "Mlɩyaa."
 \xe When you meet a person in the morning, greet him/her saying "Ɔyaa", if they are many say "Mlɩyaa."
@@ -33425,13 +33424,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔyasubi
 \ph ɔyasubi(H)
 \ps n
+\pl nyasubi
+\plph ɲasubi(H)
 \sn
 \ge young man
 \is 2.6.5.1
 \is 2.6.4.3
 \de young man
-\pl nyasubi
-\plph ɲasubi(H)
 \xv Ɔyasubi mʋa obitebi bʋtonu aba asɩ.
 \xe A Young man and a young woman will understand each other (they share common experiences).
 \nt proverb
@@ -33671,13 +33670,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph pápá
 \ps n
+\pl apapa
+\plph apapa
 \sn
 \ge fan
 \is 5.5.2
 \is 1.1.2.1
 \de fan
-\pl apapa
-\plph apapa
 \xv Papa nɩ. Bʋtɔpʋ fwi afu.
 \xe This is a fan. They use it for blowing wind.
 \xv Tsu papa amʋ ha mɩ mɩa pʋ fwi ɩwɩ afu.
@@ -33696,12 +33695,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx pata
 \ph patá
 \ps n
+\pl apata
+\plph apatá
 \sn
 \ge shed
 \is 6.5.1.2
 \de shed
-\pl apata
-\plph apatá
 \bw Akan fi:pata
 \cf kantankpa
 \ce shelter (Nkonya)
@@ -33713,12 +33712,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx patɩ
 \ph paːtɪ(H)
 \ps n
+\pl apatɩ
+\plph apaːtɪ(H)
 \sn
 \ge pond
 \is 1.3.1.2
 \de pond; swamp
-\pl apatɩ
-\plph apaːtɪ(H)
 \xv Abʋtɩ bʋtetsia patɩtɔ, ɩnɩsʋ patɩtɔ plei ma alɩ.
 \xe Pythons live in swampy places therefore to play in a swampy place is not good.
 \bb Stewart List:1021
@@ -33727,13 +33726,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx paya
 \ph páya
 \ps n
+\pl apaya
+\plph apáya
 \sn
 \ge avocado
 \is 1.5.1
 \is 6.2.1.4
 \de avocado
-\pl apaya
-\plph apáya
 \bw English fi:pear
 \xv Paya mʋ́a bodobodo bʋ agyilɛ.
 \xe Avocado and bread are easy to eat.
@@ -34042,12 +34041,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx pɩa
 \ph pɪ́a(H)
 \ps n
+\pl apɩa
+\plph apɪ́a
 \sn
 \ge spear
 \is 4.8.3.7
 \de spear
-\pl apɩa
-\plph apɪ́a
 \bw Akan fi:pɩaw H!H
 \xv Bɔpʋ pɩa wɔ Yesu abɩntɔ.
 \xe They took a spear and pierced Jesus' side.
@@ -34147,12 +34146,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx pɩna
 \ph pɪná
 \ps n
+\pl apɩna
+\plph apɪná
 \sn
 \ge scar
 \is 5.4.6
 \de scar
-\pl apɩna
-\plph apɪná
 \xv Pɩna dɩn mʋ onwunfisʋ.
 \xe He has a scar on his forehead.
 \bb Stewart List:0052
@@ -34258,13 +34257,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx plebi
 \ph plébîʔ
 \ps n
+\pl aplebi
+\plph aplébîʔ
 \sn 1
 \ge scar
 \is 7.9.1
 \is 2.1.4
 \de scar
-\pl aplebi
-\plph aplébîʔ
 \xv Mɩa oyin anfɩ anɩlɔkɔ, sʋ nɛdɩnka mʋ plebi.
 \xe This man and I we fought so I scarred him.
 \xv Plebi dɩn mɩ owunfinsʋ ansɩtɔ.
@@ -34414,22 +34413,22 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx posoglo
 \ph posoglo(L)
 \ps n
+\pl aposoglo
+\plph aposoglo(L)
 \sn
 \ge wasp
 \is 1.6.1.7
 \de k.o. wasp
-\pl aposoglo
-\plph aposoglo(L)
 \dt 30/Sep/2013
 
 \lx potofi
 \ph potofi(H)
 \ps n
+\pl apotofi
+\plph apotofi
 \sn
 \ge quail
 \is 1.6.1.2
-\pl apotofi
-\plph apotofi
 \de quail with red beak and legs in the forest
 \xv Potofi gyi pututɔ batɛ. Mʋ ɔnɔ pʋ́ mʋ ayabi lɛpɛ dʋn ofwi klɛ.
 \xe Potofi is a bush chicken. It's beak and its legs are redder than those of ofwi..
@@ -34502,14 +34501,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx pɔntɔ
 \ph pɔ̃ntɔ(H)
 \ps n
+\pl apɔntɔ
+\plph apɔntɔ(H)
 \sn 1
 \ge shade tree
 \is 8.3.3.2.1
 \is 2.4.5
 \is 1.5.1
 \de shade tree, usually a fig tree
-\pl apɔntɔ
-\plph apɔntɔ(H)
 \ps n
 \sn 2
 \ge chief
@@ -34571,12 +34570,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx pɔpwɛ
 \ph pɔ́pwɛʔ(L)
 \ps ADJ
+\pl apɔpwɛ
+\plph apɔ́pwɛʔ(L)
 \sn
 \ge new
 \is 8.4.6.5.3
 \de new
-\pl apɔpwɛ
-\plph apɔ́pwɛʔ(L)
 \xv Fenya pɔpwɛ a, dada labwɛ fʋ nwunasʋ okpokployi.
 \xe If you get new, you use the old for toilet corn cob.
 \xe Free: When you get a second wife you don't value the first.
@@ -34601,12 +34600,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx prɛntʋa
 \ph prɛntʊa(H)
 \ps n
+\pl aprɛntʋa
+\plph aprɛntʊa(H)
 \sn
 \ge bottle
 \is 6.7.7
 \de glass bottle
-\pl aprɛntʋa
-\plph aprɛntʊa(H)
 \xv Bʋtamapʋ ansibi anyɔ kɩ prɛntuatɔ.
 \xe They don't use two eyes to look into a bottle.
 \xv Fʋmɛ́ɛtalɩ dunka ntobi anyɔ ɔtsawʋlɛ.
@@ -35147,13 +35146,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx saɩklɩ
 \ph sáɪklɪʔ
 \ps n
+\pl asaɩklɩ
+\plph asáɪklɪ
 \sn
 \ge bicycle
 \is 7.2.4.1.1
 \de bicycle
 \bw English fi:bicycle
-\pl asaɩklɩ
-\plph asáɪklɪ
 \xv Ɔdɛ saɩklɩ amʋ lʋ ɔwʋnlɩnsʋ.
 \xe He is pedalling the bicycle hard.
 \dt 23/Jun/2014
@@ -35277,12 +35276,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sapa
 \ph sapaʔ(L)
 \ps n
+\pl asapa
+\plph asápá(L)
 \sn
 \ge cobra
 \is 1.6.1.3.1
 \de cobra
-\pl asapa
-\plph asápá(L)
 \xv Bɛɛ, "Bɛɛ" (ɩbɛ); "Sapa" mʋ́ tamaba.
 \xe They say, "viper", "Cobra" will never come.
 \xe They blame the innocent for the work of the guilty.
@@ -35293,11 +35292,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sapʋrada
 \ph sá!pʊ́rádá
 \ps n
+\pl asapʋrada
+\plph asapʊrada
 \sn
 \ge onion
 \is 6.2.1.2
-\pl asapʋrada
-\plph asapʊrada
 \de onion
 \xv Bʋtɛkaka sapʋrada wa abountɔ.
 \xe They cut onion up into stew.
@@ -35337,12 +35336,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sawun
 \ph sawũʔ
 \ps n
+\pl asawun
+\plph asáwũ̂ʔ
 \sn
 \ge tortoise
 \is 1.6.1.3.3
 \de tortoise
-\pl asawun
-\plph asáwũ̂ʔ
 \sc Fam:Testudinidae
 \xv Kebi amʋ dɛwɔlɩ fɛ sawun.
 \xe The child is crawling like a tortoise.
@@ -35413,12 +35412,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sɛbɛ
 \ph sɛ́bɛ
 \ps n
+\pl asɛbɛ
+\plph asɛ́bɛ
 \sn
 \ge amulet
 \is 4.9.7.3
 \de amulet made by Muslims
-\pl asɛbɛ
-\plph asɛ́bɛ
 \xv Asumafɔ akʋ bʋtɔwa sɛbɛ.
 \xe Some juju practitioners wear amulets.
 \xv Mʋ asɛbɛ amʋ ɔma o, bada mʋ.
@@ -35817,12 +35816,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sisa
 \ph sisaʔ
 \ps n
+\pl asisa
+\plph asísa
 \sn
 \ge housefly
 \is 1.6.1.7
 \de housefly
-\pl asisa
-\plph asísa
 \xv Sisa ɔbɛɛ, "Ɔyɩ bʋ nkpa, ɩbʋ ɔma."
 \xe The fly says "The world is in front and behind."
 \nt A proverb referring to when the fly moves its head front and rear, rubbing its head with its front legs.
@@ -35973,12 +35972,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sogyayin
 \ph soʤayĩʔ
 \ps n
+\pl asogyafɔ
+\plph asoʤafɔ
 \sn
 \ge soldier
 \is 4.6.6.1
 \de soldier- usually implying government military
-\pl asogyafɔ
-\plph asoʤafɔ
 \nt asafʋ is the Akan for warrior
 \bw English fi:soldier
 \xv Sogyayin anfɩ ma ɔnlɩn.
@@ -36164,12 +36163,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx srʋfɔ
 \ph srʊ́fɔ́
 \ps n
+\pl asrʋfɔ
+\plph asrʊ́fɔ́
 \sn
 \ge elephant
 \is 1.6.1.1.3
 \de elephant
-\pl asrʋfɔ
-\plph asrʊ́fɔ́
 \xv Srʋfɔ topuli nyi.
 \xe An elephant pulls up trees.
 \nt Srʋfɔ ɔfɛɩ ɔkpa a, bʋtama da obetsu
@@ -36286,13 +36285,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx suma
 \ph suma
 \ps n
+\pl asuma
+\plph asuma
 \sn
 \ge juju
 \is 4.9.7.7
 \is 4.9.8
 \de magical object
-\pl asuma
-\plph asuma
 \rf Tape:7-1-073
 \xv Oyin amʋ bʋ suma, tamɛ ɔbɛɛ ɔbɛ́tra hɔ ɩkʋ wa mʋ tɔ, fówun onya asuma.
 \xe The man has a magical object but he says he will get another in addition so that he will have magical objects.
@@ -36301,13 +36300,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sumbi
 \ph sumbí
 \ps n
+\pl asumbi
+\plph asumbí
 \sn
 \ge errand
 \is 4.5.4.3
 \is 6.9.2
 \de errand
-\pl asumbi
-\plph asumbí
 \rf Tape:7-1-083
 \xv Bawa mɩ sumbi, sʋ nɔyɔ amba.
 \xe They have sent me on an errand so I am going to go and come.
@@ -36320,12 +36319,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sumbi ɔyɔpʋ
 \ph sumbí ɔyɔpʊ́
 \ps n
+\pl sumbi ayɔpʋ
+\plph sumbí ayɔpʊ́
 \sn
 \ge errand runner
 \is 4.5.4.3
 \de a person who runs errand, messenger
-\pl sumbi ayɔpʋ
-\plph sumbí ayɔpʊ́
 \xv Ɔha ánɩ́ bɔwa mʋ sumbi, ɔtɔyɔ, wa ɔsa yinki ba a, sumbi ɔyɔpʋ wanklaan ogyi.
 \xe A person who is being sent on an errand and he goes and comes back quickly is a good errand runner.
 \dt 20/Jul/2016
@@ -36649,12 +36648,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx sʋrama
 \ph sʊramá
 \ps n
+\pl asʋrama
+\plph asʊramá
 \sn
 \ge wasp
 \is 1.6.1.7
 \de wasp that make paper nest
-\pl asʋrama
-\plph asʊramá
 \xv Asʋrama bʋtekle atɔ debidebi, mʋ́sʋ bʋtetsia nta futututɔ.
 \xe Wasps like sweet things that is why they stay around palm wine.
 \dt 11/Nov/2015
@@ -36663,12 +36662,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph sʊsʊ́pʊ
 \ps ADJ
+\pl asʋsʋpʋ
+\plph asʊsʊ́pʊ
 \sn
 \ge upper
 \is 8.5.2.4
 \de upper one
-\pl asʋsʋpʋ
-\plph asʊsʊ́pʊ
 \dt 08/Sep/2016
 
 \lx sʋsʋpʋ
@@ -36931,13 +36930,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tabi
 \ph tabíʔ
 \ps n
+\pl atabi
+\plph atabíʔ
 \sn
 \ge twin
 \is 4.1.9.1.3
 \is 4.1.9.1.9
 \de twin
-\pl atabi
-\plph atabíʔ
 \rf Tape:7-1-318
 \xv Kɩ, Lowu pʋ́ Nkpa bʋgyi atabi.
 \xe Look, Death and Life are twins.
@@ -37068,14 +37067,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tanibi
 \ph tanibiʔ
 \ps n
+\pl atanibi
+\plph atanibiʔ
 \sn
 \ge cowry
 \is 5.4
 \is 6.8.6
 \is 6.6.4.3
 \de cowry
-\pl atanibi
-\plph atanibiʔ
 \rf Tape:7-1-343
 \xv Atɩtɩfɔ betsia pʋ atanibi hɔ atɔ. Brɛ amʋtɔ tanibi tɛtalɩ hɔ atɔ tsɔtsɔɔtsɔ.
 \xe Early people used to use cowry shell to buy things. At that time a cowry could buy a lot.
@@ -37161,14 +37160,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tasii
 \ph tásǐː
 \ps n
+\pl atasii
+\plph atásǐː
 \sn
 \ge aunt
 \is 4.1.9.1.6
 \is 4.1.9.1.8
 \is 2.6.5.2
 \de reciprocal relationship between a child and his/her Father's sister. Each will call the other "Tasii"
-\pl atasii
-\plph atásǐː
 \xv Mɩ atasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
 \xe My paternal aunts has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because their families are different.
 \dt 13/Sep/2016
@@ -37176,13 +37175,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tati
 \ph tati(H)
 \ps n
+\pl atati
+\plph atati(H)
 \sn
 \ge cloth
 \is 5.4.1
 \de cloth
 \nt MYO etymology ɔtan tin (cloth cut)
-\pl atati
-\plph atati(H)
 \rf Tape:7-1-380
 \xv Ɔtsɩ amʋ lapʋ tati klɩ mʋ bi wa ɔma.
 \xe The woman has taken a cloth and tied her child on her back.
@@ -37200,13 +37199,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tatida
 \ph tatida
 \ps n
+\pl atatida
+\plph atatida
 \sn
 \ge rag
 \is 8.1.7.4
 \is 6.6.1.1
 \de rag
-\pl atatida
-\plph atatida
 \rf Tape:7-1-384
 \xv Mɩ atadɩɛ tatida nɩ.
 \xe This is my old shirt.
@@ -37358,12 +37357,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tɛplɛ
 \ph tɛ̂plɛ̌ʔ
 \ps n
+\pl atɛplɛ
+\plph atɛ̂plɛ̌ʔ
 \sn
 \ge cockroach
 \is 1.6.1.7
 \de cockroach
-\pl atɛplɛ
-\plph atɛ̂plɛ̌ʔ
 \xv Tɛplɛ onun nfɔ a, Ogbon lahɔ nwun pɛ.
 \xe Cockroach drinks the oil, but red headed lizard gets the red head.
 \nt the innocent get blamed for the work of the guilty.
@@ -37446,12 +37445,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tiapʋ
 \ph tiapʊ
 \ps n
+\pl atiapʋ
+\plph atíápʊ
 \sn
 \ge gazelle
 \is 1.6.1.1.3
 \de gazelle
-\pl atiapʋ
-\plph atíápʊ
 \xv Tiapʋ iyietɔ ma ɔdwɛ, sʋ aha bʋtamakle mʋ́ asʋn.
 \xe The meat of gazelle is not of a good taste, so people do not like it.
 \dt 15/Jul/2016
@@ -37526,12 +37525,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx timbi
 \ph tímbi
 \ps n
+\pl atimbi
+\plph atímbi
 \sn
 \ge tribal mark
 \is 5.4.6
 \de to make incision so that the scar produces a tribal mark
-\pl atimbi
-\plph atímbi
 \nt Nkonyas traditionally don't have marks; but MYO says his grandfather said that three small marks on the right cheek below the eye can be used.
 \rf Tape:7-1-474
 \xv Igyi wulu kʋsʋ amandɩɛ ánɩ́ nɩ bɔkwɩɩ fʋ a, bɛ́tɩn fʋ timbi.
@@ -38139,12 +38138,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph tɔsɪʔ(L)
 \ps n
+\pl atɔsɩ
+\plph atɔ́sɪ̂ʔ(L)
 \sn
 \ge caterpillar, k.o.
 \is 1.6.1.9
 \de a kind of caterpillar. It stings, and is green with long hairs. It live under leaves
-\pl atɔsɩ
-\plph atɔ́sɪ̂ʔ(L)
 \rf Tape:7-2-031
 \xv Tɔsɩ tɛmanta afɩta sʋ, nɩ ɔtɔ fʋ a, ɩbʋ ɔsɩn.
 \xe Caterpillar lives on leaves, if it should touch (burn) you it is painful.
@@ -38238,12 +38237,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx trahɛ
 \ph tráhɛ
 \ps ADJ
+\pl atrahɛ
+\plph atráhɛ
 \sn
 \ge last
 \is 8.4.5.1.4
 \de last, final
-\pl atrahɛ
-\plph atráhɛ
 \rf Tape:7-2-111
 \xv Nkɛ trahɛ amʋtɔ a, aha lalahɛ bomoni.
 \xe In the last days, evil doers will be many.
@@ -38304,12 +38303,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx trʋkpa
 \ph trʊk͡pa(H)
 \ps n
+\pl atrʋkpa
+\plph atrʊk͡pa(H)
 \sn
 \ge billy goat
 \is 6.3.1.1
 \de male goat
-\pl atrʋkpa
-\plph atrʊk͡pa(H)
 \rf Tape:7-1-142
 \xv Ndɛ trʋkpa dunka ɔbɔdʋ mɩ akpala ha mɩ.
 \xe I am looking for a billy goat to service my (she) goats for me.
@@ -38399,12 +38398,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsakoto
 \ph t͡sákoto
 \ps n
+\pl atsakoto
+\plph at͡sákoto
 \sn
 \ge underwear
 \is 5.4.1
 \de underwear
-\pl atsakoto
-\plph at͡sákoto
 \rf Tape:7-2-170
 \xv Tsu kebi amʋ tsakoto wa mʋ, tsufɛ otse yaya.
 \xe Put the child's underwear on him because he is sitting naked.
@@ -38414,12 +38413,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph t͡salaʔ(L)
 \ps n
+\pl atsala
+\plph at͡sala
 \sn
 \ge old farm
 \is 6.2.2
 \de previous year's farm which yields crops that take two seasons to mature
-\pl atsala
-\plph at͡sala
 \rf Tape:7-2-179
 \xv Mɩ tsala pɔpwɛtɔ labʋla sʋ nɔ́dɔ mʋ́tɔ.
 \xe My last year's farm is overgrown with weeds so I will weed it.
@@ -38458,13 +38457,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsamboyi
 \ph t͡sámboyí
 \ps n
+\pl atsamboyi
+\plph at͡sámboyí
 \sn
 \ge civet cat
 \is 1.6.1.1.2
 \de civet cat
 \sc Civettictis civetta
-\pl atsamboyi
-\plph at͡sámboyí
 \dt 08/Sep/2016
 
 \lx tsan
@@ -38507,12 +38506,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsankasɩ
 \ph t͡sãŋkasɪ
 \ps n
+\pl atsankasɩ
+\plph at͡saŋkasɪ
 \sn 1
 \ge earthworm
 \is 1.6.1.9
 \de earthworm
-\pl atsankasɩ
-\plph at͡saŋkasɪ
 \rf Tape:7-2-212
 \xv Tsankasɩ bʋ ɔsʋlʋtɔ ɔdɛkɔ, ɔbɛɛ ɔhaa mɛdɛ mʋ wun, tamɛ sa ɩdɛdalɩ.
 \xe An earthworm is in the ground, he is defecating, he says, no one is seeing him, unexpectedly it is coming out.
@@ -38564,12 +38563,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsantsankʋ
 \ph t͡sant͡saŋkʊ
 \ps n
+\pl atsantsankʋ
+\plph at͡sant͡saŋkʊ
 \sn
 \ge locust
 \is 1.6.1.7
 \de locust
-\pl atsantsankʋ
-\plph at͡sant͡saŋkʊ
 \cf gbablama
 \ce locust
 \dt 25/Dec/2013
@@ -38632,13 +38631,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsebi
 \ph t͡sébi(L)
 \ps n
+\pl atsebi
+\plph at͡sébi(L)
 \sn
 \ge kidney
 \is 2.1.8
 \is 2.2.7
 \de kidney
-\pl atsebi
-\plph at͡sébi(L)
 \xv Nɩ bɔmɔ ɔbwɩ a, nyebi bʋtekle mʋ atsebi tɔ wɩ.
 \xe When an animal is killed, children like to roast its kidneys and chew.
 \xv Ɔhagyiɔha bʋ atsebi mʋ ɩwɩtɔ.
@@ -38881,12 +38880,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsianɩ
 \ph tsianɪ̌ʔ
 \ps INTJ
+\pl tsiamlɩnɩ
+\plph tsiamlɪnɪ̌ʔ
 \sn
 \ge greet PM
 \is 3.5.1.4.3
 \de greetings in the afternoon/evening to single person
-\pl tsiamlɩnɩ
-\plph tsiamlɪnɪ̌ʔ
 \dt 03/Oct/2016
 
 \lx tsiatɔ
@@ -39032,12 +39031,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsingbini
 \ph t͡siŋ͡mg͡bini
 \ps n
+\pl atsingbini
+\plph at͡siŋ͡mg͡bini
 \sn
 \ge snake
 \is 1.6.1.3.1
 \de an edible snake that doesn't bite; a small python
-\pl atsingbini
-\plph at͡siŋ͡mg͡bini
 \nt It is known that this snake doesn't usually bite people. If it does it is taken as a sign that the person has defiled himself in some way. See yinta for discussion on defilement
 \xv Tsingbini gyi ɩwɔ ánɩ́ ɔtamatsula dun aha.
 \xe A tsingbini is a snake which does not like to bite people.
@@ -39148,12 +39147,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 3
 \ph t͡sit͡siʔ
 \ps n
+\pl atsitsi
+\plph at͡sit͡si
 \sn
 \ge source
 \is 9.5.1.6.1
 \de source; bottom
-\pl atsitsi
-\plph at͡sit͡si
 \nt etymologically from ntsi - root
 \xv ayín tsitsi
 \xe root of the teeth (gum)
@@ -39485,12 +39484,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsukʋlɛ osinpʋ
 \ph t͡sukʊlɛ osínpʊ
 \ps n
+\pl tsukʋlɛ asinpʋ
+\plph t͡sukʊlɛ asínpʊ
 \sn
 \ge invalid
 \is 2.5.4
 \de someone who is sick and unable to go out
-\pl tsukʋlɛ asinpʋ
-\plph t͡sukʊlɛ asínpʊ
 \nt Ewe is bafan
 \xv Ɔlɔpʋ amʋ ɩlɔ amʋ laha mʋ alamli tsukʋlɛ osinpʋ.
 \xe The sick person's illness has caused him to be a person who stays in one place.
@@ -39907,12 +39906,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tukuriibi
 \ph túkúríːbi
 \ps ADJ
+\pl atukuribi
+\plph atúkúríbi
 \sn
 \ge tiny
 \is 8.2.1
 \de very small amount
-\pl atukuribi
-\plph atúkúríbi
 \nt smaller than kpalobi
 \cf kpalobi
 \ce small (amount)
@@ -39938,13 +39937,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tuntu
 \ph tuntu
 \ps n
+\pl atuntu
+\plph atuntu
 \sn
 \ge round fruit
 \is 8.3.1.6
 \is 5.2.3
 \de fruit or food in a round form; e.g. avocado; mango; pawpaw; kenkey; bread
-\pl atuntu
-\plph atuntu
 \xv Kɛlɩ oyi a, mʋ́ tuntu amʋ ɩtɛfa wunya dantapu.
 \xe A silk cotton tree's pod always bursts and spreads fluff.
 \rf Tape:7-2-584
@@ -40093,12 +40092,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tʋnkpa
 \ph tʊŋ͡mk͡pa(H)
 \ps n
+\pl atʋnkpa
+\plph atʊŋ͡mk͡pa(H)
 \sn
 \ge itchy vine
 \is 1.5.3
 \de forest vine
-\pl atʋnkpa
-\plph atʊŋ͡mk͡pa(H)
 \nt Particularly if you go near it from January to May.
 \xv Tʋnkpa igyi ɩfla kʋ ánɩ́ iswie a, ɩtɔwɔlɩ ɩwɩ dʋbɩ. Fɛtalɩ pʋ klɩ atɔ.
 \xe It is a vine when it bears it itches the body badly. You can use it to tie anything.
@@ -40118,12 +40117,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx vunvun
 \ph vũvũ̂ʔ
 \ps n
+\pl avunvun
+\plph avṹvũ̂ʔ
 \sn
 \ge wasp
 \is 1.6.1.7
 \de k.o. wasp
-\pl avunvun
-\plph avṹvũ̂ʔ
 \dt 30/Sep/2013
 
 \lx wa
@@ -40364,13 +40363,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx waɩnbi
 \ph waɪnbi(H)
 \ps n
+\pl awaɩnbi
+\plph awaɪnbi
 \sn
 \ge palm branch
 \is 6.2.5.4
 \is 6.2.1.7
 \de palm branch with the fronds removed
-\pl awaɩnbi
-\plph awaɪnbi
 \rf Tape:8-1-183
 \xv Bʋtɔpʋ awaɩnbi lʋ lakpa.
 \xe They habitually take stripped palm branches to weave baskets.
@@ -40442,12 +40441,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx wanklaan
 \ph wãŋklã́ː
 \ps ADJ
+\pl awanklaan
+\plph awãŋklã́ː
 \sn
 \ge fine
 \is 8.3.7
 \de fine in quality
-\pl awanklaan
-\plph awãŋklã́ː
 \xv Natɔsɩ mango awanklaan amʋ lɛ tswɩ fʋ.
 \xe I have collected the fine mangos and put them aside for you.
 \rf Tape:8-1-208
@@ -40477,14 +40476,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph wanlɪ̃ʔ(H)
 \ps n
+\pl awanlɩn
+\plph awanlɪ̃ʔ(H)
 \sn
 \ge guinea fowl
 \is 6.3.6
 \de guinea fowl
 \xv Mma wanlɩn.
 \xe I do not have a guinea fowl.
-\pl awanlɩn
-\plph awanlɪ̃ʔ(H)
 \sc Numida meleagris
 \rf Tape:8-1-221
 \xv Mɩ wanlɩn dɛka, ɔflɔɩ a, nénya awanlɩn tsɔtsɔɔtsɔ.
@@ -40538,12 +40537,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx wɛ
 \ph wɛ
 \ps ADJ
+\pl awɛ
+\plph awɛ
 \sn 1
 \ge in pieces
 \is 8.1.6.2
 \de pieces of fruit from a bunch; abɛ, blɔdɩ, kwadu
-\pl awɛ
-\plph awɛ
 \rf Tape:8-1-243
 \xv Natɩn abɛ, ndɛ mʋ́ abɛ wɛ amʋ tɔsɩ.
 \xe I have cut a heart of palm fruits, and I am picking up the loose ones.
@@ -40939,12 +40938,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx wulu
 \ph wúluʔ
 \ps n
+\pl awulu
+\plph awúluʔ
 \sn
 \ge town
 \is 4.6.7.2
 \de town
-\pl awulu
-\plph awúluʔ
 \rf Tape:8-1-363
 \xv Wulugyiwulu mʋ́a mʋ́tɔ amandɩɛ.
 \xe Every town with it's own customs.
@@ -41239,12 +41238,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx wʋlʋ
 \ph wʊlʊʔ
 \ps n
+\pl awʋlʋ
+\plph awʊ́lʊʔ
 \sn
 \ge tsetse fly
 \is 1.6.1.7
 \de tsetse fly
-\pl awʋlʋ
-\plph awʊ́lʊʔ
 \nt wʋlʋ is considered to be an evil/dangerous animal
 \rf Tape:8-2-315
 \xv Wʋlʋ todun aha, kpɩ amʋ́ obugya.
@@ -41275,12 +41274,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx wʋnsa
 \ph wʊnsaʔ
 \ps n
+\pl awʋnsa
+\plph awʊ́nsâʔ
 \sn
 \ge bee
 \is 1.6.1.7
 \de bee
-\pl awʋnsa
-\plph awʊ́nsâʔ
 \rf Tape:8-1-427
 \xv Awʋnsa bʋtɔbwɛ ɔkwɛn.
 \xe Bees make honey.
@@ -41407,12 +41406,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx yabi
 \ph yabi(H)
 \ps n
+\pl ayabi
+\plph ayabi
 \sn
 \ge foot; leg
 \is 2.1.3.2
 \de leg; foot
-\pl ayabi
-\plph ayabi
 \rf Tape:8-1-469
 \xv Kɩaɩ ayabi bʋswɩ dʋn andɔ klɛ.
 \xe Dog's legs are longer than cats'.
@@ -41535,13 +41534,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx yebi
 \ph yébíʔ(L)
 \ps n
+\pl ayebi
+\plph ayébi
 \sn
 \ge proverb
 \is 3.5.2.3
 \is 3.5.4.2
 \de proverb
-\pl ayebi
-\plph ayébi
 \xv Alaha yebi.
 \xe He told a proverb.
 \rf Tape:8-1-481
@@ -41699,12 +41698,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va iyibi
 \vaph iyibi(H)
 \ps vt
+\pl ayibi
+\plph ayibi(H)
 \sn 1
 \ge machine
 \is 7.2.4.1.1
 \de machine, usually lorry
-\pl ayibi
-\plph ayibi(H)
 \xv Ɔdɛ yibi amʋ kan.
 \xe He is driving the lorry.
 \xv Yibi amʋ dɛ keke bɩtɩa buo mʋ́.
@@ -41731,12 +41730,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx yile
 \ph yilé(H)
 \ps n
+\pl ayile
+\plph ayilé
 \sn 1
 \ge good
 \is 8.3.7.7
 \de good
-\pl ayile
-\plph ayilé
 \rf Tape:8-1-579
 \xv Fɛdɩ yile?
 \xe You slept well?
@@ -41794,12 +41793,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 2
 \ph -yĩʔ
 \ps NOMR
+\pl -fɔ
+\plph -fɔ
 \sn
 \ge Xer
 \is 4.6.2
 \is 9.4.2
-\pl -fɔ
-\plph -fɔ
 \de a person who has a certain quality or does a certain thing
 \dt 17/May/2016
 
@@ -41908,13 +41907,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx yinti
 \ph yinti(H)
 \ps n
+\pl ayinti
+\plph ayinti(H)
 \sn
 \ge stump
 \is 1.5.5
 \is 6.2.4.2
 \de stump of a tree
-\pl ayinti
-\plph ayinti(H)
 \rf Tape:8-2-015
 \xv Ayinti bʋ mɩ ndɔtɔ dʋbɩ sʋ yinti lawɔ mɩ ayabitɔ.
 \xe There are many stumps in my farm so a stump has pierced my foot.
@@ -41944,12 +41943,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph yiyí(H)
 \ps n
+\pl ayiyi
+\plph ayiyí(H)
 \sn
 \ge shadow
 \is 8.3.3.2.1
 \de shadow
-\pl ayiyi
-\plph ayiyí(H)
 \rf Tape:8-1-570
 \xv Nyankɩ pʋ́ ntʋpwɛ a, anɩ yiyi tɔwa swɩ, ɔpa a, fówun labwɛ kutukulu.
 \xe In the morning and evening our shadows always become long, at noon you will see they have become short.
