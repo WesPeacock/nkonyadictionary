@@ -946,7 +946,7 @@
 \-fil
 
 \+fil search
-\mkr sn
+\mkr cf
 \match_char c
 \-fil
 
