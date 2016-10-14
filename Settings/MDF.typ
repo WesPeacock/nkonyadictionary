@@ -796,11 +796,35 @@
 \CharStyle
 \-mkr
 
+\+mkr vaa
+\nam Variant-Allophone
+\desc Variant forms of the lexical entry or subentry This variant form is phonologically conditioned.
+\lng vernacular
+\mkrOverThis lx
+\CharStyle
+\-mkr
+
+\+mkr vad
+\nam Variant-Dialect
+\desc Variant according to dialect.
+\lng vernacular
+\mkrOverThis lx
+\CharStyle
+\-mkr
+
 \+mkr vaph
 \nam Variant phonetic form
 \desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
 \lng phonetic
 \mkrOverThis va
+\CharStyle
+\-mkr
+
+\+mkr vas
+\nam Variant - spelling
+\desc Variant spelling
+\lng vernacular
+\mkrOverThis lx
 \CharStyle
 \-mkr
 
@@ -934,6 +958,17 @@
 \match_char c
 \-fil
 
+\+fil Variants
+\mkr va
+\fel Or
+\mkr vas
+\fel Or
+\mkr vaa
+\fel Or
+\mkr vad
+\match_char c
+\-fil
+
 \+fil checkps
 \mkr ps
 \txt [#]n[#]
@@ -947,6 +982,11 @@
 
 \+fil search
 \mkr cf
+\match_char c
+\-fil
+
+\+fil search-another
+\mkr va
 \match_char c
 \-fil
 
@@ -968,6 +1008,10 @@
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \mkr va
+\-drf
+\+drf 
+\File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
+\mkr vad
 \-drf
 \+drf 
 \File C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt

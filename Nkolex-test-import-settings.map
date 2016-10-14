@@ -1,6 +1,6 @@
 
 <!--=====================================================================
-Created via the Lexical Import process: 9/29/2016 1:58:04 PM
+Created via the Lexical Import process: 10/6/2016 11:12:25 AM
 ===================================================================== -->
 <sfmMapping version="6.0">
 
@@ -26,17 +26,17 @@ Language Definitions
 Level Hierarchy
 ===================================================================== -->
 <hierarchy>
-<level name="Entry" partOf="records" beginFields="lx" additionalFields="ph dt" multiFields="ph"/>
+<level name="Entry" partOf="records" beginFields="lx" additionalFields="cf ce dt ph np lt nt" multiFields="ce cf ph np lt nt"/>
 <level name="Etymology" partOf="Entry Subentry" beginFields="ignore"/>
 <level name="Example" partOf="Sense" beginFields="rf xv"/>
-<level name="ExampleTranslation" partOf="Example" beginFields="xe"/>
+<level name="ExampleTranslation" partOf="Example" beginFields="xe" additionalFields="xl" multiFields="xl"/>
 <level name="Function" partOf="Subentry Sense Entry" beginFields="ignore"/>
 <level name="Picture" partOf="Sense" beginFields="ignore"/>
 <level name="Pronunciation" partOf="Entry Subentry" beginFields="ignore"/>
 <level name="SemanticDomain" partOf="Sense" beginFields="is"/>
-<level name="Sense" partOf="Entry Subentry" beginFields="ps ge sn" additionalFields="sc de bb" multiFields="de bb"/>
-<level name="Subentry" partOf="Entry" beginFields="ignore"/>
-<level name="Variant" partOf="Subentry Sense Entry" beginFields="plph pl" uniqueFields="pl"/>
+<level name="Sense" partOf="Entry Subentry" beginFields="ps ge sn" additionalFields="de sc na bb" multiFields="de na bb"/>
+<level name="Subentry" partOf="Entry" beginFields="se" uniqueFields="se"/>
+<level name="Variant" partOf="Subentry Sense Entry" beginFields="plph pl" additionalFields="va vaph" multiFields="va vaph" uniqueFields="va pl"/>
 </hierarchy>
 
 <!--=====================================================================
@@ -52,6 +52,12 @@ Field Descriptions
 <field sfm="ps" name="Category (Part Of Speech)" type="string" lang="English" abbr="True" >
 <meaning app="fw.sil.org" id="pos"/>
 </field>
+<field sfm="pl" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Plural"/>
+</field>
+<field sfm="plph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="veires"/>
+</field>
 <field sfm="sn" name="Sense Number" type="string" lang="English" >
 <meaning app="fw.sil.org" id="sn"/>
 </field>
@@ -64,14 +70,17 @@ Field Descriptions
 <field sfm="de" name="Definition" type="string" lang="English" >
 <meaning app="fw.sil.org" id="def"/>
 </field>
-<field sfm="sc" name="Scientific Name" type="string" lang="English" >
-<meaning app="fw.sil.org" id="sci"/>
+<field sfm="cf" name="Cross Reference" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="cref" funcWS="en" func="Compare"/>
 </field>
-<field sfm="pl" name="Variant Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="var" funcWS="en" func="Plural"/>
+<field sfm="ce" name="Import Residue (Entry)" type="string" lang="English" >
+<meaning app="fw.sil.org" id="eires"/>
 </field>
-<field sfm="plph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
-<meaning app="fw.sil.org" id="veires"/>
+<field sfm="nt" name="Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="com"/>
+</field>
+<field sfm="dt" name="Date Modified" type="date" lang="English" >
+<meaning app="fw.sil.org" id="mod"/>
 </field>
 <field sfm="rf" name="Reference" type="string" lang="English" >
 <meaning app="fw.sil.org" id="ref"/>
@@ -85,8 +94,29 @@ Field Descriptions
 <field sfm="bb" name="Bibliography (Sense)" type="string" lang="English" >
 <meaning app="fw.sil.org" id="sbib"/>
 </field>
-<field sfm="dt" name="Date Modified" type="date" lang="English" >
-<meaning app="fw.sil.org" id="mod"/>
+<field sfm="va" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Free Variant"/>
+</field>
+<field sfm="vaph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="veires"/>
+</field>
+<field sfm="xl" name="Example Translation" type="string" lang="English" >
+<meaning app="fw.sil.org" id="trans"/>
+</field>
+<field sfm="sc" name="Scientific Name" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sci"/>
+</field>
+<field sfm="na" name="Anthro Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="anote"/>
+</field>
+<field sfm="np" name="Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="com"/>
+</field>
+<field sfm="se" name="Subentry/Complex Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Compound"/>
+</field>
+<field sfm="lt" name="Literal Meaning" type="string" lang="English" >
+<meaning app="fw.sil.org" id="litm"/>
 </field>
 </fieldDescriptions>
 
