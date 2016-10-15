@@ -1,10 +1,41 @@
 \_sh v3.0  400  MDF 4.0
 
+\lx ago
+\ph agoʔ
+\vad agon
+\vaph agõʔ
+\ve Northern
+\ps n
+\sn
+\ge velvet
+\is 6.6.1.1
+\de velvet
+\xv Ɔlɛdɩda agon tati Istatɔ.
+\xe He put on a velvet cloth for Easter.
+\bb Stewart List:1269
+\dt 15/Oct/2016
+
+\lx aloo
+\ph alóː
+\ps ADV
+\vas loo
+\vaph lóː
+\sn
+\ge or; instead of
+\is 9.6.1.2
+\de or
+\bw Ewe fi:aloo LHH
+\cf anaasɛ
+\ce or (Twi)
+\cf ntɛ
+\ce or (Nkonya)
+\dt 15/Oct/2016
+
 \lx anyɩnapɛpɛ
 \ph aɲɪnapɛpɛʔ(L)
 \ps n
-\pl anyɩnapɛpɛ
-\plph aɲɪnapɛpɛ
+\sg nyɩnapɛpɛ
+\sgph ɲɪnapɛpɛ
 \sn
 \ge very tiny red ant
 \is 1.6.1.7
@@ -12,7 +43,26 @@
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 06/Oct/2016
+\dt 15/Oct/2016
+
+\lx atɔ
+\ph atɔ́ʔ(H)
+\ps n
+\sg ɩtɔ
+\sgph ɪtɔ́ʔ(H)
+\vas atɔ-
+\vaph atɔ-
+\vaa ato-
+\vaaph ato-
+\sn
+\ge things
+\is 9.1.3
+\de things; something
+\nt etymology a-ɩtɔ (PL)-thing
+\rf Tape:1-2-087
+\xv Bulu lɔbwɛ atɔ ánɩ́ bʋ ɔyɩtɔ fɛ́ɛ́ ha nyankpʋsa.
+\xe God made all the things that are in this world for mankind.
+\dt 15/Oct/2016
 
 \lx baba
 \ph babaʔ
@@ -33,7 +83,41 @@
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
 \bb Stewart List:0811
-\dt 06/Oct/2016
+\dt 15/Oct/2016
+
+\lx bɩtɩ
+\ph bɪ́tɪ́(H)
+\ps v
+\sn 1
+\ge pull (on)
+\is 7.3.2.8
+\de pull (on)
+\an sun
+\an wuta
+\an sunki
+\cf ɩsʋbɩtɩ
+\cf bɩtɩa
+\xv Bɩtɩ ɔfɛ amʋtɔ!
+\xe Pull on the rope.
+\bb Stewart List:2344
+\bb Stewart List:2660
+\cf pio
+\nt pull: bɩtɩ (pull), kpʋ (pull a thread gather), tsii, tsitsii (pull out suddenly), puli (uproot)
+\cf ɩsʋbɩtɩ
+\sn 2
+\ge lengthen
+\is 8.4.2.2
+\de to make something last longer
+\xv bɩtɩ asʋn
+\xe delay a judgement
+\xv Ɔdɛ asʋntɔ bɩtɩ.
+\xe He is dragging out a case.
+\sn 3
+\ps vi
+\ge slither
+\is 7.2.1.5.1
+\de slither – as a snake moves
+\dt 16/Oct/2016
 
 \lx damantsu
 \ph damant͡sú
@@ -51,7 +135,84 @@
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 06/Oct/2016
+\dt 15/Oct/2016
+
+\lx debidebi
+\ph debídébi (H)
+\ps ADJ
+\sn
+\ge sweet
+\is 2.3.3
+\de sweet tasting
+\xv Ntɔntrɔbwɩ bʋtekle atɔ debidebi puta.
+\xe Small black ants like gathering on, crawling over sweet things.
+\cf dɛdɛ
+\ce sweet
+\rf Tape:2-1-274
+\rf Tape:2-1-277
+\xv Bʋdɛ nta debidebi fɛ biasʋ.
+\xe They are selling sweet drinks (akɔklɔ, liha, minerals – non-alcoholic) in the market.
+\bb Stewart List:1678
+\dt 17/Oct/2016
+
+\lx dɛdɛ
+\ph dɛdɛ́
+\ps ADJ
+\pl adɛdɛ
+\plph adɛdɛ
+\sn 1
+\ge sweet
+\is 2.3.3
+\de sweet
+\sy debidebi
+\rf Tape:2-1-288
+\xv Bʋdɛ nta dɛdɛ fɛ biasʋ.
+\xe They are selling sweet (palm) wine in the market.
+\ps ADV
+\sn 2
+\ge sweetly
+\de sweetly (spoken)
+\is 3.5.1.7
+\is 3.4.1.4.4
+\bb Stewart List:1678
+\dt 17/Oct/2016
+
+\lx dɩn
+\ph dɪ̃ʔ
+\ps v
+\sn 1
+\ge rest on
+\is 8.5.1.3
+\de rest on
+\ng inanimate object rests on an object. A corpse can dɩn but not a living person.
+\ng continuous aspect
+\rf Tape:2-2-535
+\xv Mʋ́ʋ́ nɛfɩtɛ mʋ mɩ ɔwʋlʋ amʋ ɛ sʋ, ɔbɛɛ, ɩdɩn ɔpʋnʋsʋ.
+\xe Then I asked him about my book also and he said, it is on the table.
+\rf Tape:2-1-334
+\xv Nobwii pa, mɩ ɔwʋlʋ dɩn ɔpʋnʋ amʋsʋ, dɩnkɩ mʋ ha mɩ.
+\xe Please, My book is on the table so bring it down to me.
+\xv Pɩna dɩn mʋ onwunfisʋ.
+\xe He has a scar on his forehead.
+\rf Tape:8-1-014
+\xv Nfɔ amʋ́ʋ́ ɩdɩn ogya amʋ dɛ tutu dʋbɩ.
+\xe The oil that is on the fire is spitting too much.
+\xv Ntsu dɩn ɔsʋlʋ amʋsʋ.
+\xe Water covered the ground.
+\bb Stewart List:2522
+\se ansɩ dɩn Xsʋ
+\ge rely on X
+\de to rely on someone or something
+\xv Mɩ ansɩ dɩn Kwaku Kebisʋ.
+\xe I rely on Kwaku Kebi.
+\ps vt
+\sn 2
+\ge persecute
+\is 4.8.2
+\de persecute
+\xv Bʋ dɩn mlɩsʋ.
+\xe They persecute you.
+\dt 15/Oct/2016
 
 \lx finfi
 \ph fiɱfiʔ(L)
@@ -73,23 +234,23 @@
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 06/Oct/2016
+\dt 15/Oct/2016
 
 \lx gyagya
 \ph ʤaʤaʔ
 \ps n
+\pl agyagya
+\plph aʤáʤaʔ
 \sn
 \ge bat
 \is 1.6.1.1.8
 \de bat
 \sc Order Chiroptera
-\pl agyagya
-\plph aʤáʤaʔ
 \rf Tape:2-2-178
 \xv Mbubwi pʋ́ agyagya bʋtofuli, tamɛ agyagya bʋtofuli yɔ anwunsʋ dʋn mbubwi.
 \xe Birds and bats both fly but bats fly higher than birds.
 \bb Stewart List:0625
-\dt 26/Sep/2016
+\dt 15/Oct/2016
 
 \lx gyagyaagya
 \ph ʤáʤáːʤá
@@ -101,7 +262,7 @@
 \rf Tape:2-2-164
 \xv "Nɩ fɔyɔ a, gyagyaagya, nɛha amʋ́ fɛ́ɛ́ itsia."
 \xe When you are going, go well, I greet them all.
-\dt 21/Jul/2016
+\dt 15/Oct/2016
 
 \lx gyawugya
 \ph ʤawuʤá
@@ -119,7 +280,7 @@
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 06/Oct/2016
+\dt 15/Oct/2016
 
 \lx konya
 \ph koɲaʔ
@@ -141,7 +302,7 @@
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 06/Oct/2016
+\dt 15/Oct/2016
 
 \lx kɔklɔ
 \ph kɔklɔ
@@ -155,7 +316,62 @@
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 06/Oct/2016
+\dt 15/Oct/2016
+
+\lx kwɛ
+\hm 1
+\ph kwɛʔ
+\ps v
+\sn
+\ge sprout
+\is 1.5.5
+\de sprout
+\xv ... mʋa la kɔkwɛ amʋ ɔma.
+\xe ... which were sprouting behind.
+\se kɔkwɛ
+\ps v
+\ge sprout
+\de sprout all over
+\rf Tape:4-1-374
+\xv Mɩ kpoli lakwɛ.
+\xe My corn has sprouted.
+\bb Stewart List:2205
+\dt 15/Oct/2016
+
+\lx kwɛ
+\hm 2
+\ph kwɛ́ʔ(H)
+\ps vt
+\sn
+\ge grind
+\is 5.2.1.2.3
+\de grind
+\cf kpi
+\ce scrape
+\rf Tape:4-1-382
+\xv Nɔyɔ kwɛ mɩ kpoli.
+\xe I am going to grind my corn.
+\rf Tape:4-1-386
+\xv Nakwɛ tɔnsɩ amʋ.
+\xe I have ground the pepper.
+\bb Stewart List:2809
+\dt 15/Oct/2016
+
+\lx ntɛ
+\ph ntɛ̂ː
+\ps CNJ
+\sn
+\ge or
+\is 9.6.1.2
+\de or
+\xv Anɩ pio amʋ ɔbɛ́ba ndɛ ntɛ ɔmɛ́ɛba?
+\xe Will our brother come today or not.
+\rf Tape:5-1-359
+\xv Mɩ klɛ nɩ ntɛ, fʋklɛ igyi?
+\xe Is it mine or it belongs to you?
+\nt aloo (Ewe), anaasɛ (Akan), ntɛ (Nkonya)
+\bb Stewart List:1851
+\dt 15/Oct/2016
 
 \lx otobon
 \ph otobõʔ(H)
@@ -167,7 +383,7 @@
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 06/Oct/2016
+\dt 15/Oct/2016
 
 \lx ɔkpan
 \ph ɔk͡pã́ʔ
@@ -187,7 +403,19 @@
 \cf ɔtɔntrɔbwɩ
 \ce ant
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
-\dt 06/Oct/2016
+\dt 15/Oct/2016
+
+\lx ɔsantɩ
+\ph ɔsãntɪ
+\ps n
+\sn
+\ge sheep
+\is 6.3.1.1
+\de sheep
+\ue archaic
+\na Used only in traditional ritual context
+\ee This word is cognate with 'sheep' in other Guang languages
+\dt 15/Oct/2016
 
 \lx ɔtɔntrɔbwɩ
 \ph ɔtɔntrɔbwɪ(H)
@@ -226,4 +454,63 @@
 \is 8.2.1
 \de the smallest morsel imaginable
 \lt ant's eye
-\dt 06/Oct/2016
+\dt 15/Oct/2016
+
+\lx sun
+\ph sũʔ
+\ps v
+\sn
+\ge push
+\is 7.3.2.9
+\de to push something inanimate
+\rf Tape:7-1-094
+\xv Alasun yibi amʋ ha mɩ.
+\xe He has pushed the car for me.
+\rf Tape:7-1-099
+\xv kpa oda sun.
+\xe Sit with chin in your hand.
+\rf Tape:6-2-518
+\xv Naka ogyatin kpɔnkpɔntɩ nɔ́pʋ sun ɔswɩ ɔnɔ.
+\xe I have cut a large stick of firewood, and I will put it in my hearth as the central fire log.
+\xv Mlapʋ nwun sun aba.
+\xe You have put your heads together to consult quietly.
+\rf Tape:6-2-019
+\xv Anɩtɔpʋ ɔwʋlʋkpakpa sun akwɛ.
+\xe We put dried skins stretch them on top of the drums.
+\cf wuta
+\ce push (animate)
+\bb Stewart List:2659
+\dt 16/Oct/2016
+
+\lx sunki
+\ph suŋkí
+\ps v
+\sn
+\ge fall over
+\is 7.2.2.5.1
+\de to fall over, as a tree felled
+\xv Nɔpʋ oplimbi kpɩsa bunti sʋ, nɛba a, la sunki da.
+\xe I leaned the pestle against the wall and when I came back it had fallen over.
+\rf Tape:7-1-115
+\xv Bunti amʋ lasunki da oyin amʋsʋ alawu.
+\xe The wall has fallen on the man and he is dead.
+\cf kpada
+\ce fall from height
+\nt From ths: words for fall: kpa (fall) kpada (fall/hit), sunki (fall over), kpayi (fall/land upright), kpa sian (fall/hang), kpa wie (fall enter). kpakpa (redup), kpakpada (redup), dɩda (fall down from standing position), tswie (fall used of rain, dew)
+\dt 16/Oct/2016
+
+\lx wuta
+\ph wútá
+\ps vt
+\sn
+\ge push
+\is 7.3.2.9
+\de to push a person
+\cf sun
+\ce push (a thing)
+\rf Tape:8-1-382
+\xv Ɔlɩɩ ɔkpatɔ sʋ awɔlɩnpʋ akʋ bowuta mʋ da.
+\xe He stood in the way so some strong men pushed him down.
+\bb Stewart List:2487
+\bb Stewart List:2659
+\dt 16/Oct/2016
