@@ -5,6 +5,11 @@
 \lngDefault vernacular
 \mkrRecord id
 
+\+mkr ce
+\lng vernacular
+\mkrOverThis id
+\-mkr
+
 \+mkr cf
 \nam *
 \lng vernacular
@@ -44,6 +49,12 @@
 \nam Text Name
 \desc Identifying name for the text in this record.
 \lng English
+\-mkr
+
+\+mkr lx
+\nam *
+\lng vernacular
+\mkrOverThis id
 \-mkr
 
 \+mkr mb
