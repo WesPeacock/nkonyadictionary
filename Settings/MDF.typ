@@ -804,6 +804,14 @@
 \CharStyle
 \-mkr
 
+\+mkr vaaph
+\nam Allophone Phonetic
+\desc Phonetic transcription of Allophone vaiant. This is necessary because FieldWorks import will attach \vaph to the variant additional entry. The allophone entry is under the lexeme.
+\lng phonetic
+\mkrOverThis vaa
+\CharStyle
+\-mkr
+
 \+mkr vad
 \nam Variant-Dialect
 \desc Variant according to dialect.
@@ -986,7 +994,7 @@
 \-fil
 
 \+fil search-another
-\mkr va
+\mkr vaa
 \match_char c
 \-fil
 
