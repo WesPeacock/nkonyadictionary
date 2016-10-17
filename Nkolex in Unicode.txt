@@ -2596,11 +2596,11 @@
 \ge blind person
 \is 2.5.4.1
 \de person that cannot see
-\nt
-\et bwie ansibi – broken eyes
 \xv Ansibi obwiepʋ amʋ otse ɔsʋsʋ amʋ lawu.
 \xe The man blind man staying at the top is dead.
-\dt 12/Sep/2016
+\cf bwie
+\cf ansibi
+\dt 17/Oct/2016
 
 \lx ansigyi
 \ph ansíʤí
@@ -7338,8 +7338,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Last night my sleeping mat was infested with bedbugs so I didn't sleep.
 \xv Adɩba sɔɔn bʋ oyin anfɩ atadɩɛtɔ.
 \xe There are many bedbugs in this man's shirt.
-\et dɩ (sleep) + ɩba (tick)
-\dt 20/Jul/2016
+\cf dɩ
+\cf ɩba2
+\dt 17/Oct/2016
 
 \lx dɩda
 \hm 1
@@ -26870,12 +26871,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge cemetery
 \is 2.6.6.6
 \de cemetery
-\et pula 'bury' + ɔ- -kpa 'place'
+\ce pula
+\cf ɔ- -kpa
 \cf ntsan
 \ce grave
 \cf asiɛɩ
 \ce grave
-\dt 14/Sep/2016
+\dt 17/Oct/2016
 
 \lx opulapʋ
 \ph opulápʊ̂ʔ
