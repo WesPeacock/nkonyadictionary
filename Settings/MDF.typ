@@ -249,7 +249,14 @@
 \+mkr en
 \nam Encyclopedic info. (n)
 \desc The national language equivalent to the \ee field. It should cover any information that provides a more complete knowledge-base on the lexeme. Use capitalization and punctuation as needed.
-\lng national
+\lng vernacular
+\+fnt 
+\Name Doulos SIL
+\Size 12
+\Italic
+\charset 00
+\rgbColor 0,0,0
+\-fnt
 \mkrOverThis sn
 \CharStyle
 \-mkr
@@ -675,7 +682,7 @@
 \nam Subentry
 \desc Like the \lx field except it occurs within the record, marking a word (or phrase) as a form derived from the root. Following this marker would be all the fields that comprise a typical lexical entry. There can be several of these subentries within a record. Subentries can have multiple senses (in this hierarchy).
 \lng vernacular
-\mkrOverThis lx
+\mkrOverThis sn
 \-mkr
 
 \+mkr sg
@@ -698,7 +705,7 @@
 \nam Sense number
 \desc Where a lexeme has more than one sense, this code is used to mark and number mark the beginning of each section that discusses a new sense. Don't use a sense number to mark a different part of speech; \sn is only used within a given part of speech (in this hierarchy). (Remember to include \sn 1 for records with multiple senses.) Use a Character Range Set.
 \lng English
-\mkrOverThis ps
+\mkrOverThis lx
 \CharStyle
 \-mkr
 
@@ -989,12 +996,12 @@
 \-fil
 
 \+fil search
-\mkr cf
+\mkr se
 \match_char c
 \-fil
 
 \+fil search-another
-\mkr vaa
+\mkr le
 \match_char c
 \-fil
 
@@ -1133,11 +1140,10 @@
 
 \+expXML XML
 \UTF8
-\exportedFile C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.xml
+\exportedFile C:\My Toolbox Projects\Nkonya\Nkolex-test,xnl.xml
 \-expXML
 
-\expDefault Standard Format
-\CurrentWindow
+\expDefault XML
 \-expset
 \PreventNumbering
 \DisableNumbering
