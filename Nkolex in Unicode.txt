@@ -6491,14 +6491,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The case would have remained quiet, but someone gone and stirred it up.
 \ps v
 \sn 3
-\ge stay
-\de to stay somewhere
+\ge remain
+\is 7.2.7.2
+\de to remain somewhere
+\cf tsia
 \se da akuda
 \ps v
 \ge stay on farm
 \is 5.9
 \de to stay on one's farm rather than in town
-\dt 30/Oct/2016
+\dt 04/Nov/2016
 
 \lx da
 \hm 3
@@ -6507,6 +6509,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge render
 \de to render
+\ng This sense doesn't have much inherent semantic content. The meaning derives mostly from other parts of complex constructions.
 \se da ɩpan
 \ps v
 \ge thank
@@ -6559,42 +6562,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe plant onion
 \ps vt
 \sn 3
-\ge grow
 \is 2.3.1.5
-\de to evince something
-\rf Tape:5-1-587
-\xv Oyin tamada anyɔpʋ.
-\xe A man never has (grows) breasts.
-\rf Tape:5-2-138
-\xv Mɩ atɔ dahɛ amʋ lada ɔbaan.
-\xe My setting out things (yams, water yams) have grown shoots.
-\dt 30/Oct/2016
-
-\lx da
-\hm 4
-\ph dáʔ
-\ps vt
-\sn 1
-\ge plant (v)
-\is 6.2.1.1
-\de to plant a root vegetable
-\xv da igyo
-\xe plant yam
-\bb Stewart List:2801
-\rf Tape:5-2-138
-\xv Mɩ atɔ dahɛ amʋ lada ɔbaan.
-\xe My setting out things (yams, water yams,) have grown shoots.
-\nt From ths: words for planting: swie (set out/transplant - plantain, cassava, nursed plants) du (plant seeds corn), da (set out yam cocoyam, peanuts)
-\xv da kɩtɩba
-\xe plant groundnuts
-\xv da mankani
-\xe plant cocoyam
-\xv da sapʋrada
-\xe plant onion
-\ps vt
-\sn 2
 \ge grow
-\is 2.3.1.5
 \de to evince something
 \rf Tape:5-1-587
 \xv Oyin tamada anyɔpʋ.
@@ -6614,7 +6583,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I have a boil in my armpit so I can't swing my arm well.
 \xv Nɩ ɩtɔ da fʋ a, kwɛ tɩtɩfobi manta mʋ́ ɩbɛ́fa, fʋ ɩwɩ bólwii fʋ.
 \xe If you have a boil, grind the herb on it and the boil will burst and you will be free.
-\dt 30/Oct/2016
+\dt 04/Nov/2016
 
 \lx da wa
 \ph dá wá
