@@ -7,6 +7,21 @@
 # adds \mn markers that refer to the original head and sense
 # call it with -p  option to print all the records, with the -n to print just the promoted subentries
 # input should be preprocessed to change all CRLFs to ## except before \lx
+#     Run it like:
+#        dos2unix <da-din-org.sfm |\
+#        perl -pe 's/#/__hash__/g' |\
+#        perl -pe 's/\n*$/##/' |\
+#        perl -pe 's/##\\lx/\n\\lx/g' |\
+#        perl -pf Scripts/se2lx.pl |\
+#        perl -pe 's/##/\n/g' |\
+#        perl -pe 's/__hash__/#/g' |\
+#        unix2dos >da-din-se-promoted.sfm
+
+# Bugs/Enhancements:
+#     Don't really need ## as \n replacement,
+#      could use #, since we're replacing all the #'s before/after.
+#      But, IIABDFI
+
 
 use strict;
 use warnings;
