@@ -1,0 +1,147 @@
+
+<!--=====================================================================
+Created via the Lexical Import process: 11/24/2016 3:51:35 PM
+===================================================================== -->
+<sfmMapping version="6.1">
+
+<!--=====================================================================
+Global Settings
+===================================================================== -->
+<settings>
+<meaning app="fw.sil.org"/>
+</settings>
+
+<!--=====================================================================
+Import Options
+===================================================================== -->
+<options>
+<option id="chkCreateMissingLinks" type="Checkbox" checked="False"/>
+</options>
+
+<!--=====================================================================
+Language Definitions
+===================================================================== -->
+<languages>
+<langDef id="National" xml:lang="ignore"/>
+<langDef id="English" xml:lang="en"/>
+<langDef id="Vernacular" xml:lang="nko"/>
+<langDef id="NkonyaPhonetic" xml:lang="nko-Qaaa-x-NkoP"/>
+<langDef id="Regional" xml:lang="ignore"/>
+</languages>
+
+<!--=====================================================================
+Level Hierarchy
+===================================================================== -->
+<hierarchy>
+<level name="Entry" partOf="records" beginFields="lx" additionalFields="cf ph mn dt lt nt hm" multiFields="mn cf nt ph lt"/>
+<level name="Etymology" partOf="Entry Subentry" beginFields="ignore" additionalFields="bw" multiFields="bw"/>
+<level name="Example" partOf="Sense" beginFields="rf xv"/>
+<level name="ExampleTranslation" partOf="Example" beginFields="xe"/>
+<level name="Function" partOf="Subentry Sense Entry" beginFields="ignore"/>
+<level name="Picture" partOf="Sense" beginFields="ignore"/>
+<level name="Pronunciation" partOf="Entry Subentry" beginFields="ignore"/>
+<level name="SemanticDomain" partOf="Sense" beginFields="is"/>
+<level name="Sense" partOf="Entry Subentry" beginFields="ps ge sn" additionalFields="sc an de na bb ng" multiFields="de an ng na bb"/>
+<level name="Subentry" partOf="Entry" beginFields="ignore"/>
+<level name="Variant" partOf="Subentry Sense Entry" beginFields="plph pl" additionalFields="va vaph" multiFields="va vaph" uniqueFields="va pl"/>
+</hierarchy>
+
+<!--=====================================================================
+Field Descriptions
+===================================================================== -->
+<fieldDescriptions>
+<field sfm="lx" name="Lexeme Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lex"/>
+</field>
+<field sfm="mn" name="Main Entry/Sense Reference" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="meref"/>
+</field>
+<field sfm="ps" name="Category (Part Of Speech)" type="string" lang="English" abbr="True" >
+<meaning app="fw.sil.org" id="pos"/>
+</field>
+<field sfm="ge" name="Gloss" type="string" lang="English" >
+<meaning app="fw.sil.org" id="glos"/>
+</field>
+<field sfm="is" name="Semantic Domain" type="string" lang="English" abbr="True" >
+<meaning app="fw.sil.org" id="sem"/>
+</field>
+<field sfm="de" name="Definition" type="string" lang="English" >
+<meaning app="fw.sil.org" id="def"/>
+</field>
+<field sfm="bb" name="Bibliography (Sense)" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sbib"/>
+</field>
+<field sfm="ve" name=" " type="string" lang="English" autoImport="True" >
+<meaning app="fw.sil.org" id=""/>
+</field>
+<field sfm="dt" name="Date Modified" type="date" lang="English" >
+<meaning app="fw.sil.org" id="mod"/>
+</field>
+<field sfm="hm" name="Homograph Number" type="string" lang="English" >
+<meaning app="fw.sil.org" id="hom"/>
+</field>
+<field sfm="ph" name="Lexeme Form" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="lex"/>
+</field>
+<field sfm="sn" name="Sense Number" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sn"/>
+</field>
+<field sfm="rf" name="Reference" type="string" lang="English" >
+<meaning app="fw.sil.org" id="ref"/>
+</field>
+<field sfm="xv" name="Example" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sent"/>
+</field>
+<field sfm="xe" name="Example Translation" type="string" lang="English" >
+<meaning app="fw.sil.org" id="trans"/>
+</field>
+<field sfm="cf" name="Cross Reference" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="cref" funcWS="en" func="Compare"/>
+</field>
+<field sfm="na" name="Anthro Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="anote"/>
+</field>
+<field sfm="ng" name="Grammar Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="grnote"/>
+</field>
+<field sfm="nt" name="Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="com"/>
+</field>
+<field sfm="bw" name="Etymology Source Language Notes" type="string" lang="English" >
+<meaning app="fw.sil.org" id="ets"/>
+</field>
+<field sfm="pl" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Plural"/>
+</field>
+<field sfm="plph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="veires"/>
+</field>
+<field sfm="an" name="Anthro Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="anote"/>
+</field>
+<field sfm="sc" name="Scientific Name" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sci"/>
+</field>
+<field sfm="va" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Free Variant"/>
+</field>
+<field sfm="vaph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="veires"/>
+</field>
+<field sfm="lt" name="Literal Meaning" type="string" lang="English" >
+<meaning app="fw.sil.org" id="litm"/>
+</field>
+</fieldDescriptions>
+
+<!--=====================================================================
+In Field Markers
+===================================================================== -->
+<inFieldMarkers>
+</inFieldMarkers>
+
+<!--=====================================================================
+Custom Field Descriptions
+===================================================================== -->
+<CustomFieldDescriptions>
+</CustomFieldDescriptions>
+</sfmMapping>

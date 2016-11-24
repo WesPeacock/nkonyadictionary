@@ -25,19 +25,22 @@
 \is 1.3.4
 \de dip
 \bb Stewart List:2679
+\ve Phrasal_Verb
 \se da ɔnɔ
 \ps v
 \ge taste
 \is 2.3.3
 \de to taste something
 \bb Stewart List:3308
+\ve Complex_Form
 \se da bubu
 \ps v
 \ge Exclaim
 \is 3.4.2.4
 \is 3.5.1.1.1
 \de express surprise/dismay by tapping the mouth while saying "Uuuuuuuuuu"
-\dt 30/Oct/2016
+\ve Complex_Form
+\dt 23/Nov/2016
 
 \lx da
 \hm 2
@@ -60,6 +63,7 @@
 \de to be tied up
 \xv Sankɩ ɔfɛ amʋ lɛ batɛ amʋ ayabi tsufɛ ɔda ɔfɛtɔ lawa ɔpá.
 \xe Untie the rope from the chicken's legs because it has been tied up for a long time.
+\ve Complex_Form
 \ps v
 \sn 2
 \ge be fine
@@ -92,6 +96,7 @@
 \ge stay on farm
 \is 5.9
 \de to stay on one's farm rather than in town
+\ve Complex_Form
 \dt 04/Nov/2016
 
 \lx da
@@ -111,6 +116,7 @@
 \xv Nɛda fʋ ɩpan.
 \xe I thank you.
 \bb Stewart List:3239
+\ve Complex_Form
 \se da ɩwɩsʋ
 \ps v
 \ge be alert
@@ -118,22 +124,26 @@
 \is 6.1.2.6
 \de to be alert or to be prepared
 \rf Tape:2-1-18
+\ve Complex_Form
 \se da ɔbʋn
 \ps v
 \ge gather around
 \is 7.5.1
 \is 3.1.2.3
 \de gather around to pay close attention to
+\ve Complex_Form
 \se da ɔkpa
 \ps v
 \ge righteous
 \is 8.3.7.7
 \de to be righteous
+\ve Complex_Form
 \se da ɔkpʋnʋ
 \ps v
 \ge rest
 \is 2.4.5
 \de to rest
+\ve Complex_Form
 \ps vt
 \sn 2
 \ge plant (v)
@@ -175,6 +185,7 @@
 \xe I have a boil in my armpit so I can't swing my arm well.
 \xv Nɩ ɩtɔ da fʋ a, kwɛ tɩtɩfobi manta mʋ́ ɩbɛ́fa, fʋ ɩwɩ bólwii fʋ.
 \xe If you have a boil, grind the herb on it and the boil will burst and you will be free.
+\ve Complex_Form
 \dt 04/Nov/2016
 
 \lx da wa
@@ -359,6 +370,7 @@
 \is 8.4.1.2.3
 \xv Nɩ owi ɔdalɩ tsu owi okplɩwiekpa a, igyi isuna kpɔnkpɔɔnkpɔntɩ, tsufɛ owi ɔdalɩkpa owi tɛdalɩ tsu.
 \xe When the sun rises from the west, it is a big sign, because the sun rises from the east.
+\ve Complex_Form
 \dt 30/Oct/2016
 
 \lx dalɩ tsu
@@ -416,6 +428,7 @@
 \ge turn over
 \de to turn over
 \bb Stewart List:2752
+\ve Phrasal_Verb
 \se damli ɔnɔ
 \ps v
 \ge turn around
@@ -425,6 +438,7 @@
 \xv Yibi amʋ ansɩtɔ kɩ Kwame wulutɔ, tamɛ ladamli ɔnɔ kɩ Ahenkro.
 \xe The car was headed towards Kwamekrom but it has turned around toward Ahenkro.
 \bb Stewart List:2018
+\ve Complex_Form
 \dt 01/Nov/2016
 
 \lx damli ɩklʋntɔ
@@ -584,6 +598,7 @@
 \de to rely on someone or something
 \xv Mɩ ansɩ dɩn Kwaku Kebisʋ.
 \xe I rely on Kwaku Kebi.
+\ve Complex_Form
 \ps vt
 \sn 2
 \ge persecute
@@ -592,7 +607,7 @@
 \de to persecute s.o.
 \xv Bʋ dɩn mlɩsʋ.
 \xe They persecute you.
-\dt 04/Nov/2016
+\dt 01/Nov/2016
 
 \lx dɩnka
 \ph dɪ́ŋká
@@ -631,7 +646,8 @@
 \rf Tape:2-1-343
 \xv Dɩnka ansɩ wɩsʋ.
 \xe Beware of yourself.
-\dt 04/Nov/2016
+\ve Complex_Form
+\dt 31/Oct/2016
 
 \lx dɩnkɩ
 \ph dɪ́ŋkɪ́
@@ -659,7 +675,8 @@
 \xv Anɩtɔpʋ akapɛ dɩnkɩ anɩ imi nɩ ɩbʋla.
 \xe We take scissors and cut our hair when it is full.
 \cf kpa nwun
-\dt 04/Nov/2016
+\ve Complex_Form
+\dt 31/Oct/2016
 
 \lx dɩnsʋ
 \ph dɪnsʊ
@@ -671,4 +688,41 @@
 \de central square of town; gathering place
 \xv Awie pʋ́ wulu amʋtɔ aha fɛ́ɛ́ bayefia dɩnsʋ ɩnʋ.
 \xe The chiefs and all the people in the town have assembled at the central square.
-\dt 04/Nov/2016
+\dt 18/Jul/2016
+
+\lx pʋ
+\hm 1
+\ph pʊ́ʔ(H)
+\ps v
+\sn 1
+\ge take
+\is 7.3.3
+\de take / convey
+\xv pʋ ya
+\xe take it away
+\xv pʋ sɩsɩ
+\xe send something to someone
+\ps v
+\sn 2
+\ge use
+\is 6.1.2.2
+\is 6.7
+\de to use something
+\ng used in serial verb constructions with the habitual to indicate instrument.
+\xv Ɩtswɛ bʋtɔpʋ kɔ.
+\xe A fist is used for fighting.
+\xv Ɔkɔntɩ pʋ́ krantɩɛ anɩtɔpʋ dɔ. Ɩtɛha ɩdɔ amʋ tɛpɩn.
+\xe We use a wooden crook and a cutlass to weed. It make weeding smooth.
+\xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ.
+\xe They use cassava to make many foods.
+\xv Bʋtɔpʋ agbodi pʋ́ mankani wɔ fufu.
+\xe They take cassava and cocoyam to pound fufu.
+\ps v
+\sn 3
+\ge travel
+\is 7.2.4
+\de to travel a short distance
+\xv Tɛkɩ nɔyɔ mʋ wa, tamɛ bɛɛ alapʋ ɔkpa.
+\xe I went to see him but they said he had gone a short distance.
+\dt 22/Nov/2016
+

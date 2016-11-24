@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Subentries Under Senses</title>
+	<title>Sample INI File</title>
 	<meta name='Generator' content='Zim 0.65'>
 	<style type='text/css'>
 		a          { text-decoration: none      }
@@ -39,11 +39,11 @@
 
 <!-- Header -->
 <div class='header'>
-	[ <span class='insen'>Prev</span> ]
+	[ <a href='file:///C:/My%20Toolbox%20Projects/Nkonya/Scripts/Subentry%20Promotion/Subentry_Handling_Notes.html'>Prev</a> ]
 
 	[ <span class='insen'>Index</span> ]
 
-	[ <span class='insen'>Next</span> ]
+	[ <a href='./Sample_Model_LexEntryRef.html'>Next</a> ]
 </div>
 
 <hr />
@@ -52,139 +52,25 @@
 
 <div class='pages'>
 	<div class='heading'>
-	<h1>Subentries Under Senses <a name='Nkonya Dictionary:Subentries Under Senses'></a></h1>
+	<h1>Sample INI File <a name='Subentry Handling Notes:Sample INI File'></a></h1>
 	</div>
 
 	<div class='content'>
-	<p>
-Created Tuesday 01 November 2016
-</p>
-
-<h2>Assumptions</h2>
-
-<p>
-<div style='padding-left: 30pt'>
-all \se have only a single unmarked sense<br>
-all \se entries have a \ps marker
-</div>
-<div style='padding-left: 60pt'>
-Well perhaps the se2lx script could import the \ps from head/sense
-</div>
-<div style='padding-left: 90pt'>
-Mine won't because I entered the \ps markers<br>
-May not be worth the effort
-</div>
-<div style='padding-left: 120pt'>
-many complex <a href="" title="\" class="page">\</a>se are head+nom/verb/adj-izer
-</div>
-<div style='padding-left: 30pt'>
-all these belong to the \se not the head:
-</div>
-<div style='padding-left: 60pt'>
-\xv/\xe example sentences<br>
-\bb bibliographic info<br>
-\sc scientific name<br>
-\n* various notes
-</div>
-</p>
-
-<p>
-<div style='padding-left: 30pt'>
-\se is terminated by \sn, \se, \dt or (\ps followed immediately by \sn)
-</div>
-<div style='padding-left: 120pt'>
-'\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?##\\sn))'
-</div>
-</p>
+	<h4>This is what PromoteSubentries.ini looks like:</h4>
 
 <br>
 
-<h2>Preprocessing</h2>
-
 <p>
-<div style='padding-left: 30pt'>
-all the assumtions should be true<br>
-To Toolbox view \se as full entries for checking in tmp/subent.sfm:
-</div>
-<div style='padding-left: 60pt'>
-$ grep \\_sh in.sfm &gt;tmp/subents.sfm &amp;&amp; dos2unix &lt;in.sfm |  perl -pe 's/\n*$/##/' |perl -pe 's/##\\lx/\n\\lx/g' | grep -oP '\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?##\\sn))' |perl -pe 's/\\se/\\lx/g; s/##/\n/g' | unix2dos &gt;&gt;tmp/subents.sfm
-</div>
+[se2lx]<br>
+; Todo change se2lx.pl to<br>
+;     put the regexes that terminate the \se entries here<br>
+;     also the default tags that hackFWvariants will look for e.g. \ve Complex_Form<br>
+[hackFWvariants]<br>
+modeltag=Model Unspecified Complex Entry<br>
+modifytag=Complex_Form<br>
+infilename=Nktest.fwdata<br>
+outfilename=Nktest.new.fwdata
 </p>
-
-<br>
-
-<h2>Script Notes</h2>
-
-<p>
-Script se2lx promotes \se entries to \lx<br>
-<div style='padding-left: 30pt'>
-adds a \mn marker
-</div>
-<div style='padding-left: 60pt'>
-\mn "$head$homograph $sensenumber"
-</div>
-<div style='padding-left: 30pt'>
-updates \dt under head and subentry
-</div>
-</p>
-
-<br>
-
-<h2>Tips</h2>
-
-<p>
-grep needs -P (perlRE) option to get non-greedy matches and lookahead
-</p>
-
-<p>
-code is easier when each entry is on a separate line with lf rather than crlf<br>
-<div style='padding-left: 30pt'>
-e.g. convert \n to ## except before \lx.
-</div>
-<div style='padding-left: 90pt'>
-before:
-</div>
-<div style='padding-left: 120pt'>
-dos2unix &lt;in.sfm |  perl -pe 's/\n*$/##/' |perl -pe 's/##\\lx/\n\\lx/g' 
-</div>
-<div style='padding-left: 90pt'>
-after:
-</div>
-<div style='padding-left: 120pt'>
-perl -pe 's/##/\n/g' | unix2dos &gt;out.sfm
-</div>
-</p>
-
-<p>
-To get the \_sh from the input file put the above lines inside:<br>
-<div style='padding-left: 30pt'>
-before:
-</div>
-<div style='padding-left: 60pt'>
-head -n 1 &lt;in.sfm &gt;out.sfm
-</div>
-<div style='padding-left: 30pt'>
-after:
-</div>
-<div style='padding-left: 60pt'>
-change the &gt;out.sfm to &gt;&gt;out.sfm
-</div>
-Sample command line:<br>
-<div style='padding-left: 30pt'>
-head -n 1 &lt;da-din-org.sfm &gt;da-din-se-promoted.sfm &amp;&amp; dos2unix &lt;da-din-org.sfm |  perl -pe 's/\n*$/##/' |perl -pe 's/##\\lx/\n\\lx/g' |perl -pf Scripts/se2lx.pl | perl -pe 's/##/\n/g' | unix2dos &gt;&gt;da-din-se-promoted.sfm
-</div>
-</p>
-
-<br>
-<br>
-
-<h2>Postprocessing</h2>
-
-<p>
-Need a script to change the fwdata file properly<br>
-This may use XMLStarlet
-</p>
-
 
 	</div>
 
@@ -193,7 +79,7 @@ This may use XMLStarlet
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href=''>Nkonya Dictionary</a>
+		<a href='file:///C:/My%20Toolbox%20Projects/Nkonya/Scripts/Subentry%20Promotion/Subentry_Handling_Notes.html'>Subentry Handling Notes</a>
 
 		<br /><br />
 
