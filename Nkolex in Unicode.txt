@@ -573,15 +573,15 @@
 \ps n
 \sn
 \ge appellation
-\is 4.6.1
 \is 3.5.1.7
+\is 9.6.3.8
 \de appellation for drumming
 \nt to call the appelation of ɔkpɩ, akunta, suma is to invoke its power
 \na Usually in Akan. They are proverbs. Each clan has one which is used to summon the clan. Elders also have them. As with the Dagombas drummers at a funeral will drum appelations of passing elders in hopes of collecting a dash.
 \rf Tape:1-1-111
 \xv Nɩ bʋdɛ atumpa da, ɔhandɛn ɔkʋ dɛtsʋn a, bʋtɛda mʋ adabi pʋ tɩ mʋ.
 \xe If they are beating the talking drums and an elder is passing by, they beat his appellation and call him.
-\dt 15/Jul/2016
+\dt 28/Nov/2016
 
 \lx adagyi
 \ph adaʤi(H)
@@ -631,15 +631,14 @@
 \ps n
 \sn
 \ge witness
-\is 4.6.6.1.2
-\is 4.7.4
+\is 4.7.5.5
 \de witness
 \bw Akan fi:adansɩ LHH
 \xv Asa fɔ́yɔ asʋn ogyikpa a, fódunka ɔha ánɩ́ obégyi fʋ adansɩɛ.
 \xe Before you go to arbitration, you will search for the person that will be your witness.
 \xe Before you take your case to arbitration you look for a witness on your behalf.
 \rf Tape:1-1-130
-\dt 15/Jul/2016
+\dt 28/Nov/2016
 
 \lx Adenkensu
 \ph adɪ̃ŋkɪ̃nsúʔ (H)
@@ -1014,7 +1013,6 @@
 \ge advice
 \is 3.5.1.2.8
 \is 3.3.3.7
-\is 4.6.6
 \de counsel, advice
 \bw Akan fi:afutu LLH
 \xv Ha mʋ afutuo, osi atɔ wi.
@@ -1023,7 +1021,7 @@
 \cf tɔɩ kpla
 \xv afutuo ɔhapʋ
 \xe counselor
-\dt 29/Aug/2016
+\dt 28/Nov/2016
 
 \lx afʋfʋ
 \ph afʊfʊʔ
@@ -1541,6 +1539,7 @@
 \ps n
 \sn
 \ge gourd rattle
+\is 4.2.3.5
 \is 4.2.4
 \de a gourd rattle
 \na Akatsa is made from a gourd with small red seeds in it, or a gourd with a net made with beads or fish bones surrounding it.
@@ -1788,12 +1787,16 @@
 \lx akpa
 \ph ak͡pa
 \ps n
-\sn
+\sn 1
 \ge mat
-\is 4.9.7.3
 \is 5.1.1.3
-\de mat, including prayer mat
-\dt 15/Jul/2016
+\de mat
+\sn 2
+\ps n
+\is 4.9.7.3
+\ge prayer mat
+\de Muslim prayer mat
+\dt 28/Nov/2016
 
 \lx akpankogyo
 \ph ak͡paŋkoʤo
@@ -2220,11 +2223,12 @@
 \ps INTJ
 \sn
 \ge Amen
-\is 9.4.6
 \is 4.9.5.2
+\is 4.9.7.2
+\is 9.4.6
 \de Amen
 \na Nkonya equivalent is Ɩba mʋ́tɔ
-\dt 15/Jul/2016
+\dt 28/Nov/2016
 
 \lx amɛndɩ
 \ph amɛndɪ
@@ -2363,12 +2367,13 @@
 \ps n
 \sn
 \ge represent
+\is 4.5.3.4
 \is 4.6.6.3
 \de in place of a person or a thing
 \bw Akan fi:anan mu LH H
 \xv Nɩ owie ma ɩnʋ a, ɔha bʋ ɩnʋ ánɩ́ otetsia mʋ anamu.
 \xe If the chief is not there, there is someone that represent him.
-\dt 18/Jul/2016
+\dt 28/Nov/2016
 
 \lx anantʋprɛdɛ
 \ph anantʊprɛdɛ
@@ -3333,7 +3338,12 @@
 \xv Mméekle asʋn ha wɩ; Asʋn bʋ pututɔ a, bʋtamayɔwa mʋ́ ɔfɛ ba woyitɔ.
 \xe (I won't want trouble for myself) I won't borrow trouble. A case is in the bush; they don't take a rope and drag it to the house.
 \cf nu asʋn asɩ
-\dt 18/May/2016
+\se Bulu asʋn
+\ps n
+\ge Bible
+\is 4.9.3.1
+\de The Bible, Christian Scriptures
+\dt 28/Nov/2016
 
 \lx asʋn blɩhɛ
 \ph asʊn blɪ́hɛ́ (L)
@@ -3838,7 +3848,6 @@
 \sn
 \ge jubilation
 \is 3.4.1.2
-\is 4.2.4
 \de jubilation
 \rf Tape:1-2-224
 \xv Nɩ fʋ pio ɔkʋ otu ɔkpa, wa ɔpá ɩnʋ a, nɩ oyinki ba a, mlɩtɔmɔsɩ da atukeeke.
@@ -3853,13 +3862,13 @@
 \is 4.6.1
 \is 4.2.3.5
 \de Ashanti talking drums
-\nt These drums are usually beaten using the Akan language
+\na These drums are usually beaten using the Akan language
 \bw Akan fi:atumpa LLH
 \rf Tape:1-1-111
 \xv Nɩ bʋdɛ atumpa da, ɔhandɛ ɔkʋ dɛtsʋn a, bʋtɛda mʋ adabi pʋ tɩ mʋ.
 \xe If they are beating the talking drums and an elder is passing by, they beat his appellation and call him.
 \bb Stewart List:1191
-\dt 16/Jul/2016
+\dt 26/Nov/2016
 
 \lx atuu
 \ph atûː
@@ -4130,7 +4139,7 @@
 \ps n
 \sn
 \ge ceremony
-\is 4.2.2.3
+\is 4.2.2.1
 \de ceremony
 \nt Nkonya equivalent nkɛ
 \bw Ewe fi:aza LH
@@ -5031,7 +5040,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge trusted one
 \is 3.2.5.1.1
-\is 4.1.3
+\is 4.3.5.3
 \de one you trust more than anyone else
 \dt 21/Jul/2016
 
@@ -5398,14 +5407,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge surround
 \is 7.2.2.7
-\is 4.8.2.3
 \de to surround something
 \xv Ntsu lobomli wulu amʋ. Sʋ, ɔklʋntɔ bʋtetsia yɔ wulu amʋtɔ.
 \xe Water surrounds the town. So they use boats to get there.
 \xe The town is surrounded by water so they use boats to go there.
 \bb Stewart List:2469
 \bb Stewart List:2470
-\dt 18/Jul/2016
+\dt 28/Nov/2016
 
 \lx bon
 \ph bõʔ(L)
@@ -5495,13 +5503,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge pray
 \cf bɔ
-\is 4.9
+\is 4.9.5.2
 \de to pray
 \nt used for Christian, Muslim and traditional prayers
 \rf Tape:1-2-565
 \xv Bɔ mpaɩ fɛɛ onya ɔdɩkpa wanklaan.
 \xe Pray that he should get a good resting place.
-\dt 10/Nov/2015
+\dt 28/Nov/2016
 
 \lx bɔbwɛ
 \ph bɔbwɛʔ(L)
@@ -5591,7 +5599,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge ball
-\is 4.2.6.1
+\is 4.2.6.2
 \de ball
 \bw English: ball
 \dt 22/Jun/2014
@@ -5708,7 +5716,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge Christmas
 \is 4.9.7.2
-\is 4.2.2.3
+\is 4.2.2.1
 \de Christmas
 \xv Bronyatɔ anɩ tegyi atogyihɛ dɛdɛ nɩ.
 \xe We eat sweet foods on Christmas days.
@@ -6414,7 +6422,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn 1
 \ge hit
-\is 4.8.2
+\is 7.7.1
 \de to hit; to beat
 \rf Tape:2-1-169
 \xv Da mʋ!
@@ -6429,8 +6437,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se pʋ da
 \ps v
 \ge dip
-\is 7.3.2.6
 \is 1.3.4
+\is 7.3.2.6
 \de dip
 \bb Stewart List:2679
 \ve Phrasal_Verb
@@ -6448,7 +6456,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \is 3.5.1.1.1
 \de express surprise/dismay by tapping the mouth while saying "Uuuuuuuuuu"
 \ve Complex_Form
-\dt 23/Nov/2016
+\dt 28/Nov/2016
 
 \lx da
 \hm 2
@@ -6998,14 +7006,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge evidence
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 4.7.5.5
 \de evidence
 \xv Oyin amʋ lɛblɩ asʋn yɔ mɩ, sʋ nɛkɩta asʋn amʋ dedua ánɩ́ nɛ́tɩ mʋ ɔkʋ wa.
 \xe The man spoke against me, I had an evidence in his speech and I will call him before an elder.
 \xv Anɩlakɩta mʋ́ dedua.
 \xe We have had an evidence.
-\dt 22/Jul/2016
+\dt 28/Nov/2016
 
 \lx deyi
 \ph déiʔ
@@ -7428,8 +7435,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge central square
-\is 4.6.7.2
 \is 4.2.1.5
+\is 4.6.7.2
 \de central square of town; gathering place
 \xv Awie pʋ́ wulu amʋtɔ aha fɛ́ɛ́ bayefia dɩnsʋ ɩnʋ.
 \xe The chiefs and all the people in the town have assembled at the central square.
@@ -8117,9 +8124,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge Father
+\is 4.9.7.1
 \is 4.9.7.2
 \de Catholic father
-\dt 15/Sep/2013
+\dt 28/Nov/2016
 
 \lx fakaa
 \ph fákáː (H)
@@ -9079,12 +9087,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vt
 \sn
 \ge offend
-\is 4.8.2
+\is 3.4.2.3
 \de offend
 \rf Tape:2-2-050
 \xv Nɩ nafʋm fʋ a, kokoli si kie mɩ.
 \xe If I have offended you please forgive me.
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx fʋn
 \ph fʊ̃ʔ
@@ -9757,10 +9765,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se gyi asʋn
 \ps v
 \ge judge
-\is 4.7.4
+\is 4.7.5
 \is 3.2.2.3
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 4.7.6
 \de to judge a case
 \rf Tape:2-2-26
 \xv Beyegyi asʋn.
@@ -9840,7 +9847,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-239
 \xv Akʋ bʋtegyi nwɛn kpan.
 \xe Some people argue pointlessly.
-\dt 01/Nov/2016
+\dt 28/Nov/2016
 
 \lx gyi
 \hm 2
@@ -9895,7 +9902,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge celebrate
-\is 4.2.2.3
+\is 4.2.2.2
 \de to celebrate, particularly a festival
 \dt 13/Jul/2014
 
@@ -10162,12 +10169,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge cleanse
-\is 4.9
+\is 4.9.5.6
 \de cleanse
 \bw Akan fi:gyʋra
 \xv Owie amʋ lɛdɩda igye sʋa, ahandɛ bɔyɔ mʋ ogyʋrakpa.
 \xe The chief fell down yesterday so the elders are going to cleanse him.
-\dt 28/Apr/2016
+\dt 28/Nov/2016
 
 \lx gywɩɩn
 \ph ʤwɪ̃ː
@@ -10265,11 +10272,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge headship
-\is 4.6.1
+\is 4.5.2
 \de headship of a family
 \xv Mʋ sɩ lowu ɔma, bɛ́bla mʋ ɔbɛɛ, hata latʋ mʋ.
 \xe After the death of his father, he was told he is now the head of the family.
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx -hɛ
 \ph -hɛ
@@ -10832,9 +10839,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge defilement
 \is 8.3.7.8.2
-\is 4.9
+\is 4.9.5.6
 \de defilement; nominal form of defile
-\dt 22/Jun/2014
+\dt 28/Nov/2016
 
 \lx ifu
 \hm 1
@@ -11423,14 +11430,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge peace
 \is 4.8.4
-\is 4.8.4.8
 \de peace
 \rf Tape:3-1-252
 \xv Ɔnɔkwalɩ blɩ tɔpʋ iwilwii ba.
 \xe Speaking the truth brings peace.
 \xv Iwilwii ha mlɩ, mɩ iwilwii ndɛpʋ ha mlɩ.
 \xe Peace to you, My peace I am giving to you.
-\dt 16/Jul/2016
+\dt 28/Nov/2016
 
 \lx iwitsu
 \ph iwit͡súʔ
@@ -11688,14 +11694,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph abá
 \sn
 \ge slap
-\is 4.8.2
+\is 7.7.1
 \de slap repetitively; co-occurs with sɛ
 \nt single slap is ɩba
 \xv Nɩ atsɩ bʋdɛkɔ a, bʋtɛsɛ aba aba.
 \xe If women they are fighting (When women fight) they slap each other.
 \xe Women slap each other when they fight.
 \rf Tape:1-1-050
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx ɩba
 \hm 4
@@ -12264,9 +12270,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge eldership
-\is 4.6.1
+\is 4.5.2
 \de eldership
-\dt 12/Jul/2014
+\dt 28/Nov/2016
 
 \lx ɩka
 \hm 1
@@ -12616,6 +12622,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge generation
+\is 2.6.4.8
 \is 4.1.9.1
 \de generation
 \dt 20/Jul/2016
@@ -12661,7 +12668,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge song
-\is 4.2.4
+\is 4.2.3.3
 \de song
 \rf Tape:3-1-045
 \xv Ɔlɔwa lʋ.
@@ -12983,8 +12990,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge guilt
-\is 4.6.1
-\is 4.6.6.1
+\is 4.7.6.2
 \de guilt
 \rf Tape:3-1-145
 \xv Olegyi pɔn.
@@ -12992,7 +12998,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf pɔn
 \xv Fʋ Ee! bwɛ fʋ Ee!; fʋ O-o! bwɛ fʋ O-o!; mɛnɩ Bulu méegyi fʋ asʋn ha fʋ pɔn.
 \xe Your yes make yes, your no, no so that God will not judge you and find you guilty.
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx ɩpʋ
 \hm 1
@@ -13180,7 +13186,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps n
 \sn
 \ge punishment
-\is 4.6.6.1
+\is 4.7.7
 \de to use, or treat badly for doing something wrong
 \xv Kwasi lɛsin ɔma yɔ sukuu sʋ, alanya ɩsʋbɩtɩ.
 \xe Kwasi was late to school so, he has received a punishment.
@@ -13189,14 +13195,14 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \rf Tape:3-1-182
 \xv Ɩsʋbɩtɩ dɩn fʋsʋ.
 \xe The punishment is on you; it's your own fault.
-\dt 01/Oct/2016
+\dt 28/Nov/2016
 
 \lx ɩsʋgyi
 \ph ɪsʊʤíʔ
 \ps n
 \sn
 \ge victory
-\is 4.8.3
+\is 4.8.3.2
 \de victory
 \xv Bulu tɛha ɩsʋgyi.
 \xe God gives victory.
@@ -13206,7 +13212,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xe J. J. Rawlings is the ruler of the country, Ghana.
 \xv Ɩsʋ ogyipʋ gyi ɔha ánɩ́ alagyi mʋ basʋ; ɩsatɔ ntɛ asʋn gyihɛtɔ.
 \xe A victor is the one that has won over another in war or in a legal case.
-\dt 05/Nov/2015
+\dt 28/Nov/2016
 
 \lx ɩsʋn
 \ph ɪsʊ̃́ʔ
@@ -13297,9 +13303,9 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge bow
 \is 6.4.1
-\is 4.8.3
+\is 4.8.3.7
 \de a bow to shoot arrows
-\dt 04/Feb/2016
+\dt 28/Nov/2016
 
 \lx ɩtɛ
 \hm 1
@@ -13346,7 +13352,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \plph atokiehɛ́
 \sn
 \ge gift
-\is 4.1
+\is 6.8.3.1
 \de gift
 \dt 28/Apr/2016
 
@@ -13395,7 +13401,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps v
 \sn
 \ge quarrel
-\is 4.8.2
+\is 3.5.1.6.2
 \de quarrel
 \nt nominal form
 \xv Atsibi amʋ bʋdɛ aba ahinla bwɛ sʋ a, ɩtrɛ lafa nʋ.
@@ -13403,7 +13409,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \rf Tape:3-1-211
 \xv Ɩtrɛ bʋ otsibi amʋ ɔdwɛ sʋa, aha bʋtɛda mʋ ɛkɛkɛgyiɛkɛ.
 \xe The young girl is fond of quarrelling, so much that people beat her everyday.
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx ɩtsa
 \ph ɪt͡sâʔ
@@ -13667,15 +13673,13 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps vt
 \sn 2
 \ge pay
-\is 6.8.6
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 6.8.5.4
 \de to pay (a debt)
 \rf Tape:3-1-279
 \xv ka ɩkɔ
 \xe pay a debt
 \bb Stewart List:3208
-\dt 31/May/2016
+\dt 28/Nov/2016
 
 \lx ka
 \hm 2
@@ -13700,18 +13704,6 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \is 9.1.2
 \de Akan loan word with uncertain core meaning ka hon – join; ka ntam – swear an oath; ka anim – rebuke
 \rf Tape:3-1-287
-\se ka hon
-\ps v
-\ge join
-\is 4.2.1.6
-\de to join s.o.
-\rf Tape:3-1-287
-\xv Ka amʋ́ hʋn amlɩyɔ.
-\xe Join them so that you(pl.) can go.
-\rf Tape:3-1-291
-\xv Tsufɛsɛ omedekle ánɩ́ ɔkʋ onya akpin amʋ ɩkʋ ka mʋ hʋn. Mʋ́ sʋ ɔmɛha mʋ anyawie amʋ.
-\xe Because he didn't want that someone should acquire the same garden eggs as he had he didn't give his friends any.
-\rf Awɩtɔlɛ Bwɛ Akatua
 \se ka ntam
 \ps v
 \ge swear oath
@@ -13746,9 +13738,15 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \bw Akan fi:ka hʋn L H
 \xv Ka amʋ́ hʋn amlɩyɔ.
 \xe Join them so that you(pl.) should go.
+\rf Tape:3-1-287
 \nt Nkonya alternative is "wie amʋ́tɔ"
 \xv Wie amʋ́tɔ amlɩyɔ.
-\xe Join them so that you(pl.) should go.
+\xv Ka amʋ́ hʋn amlɩyɔ.
+\xe Join them so that you(pl.) can go.
+\rf Tape:3-1-291
+\xv Tsufɛsɛ omedekle ánɩ́ ɔkʋ onya akpin amʋ ɩkʋ ka mʋ hʋn. Mʋ́ sʋ ɔmɛha mʋ anyawie amʋ.
+\xe Because he didn't want that someone should acquire the same garden eggs as he had he didn't give his friends any.
+\rf Awɩtɔlɛ Bwɛ Akatua
 \dt 29/Aug/2016
 
 \lx ka ɩkɔ
@@ -13769,24 +13767,25 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps n
 \sn
 \ge defend oneself
-\is 4.6.1
+\is 4.7.5.4
 \de to defend oneself
 \xv Oyin amʋ lɛka ɩwɩ lɛ asʋn ogyikpa ɩnʋ, mʋ́sʋ besi mʋ ɩwɩ kie mʋ.
 \xe The man defended himself in the court and therefore he was set free.
-\dt 08/Feb/2014
+\dt 28/Nov/2016
 
 \lx ka ntam
 \ph ka ntam
 \ps v
 \sn
 \ge swear
+\is 4.6.1
 \is 4.7.5.7
 \de to make an oath
 \bw Akan fi: ka ntam
 \rf Tape:3-1-299
 \xv Owie pɔpwɛ amʋ ɛ ɔbɛ́ka ntam suna ahanden amʋ.
 \xe The new chief also will swear an oath to the elders.
-\dt 21/Jul/2016
+\dt 28/Nov/2016
 
 \lx kaba
 \ph kabaʔ
@@ -14398,12 +14397,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge show off
 \is 7.2.1.1
 \is 3.5.1.7.3
-\is 4.6.1
+\is 4.3.2.4
 \de to show off or strut
 \rf Tape:4-1-143
 \xv Mɩ nyawie ɔkʋ bʋ akrakun yinhɛ, ɔtɛkɛklɛ.
 \xe A certain friend of mine has turkeys. The turkey cock always struts.
-\dt 19/Jul/2016
+\dt 28/Nov/2016
 
 \lx kɛklɛ
 \hm 2
@@ -15130,8 +15129,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps v
 \sn 2
 \ge witness
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 4.7.5.5
 \de to give witness in a case
 \rf Tape:3-2-098
 \xv Oyin amʋ dɛ mʋ asʋn kla.
@@ -15157,7 +15155,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge count
 \is 8.1.2
 \de to count, reciting numbers
-\dt 22/Jul/2016
+\dt 28/Nov/2016
 
 \lx kla
 \hm 2
@@ -15333,7 +15331,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps n
 \sn
 \ge step-child
-\is 4.1.9.1.4
+\is 4.1.9.6
 \de step child
 \lt armpit child
 \dt 20/Jul/2016
@@ -16281,8 +16279,8 @@ cf fonflo
 \ps v
 \sn
 \ge bring home
-\is 4.1.9.2.1
 \is 2.6.1.2
+\is 4.1.9.2.1
 \de to bring your wife to live at your house
 \rf Tape:3-2-400
 \xv Ndɛ nakpain mɩ ka ba mɩ woyitɔ.
@@ -17366,11 +17364,9 @@ cf fonflo
 \ps n
 \sn
 \ge riot
-\is 4.6.6
-\is 4.6.6.1
-\is 4.8.3.6
+\is 4.8.2.6
 \de riot
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx kpokpokpokpo
 \ph k͡pok͡pok͡pok͡po
@@ -18056,7 +18052,7 @@ cf fonflo
 \ps n
 \sn
 \ge pinch
-\is 4.8.2
+\is 7.3.4.5
 \de pinch
 \xv Fapʋ kutibi tsɛ ba.
 \xe You have exchanged a pinch for a slap.
@@ -18064,7 +18060,7 @@ cf fonflo
 \xe The cat has pinched my leg.
 \nt proverb
 \rf Tape:4-1-245
-\dt 01/Oct/2016
+\dt 28/Nov/2016
 
 \lx kutibii
 \ph kutíbǐːʔ
@@ -18843,7 +18839,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge nag
 \is 3.5.1.8.5
-\is 4.8.2
 \de to hound or nag
 \rf Tape:4-1-457
 \xv Fʋdɛ mɩ lala
@@ -18855,7 +18850,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Don't hound me so that I should die and leave my children.
 \xe Stop hounding me to death!
 \rf Tape:4-1-461
-\dt 19/May/2016
+\dt 28/Nov/2016
 
 \lx lala
 \hm 2
@@ -19811,8 +19806,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge litigiousness
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 4.7.5.3
 \de desire to litigate
 \bw Akan fi:mansʋ H!H
 \rf Tape:4-2-009
@@ -19821,7 +19815,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-017
 \xv Mansʋ ɔtswɩpʋ ogyi.
 \xe He is a litigious person.
-\dt 16/Jun/2014
+\dt 28/Nov/2016
 
 \lx manta
 \ph mántá
@@ -19956,8 +19950,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge law
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 4.7.1
 \de law
 \xv Nɩ owie ɔwa mbla fɔtʋn mʋ́ a, ɔtɛbɩtɩ fʋ sʋ.
 \xe If a chief makes a law and you break it, he punishes you.
@@ -19969,7 +19962,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-081
 \xv Mʋ yín lawa mbla ha mʋ ánɩ́ osi bigyi.
 \xe His mother has commanded him that he should stop crying for nothing.
-\dt 30/Sep/2015
+\dt 28/Nov/2016
 
 \lx mblɩkpɛ
 \ph mblɪk͡pɛ
@@ -20082,6 +20075,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge sacrifice
+\is 4.9.5.5
 \is 4.9.7.7
 \is 4.9.7.3
 \is 4.9.7.2
@@ -20098,7 +20092,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \na Perhaps many unfortunate happenings are coming on the town and it is determined that taboos are being broken so the elders decide to offer sacrifices to cleanse the town.
 \xv Ɔtsɩ amʋ lɛ da ɔyasʋbi amʋ wa, balɛ mʋ́ mbusuo, sʋ asʋn lata.
 \xe The woman invoked a curse on the young and they have removed the curse so the case is finished.
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx mbʋa
 \hm 1
@@ -20119,8 +20113,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge help
 \is 4.3.4.2
+\is 3.3.3.2
 \de to help or advise someone
-\dt 18/Jul/2016
+\dt 28/Nov/2016
 
 \lx mɛ
 \hm 1
@@ -20276,16 +20271,16 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge stupid
-\is 7.6
+\is 3.2.1.4
 \is 4.9.4.1
-\de to be foolish
+\de to be foolish or confused
 \nt charming them with an incantation, burying objects, put something in their food.
 \rf Tape:4-2-235
 \xv Mʋ mimla sʋ, ɔtamawie mʋ abatɔ.
 \xe Because of his stupidity, he does not mingle with his friends.
 \xv Oyin amʋ lamimla sʋ fɛbla mʋ asʋn a, ɔtamanu mʋ́ asɩ.
 \xe The man has become so stupid that if you tell him something he never understands.
-\dt 14/Sep/2016
+\dt 28/Nov/2016
 
 \lx mina
 \ph mina
@@ -20708,6 +20703,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge prayer
+\is 4.9.5.2
 \is 4.9.7.2
 \is 4.9.7.3
 \is 4.9.7.7
@@ -20719,7 +20715,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Pray that God should give us long life.
 \xv Bulu dɛ anɩ mpaɩtɔ nu sʋ, alaha nyankpʋ detswie ha anɩ.
 \xe God is hearing our prayers so it is raining for us.
-\dt 22/Jul/2016
+\dt 28/Nov/2016
 
 \lx mpesie
 \ph mpesie
@@ -21226,8 +21222,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 1
 \ge grandfather
-\is 4.1.9.1.1
 \is 2.6.5.1
+\is 4.1.9.1.1
 \de grandfather, vocative form
 \rf Tape:4-2-531
 \xv Nɛtɩ mɩ sɩ ntɛ mɩ yín mʋ sɩ Nanain.
@@ -21924,7 +21920,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 1
 \ge days
-\is 4.2.2.3
+\is 8.4.1.2
 \de days
 \nt plural of ɛkɛ
 \rf Tape:5-1-183
@@ -21935,7 +21931,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn 2
 \ge holiday
-\is 4.2.2.3
+\is 4.2.2.2
 \de holiday; festive days, such as yam festivals, the Guang congress meeting, Christmas, any durbar
 \rf Tape:5-1-187
 \xv Aba begyi nkɛ sʋ atɔ anɩnapʋ bʋ nɩna atɔ ba biasʋ.
@@ -22625,7 +22621,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \lx ntam
 \ph ntam
 \ps n
-\sn
+\sn 1
 \ge oath
 \is 4.7.5.7
 \de oath
@@ -22639,7 +22635,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Mlɩmaka hwɩɩ ntam.
 \xe Don't swear by anything.
 \bb Stewart List:1492
-\dt 21/Jul/2016
+\se Bulu Ntam Pɔpwɛ
+\ps n
+\ge New Testament
+\is 4.9.3.1
+\de New Testament scriptures
+\dt 28/Nov/2016
 
 \lx ntɛ
 \ph ntɛ̂ː
@@ -23053,11 +23054,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge honour
 \is 4.5.5
+\is 8.3.8.2
 \de honour
 \bw Akan fi:anunyam LLH
 \xv Mʋʋ ɔlɛbla Yesu ɔbɛɛ, "Nɔ́pʋ ɔmá anfɩ fɛ́ɛ́ tumi pʋ́ amʋ́ numnyam ha fʋ, tsufɛ mɩ ɩbɩtɔ bapʋ wa."
 \xe Then he said to Jesus, "I will give you the authority of all these lands and their honour, because into my hand they have put it.
-\dt 21/Aug/2016
+\dt 28/Nov/2016
 
 \lx nun
 \ph nũʔ
@@ -23167,11 +23169,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps vt
 \sn
 \ge hit against
-\is 4.8.2
+\is 7.7.1
 \de hit against
 \xv Ɔlɛdɩda, ɔlɔpʋ mʋ nwun nwɛn.
 \xe He fell down and banged his head.
-\dt 16/Jun/2014
+\dt 28/Nov/2016
 
 \lx nwɛn
 \ph ŋʷɛ̃̂ʔ
@@ -23206,7 +23208,8 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps vt
 \sn
 \ge thrash
-\is 4.6.6.1
+\is 4.7.7
+\is 7.7.1
 \de to beat someone with a stick
 \nt co-occurs with atɔ - things
 \rf Tape:8-1-253
@@ -23215,7 +23218,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \rf Tape:8-1-391
 \xv Ɔtsawʋlɛ pɛ ɔlɔnwɛn mʋ atɔ.
 \xe He whipped him only once.
-\dt 23/Sep/2016
+\dt 28/Nov/2016
 
 \lx nwɔsɩ
 \ph ŋʷɔ́sɪ́
@@ -23332,7 +23335,6 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge luck
 \is 4.4.5.1
-\is 4.2.6.1
 \de luck
 \xv Nwun-nwun igyi.
 \xe It's your luck.
@@ -24375,9 +24377,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge prisoner
-\is 4.6.6.1
+\is 4.7.7.3
 \de prisoner
-\dt 20/May/2016
+\dt 28/Nov/2016
 
 \lx obubupʋ
 \ph obubúpʊ
@@ -25179,9 +25181,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se asʋn ogyikpa
 \ps n
 \ge court
-\is 4.6.6.1.2
+\is 4.7.5
 \de place of arbitration; court
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx ogyinɔɔ
 \ph oʤínɔ̂ː
@@ -25310,9 +25312,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ve Southern
 \sn
 \ge questioning corpse
-\is 4.9.7.7
 \is 4.2.2.1
-\is 2.6.6.3
+\is 4.9.7.7
+\is 2.6.6.2
 \de the act of questioning a corpse in order to know the cause of his/her death
 \xv Ɔhagyiɔha tsiatɔ bʋtɔpʋ da mʋ okeyi nɩ owu.
 \xe Everyone's behaviour is used to question him when he/she dies.
@@ -26770,9 +26772,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph osṹ ɔhandɛʔ
 \sn
 \ge clan head
+\is 2.6.4.5
 \is 4.1.9.8
 \is 4.5.1
-\is 2.6.4.5
 \de head of clan
 \cf osun
 \xv Osun-gyi-osun mʋ́a mʋ́ ɔhandɛ.
@@ -26973,11 +26975,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sitting place
-\is 4.6.1
+\is 7.1.2
+\is
 \de sitting place
 \xv Tsia mɩ otsiakpa.
 \xe Take my place, (stand in for me.)
-\dt 21/Jun/2014
+\dt 28/Nov/2016
 
 \lx otsibi
 \ph ot͡sibi
@@ -27099,12 +27102,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge gun
 \is 6.4.1
-\is 4.8.3
+\is 4.8.3.7
 \de gun
 \xv Ɔtapʋ amʋ lada ɔbwɩ amʋ otua.
 \xe The hunter has shot the animal with his gun.
 \bb Stewart List:1192
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx otua ohoun
 \ph otua ohoũʔ
@@ -27293,14 +27296,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se woyi mʋ́ wie
 \ps n
 \ge householder
-\is 4.6.1
+\is 6.5.1.3
 \de head of a house; landlord
 \se ɔha mʋ wie
 \ps n
 \ge body owner
 \is 2.6.6.3
 \de person who represents the family interests in a funeral
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx owie ogyikpa
 \ph owíê oʤík͡pá
@@ -27385,8 +27388,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge wickedness
 \is 4.3.1.1
+\is 4.3.4.1
 \de wickedness
-\dt 20/May/2016
+\dt 28/Nov/2016
 
 \lx owupʋ
 \ph owupʊ́ʔ
@@ -27961,7 +27965,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge arrow
 \is 6.4.1
-\is 4.8.3
+\is 4.8.3.7
 \de arrow
 \xv Bʋtɔpʋ ɩta tswɩ ɔbɩn.
 \xe They use a bow to shoot an arrow.
@@ -27969,7 +27973,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mbɩn mʋ́a mʋ́ nta Kpankpanmafɔ bʋtɔpʋ kɔ.
 \xe The Konkombas use bow and arrows to fight.
 \bb Stewart List:1194
-\dt 19/Jun/2014
+\dt 28/Nov/2016
 
 \lx ɔbɩwɛtɔ
 \ph ɔbɪwɛtɔ(H)
@@ -28186,19 +28190,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se Bulu ɔbɔpʋ
 \ps n
 \ge angel
+\is 4.9.2
 \is 4.9.7.3
 \is 4.9.7.2
 \de angel
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx ɔbrafɔ
 \ph ɔbráfɔ
 \ps n
 \sn
 \ge murderer
-\is 4.6.6.1
+\is 2.6.6.1
 \de murderer
-\dt 08/Feb/2014
+\dt 28/Nov/2016
 
 \lx ɔbʋatɔ
 \ph ɔbʊátɔʔ
@@ -28270,6 +28275,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph abʊnsám
 \sn
 \ge evil spirit
+\is 4.9.4.2
+\is 4.9.2
 \is 4.9.7.3
 \is 4.9.7.2
 \de Satan; evil spirit
@@ -28278,7 +28285,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔhagyiɔha ánɩ́ ɔtɔbwɛ lalahɛ a, ɔbʋnsam mʋ bi ogyi.
 \xe Every person that does evil, is Satan's child.
 \cf ɔŋɛ lalahɛ
-\dt 26/Mar/2016
+\dt 28/Nov/2016
 
 \lx ɔbwata
 \ph ɔbʷata(H)
@@ -28409,10 +28416,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph adãnsɪfɔ
 \sn
 \ge witness
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 4.7.5.5
 \de one who witnesses
-\dt 22/Jul/2016
+\dt 28/Nov/2016
 
 \lx ɔdanta
 \hm 1
@@ -28636,10 +28642,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge royal
-\is 4.6.1
+\is 4.6.1.1
 \de royal
 \bw Akan fi:ɔdɩhɩɛ
-\dt 14/Aug/2013
+\dt 28/Nov/2016
 
 \lx ɔdɔbʋtsa
 \ph ɔdɔbʊt͡saʔ(H)
@@ -28674,8 +28680,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \vaaph do
 \sn
 \ge bell
-\is 6.6.2.3
-\is 4.2.2.3
 \is 4.2.3.5
 \de bell
 \bw Akan fi:ɔdɔn
@@ -28914,15 +28918,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ɱflɛʔ
 \sn
 \ge sheath
-\is 5.2.1.3
-\is 6.6.2.3
-\is 4.8.3
+\is 4.8.3.7
 \de knife sheath
 \xv Pio ɔdai amʋ lɛ mʋ́ ɔflɛtɔ ba mɩ.
 \xe Pull the knife out of its sheath and bring it to me.
 \xv Nɩ ɔdaɩ bʋ ɔflɛtɔ a, mʋ́ ɩbʋ ifu tamɛ nɩ bépio mʋ́ lɛ mʋ́a, ɩtra ma ifu.
 \xe When a knife is in its sheath it is fearful, but once it is removed out of it's sheath, it is no more fearful.
-\dt 16/Jun/2014
+\dt 28/Nov/2016
 
 \lx ɔfɔɔ
 \ph ɔfɔ̌ː
@@ -28952,13 +28954,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge flag
 \de flag
-\is 4.6.3
-\is 4.8.3
+\is 4.6.7.1
+\is 3.5.6
 \bw English fi:flag (through Akan)
 \rf Tape:5-2-355
 \xv Ɔdɛ asafʋ ɔfranka amʋ wʋna.
 \xe He is waving the war group's flag.
-\dt 23/Jun/2014
+\dt 28/Nov/2016
 
 \lx ɔfʋ
 \ph ɔfʊ
@@ -29102,7 +29104,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ve Southern
 \sn
 \ge elder
-\is 4.6.1
+\is 4.5.1
 \de elder
 \rf Tape:5-2-394
 \xv Oyin anfɩ a, ɔhandɛ ogyi, tsufɛ aladan dʋn mɩ.
@@ -29111,7 +29113,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe "Elders bone is not easy to break. " The meaning is that, a child is never greater than an elder.
 \nt Proverb
 \rf Tape:1-1-287
-\dt 14/Oct/2016
+\dt 28/Nov/2016
 
 \lx ɔhɩɛn
 \ph ɔhɪ̃́ɛ̃́ʔ
@@ -29178,8 +29180,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge marriage
-\is 4.1.9.2.1
 \is 2.6.1
+\is 4.1.9.2.1
 \de marriage to a wife
 \cf ɔka1
 \cf tsia3
@@ -29220,8 +29222,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge gong-gong
 \is 3.5.1.2.1
-\is 4.6.1
-\is 4.2.2.3
+\is 4.6.1.2
 \is 4.2.3.5
 \de gong-gong
 \rf Tape:5-2-404
@@ -29232,7 +29233,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge proclaim
 \de to beat gong-gong; to proclaim something
 \cf ɔkan ɔdapʋ
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx ɔkan ɔdapʋ
 \ph ɔkã ɔdapʋ́
@@ -29862,12 +29863,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge fetish priest
 \is 4.9.7.1
+\is 4.9.7.7
 \de fetish priest
 \xv Ɔkpɩpʋ tɛha ɔkpɩ igyi nɩ.
 \xe It is the fetish priest who gives sacrifices to the fetish.
 \xv Ɔkpɩpʋ amʋ lawi batɛ mʋ́ sʋ bawa mʋ obu tsra nu.
 \xe The fetish priest has stolen fowl so he has been jailed for five months.
-\dt 20/May/2016
+\dt 28/Nov/2016
 
 \lx ɔkpɩtsa
 \ph ɔk͡pɪt͡saʔ
@@ -30109,10 +30111,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge command
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 4.5.3.2
 \de strong command
-\dt 12/Jul/2014
+\dt 28/Nov/2016
 
 \lx ɔlada
 \ph ɔláda(H)
@@ -30896,7 +30897,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 3
 \ge hardhearted
-\is 4.7.9.5
+\is 4.3.4.1
 \de harsh
 \rf Tape:6-1-168
 \xv Bawa onwuntɔ ɔnlɩn mʋsʋ.
@@ -30908,7 +30909,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-163
 \xv Fʋ atɔ fɛhɛ lɛlɩn. Mʋ́ bia ma ɔnlɩn.
 \xe Things you are selling are cheap. Their prices are low.
-\dt 21/Jul/2016
+\dt 28/Nov/2016
 
 \lx ɔnɔ
 \ph ɔnɔ́(H)
@@ -31096,6 +31097,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \ge Holy Spirit
 \is 4.9.7.2
+\is 4.9.2
 \de Holy Spirit
 \xv Okristoyin okugyiɔkʋ lehian ánɩ́ obénya Ɔŋɛ Wankɩhɛ.
 \xe Every Christian needs to get the Holy Spirit.
@@ -31107,7 +31109,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 4.9.7.2
 \de evil spirit
 \cf ɔbʋnsam
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx ɔpa
 \hm 1
@@ -31425,7 +31427,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mprɪm
 \sn
 \ge cannon
-\is 4.8.3.6
+\is 4.8.3.7
 \de cannon
 \bw Akan fi:aprɩm
 \rf Tape:6-1-346
@@ -31434,7 +31436,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ owie ntɛɛ ɔhandɛ ɔkʋ owu a, bʋtɔtswɩ mprɩm.
 \xe When a chief or an elderly person dies, cannons are being fired.
 \bb Stewart List:1249
-\dt 13/Jul/2014
+\dt 28/Nov/2016
 
 \lx ɔpʋ
 \ph ɔpʊʔ
@@ -31591,13 +31593,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge permission to speak
 \is 3.5.2
-\is 4.6.6.3
+\is 9.6.3.3
 \de permission to speak, "the floor" as in "You have the floor."
 \bw Akan fi:ɔsɛmpa
 \rf ds0103-34
 \xv Mʋ́ʋ́, Osun ɔhandɛ leyinki pʋ ɔsɛmpa ha Kwasi mʋ sɩ.
 \xe Then the clan head asked Kwasi's father to respond.
-\dt 31/May/2016
+\dt 28/Nov/2016
 
 \lx ɔsɩ
 \ph ɔsɪ́
@@ -31855,13 +31857,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge heaven
+\is 4.9.6
 \is 4.9.7.3
 \is 4.9.7.2
 \de heaven
 \rf Tape:6-1-426
 \xv Bulu iwie ogyikpa ɩnʋ bʋ ɔsʋsʋ.
 \xe God's kingdom is in heaven.
-\dt 01/Nov/2016
+\dt 28/Nov/2016
 
 \lx ɔsʋsʋʋsʋ
 \ph ɔsʊ́sʊ́ːsʊ́
@@ -32084,18 +32087,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \pl ntɛntɛ
 \plph ntɛ́ntɛ
-\sn
+\sn 1
 \ge flute
-\is 4.6.6.1
-\is 4.2.4
-\is 4.2.6.2.1
+\is 4.2.3.5
 \de bamboo flute
 \xv Ɔdɛ ɔtɛntɛ fʋlɩ.
 \xe He is blowing a flute.
 \rf Tape:6-1-482
 \xv Igna dɛ ɔtɛntɛ fʋlɩ.
 \xe Igna is blowing a flute.
-\dt 23/Sep/2016
+\sn 2
+\ps n
+\ge whistle(n)
+\is 4.6.6.1
+\de a whistle
+\dt 28/Nov/2016
 
 \lx ɔtɛntɛ tswɩ
 \ph ɔtɛ́ntɛ t͡swɪʔ(L)
@@ -32449,14 +32455,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph nt͡ʃɪámɪ(H)
 \sn
 \ge linguist
-\is 4.6.1
+\is 4.6.1.2
 \de spokesman of a chief
 \bw Akan fi:ɔkyeame
 \xv Oyin anfɩ gyi ɔtsɩamɩ denhɛ wulu anfɩtɔ nɩ.
 \xe This man is the senior linguist in this town.
 \xv Ɔtsɩamɩ wanklaan gyi ɔtsɩamɩ ánɩ́ ɔtɔtɔɩ agywɩɩnsʋ wanklaan.
 \xe A good linguist is the linguist that talks sensibly.
-\dt 03/Nov/2015
+\dt 28/Nov/2016
 
 \lx ɔtsɩrɩbɩ
 \ph ɔt͡sɪrɪ́bɪ́ʔ
@@ -32803,8 +32809,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge book
-\is 4.9.7.3
-\is 4.9.7.2
+\is 3.5.7.2
 \is 3.6.2
 \de paper; book; letter
 \rf Tape:6-2-013
@@ -32815,7 +32820,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe This girl knows books.
 \bb Stewart List:0029
 \bb Stewart List:1176
-\dt 18/Oct/2016
+\dt 28/Nov/2016
 
 \lx ɔwʋlʋ kpakpa
 \ph ɔwʊlʊ k͡pak͡pa
@@ -33623,11 +33628,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge whip
-\is 4.6.6.1
-\is 4.8.2
+\is 4.7.7
+\is 7.7.1
 \de to whip someone
 \ge whip
-\dt 23/Sep/2016
+\dt 28/Nov/2016
 
 \lx pla
 \hm 1
@@ -33732,6 +33737,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge play
 \is 4.2.2.3
+\is 4.2.7
 \de play
 \xv Nyebi amʋ bʋdeplei mmua nʋ.
 \xe The children are playing behind the house there.
@@ -33764,8 +33770,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge dandle
-\is 4.2.2.3
-\is 4.2.6.1
+\is 2.6.4.1.1
+\is 4.2.7
 \de to dandle an infant
 \xv Kebi amʋ desu; sʋ, mʋ pio latsu mɔ, ɔdɛ mʋ pleia.
 \xe The child is crying, so his sibling has picked him up and is dandling him.
@@ -33957,13 +33963,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge chief
-\is 4.6.1
+\is 4.5.1
 \is 4.6.1
 \de figuratively, chief or elder
 \xv Brɛa pɔntɔ lopuli a, ahandɛ bɛɛ bʋyodunka pɔntɔ ka beyi. Ndɛ a, banya pɔntɔ pɔpwɛ ka.
 \xe The time that a shade tree uprooted, the elders said they should look for a shade tree to cut and plant. Today they have cut a new shade tree.
 \na This is a declaration at the installation of a new chief.
-\dt 16/Jul/2016
+\dt 28/Nov/2016
 
 \lx pɔɔn
 \ph pɔ̃ː
@@ -34074,7 +34080,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge strive
-\is 6.1.2.1
+\is 6.1.2.3.2
 \is 4.8.2
 \bw Akan fi:prɩ L
 \de struggle to possess something
@@ -34082,7 +34088,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Struggle to win.
 \xv Maprɩ ɔyɩtɔ atɔ tsufɛ fówu si mʋ́ fɛ́ɛ́.
 \xe Don't struggle for worldly possessions because you will die and leave them all.
-\dt 02/Jun/2016
+\dt 28/Nov/2016
 
 \lx prʋn
 \ph prʊ̃ʔ
@@ -34302,7 +34308,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ng used in serial verb constructions with the habitual to indicate instrument.
 \xv Ɩtswɛ bʋtɔpʋ kɔ.
 \xe A fist is used for fighting.
-\xv Ɔkɔntɩ pʋ́ krantɩɛ anɩ tɔpʋ dɔ. Ɩtɛha ɩdɔ amʋ tɛpɩn.
+\xv Ɔkɔntɩ pʋ́ krantɩɛ anɩtɔpʋ dɔ. Ɩtɛha ɩdɔ amʋ tɛpɩn.
 \xe We use a wooden crook and a cutlass to weed. It make weeding smooth.
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ.
 \xe They use cassava to make many foods.
@@ -34315,7 +34321,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to travel a short distance
 \xv Tɛkɩ nɔyɔ mʋ wa, tamɛ bɛɛ alapʋ ɔkpa.
 \xe I went to see him but they said he had gone a short distance.
-\dt 15/Jun/2016
+\dt 22/Nov/2016
 
 \lx pʋ́
 \ph pʊ́
@@ -34631,12 +34637,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge summon
-\is 4.6.6.1
+\is 4.7.5.3
 \de to take someone to court or arbitration
 \bw English fi:summon
 \xv Oyin amʋ layɛsama mʋ nyawie amʋ.
 \xe The man has called his friend to go to arbitration.
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx sanka
 \ph sáŋká
@@ -34840,12 +34846,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge slap
 \is 4.8.2
+\is 7.7.1
 \de to hit with a slap
 \xv Nɩ atsɩ bʋdɛkɔ a, bʋtɛsɛ aba aba.
 \xe When women fight, they slap each other.
 \xv Sɛ mʋ aba.
 \xe Slap him.
-\dt 30/Jun/2014
+\dt 28/Nov/2016
 
 \lx sɛbɛ
 \ph sɛ́bɛ
@@ -34855,12 +34862,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge amulet
 \is 4.9.7.3
+\is 4.9.8
 \de amulet made by Muslims
 \xv Asumafɔ akʋ bʋtɔwa sɛbɛ.
 \xe Some juju practitioners wear amulets.
 \xv Mʋ asɛbɛ amʋ ɔma o, bada mʋ.
 \xe With all his amulets, he has been beaten.
-\dt 22/Jun/2014
+\dt 28/Nov/2016
 
 \lx sɛm
 \ph sɛm
@@ -34966,11 +34974,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge Sia god
 \is 4.9.2
+\is 4.9.7.7
 \de Main land god of Nkonya
 \xv Bʋtɔtswɛ Nana Sia Ɩpwɛ.
 \xe The worship Nana Sia on Ɩpwɛ (traditional Sabbath).
 \nt check this sentence.
-\dt 13/Sep/2016
+\dt 28/Nov/2016
 
 \lx sia
 \hm 1
@@ -35007,21 +35016,24 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge hang
 \is 7.3.2.4.1
-\is 4.7.7.4
-\is 4.6.6.1
 \de to hang something
 \xv Igye mɩ atadɩɛ lesian ɔfɛsʋ. Ndɛ nasɩɛɩ mʋ́.
 \xe Yesterday my shirt was hanging on the line. Today I've taken it down.
-\xv Fɔmɔ ɔha a, Aban obésian fʋ.
-\xe If you kill someone the government will hang you.
 \xv Si ɩbɩ sian.
 \xe Let your hand hang.
 \xv Agyagya bʋtesian oyitɔ.
 \xe Bats hang in trees.
 \bb Stewart List:2517
 \bb Stewart List:2518
-\ps v
 \sn 2
+\ps vi
+\ge hang(execute)
+\is 4.7.7.4
+\de to execute s.o. by hanging
+\xv Fɔmɔ ɔha a, Aban obésian fʋ.
+\xe If you kill someone the government will hang you.
+\sn 3
+\ps v
 \ge leftover
 \is 5.2.1.2.2
 \de remains
@@ -35029,7 +35041,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The man has eaten the leftovers.
 \xv Tsu atɔ sianhɛ amʋ afʋwa mʋ́ ogya.
 \xe Take the leftovers and burn them.
-\dt 18/Jul/2016
+\dt 28/Nov/2016
 
 \lx Sibriso
 \ph sibrísʊ
@@ -35046,7 +35058,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge cedi
-\is 4.2.2.3
+\is 6.8.6.1
 \de cedi; Ghanaian currency, a cedi is 100 pesewas
 \bw English fi:cedi
 \xv Ghanafɔ bʋtegyi sidi, Nigeriafɔ ɛ bʋtegyi naira.
@@ -35402,7 +35414,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph asoʤafɔ
 \sn
 \ge soldier
-\is 4.6.6.1
+\is 4.8.3.6.4
 \de soldier- usually implying government military
 \nt asafʋ is the Akan for warrior
 \bw English fi:soldier
@@ -35410,7 +35422,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe This soldier is not strong.
 \xv Anɩ asogyafɔ bʋbʋ ɔnlɩn dʋn Ɔklɩfɔfɔ klɛ.
 \xe Our soldiers are stronger than the Alavanyos'.
-\dt 01/Feb/2014
+\dt 28/Nov/2016
 
 \lx soholi
 \ph soholi
@@ -35564,10 +35576,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge chase
 \is 7.2.6
 \is 6.4.1
-\is 4.6.6.1
-\is 4.8.3
 \de run after
-\dt 15/Jun/2016
+\dt 28/Nov/2016
 
 \lx srɩkɩ
 \ph srɪ́kɪ
@@ -35683,7 +35693,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge worship
-\is 4.9
+\is 4.9.5
 \de worship
 \rf Tape:7-1-063
 \xv Bulu sum bʋ ansigyi dʋn ɔkpɛ, tsufɛsɛ iyula bʋ Bulu sumtɔ.
@@ -35695,7 +35705,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 4.5.4.3
 \de to serve
 \cf osumpʋ
-\dt 20/Jul/2016
+\dt 28/Nov/2016
 
 \lx suma
 \ph suma
@@ -35923,12 +35933,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge charm
 \is 4.9.4.1
+\is 4.9.7.7
 \de to invoke a charm on someone
 \xv wa ɔha sʋkpʋsali
 \xe to charm someone
 \xv Sʋkpʋsali oyin amʋ lɔwa ɔtsɩ amʋ. Mʋ́ sʋ ɔtsɩ amʋ talɩ ɔtsia mʋ nɩ.
 \xe The man charmed the woman that is why the woman is able to marry the man.
-\dt 21/Jul/2016
+\dt 28/Nov/2016
 
 \lx sʋn
 \ph sʊ̃
@@ -36526,21 +36537,22 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge claim protection
-\is 4.8.3
+\is 4.4.4.5
+\is
 \de take refuge in; to claim protection
 \rf Tape:7-1-356
 \xv Nɩ kebi ɔtanʋ ɔha a, bʋtamada mʋ.
 \xe If a child should seek refuge with a person, the one chasing the child doesn't hit him.
 \xv Natanʋ fʋ.
 \xe I have sought refuge in you.
-\nt and the one chasing you says "Fʋ nwun nkpa. "
+\nt and the one chasing you says "Fʋ nwun nkpa."
 \se ɔtanʋkpa
 \ps n
 \ge place of refuge
 \de place of refuge
 \xv Yesutɔ gyi mɩ ɔtanʋkpa.
 \xe In Jesus is my refuge.
-\dt 07/Nov/2015
+\dt 28/Nov/2016
 
 \lx tapʋ
 \ph tápʊ́
@@ -36580,9 +36592,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph atásǐː
 \sn
 \ge aunt
+\is 2.6.5.2
+\is 2.6.5.2
 \is 4.1.9.1.6
 \is 4.1.9.1.8
-\is 2.6.5.2
 \de reciprocal relationship between a child and his/her Father's sister. Each will call the other "Tasii"
 \xv Mɩ atasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
 \xe My paternal aunts has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because their families are different.
@@ -36876,6 +36889,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PropN
 \sn
 \ge name of a fetish
+\is 4.9.7.7
 \is 4.9.8.1
 \de a certain fetish
 \xv Tigari ɔkpɩ latsia nfɩ kɩ.
@@ -36883,7 +36897,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-454
 \xv Akɩaɩ bʋtɔpʋ ha Tigari igyi.
 \xe Dogs are used for a sacrifice to Tigari fetish.
-\dt 21/Jul/2016
+\dt 28/Nov/2016
 
 \lx tii
 \ph tíː
@@ -37096,6 +37110,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \ge excuse
 \is 4.7.5.4
+\is 4.3.5.5
 \de to make a false excuse
 \xv Ɔplɔɩ bʋtɔpʋ tɩn ɔnɔ wɩ nyambi.
 \xe They take rotten meat to stop protests, eat maggots.
@@ -37111,7 +37126,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Fɔyɔ ndɔtɔ a, tɩn kwadu ba mɩ.
 \xe When you go to farm harvest some bananas for me.
 \bb Stewart List:2803
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx tɩn
 \hm 2
@@ -37454,7 +37469,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se ɔnɔsʋ ɔtɔɩpʋ
 \ps n
 \ge spokesman
-\is 4.6.1
+\is 4.6.1.2
 \de spokesman
 \xv Owie ɔnɔsʋ ɔtɔɩpʋ gyi mʋ ɔtsɩamɩ.
 \xe The one that speaks the chief's words is his linguist.
@@ -37462,9 +37477,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \pl Bulu ɔnɔsʋ atɔɩpʋ
 \ge prophet
-\is 4.6.1
+\is 4.9.4.6
 \de prophet
-\dt 01/Nov/2016
+\dt 28/Nov/2016
 
 \lx tɔɩ kpla
 \ph tɔ́ɪ́ k͡plá(H)
@@ -37682,7 +37697,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ps v
 \ge quarrel
-\is 4.8.2
+\is 3.5.1.6.2
 \de to quarrel
 \rf Tape:7-1-566
 \xv Bɛɛ fʋa oyin amʋ nyɔ mlɩdɛtrɛ. Si, ɩtɩrɛ ma alɛ.
@@ -37690,7 +37705,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-569
 \xv Ɩtrɛ lafa.
 \xe A quarrel has burst out.
-\dt 05/Feb/2016
+\dt 28/Nov/2016
 
 \lx trʋ
 \ph trʊ
@@ -37879,7 +37894,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \is 8.3.7.8.2
-\is 4.8.2
+\is 5.4.7
 \de to scratch
 \rf Tape:7-2-195
 \xv Andɔ amʋ latsan mɩ akuti.
@@ -37895,7 +37910,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-203
 \xv Oyin amʋ latsan laɩn amʋ tswii.
 \xe The man has drawn the line straight.
-\dt 23/Sep/2016
+\dt 28/Nov/2016
 
 \lx tsan
 \hm 2
@@ -38849,8 +38864,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 1
 \ge one place
-\is 7.2.1.6
-\is 4.4.2.5
+\is 7.5.1
 \de in one place
 \xv Foblufo wʋlɩ tsukʋlɛ a, mʋ́ ɩtɛlɩn afu.
 \xe If you urinate in one place it makes bubbles.
@@ -38862,6 +38876,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge in unity
 \is 4.1.5
+\is 3.2.5.4
 \de to be in unity
 \rf Tape:3-1-232
 \xv Anɩ fɛ́ɛ́ anɩlɩɩ tsukʋlɛ.
@@ -38877,7 +38892,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:3-1-235
 \xv Tsufɛ mʋ agywɩɩn igyi anyɔ, ɔmɛlɩɩ tsukʋlɛ.
 \xe Because his mind is two he doesn't stand in one place; he is not consistent.
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx tsukʋlɛ osinpʋ
 \ph t͡sukʊlɛ osínpʊ
@@ -39149,6 +39164,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \ge pounce
 \is 4.8.2.3.1
+\is 7.3.3.1
 \de to dive upon; to pounce upon
 \rf Tape:7-2-546
 \rf Tape:7-2-547
@@ -39179,7 +39195,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge dive
 \is 7.2.4.2.3
 \de to dive into something
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx tswɩ lala
 \ph t͡swɪ lala
@@ -39198,6 +39214,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge contribution
+\is 4.3.4.5
 \is 4.9.7.3
 \is 4.9.7.2
 \is 6.8.6
@@ -39207,7 +39224,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf tswɩ
 \xv Anɩtɛka tswɩtswɩ pʋ la anɩ wulu.
 \xe We pay taxes to improve our town.
-\dt 14/Sep/2016
+\dt 28/Nov/2016
 
 \lx tu
 \hm 1
@@ -39459,8 +39476,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge break law
-\is 4.6.6.1.2
-\is 4.6.6.1
+\is 4.7.3
 \de to severely breach the law
 \rf Tape:8-1-093
 \xv Nɩ owie ɔwa mbla fɔtʋn mʋ́ a, ɔtɛbɩtɩ fʋ asʋ.
@@ -39475,7 +39491,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \na Part of the oath that a new chief will swear.
 \rf Tape:8-1-103
 \nt From ths: words that break: bwie(break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn(break a law, oath), sɩɛtɩ (break off)
-\dt 21/Jul/2016
+\dt 28/Nov/2016
 
 \lx tʋn
 \hm 2
@@ -39714,7 +39730,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge tempt
-\is 6.8.9.2
+\is 4.3.5.5
 \is 4.3.1.1
 \de to talk someone out of doing good or into doing something bad
 \rf Tape:4-1-448
@@ -39722,7 +39738,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I said/sent a child on a certain errand, but his friend persuaded him that he shouldn't go.
 \xv Ɔlɔwa mɩ lala ánɩ́ mma ha oyin amʋ atɔ amʋ.
 \xe He persuaded me not to give the man the things. (When I should have because the man needed them.)
-\dt 20/May/2016
+\dt 28/Nov/2016
 
 \lx wa ɔna
 \ph wa ɔna
@@ -39836,11 +39852,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 2
 \ge holy
+\is 4.3.1
 \is 4.9
 \de holy
 \xv Aha wankɩhɛ sɔɔn bʋ ɔsʋsʋ, tsufɛ Bulu lɔwankɩ.
 \xe There are holy people in Heaven, because God is holy.
-\dt 03/Nov/2015
+\dt 28/Nov/2016
 
 \lx wanklaan
 \ph wãŋklã́ː
@@ -40041,6 +40058,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge lose
 \is 4.2.6.1
+\is 6.1.3.3
 \de to come last in a race, exam or game
 \xv Brɛ amʋʋ nyebi amʋ bɔbwɛ amʋ́ ɔsɔhwɩɛ amʋ a, Kofi lɔwɩ.
 \xe When the children did their exams, Kofi was the last.
@@ -40152,12 +40170,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 3
 \ge hurt with words
 \is 3.5.1.8
-\is 4.8.2
+\is 4.3.4.1
 \de hurt with words
 \de to say something hurtful with words
 \xv Nɛblɩ oblikpini wɔ mɩ kulu.
 \xe I spoke indirectly and hurt my husband.
-\dt 31/Oct/2016
+\dt 28/Nov/2016
 
 \lx wɔfa
 \ph wɔfa
@@ -40835,7 +40853,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge provide for
 \is 6.3.1
-\is 4.3.4.5.2
+\is 4.3.4.5.1
 \de to provide for a child
 \rf Tape:8-1-472
 \xv Ɔlɛyaɩ obi amʋ, tamɛ ɔmɛbʋla mʋ.
@@ -40843,7 +40861,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-478
 \xv Napʋ amʋ́ yɛyaɩ sukuutɔ.
 \xe I put them into school (at a distant place).
-\dt 19/Jul/2016
+\dt 28/Nov/2016
 
 \lx Yao
 \ph yao
