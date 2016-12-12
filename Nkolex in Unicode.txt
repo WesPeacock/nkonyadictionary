@@ -853,6 +853,26 @@
 \bb Stewart List:1604
 \dt 25/Jul/2016
 
+\lx afɩta
+\ph afɪtâːʔ(L)
+\ps n
+\sg ɩfɩta
+\sgph ɪfɪtâːʔ(L)
+\sn 1
+\ge leaves
+\is 1.5.5
+\de leaves of a plant
+\rf Tape:2-1-533
+\xv Kpɔtɩ fɩta ha mɩampʋ mɩ atsulii anfɩ wa mʋ́tɔ.
+\xe Pluck a leaf for me in order that I put these my mushrooms into it.
+\bb Stewart List:0854
+\sn 2
+\ge marijuana
+\de marijuana
+\xv nun afɩta
+\xe smoke marijuana (wee)
+\dt 12/Dec/2016
+
 \lx afonflo
 \ph afoɱflo(H)
 \ps n
@@ -1678,7 +1698,8 @@
 \de Alavanyo; the Ewe group east of Nkonya
 \nt The Nkonyas and Alavanyos have had a long-running dispute.
 \nt The term is pejorative, from klɩ(tie)+fɔ(people).
-\dt 15/Jul/2016
+\cf Nhuanfɔ
+\dt 12/Dec/2016
 
 \lx Akloba
 \ps PropN
@@ -2654,11 +2675,12 @@
 \bb SIL-AWL:0005
 \se ansɩtɔ bi
 \ps v
-\ge lose consciousness
+\ge faint
+\is 2.5.6.4
 \de to be losing consciousness, fainting
 \xv Ansɩtɔ dɛ mʋ bi.
 \xe He is feeling faint.
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx anu
 \ph anu(H)
@@ -5663,10 +5685,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se brɛ mɔmʋ
 \ps Q
 \ge when
+\is 8.4
+\is 9.2.3.4
 \de when -- what time?
 \bb Stewart List:1602
 \cf ɔmɛnkɛ
-\dt 30/Oct/2016
+\dt 12/Dec/2016
 
 \lx brɛ kʋ
 \ph brɛ́kʊ
@@ -6195,8 +6219,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se bʋabʋa
 \ps v
 \ge prepare multiple
+\is 6.1.2.6
 \de prepare multiple things
-\dt 30/Oct/2016
+\dt 12/Dec/2016
 
 \lx bʋla
 \ph bʊ́lá
@@ -6371,6 +6396,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se nsibi bwiehɛ
 \ps ADJ
 \ge blind
+\is 2.5.4.1
 \de to be blind
 \bb Stewart List:1689
 \se bwie ɔnɔ
@@ -6383,7 +6409,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:6-1-183
 \xv Ɔnɔ labwie mɩ, tsufɛ mmɔkʋ wun ɩnɩ odu kɩ.
 \xe I was speechless (with amazement) because I had not seen this kind of thing before.
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx bwii
 \ph bwǐː
@@ -6556,12 +6582,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \is 7.5.1
 \de gather around to pay close attention to
 \ve Complex_Form
-\se da ɔkpa
-\ps v
-\ge righteous
-\is 8.3.7.7
-\de to be righteous
-\ve Complex_Form
 \se da ɔkpʋnʋ
 \ps v
 \ge rest
@@ -6610,7 +6630,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɩ ɩtɔ da fʋ a, kwɛ tɩtɩfobi manta mʋ́ ɩbɛ́fa, fʋ ɩwɩ bólwii fʋ.
 \xe If you have a boil, grind the herb on it and the boil will burst and you will be free.
 \ve Complex_Form
-\dt 29/Nov/2016
+\dt 12/Dec/2016
 
 \lx da wa
 \ph dá wá
@@ -6850,6 +6870,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se damli bun
 \ph dámlí bũ̂ʔ
 \ge turn over
+\is 8.3.1.4.1
 \de to turn over
 \bb Stewart List:2752
 \ve Phrasal_Verb
@@ -6863,7 +6884,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The car was headed towards Kwamekrom but it has turned around toward Ahenkro.
 \bb Stewart List:2018
 \ve Complex_Form
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx damli ɩklʋntɔ
 \ph dámlí ɪklʊ̃tɔ
@@ -7229,12 +7250,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge sleep
 \is 5.7
 \de to sleep
-\se ɩdɩ
-\ps n
-\ge sleep (n)
-\is 5.7
-\ve Complex_Form
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx dɩba
 \ph dɪbaʔ (L)
@@ -7503,13 +7519,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se dɔ fɩnɩ
 \ps Q
 \ge when
+\is 8.4
+\is 9.2.3.4
 \de what time
 \xv Dɔ fɩnɩ lada?
 \xl Bells how many have hit?
 \xe What time is it?
 \nt this is a unique form of ɔdɔn which occurs only in this expresion.
 \rf Tape:2-1-354
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx dɔkɩta
 \ph dɔkɪ́ta
@@ -9528,17 +9546,19 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Too much seeking after money brings death.
 \xv Ɔdɛ asʋn amʋ ɔmagya dʋbɩ sʋ ɔdɛ wʋlɩ.
 \xe He is worrying the matter too much so he is becoming lean.
-\se gya ɔkpa
+\se gya X ɔkpa
 \ps v
 \ge trace
 \is 6.4.1.1
+\is 7.2.6
 \is 7.6.1
-\de to trace someone
+\de to trace s.o.
 \rf Tape:2-2-148
 \rf Tape:2-2-153
 \xv Negya mʋ ɔkpa, tsufɛ alawa ɔpá ndɔtɔ.
 \xe I went to get him because he had been at farm a long time.
-\dt 31/Oct/2016
+\rf Tape:5-2-507
+\dt 12/Dec/2016
 
 \lx gyabɛ
 \ph ʤabɛʔ
@@ -11060,9 +11080,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se akuaku
 \ps ADJ
 \ge arranged piles
+\is 7.5
 \xv Nɔyɔ a, bɔbʋa mankani amʋ akuaku. Mʋ́ʋ́ nɛkpa iku kʋlɛ.
 \xe When I went they had set the mankani in piles. And then I collected one pile.
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx ikwe
 \ph ikwe
@@ -12033,6 +12054,18 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe His age is two.
 \dt 13/Sep/2016
 
+\lx ɩdɩ
+\ps n
+\ge sleep (n)
+\is 5.7
+\ph ɪdɪ
+\ps n
+\sn
+\ge sleep (n)
+\de sleep (noun)
+\cf dɩdɩ
+\dt 12/Dec/2016
+
 \lx ɩdɩn
 \ph ɪdɪ̃ʔ
 \ps n
@@ -12096,25 +12129,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I have a boil on my hip.
 \cf ɔtrʋ
 \dt 18/Oct/2016
-
-\lx ɩfɩta
-\ph ɪfɪtâːʔ(L)
-\ps n
-\pl afɩta
-\plph afɪta
-\sn
-\ge leaf
-\is 1.5.5
-\de leaf
-\rf Tape:2-1-533
-\xv Kpɔtɩ fɩta ha mɩampʋ mɩ atsulii anfɩ wa mʋ́tɔ.
-\xe Pluck a leaf for me in order that I put these my mushrooms into it.
-\bb Stewart List:0854
-\se nun afɩta
-\ps v
-\ge smoke marijuana
-\de to smoke marijuana "wee"
-\dt 19/Jul/2016
 
 \lx ɩfla
 \ph ɪfla(H)
@@ -12631,8 +12645,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \se Ɩlɩnsʋ
 \ps Propn
 \ge riverside
+\is 1.3.1.3
+\is 9.7.2
 \de beside the Volta river
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx ɩlɩn
 \hm 2
@@ -13099,24 +13115,10 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \is 4.9.7.7
 \is 8.4.1.3.1
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
+\na See Ɩpwɛ for a list of the Nkonya days.
+\ns The Southern dialect has two days called Ɔdɛkɛtrakɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, two days following Ɩpwɛ and Kulihɛ Ɔdɛkɛtrakɛ, two days following Kulihɛ.
 \cf Ɩpwɛ
-\dt 17/Oct/2016
-
-\lx Ɩpwɛ Ɔdɛkɛtrakɛ
-\ph ɩpʷɛ ɔdɛkɛtrákɛ
-\ps TIME
-\sn
-\ge Third day
-\is 8.4.1.2.2
-\se Ɩpwɛ Ɔdɛkɛtrakɛ
-\ps TIME
-\ge Third day
-\de the Southern dialect has two days called Ɔdɛkɛtrakɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, two days following Ɩpwɛ and Kulihɛ Ɔdɛkɛtrakɛ, two days following Kulihɛ.
-\na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
-\vad Yinke
-\ve Northern
-\cf Ɩpwɛ
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx ɩsa
 \ph ɪsáʔ
@@ -13723,19 +13725,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \is 9.1.2
 \de Akan loan word with uncertain core meaning ka hon – join; ka ntam – swear an oath; ka anim – rebuke
 \rf Tape:3-1-287
-\se ka ntam
-\ps v
-\ge swear oath
-\de to swear an oath
-\rf Tape:3-1-299
-\xv Owie pɔpwɛ amʋ ɛ ɔbɛ́ka ntam suna ahandɛn amʋ.
-\xe The new chief also will swear an oath to the elders.
 \se ka anim
 \ps v
 \ge rebuke
 \is 4.8.4.1
 \de to rebuke s.o.
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx ka anim
 \ph ka anim
@@ -13804,7 +13799,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \rf Tape:3-1-299
 \xv Owie pɔpwɛ amʋ ɛ ɔbɛ́ka ntam suna ahanden amʋ.
 \xe The new chief also will swear an oath to the elders.
-\dt 28/Nov/2016
+\dt 12/Dec/2016
 
 \lx kaba
 \ph kabaʔ
@@ -14589,8 +14584,11 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \se ɩbɩ kɛtsɛ
 \ps n
 \ge withered hand
+\is 2.1.3.1
+\is 2.5.4
+\is 8.2.1
 \de a crippled, withered hand
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx ki
 \ph ki
@@ -16182,10 +16180,17 @@ cf fonflo
 \se kpa sian
 \ps v
 \ge fall and hang
+\is 7.2.2.5.1
+\is 7.3.2.4.1
 \cf sian
+\de to fall and hang from s.t.
 \se kpa wie
 \ps v
 \ge fall into
+\is 7.2.2.5.1
+\is 7.3.2.6
+\is 8.5.1.4
+\de to fall into s.t.
 \cf wie
 \sn 2
 \ps vt
@@ -16207,7 +16212,7 @@ cf fonflo
 \rf Tape:3-2-372
 \xv Ɔlɔpʋ amʋ lakpa mʋ nwun pʋ́ mʋ ikwi sʋ alawa akɩlɛ.
 \xe The sick person has shaved his head and his beard so he has become good to look at.
-\dt 29/Nov/2016
+\dt 12/Dec/2016
 
 \lx kpa ogya
 \ph k͡pá oʤáʔ(H)
@@ -18058,12 +18063,14 @@ cf fonflo
 \rf Tape:4-1-236
 \xv Kuti atogyihɛ amʋ wanklaan, makukuti mʋ́ anwunsʋ.
 \xe Cut the food well (mʋ akasʋ) don't cut a little bit off the top.
+\cf kutibi
 \se kukuti
 \ps v
 \ge take off
+\is 7.3.4.5
+\is 8.1.6.2
 \de take off repetitively
-\cf kutibi
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx kutibi
 \ph kutibí (H)
@@ -18529,12 +18536,13 @@ cf fonflo
 \is 9.7.1.4
 \de Akan (Twi) language
 \en Kwawu draws its name from the Akan people whose capital is Abene, near Abetifi.
+\en Akans other Kwawus can be referred to by their names -fɔ. E.g., Ashantifɔ, Fantefɔ.
 \se Kwawufɔ
 \ps Propn
 \ge Akans
+\is 9.7.1.4
 \de speakers of the Akan (Twi) language
-\en Akans other Kwawus can be referred to by their names+fɔ. E.g., Ashantefɔ, Fantefɔ.
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx kwebasɩ
 \ph kwebásɪ
@@ -18567,6 +18575,7 @@ cf fonflo
 \sn
 \ge sprout
 \is 1.5.5
+\is 1.5.6
 \de sprout
 \xv ... mʋa la kɔkwɛ amʋ ɔma.
 \xe ... which were sprouting behind.
@@ -18577,8 +18586,10 @@ cf fonflo
 \se kɔkwɛ
 \ps v
 \ge sprout
+\is 1.5.5
+\is 1.5.6
 \de sprout all over
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx kwɛ
 \hm 2
@@ -19072,11 +19083,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge answer
 \is 3.5.1.5.1
 \de to answer an accusation
-\se lɛ ɔwan
-\ps v
-\ge announce
-\is 3.5.1.2.1
-\de to make s.t. public
 \se lɛ kɔ
 \ps v
 \ge owe
@@ -19124,7 +19130,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de to explain s.t. to s.o.
 \cf suna
 \cf asɩ1
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx lɛ-
 \ph lɛ-/lɛ́-
@@ -21284,11 +21290,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge foot; sole
 \is 2.1.3.2
 \de foot; sole of foot
-\cf nantata
-\se nantatasʋ
-\ps n
-\ge top of foot
-\de top of the foot
 \rf Tape:4-2-550
 \xv Oyin amʋ nantata lomoni dʋn mʋ sɩ klɛ.
 \xe The foot of the man is bigger than his father's.
@@ -21301,7 +21302,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Kick the ball with your foot.
 \xv Owu lawɔ mɩ nantatatɔ.
 \xe A thorn has pierced the sole of my foot.
-\dt 05/Nov/2015
+\se nantatasʋ
+\ps n
+\ge top of foot
+\is 2.1.3.2
+\de top of the foot
+\dt 12/Dec/2016
 
 \lx nantuo
 \ph nantuo
@@ -21357,10 +21363,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \ph natɪ kɛsɪɛʔ (H)
 \ge black spider
+\is 1.6.1.8
+\is 3.5.4.1
 \pl anatɩ kɛsɩɛ
 \plph anátɪ̂ kɛsɪɛ(H)
 \de black spider with hairy body
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx natɩ
 \hm 2
@@ -21780,9 +21788,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sg Nhuanyin
 \sgph nhuãyĩʔ
 \ge Ewes
+\is 9.7.1.4
 \de speakers of the Ewe language
 \cf Aklɩfɔ
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx nim
 \ph nim
@@ -21841,11 +21850,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \se ɔnɩnapʋ
 \ps n
 \ge cook
+\is 5.2.1
 \de someone who cooks
 \nt From ths: words for cooking: nɩna (general, also boil), bwa (fry, and dry fry), tɔ (roast over coals, bake)
 \bb Stewart List:2254
 \bb Stewart List:2806
-\dt 05/Nov/2015
+\dt 12/Dec/2016
 
 \lx nka
 \ph ŋka
@@ -23091,6 +23101,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \is 5.2.2.7
 \de to drink s.t.
 \bb Stewart List:2033
+\rf Tape:5-1-451
+\xv Ɔtsɩ amʋ tonun nta dʋbɩ.
+\xe The girl drinks palm wine too much.
 \se nun Plankɩ
 \ge understand Nkonya
 \is 3.5.3
@@ -23098,9 +23111,6 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Otonun Plankɩ.
 \xe He understands Nkonya.
 \xl He drinks Planke. (the stream that flows through Wurupong).
-\rf Tape:5-1-451
-\xv Ɔtsɩ amʋ tonun nta dʋbɩ.
-\xe The girl drinks wine too much.
 \sn 2
 \ps v
 \ge bask
@@ -23125,7 +23135,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe smoke marijuana
 \xv Otonklo nun maalɛ, tsufɛ ɩtɛha ɩlɔ.
 \xe Smoking tobacco is not good because it causes sickness.
-\dt 29/Nov/2016
+\dt 12/Dec/2016
 
 \lx nuusɩ
 \ph núːsɪ́
@@ -23206,8 +23216,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \se nwɛ owunpʋ
 \ps n
 \ge merciful person
+\is 4.4.4.1
 \de one who is merciful
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx nwɛn
 \ph ŋʷɛ́ʔ
@@ -23745,8 +23756,9 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \se onyansapʋ
 \ps n
 \ge wise man
+\is 3.2.1.3
 \de wise man
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx nyanya
 \ph ɲáɲaʔ
@@ -24842,7 +24854,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 2.1.3.2
 \de shin
 \cf konti
-\se ofintɔ
 \ps n
 \ge shin
 \de lower leg, just below the knee
@@ -24852,7 +24863,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ndɩn ɔlɔ kpɔnkpɔɔntɩ mʋ́ ofinsʋ.
 \xe I have a big sore on my shin.
 \bb SIL-AWL:0067
-\dt 08/Sep/2016
+\dt 12/Dec/2016
 
 \lx ofobi
 \ph ofobí
@@ -28632,12 +28643,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se Ɩpwɛ Ɔdɛkɛtrakɛ
 \ps TIME
 \ge Third day
+\is 8.4.1.2.2
 \de the Southern dialect has two days called Ɔdɛkɛtrakɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, two days following Ɩpwɛ and Kulihɛ Ɔdɛkɛtrakɛ, two days following Kulihɛ.
 \na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \vad Yinke
 \ve Northern
 \cf Ɩpwɛ
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx ɔdɩ
 \ph ɔdɪ́
@@ -29276,9 +29288,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se da ɔkan
 \ps v
 \ge proclaim
+\is 3.5.1.2.1
 \de to beat gong-gong; to proclaim something
 \cf ɔkan ɔdapʋ
-\dt 28/Nov/2016
+\dt 12/Dec/2016
 
 \lx ɔkan ɔdapʋ
 \ph ɔkã ɔdapʋ́
@@ -29629,9 +29642,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:1174
 \se da ɔkpa
 \ps v
-\ge correct
+\ge correct, righteous
 \is 8.3.7.7
-\de to be the correct one
+\de to be the correct one; to be righteous
 \rf Tape:5-2-479
 \xv Asʋn amʋ da ɔkpa wanklaan.
 \xe That word is the right one.
@@ -29654,12 +29667,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-503
 \xv Notu ɔkpa tɩntɩn ɩkʋ.
 \xe I will go on a long journey.
-\se gya X ɔkpa
-\ps v
-\ge trace
-\is 7.2.6
-\de to trace X
-\rf Tape:5-2-507
 \ps n
 \sn 2
 \ge space
@@ -29674,7 +29681,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge permit
 \is 3.3.4.1
 \de to give permission
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx ɔkpa otupʋ
 \ph ɔk͡pa otupʊ
@@ -29855,6 +29862,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se ɔkpɛ ɔfʋlɩpʋ
 \ps n
 \ge trumpeter
+\is 4.2.3.4
 \de trumpeter
 \ps n
 \sn 2
@@ -29864,7 +29872,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Yibi ɔkanpʋ amʋ lɔfʋlɩ ɔkpɛ ha aha bɛtsɛ.
 \xe The car driver is blowing his horn in order to make people move out of his way.
 \rf Tape:5-2-536
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx ɔkpɛ
 \hm 2
@@ -32696,13 +32704,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph lɛ́ ɔwãʔ
 \ps v
 \ge announce
+\is 3.5.1.2.1
 \de to announce s.t.
 \xv Balɛ owie amʋ ɔwan suna Ɔmanhene amʋ.
 \xe They have shown the chief to the Paramount Chief.
 \rf Tape:6-1-264
 \xv Bɛ́lɛ owie pɔpwɛ amʋʋ bakɩta amʋ ɔwan ɔkɛ.
 \xe The new chief that they have caught will be revealed tomorrow.
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx ɔwankɩtɩ
 \ph ɔwãŋkɪtɪʔ
@@ -33781,6 +33790,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge play
+\is 3.4.1.1.1
 \is 4.2.2.3
 \is 4.2.7
 \de play
@@ -33794,10 +33804,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se opleiba
 \ps n
 \ge playmate
+\is 3.4.1.1.1
+\is 4.2.2.3
+\is 4.2.7
 \de playmate
 \se plei X sʋ
 \ps v
-\ge be rude to
+\ge be rude
+\is 4.3.7.1
 \de To be rude to someone
 \rf Tape:2-1-251
 \xv Kofi ladan dʋn fʋ, sʋ maplei mʋ sʋ.
@@ -33805,10 +33819,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se plei Xtɔ
 \ps v
 \ge not take seriously
+\is 3.1.2.3
 \de to underestimate s.o. or s.t.
 \xv Ɔtɔwa ɔsa nya ɔblɔ. Maplei mʋtɔ.
 \xe He gets angry quickly. Don't underestimate him.
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx pleia
 \ph pléíáʔ(L)
@@ -33879,8 +33894,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se plɔhɛ
 \ps ADJ
 \ge rotten
-\de rotten
-\dt 01/Nov/2016
+\is 8.3.7.8
+\de having rotted
+\dt 12/Dec/2016
 
 \lx po
 \ph pó
@@ -34862,11 +34878,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se sesei
 \ps TIME
 \ge immediately
+\is 8.4.6.3.1
 \nt Southern dialect uses sei for now, sesei for immediately. Northern uses sesei for now, sesesei for immediately
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx sɛ
 \hm 1
@@ -35269,12 +35286,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge anchor
-\is 6.4.5
+\is 6.4.5.3
 \is 7.2.4.2.1
 \de anchor for a boat
 \xv Simpi gyi ɔpʋsʋ yibi breki nɩ.
 \xe The ship uses its anchor as brake.
-\dt 19/Jul/2016
+\dt 29/Nov/2016
 
 \lx sin
 \ph sĩʔ(L)
@@ -35914,6 +35931,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se atɔ susuhɛ
 \ps n
 \ge measurement
+\is 8.2.8
 \de something used in measuring
 \ps v
 \sn 2
@@ -35924,7 +35942,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔmɔyɔ sukuu, mʋ́sʋ olosusu ánɩ́ mʋ sɩ ɔbɛ́da mʋ.
 \xe He didn't go to school, so he thought that his father would hit him.
 \bb Stewart List:2079
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx sutin
 \ph sútĩ́ʔ
@@ -36091,6 +36109,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se atɔ sʋrahɛ
 \ps n
 \ge head load
+\is 7.3.1
 \de something carried on the head
 \xv atɔ ɔsʋrapʋ
 \xe carrier
@@ -36107,8 +36126,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph sʊrálɛ́
 \ps ADJ
 \ge easy to carry
+\is 6.1.3.1
+\is 7.3.1
 \de easy to carry
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx sʋra
 \hm 3
@@ -36124,9 +36145,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se su ɩsʋra
 \ps v
 \ge be widowed
+\is 4.1.9.3
 \de to be a widow or widower
 \cf ɔsʋrapʋ
-\dt 01/Nov/2016
+\dt 12/Dec/2016
 
 \lx sʋrama
 \ph sʊramá
@@ -36591,7 +36613,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge claim protection
 \is 4.4.4.5
-\is
 \de take refuge in; to claim protection
 \rf Tape:7-1-356
 \xv Nɩ kebi ɔtanʋ ɔha a, bʋtamada mʋ.
@@ -36601,11 +36622,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt and the one chasing you says "Fʋ nwun nkpa."
 \se ɔtanʋkpa
 \ps n
-\ge place of refuge
+\ge refuge
+\is 4.4.4.5
 \de place of refuge
 \xv Yesutɔ gyi mɩ ɔtanʋkpa.
 \xe In Jesus is my refuge.
-\dt 28/Nov/2016
+\dt 12/Dec/2016
 
 \lx tapʋ
 \ph tápʊ́
@@ -37440,6 +37462,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se tɔhɛ
 \ps ADJ
 \ge roasted
+\is 5.2.1.1
 \de something roasted
 \ps vt
 \sn 2
@@ -37457,7 +37480,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge die
 \is 2.6.6
 \de to die (Euphemism)
-\dt 07/Sep/2016
+\dt 12/Dec/2016
 
 \lx tɔ
 \hm 2
@@ -37520,6 +37543,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se ɩtɔɩ
 \ps n
 \ge speech
+\is 3.5.1.1.6
 \de speech; manner of speaking
 \se ɔnɔsʋ ɔtɔɩpʋ
 \ps n
@@ -37534,7 +37558,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge prophet
 \is 4.9.4.6
 \de prophet
-\dt 28/Nov/2016
+\dt 12/Dec/2016
 
 \lx tɔɩ kpla
 \ph tɔ́ɪ́ k͡plá(H)
@@ -37573,9 +37597,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se atɔkʋ anyɔ
 \ps n
 \ge two things
+\is 8.1.1.1.2
+\is 9.1.3
 \de two things
 \cf ɔlɔkʋ
-\dt 19/Jul/2016
+\dt 12/Dec/2016
 
 \lx tɔkʋtɔkʋ
 \ph tɔkʊtɔ́kʊ̂ʔ(L)
@@ -38076,6 +38102,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge instance
+\is 8.4.6.6
 \is 9.1.2.1
 \de instance, number of times
 \rf Tape:6-1-527
@@ -38093,20 +38120,30 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se tsenyɔ
 \ps n
 \ge twice
+\is 8.1.1.1.2
+\is 8.4.6.6
+\is 9.1.2.1
 \de twice
 \cf tse
 \cf -nyɔ
 \se tsesa
 \ps n
 \ge three times
+\is 8.1.1.1
+\is 8.4.6.6
+\is 9.1.2.1
 \de three times
 \cf tse
 \cf asa
 \se tsenyɔ-tsesa
 \ps n
 \ge multiple
+\ge twice
+\is 8.1.1.4
+\is 8.4.6.6.1
+\is 9.1.2.1
 \de many times over
-\dt 18/Oct/2016
+\dt 12/Dec/2016
 
 \lx tsebi
 \ph t͡sébi(L)
