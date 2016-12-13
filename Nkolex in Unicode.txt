@@ -267,6 +267,9 @@
 \ps n
 \sn
 \ge palm fruit
+\is 1.5.1
+\is 1.5.5
+\is 5.2.3.1.1
 \is 6.2.1.7
 \de palm fruits
 \nt singular is bebi
@@ -274,15 +277,16 @@
 \xe When you pound palm fruits you will take the kernels and the fibres out of it.
 \nt lɛ mʋ́ lɛ means to take something out of something
 \rf Tape:1-1-060
+\cf abɛtɛ
+\cf atoli
 \cf ɔbɛ
 \cf kɛnkɛ2
 \cf nkɩsɛ
 \cf opegya
-\cf atoli
 \cf ibian
 \cf lɛbɛ
 \cf ɔbɛkʋtʋ
-\dt 31/May/2016
+\dt 01/Dec/2016
 
 \lx abi
 \ph abi(H)
@@ -681,13 +685,15 @@
 \sn
 \ge farming area
 \is 6.2.2
+\is 6.5.1.3
+\is 6.8.1.1
 \de farming area
 \xv Fʋ adɔbʋ gyi ɔtɩnɛ ánɩ́ fʋtɔdɔ.
 \xe Your farming area is the place that you farm.
 \xv Anɩ adɔbʋ bʋ Oduabone abɔɩtɔ.
 \xe Our farming area is in Oduabone area.
 \cf ɔdɔbʋtsa
-\dt 10/Feb/2014
+\dt 29/Nov/2016
 
 \lx adɔdɩ
 \ph adɔdɪ
@@ -708,7 +714,8 @@
 \xv Bʋtegyi adɔmpɔ fɛ nfɔ pɛpɛ.
 \xe They eat shea butter like red oil.
 \bb Stewart List:1239
-\dt 11/Jun/2014
+\cf klenku oyi
+\dt 01/Dec/2016
 
 \lx aduenu
 \ph aduenu(H)
@@ -920,14 +927,14 @@
 \plph ɱfrímú
 \sn
 \ge donkey
-\is 6.3.1.1
+\is 6.3.1.7
 \de donkey
 \bw Akan fi:afrim LH!H
 \xv Afrimu tɔsʋra atɔ dʋn ɔpɔnkɔ.
 \xe A donkey carries things more than a horse.
 \bb Stewart List:0630
 \sy landuu
-\dt 22/Dec/2013
+\dt 29/Nov/2016
 
 \lx afu
 \hm 1
@@ -1110,7 +1117,8 @@
 \ps n
 \sn
 \ge cassava
-\is 6.2.1.2
+\is 5.2.3.1.5
+\is 6.2.1.2.2
 \de cassava
 \bw Ewe fi:agbeli LLL
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi gari, konkonte pʋ́ agbodi mbɔdɩ.
@@ -1118,7 +1126,7 @@
 \xe They use cassava to make many foods including gari, konkonte, and cassava dough.
 \rf Tape:1-1-190
 \bb Stewart List:0908
-\dt 11/Jun/2014
+\dt 29/Nov/2016
 
 \lx agbwi
 \ph ag͡bwí
@@ -1151,6 +1159,7 @@
 \ps n
 \sn
 \ge coconut
+\is 5.2.3.1.2
 \is 6.2.1.7.1
 \de coconut
 \nt from Ewe "Agɔ de" - Agɔ palm Agɔ is near Kpalime in Togo
@@ -1159,7 +1168,7 @@
 \xe A coconut tree bears its fruit in a cluster.
 \rf Tape:1-1-205
 \bb Stewart List:0869
-\dt 31/May/2016
+\dt 29/Nov/2016
 
 \lx agoo
 \ph ágôː
@@ -1180,6 +1189,7 @@
 \ps n
 \sn
 \ge sweet potato
+\is 5.2.3.1.5
 \is 6.2.1.2
 \de sweet potato
 \bw Ewe fi:agute
@@ -1187,7 +1197,7 @@
 \xv Agude fla bʋtɔpʋ swie akosisʋ. Ɩtɔwɩ tsra asa ɔma.
 \xe Sweet potato vine they plant in mounds. It matures after three months.
 \bb Stewart List:0909
-\dt 11/Jun/2014
+\dt 29/Nov/2016
 
 \lx agya
 \ph aʤa
@@ -1371,7 +1381,7 @@
 \de yam head used for planting
 \xv Fɛbɩ kɩ fʋ agyonwunsʋ wanklaan a, fʋ igyo tɛklɛɩ.
 \xe If you know how to look after your yam seedlings well, your yams will increase.
-\dt 11/Jun/2014
+\dt 29/Nov/2016
 
 \lx agyɔ fwɩ
 \ph aʤɔ fwɪ(H)
@@ -1413,9 +1423,10 @@
 \ps n
 \sn
 \ge worker
-\de worker
 \is 6.1
-\dt 15/Jul/2016
+\is 6.1.2.3
+\de s.o. who is working
+\dt 29/Nov/2016
 
 \lx agywama
 \ph aʤwama(H)
@@ -1574,10 +1585,11 @@
 \ps n
 \sn
 \ge salary
-\is 6.8.1.5
+\is 6.8.2.7
 \is 6.8.6
+\is 6.9.2
 \de salary
-\dt 11/Jun/2014
+\dt 29/Nov/2016
 
 \lx akaʋ
 \ph akaʊ́ʔ(H)
@@ -1826,11 +1838,10 @@
 \ps n
 \sn
 \ge travel bag
-\is 6.7.3
 \is 6.7.7.1
 \is 7.2.4.1
 \de travel bag
-\dt 15/Jul/2016
+\dt 29/Nov/2016
 
 \lx akpasa
 \ph ak͡pásaʔ
@@ -1854,9 +1865,9 @@
 \ps n
 \sn
 \ge sack
-\is 6.7.3
+\is 6.7.7.1
 \de k.o. sack
-\dt 31/May/2016
+\dt 29/Nov/2016
 
 \lx akpitalɛ
 \ph ak͡pitálɛ́(L)
@@ -2422,23 +2433,29 @@
 \ps n
 \sn
 \ge cat
+\is 1.6.1.1.2
 \is 6.3.1.6
+\is 8.2.1
 \de cat
 \sc Felis silvestris catus
 \xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
 \xe The cat has climbed and entered the room's ceiling and is catching mice.
-\dt 01/May/2016
+\dt 07/Dec/2016
 
 \lx andɔbi
 \ph ándɔbi
 \ps n
 \sn
 \ge kitten
+\is 1.6.1.1.2
+\is 2.6.4
 \is 6.3.1.6
-\de small cat
+\is 8.2.1
+\is 8.4.6.5.1
+\de a small cat
 \xv Akwasi andɔbi amʋ towi aye wɩ dʋbɩ.
 \xe Akwasi's kitten steals meat too much.
-\dt 01/May/2016
+\dt 07/Dec/2016
 
 \lx anfɩ
 \ph aɱfɪ(H)
@@ -2996,23 +3013,24 @@
 \ps n
 \sn
 \ge onion
+\is 5.2.3.1.5
 \is 6.2.1.2
 \de onion
-\dt 11/Jun/2014
+\dt 29/Nov/2016
 
 \lx asawu
 \ph asawu(L)
 \ps n
 \sn
 \ge fishing net
-\is 6.4.5
+\is 6.4.5.3
 \de fishing net, thrown at the waters edge to catch small fish
 \bw Ewe fi:asabu LLL
 \xv Asawu a, fɔ́tswɩ mʋ́ wa ntsu amʋtɔ, fówun fabɩtɩa mʋ́ lɛ.
 \xe This net, you will throw it into the water and then you pull it out.
 \cf awʋlɛ
 \cf ɔdadʋwa
-\dt 29/Oct/2013
+\dt 29/Nov/2016
 
 \lx asendua
 \ph aséndua(H)
@@ -3520,9 +3538,12 @@
 \ps n
 \sn
 \ge palm kernel
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de palm kernel that has been sprayed by squirrel
-\dt 16/Jul/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx atonyahɛ
 \ph atoɲahɛ́
@@ -3790,12 +3811,19 @@
 \xe Kikidiki grows in the ground. Its head is wide and its stalk is long. It has roots but afio stalk is longer than it. They cut them up for soup.
 \rf Tape:1-2-210
 \xv Abi atsuli tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
-\xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
+\xe Seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
 \rf Tape:1-2-217
 \xv Kplokplobi tɔkwɛ oyi plɔhɛsʋ. Ɩbʋ ɔplɩ, bʋtamakwɛ mʋ́. Mʋ́a abɛ oputsu bʋ ɔdwɛ dʋbɩ.
 \xe Kploklobi grows in rotting trees, It is slippery; they never grind it. It is very good with palm nut soup.
 \bb Stewart List:0872
-\dt 29/Aug/2016
+\cf abi atsulii
+\cf atsulii bibi
+\cf deyi asʋ
+\cf kikidiki
+\cf kplokplobi
+\cf mantɛpʋ
+\cf mpionkɛntɛ
+\dt 06/Dec/2016
 
 \lx atsulii bibi
 \ph at͡sulîbibi
@@ -4058,14 +4086,14 @@
 \ps n
 \sn
 \ge net
-\is 6.4.5
+\is 6.4.5.3
 \de a weighted fishing net that is put out in the afternoon and brought back in the mornings
 \bw Akan fi:awʋ́lɛ́
 \xv Awʋlɛ mʋ́ fɔpʋ wa ntsutso a, bʋtamalɛ mʋ́ nʋnʋ.
 \xe This net, you put it into the water, you don't take it out at the same time.
 \cf asawu
 \cf ɔdadʋwa
-\dt 29/Oct/2013
+\dt 29/Nov/2016
 
 \lx awʋlɩ
 \ph awʊlɪ
@@ -4221,6 +4249,16 @@
 \rf Tape:1-2-293
 \dt 14/Jun/2016
 
+\lx baagɩ
+\ph baːgɪ
+\ps n
+\sn
+\ge bag
+\is 6.7.7.1
+\de bag
+\bw English fi:bag
+\dt 09/Dec/2016
+
 \lx baarɩ
 \ph bâːrɪ
 \ps n
@@ -4261,7 +4299,7 @@
 \plph abaflɛ́
 \sn
 \ge pawpaw
-\is 6.2.1.7
+\is 6.2.1.4
 \sc Carica papaya
 \de pawpaw
 \rf Tape:1-2-306
@@ -4272,7 +4310,7 @@
 \nt proverb
 \rf Tape:1-2-312
 \bb Stewart List:0914
-\dt 31/May/2016
+\dt 30/Nov/2016
 
 \lx baɩ
 \ph báɪ́
@@ -4421,7 +4459,8 @@
 \plph abatɛ(H)
 \sn
 \ge fowl
-\is 6.3.6
+\is 1.6.1.2
+\is 6.3.6.1
 \de domestic chicken
 \nt Etymology: bʋ atɛ / has feathers
 \na names for domestic animals have undergone taboo deformation.
@@ -4429,25 +4468,29 @@
 \xv Mɩ batɛ dɛka.
 \xe My hen is laying.
 \bb Stewart List:0711
-\dt 06/Nov/2015
+\dt 30/Nov/2016
 
 \lx batɛkokoyin
 \ph batɛkokoyĩ
 \ps n
 \sn
 \ge rooster
-\is 6.3.6
+\is 1.6.1.2
+\is 1.6.7
+\is 6.3.6.1
 \de big rooster
-\dt 28/Jul/2013
+\dt 06/Dec/2016
 
 \lx batɛtsɩhɛ
 \ph batɛt͡sɪhɛ
 \ps n
 \sn
 \ge hen
-\is 6.3.6
+\is 1.6.1.2
+\is 1.6.7
+\is 6.3.6.1
 \de hen
-\dt 12/Jun/2014
+\dt 06/Dec/2016
 
 \lx beblebe
 \ph béblébé
@@ -4648,7 +4691,8 @@
 \ps n
 \sn 1
 \ge market
-\de market
+\is 6.8.4.8
+\de marketplace
 \ps ADJ
 \sn 2
 \nt check for glottal stop
@@ -4658,7 +4702,7 @@
 \xv Tati amʋ Akua lɔhɔ amʋ bʋ bia.
 \xe The cloth that Akua bought is expensive.
 \bb Stewart List:1706
-\dt 22/Jul/2016
+\dt 30/Nov/2016
 
 \lx bia
 \hm 2
@@ -4699,6 +4743,7 @@
 \plph bíá áʤípʊ́
 \sn
 \ge merchant
+\is 6.6
 \is 6.8.4.2
 \de merchant
 \nt atɔ ɔfɛpʋ (petty trader), bia ogyipʋ (merchant)
@@ -4709,7 +4754,7 @@
 \xe The petty trader bought things in order to come and sell.
 \cf atɔ ɔfɛpʋ
 \cf gyi bia
-\dt 20/May/2016
+\dt 30/Nov/2016
 
 \lx biabia
 \ph bíábíáʔ(H)
@@ -4751,13 +4796,13 @@
 \ps n
 \sn
 \ge egusi
-\is 6.2.1.3
+\is 6.2.5.3
 \de the fruit or the seeds of the egusi plant
 \xv Mɩ biam laswie bʋla oyi tɩntɩɩntɩn kʋ. Mmeyin alɩa nɔ́bwɛ asa nɔ́kpɔtɩ mʋ́.
 \xe My egusi has born many fruit in a tall tree. I don't know how that I will make before I harvest it. (I don't know how I will pick them).
 \xe My egusi grew up into a tall tree, I don't know how I will be able to pick them.
 \rf Tape:1-2-429
-\dt 31/May/2016
+\dt 30/Nov/2016
 
 \lx bian
 \ph biãʔ
@@ -4782,13 +4827,13 @@
 \ps n
 \sn
 \ge marketplace
-\is 6.8.4.4
+\is 6.8.4.8
 \de marketplace
 \rf Tape:2-1-277
 \xv Bʋdɛ nta debidebi fɛ biasʋ.
 \xe They are selling sweet drinks in the market.
 \bb Stewart List:1167
-\dt 12/Jun/2014
+\dt 30/Nov/2016
 
 \lx bibi
 \ph bíbiʔ
@@ -5171,8 +5216,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge small pan
 \is 6.7.7
+\is 8.2.1
 \de a small pan; also used of the amount that a small pan can hold
-\dt 30/Sep/2013
+\dt 07/Dec/2016
 
 \lx blawunu
 \ph blawunuʔ
@@ -5413,12 +5459,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph abókitiʔ (L)
 \sn
 \ge bucket
+\is 1.5.3
 \is 6.6.7.2
+\is 6.7.7
 \de bucket
 \bw English fi:bucket
 \xv Otsibi amʋ dɛ atɔ fwɩ bokiti amʋtɔ.
 \xe The girl is washing in the bucket.
-\dt 22/Jul/2016
+\dt 30/Nov/2016
 
 \lx bomli
 \ph bómlí
@@ -5778,6 +5826,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph abrɔnʊ
 \sn
 \ge street
+\is 4.6.7.2
 \is 6.5.4.1
 \de street
 \bw Akan fi:brɔnʋ LH
@@ -5789,7 +5838,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nyankpʋ labila ɔba, sʋ ɔhaa ma brɔnʋsʋ. Fɔyɔ fʋméenya tɔtɔ hɔ nʋ.
 \xe Rain has darkened the sky, it's coming, so nobody is on the street. If you go, you will not get anything to buy there.
 \bb Stewart List:1175
-\dt 28/Jul/2013
+\dt 30/Nov/2016
 
 \lx bu
 \hm 1
@@ -5951,7 +6000,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge nurse
 \is 2.6.4.1.1
-\is 6.3.1
+\is 6.3.6
 \de to nurse s.t.
 \rf Tape:2-1-053
 \xv Batɛ labun mʋ abisʋ.
@@ -5975,7 +6024,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \is 8.3.1.4.1
 \de to turn something over
 \bb Stewart List:2752
-\dt 13/Sep/2016
+\dt 30/Nov/2016
 
 \lx bunti
 \ph buntîʔ
@@ -6248,7 +6297,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn 3
 \ge weedy
-\is 6.2.1.1
+\is 6.2.4
 \de full of weeds
 \xv Ndobi amʋtɔ fɛ́ɛ́ labʋla.
 \xe The garden was full of weeds.
@@ -6257,7 +6306,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe He should go today because his corn is full of weeds.
 \cf ɔbɔ2
 \bb Stewart List:2488
-\dt 13/Sep/2016
+\dt 30/Nov/2016
 
 \lx bʋmblaan
 \ph bʊ́mblã́ː
@@ -6273,13 +6322,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge crow
-\is 6.3.6
+\is 1.6.1.2
+\is 1.6.4.3
+\is 6.3.6.1
 \de a rooster's crowing
 \rf Tape:1-2-585
 \xv Nɩ fonu batɛ dɛbʋn bakɛ a, mɩdɛ fʋ pan da.
 \xe If you hear the rooster crowing, that's me thanking you.
 \bb Stewart List:2202
-\dt 12/Jul/2014
+\dt 06/Dec/2016
 
 \lx bʋnda tswɩ
 \ph bʊnda t͡swɪ
@@ -6775,8 +6826,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge small box
 \is 6.7.7
 \is 6.8.1.4
+\is 8.2.1
 \de a small box; chest
-\dt 15/Jul/2016
+\dt 07/Dec/2016
 
 \lx dakpadakpa
 \ph dak͡padak͡pa
@@ -6932,7 +6984,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge fluff
-\is 6.3.6
+\is 1.5.1
+\is 1.5.5
+\is 6.2.5.4
 \de fluff from the silk cotton tree
 \xv Kɛlɩ oyi a, mʋ́ abi amʋ tɛfa wunya dantapu.
 \xe Silk cotton tree's pods burst and spread fluff.
@@ -6940,7 +6994,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-187
 \xv Kpa dantapu amʋ wa kɛntɛ amʋtɔ, abɩn mʋ bwɛ sumuɛ.
 \xe Gather the kapok and put it in the bag so that we sew it into a pillow.
-\dt 30/Jun/2014
+\dt 01/Dec/2016
 
 \lx datii
 \ph dátíː
@@ -6969,14 +7023,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge nail
-\ge small metal thing
 \is 6.6.3
+\de a carpenter's nail
 \xv Lɛ ɔdatobi bɛda ɩban amʋ ha mɩ.
 \xe Remove a nail (from where it is) and come in order to hammer it into the fence. Remove a nail to hammer it into the fence for me.
 \rf Tape:6-1-332
 \xv Datɔbi kʋ pɛ bʋtɔpʋ wa ɔpɔnkɔ ɔnɔ, pʋ damli mʋ suna mʋ tɔa ɔbwɛ.
 \xe A small bit only they put in a horse's mouth, to turn it and show it what it should do.
-\dt 02/Nov/2015
+\dt 07/Dec/2016
 
 \lx datɔ
 \ph dátɔ (L)
@@ -7497,6 +7551,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge weed
 \is 6.2.2
+\is 6.2.4
 \de weed with a cutlass
 \rf Tape:2-1-354
 \xv Dɔ ndɔ amʋ ɩpɩn wanklaan ha mɩ.
@@ -7506,7 +7561,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge farm
 \de to make a farm
-\dt 02/Nov/2015
+\dt 01/Dec/2016
 
 \lx dɔ
 \hm 2
@@ -7602,6 +7657,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge plant
 \is 6.2.1.1
+\is 6.2.3
 \de sow seeds
 \rf Tape:2-1-362
 \xv Nóyodu kpoli ɔkɛ.
@@ -7609,7 +7665,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:2799
 \bb Stewart List:2800
 \nt From ths: words for planting: swie (set out/transplant - plantain, cassava, nursed plants), du (plant seeds corn), da (set out yam, cocoyam, peanuts)
-\dt 30/Jun/2014
+\dt 01/Dec/2016
 
 \lx dua
 \ph duá
@@ -7666,12 +7722,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge leak
 \is 1.3.2.3
 \is 6.7.7
-\de leak
+\de to leak
 \rf Tape:2-1-377
 \xv Bokiti amʋ dedudu, sʋ ntsu dɛdwɩɩ da ɔsʋlʋtɔ.
 \xe The bucket is leaking. Water is dripping onto the ground.
 \bb Stewart List:2495
-\dt 28/Nov/2016
+\dt 01/Dec/2016
 
 \lx duku
 \ph dúkuʔ
@@ -7757,9 +7813,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge tribute
 \is 4.6.6
-\is 6.9.2
+\is 6.8.8
 \de money to paid to a ruler for acknowledgement
-\dt 12/Jul/2014
+\dt 01/Dec/2016
 
 \lx dʋ
 \ph dʊ́
@@ -7979,13 +8035,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge axe
 \is 6.2.8
+\is 6.7.1
 \de axe
 \rf Tape:5-2-334
 \xv Mbʋ ɛfɛ kʋ, mʋ́ ɔnɔ bʋ ogya.
 \xe I have an axe, it is sharp.
 \cf limba
 \bb Stewart List:1201
-\dt 06/Oct/2016
+\dt 01/Dec/2016
 
 \lx ɛkɛ
 \ph ɛkɛ
@@ -8044,6 +8101,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge calabash
 \is 1.5.3
 \is 1.5.5
+\is 5.2.2.8
 \is 6.7.7
 \de calabash
 \xv Kebi amʋ dɛ ntsu nun ɛwɛ amʋtɔ.
@@ -8053,7 +8111,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Bring the calabash so that I can fetch water.
 \cf onuwe
 \bb Stewart List:1210
-\dt 06/Oct/2016
+\dt 01/Dec/2016
 
 \lx fa
 \hm 1
@@ -8143,12 +8201,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph afaːsɪ (H)
 \sn
 \ge water yam
+\is 1.5.3
+\is 5.2.3.1.5
 \is 6.2.1.2
 \de water yam
 \rf Tape:2-1-448
 \xv Faasɩ tɔyɔpɔn dʋn igyo, sʋ megyi mʋ́ fɛ́ɛ́ bʋtɔpʋ wɔ fufu. Ɩbʋ alɛ ha nyɔmba.
 \xe Water yam is softer than yam so all of it isn't good for making fufu. It is good for nyɔmba.
-\dt 22/Jul/2016
+\dt 01/Dec/2016
 
 \lx Fada
 \ph fáda
@@ -8214,7 +8274,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge sell
-\is 6.8.4.8
+\is 6.8.4.2
 \de to sell
 \rf Tape:2-1-461
 \xv Fɛ́fɛ mʋ́ fɛ́ɛ́.
@@ -8222,7 +8282,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-464
 \xv Ndɛ atɔ fɛ biasʋ.
 \xe I am selling things at the market.
-\dt 12/Dec/2013
+\dt 01/Dec/2016
 
 \lx fɛ
 \hm 2
@@ -8475,10 +8535,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge jute
-\is 6.6.4.3
-\is 6.7.3
+\is 1.5.3
+\is 6.6.1
 \de sisal like plant used to weave opuntu bags
-\dt 13/Jul/2014
+\dt 01/Dec/2016
 
 \lx finfi
 \ph fiɱfiʔ(L)
@@ -8609,7 +8669,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge lie in wait; set trap
-\is 6.2.1.1
+\is 6.4.2
 \de to lie in wait; to set a trap
 \rf Tape:2-1-525
 \xv Nɩ atapʋ bɔyɔ tapʋtɔ a, bʋtɛyɛfɩnɩ.
@@ -8619,7 +8679,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \bb Stewart List:2682
 \bb Stewart List:2868
 \cf ma3
-\dt 09/Nov/2015
+\dt 01/Dec/2016
 
 \lx fɩnkɩ
 \ph fɪŋkɪ́
@@ -8698,12 +8758,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge castrate
-\is 6.3.1
+\is 2.6.5.1
+\is 6.3.8.2
 \de castrate
 \xv Ndekle ánɩ́ mɩ okpokpo omoni sʋ a, naflo mʋ.
 \xe I want my ram to be big so I have castrated him.
 \bb Stewart List:2852
-\dt 17/Jun/2014
+\dt 01/Dec/2016
 
 \lx flɔɩ
 \ph flɔ́ɪ́
@@ -8762,6 +8823,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf fakaa
 \bb Stewart List:1694
 \dt 01/May/2016
+
+\lx foto
+\ph foto
+\ps n
+\sn
+\ge photograph
+\is 6.6.5.2
+\de photograph
+\bw English fi:photo
+\dt 06/Dec/2016
 
 \lx fówun
 \ph fówũʔ
@@ -9300,10 +9371,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge garlic
+\is 5.2.3.3.3
 \is 6.2.1.2
 \de garlic
 \bw English fi:garlic
-\dt 30/Sep/2016
+\dt 01/Dec/2016
 
 \lx galɔn
 \ph gálɔ̃ʔ
@@ -9313,9 +9385,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge gallon
 \is 6.7.7
+\is 8.2.5.1
 \de a gallon container; also used of the amount.
 \bw English fi:gallon
-\dt 30/Sep/2013
+\dt 01/Dec/2016
 
 \lx ganu
 \ph ganú
@@ -9492,18 +9565,21 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 2
 \ge hump
+\is 1.6.2
 \is 6.3.1.1
-\de hump on the back of a cow
-\dt 11/Sep/2016
+\de hump on the back of zebu cattle
+\dt 01/Dec/2016
 
 \lx gowa
 \ph gowa
 \ps n
 \sn
 \ge guava
-\is 6.2.1.7
+\is 1.5.1
+\is 6.2.1.4
 \de guava fruit
-\dt 31/May/2016
+\sc Psidium guajava
+\dt 01/Dec/2016
 
 \lx gya
 \ph ʤaʔ (L)
@@ -9632,7 +9708,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge trap
-\is 6.4.5
+\is 6.4.5.3
 \de fish trap
 \rf Tape:2-2-185
 \xv Aye babʋla gyakuo amʋ.
@@ -9642,7 +9718,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge eyeglasses
 \is 2.3.1.9
 \ee lit. 'eye traps' from the shape of the fish trap
-\dt 31/Oct/2016
+\dt 29/Nov/2016
 
 \lx gyampi
 \ph ʤampí
@@ -10200,8 +10276,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge work
 \is 6.1
+\is 6.6
+\is 6.9.2
 \de work
-\dt 20/May/2016
+\dt 01/Dec/2016
 
 \lx gyʋra
 \ph ʤʊrâʔ
@@ -10300,11 +10378,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge handcuffs
-\is 6.6.2.3
+\is 4.6.6.1
+\is 4.7.7.3
+\is 7.2.6.2
 \de handcuffs
 \xv Bawa kebi amʋ olowi batɛ amʋ hankɔpʋ.
 \xe The boy that stole the fowl has been handcuffed.
-\dt 30/Jun/2014
+\cf ɩkan
+\dt 01/Dec/2016
 
 \lx hata
 \ph hata
@@ -10438,7 +10519,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn 3
 \ge force
-\is 6.1.2.3.2
+\is 3.3.1.6
 \de to be determined to do something
 \ps v
 \sn 4
@@ -10450,7 +10531,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-341
 \xv Ɔbʋ akɩlɛ.
 \xe She is beautiful.
-\dt 21/Jul/2016
+\dt 01/Dec/2016
 
 \lx hɩɛ nsʋ
 \ph hɪɛ nsʊ
@@ -10693,6 +10774,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph abébi
 \sn
 \ge palm kernel
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de palm kernel
 \rf Tape:1-1-070
@@ -10704,7 +10787,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe When palm nuts stay in the ground they germinate and produce palm trees.
 \rf Tape:1-1-077
 \rf Tape:1-2-362
-\dt 31/May/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx ibi
 \ph ibí (H)
@@ -10759,15 +10843,19 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge palm fruit
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de k.o palm fruit
-\dt 19/Aug/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx ibu
 \ph ibúʔ
 \ps n
 \sn
 \ge hut
+\is 1.5.3
 \is 6.5.1.2
 \de hut made on the farm
 \rf Tape:2-2-378
@@ -10775,7 +10863,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I put up a hut on my farm.
 \bb Stewart List:1282
 \cf akuda
-\dt 20/May/2016
+\dt 01/Dec/2016
 
 \lx ibun
 \ph ibṹʔ
@@ -10997,6 +11085,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge yam
+\is 1.5.3
 \is 6.2.1.2
 \de yam
 \nt one yam is ogyo
@@ -11004,7 +11093,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Ofienɩ igyo kpalobi pɛ nada.
 \xe This year I have only planted a few yams.
 \bb Stewart List:0910
-\dt 12/Jul/2014
+\dt 01/Dec/2016
 
 \lx igyopin
 \ph iʤopĩ
@@ -11012,11 +11101,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge slice
 \is 5.2.1.2
+\is 5.2.3.1.5
 \is 5.2.3.4
 \is 6.2.1.2
-\is 6.8.4.8
 \de yam slice
-\dt 30/Jun/2014
+\dt 06/Dec/2016
 
 \lx ihogyi
 \ph ihóʤi
@@ -11053,13 +11142,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph ak͡pĩʔ
 \sn
 \ge garden egg
+\is 5.2.3.1.3
 \is 6.2.1.3
 \de egg plant; garden egg
 \rf Tape:2-2-394
 \xv Bʋtɔpʋ akpin wa oputsutɔ; bʋtɔpʋ kwɛ aboun ɛ.
 \xe They take garden eggs and put them in soup and they grind them and put them in stew also.
 \rf Tape:1-1-349
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx iku
 \ph ikúʔ
@@ -11185,9 +11275,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \dt 18/Jul/2016
 
 \lx ipi
+\hm 1
 \ph ipíʔ (H)
 \ps n
-\sn 1
+\sn
 \ge rubbish
 \is 8.3.7.8.3
 \de rubbish gathered and thrown away
@@ -11198,16 +11289,25 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fɛɩ afʋkpa ipi amʋ yetsitsa.
 \xe Sweep so that you can gather the rubbish and throw it out.
 \cf mbepi
+\dt 06/Dec/2016
+
+\lx ipi
+\hm 2
+\ph ipíʔ (H)
 \ps n
-\sn 2
+\sn
 \ge thatch
+\is 1.5.3
+\is 1.5.5
+\is 6.2.5.4
+\is 6.5.2.2
 \is 6.5.3
 \de kind of grass used in hatching houses
 \xv Ipi tamalɩɩ wa ɔpá. Bʋtɔpʋ bua obu.
 \xe Thatch doesn't stay long. It is used for thatching.
 \na Thatch dies in October
 \bb Stewart List:1520
-\dt 28/Nov/2016
+\dt 07/Dec/2016
 
 \lx ipian
 \ph ipiã(H)
@@ -11545,22 +11645,29 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \pl aye
 \plph ayeʔ
-\sn
-\ge meat; fish
+\sn 1
+\ge fish
+\is 1.6.1.5
+\is 5.2.3.2.1
 \is 6.4.5
 \de meat; fish
 \rf Tape:2-2-467
-\xv Ntsutso iye fɛnɩna, ntɛ ɔbwɩ iye.
-\xe Have you cooked fish or animal meat.
+\xv Ntsutso iye fɛnɩna, ntɛ ɔbwɩ iye?
+\xe Have you cooked fish or animal meat?
+\cf iye ɔlɛpʋ
+\bb Stewart List:0028
+\bb SIL-AWL:0089
+\sn 2
+\ge meat
+\is 2.1.7
+\is 5.2.3.2.1
+\de meat
 \xv Fʋdɛ aye asʋn a, aye tɛba.
 \xe If you hold a meat case, meat will come.
 \xe If you talk about a case, a similar case will occur
 \nt You should not speak about bad news lest it happen to you.
 \nt proverb
-\cf iye ɔlɛpʋ
-\bb Stewart List:0028
-\bb SIL-AWL:0089
-\dt 01/Feb/2014
+\dt 06/Dec/2016
 
 \lx iye
 \hm 2
@@ -11578,9 +11685,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge fisherman
-\is 6.6
+\is 6.4.5.1
 \de fisherman
-\dt 19/Aug/2016
+\dt 29/Nov/2016
 
 \lx iyin
 \ph iɲĩ́ʔ
@@ -11774,6 +11881,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn 1
 \ge bathroom plant
+\is 2.5.7.3
 \is 5.6.2
 \is 6.5.1.4
 \de a plant that is grown for medicine in the wash area
@@ -11785,7 +11893,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \is 4.1.9.2.1
 \de a wife that is given from the family
 \na One must take care of such a wife very well because to spoil such a marriage brings enmity between family members. Just as if you destroy a plant carefully tended in the wash area. It would not be available when needed for a sick person.
-\dt 20/Jul/2016
+\dt 06/Dec/2016
 
 \lx ɩbɛ
 \ph ɪbɛʔ(H)
@@ -11820,6 +11928,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph mbɛ́tɛʔ
 \sn
 \ge palm thorn
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de thorny part of a palm nut head
 \va abɛtɛ
@@ -11833,7 +11943,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe The time that I am removing palm nuts from the stalk, bɛtɛ will pierce my hand.
 \xe When I was shucking palm nuts the thorny bits pricked me.
 \rf Tape:5-2-150
-\dt 18/Oct/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx ɩbɩ
 \ph ɪbɪʔ
@@ -12331,13 +12442,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge pad
-\is 6.7.6
+\is 6.7.3
 \de pad for carrying a load on the head
 \rf Tape:2-2-575
 \xv Mmeyin alɩ ánɩ́ bʋtɛla blɔdɩ atɛ ɩká.
 \xe I don't know how they make pad out of plantain leaves.
 \bb Stewart List:1221
-\dt 22/Jul/2016
+\dt 29/Nov/2016
 
 \lx ɩka pɛpɛ
 \ph ɪka pɛpɛʔ
@@ -12373,11 +12484,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge chains
-\is 6.6.2.3
+\is 4.7.7.3
 \de chains
 \xv Bɔwa Paulo ɩkan.
 \xe Paul was chained.
-\dt 13/Jul/2014
+\cf hankɔpʋ
+\dt 01/Dec/2016
 
 \lx ɩklʋn
 \hm 1
@@ -12905,11 +13017,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge tree, k.o.
-\is 6.2.5.4
-\de a type of a tree
+\de 1.5.1
 \xv Ɩnya oyi tetsia dimbisʋ, bʋtɔpʋ yi mbu.
 \xe The tree is found in the grassland they use it to build houses.
-\dt 12/Jul/2014
+\dt 01/Dec/2016
 
 \lx ɩnyɩn
 \ph ɪɲɪ̃ʔ (H)
@@ -12978,9 +13089,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge hire
-\is 6.8.6
+\is 6.9.2
 \de to ask someone to do something for payment
-\dt 30/Jun/2014
+\dt 06/Dec/2016
 
 \lx ɩpan
 \ph ɪpã́ʔ
@@ -13515,10 +13626,9 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge hoof
 \is 1.6.2
-\is 6.3
 \is 6.3.4
 \de hoof
-\dt 30/Jun/2014
+\dt 29/Nov/2016
 
 \lx ɩwɩ
 \ph ɪwɪʔ(H)
@@ -13977,8 +14087,6 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps v
 \sn
 \ge weigh
-\is 6.8.4.4
-\is 7.2.4
 \is 8.2.8
 \de weigh
 \bb Stewart List:2827
@@ -13988,7 +14096,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \nt From ths: words used in measuring kapʋ (measure height/depth), susu (measure amount), kali (weigh)
 \bb Stewart List:2827
 \cf susu
-\dt 01/May/2016
+\dt 06/Dec/2016
 
 \lx kan
 \hm 1
@@ -14097,10 +14205,11 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \plph akaŋkaba
 \sn
 \ge orange
-\is 6.2.1.4
+\is 1.5.1
+\is 5.2.3.1.2
 \de orange; citrus fruit
 \bb Stewart List:0903
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx kantankpa
 \ph kantaŋ͡mk͡pa
@@ -14216,8 +14325,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \rf Tape:3-1-447
 \xv Nofwi ogya amʋ kasian metsii, saa ngya amʋ mɔkʋ wʋlɩ.
 \xe I fanned the fire unsuccessfully, it didn't flame. Unexpectedly, the wood was not dry.
-\cf kpali
-\dt 20/May/2016
+\cf kpaalɩ
+\xv Nakɩ mʋ́ kpaalɩ.
+\xe I watched it but nothing happened.
+\xv Nakɩ mʋ́ kasian.
+\xe I looked but couldn't see it.
+\dt 09/Dec/2016
 
 \lx kasɩ
 \ph kásɪ́
@@ -14455,7 +14568,8 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \nt idiom
 \rf Tape:3-1-505
 \bb Stewart List:0878
-\dt 15/Oct/2016
+\cf dantapu
+\dt 01/Dec/2016
 
 \lx kɛmɛ
 \ph kɛmɛ
@@ -14549,9 +14663,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps n
 \sn
 \ge palm nut
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de immature palm nut
-\dt 31/May/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx kɛntɛ
 \ph kɛntɛʔ
@@ -14560,14 +14677,13 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \plph akɛntɛ
 \sn
 \ge bag
-\is 6.7.3
+\is 6.7.7.1
 \de bag
 \cf kotokuo
 \rf Tape:3-1-510
 \xv Napʋ tɔkʋ wa mɩ kɛntɛtɔ, lɛ mʋ́ ba mɩ. Megyi mɩ atadɩɛ kɛntɛtɔ, mboun kɛntɛ sʋra atɔ amʋtɔ.
 \xe I have put something in my bag, remove it and bring it to me. It isn't in my pocket but in the carrying bag.
-\nt From ths: words for carrying things: kɛntɛ (bag, pocket), kotokuo (sack), lakpa (basket), blawunu (palm frond basket), bɛnsɩ sʋratɔ (carrying basin)
-\dt 28/Apr/2016
+\dt 09/Dec/2016
 
 \lx kɛtsɛkɛtsɛ
 \ph kɛt͡sɛkɛt͡sɛ
@@ -14779,6 +14895,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps ADV
 \sn
 \ge seriously; firmly
+\is 6.1.2.1
 \is 6.1.2.3.4
 \de seriously
 \cf kinkin
@@ -14790,7 +14907,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xe Talking drums and dance groups stand on it earnestly.
 \xv Ɔlɔbɔ mpaɩ kʋlɩ Bulu kinkiinkin ánɩ́ nyankpʋ mátswie; lɛlɛ nyankpʋ motswie nfinsa mʋ́a fʋn.
 \xe He prayed begging God seriously that it wouldn't rain, and truly it did not rain for three and a half years.
-\dt 01/Oct/2016
+\dt 06/Dec/2016
 
 \lx kinkin
 \ph kĩ́kĩ́
@@ -14799,7 +14916,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge seriously
 \is 6.1.2.3.4
 \de less intense form of kinkiinkin
-\dt 01/May/2016
+\dt 06/Dec/2016
 
 \lx kinkin
 \ph kĩ́kĩ́ (H)
@@ -14939,6 +15056,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \plph akɪ́aɪʔ
 \sn
 \ge dog
+\is 1.6.1.1.2
 \is 6.3.1.5
 \de dog
 \rf Tape:3-2-008
@@ -14949,16 +15067,19 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xe They whistle to call dogs.
 \ng pʋ tɩ take/call pʋ ɔfʋlɩ tɩ
 \bb Stewart List:0612
-\dt 28/Apr/2016
+\dt 06/Dec/2016
 
 \lx kɩaɩbi
 \ph kɪaɪbi
 \ps n
 \sn
 \ge pup
+\is 1.6.1.1.2
+\is 2.6.4
 \is 6.3.1.5
+\is 8.4.6.5.1
 \de small dog
-\dt 28/Apr/2016
+\dt 07/Dec/2016
 
 \lx kɩansɩ
 \ph kɪansɪ́
@@ -15044,12 +15165,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \bb Stewart List:2665
 \bb Stewart List:2678
 \bb Stewart List:2881
-\se kɩta agywɩɩn
-\ps v
-\ge plan
-\is 6.1.2.5
-\de to plan something
-\dt 31/Oct/2016
+\dt 09/Dec/2016
 
 \lx kɩta agywɩɩn
 \ph kɪ́táːʤwɪ̃ː(H)
@@ -15110,6 +15226,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps n
 \sn
 \ge ground nut
+\is 1.5.3
 \is 5.2.3.1.1
 \is 6.2.1.2
 \de ground nut
@@ -15120,7 +15237,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xv Bɩnasʋ afʋn anyɔ amʋ ɛ a, bɔ́pʋ lɛ kɩtɩba oputsu.
 \xe The two left sides also they will take and make groundnut soup with.
 \bb Stewart List:0911
-\dt 29/Nov/2016
+\dt 06/Dec/2016
 
 \lx kɩtɩblʋn
 \ph kɪtɪblʊ̃
@@ -15230,6 +15347,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge sharp
 \is 6.6.2.3
+\is 8.3.2.3
 \de sharp
 \rf Tape:3-2-141
 \xv Ɔdayi amʋ bʋ ogya klakla.
@@ -15237,12 +15355,14 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \se klaklakla
 \ps ADJ
 \ge very sharp
+\is 6.6.2.3
+\is 8.3.2.3
 \de very sharp
 \rf Tape:3-2-143
 \xv Krantɩɛ amʋ ɔnɔ lawa ogya klaklakla.
 \xe The cutlass is very sharp.
 \bb Stewart List:1713
-\dt 06/Nov/2015
+\dt 10/Dec/2016
 
 \lx klamata
 \ph klamata(H)
@@ -15261,9 +15381,10 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \is 1.5.2
 \is 6.2.5.4
 \de a plant with seeds used for oil
+\sc Jatropha curcas
 \xv Klandua wɩ lawa ɔnlɩn.
 \xe Jatropha is now difficult to get.
-\dt 19/Jul/2016
+\dt 09/Dec/2016
 
 \lx klankpa
 \ph klaŋ͡mk͡pa(H)
@@ -15340,10 +15461,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps n
 \sn
 \ge shea butter tree
+\is 1.5.1
 \is 6.2.5.4
 \sc Vitellaria paradoxa
 \de shea butter tree
-\dt 26/Sep/2016
+\cf adɔmpɔ
+\dt 01/Dec/2016
 
 \lx kletobi
 \ph klétobi
@@ -15424,13 +15547,14 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps v
 \sn 2
 \ge multiply
+\is 1.6.3
 \is 6.3.1
 \de to have plenty of offspring
 \rf Tape:3-2-205
 \xv Mʋ asɩ bɛ́klɛɩ.
 \xe Her offspring will multiply.
 \bb Stewart List:2529
-\dt 01/May/2016
+\dt 09/Dec/2016
 
 \lx klɛkpakpa
 \ph klɛ́k͡pak͡paʔ (L)
@@ -15762,7 +15886,9 @@ cf fonflo
 \ps ADJ
 \sn
 \ge large rooster
-\is 6.3.6
+\is 1.6.1.2
+\is 1.6.7
+\is 6.3.6.1
 \de large – used only of roosters
 \rf Tape:3-2-292
 \xv batɛ konkonyin
@@ -15770,7 +15896,7 @@ cf fonflo
 \rf Tape:3-2-294
 \xv Batɛ konkonyin amʋ ladan moni dʋbɩ, sʋ ɔmɛtalɩ tra bɔn.
 \xe The large rooster has grown so big he can no longer crow.
-\dt 29/Aug/2016
+\dt 06/Dec/2016
 
 \lx konti
 \ph konti
@@ -15861,8 +15987,8 @@ cf fonflo
 \plph akotokuo
 \sn
 \ge bag
-\is 6.7.3
-\de sack
+\is 6.7.7.1
+\de a bag
 \bw Akan fi:kotokuo
 \rf Tape:3-2-317
 \xv Nɔsura mɩ igyo amʋ kotokuotɔ ba woyitɔ tsufɛ mma lakpa.
@@ -15872,7 +15998,8 @@ cf fonflo
 \xe He has hung a bag (from his shoulder).
 \bb Stewart List:1184
 \nt From ths: words for carrying things: kɛntɛ (bag, pocket), kotokuo (sack), lakpa (basket), blawunu (palm frond basket), bɛnsɩ sʋratɔ (carrying basin)
-\dt 28/Apr/2016
+\cf kɛntɛ
+\dt 09/Dec/2016
 
 \lx kotoo
 \ph kótóː
@@ -16101,7 +16228,7 @@ cf fonflo
 \sn 3
 \ge spring (trap)
 \is 6.4.2
-\de to spring
+\de to spring a trap
 \rf Tape:3-2-363
 \xv Yibi amʋ lakpa. Ɔma iteyinki
 \xe The trap has sprung. It returns back.
@@ -16154,7 +16281,7 @@ cf fonflo
 \xv Kpa tati.
 \de Take off a (man's) cloth.
 \bb Stewart List:2794
-\dt 29/Nov/2016
+\dt 09/Dec/2016
 
 \lx kpa
 \hm 2
@@ -16242,15 +16369,18 @@ cf fonflo
 \ps ADV
 \sn
 \ge uselessly
-\is 6.1.3.3
-\is 8.3.7.1
-\de uselessly
+\is 9.6.2.6.1
+\de uselessly; without result
 \rf Tape:4-2-443
 \xv Ɔhagyiɔha ánɩ́ ɔbɛɛ mʋ dɛ Bulu sum, tamɛ ɔtamakɩta mʋ ɔdandʋ a, ɔdɛ ɩwɩ mlɛ, mʋ Bulu sum igyi kpaalɩ.
 \xe Anyone who says he worships God but doesn't control his tongue, is deceiving himself. and his worship is useless.
-\nt From ths: kasian to fail; Nakɩ mʋ́ kpaalɩ - I watched it but nothing happened. Nakɩ mʋ́ kasian - I looked but couldn't see it.
+\cf kasian
+\xv Nakɩ mʋ́ kpaalɩ.
+\xe I watched it but nothing happened.
+\xv Nakɩ mʋ́ kasian.
+\xe I looked but couldn't see it.
 \bb Stewart List:1850
-\dt 17/May/2016
+\dt 09/Dec/2016
 
 \lx kpabi
 \ph k͡pabiʔ
@@ -16317,13 +16447,15 @@ cf fonflo
 \ps vi
 \sn
 \ge cackle
-\is 6.3.6
+\is 1.6.1.2
+\is 1.6.4.3
+\is 6.3.6.1
 \de to cackle as a hen laying an egg
 \rf Tape:3-2-402
 \xv Mɩ batɛ tsihɛ dɛkpaɩn, fialɩ ɔbɛ́ka.
 \xe My hen is clucking, perhaps she will lay (an egg).
 \bb Stewart List:2203
-\dt 13/Jul/2014
+\dt 06/Dec/2016
 
 \lx kpakokwe
 \ph k͡pakókwé
@@ -16382,13 +16514,15 @@ cf fonflo
 \plph ak͡pak͡pahe
 \sn
 \ge duck
+\is 1.6.1.2
+\is 6.3.1
 \is 6.3.6
 \de duck
 \rf Tape:3-2-420
 \xv Kpakpahe oboi bʋ swɩ dʋn batɛ klɛ.
 \xe A duck's neck is longer than a chicken's.
 \bb Stewart List:0717
-\dt 28/Dec/2012
+\dt 06/Dec/2016
 
 \lx kpakpahɛ
 \ph k͡pak͡pahɛ
@@ -16417,6 +16551,7 @@ cf fonflo
 \ps v
 \sn
 \ge potholed
+\is 1.1.3.3
 \is 6.5.4.1
 \de to develop potholes
 \xv ɔkpa wie kpa
@@ -16425,7 +16560,8 @@ cf fonflo
 \xv Anɩ ndɔtɔ ɔkpa ɩma atsʋnlɛ, tsufɛsɛ mʋ́ sʋ yɔ kpakpawie.
 \xe Our farm path is not easily passable because it has developed potholes.
 \xv Anɩ ndɔtɔ ɔkpa sʋ yɔ kpakpawie mʋ́ sʋ ɩma atsʋnlɛ.
-\dt 15/Jul/2016
+\xe On our farm's path, because of potholes, it's not easily passable.
+\dt 06/Dec/2016
 
 \lx Kpakplawusi
 \ph k͡plák͡pláwusi
@@ -16454,7 +16590,7 @@ cf fonflo
 \sn
 \ge goat
 \is 1.6.1.1.3
-\is 6.3.1.1
+\is 6.3.1.3
 \de goat
 \lf Etym=kpa "gather" la "evil" (cf. lalahɛ)
 \xv Gya akpala amʋ lɛ ban amʋtɔ, tsufɛsɛ bʋdɛ agbodi atɛ amʋ wɩ.
@@ -16463,7 +16599,22 @@ cf fonflo
 \xv Abanyɔ kpala a, ɔhaa tamagya mʋ wa bantɔ.
 \xe A goat owned by two people, no one puts it into the fence.
 \bb Stewart List:0613
-\dt 15/Jul/2016
+\dt 06/Dec/2016
+
+\lx kpalabi
+\ph k͡pálâbi
+\ps n
+\pl akpalabi
+\plph ak͡pálâbi
+\sn
+\ge kid
+\is 1.6.1.1.3
+\is 1.6.3
+\is 6.3.1.3
+\is 8.4.6.5.1
+\de a young goat
+\bb Stewart List:0613
+\dt 09/Dec/2016
 
 \lx kpali
 \hm 1
@@ -16495,7 +16646,9 @@ cf fonflo
 \ps v
 \sn
 \ge cut away
-\is 6.2.5.3
+\is 6.2.4.4
+\is 7.3.2.7
+\is 7.8.3
 \de to strip leaves off a branch, or to prune branches from a tree
 \nt to strip palm branches for basket making, or bamboo
 \rf Tape:3-2-450
@@ -16504,7 +16657,7 @@ cf fonflo
 \rf Tape:3-2-453
 \xv Bʋ tɛkpalɩ oyi.
 \xe They prune branches from trees.
-\dt 20/Jun/2016
+\dt 06/Dec/2016
 
 \lx kpalɩ
 \hm 2
@@ -16512,12 +16665,13 @@ cf fonflo
 \ps v
 \sn
 \ge hawk
+\is 3.5.1.1.1
 \is 6.8.4.2
 \de to call out wares for sale
 \rf Tape:3-2-450
 \xv Ndɛ iye kpalɩ.
 \xe I am hawking meat.
-\dt 20/Jul/2016
+\dt 06/Dec/2016
 
 \lx kpalobi
 \ph k͡palobí
@@ -16575,13 +16729,14 @@ cf fonflo
 \ps n
 \sn
 \ge flamboyant
-\is 6.2.5.4
+\is 1.5.1
+\is 6.2.1.7
 \de flamboyant tree
 \sc Delonix regia
 \na has seeds which children use to play
 \xv Kpankɛtsɛnkɛtsɛn oyi amʋ lomoni.
 \xe The flamboyant tree is big.
-\dt 26/Sep/2016
+\dt 01/Dec/2016
 
 \lx kpankpahrede
 \ph k͡pãk͡pahrede
@@ -16880,7 +17035,7 @@ cf fonflo
 \ps v
 \sn 1
 \ge gather food
-\is 6.2.5.3
+\is 6.2.5
 \de gather food
 \rf Tape:3-2-503
 \xv Atogyihɛ lata mɩ ndɔtɔ, sʋ nɔ́yɔ kpɛkpɛ atogyihɛ ndɛ.
@@ -16892,7 +17047,7 @@ cf fonflo
 \de gather bit by bit
 \xv Nɛkpɛkpɛ kɔba. ɩmoni a, napʋ hɔ mɩ atɔ hianhɛ.
 \xe I will slowly gather a large amount of money so that I can buy what is necessary.
-\dt 20/May/2016
+\dt 06/Dec/2016
 
 \lx kpɛkpɛ
 \hm 2
@@ -17268,10 +17423,12 @@ cf fonflo
 \sn
 \ge hobbles
 \is 6.3.1
+\is 7.2.6.2
+\is 7.5.4
 \de hobbles used to restrain an animal
 \xv Nɩ kpala bʋ ɔnlɩn dʋbɩ a, bʋtɔwa mʋ kplakitsi.
 \xe If a goat is too strong, they put on hobbles.
-\dt 30/Jun/2014
+\dt 06/Dec/2016
 
 \lx kplan
 \ph k͡plãʔ (L)
@@ -17407,13 +17564,14 @@ cf fonflo
 \ps n
 \sn
 \ge maize
-\is 6.2.1.1
+\is 1.5.3
+\is 6.2.1.1.3
 \de maize
 \rf Tape:4-1-036
 \xv Bʋtɔpʋ kpoli nɩna dɔkʋnʋ.
 \xe They use corn to cook kenkey.
 \bb Stewart List:0919
-\dt 04/Jul/2014
+\dt 06/Dec/2016
 
 \lx kpoli
 \hm 2
@@ -17433,9 +17591,11 @@ cf fonflo
 \ps n
 \sn
 \ge maize kernel
-\is 6.2.1.1
+\is 1.5.3
+\is 1.5.5
+\is 6.2.1.1.3
 \de kernel of maize
-\dt 04/Jul/2014
+\dt 06/Dec/2016
 
 \lx kponkpoli
 \ph k͡pṍk͡póli(H)
@@ -17461,7 +17621,10 @@ cf fonflo
 \ps v
 \sn
 \ge bark
-\is 6.3.1.1
+\is 1.6.4.3
+\is 2.2.2
+\is 2.3.2.3
+\is 6.3.1.5
 \de to bark (used of dogs, baboons & lions); to cough very loudly (human)
 \rf Tape:4-1-054
 \xv Kɩaɩ amʋ dekpoun wa mɩ, sʋ mmɛ́ɛtalɩ ba fʋ woyitɔ nʋ.
@@ -17470,7 +17633,7 @@ cf fonflo
 \xv Akpantsa bʋ dekpoun ɩbʋsʋ.
 \xe Baboons are barking on the mountain.
 \na They say that when the baboons bark on the mountain an old man will die.
-\dt 23/Jun/2014
+\dt 06/Dec/2016
 
 \lx kpɔ
 \ph k͡pɔ
@@ -17553,18 +17716,19 @@ cf fonflo
 \plph ak͡pɔ́sɔ́
 \sn
 \ge camel
-\is 6.3.1.1
+\is 1.6.1.1.3
+\is 6.3.1.7
 \de camel
 \xv Kpɔsɔ tɔsʋra atɔ dwindwin.
 \xe A camel carries heavy loads.
-\dt 28/Jul/2013
+\dt 06/Dec/2016
 
 \lx kpɔtɩ
 \ph k͡pɔ́tɪ́(H)
 \ps v
 \sn
 \ge pluck
-\is 6.2.5.3
+\is 6.2.5
 \is 7.3.2.7
 \de to pluck leaves or fruit
 \rf Tape:4-1-101
@@ -17575,7 +17739,7 @@ cf fonflo
 \bb Stewart List:2805
 \cf ɔkpɔtɩpʋ
 \nt words for harvesting: bia/sɩɛtɩ (break off - corn), kpɔtɩ (pluck - fruit, leaves), tɩn (cut a stalk or head of - plantain, palm nuts), puli (harvest from underground - peanuts), kwi (dig - cassava, yam)
-\dt 20/May/2016
+\dt 06/Dec/2016
 
 \lx kpʋ
 \ph k͡pʊ́ʔ (H)
@@ -17708,6 +17872,7 @@ cf fonflo
 \plph akrakũ̂ʔ(L)
 \sn
 \ge turkey
+\is 1.6.1.2
 \is 6.3.6
 \de turkey
 \rf Tape:4-1-143
@@ -17717,7 +17882,7 @@ cf fonflo
 \xv Mʋ krakun tsɩhɛ ɔkʋ dɛka.
 \xe A certain turkey hen of his is laying (eggs).
 \bb Stewart List:0718
-\dt 28/Dec/2012
+\dt 06/Dec/2016
 
 \lx krantɩɛ
 \ph krantɪ́ɛ́ (H)
@@ -17726,13 +17891,14 @@ cf fonflo
 \plph akrantɪɛ
 \sn
 \ge cutlass
-\is 6.2.8
-\de cutlass
+\is 4.8.3.7
+\is 6.2.4.1
+\de a cutlass; a machete
 \rf Tape:4-1-154
 \xv Krantɩɛ amʋ ɔnɔ lawa ogya klaklakla.
 \xe The cutlass is very sharp.
 \bb Stewart List:1197
-\dt 13/Jun/2014
+\dt 06/Dec/2016
 
 \lx kua kʋlɛ
 \ph kua kʊlɛ
@@ -17774,7 +17940,8 @@ cf fonflo
 \plph akúfa
 \sn
 \ge sheep
-\is 6.3.1.1
+\is 1.6.1.1.3
+\is 6.3.1.2
 \de sheep
 \cf kufabi
 \nt ɔsantɩ (cognate with other Guang languages) is used for the name in fetish worship.
@@ -17784,18 +17951,22 @@ cf fonflo
 \xv Bɛdalɩ tsu ɩnʋ ba a, bɛ́bɛtɩn kufa wʋlɩ mʋ ayabi asɩ.
 \xe When they come out from there they will slaughter a sheep under his feet.
 \bb Stewart List:0616
-\dt 30/Sep/2015
+\cf ɔsantɩ
+\dt 09/Dec/2016
 
 \lx kufabi
 \ph kufabi
 \ps n
 \pl akufabi
-\plph akufabi
+\plph akúfabi
 \sn
 \ge lamb
-\is 6.3.1.1
+\is 1.6.1.1.3
+\is 1.6.3
+\is 6.3.1.2
+\is 8.4.6.5.1
 \de a young sheep
-\dt 26/Dec/2012
+\dt 09/Dec/2016
 
 \lx kugyikʋ
 \ph kúʤíkʊ́
@@ -17928,6 +18099,7 @@ cf fonflo
 \ps n
 \sn
 \ge fan palm
+\is 1.5.1
 \is 6.2.1.7
 \de fan palm
 \nt a tall tree (viewed as being next to God)
@@ -17935,7 +18107,7 @@ cf fonflo
 \xe It has reached fan palm, it has reached God.
 \nt proverb
 \rf Tape:4-1-191
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx kunkun
 \ph kũkũʔ (L)
@@ -18355,23 +18527,27 @@ cf fonflo
 \plph akwadú
 \sn
 \ge banana
-\is 6.2.1.7
+\is 1.5.3
+\is 5.2.3.1.2
+\is 6.2.1.4.2
 \de banana
 \bw Akan fi:kwadu
 \rf Tape:4-1-331
 \xv Mango oyi ɩbɛ́talɩ swie abɛ? Ntɛ baflɛ ɩbɛ́talɩ swie kwadu oyi sʋ.
 \xe Can a mango tree bear palm nuts, or papaw grow on a banana tree.
 \bb Stewart List:0905
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx kwaduta
 \ph kwaduta
 \ps n
 \sn
 \ge hand of bananas
-\is 6.2.1.7.1
+\is 1.5.3
+\is 5.2.3.1.2
+\is 6.2.1.4.2
 \de a hand of bananas
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx Kwaku
 \ph kʷaku
@@ -18524,9 +18700,10 @@ cf fonflo
 \ps n
 \sn
 \ge beehive
+\is 1.6.5
 \is 6.4.4
 \de beehive
-\dt 28/Jul/2013
+\dt 06/Dec/2016
 
 \lx Kwawu
 \ph kwawu
@@ -18624,10 +18801,11 @@ cf fonflo
 \sn 2
 \ge harvest
 \is 6.2.1.2
+\is 6.2.2.2
 \de to harvest something underground
 \xv Kwi agbodi ha mɩ.
 \xe Harvest cassava for me.
-\dt 20/May/2016
+\dt 06/Dec/2016
 
 \lx kwɩɩ
 \ph kwɪ̌ː
@@ -18929,10 +19107,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge tax
 \is 4.6.6
-\is 6.9.2
+\is 6.8.8
 \de tax
 \bw French:l'impot
-\dt 11/Jul/2014
+\dt 06/Dec/2016
 
 \lx lan
 \hm 1
@@ -18969,19 +19147,25 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge colt
-\is 6.3.1.1
-\de small donkey
-\dt 12/Jul/2014
+\is 1.6.1.1.3
+\is 2.6.4
+\is 6.3.1
+\is 6.3.1.7
+\is 8.4.6.5.1
+\de a young donkey
+\dt 09/Dec/2016
 
 \lx landuu
 \ph landûː
 \ps n
 \sn
 \ge donkey
-\is 6.3.1.1
+\is 1.6.1.1.3
+\is 6.3.1
+\is 6.3.1.7
 \de donkey
 \sy afrimu
-\dt 22/Dec/2013
+\dt 09/Dec/2016
 
 \lx lasa
 \ph lasaʔ
@@ -19227,9 +19411,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge palm fruit
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de k.o palm fruit
-\dt 19/Aug/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx lɛlɛ
 \ph lɛlɛ
@@ -19296,10 +19483,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge axe
 \is 6.2.8
+\is 6.7.1
 \de large axe used in felling trees
 \xv Nɔ́pʋ limba kun oyi yile kʋ mɩ ndɔtɔ.
 \xe I will take an axe and fell a big tree on my farm.
-\dt 13/Jun/2014
+\cf ɛfɛ
+\dt 01/Dec/2016
 
 \lx lɩan
 \ph lɪã
@@ -19535,7 +19724,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 1
 \ge weave
-\is 6.6.1.2
+\is 6.6.1.4
 \de weave cloth or baskets
 \rf Tape:4-1-550
 \xv Alalʋ tati wanklaan ɩkʋ ha mɩ.
@@ -19558,7 +19747,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \is 8.3.1.5.1
 \de to roll something inside something
 \bb Stewart List:2820
-\dt 15/Jun/2016
+\dt 06/Dec/2016
 
 \lx lʋnlʋan
 \ph lʊ́nlʊ́ãʔ(L)
@@ -19642,12 +19831,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ph ma
 \ps v
 \sn
-\ge arm
-\is 6.1.2.6
-\de to arm s.t. e.g., a gun
+\ge prepare
+\is 6.1.2.6.1
+\de to arm s.t. e.g., a gun or a trap
 \xv Ɔlɔfwɩ mʋ otuatɔ a, ma mʋ́ pʋ kpɩsa.
 \xe He washed his gun, loaded it and leaned it up against something.
-\dt 15/Sep/2016
+\dt 06/Dec/2016
 
 \lx ma
 \hm 4
@@ -19655,12 +19844,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge has not
-\is 6.8.1.1
+\is 6.8.1.3
 \de is not
 \rf Tape:4-1-564
 \xv Tɔtɔɔtɔ ma ɔbɔ amʋtɔ.
 \xe Nothing is in the hole.
-\dt 16/Jun/2014
+\dt 06/Dec/2016
 
 \lx ma-
 \ph má-
@@ -19792,12 +19981,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge mango
+\is 1.5.1
+\is 5.2.3.1.2
 \is 6.2.1.4
 \de fruit
 \bw English fi:mango
 \xv Mango amʋtɔ bʋ ɔdwɛ.
 \xe The mango is sweet.
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx mankani
 \ph maŋkaní
@@ -19806,12 +19997,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \plph amaŋkani
 \sn
 \ge cocoyam
+\is 1.5.3
+\is 5.2.3.1.5
 \is 6.2.1.2
 \de cocoyam; taro
 \rf Tape:4-2-002
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bush pigs have eaten all of my cocoyam in the farm.
-\dt 22/Jul/2016
+\dt 07/Dec/2016
 
 \lx mankɩnsɩ
 \ph mãŋkɪ̃nsɪ
@@ -19886,12 +20079,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge mushroom, k.o.
+\is 1.5.4
 \is 6.2.5.3
 \de mantepo mushroom
 \rf Tape:1-2-194
 \xv Mantɛpʋ tɔkwɛ ɔsʋlʋsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, mʋ́ ɛ bʋ ɔdwɛ.
 \xe Mantɛpo grows in the ground. You can grind it for soup. It too is sweet.
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx mba
 \ph mba
@@ -19926,16 +20120,19 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ph mbépiʔ
 \ps n
 \sn
-\ge palm nut rubbish
+\ge palm nut fibers
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
-\de palm nut rubbish
+\is 7.4.5.2
+\de palm nut fibers
 \rf Tape:4-2-060
 \xv Dwɩɩ abɛ amʋ afʋ lɛ mʋ́ mbepi amʋ fɩta.
 \xe Drain the palm nuts so that you should remove the fibres and dry them.
 \rf Tape:4-2-067
 \xv Lɛ mbepi amʋ kʋ wa ogya amʋtɔ mɛnɩ ɩbɔwa ɔsa tsii.
 \xe Remove some of the palm fibres and put them on the fire so that it will blaze quickly.
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx mbi
 \ph mbi
@@ -20057,6 +20254,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \plph mbrɛtɪ
 \sn
 \ge board
+\is 6.5.3
 \is 6.6.3.2
 \de board
 \xv Nabɔbɔɩ ndum, sʋ mbʋ mbrɛtɩ tsɔtsɔɔtsɔ.
@@ -20064,7 +20262,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-140
 \xv Mbrɛtɩ tsɔtsɔɔtsɔ amʋ dɩn fʋ obusʋ amʋ laplɔ.
 \xe Many boards that are on top of your building are rotten.
-\dt 19/Jul/2016
+\dt 06/Dec/2016
 
 \lx mbuaɛ
 \ph mbuaɛ
@@ -20162,12 +20360,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn 2
 \ge sink
-\is 6.4.5
 \is 7.2.4.2.1
 \is 7.2.4.2.3
 \de to sink out of sight
 \cf mɩm
-\dt 01/Oct/2016
+\dt 06/Dec/2016
 
 \lx mɛ
 \hm 2
@@ -20750,7 +20947,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \plph ampesie
 \sn
 \ge yam slice
-\is 6.2.1.2
+\is 5.2.3.1.5
+\is 5.2.3.4
 \de sliced yam or plantain
 \bw Akan fi:ampesie
 \rf Tape:4-2-408
@@ -20759,7 +20957,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Igyo ampesie mʋa kontomere aboun bʋ ɔdwɛ.
 \xe Yam slice with kontomere stew is sweet.
 \cf bɔ
-\dt 22/Dec/2013
+\dt 29/Nov/2016
 
 \lx mpɛsɛ
 \ph mpɛsɛ
@@ -20767,12 +20965,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge Rasta hair
 \is 2.1.1
-\is 6.4.5
+\is 5.4.3.5
 \de Rasta hair style
 \xv Oyin amʋ imi gyi mpɛsɛ mʋ́ sʋ nyebi bʋtenya mʋ ifu.
 \xe The man has got a Rasta hair style and so children fear him.
 \bb SIL-AWL:0030
-\dt 28/Jun/2014
+\dt 06/Dec/2016
 
 \lx mpie
 \ph mpieʔ
@@ -20795,12 +20993,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge short mushroom
+\is 1.5.4
 \is 6.2.5.3
 \de short mushroom
 \rf Tape:1-2-171
 \xv Mpionkɛntɛ tɔkwɛ ɔbɛ oyi plɔhɛsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi ma swɩ. Fɛtalɩ kpa mʋ́ nwun amʋ kwɛ mʋ́ wa oputsutɔ, si mʋ́ oyi amʋ. Mʋ́ ɛ bʋ ɔdwɛ.
-\xe Npionkɛntɛ sprouts on rotten palm trees. It's head is wide. It's stalk is not long. You can remove the heads and grind them and put them in the soup and leave the stalks. It also is sweet.
-\dt 31/May/2016
+\xe Mpionkɛntɛ sprouts on rotten palm trees. It's head is wide. It's stalk is not long. You can remove the heads and grind them and put them in the soup and leave the stalks. It also is sweet.
+\cf atsulii
+\dt 06/Dec/2016
 
 \lx mpɩmpɩm
 \ph mpɪ́mpɪm
@@ -20844,6 +21044,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge pepper
+\is 1.5.3
 \is 5.2.3.3.3
 \is 6.2.1.3
 \de red pepper
@@ -20855,7 +21056,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe If pepper is not in the soup, it is not sweet.
 \xv Kpɔtɩ mpulu amʋ afʋkpa mʋ́ odu wa oputsutɔ.
 \xe Pluck the pepper and remove the tail and put it in the soup.
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx mpumpu ngya
 \ph mpumpu nʤa (H)
@@ -20903,10 +21104,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge herb
+\is 1.5.3
 \is 5.2.3.3.3
 \is 6.2.1.3
-\de kind of herb
-\dt 31/May/2016
+\de k.o. herb
+\dt 06/Dec/2016
 
 \lx mpʋsa
 \ph mpʊ́sa
@@ -20940,12 +21142,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge hem
 \is 6.6.1
+\is 8.6.6
 \de hem
 \rf Tape:4-2-439
 \xv Bamumlu mɩ tati amʋ ɔnɔ ha ma. Ɩmɛtra lɛ ɔfɛ.
 \xe They have hemmed my cloth for me. It won't fray again (bring out rope).
 \bb Stewart List:2859
-\dt 30/Jun/2014
+\cf ɔdanʋ
+\dt 07/Dec/2016
 
 \lx munsa
 \ph múnsá
@@ -21527,26 +21731,29 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge garden
 \is 6.2.1
+\is 6.2.1.3
+\is 6.5.1.4
 \de garden
 \rf Tape:4-2-578
 \xv Nbʋ ndobi kʋ mɩ mmua.
 \xe I have a garden at the back of my house.
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx ndɔ
 \ph ndɔ
 \ps n
+\va ndɔtɔ
+\vaph ndɔtɔʔ (H)
 \sn
 \ge farm
-\is 6.2.1
+\is 6.2.9
 \de farm
-\nt most commonly ndɔtɔ LLL
 \rf Tape:4-2-582
 \xv Fɔyɔ ndɔtɔ tɩn kwadu ba mɩ.
 \xe When you go to farm harvest some banana for me.
 \cf ɔdɔtɔpʋ
 \bb Stewart List:1242
-\dt 31/May/2016
+\dt 06/Dec/2016
 
 \lx nfa
 \ph ɱfa
@@ -21628,24 +21835,34 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx nfɔ
 \ph ɱfɔ(H)
 \ps n
-\sn
+\sn 1
 \ge oil
 \is 1.2.3.2
 \is 1.5.1
 \is 6.2.1.7
-\is 7.2.4.1.1
-\de oil, fat, gasoline
+\de oil
 \rf Tape:5-1-010
-\xv Mahɔ abiofobi ntɛ kɩtɩba nfɔ, mboun hɔ nfɔ pɛpɛ.
+\xv Mahɔ abi ofobi ntɛ kɩtɩba nfɔ, mboun hɔ nfɔ pɛpɛ.
 \xe Don't buy palm kernel oil, or peanut oil, instead buy palm oil.
 \rf Tape:5-1-020
-\xv Ɔprakuo bʋ nfɔ dʋbɩ.
-\xe A pig has much fat.
 \xv nfɔ pɛpɛ
 \xe palm oil
 \bb Stewart List:1233
+\sn 2
+\ps n
+\ge fat
+\is 2.1.7
+\is 5.2.3.2.1
+\de fat of an animal
+\xv Ɔprakuo bʋ nfɔ dʋbɩ.
+\xe A pig has much fat.
 \bb Stewart List:1243
-\dt 19/Jul/2016
+\sn 3
+\ge gasoline
+\is 5.5.6
+\is 7.2.4.1.1
+\de gasoline or oil for a vehicle
+\dt 06/Dec/2016
 
 \lx nfɔlɩ
 \ph ɱfɔ́lɪʔ
@@ -21669,12 +21886,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge picture
+\is 6.6.5.1
 \is 6.6.5.2
 \de a picture or photo
 \rf Tape:5-1-037
 \xv Ɔtɛtaan nfuni.
 \xe He always draws pictures.
-\dt 30/Jun/2014
+\cf foto
+\dt 06/Dec/2016
 
 \lx nfuo
 \ph ɱfúó
@@ -22013,11 +22232,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge seedless palm fruit
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de seedless palm fruit
 \xv Nkɩsɛ amʋtɔ bʋ ɔdwɛ.
 \xe The seedless palm fruit is sweet.
-\dt 31/May/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx nkla
 \hm 1
@@ -22076,13 +22298,15 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge greens
+\is 1.5.3
+\is 5.2.3.1.4
 \is 6.2.1.2
 \de cocoyam leaves cooked as greens
 \bw Akan fi:nkʋtʋmɩrɩ
 \rf Tape:5-1-264
 \xv Fenya fʋdɛ mankani nkontombre lɛ a, mankani amʋ tɔwa ɔgɔn.
 \xe If you pick the leaves from your cocoyam the cocoyam becomes hard (remains hard when cooked).
-\dt 30/Jun/2014
+\dt 06/Dec/2016
 
 \lx Nkonya
 \ph ŋkuɲáʔ
@@ -22124,8 +22348,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge snare
 \is 6.4.2
+\is 7.2.6.2
 \de erected trap which does not sprung
-\dt 15/Jul/2016
+\dt 06/Dec/2016
 
 \lx nkɔnkɔ
 \ph ŋkɔŋkɔ(H)
@@ -22248,9 +22473,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge farm people
+\is 4.6.7.3
 \is 6.2.2
 \de people living on their farms
-\dt 13/Jul/2014
+\dt 06/Dec/2016
 
 \lx nkʋlɛ
 \ph ŋkʊlɛ
@@ -22398,22 +22624,24 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge maize silk
-\is 6.2.1.1
+\is 1.5.5
+\is 6.2.1.1.3
 \de maize silk
 \xv Mʋ kpoli lalɩn nsansa.
 \xe His corn has tasselled.
-\dt 11/Jul/2014
+\dt 06/Dec/2016
 
 \lx nsɛmsʋ
 \ph nsɛmsʊʔ
 \ps n
 \sn
 \ge bridge
+\is 1.3.1.3
 \is 6.5.4.1
 \de bridge
 \bw Akan fi:nsɛmsʋ
 \bb Stewart List:1248
-\dt 13/Jul/2014
+\dt 06/Dec/2016
 
 \lx nsɛnkyrɛne
 \ph nsɛ̃ntʃɪrɛnɪ
@@ -22560,9 +22788,10 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge mark
-\is 6.3.1
-\de a scar on something to make it stand out
-\dt 12/Dec/2013
+\is 3.6.1
+\is 6.3
+\de a mark or scar on something to make it stand out
+\dt 07/Dec/2016
 
 \lx nsʋpa
 \ph nsʊ́pa(H)
@@ -24094,15 +24323,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mbebuniʔ
 \sn
 \ge dead palm tree
+\is 1.5.1
 \is 6.2.1.7
-\is 6.2.5.4
 \de a dead discarded palm tree that has been tapped
 \nt from palm tree and ibun -well
 \rf Tape:6-2-275
 \xv Akponkpoli bʋbʋ obebuni amʋtɔ.
 \xe The black beetles are in the tapped palm tree.
 \cf ɔbɛ
-\dt 31/May/2016
+\dt 01/Dec/2016
 
 \lx obetsu
 \ph obét͡sûʔ
@@ -24498,12 +24727,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge weevil
 \is 1.6.1.7
-\is 6.2.1.2
+\is 6.2.1.1.3
 \de weevil
 \xv kpolitɔ obubwi
 \xl corn louse
 \xe weevil
-\dt 30/Sep/2016
+\dt 29/Nov/2016
 
 \lx obugya
 \ph obuʤaʔ
@@ -24566,12 +24795,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge coop
-\is 6.3.1
+\is 6.3.1.3
+\is 6.5.1
 \de chicken coop
 \rf Tape:6-2-377
 \xv Abatɛ obuntɔ loklun.
 \xe The inside of a hen coop is dark.
-\dt 29/Nov/2016
+\dt 07/Dec/2016
 
 \lx obungyo
 \ph obunʤo
@@ -24935,13 +25165,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ɱfumbi
 \sn
 \ge bag
-\is 6.7.3
+\is 6.7.7.1
 \de a small raffia bag used by women
 \xv Ɔtsɩ ɔkʋ ofumbi bʋ akɩlɛ tamɛ tɔtɔ ma mʋ́tɔ.
 \xe A certain woman's raffia bag is nice but there's nothing is in it.
 \xv Ɔtsɩ tegyi mʋ yín ofumbi, fɛ́kɩ oyin ɛ lagyi mʋ sɩ atɔ.
 \xe It is a woman that inherit the mother's bag, and a man also inherit the father's properties.
-\dt 28/Apr/2016
+\dt 09/Dec/2016
 
 \lx ofunupʋ
 \ph ofunupʊʔ
@@ -25062,9 +25292,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge grape fruit
-\is 6.2.1.7
+\is 1.5.1
+\is 5.2.3.1.2
 \de grape fruit
-\dt 31/May/2016
+\dt 07/Dec/2016
 
 \lx ogbon
 \ph og͡bõʔ
@@ -25137,10 +25368,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge log
+\is 1.5.1
 \is 5.5.6
 \is 6.2.5.4
 \de firewood log
-\dt 21/Jul/2016
+\dt 06/Dec/2016
 
 \lx ogyama
 \ph oʤamaʔ(H)
@@ -25197,13 +25429,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph nʤatĩʔ / nʤá
 \sn
 \ge firewood
+\is 1.5.1
 \is 5.5.6
 \is 6.2.5.4
 \de one stick of firewood
 \rf Tape:6-2-518
 \xv Naka ogyatin kpɔnkpɔntɩ nɔ́pʋ sun ɔswɩ ɔnɔ.
 \xe I have cut a large stick of firewood, and I will put it in my hearth as the central fire log.
-\dt 19/Oct/2016
+\dt 06/Dec/2016
 
 \lx ogyatɔ
 \ph oʤatɔ
@@ -25266,13 +25499,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge armed robber
+\is 4.8.2.8
 \is 6.8.9.1
 \de armed robber
 \xv Lalahɛ ɔbwɛpʋ ogyo otswapʋ gyi, tsufɛ nɩ ɔtʋ fʋ, omenya tɔtɔ wi tsu fʋ wa a, ɔbɔ́mɔ fʋ.
 \xe An armed robber is wicked, because if he meets you and did get anything to steal from you, he will kill you.
 \xv Nkɛsa anfɩtɔ agyo otswapʋ batra moni Ghana ɔmá anfɩtɔ.
 \xe These days armed robbers have increased too much in Ghana this country of ours.
-\dt 20/May/2016
+\dt 07/Dec/2016
 
 \lx ohian
 \ph ohĩã(H)
@@ -25586,9 +25820,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bee wax
+\is 1.6.1.7
+\is 1.6.5
 \is 6.4.4
 \de wax from a bee hive
-\dt 23/Jun/2014
+\dt 07/Dec/2016
 
 \lx okploo
 \ph ok͡plôːʔ
@@ -25609,9 +25845,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tree (k.o.)
-\is 6.2.5.4
+\is 1.5.1
 \de a tree with an inedible fruit like an orange
-\dt 13/Jul/2014
+\dt 07/Dec/2016
 
 \lx okpokployi
 \ph ok͡pók͡plóyiʔ
@@ -25620,14 +25856,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ŋ͡mk͡pók͡plóyi
 \sn
 \ge maize cob
-\is 6.2.1.1
+\is 1.5.3
+\is 1.5.5
+\is 6.2.1.1.3
 \de maize cob
 \nt from kpoli+oyi+REDUPLICATION
 \rf Tape:7-1-
 \xv Nɛfɛ mɩ kpoli lɛ mʋ́ nkpokployisʋ, anfɛ mʋ́ ha kpoli ɔhɔpʋ.
 \xe I will shell my corn and removed the cobs in order to sell it to a corn dealer.
 \na Maize cobs are used for cleansing oneself after defecation.
-\dt 11/Nov/2015
+\dt 07/Dec/2016
 
 \lx okpokpo
 \ph ok͡pók͡po(H)
@@ -25636,12 +25874,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ŋ͡mk͡pók͡po(H)
 \sn
 \ge ram
-\is 6.3.1.1
+\is 1.6.1.1.3
+\is 1.6.7
+\is 6.3.1.2
 \de a male sheep; a ram
 \rf Tape:6-2-586
 \xv Ndekle ánɩ́ mɩ okpokpo omoni sʋ a, naflo mʋ.
 \xe I want my ram to be big so I have castrated him.
-\dt 28/Jul/2013
+\dt 07/Dec/2016
 
 \lx okponkpo
 \ph ok͡poŋ͡mk͡póʔ
@@ -25861,12 +26101,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ŋkṹʔ
 \sn
 \ge handle
-\is 6.6.2.3
+\is 6.7.8
 \de handle
 \xv Krantɩɛ amʋ okun labwie.
 \xe The cutlass' handle is broken.
 \bb Stewart List:1262
-\dt 30/Jun/2014
+\dt 07/Dec/2016
 
 \lx okunku
 \ph okuŋkûʔ
@@ -26106,11 +26346,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge plantain, k.o.
-\is 6.2.1.4.1
+\is 1.5.3
+\is 5.2.3.1.2
 \de A variety of plantain. Oniaba is similar to apɩmba, but has no black seeds in the finger. It is good for ampesie.
 \cf blɔdɩ
 \nt see blɔdɩ entry for other kinds of plantain
-\dt 31/May/2016
+\dt 07/Dec/2016
 
 \lx onopi
 \ph onopiʔ
@@ -26209,9 +26450,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge large drinking calabash
 \is 1.5.3
-\is 6.7.3
+\is 1.5.5
+\is 5.2.2.8
+\is 6.7.7
 \de large drinking calabash
-\dt 13/Jul/2014
+\dt 07/Dec/2016
 
 \lx onwunfi
 \ph onwuɱfíʔ
@@ -26325,9 +26568,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge palm fruit
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de palm fruit about to ripen
-\dt 19/Aug/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx opian
 \ph opĩã(H)
@@ -26364,13 +26610,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mpiki
 \sn
 \ge thatch
+\is 1.5.3
+\is 1.5.5
+\is 6.2.5.4
 \is 6.5.2.2
 \is 6.5.3
-\de thatch
+\de k.o. thatch
 \nq Tone needs to be checked
 \vad pipi
 \ve Northern
-\dt 18/Oct/2016
+\dt 07/Dec/2016
 
 \lx opini
 \ph opínîʔ
@@ -26518,6 +26767,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cotton
 \is 1.5.3
+\is 6.2.5.4
 \is 6.6.1.2
 \is 6.6.1.4
 \de cotton
@@ -26527,19 +26777,20 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The use cotton to weave clothes.
 \bb Stewart List:0924
 \cf opuli-mputɔ
-\dt 19/Jul/2016
+\dt 07/Dec/2016
 
 \lx opuli-mputɔ
 \ph opuli-mpútɔ́
 \ps n
 \sn
 \ge cotton wool
+\is 1.5.3
 \is 2.5.7.2
 \is 6.2.5.4
 \de cotton wool
 \xv Nalɛ mɩ opulitɔ abi fɛ́ɛ́, ndɛ opuli-mputɔ amʋ fɩta, sʋ nɩ fʋdɛ ɩkʋ kle ánɩ́ fɔ́pʋ manta fʋ ɔlɔ a, nɛ́ha fʋ.
 \xe I have removed all the seeds from my cotton and I am drying the cotton wool so if you need some to put on your sore, I will give you.
-\dt 13/Sep/2016
+\dt 09/Dec/2016
 
 \lx opulu
 \ph opulu(H)
@@ -26589,11 +26840,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mpuntu
 \sn
 \ge bag
-\is 6.7.3
+\is 6.7.7.1
 \de bag woven from a sisal like plant (finfɛ)
 \xv Tɩtɩ amʋ a, aha bʋtɔpʋ amʋ́ atɔ wa opuntutɔ tu ɔkpa. Sesei mʋ́ a, bʋtamatra pʋtu ɔkpa tsufɛ abaagɩ awanklaan bʋ nʋ.
 \xe In the olden days people put their clothes in bags to travel. But now, they do not travel with it because fine bags are available.
-\dt 30/Aug/2016
+\dt 09/Dec/2016
 
 \lx oputsu
 \ph oput͡súʔ
@@ -26614,13 +26865,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge greens
-\is 6.2.5.4
+\is 1.5.3
+\is 5.2.3.1.4
+\is 6.2.1.3
 \de a type of slippery greens (a vegetable)
 \xv Nɩ mlɩ hogyi lomoni fɛ opuun ibi a, tɛkɩ mlɛ́talɩ bla ɩbʋ anfɩ mlɩaa otu.
 \xe If your faith is as big as the seed of opuun, you can tell this mountain that it should leave.
 \xv Opuun oputsu mʋ́a konkonte bʋ ɔdwɛ dʋbɩ.
 \xe Soup from green leaves with cassava porridge is very tasty.
-\dt 30/Aug/2016
+\dt 07/Dec/2016
 
 \lx oseyee
 \ph oséyěːʔ
@@ -26981,11 +27234,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge wheat
-\is 6.2.1.1
+\is 1.5.3
+\is 5.2.3.1.1
+\is 6.2.1.1.2
 \de wheat
 \xv Otrohwe nfuo bʋtɔpʋ bwɛ bodobodo.
 \xe They use wheat flour to make bread.
-\dt 31/May/2016
+\dt 07/Dec/2016
 
 \lx otse
 \ph ot͡sé
@@ -26994,11 +27249,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph nt͡sé
 \sn
 \ge cocoyam bulb
+\is 1.5.3
+\is 5.2.3.1.5
 \is 6.2.1.2
 \de cocoyam bulb which is used for planting
 \xv Bʋtɔbɔ́ɩ mankani otse da mʋ́, tamɛ nɩ fetsii swie a, ɩtɔwa ɔsa wɩ dʋn mʋ́a babɔɩ mʋ́ da amʋ.
 \xe They split cocoyam bulb to plant, but when you uproot the young ones and plant them, they grow faster than the split ones.
-\dt 21/Jun/2014
+\dt 07/Dec/2016
 
 \lx otsi
 \ph ot͡siʔ
@@ -27072,6 +27329,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge mattock
 \is 6.2.8
+\is 6.7.1.2
+\is 7.8.6
 \de narrow hoe with no bend used for digging holes
 \rf Tape:2-2-132
 \xv Gbede dɛ otsobi amʋ ɔnɔ daɩ.
@@ -27079,7 +27338,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:2-1-213
 \xv Mɩ otsobi amʋ ɔnɔ lawu. Nɔpʋya abʋdaɩ mʋ́ ɔnɔ ha mɩ.
 \xe My hoe's edge has become dull. I will take it there that they should hammer it's edge for me.
-\dt 13/Jun/2014
+\dt 07/Dec/2016
 
 \lx otsontsobi
 \ph ot͡sont͡sóbi
@@ -27097,9 +27356,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge fine cloth
 \is 6.6.1.1
-\is 6.6.1.2
+\is 5.3.4
 \de fine clothing
-\dt 21/Jun/2014
+\dt 07/Dec/2016
 
 \lx otsubunɔ
 \ph ot͡subúnɔ
@@ -27507,11 +27766,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph oyí abí
 \sn
 \ge fruit
-\is 1.5.5
+\is 1.5.1
 \is 1.5.5
 \is 6.2.5.3
 \de fruit
-\dt 20/May/2016
+\dt 07/Dec/2016
 
 \lx oyi ɔma
 \ph oyi ɔma
@@ -27650,17 +27909,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge writing stick
-\is 3.6.2
+\is 3.5.7.1
 \de writing stick
 \se oyipɛ tati
 \ps n
 \ph oyípɛ̂ʔ tati(H)
 \ge dyed cloth
 \is 6.6.1.1
-\is 6.6.1.2
+\is 8.3.3.3.6
 \de cloth dyed with tree bark
 \na oyipɛ tati – a cloth that has been dyed with tree bark, at one point, our grandmother's time they would sew flour sacking and use it, That's how the tie and dye started.
-\dt 31/Oct/2016
+\dt 07/Dec/2016
 
 \lx oyitsu
 \ph oyit͡suʔ
@@ -27929,6 +28188,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mbɛ́ʔ
 \sn
 \ge palm tree
+\is 1.5.1
 \is 6.2.1.7
 \de oil palm tree
 \sc Elaeis guineensis
@@ -27938,16 +28198,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe We get palm wine from palm tree.
 \bb Stewart List:0867
 \cf obebuni
-\dt 17/Oct/2016
+\dt 01/Dec/2016
 
 \lx ɔbɛkʋtʋ
 \ph ɔbɛkʊtʊ
 \ps n
 \sn
 \ge palm fruit
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \de k.o palm fruit
-\dt 31/May/2016
+\cf abɛ
+\dt 01/Dec/2016
 
 \lx ɔbɩatɔ
 \ph ɔbɪatɔʔ
@@ -28077,6 +28340,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mblakwɛ
 \sn
 \ge central palm
+\is 1.5.1
+\is 1.5.5
 \is 6.2.1.7
 \is 6.2.5.4
 \de the new central palm growth
@@ -28088,7 +28353,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If you take thatch and roof a hut, you first take palm frond rope or other rope and tie the vertical rafters (mpalɩ) on top of the ɔtan (bottom horizontal crossbars) so that the wind won't blow the roof off.
 \xv Mʋ́ ɔma fɛ́tratsia pʋ ɔblakwɛ ɔfɛ klɩ abotodua manta ipi amʋ ɛ, mɛnɩ afu mɛ́ɛdɩnkɩ mʋ́ tsitsa.
 \xe After this, you will again take some palm frond rope and tie bamboo over the thatch so that the wind will not blow the thatch off.
-\dt 31/May/2016
+\dt 07/Dec/2016
 
 \lx ɔblapʋ
 \ph ɔblapʊ(H)
@@ -28348,11 +28613,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mbʷata(H)
 \sn
 \ge shuttle
-\is 6.6.1
+\is 6.6.1.4
+\is 6.7
 \de a weaver's shuttle
 \xv Tati ɔlʋpʋ amʋ ɔbwata layɩnta, sʋ alasi atati lʋ.
 \xe The weaver's shuttle has spoiled, so he has stopped weaving.
-\dt 20/May/2016
+\dt 07/Dec/2016
 
 \lx ɔbwɩ
 \ph ɔbʷɪ(H)
@@ -28395,7 +28661,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ndadʊwa
 \sn
 \ge fish hook
-\is 6.4.5
+\is 6.4.5.3
 \de fishing line with hooks
 \nt ndadʋwa is also a multihooked, baited, weighted fishing line that is laid from a boat into deep water to catch large fish.
 \xv Fɔpʋ ɔtsabi yi ɔdadʋwa ɔnɔ a, fɛ́lɛ iyie yile.
@@ -28404,7 +28670,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe When you hang hooks on a line then you bait them with small fish and put them in the water, so that you will go out in the morning and remove it. They use it to catch akuabi and other large fish..
 \cf asawu
 \cf awʋlɛ
-\dt 29/Oct/2013
+\dt 07/Dec/2016
 
 \lx ɔdaɩ
 \ph ɔdáɪ
@@ -28530,11 +28796,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge edge
 \is 6.6.1.1
-\is 6.6.1.2
+\is 8.6.6
 \de finished edge of cloth or dress
 \xv Mɩ tati amʋ ɔdanʋ latɩtɩ, tsufɛ atɔ ɔbɩnpʋ amʋ mɛbɩn mʋ́ wanklaan.
 \xe The edge of my cloth has torn, because the tailor did not sew it well.
-\dt 21/Jun/2014
+\cf mumlun
+\dt 09/Dec/2016
 
 \lx ɔdatobi
 \ph ɔdatobi(H)
@@ -28750,13 +29017,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔdɔpʋ
 \ph ɔdɔ́pʊ
 \ps n
-\pl ɔdɔpʋ
+\pl adɔpʋ
 \plph adɔ́pʊ
 \sn
 \ge farm worker
+\is 6.2.7
+\is 6.9.2
 \de one who works on a farm
-\is 6.2.1
-\dt 22/Apr/2016
+\cf ɔdɔtɔpʋ
+\dt 07/Dec/2016
 
 \lx ɔdɔtɔpʋ
 \ph ɔdɔtɔpʊ
@@ -28766,6 +29035,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge farmer
 \is 6.2.1
+\is 6.5.1.3
 \de farmer
 \nt ɔdɔpʋ is farm worker, ɔdɔtɔpʋ is farm owner
 \xv Tsia gyo anɩ Wie Yesu Kristo ɩbá, fɛ alɩa ɔdɔtɔpʋ tenya ɩklʋn tsia gyo nyankpʋ amʋ.
@@ -28774,7 +29044,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ nyankpʋ mɛdɛ tswie a, ɩtɛha adɔtɔpʋ wankaan.
 \xe If it is not raining it disturbs farmers well.
 \bb Stewart List:0401
-\dt 01/Feb/2014
+\cf ɔdɔpʋ
+\dt 07/Dec/2016
 
 \lx ɔdʋdʋɔ
 \ph ɔdʊdʊɔ
@@ -28933,6 +29204,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge broom
 \is 5.1
 \is 5.6.5
+\is 6.5.3.1
 \de short broom with no handle made from the stems of palm leaves
 \rf Tape:5-2-343
 \xv Nɔhɔ ɔfɛsɩ, mɩantsia pʋ fɛɩ obuto.
@@ -28943,7 +29215,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge palm leaves
 \is 6.2.1.7
 \de palm fronds removed from the branch
-\dt 29/Nov/2016
+\dt 07/Dec/2016
 
 \lx ɔfɛtɩ
 \ph ɔfɛ́tɪ
@@ -29078,6 +29350,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge cocoyam seed
+\is 1.5.3
+\is 5.2.3.1.5
 \is 6.2.1.2
 \de the hard part of cocoyam which can not be eaten if it is cooked
 \rf Tape:5-2-372
@@ -29085,19 +29359,22 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The cocoyam has become hard and it is not good for cooking.
 \xv Mankani tɔwa ɔgɔn tsu mʋ́ otse amʋsʋ. Nɩ fʋmɔwa ɔsa puli mʋ́ a, mankani amʋ fɛ́ɛ́ bɔ́wa ɔgɔn. Fówun lakwɛkwɛ.
 \xe Cocoyam makes hard from where the cocoyam tubers is attached to the main bulb. If you don't uproot it early, all the cocoyam will become hard. Then it will sprout.
-\dt 22/Jul/2016
+\dt 07/Dec/2016
 
 \lx ɔgywɩyaa
 \ph ɔʤwɪ́yǎʔ
 \ps n
 \sn
 \ge lemon
+\is 1.5.1
+\is 2.3.3
+\is 5.2.3.1.2
 \is 6.2.1.7
 \de lemon
 \rf Tape:5-2-376
 \xv Ntɔpʋ ɔgywɩyaa kpa ɩwɩ. Nɩ fégyi mʋ́ a, mʋ́tɔ gyi nyagbanyagba.
 \xe I apply lemon on myself. I rub lemon on my skin. If you eat it, it is sour.
-\dt 31/May/2016
+\dt 07/Dec/2016
 
 \lx ɔha
 \ph ɔhá
@@ -29190,12 +29467,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge white cloth
 \is 6.6.1.1
-\is 6.6.1.2
-\is 8.3.3.3
+\is 8.3.3.3.1
 \de white cloth
 \xv Ɔhrada bʋtɔpʋ bɩn afadafɔ ntadɩɛ.
 \xe They use white cloth to sew (Catholic) Fathers' cassocks.
-\dt 30/Aug/2016
+\dt 07/Dec/2016
 
 \lx ɔka
 \hm 1
@@ -29220,7 +29496,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge boundary
-\is 6.5.1.3
 \is 6.5.4.2
 \de boundary
 \rf Tape:5-2-399
@@ -29230,7 +29505,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Bʋdɛ ɔka yi.
 \xe They are setting a boundary.
 \bb Stewart List:1163
-\dt 15/Jul/2016
+\dt 09/Dec/2016
 
 \lx ɔka tsia
 \ph ɔkat͡sia
@@ -29555,13 +29830,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge boat
 \is 6.4.5
+\is 6.4.5.3
 \is 7.2.4.2.1
 \de boat; canoe
 \rf Tape:5-2-456
 \xv Bʋtetsia ɔklʋntɔ fa ntsu.
 \xe They sit in a boat to cross a river.
 \bb Stewart List:1173
-\dt 13/Jul/2014
+\dt 07/Dec/2016
 
 \lx ɔklʋnbun
 \ph ɔklʊ̃bũ̂ʔ
@@ -29943,10 +30219,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge harvester
+\is 6.4.5
 \is 6.2.5.3
 \is 7.3.2.7
 \de someone who plucks something
-\dt 20/May/2016
+\dt 07/Dec/2016
 
 \lx ɔkpʋn
 \ph ɔk͡pʊ̃
@@ -30101,13 +30378,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge honey
 \is 1.6.1.7
+\is 5.2.3.2
 \is 6.4.4
 \de honey
 \rf Tape:5-2-581
 \xv Ɔkwɛn gyi debidebi. Awʋnsa tɔbwɛ mʋ́.
 \xe Honey is very sweet. Bees make it.
 \bb Stewart List:0809
-\dt 27/Apr/2016
+\dt 09/Dec/2016
 
 \lx ɔkwɩɩkɛ
 \ph ɔkwɪ̌ːkɛ
@@ -30231,6 +30509,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph nlɛpɛ(H)
 \sn 1
 \ge dish
+\is 5.2.1.5
 \is 5.2.2.8
 \is 6.6.2.4
 \de bowl made of clay
@@ -30242,8 +30521,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 2
 \ge sub-clan
+\is 4.1.9.8
 \de a group of families within a clan
-\dt 22/Jul/2016
+\dt 07/Dec/2016
 
 \lx ɔlɛpʋ
 \ph ɔlɛpʊ́
@@ -30328,11 +30608,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph alʊpʊ́
 \sn
 \ge weaver
-\is 6.6.1
-\de a weaver's shuttle
+\is 6.6.1.4
+\de a weaver
 \xv Tati ɔlʋpʋ amʋ ɔbwata layɩnta, sʋ alasi atati lʋ.
 \xe The weaver's shuttle has spoiled, so he has stopped weaving.
-\dt 20/May/2016
+\dt 07/Dec/2016
 
 \lx ɔma
 \ph ɔma
@@ -30669,7 +30949,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mːláwɪ
 \sn
 \ge cloth
-\is 6.6.1.2
+\is 6.6.1.1
 \de cloth
 \xv Kofi mʋ tsiaba ma ɔmlawɩ.
 \xe Kofi's wife doesn't have a cloth.
@@ -30677,7 +30957,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf ɩwɩ
 \cf tati
 \cf oyipɛɛ tati
-\dt 18/Oct/2016
+\dt 07/Dec/2016
 
 \lx ɔmlɛn
 \ph ɔmlɛ̃
@@ -30883,6 +31163,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph nnantwie(H)
 \sn
 \ge cow
+\is 1.6.1.1.3
 \is 6.3.1.1
 \de cow
 \bw Akan fi:nantwi
@@ -30892,16 +31173,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mbwɩ fɛ́ɛ́ bʋsɩrɩ tamɛ ɔnantswie olakpa ɔsɩrɩ yi a, bɛɛ ɔdɛ gbede lɔ.
 \xe All animals ran but as soon as a cow runs, they say it is mad.
 \bb Stewart List:0614
-\dt 01/Feb/2014
+\dt 07/Dec/2016
 
 \lx ɔnantswiebi
 \ph ɔnant͡swɪebi
 \ps n
 \sn
 \ge calf
+\is 1.6.1.1.3
+\is 2.6.4
 \is 6.3.1.1
+\is 8.4.6.5.1
 \de calf
-\dt 28/Jul/2013
+\dt 09/Dec/2016
 
 \lx ɔnaplɔɩ
 \ph ɔnáplɔ́ɪ
@@ -31307,13 +31591,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph apafɔ
 \sn
 \ge labourer
+\is 6.1.1
 \is 6.9.2
 \de labourer
 \nt Nkonya equivalent agyʋma ɔyɔpʋ/ agyʋma ayɔpʋ
 \bw Akan fi:ɔpaani
 \xv Nabɔ ɔpayin ɔkʋ ɩpa ánɩ́ ɔdɔ mɩ ndɔtɔ ha mɩ, fówun mɩanka mʋ ɩkɔ.
 \xe I have hired a labourer to weed my farm for me so that I pay him.
-\dt 20/May/2016
+\dt 09/Dec/2016
 
 \lx ɔpɛwa
 \ph ɔpɛwa(H)
@@ -31322,12 +31607,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mpɛwa(H)
 \sn
 \ge chisel
-\is 6.2.8
 \is 6.6.3
+\is 6.7.1
 \de chisel
 \xv Bʋtɔpʋ ɔpɛwa da nyitɔ ɔbɔ.
 \xe They use chisels to make holes in trees.
-\dt 26/Mar/2016
+\dt 09/Dec/2016
 
 \lx ɔpɩ
 \ph ɔpɪ
@@ -31428,7 +31713,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mpɔŋkɔ(H)
 \sn
 \ge horse
-\is 6.3.1.1
+\is 1.6.1.1.7
+\is 6.3.1.7
 \de horse
 \bw Akan fi:ɔpɔnkɔ (LLLH)
 \xv Datobi kʋ pɛ bʋtɔpʋ wa ɔpɔnkɔ ɔnɔ, pʋ damli mʋ, suna mʋ tɔa ɔbwɛ.
@@ -31437,7 +31723,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Aprosifɔ amʋʋ bʋtetsia mpɔnkɔsʋ amʋ bawie atɔ afɛpʋ amʋ́tɔ.
 \xe The police horse riders have attack the hawkers.
 \bb Stewart List:0611
-\dt 01/Nov/2016
+\dt 09/Dec/2016
 
 \lx ɔprada
 \ph ɔpráda
@@ -31462,14 +31748,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph mprákuo(H)
 \sn
 \ge pig
-\is 6.3.1.1
+\is 1.6.1.1.3
+\is 6.3.1.4
 \de pig
 \bw Akan fi:prakʋ H!H
 \rf Tape:6-1-340
 \xv Febie ɔprakuo alɩa-gyi-alɩa a, obéyinki yɔ ɔdɩbatɔ.
 \xe No matter how you wash a pig, it will return to the muddy place.
 \bb Stewart List:0615
-\dt 28/Jul/2013
+\dt 09/Dec/2016
 
 \lx ɔprɩm
 \ph ɔprɪm
@@ -31590,13 +31877,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge sheep
-\is 6.3.1.1
+\is 1.6.1.1.3
+\is 6.3.1.2
 \de sheep
 \ue archaic
 \cf kufa
 \na Used only in traditional ritual context
 \ee This word is cognate with 'sheep' in other Guang languages
-\dt 15/Oct/2016
+\dt 09/Dec/2016
 
 \lx ɔsapɔ
 \ph ɔsapɔ
@@ -31605,6 +31893,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph nsapɔ
 \sn
 \ge sponge
+\is 1.5.3
+\is 1.5.5
 \is 5.6.2
 \de sponge made from a climbing vine; luffa
 \sc Luffa aegyptiaca
@@ -31612,7 +31902,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-365
 \xv Kebi amʋ lakpɔɩ ɩwɩ dʋbɩ sʋ kpita mʋ ɩwɩ ɔsapɔ wanklaan.
 \xe The child has gotten very dirty so scrub him well with a sponge.
-\dt 06/May/2016
+\dt 09/Dec/2016
 
 \lx ɔsasɩ
 \ph ɔsaːsɪ́
@@ -31731,12 +32021,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge spicy
 \is 5.2.3.3.3
-\is 6.2.1.3
 \de spicy hot
 \xv Tɔnsɩ amʋ bʋ ɔsɩn oputsu amʋtɔ dʋbɩ.
 \xe The pepper is too hot in the soup.
 \bb Stewart List:1441
-\dt 01/Nov/2016
+\dt 09/Dec/2016
 
 \lx ɔsɩrɩ
 \ph ɔsɪrɪ́
@@ -31950,13 +32239,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ntabʊ(H)
 \sn
 \ge oar
-\is 6.4.5
+\is 6.4.5.3
+\is 7.2.4.2.1
 \de oar
 \rf Tape:6-1-439
 \xv Bʋtɔpʋ ɔtabʋ pla ɔklʋn.
 \xe They use paddles to row a canoe.
 \bb Stewart List:1223
-\dt 26/Mar/2016
+\dt 09/Dec/2016
 
 \lx ɔtan
 \hm 1
@@ -31983,14 +32273,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ntãʔ
 \sn 1
 \ge centre pole
-\is 6.5.2.2
+\is 6.5.2
 \is 6.6.3
 \de centre pole of a hut
 \ps n
 \sn 2
 \ge ridgepole
-\is 6.2.1.2
-\is 6.5.2.2
+\is 6.5.2
 \de ridgepole of a modern house
 \rf Tape:6-1-444
 \xv Mɩ obu ɔtan labia, sʋ mpalɩ amʋ lakpakpada.
@@ -31998,7 +32287,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn 3
 \ge pillar
-\is 6.5.2.2
+\is 6.5.2
 \de pillar of building
 \ps n
 \sn 4
@@ -32007,7 +32296,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 2.1.6
 \de backbone; spine
 \cf ɔma oyibi
-\dt 08/Sep/2016
+\dt 10/Dec/2016
 
 \lx ɔtansʋ imi
 \ph ɔtansʊ imi
@@ -32038,6 +32327,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge peak
 \is 1.2.1.1
 \is 6.5.2.2
+\is 8.6.2
 \de peak of a house or a mountain
 \rf Tape:6-1-457
 \xv Oyin amʋ lɔdʋ dɩnka ɩbʋ amʋ ɔtantra.
@@ -32055,7 +32345,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-453
 \xv Nasʋra atɔ amʋ nwun kpan, sʋ mɩ ɔtantra dɛ mɩ ɔsɩn.
 \xe I have carried things on my head plain, (without a pad), so the crown of my head is paining me.
-\dt 07/Sep/2016
+\dt 10/Dec/2016
 
 \lx ɔtapʋ
 \ph ɔtapʊ́
@@ -32179,6 +32469,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge hoe
 \is 6.2.8
+\is 6.7.1.2
 \de hoe
 \xv Fʋ ɔtɩ amʋ ma ankosi awɔlɛ, tsufɛ ɔtɩ oyi amʋ lɛba asɩ dʋbɩ.
 \xe It is not easy to make mounds with your hoe because the angle of the crook is too small.
@@ -32186,7 +32477,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mbʋ ntɩ tsɔtsɔɔtsɔ mɩ akuda asɩ.
 \xe I have many hoes in my village.
 \bb Stewart List:1207
-\dt 03/Oct/2016
+\dt 10/Dec/2016
 
 \lx ɔtɩansɩpʋ
 \ph ɔtɪansɪpʊ
@@ -32247,11 +32538,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph atɔɪ́k͡plápʊ́
 \sn
 \ge Counsellor/ adviser
-\is 3.3.3.2 Advise
+\is 3.3.3.2
 \de one who advises people
 \xv Anɩ sɩ Brabi gyi ɔtɔɩkplapʋ ha Ghana aban.
 \xe Mr. Brabi is a counsellor for the Ghana government.
-\dt 20/May/2016
+\dt 10/Dec/2016
 
 \lx ɔtɔntrɔbwɩ
 \ph ɔtɔntrɔbwɪ(H)
@@ -32362,13 +32653,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph nt͡sabí
 \sn
 \ge shelf
-\is 6.7.7
+\is 5.1.1.4
+\is 5.2.1.3
 \de shelf over hearth
 \xv Ɔtsɩ amʋ a, mʋ ɔtsabi ibi tuun.
 \xe The woman, her cooking shelf should be blackened completely.
 \na This sentence is part of a prayer at a traditional wedding ceremony.
 \rf Tape:6-1-496
-\dt 30/Jun/2014
+\dt 10/Dec/2016
 
 \lx ɔtsakpa
 \ph ɔt͡sak͡pa
@@ -32454,12 +32746,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge gravel
 \is 1.2.2.1
 \is 1.2.2.2
-\is 6.5.4.1
 \de gravel, usually laterite
 \xv Nɩ bokpi ɔkpa amʋ wʋlɩ ɔtsatsa mʋ́sʋ, bʋmɔwʋlɩ kootaa mʋ́sʋ a, ɩbɔ́wa ɔsa yinta.
 \xe If they scrape the road, pour gravel on it, but don't put asphalt on it, it will quickly spoil.
 \cf ɩsɩ
-\dt 20/May/2016
+\dt 10/Dec/2016
 
 \lx ɔtsawʋlɛ
 \ph ɔt͡sáwʊlɛ
@@ -32653,9 +32944,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge robber
+\is 4.8.2.8
 \is 6.8.9.1
 \de robber
-\dt 20/May/2016
+\dt 10/Dec/2016
 
 \lx ɔtswɩtswɩ
 \ph ɔt͡swɪ́t͡swɪ
@@ -32881,12 +33173,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge leather
+\is 6.3.7
 \is 6.6.4.3
 \de dried skin; leather
 \rf Tape:6-2-019
 \xv Anɩtɔpʋ ɔwʋlʋ kpakpa sun akwɛ.
 \xe We put dried skins stretch them on top of the drums.
-\dt 19/Jul/2016
+\dt 10/Dec/2016
 
 \lx ɔwʋnlɩn
 \ph ɔwʊ̃nlɪ́ʔ
@@ -32963,10 +33256,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge sharp edge
 \is 6.6.2.3
+\is 6.7.1
+\is 7.8.3
+\is 8.3.2.3
 \de sharp edge of knife, cutlass etc
 \xv Mapʋ ɩbɩ tsʋn krantɩɛ ɔyasʋ. Ɩbɛ́ka fʋ.
 \xe Don't run your hand along the sharp edge of a cutlass. It will cut you.
-\dt 30/Jun/2014
+\dt 10/Dec/2016
 
 \lx ɔyɩ
 \ph ɔyɪ́
@@ -33035,11 +33331,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge snare
 \is 6.4.2
+\is 7.2.6.1
 \de erected trap which does not spring
 \xv Ɔyɔɩ igyi yibi kʋ ánɩ́ bʋteyi mʋ́ mbwɩ ɔkpasʋ kɛkɛ ha ɔbwɩ amʋ onuto tebemli mʋ́tɔ pʋ kiki mlan atɔ sin nʋ.
 \xe This is a certain trap that is just erected on an animal path for the animal itself to get into it, wrap it around something and get stuck there.
 \nt They make a snare and attach it to a length of stick so that when the animal puts its head into it and tries to run off it will wrap the rope around something and the stick will get stuck and it won't be able to get away
-\dt 03/Oct/2016
+\dt 10/Dec/2016
 
 \lx ɔyʋlʋ
 \ph ɔyʊlʊ̂ʔ
@@ -33137,7 +33434,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 1
 \ge miss
-\is 6.4.1
+\is 7.7.2
 \de miss
 \xv Ɔtapʋ amʋ lɔtswɩ ɔbwɩ amʋ pan. Sʋ omenya mʋ.
 \xe The hunter shot an animal and missed. So he didn't get it.
@@ -33163,7 +33460,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Oyin amʋʋ fosuna mɩ igye amʋ a, napan mʋsʋ.
 \xe The man you showed me yesterday, I have forgotten him.
 \cf tan1
-\dt 01/Nov/2016
+\dt 10/Dec/2016
 
 \lx papa
 \hm 1
@@ -33242,12 +33539,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge avocado
 \is 1.5.1
+\is 5.2.3.1.2
 \is 6.2.1.4
 \de avocado
 \bw English fi:pear
 \xv Paya mʋ́a bodobodo bʋ agyilɛ.
 \xe Avocado and bread are easy to eat.
-\dt 30/Aug/2016
+\dt 10/Dec/2016
 
 \lx pentenplein
 \ph pentẽmplẽĩ
@@ -33305,14 +33603,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge shame
 \is 3.4.2.2.1
-\is 3.4.2.4.3 
+\is 3.4.2.4.3
 \de shame
 \xv Pɛlɩ sʋ a, oyin amʋ lasɩrɩ dalɩ wulutɔ.
 \xe Because of shyness the man ran away from town.
 \xv nya pɛlɩ
 \xe be shy
 \bb Stewart List:2110
-\dt 16/Jul/2016
+\dt 10/Dec/2016
 
 \lx pɛpɛ
 \ph pɛ́pɛʔ
@@ -33498,6 +33796,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge thatch
+\is 1.5.3
+\is 1.5.5
+\is 6.2.5.4
 \is 6.5.2.2
 \is 6.5.3
 \de thatch
@@ -33505,7 +33806,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The flame spread and caught the thatch and burned it.
 \vad opiki
 \ve Southern
-\dt 18/Oct/2016
+\dt 10/Dec/2016
 
 \lx pisii
 \ph pisiː
@@ -33914,12 +34215,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge bark tree
+\is 1.5.1
 \is 1.5.5
 \is 6.6.1.1
 \de a certain tree used to make bark cloth in the olden days
 \xv Atɩtɩfɔ betsia da poli afwɩ bwɛ ɔdanta pʋ́ ɔsan.
 \xe The olden times people beat poli bark to make loincloths and towels.
-\dt 07/Sep/2016
+\dt 10/Dec/2016
 
 \lx posoglo
 \ph posoglo(L)
@@ -33961,9 +34263,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge germinate
+\is 1.5.6
 \is 6.2.1.1
 \de germinate
-\dt 23/Jun/2014
+\dt 10/Dec/2016
 
 \lx pɔn
 \ph pɔ̃ʔ(L)
@@ -34116,6 +34419,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph aprɛntʊa(H)
 \sn
 \ge bottle
+\is 6.6.2.5
 \is 6.7.7
 \de glass bottle
 \xv Bʋtamapʋ ansibi anyɔ kɩ prɛntuatɔ.
@@ -34125,7 +34429,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ko prɛntʋa tsoli, afʋtsɛɩ nfɔ amʋ lɛ prɛntʋa amʋtɔ.
 \xe Turn the bottle over and pour the oil out of the bottle.
 \bb Stewart List:1183
-\dt 22/Jul/2016
+\dt 10/Dec/2016
 
 \lx prɛtɩ
 \ph prɛ́tɪ
@@ -34156,9 +34460,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge harvest
-\is 6.2.1.1
+\is 6.2.5
+\is 7.3.4.5
+\is 7.5.2.4
 \de to strip seeds from the head of grain
-\dt 30/Jun/2014
+\dt 10/Dec/2016
 
 \lx pu
 \hm 1
@@ -34214,7 +34520,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge uproot
-\is 6.3.1
+\is 6.2.1.2
+\is 6.2.4.2
+\is 7.3.2.7
 \de to uproot a plant
 \xv Olotsu ɔtɩ puli ɩfa mʋ́a mʋ́ nlin wa blawunutɔ.
 \xe He took a hoe and uprooted some grass with its roots and put it in a makeshift basket.
@@ -34231,7 +34539,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The leaves of the yam have died so they are harvesting it.
 \xv Mɩ kɩtɩba lawɩ. Noyopuli mʋ́.
 \xe My groundnuts have born fruit. I'm going to go harvest them.
-\dt 03/Nov/2015
+\dt 10/Dec/2016
 
 \lx pun
 \ph pũ
@@ -34240,8 +34548,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge draw water
 \is 1.3.1.4
 \is 6.6.7.2
-\de to draw water
-\dt 19/Jul/2016
+\de to draw a large amount of water from a water source
+\is sa1
+\dt 12/Dec/2016
 
 \lx punya
 \ph púɲá
@@ -34476,9 +34785,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge potato
-\is 6.2.1.2
+\is 6.2.1.2.1
 \de potato
-\dt 30/Jun/2014
+\dt 29/Nov/2016
 
 \lx pʋtɩ
 \ph pʊ́tɪ́
@@ -34517,16 +34826,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔtsɩ amʋ dɛ ɔswɩ pwɛ.
 \xe The woman is sculpting a hearth.
 \bb Stewart List:2821
-\cf Ɩpwɛ
 \ps v
 \sn 2
 \ge build
+\is 6.5.3
 \is 6.6.2.4
 \de to build using clay construction
 \xv Pwɛ obu ha mɩ.
 \xe Build a house for me.
 \bb Stewart List:2819
-\dt 03/Nov/2015
+\dt 12/Dec/2016
 
 \lx REDUP
 \np High tone on second repeated segment when first is low.
@@ -34563,10 +34872,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Sa ntsu ba mʋ onun asa, afɩtɛ mʋ ɔkpasʋ amandɩɛ.
 \xe Fetch water to him so that he can drink before we can/ask him his news.
 \xv Nta futuutu amʋʋ fasa amʋ tsɔ dʋbɩ.
-\xe The palm wine that you have fetched is too much.
+\xe The palm wine that you have poured is too much.
 \bb Stewart List:2668
 \bb Stewart List:2849
-\dt 01/Nov/2016
+\cf pun
+\dt 12/Dec/2016
 
 \lx sa
 \hm 2
@@ -34798,6 +35108,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph asapʊrada
 \sn
 \ge onion
+\is 1.5.3
 \is 6.2.1.2
 \de onion
 \xv Bʋtɛkaka sapʋrada wa abountɔ.
@@ -34810,7 +35121,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe You have eaten yourself like an onion.
 \nt This is an idiom for, you have wasted your time and not produced anything worthwhile. Like a bunch of onion hung up to dry for a long time that turn out to be only empty husks when examined.
 \bb Stewart List:0920
-\dt 30/Jun/2014
+\dt 12/Dec/2016
 
 \lx sasrasa
 \ph sasrasa
@@ -35202,6 +35513,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge money
+\is 1.2.2.3
 \is 6.8.6
 \de money
 \xv Alafɛ kpoli sʋ, ɔbʋ sika tsɔtsɔɔtsɔ.
@@ -35217,7 +35529,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf sika fututu
 \xv Sika pɛpɛ bʋbia dʋn sika fututu.
 \xe Gold is more valuable than silver.
-\dt 22/Jun/2014
+\dt 12/Dec/2016
 
 \lx sika fututu
 \ph sika futútú
@@ -35225,11 +35537,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge silver
 \is 1.2.2.3
+\is 6.6.2.1
 \de silver
 \xv Sika pɛpɛ bʋbia dʋn sika fututu.
 \xe Gold is more valuable than silver.
 \cf sika
-\dt 19/Jul/2016
+\dt 12/Dec/2016
 
 \lx sika pɛpɛ
 \ph sika pɛpɛ
@@ -35237,11 +35550,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge gold
 \is 1.2.2.3
+\is 6.6.2.1
 \de gold
 \cf sika
 \xv Sika pɛpɛ bʋbia dʋn sika fututu.
 \xe Gold is more valuable than silver.
-\dt 19/Jul/2016
+\dt 12/Dec/2016
 
 \lx sila
 \ph sílá
@@ -35655,9 +35969,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge silk
 \is 6.6.1.1
-\is 6.6.1.2
 \de silk
-\dt 30/Jun/2014
+\dt 12/Dec/2016
 
 \lx srʋfɔ
 \ph srʊ́fɔ́
@@ -35985,7 +36298,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx -sʋ
 \ph -sʊ
 \ps POST
-\sn
+\sn 1
 \ge on
 \is 6.1.3.2
 \de on
@@ -35996,7 +36309,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I have put the things on top of the table. Lift it and remove it.
 \bb Stewart List:0953
 \bb Stewart List:2960
-\dt 03/Oct/2016
+\sn 2
+\ps v
+\ge continue
+\is 8.4.7
+\de to continue on
+\xv yɔ mʋ́sʋ
+\xe to carry on forward
+\se bʋ mʋ́sʋ
+\ps v
+\ge succeed
+\is 6.1.3.2
+\de to be succeeding at s.t.
+\ge succeed
+\se
+\dt 12/Dec/2016
 
 \lx sʋkpʋsalɩ
 \ph sʊk͡pʊsalɪ
@@ -36265,13 +36592,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge plant
-\is 6.2.1.1
+\is 6.2.3
 \de to plant or transplant, as in plantain, bananas, cassava, nursed plants
 \rf Tape:7-1-262
 \xv Naswie blɔdɩ pʋ́ agbodi. Netsii mɩ atɔ bunhɛ amʋ ɛ swie.
 \xe I have planted plantain and cassava. I will uproot my covered things also and plant them.
 \nt From ths: words for planting: swie(set out/transplant - plantain, cassava, nursed plants), du(plant seeds corn), da (set out yam, cocoyam, peanuts)
-\dt 30/Jun/2014
+\dt 12/Dec/2016
 
 \lx swie
 \hm 2
@@ -36279,7 +36606,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge bear
-\is 6.2.1
+\is 1.5.6
+\is 6.2.5.4
 \de to bear fruit
 \np minimal tonal pair between LLʔ & LL
 \rf Tape:7-1-252
@@ -36291,7 +36619,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Kankaba oyi mɛ́ɛtalɩ swie paya abi.
 \xe The orange tree cannot bear avocado fruit.
 \bb Stewart List:2364
-\dt 23/Jun/2014
+\dt 12/Dec/2016
 
 \lx swɩ
 \ph swɪ́
@@ -36408,12 +36736,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge draw
-\is 6.6.5.2
+\is 6.6.5.1
 \de to draw or paint pictorial representation
 \rf Tape:7-1-309
 \xv Ɔtɛtaan nfuni.
 \xe He always draws pictures.
-\dt 22/Dec/2013
+\dt 12/Dec/2016
 
 \lx taba
 \ph tabaʔ
@@ -36773,14 +37101,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge stalk
-\is 6.2.1.1
+\is 6.4.1.1
+\is 7.2.6
 \de to stalk something
 \xv Andɔ dɛ klɔtɩ amʋ tɛ.
 \xe A cat is stalking the mouse.
 \rf Tape:7-1-407
 \xv Nɩ fʋmeyin tɛ a, fʋmɛ́ɛtalɩ bwɛ ɔtapʋ.
 \xe If you don't know how to stalk, you can't be a hunter.
-\dt 11/Nov/2015
+\dt 12/Dec/2016
 
 \lx tɛ-
 \ph tɛ-
@@ -36885,7 +37214,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 1
 \ge scratch
-\is 6.3.6
+\is 1.6.4.2
+\is 7.6.1
 \de search by scratching; as a fowl
 \xv Ɔbatebi ɔtɛtɛ nwunasʋ dʋbɩ a, ɔtɔtʋ mʋ yín awú.
 \xe When a chick scratches the trash heap too much, it will meet its mother's bones.
@@ -36901,7 +37231,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I am investigating him.
 \rf Tape:7-1-441
 \bb Stewart List:2211
-\dt 10/Sep/2016
+\dt 12/Dec/2016
 
 \lx tɛtɛ
 \hm 2
@@ -37172,6 +37502,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge cut off
 \is 7.5.2.4
+\is 7.8.3
 \de to cut off the top or most valuable part
 \nt From ths: words that cut: ka (general term), kaka (chop), kun (gash, fell a tree), kunkun (slash repeatedly), tɩn (cut entire stalk of banana etc, slaughter, behead, make tribal marks), wɔ (stab with a knife), pɩtɩ (cut apart), laɩ (cut off rotten part, or fingernails - pare), kuti (cut off portion of soft food or other item), dɩnkɩ (cut (lower) hair), sre (carve, peel with a knife)
 \nt words for harvesting: bia/sɩɛtɩ (break off - corn), kpɔtɩ (pluck - fruit, leaves), tɩn (cut a stalk or head of - plantain, palm nuts), puli (harvest from underground - peanuts), kwi (dig - cassava, yam)
@@ -37197,13 +37528,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Don't use your child as a false excuse, let's go.
 \sn 2
 \ge harvest
-\is 6.2.1.1
+\is 6.2.5
 \de to harvest
 \rf Tape:7-1-532
 \xv Fɔyɔ ndɔtɔ a, tɩn kwadu ba mɩ.
 \xe When you go to farm harvest some bananas for me.
 \bb Stewart List:2803
-\dt 28/Nov/2016
+\dt 12/Dec/2016
 
 \lx tɩn
 \hm 2
@@ -37266,10 +37597,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge harvest time
-\is 6.2.1.1
+\is 6.2.5
+\is 8.4.1.5
 \de time of harvest
 \lt cutting off time
-\dt 30/Sep/2016
+\dt 12/Dec/2016
 
 \lx tɩnkɩ
 \ph tɪ́ŋkɪ́
@@ -37435,14 +37767,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tomatoes
-\is 6.2.1.3
+\is 1.5.3
+\is 5.2.3.1.2
+\is 5.2.3.1.3
 \de tomatoes
 \nt also ntose or tɔmantɔsɩ
 \bw English fi:tomato
 \rf Tape:7-1-581
 \xv Mbʋ tomantosi ndɔ kpɔnkpɔntɩ kʋ.
 \xe I have a large tomato farm.
-\dt 31/May/2016
+\dt 12/Dec/2016
 
 \lx tɔ
 \hm 1
@@ -37794,7 +38128,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge thread
 \is 5.4.1
-\is 6.6.1.3
+\is 6.6.1.2
+\is 6.7.5
 \de to thread a needle, beads
 \rf Tape:7-2-127
 \xv Atsɩ bʋtɔtrʋ abuto wa amʋ abi tsibi.
@@ -37803,7 +38138,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mɩ ansibi layinta sʋ ntamatalɩ trʋ ɔbɩatɔ.
 \xe My eyes are spoiled so I am never able to thread a needle.
 \bb Stewart List:2878
-\dt 29/Nov/2016
+\dt 12/Dec/2016
 
 \lx trʋkpa
 \ph trʊk͡pa(H)
@@ -37812,12 +38147,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph atrʊk͡pa(H)
 \sn
 \ge billy goat
-\is 6.3.1.1
+\is 1.6.1.1.3
+\is 1.6.7
+\is 6.3.1.3
 \de male goat
 \rf Tape:7-1-142
 \xv Ndɛ trʋkpa dunka ɔbɔdʋ mɩ akpala ha mɩ.
 \xe I am looking for a billy goat to service my (she) goats for me.
-\dt 23/Jun/2014
+\dt 12/Dec/2016
 
 \lx tsa
 \hm 1
@@ -37920,7 +38257,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph at͡sala
 \sn
 \ge old farm
-\is 6.2.2
+\is 6.2.9
+\is 8.4.6.5.4
 \de previous year's farm which yields crops that take two seasons to mature
 \rf Tape:7-2-179
 \xv Mɩ tsala pɔpwɛtɔ labʋla sʋ nɔ́dɔ mʋ́tɔ.
@@ -37930,9 +38268,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se tsala dada
 \ps n
 \ge older farm
-\is 6.2.2
+\is 6.2.9
+\is 8.4.6.5.4
 \de farm older than one year old
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx tsala
 \hm 2
@@ -38059,11 +38398,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge gravel
-\is 1.2.2.1
 \is 1.2.2.2
 \is 6.5.4.1
 \de gravel
-\dt 20/May/2016
+\dt 12/Dec/2016
 
 \lx tsantsankʋ
 \ph t͡sant͡saŋkʊ
@@ -38182,6 +38520,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge change
 \is 9.1.1.2
+\is 9.1.2.6
 \de to change from one thing to another
 \rf Tape:7-2-239
 \xv Tsɛ fʋ atadɩɛ amʋ ayɔ ndɔtɔ.
@@ -38190,7 +38529,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The world is like chameleon's skin it always changes.
 \nt proverb
 \rf Tape:6-2-002
-\dt 22/Jul/2016
+\dt 12/Dec/2016
 
 \lx tsɛ
 \hm 2
@@ -38379,7 +38718,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge representative
-\is 6.8.1.5
+\is 4.6.6.3
 \de to sit in someone's place, take someone's place
 \cf anamu
 \rf Tape:7-2-317
@@ -38388,7 +38727,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-325
 \xv Nɩ fʋ sɩ ma ɩnʋ a, tsia mʋ anaŋu.
 \xe When your father is not there, take his place.
-\dt 14/Sep/2016
+\dt 12/Dec/2016
 
 \lx tsianɩ
 \ph tsianɪ̌ʔ
@@ -38683,10 +39022,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge stump
+\is 1.5.1
 \is 1.5.5
 \is 6.2.4.2
+\is 8.2.2
 \de a tree stump
-\dt 19/Jul/2016
+\dt 12/Dec/2016
 
 \lx tsɩ
 \ph t͡sɪ
@@ -38832,9 +39173,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge large bean
+\is 1.5.3
+\is 1.5.5
+\is 5.2.3.1.1
+\is 5.2.3.1.3
 \is 6.2.1.3
 \de a large bean in a flat pod
-\dt 31/May/2016
+\dt 12/Dec/2016
 
 \lx tsɔntsɔɔntsɔn
 \ph t͡sɔ̃́nt͡sɔ̃́ːnt͡sɔ̃́ʔ
@@ -39346,7 +39691,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 3
 \ge expel
-\is 6.3.1
+\is 7.3.3.4
 \de to drive someone away
 \rf Tape:7-2-574
 \xv Ototu amʋ́ nʋ.
@@ -39359,7 +39704,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to spit
 \rf Tape:7-2-568
 \bb Stewart List:2040
-\dt 31/Oct/2016
+\dt 12/Dec/2016
 
 \lx tu
 \hm 2
@@ -39522,11 +39867,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge blunt
 \is 6.6.2.3
+\is 8.3.2.4
 \de very blunt
 \rf Tape:7-2-594
 \xv Mɩ krantɩɛ amʋ ɔnɔ lawu tuturutuu.
 \xe My cutlass edge has become very dull.
-\dt 04/Jul/2014
+\dt 12/Dec/2016
 
 \lx tuun
 \ph tũː
@@ -39883,6 +40229,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph awaɪnbi
 \sn
 \ge palm branch
+\is 1.5.1
 \is 6.2.1.7
 \is 6.2.5.4
 \de palm branch with the fronds removed
@@ -39892,7 +40239,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-188
 \xv Bʋtɔkpalɩ mbla lɛ mʋ́sʋ fówun lasi awaɩnbi amʋ.
 \xe They strip the palm fronds from a palm branch leaving the central stick.
-\dt 31/May/2016
+\dt 12/Dec/2016
 
 \lx wankɩ
 \ph wáŋkɪ́
@@ -39995,6 +40342,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph awanlɪ̃ʔ(H)
 \sn
 \ge guinea fowl
+\is 1.6.1.2
 \is 6.3.6
 \de guinea fowl
 \xv Mma wanlɩn.
@@ -40004,7 +40352,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mɩ wanlɩn dɛka, ɔflɔɩ a, nénya awanlɩn tsɔtsɔɔtsɔ.
 \xe My guinea fowl is laying, when she hatches them I will get plenty of guinea fowls.
 \bb Stewart List:0716
-\dt 04/Feb/2016
+\dt 12/Dec/2016
 
 \lx wata
 \ph wátá
@@ -40177,7 +40525,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge bear
-\is 6.2.1
+\is 5.2.3.1.5
+\is 6.2.1.2
 \de bear fruit underground as groundnuts; yams; cassava
 \rf Tape:8-1-287
 \xv Igyo amʋ lawɩ moni dʋbɩ.
@@ -40185,7 +40534,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-290
 \xv Mɩ kɩtɩba lawɩ. Noyopuli mʋ́.
 \xe My groundnuts have born fruit. I'm going to go harvest them.
-\dt 04/Feb/2016
+\dt 12/Dec/2016
 
 \lx woo
 \ph woː
@@ -40623,7 +40972,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-373
 \xv Kɛlɩ oyi amʋ tuntu amʋ ɩtɛfa wunya dantapʋ.
 \xe Silk cotton tree's fruit burst and spreads fluff.
-\dt 31/Oct/2016
+\dt 01/Dec/2016
 
 \lx Wurupong
 \ps PropN
@@ -41186,6 +41535,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 3
 \ge sharpen
 \is 6.6.2.3
+\is 8.3.2.3
 \de to sharpen a blade
 \rf Tape:8-1-443
 \xv Yia mɩ krantɩɛ ha mɩ.
@@ -41199,7 +41549,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-554
 \xv Ɔdɛ oyi yia.
 \xe He is using a walking stick.
-\dt 13/Sep/2016
+\dt 12/Dec/2016
 
 \lx yibi
 \ph yibi(H)
@@ -41222,7 +41572,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn 2
 \ge trap
-\is 6.4.1
+\is 6.4.2
 \de trap
 \xv Yibi kpa a, ɔma iteyinki.
 \xe When a trap sprung, it always goes back.
@@ -41233,7 +41583,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Yibi lakpa kɩta kpasi amʋ.
 \xe A trap has sprung and caught the bush rat.
 \bb Stewart List:1228
-\dt 03/Oct/2016
+\dt 12/Dec/2016
 
 \lx yie
 \ph yíéʔ
@@ -41431,13 +41781,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ayinti(H)
 \sn
 \ge stump
+\is 1.5.1
 \is 1.5.5
 \is 6.2.4.2
+\is 8.2.2
 \de stump of a tree
 \rf Tape:8-2-015
 \xv Ayinti bʋ mɩ ndɔtɔ dʋbɩ sʋ yinti lawɔ mɩ ayabitɔ.
 \xe There are many stumps in my farm so a stump has pierced my foot.
-\dt 19/Jul/2016
+\dt 12/Dec/2016
 
 \lx -yintse
 \ph -yint͡se
@@ -41495,6 +41847,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge careful
+\is 4.4.3.4
 \is 6.1.2.3.1
 \de take care
 \rf Tape:8-1-410
@@ -41502,7 +41855,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Take care coming down the mountain it is slippery there.
 \xv Ɔdɔtɔpʋ odua ɔtamayɩlɔwɩ a, otokun ɩwɩ atɔ.
 \xe A farmer who does not take care, cuts himself.
-\dt 21/Jul/2016
+\dt 12/Dec/2016
 
 \lx yɩraka
 \ph yɪ́ráka
