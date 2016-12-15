@@ -968,8 +968,18 @@
 \-fil
 
 \+fil SemanticDomain
-\mkr sd
-\txt 1.3
+\mkr is
+\txt 7.[D]
+\fel Or
+\mkr is
+\txt 7.[D].[D]
+\fel Or
+\mkr is
+\txt 7.[D].[D].[D]
+\fel Or
+\mkr is
+\txt 7.[D].[D].[D].[D]
+\MatchWhole
 \match_char c
 \-fil
 
@@ -996,7 +1006,8 @@
 \-fil
 
 \+fil search
-\mkr se
+\mkr lx
+\txt bi[#]
 \match_char c
 \-fil
 
