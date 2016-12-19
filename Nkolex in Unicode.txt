@@ -211,23 +211,23 @@
 \ps n
 \sn
 \ge two people
-\is 8.1.1
-\is 9.5.2.4
+\is 2
+\is 8.1.1.1.2
 \de two people
 \xv Nɩ abanyɔ natɩ bʋ alɛ, tsufɛ bʋtɔtɔɩ kpla aba.
 \xe If two people are walking it is good, because they advise each other.
 \cf aba-
-\dt 02/May/2016
+\dt 18/Dec/2016
 
 \lx abasa
 \ph abasá
 \ps n
 \sn
 \ge three people
-\is 8.1.1
-\is 9.5.2.4
+\is 2
+\is 8.1.1.1.2
 \de three people
-\dt 02/May/2016
+\dt 18/Dec/2016
 
 \lx abawa
 \ph abawá
@@ -658,8 +658,8 @@
 \is 9.7.2.3
 \de small town on the main road, north of Bumbula
 \nt The name means "crodile stream" in Akan
-\nt located at 7° 15' 27"N, +0° 19' 35"E
-\dt 14/Jul/2016
+\ee located at 7° 15' 27"N, +0° 19' 35"E
+\dt 18/Dec/2016
 
 \lx adɩawun
 \ph adɪawũ(H)
@@ -1480,9 +1480,9 @@
 \ge Ahenkro
 \is 9.7.2.3
 \de major town of Southern Nkonya; seat of the Southern Nkonya paramountcy
-\nt located at 7° 6' 52"N, +0° 19' 24"E
+\ee located at 7° 6' 52"N, +0° 19' 24"E
 \cf Wulubitɔ
-\dt 15/Sep/2016
+\dt 18/Dec/2016
 
 \lx ahin
 \ph ahĩ(H)
@@ -1517,8 +1517,8 @@
 \ge Ahundwo
 \is 9.7.2.3
 \de town off the main road southwest of Ahenkro
-\nt located at 7° 6' 35"N, +0° 18' 50"E
-\dt 15/Jul/2016
+\ee located at 7° 6' 35"N, +0° 18' 50"E
+\dt 18/Dec/2016
 
 \lx ahʋhwɛ
 \ph ahʊhwɛ́
@@ -1716,15 +1716,20 @@
 
 \lx Aklɩfɔ
 \ph aklɪ́fɔ́ (H)
-\ps n
+\sg Ɔklɩfɔ
+\ph ɔklɪ́fɔ (H)
+\ps Propn
 \sn
 \ge Alavanyo
 \is 9.7.1.4
 \de Alavanyo; the Ewe group east of Nkonya
-\nt The Nkonyas and Alavanyos have had a long-running dispute.
-\nt The term is pejorative, from klɩ(tie)+fɔ(people).
+\cf klɩ
 \cf Nhuanfɔ
-\dt 12/Dec/2016
+\ps PropN
+\de Alavanyo – the Ewe speaking people to the east of Southern Nkonya
+\ee For nearly the last century there has been periodic war between the Nkonyas and the Alavanyos.
+\cf klɩ
+\dt 18/Dec/2016
 
 \lx Akloba
 \ps PropN
@@ -1733,8 +1738,8 @@
 \ge Akloba
 \is 9.7.2.3
 \de town on the main road south of Ahenkro; southernmost of the cluster of towns around Ahenkro
-\nt located at 7° 6' 42"N, +0° 19' 21"E
-\dt 14/Jul/2016
+\ee located at 7° 6' 42"N, +0° 19' 21"E
+\dt 18/Dec/2016
 
 \lx aklodobi
 \ph aklodobí (H)
@@ -2180,6 +2185,7 @@
 \ps ADV
 \sn
 \ge anyhow
+\is 9.2.3.2
 \is 9.5.1.4
 \de no matter how
 \cf alɩa
@@ -2189,17 +2195,18 @@
 \ge by all means
 \is 9.5.1.4
 \de by all means
-\dt 30/Oct/2016
+\dt 18/Dec/2016
 
 \lx alɩagyialɩa igyi
 \ph alɪáʤialɪá iʤi
 \ps ADV
 \sn
 \ge by all means
+\is 9.2.3.2
 \is 9.5.1.4
 \de by all means
 \cf alɩa
-\dt 17/May/2016
+\dt 18/Dec/2016
 
 \lx alɩɩ
 \ph alɪː(H)
@@ -3021,8 +3028,8 @@
 \ge Asakyere
 \is 9.7.2.3
 \de town on the main road; southernmost of the Nkonya towns
-\nt located at 7° 5' 17"N, +0° 19' 28"E
-\dt 14/Jul/2016
+\ee located at 7° 5' 17"N, +0° 19' 28"E
+\dt 18/Dec/2016
 
 \lx asaprada
 \ph asapráda
@@ -5974,9 +5981,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge Bumbula
 \is 9.7.2.3
 \de town on the main road; five km north of Wurupong
-\nt located at 7° 13' 48"N, +0° 20' 23"E
+\ee located at 7° 13' 48"N, +0° 20' 23"E
 \na This town is named after Buhbler, a German plantation owner. When he was forced to leave because of World War I, the Nkonyas refused to buy back the land, which they considered to be theirs. Ewe settlers from Kpando purchased the land, and it is now a primarily Ewe town, under the Nkonya Wurupong paramountcy.
-\dt 14/Jul/2016
+\dt 18/Dec/2016
 
 \lx bun
 \ph bũʔ(H)
@@ -13949,9 +13956,9 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge Kadjebi
 \is 9.7.2.3
 \de town on the main road; northernmost of the cluster of towns around Ahenkro.
-\nt located at 7° 7' 21"N, +0° 19' 39"E
+\ee located at 7° 7' 21"N, +0° 19' 39"E
 \nt The pronunciation of this town name is different from the Akan town north of Jasikan, although the spelling is borrowed from that town.
-\dt 14/Jul/2016
+\dt 18/Dec/2016
 
 \lx kafia
 \ph káfia
@@ -16716,7 +16723,8 @@ cf fonflo
 \de Kpando; major Ewe town south of Nkonya
 \xv Ɔkɛ gyi Kpando biakɛ. Sʋ nótu yɔhɔ atɔ.
 \xe Tomorrow is Kpando market, so I'll get up early to go buy some things.
-\dt 14/Jul/2016
+\ee located at 6° 59' 50"N, +0° 17' 38"E
+\dt 18/Dec/2016
 
 \lx kpankɛtsɛnkɛtsɛn
 \ph k͡pãkɛt͡sɛ̃kɛt͡sɛ̃
@@ -20107,13 +20115,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge obstructions
+\is 8.4.6.1.2
 \is 9.4.2.1
 \de things that prevent you from doing what you want
 \xv Mbatahʋn lakɩta anɩ, tsufɛsɛ ɔha lawu. Anɩmɛ́ɛtalɩ trayɔ ndɔ amʋtɔ.
 \xe Obstacles have caught us because someone has died. We will no longer be able to go to the farm.
 \bw Akan fi:mbatahʋn
 \rf Tape:4-2-049
-\dt 16/Jun/2014
+\dt 18/Dec/2016
 
 \lx mbepi
 \ph mbépiʔ
@@ -20432,6 +20441,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \vaaph môː-
 \sn
 \ge will not
+\is 8.4.6.4
 \is 9.4.6.1
 \de won't, future negative
 \rf Tape:4-2-190
@@ -20455,7 +20465,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-363
 \xv Mmɔ́ɔyɔ. Fʋmɔ́ɔdɔ. Bʋmɔ́ɔmɔ ɔnɔ.
 \xe I will not go. You will not weed. They will not finish.
-\dt 15/Oct/2016
+\dt 18/Dec/2016
 
 \lx mɛnɩ
 \ph mɛ́ɛnɪ
@@ -20836,6 +20846,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge not yet
 \is 9.4.1.2
+\is 9.4.6.1
 \de not yet
 \rf Tape:4-2-371
 \xv Ɔmɔkʋ nya yɔ.
@@ -20849,7 +20860,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-378
 \xv Omɔkʋ wu. Ɔdɛ ɔŋɛ fʋ.
 \xe He's not yet dead. He's still breathing.
-\dt 03/Oct/2016
+\dt 18/Dec/2016
 
 \lx mɔmʋ
 \ph mɔmʊ
@@ -25007,7 +25018,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ve Southern
 \sn
 \ge year
-\is 9.2.3.4
+\is 8.4.1.6
 \de year
 \rf Tape:6-2-416
 \xv Ofi ma ɔbalɔ.
@@ -25021,7 +25032,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Asa ofi anfɩ bɔ́mɔ ɔnɔ a, abotu yɔ anɩ agyuma ɔyɔkpa pɔpwɛ amʋtɔ.
 \xe Before the year ends, we shall move to our new office.
 \bb Stewart List:1112
-\dt 03/Oct/2016
+\dt 18/Dec/2016
 
 \lx ofiakpa
 \ph ofíak͡pa
@@ -29829,17 +29840,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Turtle's neck is longer than tortoise's.
 \dt 15/Jul/2016
 
-\lx Ɔklɩfɔ
-\ph ɔklɪ́fɔ
-\ps PropN
-\sn
-\ge Alavanyo
-\is 9.7.1.4
-\de Alavanyo – the Ewe speaking people to the east of Southern Nkonya
-\na For nearly the last century there has been periodic war between the Nkonyas and the Alavanyos.
-\cf klɩ
-\dt 15/Sep/2016
-
 \lx ɔklʋn
 \ph ɔklʊ̃ʔ
 \ps n
@@ -30938,8 +30938,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge what woman
 \is 9.2.3.2
 \de what sort of woman
-\nt Obsolete
-\dt 20/May/2016
+\ue obsolete
+\dt 18/Dec/2016
 
 \lx ɔmɛwʋlɩ
 \ph ɔmɛwʊ́lɪ
@@ -32735,12 +32735,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADV
 \sn
 \ge when
+\is 8.4.3
 \is 9.2.3.3
 \de time that
 \rf Tape:6-1-522
 \xv Ɔtsanɩ fɔ́yɔ a, bla mɩ ankla fʋ mɩ pio.
 \xe When you are going, tell me in order that I can send a message to my brother with you.
-\dt 20/Jul/2016
+\dt 18/Dec/2016
 
 \lx ɔtsantsan
 \ph ɔt͡sãt͡sã
@@ -37073,12 +37074,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps PropN
 \sn
 \ge Tawiah
+\is 2.6.3.7
+\is 4.1.9.1.9
 \is 9.7.1.1
 \de someone born after twins
 \bw Akan fi:tawia
 \xv Mʋ da gyi Tawia, tsufɛ bɔkwɩɩ mʋ buo atabi.
 \xe Her name is Tawiah, because she was born after twins.
-\dt 16/Sep/2013
+\dt 18/Dec/2016
 
 \lx Tayi
 \ph táyíʔ (H)
