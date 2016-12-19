@@ -2193,19 +2193,9 @@
 \ph alɪáʤialɪá iʤi
 \ps ADV
 \ge by all means
-\is 9.5.1.4
-\de by all means
-\dt 18/Dec/2016
-
-\lx alɩagyialɩa igyi
-\ph alɪáʤialɪá iʤi
-\ps ADV
-\sn
-\ge by all means
 \is 9.2.3.2
 \is 9.5.1.4
 \de by all means
-\cf alɩa
 \dt 18/Dec/2016
 
 \lx alɩɩ
@@ -4383,6 +4373,7 @@
 \dt 14/Jun/2016
 
 \lx bamba
+\hm 1
 \ph bambá
 \ps ADJ
 \sn
@@ -4392,9 +4383,10 @@
 \de additional item
 \xv Anɩbʋ oyi bamba ɩkʋ ha fʋ.
 \xe We have another stick for you.
-\dt 17/Dec/2016
+\dt 18/Dec/2016
 
 \lx bamba
+\hm 2
 \ph bámbaʔ (L)
 \ps n
 \pl abamba
@@ -4409,7 +4401,7 @@
 \bb Stewart List:0702
 \xv Obubwi amʋ abamba amʋtɔ lafɔ sʋ ɔmɛtalɩ fuli.
 \xe The wings of the bird is wet so it can't fly.
-\dt 20/Jul/2016
+\dt 18/Dec/2016
 
 \lx bambi
 \ph bámbiʔ
@@ -11445,6 +11437,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \dt 16/Jul/2016
 
 \lx isutin
+\hm 1
 \ph isutĩ́
 \ps ADJ
 \pl asutin
@@ -11467,9 +11460,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Abeku agyuma amʋʋ ɔlɔyɔ amʋsʋ a, alabwɛ isutin.
 \xe Abeku has become deaf due to the work he did.
 \bb Stewart List:1687
-\dt 01/Nov/2016
+\dt 18/Dec/2016
 
 \lx isutin
+\hm 2
 \ph isutĩ̂ːʔ
 \ps v
 \sn
@@ -11479,7 +11473,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to stub your foot against s.t.
 \xv Isutin ɩhɩɛ bʋ ɔsɩn.
 \xe To knock foot against a stone is very painful.
-\dt 19/Jul/2016
+\dt 18/Dec/2016
 
 \lx itin
 \ph itĩ(H)
@@ -11907,6 +11901,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \dt 06/Dec/2016
 
 \lx ɩbɛ
+\hm 1
 \ph ɪbɛʔ(H)
 \ps n
 \pl abɛ
@@ -11915,9 +11910,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge puff adder
 \is 1.6.1.3.1
 \de puff adder
-\dt 30/Sep/2013
+\dt 18/Dec/2016
 
 \lx ɩbɛ
+\hm 2
 \ph ɪbɛ
 \ps n
 \sn
@@ -11928,7 +11924,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf yebi
 \ve Northern
 \bw Akan fi:ɩbɛ
-\dt 03/Oct/2016
+\dt 18/Dec/2016
 
 \lx ɩbɛtɛ
 \ph ɪbɛ́tɛʔ
@@ -12535,13 +12531,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge bravery
 \is 4.4.3.1
 \de bravery
-\se ɩklʋn nya
-\ps n
-\ge patience
-\is 4.3.1.5
-\de patience
-\xv Kokoli makpla mʋ, nya klʋn anuu.
-\xe Please don't mind him but be patient, you hear.
 \se ɩklʋntɔ damli
 \ps n
 \ge repent
@@ -12553,7 +12542,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \is 4.4.4.2
 \de to comfort someone
 \bb SIL-AWL:0082
-\dt 31/Oct/2016
+\dt 18/Dec/2016
 
 \lx ɩklʋn lwii
 \ph ɪklʊ̃lwǐː
@@ -12573,7 +12562,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de suffer without complaining
 \xv Ɩbʋalɛ ánɩ́ okristoyɩn obénya klʋn mbrɛ fɛ́ɛ́tɔ.
 \xe It is good for a Christian to have patience all the time.
-\dt 16/Jul/2016
+\xv Kokoli makpla mʋ, nya klʋn anuu.
+\xe Please don't mind him but be patient, you hear.
+\dt 18/Dec/2016
 
 \lx ɩkɔ
 \ph ɪkɔ (H)
@@ -13846,12 +13837,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \is 9.1.2
 \de Akan loan word with uncertain core meaning ka hon – join; ka ntam – swear an oath; ka anim – rebuke
 \rf Tape:3-1-287
-\se ka anim
-\ps v
-\ge rebuke
-\is 4.8.4.1
-\de to rebuke s.o.
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx ka anim
 \ph ka anim
@@ -13860,7 +13846,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge rebuke
 \is 4.8.4.1
 \de to rebuke s.o. for s.t.
-\dt 18/May/2016
+\dt 18/Dec/2016
 
 \lx ka hʋn
 \ph ka hʊ̃
@@ -14915,15 +14901,6 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \dt 06/Dec/2016
 
 \lx kinkin
-\ph kĩ́kĩ́
-\ps ADV
-\sn
-\ge seriously
-\is 6.1.2.3.4
-\de less intense form of kinkiinkin
-\dt 06/Dec/2016
-
-\lx kinkin
 \ph kĩ́kĩ́ (H)
 \ps ADV
 \sn
@@ -15036,10 +15013,16 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge expect
 \is 3.2.7
 \de to expect s.t.
+\rf Tape:3-1-580
 \xv Mlɩ ɛ, mlɩ nya ɩklʋn kɩ anɩ Wie ɔkpa.
 \xe You also, you be patient and expect our Lord.
-\rf Tape:3-1-580
-\dt 29/Oct/2016
+\rf Tape:5-2-488
+\xv Mlɩkɩ Anɩ Wie ɔkpa. Mʋ ɩbá lawie woyi.
+\xe You should expect our Lord, his coming has entered the house (is imminent).
+\rf Tape:5-2-492
+\xv Mlɩmakɩ mɩ ɔkpa, Mmɛ́ɛba ndɛ.
+\xe Don't expect me, I will not come today.
+\dt 18/Dec/2016
 
 \lx kɩ Xsʋ
 \ph kɪ sʊ
@@ -19298,11 +19281,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de to show
 \xv Lɛ fʋ bwɛhɛ wanklaan suna.
 \xe Show your good deeds (behaviour).
-\se lɛ ha
-\ps v
-\ge betray
-\is 4.8.2.7
-\de to betray someone
 \se lɛ asɩ
 \ps v
 \ge give reason
@@ -19319,7 +19297,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de to explain s.t. to s.o.
 \cf suna
 \cf asɩ1
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx lɛ-
 \ph lɛ-/lɛ́-
@@ -19379,7 +19357,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-495
 \xv Bɛlɛ Anyankpʋsatɔ Ɔdɛhɛn amʋ ha aha.
 \xe They will betray the Son of Man to people.
-\dt 21/Jul/2016
+\nt Anyankpʋsatɔ Ɔdɛhɛn is draft rendering of Nyankpʋsa-Mʋ-Bi
+\dt 18/Dec/2016
 
 \lx lɛ ɩla
 \ph lɛ ɪlaʔ(H)
@@ -20157,6 +20136,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \dt 19/Jul/2016
 
 \lx mbla
+\hm 1
 \ph mblâʔ
 \ps n
 \sn
@@ -20173,9 +20153,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-095
 \xv Nɩ mlɔmɔ mʋ́ ɔnɔ a, mlɩ kpa ɔfɛsɩ mbla amʋ lɛ woyitɔ tsitsa.
 \xe If you(pl.) finish, collect the leaves left over from your broom making. Take them from the house and throw them away.
-\dt 29/Nov/2016
+\dt 18/Dec/2016
 
 \lx mbla
+\hm 2
 \ph mbla
 \ps n
 \sn
@@ -20192,7 +20173,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-081
 \xv Mʋ yín lawa mbla ha mʋ ánɩ́ osi bigyi.
 \xe His mother has commanded him that he should stop crying for nothing.
-\dt 28/Nov/2016
+\dt 18/Dec/2016
 
 \lx mblɩkpɛ
 \ph mblɪk͡pɛ
@@ -20829,15 +20810,21 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \is 6.1.2.3.5
 \de to finish something
 \lt kill mouth
+\xv Ɩlasi kpalobi anɩlamɔ anɩ agyʋma ɔnɔ.
+\xe There is only a little left before we finish our work.
+\rf Tape:6-1-188
+\xv Anɩ asʋn amʋ ɔnɔ mɔtɔ pɛ, mʋʋ oyin amʋ lɛba a.
+\xe Just as our matter finished, then the man came.
 \se ɔnɔ ɔmɔkpa
 \ps n
 \ge ending
 \is 6.1.2.3.5
 \de the ending of something
+\xv Fʋmɛ́ɛtalɩ wun mʋ́ ɔnɔ ɔmɔkpa.
+\xe You cannot see the end.
+\nt In this case referring to how much work we have left.
 \rf Tape:4-2-239
-\xv Ɩlasi kpalobi anɩla mɔ anɩ agyʋma ɔnɔ.
-\xe There is only a little left before we finish our work.
-\dt 31/Oct/2016
+\dt 18/Dec/2016
 
 \lx mɔkʋ
 \ph mɔkʊ́ʔ
@@ -21611,7 +21598,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \dt 19/Jul/2016
 
 \lx natɩ kɩta
-\hm 1
 \ph natɪʔ kɪ́tá
 \ps v
 \sn
@@ -21622,7 +21608,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Natɩ lakɩta mɩ ayabi.
 \xl Spider has caught my legs.
 \xe I'm having pins and needles (paresthesia) in my legs.
-\dt 29/Sep/2016
+\dt 18/Dec/2016
 
 \lx natɩ mbla
 \ph natɪ́ mblá
@@ -23463,6 +23449,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \dt 12/Dec/2016
 
 \lx nwɛn
+\hm 1
 \ph ŋʷɛ́ʔ
 \ps vt
 \sn
@@ -23471,9 +23458,10 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \de hit against
 \xv Ɔlɛdɩda, ɔlɔpʋ mʋ nwun nwɛn.
 \xe He fell down and banged his head.
-\dt 28/Nov/2016
+\dt 18/Dec/2016
 
 \lx nwɛn
+\hm 2
 \ph ŋʷɛ̃̂ʔ
 \ps n
 \sn 1
@@ -23499,7 +23487,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Bʋsrɩ nwɛnsʋ.
 \xe They are competing in a race.
 \is 4.3.4.3.1
-\dt 21/Sep/2016
+\dt 18/Dec/2016
 
 \lx nwɛn atɔ
 \ph ŋʷɛ̃́ atɔ́
@@ -23722,11 +23710,6 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \is 8.1.5.6
 \de partially close the door
 \rf Tape:5-1-497
-\se nya ɩwɩ
-\ps v
-\ge rich
-\is 6.8.1.2
-\de to become rich
 \se nya ɔblɔ
 \ps v
 \ge get angry
@@ -23745,7 +23728,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \de to start; used as the first verb in a serial verb construction to start doing
 \xv Benya wun mʋ alɩ, ...
 \xe When they noticed him doing that, ...
-\dt 31/Oct/2016
+\dt 18/Dec/2016
 
 \lx nya ɩwɩ
 \ph ɲá ɪwɪ
@@ -23755,8 +23738,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \is 6.8.1.2
 \is 6.8.6
 \de to become rich
-\lt get self
-\dt 22/Jul/2016
+\dt 18/Dec/2016
 
 \lx nyagbanyagba
 \ph ɲág͡báɲág͡bá
@@ -23997,12 +23979,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe Cleverness is different from wisdom.
 \xv Nɩ ɔkʋ bʋ agywɩɩn a, fialɩ ɔma nyansa. Ɔbʋ agywɩɩn ɔbɛ́talɩ pʋ wi atɔ, tamɛ ɔma nyansa.
 \xe If someone has cleverness perhaps he doesn't have wisdom. If he has cleverness he will be able to steal things but he doesn't have wisdom.
-\se onyansapʋ
-\ps n
-\ge wise man
-\is 3.2.1.3
-\de wise man
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx nyanya
 \ph ɲáɲaʔ
@@ -26557,15 +26534,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \dt 18/Dec/2016
 
 \lx oo
+\hm 1
 \ph óː
 \ps ADV
 \sn
 \ge even
 \is 8.1.3.1
 \de even
-\dt 25/Jul/2016
+\dt 18/Dec/2016
 
 \lx oo
+\hm 2
 \ph óː
 \ps INTJ
 \sn
@@ -26573,7 +26552,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 3.4.1.3
 \is 9.2.7
 \de Oh! an exclamation indicating surprise
-\dt 03/Oct/2016
+\dt 18/Dec/2016
 
 \lx ope
 \ph opéʔ
@@ -29943,25 +29922,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-479
 \xv Asʋn amʋ da ɔkpa wanklaan.
 \xe That word is the right one.
-\se kɩ ɔkpa
-\ps v
-\ge expect
-\is 3.2.7
-\de to expect
-\rf Tape:5-2-488
-\xv Mlɩkɩ Anɩ Wie ɔkpa. Mʋ ɩbá lawie woyi.
-\xe You should expect our Lord, his coming has entered the house (is imminent).
-\rf Tape:5-2-492
-\xv Mlɩmakɩ mɩ ɔkpa, Mmɛ́ɛba ndɛ.
-\xe Don't expect me, I will not come today.
-\se tu ɔkpa
-\ps v
-\ge travel
-\is 7.2.4
-\de to travel
-\rf Tape:5-2-503
-\xv Notu ɔkpa tɩntɩn ɩkʋ.
-\xe I will go on a long journey.
 \ps n
 \sn 2
 \ge space
@@ -29976,7 +29936,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge permit
 \is 3.3.4.1
 \de to give permission
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx ɔkpa otupʋ
 \ph ɔk͡pa otupʊ
@@ -31330,18 +31290,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge effect
 \is 9.6.2.6
 \de effects or results of something
-\se mɔ ɔnɔ
-\ps v
-\ge finish
-\is 6.1.2.3.5
-\de to finish something
-\xv Fʋmɛ́ɛtalɩ wun mʋ́ ɔnɔ ɔmɔkpa.
-\xe You cannot see the end.
-\nt In this case referring to how much work we have left.
-\rf Tape:6-1-188
-\xv Anɩ asʋn amʋ ɔnɔ mɔtɔ pɛ, mʋʋ oyin amʋ lɛba a.
-\xe Just as our matter finished, then the man came.
-\dt 31/Oct/2016
+\dt 18/Dec/2016
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
@@ -35204,7 +35153,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \va sei
 \ve Southern
 \ph séi
-\se sesei
+\se sesesei
 \ps TIME
 \ge immediately
 \is 8.4.6.3.1
@@ -35212,7 +35161,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt From ths: words dealing with immediate time; biansʋ (only just now), ngya (since), sesei (now immediately), ɔtsanfɩ (suddenly), sa (unexpectedly)
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx sɛ
 \hm 1
@@ -39716,6 +39665,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Botu ɔkpa yɔ Nkran.
 \xe They travelled to Accra.
 \bb Stewart List:2453
+\rf Tape:5-2-503
+\xv Notu ɔkpa tɩntɩn ɩkʋ.
+\xe I will go on a long journey.
 \ps v
 \sn 2
 \ge emigrate
@@ -39737,7 +39689,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de to spit
 \rf Tape:7-2-568
 \bb Stewart List:2040
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx tu
 \hm 2
@@ -40063,14 +40015,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 5.5.4
 \de to set something on fire; to burn something
 \bb Stewart List:1050
-\se wa bɩ
-\ps v
-\ge continue
-\is 8.4.7
-\de to continue doing something wa X bɩ
-\rf Tape:8-2-115
-\xv Ɔlɔwa gyi bɩ.
-\xe He continued eating.
 \se wa ɩnyɩn
 \ps v
 \ge be aggressive
@@ -40174,7 +40118,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-174
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
-\dt 31/Oct/2016
+\dt 18/Dec/2016
 
 \lx wa bɩ
 \ph wá bɪ
