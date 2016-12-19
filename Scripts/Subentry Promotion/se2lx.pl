@@ -27,7 +27,7 @@ use strict;
 use warnings;
 use English;
 
-my $dt = sprintf ("\\dt %02d/%s/%s##", (localtime)[3], (substr localtime(), 4, 3), (localtime)[5]+1900);
+my $dt = sprintf ("\\dt %02d/%s/%s##", (localtime)[3], (substr localtime(), 4, 3), (localtime)[5]+1900);# new dt line -- trailing ##
 
 my $lxfield =""; # key of master record -- no ##
 my $subentry = ""; # text of subentry record -- trailing ##
@@ -49,10 +49,9 @@ while (/\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?##\\sn))/)  {
 	$snno = $snfields[-1];
 
 	$subentry =~ s/\\se ([^#]*?)##/\\lx $1##\\mn $lxfield$hmno$snno##/;
-
-	print "$subentry$dt##" ;
+	print "$subentry$dt\n" ;
 
 	# delete subentry from master record and change date
 	s/\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?##\\sn))//;
-	s/\\dt[^#]*?##/$dt##/;
+	s/\\dt[^#]*?##/$dt/;
 	}
