@@ -969,16 +969,16 @@
 
 \+fil SemanticDomain
 \mkr is
-\txt 7.[D]
+\txt 8.[D]
 \fel Or
 \mkr is
-\txt 7.[D].[D]
+\txt 8.[D].[D]
 \fel Or
 \mkr is
-\txt 7.[D].[D].[D]
+\txt 8.[D].[D].[D]
 \fel Or
 \mkr is
-\txt 7.[D].[D].[D].[D]
+\txt 8.[D].[D].[D].[D]
 \MatchWhole
 \match_char c
 \-fil

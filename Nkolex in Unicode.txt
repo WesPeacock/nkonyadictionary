@@ -2443,22 +2443,8 @@
 \np Needs spelling, tone and glottal check
 \dt 30/Sep/2016
 
-\lx andɔ
-\ph ándɔʔ
-\ps n
-\sn
-\ge cat
-\is 1.6.1.1.2
-\is 6.3.1.6
-\is 8.2.1
-\de cat
-\sc Felis silvestris catus
-\xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
-\xe The cat has climbed and entered the room's ceiling and is catching mice.
-\dt 07/Dec/2016
-
-\lx andɔbi
-\ph ándɔbi
+\lx andobi
+\ph ándobi
 \ps n
 \sn
 \ge kitten
@@ -2468,9 +2454,22 @@
 \is 8.2.1
 \is 8.4.6.5.1
 \de a small cat
-\xv Akwasi andɔbi amʋ towi aye wɩ dʋbɩ.
+\xv Akwasi andobi amʋ towi aye wɩ dʋbɩ.
 \xe Akwasi's kitten steals meat too much.
-\dt 07/Dec/2016
+\dt 16/Dec/2016
+
+\lx andɔ
+\ph ándɔʔ
+\ps n
+\sn
+\ge cat
+\is 1.6.1.1.2
+\is 6.3.1.6
+\de cat
+\sc Felis silvestris catus
+\xv Andɔ amʋ ladʋ wie obu amʋ kwitɔ, ɔdɛ aklɔtɩ kɩta.
+\xe The cat has climbed and entered the room's ceiling and is catching mice.
+\dt 16/Dec/2016
 
 \lx anfɩ
 \ph aɱfɪ(H)
@@ -3699,29 +3698,18 @@
 \de thing being carried on the head
 \dt 01/Jun/2016
 
-\lx atrahɛ
-\ph atráhɛ
-\ps ADJ
-\sn 1
-\ge others
-\is 8.3.5.2.4
-\de others, the rest
-\xv Bulu obégyi anɩ asʋn kinkiinkin, bɩtɩ anɩ asʋ dʋn aha atrahɛ.
-\xe God will judge us severely and punish us more severely than other people.
-\cf trahɛ
-\dt 16/Jul/2016
-
 \lx atsalɩ
 \ph at͡salɪʔ
 \ps n
 \sn
 \ge cold
+\is 1.1.3
 \is 8.3.4.1
 \de cold
 \xv Nyankpʋ otswie ta a, atsalɩ bʋ nʋ.
 \xe After the rain it becomes cold.
 \bb Stewart List:1043
-\dt 12/Jun/2014
+\dt 17/Dec/2016
 
 \lx atsankasɩ
 \ph at͡saŋkasɪ
@@ -4016,9 +4004,10 @@
 \ps n
 \sn
 \ge hot season
+\is 8.3.4
 \is 8.4.1.5
 \de hot season
-\dt 16/Jul/2016
+\dt 17/Dec/2016
 
 \lx awɩdwiin
 \ph awɪdwĩː
@@ -4074,6 +4063,7 @@
 \ps n
 \sn
 \ge top
+\is 8.2.6.3
 \is 8.5.1.3
 \is 8.6.2
 \de the top of s.t.; a high place; on top of s.t.
@@ -4087,7 +4077,7 @@
 \xe Stretch so that you should bring the things down from up top for me.
 \xv Dɩnkɩ atɔ amʋ ɩdɩn obu awunsʋ amʋsʋ ha mɩ.
 \xe Remove the thing on top of the house for me.
-\dt 29/Aug/2016
+\dt 17/Dec/2016
 
 \lx awútɔ nfɔ
 \ph awútɔ ɱfɔ
@@ -4391,10 +4381,11 @@
 \sn
 \ge another
 \is 8.1.4
+\is 8.4.6.6.1
 \de additional item
 \xv Anɩbʋ oyi bamba ɩkʋ ha fʋ.
 \xe We have another stick for you.
-\dt 25/Jul/2016
+\dt 17/Dec/2016
 
 \lx bamba
 \ph bámbaʔ (L)
@@ -4683,7 +4674,7 @@
 \ps v
 \sn
 \ge blacken
-\is 8.3.3.3
+\is 8.3.3.3.2
 \de to become black
 \rf Tape:1-2-407cc
 \xv Nɩ fosutin, ɩmɛtɩn a, obugya tɛkpa tɩa nʋ. Ɔlɔ amʋ ta a, ɩnʋ tebi.
@@ -4694,7 +4685,7 @@
 \xe Smoke has completely blackened the kitchen there.
 \bb Stewart List:2271
 \cf bibi
-\dt 10/Nov/2015
+\dt 17/Dec/2016
 
 \lx -bi
 \ph -bi
@@ -4731,7 +4722,6 @@
 \sn
 \ge break
 \is 7.8.1
-\is 8.1.3.1
 \de break
 \xv bia kpoli
 \xe harvest corn
@@ -4745,7 +4735,7 @@
 \xe He broke it up for the people sitting there.
 \nt words for harvesting: bia/sɩɛtɩ (break off - corn), kpɔtɩ (pluck - fruit, leaves), tɩn (cut a stalk or head of - plantain, palm nuts), puli (harvest from underground - peanuts), kwi (dig - cassava, yam)
 \nt words that break: bwie (break something), bia (break off, fracture), gyɔɩ (break off one piece at a time), tʋn (break a law, oath), sɩɛtɩ (break off), flɔɩ (peel), maɩn: (separate from)
-\dt 13/Dec/2016
+\dt 17/Dec/2016
 
 \lx bia
 \hm 3
@@ -4783,10 +4773,11 @@
 \sn
 \ge break
 \is 7.8.1
+\is 8.4.6.6.3
 \de break repetitively
 \xv Olebiabia mʋ́tɔ ha aha amʋʋ bʋtsie ɩnʋ amʋ.
 \xe He broke it up for the people sitting there.
-\dt 01/Nov/2016
+\dt 17/Dec/2016
 
 \lx biagyi
 \ph biaʤi
@@ -4863,7 +4854,7 @@
 \plph abíbi
 \sn
 \ge black
-\is 8.3.3.3
+\is 8.3.3.3.2
 \de black
 \cf bi
 \rf Tape:1-2-439
@@ -4872,7 +4863,7 @@
 \xv Klankpa ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe The crow's back is black, it's chest is white.
 \bb Stewart List:1682
-\dt 12/Jun/2014
+\dt 17/Dec/2016
 
 \lx bie
 \ph bieʔ(L)
@@ -4918,14 +4909,14 @@
 \ph bílá (H)
 \ps vi
 \sn
-\ge blacken
-\is 8.3.3.3
-\de blacken
+\ge darken
+\is 8.3.3.2
+\de to become dark, particularly weather
 \rf Tape:1-2-455
 \xv Nyankpʋ labila.
 \xe Rain has darkened (the sky).
 \cf bi
-\dt 12/Jun/2014
+\dt 17/Dec/2016
 
 \lx bio
 \ph bio
@@ -5001,7 +4992,7 @@
 \ps ADV
 \sn
 \ge little while
-\is 8.4.2
+\is 8.4.2.1
 \de adverb meaning "a little while" co-occurs with wa
 \xv Kʋwa tsia bɩ.
 \xe Pause for the meantime and sit down for a short time.
@@ -5009,7 +5000,7 @@
 \xe Pause for the meantime and wait a little.
 \xv Kʋwa bwɛ bɩ.
 \xe Continue doing what you are doing for the meantime.
-\dt 12/Jun/2014
+\dt 17/Dec/2016
 
 \lx bɩ
 \hm 2
@@ -5042,20 +5033,20 @@
 \vaph -bɪ
 \sn
 \ge time
-\is 8.4.5.2.2
+\is 8.4.1
 \de time of occurrence
 \xv tɩnbɩ
 \xe harvest time
-\dt 06/Oct/2016
+\dt 17/Dec/2016
 
 \lx bɩmbɩ
 \ph bɪ́mbɪ́
 \ps n
 \sn
 \ge ancient times
-\is 8.4.1
+\is 8.4.6.5.4
 \de ancient times
-\dt 12/Jun/2014
+\dt 17/Dec/2016
 
 \lx bɩn
 \ph bɪ̃ʔ
@@ -5315,8 +5306,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge heat
-\is 8.3.4.1
-\de heat
+\is 8.3.4
+\de to be hot
 \nt blɩ ogya, pɩmpɩn, okunku
 \xv Atɔ amʋʋ bʋ ogya amʋ lablɩ ogya dʋbɩ.
 \xe Things that are in a fire have become very hot.
@@ -5326,12 +5317,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-2-521
 \xv Fʋ wɩ lablɩ ogya, sʋ owisʋ lakɩta fʋ.
 \xe You have become hot. You have a fever.
-\nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩnpɩn (hot in temperature)
-\is 8.3.4.1
-\de to be hot
 \bb Stewart List:2289
 \bb Stewart List:2822
-\dt 01/Nov/2016
+\dt 18/Dec/2016
 
 \lx blɩba
 \hm 1
@@ -5912,7 +5900,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to fold something a certain number of times (requires a number)
 \xv Bu tati amʋtɔ anyɔ afʋpʋ dɩda kebi amʋ.
 \xe Fold the cloth in two so that you can wrap it around the child.
-\dt 25/Jul/2016
+\dt 17/Dec/2016
 
 \lx bu
 \hm 3
@@ -5925,18 +5913,6 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Bu ntsu amʋsʋ, fówun métsitsa.
 \xe Pour out some of the water so that it won't spill.
 \dt 14/Jun/2016
-
-\lx bu
-\hm 4
-\ph búʔ
-\ps v
-\sn
-\ge fold
-\is 8.3.1.5.3
-\de to fold something a certain number of times (requires a number)
-\xv Bu tati amʋtɔ anyɔ afʋpʋ dɩda kebi amʋ.
-\xe Fold the cloth in two so that you can wrap it around the child.
-\dt 14/Sep/2016
 
 \lx bua
 \ph búaʔ(L)
@@ -7641,12 +7617,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps n
 \sn
 \ge hour
-\is 8.4.2
+\is 8.4.1
 \de an hour
 \bw Akan fi:dɔnhwiri
 \xv Nyebi amʋ bɔ́yɔ agyuma dɔnhwɩrɩ anyɔ ndɔtɔ nʋ, mʋ́ sʋ bɔ́yɔ agyuma wanklaan.
 \xe The children worked for two hours in the farm, so they did a good work.
-\dt 02/Oct/2015
+\dt 17/Dec/2016
 
 \lx dɔnkɔntɩ
 \ph dɔ̃ŋkɔtɪ
@@ -7863,6 +7839,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx dʋbɩ
 \ph dʊbɪʔ
 \ge too much
+\is 8.1.3.1
 \is 8.1.7.1
 \de too much
 \ps ADV
@@ -7870,7 +7847,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-1-402
 \xv Aha amʋ bʋdɛtɔɩ dʋbɩ, sʋ mmɛdɛ fʋ asʋn amʋ nu.
 \xe The people are talking too much so I am not hearing you.
-\dt 19/Jul/2016
+\dt 17/Dec/2016
 
 \lx dʋdʋʋdʋ
 \ph dʊ́dʊ́ːdʊ́
@@ -8107,9 +8084,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge one day
 \is 8.4.1.2
-\is 8.4.3
+\is 8.4.6.6
 \de one day
-\dt 20/Jul/2016
+\dt 17/Dec/2016
 
 \lx ɛwɛ
 \ph ɛwɛ (H)
@@ -8184,11 +8161,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge charm
+\is 4.9.4.1
 \is 8.3.7.1
 \de to charm someone
 \xv Osumani amʋ lɛfa otsibi amʋsʋ odewu nɩ.
 \xe The magic practitioner charmed the girl that was why she died.
-\dt 29/Oct/2013
+\dt 17/Dec/2016
 
 \lx faan
 \hm 1
@@ -8485,9 +8463,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge condense
-\is 8.2.1
+\is 1.2.3
 \de to condense
-\dt 14/Jun/2016
+\dt 17/Dec/2016
 
 \lx fiala
 \ph fíálá
@@ -8588,14 +8566,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge dry
-\is 8.3.4.1
+\is 1.3.3.1
 \de dry
 \rf Tape:2-1-515
 \xv Paya amʋtɔ gyi finifini, megyi ntsuntsu.
 \xe That avocado is dry, it is not watery. (Test of a good avocado).
 \nt igyo and mankani can also be tasty and therefore good.
 \cf wesee
-\dt 18/Jun/2014
+\dt 17/Dec/2016
 
 \lx finki
 \ph fíŋkí
@@ -8990,7 +8968,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps v
 \sn
 \ge whiten
-\is 8.3.3.3
+\is 8.3.3.3.1
 \de to whiten
 \rf Tape:2-1-584
 \xv Nafwɩ mɩ atadɩɛ fututu amʋ yɔkpɔɩ amʋ, ɩlafuli fututuutu.
@@ -8999,7 +8977,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nana nwunsʋ imi lafuli fututuutu.
 \xe Nana's hair has become very white.
 \bb Stewart List:2273
-\dt 11/Nov/2015
+\dt 17/Dec/2016
 
 \lx fuli
 \hm 3
@@ -9074,7 +9052,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge white
-\is 8.3.3.3
+\is 8.3.3.3.1
 \de white
 \xv Mbʋ kufa fututu ɔkʋ.
 \xe I have a white sheep.
@@ -9082,16 +9060,17 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Obroni gyi ɔha fututu.
 \xe A European is a white man.
 \bb Stewart List:1681
-\dt 29/Aug/2016
+\dt 17/Dec/2016
 
 \lx fututuutu
 \ph fútútúːtú
 \ps ADJ
 \sn
 \ge very white
-\is 8.3.3.3
+\is 8.3.3.3.1
+\is 9.3
 \de bright white
-\dt 17/Jun/2014
+\dt 17/Dec/2016
 
 \lx fʋ
 \hm 1
@@ -10079,13 +10058,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn
 \ge hard
-\is 8.3.2
+\is 8.3.6.2
 \de used of starchy food igyo, agbodi, blɔdɩ when it is cooked, it gets hard
 \nt when it is gyɩɩn it cannot be pounded for fufu. With cassava you can't always tell. Sometimes it looks fine but when it is cooked it turns yellow and hard.
 \rf Tape:2-2-221
 \xv Mɩ agbodi amʋ fɛ́ɛ́ lagyɩɩn.
 \xe All my cassava is hard.
-\dt 18/Oct/2016
+\dt 17/Dec/2016
 
 \lx gyɩmɩ
 \ph ʤɪ́mɪʔ
@@ -10368,6 +10347,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps vi
 \sn
 \ge crack
+\is 7.8.2
 \is 8.3.7.8.2
 \de crack, as in a wall, glass, egg
 \cf ba2
@@ -10376,7 +10356,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt Proverb: we are being overheard.
 \nt idiom
 \rf Tape:2-2-318
-\dt 09/Nov/2015
+\dt 17/Dec/2016
 
 \lx han
 \ph hãʔ (L)
@@ -10581,16 +10561,16 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADV
 \sn
 \ge briefly
-\is 8.4.2
+\is 8.4.2.1
 \de briefly
-\dt 13/Jul/2014
+\dt 17/Dec/2016
 
 \lx hɩhɩɛ
 \ph hɪhɪ́ɛʔ
 \ps v
 \sn 1
 \ge establish
-\is 8.4.6.1.1
+\is 8.4.6.1
 \de establish
 \bw Akan fi:nhyehyɛ
 \nt plural form of hɩɛ-
@@ -10601,7 +10581,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge dress well
 \de to dress well
-\dt 16/Jul/2016
+\dt 17/Dec/2016
 
 \lx hogyi
 \ph hoʤi
@@ -10753,10 +10733,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps ADJ
 \sn
 \ge bright white
-\is 8.3.3.3
+\is 8.3.3.3.1
 \de bright white
 \cf fututuutu
-\dt 12/Dec/2013
+\dt 17/Dec/2016
 
 \lx hwɩɩ
 \ph hwɪːʔ
@@ -11081,6 +11061,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge yesterday
 \is 8.4.1.2.2
+\is 8.4.6.2
 \de yesterday
 \rf Tape:2-2-386
 \xv Igye nyankpʋ lebila tamɛ omotswie.
@@ -11090,7 +11071,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf ɔkɛ
 \cf klaɛ
 \bb Stewart List:1552
-\dt 05/Feb/2016
+\dt 18/Dec/2016
 
 \lx igyi
 \ph iʤí
@@ -11286,14 +11267,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \plph amuʔ (L)
 \sn
 \ge cluster
-\is 8.3.1.8
+\is 8.1.3.3
 \de cluster
 \xv apʋsɛ imu
 \xe pepper cluster
 \rf Tape:2-2-417
 \xv Nɩ fʋbʋ apʋsɛ a, kokoli ha mɩ mu kʋlɛ ankwɛ wa oputsutɔ.
 \xe If you have black pepper, please give me a cluster so that I can grind it and put it in a soup.
-\dt 18/Jul/2016
+\cf ɔkpɩtsa
+\dt 18/Dec/2016
 
 \lx ipi
 \hm 1
@@ -11545,8 +11527,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge pile
 \is 8.1.3.3
 \de pile or heap
-\nt older Nkonya form; iku (Akan) is heard more often)
-\dt 22/Jul/2016
+\ns older Nkonya form; iku (Akan) is used more often.
+\dt 17/Dec/2016
 
 \lx itu
 \ph itúʔ
@@ -13017,6 +12999,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge day before yesterday
 \is 8.4.1.2.2
+\is 8.4.6.2
 \de day before yesterday
 \ps ADJ
 \sn 2
@@ -13032,7 +13015,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \cf ndɛ
 \cf ɔkɛ
 \cf klaɛ
-\dt 05/Feb/2016
+\dt 18/Dec/2016
 
 \lx ɩnya
 \ph ɪɲa
@@ -13280,14 +13263,14 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps n
 \sn
 \ge dirt
-\is 8.3.7.8.2
+\is 1.2.2.1
 \de dirt
 \nt From ths: otutu (dust), ɔsʋlʋ (ground), ɔdɩba (mud), osublu (sand), ŋɛsɩ (fine sand), ɩsɩ (sand, dirt, clay) isín (termite clay), ɔtsatsa (gravel, laterite) ɔsɩpa
 \rf Tape:3-1-161
 \xv Afu latsʋn sɩ wa mɩ atogyihɛtɔ.
 \xe Wind has blown dirt into my food.
 \bb Stewart List:1029
-\dt 24/Dec/2013
+\dt 17/Dec/2016
 
 \lx ɩsɔkɩ
 \ph ɪsɔ́kɪʔ
@@ -14510,10 +14493,9 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \dt 20/Jul/2016
 
 \lx kɛkɛ
-\hm 1
 \ph kɛ́kɛʔ
 \ps ADJ
-\sn
+\sn 1
 \ge same
 \is 8.3.5.2.1
 \de same
@@ -14522,21 +14504,15 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xv Amʋ́ swɩtɔ gyi kɛkɛ.
 \xe They are the same height.
 \bb Stewart List:1699
-\nt From ths: words dealing with similarities:fɛ́ (like), lɩan (resemble), kɛkɛ (same), alɩ kɛn (in the same way as)- also contrast with kɛn,
-\dt 18/Jul/2016
-
-\lx kɛkɛ
-\hm 2
-\ph kɛ́kɛ́
+\sn 2
 \ps ADV
-\sn
 \ge as many as
 \is 8.1.1
 \de as many as (opposite of only)
 \rf Tape:3-1-490
 \xv Bɛha mʋ ana kɛkɛ.
 \xe They generously gave him four.
-\dt 22/Jun/2014
+\dt 18/Dec/2016
 
 \lx kɛklɛ
 \hm 1
@@ -15344,6 +15320,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn 1
 \ge day after tomorrow
 \is 8.4.1.2.2
+\is 8.4.6.4
 \de day after tomorrow
 \rf Tape:3-2-136
 \xv Mmɔ́ɔyɔ mɩ ɔkpa amʋ ɔkɛ, mboun klaɛ.
@@ -15354,6 +15331,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn 2
 \ge upcoming day
 \is 8.4.1.2.2
+\is 8.4.6.4
 \de upcoming day of the week
 \xv Klaɛ Fieda nótu ɔkpa.
 \xe Next Friday I will travel.
@@ -15361,7 +15339,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \cf igye
 \cf ndɛ
 \cf ɔkɛ
-\dt 05/Feb/2016
+\dt 18/Dec/2016
 
 \lx klakla
 \ph klakla
@@ -15745,7 +15723,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps v
 \sn
 \ge darken
-\is 8.3.3.3
+\is 8.3.3.2
 \de become dark
 \rf Tape:3-2-247
 \xv Obu amʋtɔ loklun, sʋ nonywɛn ɔkandɩɛ amʋ.
@@ -15754,7 +15732,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xv Nefin klʋn amʋ a, obu amʋtɔ loklun. Sʋ nefinki nfansɩrɩ amʋ ha obu amʋtɔ lɔwankɩ.
 \xe When I closed the door, the room became dark so I opened the window and let the room become light.
 \nt nominal form is oklun - darkness
-\dt 17/May/2016
+\dt 18/Dec/2016
 
 \lx ko
 \ph ko
@@ -16292,8 +16270,13 @@ cf fonflo
 \is 2.3.1.6
 \is 8.3.3.1
 \de to become clear or light
-\xv kpa ogya
-\xe sparkle, flash
+\se kpa ogya
+\ph k͡pá oʤáʔ(H)
+\ps v
+\ge sparkle
+\is 8.3.3.4
+\de to shine or sparkle
+\cf ogya
 \ps v
 \sn 8
 \ge undress (cloth
@@ -16322,7 +16305,7 @@ cf fonflo
 \rf Tape:3-2-372
 \xv Ɔlɔpʋ amʋ lakpa mʋ nwun pʋ́ mʋ ikwi sʋ alawa akɩlɛ.
 \xe The sick person has shaved his head and his beard so he has become good to look at.
-\dt 13/Dec/2016
+\dt 18/Dec/2016
 
 \lx kpa
 \hm 2
@@ -16361,16 +16344,6 @@ cf fonflo
 \de to fall into s.t.
 \cf wie
 \dt 13/Dec/2016
-
-\lx kpa ogya
-\ph k͡pá oʤáʔ(H)
-\ps v
-\sn
-\ge sparkle
-\is 8.3.3.4
-\de to shine or sparkle
-\cf ogya
-\dt 10/Sep/2016
 
 \lx kpa tɩa
 \ph k͡pá tɪ́á
@@ -16699,7 +16672,7 @@ cf fonflo
 \ps ADV
 \sn
 \ge little
-\is 8.2.1
+\is 9.3.1.2
 \de a little
 \rf Tape:3-2-457
 \xv Nɩ fɔ́yɔ nkpa kpalobi a, fayinki damli ba.
@@ -16709,7 +16682,7 @@ cf fonflo
 \xe Little by little we are getting there.
 \nt From ths: words for small kusubi, putuputu, kɛtsɛkɛtsɛ, small in amount: kpalobi, tukuriibi
 \bb Stewart List:1512
-\dt 01/May/2016
+\dt 18/Dec/2016
 
 \lx kpamanta
 \ph k͡pamanta
@@ -16784,9 +16757,9 @@ cf fonflo
 \ps ADJ
 \sn
 \ge very hot
-\is 8.3.4.1
+\is 8.3.4
 \de very hot
-\dt 01/Jul/2014
+\dt 18/Dec/2016
 
 \lx kpankʋ
 \ph k͡pãŋkʊ(H)
@@ -18004,13 +17977,13 @@ cf fonflo
 \ps ADV
 \sn
 \ge very hard
-\is 8.3.2
+\is 8.3.6.2
 \de very hard
 \xv Fufu lawa ɔnlɩn kukuruku, sʋ mɛtalɩ gyi mʋ́.
 \xe The fufu is very hard, so I can't eat it.
 \xv Ɔsʋlʋ lawa ɔnlɩn kukuruku fɛ isín.
 \xe The ground has become as hard as a termite mound.
-\dt 01/Jul/2014
+\dt 18/Dec/2016
 
 \lx kukuruku
 \hm 2
@@ -18261,10 +18234,11 @@ cf fonflo
 \se kukuti
 \ps v
 \ge take off
+\is 3.5.1.2.6
 \is 7.3.4.5
 \is 8.1.6.2
 \de take off repetitively
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx kutibi
 \ph kutibí (H)
@@ -19415,9 +19389,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge decrease
+\is 7.3.3.1
 \is 8.1.4.3
 \de to subtract something
-\dt 19/Aug/2016
+\dt 18/Dec/2016
 
 \lx lɛ ɔŋɛ
 \ph lɛ ɔŋɛ́
@@ -19564,6 +19539,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps n
 \sn
 \ge harmattan
+\is 1.1.3.8
 \is 8.4.1.5
 \de harmattan; cool dusty season
 \rf Tape:4-1-518
@@ -19575,7 +19551,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-520
 \xv Nyankpʋ tamatswie lɩlɩtɔ.
 \xe There is no rain in during the drought season.
-\dt 16/Jul/2016
+\dt 18/Dec/2016
 
 \lx lɩn
 \hm 1
@@ -19632,7 +19608,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \plph alɪ̃nlɪ̃nlɪ̃
 \sn
 \ge hard
-\is 8.3.2
+\is 8.3.6.2
 \de hard
 \xv Mpulu tɔwʋlɩ ɔsʋlʋ lɩnlɩnlɩn sʋ.
 \xe Peppers dry on hard ground.
@@ -19640,7 +19616,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xv Aban anfɩ laha anɩ tsiatɔ lawa ɔnlɩn lɩnlɩnlɩn.
 \xe This government has made our living so hard.
 \bb Stewart List:1671
-\dt 13/Jun/2014
+\dt 18/Dec/2016
 
 \lx loti
 \ph lótí
@@ -20306,6 +20282,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps v
 \sn
 \ge blasphemy
+\is 4.9.9
 \is 8.3.7.1
 \de blasphemy
 \xv Brɛa ɔlɔyɔ owie woyitɔ a, ɔlɔbɔ mbusuo.
@@ -20314,7 +20291,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe It is blasphemy for someone to die in the chief's house.
 \xv Ɔtsɩ amʋ lɔbwɛ mbusuo brɛa ɔlɛda owie amʋ oswe.
 \xe The woman blasphemed when she slapped the chief.
-\dt 21/Jun/2014
+\dt 18/Dec/2016
 
 \lx mbusuo lɛ
 \ph mbusuo lɛ(H)
@@ -20653,12 +20630,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps ADJ
 \sn
 \ge sticky very
-\is 8.3
+\is 7.5.2.2
 \de very sticky
 \rf Tape:4-2-779
 \xv Fufu amʋ bʋ ɔpɩ mlɛɛn.
 \xe The fufu is very sticky.
-\dt 04/Jul/2014
+\dt 18/Dec/2016
 
 \lx mli
 \ph mlí
@@ -21412,10 +21389,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge aunt
 \is 4.1.9.1.6
+\is 4.1.9.1.9
 \de mother's older sister
 \xv Mɩ atasii bʋ ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ botsu abusuan ɩkʋlɛtɔ. Mɩ nakuma ma ɔkpa dɔ mɩ sɩ ɔsʋlʋ, tsufɛ mʋ abusuan igyi ɔtsan.
 \xe My paternal aunts has the right to clear my father's land because they are from the same family. My maternal aunt has no right to clear my father's land because they are not from the same family.
-\dt 20/Jul/2016
+\dt 18/Dec/2016
 
 \lx nambi
 \ph nambí
@@ -21558,8 +21536,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge aunt
 \is 4.1.9.1.6
+\is 4.1.9.1.9
 \de mother's younger sister
-\dt 20/Jul/2016
+\dt 18/Dec/2016
 
 \lx natɩ
 \hm 1
@@ -21722,6 +21701,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge today
 \is 8.4.1.2.2
+\is 8.4.6.3
 \de today
 \xv Ndɛ gyi fʋ klɛ, ɔkɛ megyi fʋ klɛ.
 \xe Today is yours, tomorrow isn't yours.
@@ -21734,7 +21714,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \cf igye
 \cf ɔkɛ
 \cf klaɛ
-\dt 20/Jul/2016
+\dt 18/Dec/2016
 
 \lx ndɛmba
 \ph ndɛmba
@@ -22105,7 +22085,6 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn 1
 \ge sound
 \is 2.3.2.2
-\is 8.3.3.2.1
 \de sound
 \rf Tape:5-2-036
 \xv Ndɛ yibi amʋ nka nu ánɩ́ ɩba.
@@ -22126,7 +22105,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:5-1-156
 \xv Nanu mʋ nka ánɩ́ ɔba.
 \xe I have heard news of him that he should come.
-\dt 19/May/2016
+\dt 18/Dec/2016
 
 \lx nkalɩ
 \ph ŋkálɪ
@@ -22957,14 +22936,14 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge stumbling
-\is 8.5.1.6
+\is 7.2.1.5
 \de stumbling
 \bw Akan fi:ntintaɩn
 \xv Nɩ nta abʋpʋ bʋna a, bʋtɔbɔ ntinta.
 \xe When drunkards are walking, they stumble.
 \xe Drunkards stumble when they walk.
 \rf Tape:1-2-541
-\dt 19/Jul/2016
+\dt 18/Dec/2016
 
 \lx ntobi
 \ph ntobí
@@ -23170,10 +23149,10 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps ADJ
 \sn
 \ge watery
-\is 8.3.4.1
+\is 1.2.3.1
 \de watery
 \cf ntsu
-\dt 03/Nov/2015
+\dt 18/Dec/2016
 
 \lx ntsusʋ klanklan
 \ph nt͡susʊ klãŋklã
@@ -24019,6 +23998,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps n
 \sn
 \ge nastiness
+\is 5.6.1
 \is 8.3.7.1
 \de nastiness
 \rf Tape:5-1-555
@@ -24028,7 +24008,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Mmua ɩnʋ bʋ nyanya.
 \xe The back yard there has nastiness (is nasty).
 \bb Stewart List:1676
-\dt 22/Apr/2016
+\dt 18/Dec/2016
 
 \lx nyanyala
 \ph ɲáɲála
@@ -25060,6 +25040,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge next year
 \is 8.4.1.6
+\is 8.4.6.4
 \de next year
 \rf Tape:6-2-421
 \xv Ofieba nɔ́dɔ tomantosi ndɔ.
@@ -25068,14 +25049,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Nobody knows what will happen next year.
 \xv Ofieba nɩ Bulu obotsula a, néfi mɩ obu yi asɩ.
 \xe Next year if God will permit, I will start to build my house.
-\dt 03/Oct/2016
+\dt 18/Dec/2016
 
 \lx ofienɩ
 \ph ofienɪ(H)
 \ps n
 \sn
 \ge this year
-\is 8.4.2
+\is 8.4.1.6
+\is 8.4.6.3
 \de this year
 \rf Tape:6-2-424
 \xv Ofienɩ nadɔ kpoli ndɔ.
@@ -25084,21 +25066,22 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe We know about this year but for next year, we do not know.
 \xv Ofienɩ nyankpʋ tswietɔ latsɛ.
 \xe This year the raining pattern has changed.
-\dt 11/Jul/2014
+\dt 18/Dec/2016
 
 \lx ofikʋ
 \ph ofíkʊʔ(H)
 \ps n
 \sn
 \ge last year
-\is 8.4.2
+\is 8.4.1.6
+\is 8.4.6.2
 \de last year
 \xv Ofikʋ nyankpʋ motswie wanklaan, sʋ anɩ ndɔtɔ atɔ mɔwa alɛ.
 \xe Last year the rain didn't come well so our crops were poor.
 \rf Tape:6-2-428
 \xv Ofikʋ mbrɛ anfɩtɔ mɩ sɩ mʋ pio lowu nɩ.
 \xe Last year around this time that my father's brother died.
-\dt 30/Jun/2014
+\dt 18/Dec/2016
 
 \lx ofin
 \ph ofĩ́ʔ
@@ -25409,6 +25392,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge junior
 \is 4.1.9.1.3
+\is 4.1.9.1.9
 \is 8.4.6.5.1
 \de younger sibling
 \xv Mɩ dɛhɛn gyi Kwame, Kwame ɛ mʋ gyama gyi mɩ.
@@ -25417,7 +25401,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Kwame agyama bʋtamabu mʋ, tsufɛ Kwame onuto tamabu mʋ ɩwɩ.
 \xe Kwame junior brothers don't respect him, because Kwame does not respect himself.
 \cf ɔkʋsʋ
-\dt 03/Oct/2016
+\dt 18/Dec/2016
 
 \lx ogyaŋɛ
 \ph oʤáŋɛ̂ʔ
@@ -25742,7 +25726,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge darkness
-\is 8.3.3.3
+\is 8.3.3.2
 \de darkness
 \rf Tape:6-2-567
 \xv Nɩ ɔtsra owie abʋtɔ a, oklun tɛba.
@@ -25754,16 +25738,16 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The man is wicked, therefore be careful of him.
 \rf Tape:6-2-433
 \bb Stewart List:1039
-\dt 17/May/2016
+\dt 18/Dec/2016
 
 \lx okluntɔ
 \ph oklúntɔ
 \ps n
 \sn
 \ge darkness
-\is 8.3.3.3
+\is 8.3.3.2
 \de darkness
-\dt 17/May/2016
+\dt 18/Dec/2016
 
 \lx okoklobi
 \ph okoklobiʔ
@@ -25968,9 +25952,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge group
-\is 8.3.1.3
+\is 4.2.1.7
 \de group of people
-\dt 19/Jul/2016
+\dt 18/Dec/2016
 
 \lx okude
 \ph okudeʔ
@@ -26139,12 +26123,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge heat
-\is 8.3.4.1
+\is 8.4.1.2.3
+\is 8.3.4
 \de heat, as in weather
 \xv Owi amʋ dɛlɩn dʋbɩ sʋ, laha okunku laba.
 \xe The sun is shining too much so it has made the weather hot.
 \nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩmpɩn (hot in temperature)
-\dt 30/Jun/2014
+\dt 18/Dec/2016
 
 \lx oli
 \ph olíʔ
@@ -26554,9 +26539,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge tonight
+\is 8.4.1.2.1
 \is 8.4.1.2.3
+\is 8.4.6.3
 \de tonight
-\dt 20/Jul/2016
+\dt 18/Dec/2016
 
 \lx oo
 \ph óː
@@ -27945,7 +27932,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 8.3.3.3.6
 \de cloth dyed with tree bark
 \na oyipɛ tati – a cloth that has been dyed with tree bark, at one point, our grandmother's time they would sew flour sacking and use it, That's how the tie and dye started.
-\dt 07/Dec/2016
+\dt 18/Dec/2016
 
 \lx oyitsu
 \ph oyit͡suʔ
@@ -28904,6 +28891,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge older sibling
 \is 4.1.9.1.3
+\is 4.1.9.1.9
 \is 8.4.6.5.2
 \de older, used only with humans
 \rf Tape:2-1-297
@@ -28918,31 +28906,34 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The old man's beard has turned white.
 \xv Nɛtɩ mɩ apio adɛhɛn amʋtɔ okugyiɔkʋ mbɛɛ, "Dɛhɛn".
 \xe I will call any of my older siblings "Elder".
-\dt 03/Oct/2016
+\dt 18/Dec/2016
 
 \lx Ɔdɛkɛtrakɛ
 \ph ɔdɛkɛtrákɛ
 \sn 1
 \ps TIME
 \ge Sixth day
-\is 8.4.1.2.2
+\is 4.9.7.7
+\is 8.4.1.3.1
 \de in the Northern dialect, the second day following Kulihɛ (ancestral day); the sixth and final day of the traditional Nkonya week
 \vad Kulihɛ Ɔdɛkɛtrakɛ
 \ve Southern
 \sn 2
 \ps TIME
 \ge Third day
-\is 8.4.1.2.2
+\is 4.9.7.7
+\is 8.4.1.3.1
 \se Ɩpwɛ Ɔdɛkɛtrakɛ
 \ps TIME
 \ge Third day
-\is 8.4.1.2.2
+\is 4.9.7.7
+\is 8.4.1.3.1
 \de the Southern dialect has two days called Ɔdɛkɛtrakɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, two days following Ɩpwɛ and Kulihɛ Ɔdɛkɛtrakɛ, two days following Kulihɛ.
 \na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \vad Yinke
 \ve Northern
 \cf Ɩpwɛ
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx ɔdɩ
 \ph ɔdɪ́
@@ -29078,8 +29069,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 1
 \ge group
-\is 8.1.3.1
-\is 8.3.1.3
+\is 4.2.1.7
 \de a large group of people, or things
 \bw Akan fi:dʋdʋɔ
 \xv Bʋna ɔdʋdʋɔtɔ.
@@ -29095,7 +29085,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Aha ɔdʋdʋɔ bʋbʋ owie woyi.
 \xe A large number of people are in the chief's house.
 \bb Stewart List:1504
-\dt 19/Jul/2016
+\dt 18/Dec/2016
 
 \lx ɔdwɛ
 \ph ɔdʷɛ(H)
@@ -29693,6 +29683,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge tomorrow
 \is 8.4.1.2.2
+\is 8.4.6.4
 \de tomorrow
 \rf Tape:5-2-409
 \xv Ɔkɛ gyi Kwasieda.
@@ -29709,7 +29700,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf igye
 \cf ndɛ
 \cf klaɛ
-\dt 05/Feb/2016
+\dt 18/Dec/2016
 
 \lx ɔkɛkɛ
 \ph ɔkɛkɛ́
@@ -29784,14 +29775,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph aklá
 \sn
 \ge soul
-\is 8.3.3.2.1
+\is 3.1
 \de soul
 \rf Tape:5-2-440
 \xv Ɔkla amʋʋ otse nyankpʋsatɔ amʋ a, ɔdalɩ a, ɔyɔ mʋ wie Bulu wa.
 \xe when the soul that lives in man leaves, it goes to his owner, God.
 \xv Fɔkʋla sika a, fɔ́hʋlɩ fʋ ɔkla.
 \xe If you seek money you will lose your soul.
-\dt 01/Nov/2016
+\dt 18/Dec/2016
 
 \lx ɔklan
 \ph ɔklãʔ
@@ -29871,10 +29862,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge capsize
+\is 6.4.5
 \is 8.3.1.4.1
 \de to capsize
 \lt ɔklʋn 'boat' bun 'cover'
-\dt 18/Jul/2016
+\dt 18/Dec/2016
 
 \lx ɔkɔmfɔbowuo
 \ph ɔkɔɱfɔbowuo(H)
@@ -30370,6 +30362,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge younger
 \sn
 \is 4.1.9.1.3
+\is 4.1.9.1.9
 \is 8.4.6.5.1
 \de younger, used with humans
 \cf kusubi
@@ -30380,7 +30373,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Jacob is the younger.
 \cf ogyama
 \an ɔdɛhɛn
-\dt 18/Oct/2016
+\dt 18/Dec/2016
 
 \lx ɔkwaɩ
 \ph ɔkʷaɪ(H)
@@ -31067,6 +31060,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge scarce
+\is 8.1.7.2
 \is 8.5.3.1
 \de scarcity
 \xv Sesei a, brɔdɩ bʋ ɔna sʋ lawa bia.
@@ -31075,7 +31069,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɩ nyankpʋ mɛdɛ tswie a, atogyihɛ wɩ bʋ ɔna.
 \xe When it is not raining food become scarce.
 \bb Stewart List:1706
-\dt 19/Jul/2016
+\dt 18/Dec/2016
 
 \lx ɔna
 \hm 2
@@ -31533,13 +31527,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ve Southern
 \sn
 \ge noon
+\is 8.3.4
 \is 8.4.1.2.3
 \de noon
 \cf ɔpa1
 \cf blɩ2
 \cf nyankɩ1
 \nt see nyankɩ for other words for time of day
-\dt 18/Oct/2016
+\dt 18/Dec/2016
 
 \lx ɔpalɩ
 \ph ɔpalɪ́
@@ -31646,14 +31641,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge stick
-\is 8.3
+\is 7.5.2.2
 \de sticky or stringy
 \rf Tape:6-1-309
 \xv Fufu amʋ bʋ ɔpɩ mlɛɛn.
 \xe The fufu is very sticky.
 \xv Ndawun oputsu amʋ ma ɔpɩ tsufɛ ndawun amʋ lasɩnsɩɩn.
 \xe The okra soup is not stringy because the okra has become stiff.
-\dt 30/Aug/2016
+\dt 18/Dec/2016
 
 \lx ɔpɩm
 \ph ɔpɪ́m
@@ -31678,14 +31673,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge slipperiness
-\is 8.3.2
+\is 7.2.1.5.1
 \de slipperiness
 \xv Nyankpʋ latswie, sʋ nfɩ bʋ ɔplɩ.
 \xe It has rained, so it's slippery here.
 \rf Tape:6-1-320
 \xv Mlɩ ma sɩrɩ, tsufɛ ɩfa amʋsʋ la wa ɔplɩ.
 \xe Don't ran because the grass has become slippery.
-\dt 01/Oct/2015
+\dt 18/Dec/2016
 
 \lx ɔplɔɩ
 \hm 1
@@ -32516,13 +32511,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph ntɪ́nɛ́
 \sn
 \ge place
-\is 8.5.3
+\is 8.5
 \de place
 \rf Tape:6-1-492
 \xv Nɔyɔ ɔtɩnɛ ɩkʋ.
 \xe I will go somewhere.
 \bb Stewart List:0972
-\dt 03/Oct/2016
+\dt 18/Dec/2016
 
 \lx ɔtɩnɛgyiɔtɩnɛ
 \ph ɔtɪ́nɛʤíɔtɪ́nɛ́
@@ -32530,10 +32525,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge everywhere
 \is 8.5
+\is 8.1.5
 \de everywhere
 \xv Ɔtɩnɛgyiɔtɩnɛ anfɩ a, otsiakpa igyi.
 \xe Everywhere is a place to stay.
-\dt 15/Jul/2016
+\dt 18/Dec/2016
 
 \lx ɔtɔfɔ
 \ph ɔtɔ́fɔ
@@ -33140,7 +33136,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge laziness
-\is 8.3.7.1
+\is 6.1.2.4.2
 \de laziness
 \rf Tape:6-1-574
 \xv Ɔwʋlɩyɔ tɔpʋ ohian ba.
@@ -33154,7 +33150,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-579
 \xv Ndɛ ɔwʋlɩyɔ wa.
 \xe I'm being lazy.
-\dt 30/Jun/2014
+\dt 18/Dec/2016
 
 \lx ɔwʋlʋ
 \ph ɔwʊlʊ́ʔ
@@ -33635,7 +33631,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 1
 \ge red
-\is 8.3.3.3
+\is 8.3.3.3.4
 \de red
 \xv Bʋtɛdɩda tatɩ pɛpɛ pula oli.
 \xe They wear red cloths for funerals.
@@ -33645,7 +33641,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 1.5.6
 \de ripe
 \bb Stewart List:1683
-\dt 19/Jul/2016
+\dt 18/Dec/2016
 
 \lx pɛpɛɛpɛ
 \ph pɛ́pɛ́ːpɛ́
@@ -33773,7 +33769,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge pretend
-\is 8.3.7.1
+\is 3.5.1.3.5
+\is 4.3.5.5
 \de pretend
 \xv Nepina bwɛ fɛ mmɔkʋ wun mʋ, tsufɛ mmɛdekle ánɩ́ ɔbɩa nowun mʋ ɩnʋ.
 \xe I will pretend that I have not seen him because I don't want him to know that I saw him there.
@@ -33782,18 +33779,19 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Neŋain yɛkɩ bɛɛ ɔdɛ ɩnʋ dɔ.
 \xe I will go secretly and see whether he is farming there.
 \cf apinabwɛbi
-\dt 07/Nov/2015
+\dt 18/Dec/2016
 
 \lx pinabwɛ
 \ph pinabwɛ
 \ps v
 \sn
 \ge pretend
-\is 8.3.7.1
+\is 3.5.1.3.5
+\is 4.3.5.5
 \de pretend
 \xv Komla tepinabwɛ fɛ mʋgyi ɔhandɛ agyuma amʋtɔ nɩ.
 \xe Komla pretends to be the senior in the work place.
-\dt 07/Nov/2015
+\dt 18/Dec/2016
 
 \lx pio
 \ph pio
@@ -33927,23 +33925,23 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge very hot
-\is 8.3.4.1
+\is 8.3.4
 \de very hot
 \xv Ɩlɔ amʋ sʋ a, kebi amʋ wɩ lablɩ pɩmpɩɩmpɩ.
 \xe Because of the sickness, the child is very hot.
-\dt 30/Aug/2016
+\dt 18/Dec/2016
 
 \lx pɩmpɩn
 \ph pɪmpɪ̃
 \ps ADJ
 \sn
 \ge hot
-\is 8.3.4.1
+\is 8.3.4
 \de hot (temperature)
 \xv Bʋtamapʋ atɔ pɩmpɩn wa ɔnɔ.
 \xe They never put hot things in the mouth.
 \nt words describing heat: blɩ (be hot, be cooked), blɩ ogya (be hot to touch), hɔ ɔsɩn (pepper hot), okunku (weather heat), pɩmpɩn (hot in temperature)
-\dt 30/Jun/2014
+\dt 18/Dec/2016
 
 \lx pɩn
 \ph pɪ̃ʔ
@@ -34178,11 +34176,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge smooth
 \is 8.3.2
+\is 8.3.2.1
 \de smooth
 \xv Oyi amʋ ɩwɩ laplɩ.
 \xe This wood is become smooth.
 \cf plɩplɩplɩ
-\dt 30/Jun/2014
+\dt 18/Dec/2016
 
 \lx plɩplɩplɩ
 \ph plɪ́plɪ́plɪ́
@@ -34789,14 +34788,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge crumple
-\is 8.3.2
-\is 8.3.7.8.2
+\is 7.3.2.9
+\is 8.3.1.5.3
 \de crumple a piece of paper, cloth or a leaf
 \xv Nɩ fʋdɛ dɔ ndɔtɔ, fokun ɩwɩ atɔ a, ɩfa kʋ bʋnʋ ánɩ́ bʋtɔpʋsa mʋ́ wa ɔlɔ amʋtɔ.
 \xe When you are clearing in the farm and you cut yourself, there is a certain herb that they crush by rubbing and put it on the wound.
 \xv Pʋsa afa amʋ wa otubi amʋtɔ nun.
 \xe Crush the medicine into the spoon and drink it.
-\dt 17/May/2016
+\dt 18/Dec/2016
 
 \lx pʋtɛtɛ
 \ph pʊtɛ́tɛ
@@ -35146,9 +35145,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge rough
-\is 8.3.2
-\de anything not smooth
-\dt 30/Jun/2014
+\is 8.3.2.2
+\de rough, not smooth
+\dt 18/Dec/2016
 
 \lx satin
 \ph satĩʔ
@@ -35784,11 +35783,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge stiff
-\is 8.3.2
+\is 8.3.6.3
 \de to be stiff, as in the rigidity of a corpse, or in tetanus
 \xv Ndawun amʋ lasɩnsɩɩn, sʋ kaka mʋ́tɔ afʋfɩta mʋ́ bwɛ awanwan.
 \xe The okra has become stiff so chop it up so that you can dry it and make dried okra.
-\dt 04/Jul/2014
+\dt 18/Dec/2016
 
 \lx sɩsɩ
 \ph sɪsɪ
@@ -36818,13 +36817,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vi
 \sn
 \ge stop growing
-\is 8.2.2
+\is 2.5.4
+\is 8.2.2.3
 \de to stop growing because of adverse circumstances
 \xv Ɩfá amʋ noswie amʋ latakɩna tsufɛ nyankpʋ medetswie.
 \xe The plant I planted has stopped growing because it is not raining.
 \xv Ɔsʋlʋʋ amʋ ma alɛ sʋa, atɔ amʋʋ naswie amʋ fɛ́ɛ́ latakɩna.
 \xe The land is not good and so all the things that I have planted are not growing.
-\dt 01/Nov/2016
+\dt 18/Dec/2016
 
 \lx takyi
 \ph takyí
@@ -37680,7 +37680,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \sn
 \ge olden days
-\is 8.4.6.2
+\is 8.4.6.5.4
 \de the far past
 \bw Akan fi:tɩtɩ
 \xv Tɩtɩ amʋ a, aha betsia natɩ ayabitɔ tu ɔkpa.
@@ -37688,7 +37688,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-1-577
 \xv Tɩtɩ amʋ a, aha bʋtɛdan dʋn ndɛ, tsufɛ bʋtegyi atogyihɛ wanklaan.
 \xe In the olden times, people live longer than today because the eat good food.
-\dt 14/Sep/2016
+\dt 18/Dec/2016
 
 \lx tɩtɩ
 \hm 2
@@ -37740,9 +37740,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps TIME
 \sn
 \ge long ago
-\is 8.4.1.2.2
+\is 8.4.6.5.4
 \de long ago
-\dt 11/Jun/2014
+\dt 18/Dec/2016
 
 \lx tɩtɩsʋ
 \ph tɪtɪsʊ
@@ -38100,14 +38100,21 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \pl atrahɛ
 \plph atráhɛ
-\sn
+\sn 1
 \ge last
 \is 8.4.5.1.4
 \de last, final
 \rf Tape:7-2-111
 \xv Nkɛ trahɛ amʋtɔ a, aha lalahɛ bomoni.
 \xe In the last days, evil doers will be many.
-\dt 16/Jul/2016
+\sn 2
+\ge others
+\is 8.3.5.2.4
+\de others, the rest
+\xv Bulu obégyi anɩ asʋn kinkiinkin, bɩtɩ anɩ asʋ dʋn aha atrahɛ.
+\xe God will judge us severely and punish us more severely than other people.
+\cf trahɛ
+\dt 16/Dec/2016
 
 \lx trɛ
 \hm 1
@@ -39004,13 +39011,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps vt
 \sn
 \ge under
-\is 8.5
+\is 8.5.1.3.2
 \de under
 \rf Tape:7-2-384
 \xv Obien amʋ da oyi amʋ tsitsi.
 \xe The snail is lying under the tree.
 \cf asɩ2 3
-\dt 10/Nov/2015
+\dt 18/Dec/2016
 
 \lx tsitsi
 \hm 3
@@ -39465,12 +39472,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn 2
 \ge not recent
-\is 8.4.1.2.2
+\is 8.4.5.2
 \de as a second verb in a serial construction, some time ago
 \xv Ɔha ánɩ́ alawu tsʋn a, bʋtɛtɩ mʋ owupʋ.
 \xe The one that has already died (not recently) they call a dead person.
 \bb Stewart List:0073
-\dt 01/Nov/2016
+\dt 18/Dec/2016
 
 \lx tsʋnkɩ
 \ph t͡sʊŋkɪ́
@@ -39662,12 +39669,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \sn
 \ge lay flat
+\is 7.1.3
 \is 8.3.1.4
 \de to lie someone flat
 \rf Tape:4-1-453
 \xv Pʋ kebi amʋ tswɩ lala.
 \xe Lay the child flat.
-\dt 19/Jul/2016
+\dt 18/Dec/2016
 
 \lx tswɩtswɩ
 \ph t͡swɪt͡swɪ
@@ -39901,7 +39909,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn
 \ge dark
-\is 8.3.3.3
+\is 8.3.3.3.2
 \de become very dark
 \rf Tape:8-1-026
 \xv Ilebi tuun.
@@ -39912,7 +39920,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:8-1-040
 \xv Ogyasi amʋ labi gyadɩtɔ ɩnʋ tuun.
 \xe Smokeaw has completely blackened the kitchen.
-\dt 29/Nov/2016
+\dt 18/Dec/2016
 
 \lx tʋ
 \ph tʊ́
@@ -40310,7 +40318,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps ADJ
 \sn 1
 \ge shiny
-\is 8.3.3.3
+\is 8.3.3.4
 \de shiny
 \ps ADJ
 \sn 2
@@ -40320,7 +40328,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de holy
 \xv Aha wankɩhɛ sɔɔn bʋ ɔsʋsʋ, tsufɛ Bulu lɔwankɩ.
 \xe There are holy people in Heaven, because God is holy.
-\dt 28/Nov/2016
+\dt 18/Dec/2016
 
 \lx wanklaan
 \ph wãŋklã́ː
@@ -40411,14 +40419,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \se wesewese
 \ps ADJ
 \ge very dry
-\is 8.3.4.1
+\is 1.3.3.1
 \de to be very dry
 \ps ADJ
 \sn 2
 \ge astringent
 \xv Bɩsɩ amʋtɔ gyi wesee.
 \xe The cola nut is astringent.
-\dt 31/Oct/2016
+\dt 18/Dec/2016
 
 \lx wɛ
 \ph wɛ
@@ -41455,6 +41463,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge go to
 \is 3.3.1.1
 \is 7.2.3.2
+\is 9.6.2.7
 \de go in order to
 \rf Tape:8-1-531
 \xv Ɔyɛkɩ ánɩ́ alaba.
@@ -41463,7 +41472,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Bɛyɛkɩ ánɩ́ ɔbɔ́yɔ ɔkɛ abʋba.
 \xe They are going to see if he will go tomorrow and come.
 \nt nɛyɛ, nɔyɔ, fɔyɔ, ɔyɛ, ɔyɔ, ayɛ, mlɔyɔ, beye
-\dt 13/Dec/2016
+\dt 16/Dec/2016
 
 \lx yɛɛ
 \ph yɛ̂ː
@@ -41808,12 +41817,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 1.5.1
 \is 1.5.5
 \is 6.2.4.2
-\is 8.2.2
+\is 8.2.2.1
 \de stump of a tree
 \rf Tape:8-2-015
 \xv Ayinti bʋ mɩ ndɔtɔ dʋbɩ sʋ yinti lawɔ mɩ ayabitɔ.
 \xe There are many stumps in my farm so a stump has pierced my foot.
-\dt 12/Dec/2016
+\dt 18/Dec/2016
 
 \lx -yintse
 \ph -yint͡se
