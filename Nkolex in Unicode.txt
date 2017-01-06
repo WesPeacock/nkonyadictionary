@@ -375,7 +375,7 @@
 \ph abɪ̃ʔ iwú
 \ps n
 \vas abɩnwu
-\vaph abɪ̃wú
+\vasph abɪ̃wú
 \pl abɩn awu
 \plph abɪ̃ awú
 \sn
@@ -387,7 +387,7 @@
 \bb SIL-AWL:0080
 \xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
 \xe If your rib breaks and you don't take care, you will die.
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx abɩntɔ
 \ph abɪ̃ntɔ(H)
@@ -979,9 +979,9 @@
 \lx Afua
 \ph afúá(H)
 \vas Afia
-\vaph afíá(H)
+\vasph afíá(H)
 \vas Efia
-\vaph efíá(H)
+\vasph efíá(H)
 \ps PropN
 \sn
 \ge Afua
@@ -994,7 +994,7 @@
 \cf kwɩɩda
 \cf Fieda
 \cf Kofi
-\dt 18/Oct/2016
+\dt 05/Jan/2017
 
 \lx afunu
 \ph afunuʔ(L)
@@ -1137,7 +1137,7 @@
 \lx ago
 \ph agoʔ
 \vad agon
-\vaph agõʔ
+\vadph agõʔ
 \ve Northern
 \ps n
 \sn
@@ -1147,7 +1147,7 @@
 \xv Ɔlɛdɩda agon tati Istatɔ.
 \xe He put on a velvet cloth for Easter.
 \bb Stewart List:1269
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx agode
 \ph agodé
@@ -1733,7 +1733,7 @@
 \lx aklodobi
 \ph aklodobí (H)
 \vad aklolʋɩ
-\vaph aklolʊɪ́
+\vadph aklolʊɪ́
 \ve Southern
 \ps n
 \sn
@@ -1743,7 +1743,7 @@
 \de hernia
 \xv Nɩ fʋbʋ aklodobi a fʋtamatalɩ yɔ agyuma kʋkʋ.
 \xe If you have a hernia, you can't do any work.
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx akoo
 \hm 1
@@ -2205,7 +2205,7 @@
 \ph alóː
 \ps ADV
 \vas loo
-\vaph lóː
+\vasph lóː
 \sn
 \ge or; instead of
 \is 9.6.1.2
@@ -2213,7 +2213,7 @@
 \bw Ewe fi:aloo LHH
 \cf anaasɛ
 \cf ntɛ
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx amandɩɛ
 \hm 1
@@ -2367,11 +2367,12 @@
 \vaph nːa
 \sn
 \vas na
+\vasph na
 \ge four
 \is 8.1.1.1
 \de four
 \bb Stewart List:1804
-\dt 30/Sep/2016
+\dt 07/Jan/2017
 
 \lx aná
 \ph aná
@@ -2495,7 +2496,7 @@
 \lx ánɩ́
 \ph ánɪ́
 \ps CNJ
-\vas -á
+\va -á
 \vaph -á
 \sn
 \ge that
@@ -2512,7 +2513,7 @@
 \xv Nɛbla kebi amʋ ánɩ́ ɔkʋsʋ natɩ ba.
 \xe I told the child that he should get up and walk come.
 \bb Stewart List:1847
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx anɩmka
 \ph animka(H)
@@ -2756,14 +2757,16 @@
 \va nnyɔ
 \vaph nɲɔ
 \vas nyɔ
+\vasph ɲɔ
 \vas -nyɔ
+\vasph -ɲɔ
 \ps NUM
 \sn
 \ge two
 \is 8.1.1.1
 \de two
 \bb Stewart List:1802
-\dt 06/Oct/2016
+\dt 07/Jan/2017
 
 \lx aoo
 \ph aoː
@@ -2934,7 +2937,7 @@
 \ph asa(H)
 \ps ADV
 \vad asan
-\vaph asã(H)
+\vadph asã(H)
 \ve Southern
 \sn
 \ge before
@@ -2943,22 +2946,22 @@
 \rf Tape:1-1-560
 \xv Asa nɔ́kʋsʋ nyankɩgyinyankɩ a, ntɔbɔ mpaɩ, da Bulu pan ha alɩ ánɩ́ alaha ɔyɩ lakɛ mɩ.
 \xe Before I will get up every morning, I always pray, thanking God that he has given me the morning (taken care of me until this time).
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx asa
 \hm 2
 \ph asa(H)
 \ps NUM
 \vas sa
-\vaph sa
+\vasph sa
 \vas nsa
-\vaph nsa
+\vasph nsa
 \sn
 \ge three
 \is 8.1.1.1
 \de three
 \bb Stewart List:1803
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx asaan
 \ph asã̂ːʔ
@@ -3079,13 +3082,13 @@
 \ph asie (H)
 \ps NUM
 \vas nsie
-\vaph nsie (H)
+\vasph nsie (H)
 \sn
 \ge six
 \is 8.1.1.1
 \de six
 \bb Stewart List:1806
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx asiengbi
 \ph asiẽŋ͡mg͡bi
@@ -3573,7 +3576,7 @@
 \sg ɩtɔ
 \sgph ɪtɔ́ʔ(H)
 \vas atɔ-
-\vaph atɔ-
+\vasph atɔ-
 \vaa ato-
 \vaaph ato-
 \sn
@@ -3584,7 +3587,7 @@
 \rf Tape:1-2-087
 \xv Bulu lɔbwɛ atɔ ánɩ́ bʋ ɔyɩtɔ fɛ́ɛ́ ha nyankpʋsa.
 \xe God made all the things that are in this world for mankind.
-\dt 15/Oct/2016
+\dt 05/Jan/2017
 
 \lx atɔ owunpʋ
 \ph atɔ owũ̂mpʊʔ
@@ -3884,7 +3887,7 @@
 \ph atukéke
 \ps n
 \vad atuhehe
-\vaph atuhéhe
+\vadph atuhéhe
 \ve Southern
 \sn
 \ge jubilation
@@ -3893,7 +3896,7 @@
 \rf Tape:1-2-224
 \xv Nɩ fʋ pio ɔkʋ otu ɔkpa, wa ɔpá ɩnʋ a, nɩ oyinki ba a, mlɩtɔmɔsɩ da atukeeke.
 \xe If a your brother should travel and stay away a long time there, if he should return you always laugh and make jubilation.
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx atumpa
 \ph atumpa(H)
@@ -4943,7 +4946,7 @@
 \ph bitɛpʊ(H)
 \ps n
 \vas obitɛpʋ
-\vaph obitɛpʊʔ
+\vasph obitɛpʊʔ
 \pl abitɛpʋ
 \plph abitɛpʊʔ
 \sn 1
@@ -4961,7 +4964,7 @@
 \xe Nkonyas inherit fathers' possessions, but Ashantis inherit their maternal uncle's.
 \xv Bɔ́pʋ owie pɔpwɛ amʋ ya mʋ bitɛpʋ ánɩ́ ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
-\dt 06/Oct/2016
+\dt 05/Jan/2017
 
 \lx bitiwie
 \ph bitíwíé
@@ -5018,14 +5021,14 @@
 \ph bɪ
 \ps NOMR
 \vas -bɩ
-\vaph -bɪ
+\vasph -bɪ
 \sn
 \ge time
 \is 8.4.1
 \de time of occurrence
 \xv tɩnbɩ
 \xe harvest time
-\dt 17/Dec/2016
+\dt 05/Jan/2017
 
 \lx bɩmbɩ
 \ph bɪ́mbɪ́
@@ -7998,7 +8001,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɛdɔː
 \ps INTJ
 \vad dɔɔ
-\vaph dɔː
+\vadph dɔː
 \ve Northern
 \sn
 \ge morning response
@@ -8006,18 +8009,17 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de response to morning greeting
 \xv Mlɩyaaloo! Fówun batsula mʋ́sʋ bɛɛ, "Ɛdɔɔ, Ɛyɩlɛkɛ?"
 \xe Good morning, so that they have responded to it, "Ɛdɔɔ, Dawn has come?"
-\dt 06/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɛfɛ
 \ph ɛfɛ́(H)
 \ps n
 \vad ɔfɛ
-\vaph ɔfɛ́
+\vadph ɔfɛ́
 \ve Northern
 \vad ɔfɛ bangya
-\vaph ɔfɛ́ banʤa
+\vadph ɔfɛ́ banʤa
 \ve Northern
-\ph ɔfɛ́ bã́nʤá
 \pl nfɛ
 \plph ɱfɛ́
 \sn
@@ -8030,7 +8032,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe I have an axe, it is sharp.
 \cf limba
 \bb Stewart List:1201
-\dt 01/Dec/2016
+\dt 07/Jan/2017
 
 \lx ɛkɛ
 \ph ɛkɛ
@@ -10801,7 +10803,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ibíá(H)
 \ps n
 \vas bia
-\vaph bíá
+\vasph bíá
 \sn 1
 \ge market
 \is 6.8.4.4
@@ -10823,7 +10825,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de to be valuable
 \xv Abuto wʋlɩhɛ amʋ bʋ bia dʋbɩ.
 \xe The old beads are very expensive.
-\dt 31/Oct/2016
+\dt 07/Jan/2017
 
 \lx ibian
 \ph ibiã
@@ -10998,8 +11000,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \lx ifuli
 \ph ifúliʔ
 \ps n
-\va fuli
-\vaph fúliʔ
+\vas fuli
+\vasph fúliʔ
 \pl afuli
 \plph afúliʔ
 \sn
@@ -11028,7 +11030,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \de the place where the recent dead reside
 \xv Afulitɔ gyi ɔtɩnɛ ánɩ́ afuli bʋteyetsia nɩ bopula amʋ́ ɔma.
 \xe Among the dead is the place that dead people go to live after they are buried.
-\dt 01/Nov/2016
+\dt 07/Jan/2017
 
 \lx ifwie
 \ph ifwíeʔ
@@ -11917,7 +11919,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪbɛ́tɛʔ
 \ps n
 \vas bɛtɛ
-\vaph bɛ́tɛʔ
+\vasph bɛ́tɛʔ
 \pl mbɛtɛ
 \plph mbɛ́tɛʔ
 \sn
@@ -11938,13 +11940,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe When I was shucking palm nuts the thorny bits pricked me.
 \rf Tape:5-2-150
 \cf abɛ
-\dt 01/Dec/2016
+\dt 07/Jan/2017
 
 \lx ɩbɩ
 \ph ɪbɪʔ
 \ps n
 \vas bɩ
-\vaph bɪʔ
+\vasph bɪʔ
 \sn
 \ge hand; arm
 \is 2.1.3.1
@@ -11954,7 +11956,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Akwasua's hand is longer than Mansa's.
 \bb Stewart List:0002
 \bb SIL-AWL:0054
-\dt 14/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɩbɩkpan
 \ph ɪbɪk͡pã
@@ -12073,7 +12075,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪbʊtá
 \ps n
 \vas bʋta
-\vaph bʊtá
+\vasph bʊtá
 \pl abʋta
 \plph abʊtã́
 \sn
@@ -12084,7 +12086,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Anɩlɔdʋ yetsia bʋta kʋsʋ, ɩbʋ amʋsʋ.
 \xe We climbed and sat on a boulder on the mountain.
 \bb Stewart List:1025
-\dt 14/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɩbwɛbwɛɛbwɛ
 \ph ɪbwɛ́bwɛ̂ːbwɛ
@@ -13232,13 +13234,13 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ph ɪsɛ
 \ps n
 \vad ɩsɛn
-\vaph ɪsɛ̃ʔ
+\vadph ɪsɛ̃ʔ
 \sn
 \ge tusk
 \is 1.6.1.1.3
 \is 1.6.2
 \de the tusk of an elephant or boar
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɩsɩ
 \ph ɪsɪ (H)
@@ -13281,7 +13283,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ph ɪsʊʔ (H)
 \ps n
 \vad ɩsʋn
-\vaph ɪsʊ̃
+\vadph ɪsʊ̃
 \ve Southern
 \pl asʋ
 \plph asʊ
@@ -13297,7 +13299,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xv ha asʋ
 \xe proclaim innocent
 \bb Stewart List:3249
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɩsʋbɩtɩ
 \ph ɪsʊbɪtɪ́(H)
@@ -13592,7 +13594,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ph ɪwaŋkɪ́ʔ
 \ps n
 \vad ɛwankɩ
-\vaph ɛwaŋkɪ́ʔ
+\vadph ɛwaŋkɪ́ʔ
 \ve Southern
 \sn
 \ge light
@@ -13601,7 +13603,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \nt nominal form of wankɩ
 \xv Bulu lowun ánɩ́ wankɩ amʋ bʋ alɛ.
 \xe God saw that the light was good.
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɩwatɛ
 \ph ɪwatɛʔ
@@ -13740,7 +13742,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ph ɪwɔlʊ
 \ps n
 \vas wɔlʋ
-\vaph wɔlʊ
+\vasph wɔlʊ
 \pl awɔlʋ
 \plph awɔlʊ
 \sn
@@ -13753,7 +13755,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xe He is clipping his fingernails.
 \bb Stewart List:0022
 \bb SIL-AWL:0062
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɩyɛ
 \ph ɪyɛ̂ʔ
@@ -14556,7 +14558,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ph kɛ̃́(H)
 \ps ADJ
 \vad gyein
-\vaph ʤẽ́ĩ́(H)
+\vadph ʤẽ́ĩ́(H)
 \ve Southern
 \sn
 \ge same
@@ -14580,7 +14582,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \de in the same way
 \xv Omefi mʋ́ asɩ wanklaan, alɩ kɛn ɔbʋ mʋ́sʋ nɩ.
 \xe He didn't start well so he is continuing in the same way.
-\dt 05/Jan/2017
+\dt 07/Jan/2017
 
 \lx kɛn
 \hm 2
@@ -15070,7 +15072,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ph kɪ́ɛ́ʔ
 \ps v
 \vad yie
-\vaph yíéʔ
+\vadph yíéʔ
 \ve Northern
 \sn
 \ge divide
@@ -15082,7 +15084,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \rf Tape:3-2-020
 \xv Kɩɛ atɔ amʋtɔ ha nyebi amʋ fʋ onuto, mɛnɩ bʋmɔ́ɔkɔ.
 \xe Divide the things among the children yourself so that they don't fight.
-\dt 17/Oct/2016
+\dt 07/Jan/2017
 
 \lx kɩɛnɩ
 \ph kɪɛnɪ
@@ -15826,12 +15828,12 @@ cf fonflo
 \pl akonkolifi
 \plph akóŋkólifí
 \vad konklofi
-\vaph kóŋklófí
+\vadph kóŋklófí
 \sn
 \ge praying mantis
 \is 1.6.1.7
 \de praying mantis
-\dt 18/Oct/2016
+\dt 07/Jan/2017
 
 \lx konkolifi nkonto
 \ph kóŋkólifí ŋkõnto(H)
@@ -17898,11 +17900,11 @@ cf fonflo
 \ph kuʤó
 \ps PropN
 \vas Kwadjo
-\vaph kʷaʤó
+\vasph kʷaʤó
 \vas Kwadwo
-\vaph kʷaʤó
+\vasph kʷaʤó
 \vas Kujo
-\vaph kuʤó
+\vasph kuʤó
 \sn
 \ge Kudjo
 \is 8.4.1.3.1
@@ -17914,7 +17916,7 @@ cf fonflo
 \cf kwɩɩda
 \cf Gyɔda
 \cf Agyoa
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx kufa
 \ph kufa
@@ -18025,10 +18027,10 @@ cf fonflo
 \de the second day following ancestral day; the sixth and final day of the traditional Nkonya week
 \na See the entry on Ɩpwɛ for notes on the names of the days in the Nkonya week.
 \vad Ɔdɛkɛtrakɛ
-\vaph ɔdɛkɛtrákɛ
+\vadph ɔdɛkɛtrákɛ
 \ve Northern
 \cf Ɩpwɛ
-\dt 17/Oct/2016
+\dt 07/Jan/2017
 
 \lx kuma
 \ph kúmá
@@ -18487,7 +18489,7 @@ cf fonflo
 \ph kʷabɪná
 \ps PropN
 \vas Kɔmla
-\vaph kɔmlá
+\vasph kɔmlá
 \sn
 \ge Kwabena
 \is 8.4.1.3.1
@@ -18503,7 +18505,7 @@ cf fonflo
 \cf kwɩɩda
 \cf Branda
 \cf Abena
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx kwadu
 \ph kwadú
@@ -18538,7 +18540,7 @@ cf fonflo
 \ph kʷaku
 \ps PropN
 \vas Kweku
-\vaph kʷeku
+\vasph kʷeku
 \sn
 \ge Kwaku
 \is 8.4.1.3.1
@@ -18550,7 +18552,7 @@ cf fonflo
 \cf kwɩɩda
 \cf Kuoda
 \cf Akua
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx Kwame
 \ph kʷamɪ
@@ -18593,7 +18595,7 @@ cf fonflo
 \lx Kwasi
 \ph kʷasí
 \vas Kwesi
-\vaph kʷesí
+\vasph kʷesí
 \ps PropN
 \sn
 \ge Kwesi
@@ -18608,7 +18610,7 @@ cf fonflo
 \cf kwɩɩda
 \cf Kwasieda
 \cf Akosua
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx Kwasieda
 \ph kʷasieda
@@ -18900,7 +18902,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ph la-
 \ps TAM
 \vad ya-
-\vaph ya-
+\vadph ya-
 \ve Northern
 \sn
 \ge PRF
@@ -18909,7 +18911,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:8-1-446
 \xv Oyin amʋ yabwɛ atɔ wanklaan.
 \xe The man has done something fine.
-\dt 01/Oct/2016
+\dt 07/Jan/2017
 
 \lx la tswii
 \ph lá t͡swíː
@@ -19305,26 +19307,26 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \vaa lo-
 \vaaph lo-/ló-
 \vad yɛ-
-\vaph yɛ-/yɛ́-
+\vadph yɛ-/yɛ́-
 \ve Northern
 \vad ye-
-\vaph ye-/yé-
+\vadph ye-/yé-
 \ve Northern
 \vad yɔ-
-\vaph yɔ-/yɔ́-
+\vadph yɔ-/yɔ́-
 \ve Northern
 \vad yo-
-\vaph yo-/yó-
+\vadph yo-/yó-
 \ve Northern
 \vad yɛ-
-\vaph yɛ-/yɛ́-
+\vadph yɛ-/yɛ́-
 \ve Northern
 \sn
 \ge PAST
 \is 9.4.1.1
 \de perfective Tense-Aspect marker; simple past tense marker
 \nt Has high tone following a proper noun or after anɩ; mlɩ.
-\dt 15/Oct/2016
+\dt 07/Jan/2017
 
 \lx -lɛ-
 \hm 3
@@ -19416,6 +19418,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \lx lɛnkɛ
 \ph lɛŋkɛ
 \ps n
+\vad oloo
+\vadph oloː
+\ve Southern
 \sn
 \ge crocodile
 \is 1.6.1.3.4
@@ -19423,13 +19428,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sc Crocodylus suchus
 \xv Alɛnkɛ sɔɔn bʋ Wɩawɩa ntsutso.
 \xe There are many crocodiles in river Wiawia.
-\vad oloo
-\ve Southern dialect.
 \xv Ntsu ánɩ́ lɛnkɛ bʋ mʋ́tɔ a, mʋ́ towie bʋ ifu, tsufɛsɛ lɛnkɛ tɔwɩ aha.
 \xe Water that has a crocodile in it, entering it has fear, because a crocodile always eats people.
 \xe Going into crocodile infested water is dangerous because they eat people.
 \nt crocodile bile lɛnkɛ ɔlɩnkatɩ is a commonly used poison
-\dt 21/Oct/2016
+\dt 05/Jan/2017
 
 \lx lɛnkɛkpan
 \ph lɛŋkɛk͡pã́
@@ -22974,11 +22977,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ps Q
 \ph ntɔ iʤi sʊ
 \vas ntogyi sʋ
-\vaph ntoʤi sʊ
+\vasph ntoʤi sʊ
 \ge Why?
 \is 9.6.2.5.1
 \de Why?
-\dt 05/Jan/2017
+\dt 07/Jan/2017
 
 \lx ntsalabi
 \ph nt͡salabiʔ
@@ -23992,7 +23995,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ph ɲawíe
 \ps n
 \vas onyawie
-\vaph oɲawíe
+\vasph oɲawíe
 \pl anyawie
 \plph aɲawíe
 \sn
@@ -24012,7 +24015,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xv Fʋ nyawie ɔbɛ́talɩ sankɩ bwɛ fʋ olupʋ.
 \xe Your friend can turn to become your enemy.
 \bb Stewart List:0311
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx nyebitɔ
 \ph ɲebitɔ
@@ -26464,8 +26467,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph oɲéʔ
 \ps n
 \vad enye
+\vadph eɲeʔ́
 \ve Southern
-\vaph eɲeʔ́
 \sn
 \ge night
 \is 8.4.1.2.1
@@ -26479,13 +26482,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf nyankɩ1
 \nt see nyankɩ for other words for time of day
 \bb Stewart List:1104
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx onyelulu
 \ph oɲelulúʔ
 \ps n
 \vad enyelulu
-\vaph eɲelulúʔ
+\vadph eɲelulúʔ
 \ve Southern
 \sn
 \ge dew
@@ -26495,7 +26498,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-1-246
 \xv Nɩ onyelulu itswie a, ɩtɔbwɛ obetsu wʋlɩ ɩfásʋ.
 \xe If dew falls it makes drops on the grass.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx onyenɩ
 \ph oɲenɪ
@@ -26604,7 +26607,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \vad epini
 \ve Southern
-\vaph epíniʔ
+\vadph epíniʔ
 \pl mpini
 \plph mpínîʔ
 \sn
@@ -26616,7 +26619,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Kofi lawun mʋ sika pɛpɛ opini amʋʋ lɔfwɩ amʋ Yao osrebitɔ.
 \xe Kofi has found his lost golden ring on Yao's finger.
 \bb Stewart List:1231
-\dt 29/Nov/2016
+\dt 07/Jan/2017
 
 \lx opio
 \ph opíó
@@ -26869,7 +26872,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph osíá
 \ps n
 \vas sia
-\vaph síá
+\vasph síá
 \pl asia
 \plph asíá
 \sn 1
@@ -26889,13 +26892,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de spouse of your child
 \bb Stewart List:0319
 \bb Stewart List:0320
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx osiebi
 \ph osiebíʔ (H)
 \ps n
 \vad esiebi
-\vaph esiebíʔ (H)
+\vadph esiebíʔ (H)
 \ve Southern
 \pl nsiebi
 \plph nsiebíʔ (H)
@@ -26906,7 +26909,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mbwɩ ánɩ́ bʋbʋ nsiebi a, mʋ́ bʋtɔpʋ kɔ.
 \xe Animals that have horns use them to fight.
 \bb Stewart List:0604
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx osietɔ
 \ph osíétɔ́ʔ
@@ -26936,8 +26939,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph osrebi
 \ps n
 \vad esrebi
+\vadph osrebi
 \ve Southern
-\vaph osrebi
 \pl asirebi
 \plph asirebi
 \sn
@@ -26947,7 +26950,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Osrebiyin lomoni dʋn asrebi trahɛ.
 \xe The thumb is bigger than the rest of the fingers.
 \bb Stewart List:0021
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx osrebiyin
 \ph osrebiyĩʔ
@@ -27560,7 +27563,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph owíêʔ
 \ps n
 \vas wie
-\vaph wieʔ
+\vasph wieʔ
 \pl awie
 \plph awíe
 \sn 1
@@ -27594,7 +27597,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge body owner
 \is 2.6.6.3
 \de person who represents the family interests in a funeral
-\dt 28/Nov/2016
+\dt 07/Jan/2017
 
 \lx owie ogyikpa
 \ph owíê oʤík͡pá
@@ -27607,7 +27610,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 
 \lx owikplu
 \ph owik͡plu(H)
-\vad oyikplu
+\va oyikplu
+\vaph oyik͡plu(H)
 \ve Elders
 \ps n
 \pl awikplu
@@ -27619,7 +27623,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Fowi owikplu atɔ a, ɩtɛhan mʋ dʋbɩ, tsufɛ mʋ ɛ otowi aha atɔ.
 \xe If you steal a thief's things it troubles him a lot because he also steals peoples things.
 \bb Stewart List:0413
-\dt 18/Oct/2016
+\dt 05/Jan/2017
 
 \lx owilɩn
 \ph owilɪ̃̂ʔ
@@ -27809,6 +27813,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph oyik͡plu(H)
 \ps n
 \va owikplu
+\vaph owik͡plu(H)
 \ve Youth
 \pl ayikplu
 \plph ayik͡plu(H)
@@ -27816,13 +27821,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge thief
 \is 6.8.9.1
 \de thief
-\dt 03/Oct/2016
+\dt 05/Jan/2017
 
 \lx oyin
 \ph oyĩ(H)
 \ps n
 \vas yin
-\vaph yĩ(H)
+\vasph yĩ(H)
 \pl ayin
 \plph ayĩ(H)
 \sn
@@ -27838,13 +27843,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Oyin amʋ ɔyɔ ndɔtɔ.
 \xe The man has gone to farm.
 \bb Stewart List:0201
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx oyín
 \ph oyĩ́
 \ps n
 \vas yin
-\vaph yĩ́
+\vasph yĩ́
 \pl ayín
 \plph ayĩ́
 \sn
@@ -27856,7 +27861,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mʋ yin gyi ɔtsɩ anfɩ, tsufɛ mʋ lɔkwɩɩ mʋ.
 \xe His mother is this woman, because she gave birth to him.
 \bb Stewart List:0305
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx oyinflɛ
 \ph oyiɱflɛʔ
@@ -27966,9 +27971,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔ- -kɛ
 \ps NOMR
 \vas -kɛ
-\vaph -kɛ
+\vasph -kɛ
 \vad ɛ- -kɛ
-\vaph ɛ- -kɛ
+\vadph ɛ- -kɛ
 \ve Southern
 \sn
 \ge day
@@ -27980,13 +27985,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe the day of his birth
 \xv mʋ opulakɛ
 \xe the day of his burial
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔ- -kpa
 \ph ɔ- -k͡pa
 \ps NOMR
 \vas -kpa
-\vaph -kpa
+\vasph -kpa
 \sn
 \ge place
 \is 8.5.3
@@ -27999,7 +28004,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:1-2-565
 \xv Bɔ mpaɩ fɛɛ onya ɔdɩkpa wanklaan.
 \xe Pray that he should get a good resting place.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔ- -pʋ
 \ph ɔ- -pʊ / -pʊ́
@@ -28194,7 +28199,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔbɪatɔʔ
 \ps n
 \vad opi
-\vaph opi
+\vadph opi
 \ve Southern
 \pl mbɩatɔ
 \plph mbɪatɔ
@@ -28207,12 +28212,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe They use needle to sew things.
 \bb Stewart List:1271
 \nq check tone & glottal on opi
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔbɩlɔ
 \ph ɔbɪlɔʔ(L)
 \vad ɛbɩlɔ
-\vaph ɛbɪlɔʔ(L)
+\vadph ɛbɪlɔʔ(L)
 \ve Southern
 \pl mbɩlɔ
 \plph mbɪlɔʔ(L)
@@ -28222,7 +28227,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 2.1.3.1
 \is 8.1.3.2
 \de handful
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔbɩma
 \ph ɔbɪmâʔ
@@ -28365,7 +28370,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔblɪ̂ʔ(L)
 \ps n
 \vad ɛblɩ
-\vaph ɛblɪ̂ʔ(L)
+\vadph ɛblɪ̂ʔ(L)
 \ve Southern
 \sn
 \ge language
@@ -28375,7 +28380,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nkonya ɔblɩ gyi ɔtsan ha Nhuan.
 \xe The Nkonya language is different from Ewe.
 \bb Stewart List:1483
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔblɩ
 \hm 2
@@ -28602,7 +28607,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔbʷɪ(H)
 \ps n
 \vad ɛbwɩ
-\vaph ɛbʷɪ(H)
+\vadph ɛbʷɪ(H)
 \ve Southern
 \pl mbʷɩ
 \plph mbwɪ
@@ -28614,7 +28619,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔbwɩ ɔkʋ dɛ mɩ atɔ yinta.
 \xe A certain animal is spoiling my things.
 \bb Stewart List:0601
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔda
 \ph ɔdaʔ
@@ -29414,7 +29419,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \pl ahandɛ
 \plph ahandɛ
 \vad ɔhandɛn
-\vaph ɔhandɛ̃ʔ
+\vadph ɔhandɛ̃ʔ
 \ve Southern
 \sn
 \ge elder
@@ -29427,7 +29432,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe "Elders bone is not easy to break. " The meaning is that, a child is never greater than an elder.
 \nt Proverb
 \rf Tape:1-1-287
-\dt 28/Nov/2016
+\dt 07/Jan/2017
 
 \lx ɔhɩɛn
 \ph ɔhɪ̃́ɛ̃́ʔ
@@ -29458,7 +29463,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔká
 \ps n
 \vas ka
-\vaph ka
+\vasph ka
 \pl aka
 \plph aká
 \sn
@@ -29468,7 +29473,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Owie Krafi mʋa mʋ ka bɔkwɩɩ abi ana.
 \xe Chief Krafi and his wife had four children.
 \bb Stewart List:0307
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔka
 \hm 2
@@ -30208,7 +30213,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔk͡pʊ́nʊ́
 \ps n
 \vad ɛkpʋnʋ
-\vaph ɛk͡pʊ́nʊ́
+\vadph ɛk͡pʊ́nʊ́
 \ve Southern
 \sn
 \ge rest
@@ -30221,7 +30226,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If you will go to tiring work, you must rest.
 \rf Tape:5-2-562
 \bb Stewart List:2059
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔkʋ
 \ph ɔkʊ
@@ -30268,7 +30273,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔkʊ̃ʔ
 \ps NUM
 \vad ɛkʋn
-\vaph ɛkʊ̃ʔ
+\vadph ɛkʊ̃ʔ
 \ve Southern
 \sn
 \ge one
@@ -30283,13 +30288,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe You start counting with one.
 \rf Tape:5-2-460
 \bb Stewart List:1802
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔkʋsʋ
 \ph ɔkʊsʊ
 \ps ADJ
 \vas kʋsʋ
-\vaph kʊsʊ
+\vasph kʊsʊ
 \sn
 \ge younger
 \sn
@@ -30305,7 +30310,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Jacob is the younger.
 \cf ogyama
 \an ɔdɛhɛn
-\dt 18/Dec/2016
+\dt 07/Jan/2017
 
 \lx ɔkwaɩ
 \ph ɔkʷaɪ(H)
@@ -30343,7 +30348,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔkwɪ̌ːkɛ
 \ps n
 \vad ɛkwɩɩkɛ
-\vaph ɛkwɪ̌ːkɛ
+\vadph ɛkwɪ̌ːkɛ
 \ve Southern
 \sn
 \ge birthday
@@ -30356,7 +30361,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-590
 \xv Ɔkwɩɩkɛ bʋtebie ɔkla.
 \xe They wash a soul on the day of the week it was born.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔkwɩɩpuni
 \ph ɔkwɪ̌ːpúni
@@ -30570,7 +30575,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔma
 \ps n
 \vad ɛma
-\vaph ɛma
+\vadph ɛma
 \ve Southern
 \sn 1
 \ge back
@@ -30596,7 +30601,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge after
 \is 8.4.5.2.1
 \de afterwards
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔmá
 \ph ɔmá
@@ -30662,7 +30667,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔmaʤâʔ
 \ps v
 \vad ɛmagya
-\vaph ɛmaʤâʔ
+\vadph ɛmaʤâʔ
 \ve Southern
 \sn
 \ge follow
@@ -30670,7 +30675,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de follow
 \cf ɔma
 \cf gya
-\dt 18/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔman
 \ph ɔmã
@@ -31008,6 +31013,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔná
 \ps n
 \vas na
+\vasph na
 \pl aná
 \plph aná
 \sn 1
@@ -31015,7 +31021,6 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 2.6.5.2
 \is 4.1.9.1.1
 \de grandmother
-\vaph na
 \rf Tape:4-2-497
 \xv Mɩ aná gyi mɩ sɩ pʋ́ mɩ yɩn ayín.
 \xe My grandmothers are my father and mother's mothers.
@@ -31034,7 +31039,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe I am a grandchild to the parents of my father and my mother.
 \na Ɔna is a reciprocal term.
 \bb Stewart List:0314
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔnain
 \ph ɔnáĩ́ʔ
@@ -31201,7 +31206,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔnɔ́(H)
 \ps n
 \vad ɛnɔ
-\vaph ɛnɔ́
+\vadph ɛnɔ́
 \ve Southern
 \sn 1
 \ge mouth
@@ -31262,7 +31267,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge effect
 \is 9.6.2.6
 \de effects or results of something
-\dt 05/Jan/2017
+\dt 07/Jan/2017
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
@@ -31392,7 +31397,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph ɔpa(H)
 \vad ɛpa
-\vaph ɛpa(H)
+\vadph ɛpa(H)
 \ve Southern
 \ps n
 \sn
@@ -31406,7 +31411,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf nyankɩ1
 \nt see nyankɩ for other words for time of day
 \bb Stewart List:1106
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔpa
 \hm 2
@@ -31444,7 +31449,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔpablɪ́sʊ́
 \ps n
 \vad ɛpablɩsʋ
-\vaph ɛpablɪ́sʊ́
+\vadph ɛpablɪ́sʊ́
 \ve Southern
 \sn
 \ge noon
@@ -31455,7 +31460,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf blɩ2
 \cf nyankɩ1
 \nt see nyankɩ for other words for time of day
-\dt 18/Dec/2016
+\dt 07/Jan/2017
 
 \lx ɔpalɩ
 \ph ɔpalɪ́
@@ -31495,7 +31500,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔpasua
 \ph ɔpasua(H)
 \vad ɛpasua
-\vaph ɛpasua(H)
+\vadph ɛpasua(H)
 \ve Southern
 \ps n
 \pl mpasua
@@ -31506,13 +31511,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de group
 \xv Sadukiifɔ bʋgyi ɔpasua kʋ ánɩ́ bʋtɛblɩ bɛɛ aha bowu bʋmɛ́ɛtra kʋsʋ tsu afulitɔ.
 \xe The Sadducees were a group that they said that people who die will not rise again from the dead.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔpawisʋ
 \ph ɔpawísʊ́
 \ps n
 \vad ɛpawisʋ
-\vaph ɛpawísʊ́
+\vadph ɛpawísʊ́
 \ve Southern
 \sn
 \ge noon
@@ -31525,7 +31530,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \cf owi1
 \cf nyankɩ1
 \nt see nyankɩ for other words for time of day
-\dt 18/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔpayin
 \ph ɔpayĩʔ
@@ -31889,7 +31894,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔsɪ́
 \ps n
 \vas sɩ
-\vaph sɪ
+\vasph sɪ
 \pl asɩ
 \plph asɪ́
 \sn
@@ -31901,7 +31906,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Lehian ánɩ́ kebi okugyiɔkʋ obobu mʋ sɩ wanklaan mɛnɩ mʋ sɩ ɛ ɔbɛ́kɩ mʋ bi sʋ.
 \xe It is necessary that every child will respect his father so that the father also looks after his child well.
 \bb Stewart List:0304
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔsɩkɛtɛ
 \ph ɔsɪ́kɛ́tɛ
@@ -32066,7 +32071,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx ɔsʋkpɩ
 \ph ɔsʊk͡pɪ
 \vad ɛsʋkpɩ
-\vaph ɛsʊk͡pɪ
+\vadph ɛsʊk͡pɪ
 \ve Southern
 \ps n
 \sn
@@ -32074,7 +32079,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 2.1.1
 \de forehead
 \bb SIL-AWL:0004
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔsʋlʋ
 \ph ɔsʊlʊ̂ʔ
@@ -32405,7 +32410,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔtɪ(H)
 \ps n
 \vad ɛtɩ
-\vaph ɛtɪ(H)
+\vadph ɛtɪ(H)
 \ve Southern
 \pl ntɩ
 \plph ntɪ(H)
@@ -32420,7 +32425,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mbʋ ntɩ tsɔtsɔɔtsɔ mɩ akuda asɩ.
 \xe I have many hoes in my village.
 \bb Stewart List:1207
-\dt 10/Dec/2016
+\dt 07/Jan/2017
 
 \lx ɔtɩansɩpʋ
 \ph ɔtɪansɪpʊ
@@ -32435,8 +32440,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔtɪ́nɛ́
 \ps n
 \vad ɛtɩnɛ
+\vadph ɛtɪ́nɛ́
 \ve Southern
-\vaph ɛtɪ́nɛ́
 \pl ntɩnɛ
 \plph ntɪ́nɛ́
 \sn
@@ -32447,7 +32452,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɔyɔ ɔtɩnɛ ɩkʋ.
 \xe I will go somewhere.
 \bb Stewart List:0972
-\dt 18/Dec/2016
+\dt 07/Jan/2017
 
 \lx ɔtɩnɛgyiɔtɩnɛ
 \ph ɔtɪ́nɛʤíɔtɪ́nɛ́
@@ -33221,7 +33226,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔyɪ́
 \ps n
 \vad ɛyɩ
-\vaph ɛyɪ́
+\vadph ɛyɪ́
 \ve Southern
 \sn
 \ge world
@@ -33230,7 +33235,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-2-065
 \xv Anyankpʋsa bʋbʋ ɔyɩtɔ fɛ ɔkpa atupʋ.
 \xe People are in the world like travellers.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx ɔyɩ lakɛ
 \ph ɔyɪ́ lakɛ
@@ -33279,7 +33284,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph ɔyɔ́ɪ
 \ps n
 \vad nkɔmbɔ
-\vaph ŋkɔmbɔ
+\vadph ŋkɔmbɔ
 \ve Northern
 \sn
 \ge snare
@@ -33289,7 +33294,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ɔyɔɩ igyi yibi kʋ ánɩ́ bʋteyi mʋ́ mbwɩ ɔkpasʋ kɛkɛ ha ɔbwɩ amʋ onuto tebemli mʋ́tɔ pʋ kiki mlan atɔ sin nʋ.
 \xe This is a certain trap that is just erected on an animal path for the animal itself to get into it, wrap it around something and get stuck there.
 \nt They make a snare and attach it to a length of stick so that when the animal puts its head into it and tries to run off it will wrap the rope around something and the stick will get stuck and it won't be able to get away
-\dt 10/Dec/2016
+\dt 07/Jan/2017
 
 \lx ɔyʋlʋ
 \ph ɔyʊlʊ̂ʔ
@@ -33681,7 +33686,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph pilã́ʔ
 \ps v
 \vas plan
-\vaph plã́ʔ
+\vasph plã́ʔ
 \sn
 \ge wound; hurt
 \is 2.5.3
@@ -33692,7 +33697,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Bɛɛ, ɔlɛpilan igye sʋ ayɛha mʋ gyɔwɩ aba.
 \xe They say he was wounded yesterday so we are going to offer him condolences and come.
 \bb Stewart List:2065
-\dt 05/Jan/2017
+\dt 07/Jan/2017
 
 \lx pin
 \ph pĩʔ
@@ -34866,7 +34871,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph sâːʔ
 \ps CNJ
 \vad sanya
-\vaph saɲa
+\vadph saɲa
 \ve Southern
 \sn
 \ge unexpectedly
@@ -34876,7 +34881,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Ataa looked at her money, alas, it wasn't much.
 \xv Brɛa nɔyɔ a, saa mʋ ɛ ɔba, sʋ anɩ lefia aba ɔkpatɔ.
 \xe The time that I went, unexpectedly he also came so we met each other on the road.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx saafɩ
 \ph sâːfɪ
@@ -38697,7 +38702,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph t͡siátɔ́ʔ(L)
 \ps n
 \vas itsiatɔ
-\vaph it͡siátɔ́ʔ(L)
+\vasph it͡siátɔ́ʔ(L)
 \sn
 \ge behaviour
 \is 9.1.2
@@ -38710,7 +38715,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Bad behaviour is bad.
 \xv Mʋ tsiatɔ ma alɛ.
 \xe His behaviour is not good.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx tsiatsiaatsia
 \ph t͡siat͡siat͡sia
@@ -39237,7 +39242,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph t͡súfɛ́
 \ps CNJ
 \vas tsufɛsɛ
-\vaph t͡súfɛ́sɛ̂ʔ
+\vasph t͡súfɛ́sɛ̂ʔ
 \sn
 \ge because
 \is 9.6.2.5
@@ -39248,7 +39253,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:7-2-489
 \xv Ɔma ɩnʋ tsufɛ alatu ɔkpa.
 \xe He isn't there because he has travelled.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx tsukʋlɛ
 \ph t͡sukʊlɛʔ(L)
@@ -39305,14 +39310,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph t͡súlá
 \ps v
 \vad tsuda
-\vaph t͡súdá
+\vadph t͡súdá
 \ve Northern
 \sn 1
 \ge respond
 \is 3.5.1.5.1
 \is 9.1.2.2
 \de to respond to someone
-\vaph t͡súdá
 \rf Tape:7-2-480
 \xv Bʋdɛ mlɩ ɩtɛ ha, mlɩtsula mʋ́sʋ.
 \xe They are greeting you, so respond.
@@ -39333,7 +39337,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Natsula ánɩ́ ɔyɔ, tamɛ ɔyɔ a, ɔwa ɔsa ba.
 \xe I have agreed that he should go but he should go and come quickly.
 \bb Stewart List:2961
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx tsutsu
 \ph t͡sút͡sú
@@ -40809,7 +40813,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \hm 1
 \ph wúná
 \vad muna
-\vaph múná
+\vadph múná
 \ve Southern
 \ps v
 \sn
@@ -40824,7 +40828,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-1-462
 \xv Akʋn nya ɩdɛ Yao a alanwuna.
 \xe When Yao is hungry then he frowns.
-\dt 03/Oct/2016
+\dt 07/Jan/2017
 
 \lx wuna
 \hm 2
@@ -41501,7 +41505,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx yibi
 \ph yibi(H)
 \vas iyibi
-\vaph iyibi(H)
+\vasph iyibi(H)
 \ps vt
 \pl ayibi
 \plph ayibi(H)
@@ -41530,7 +41534,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Yibi lakpa kɩta kpasi amʋ.
 \xe A trap has sprung and caught the bush rat.
 \bb Stewart List:1228
-\dt 12/Dec/2016
+\dt 07/Jan/2017
 
 \lx yie
 \ph yíéʔ
