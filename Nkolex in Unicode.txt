@@ -614,17 +614,6 @@
 \xe If you know how to drum, it is easy to drum.
 \dt 13/Dec/2016
 
-\lx adango
-\ph adaŋgó
-\ps n
-\sn
-\ge rabbit
-\is 1.6.1.1.4
-\de rabbit
-\xv Kofi dɛ adango yaɩ amʋ́ woyitɔ.
-\xe Kofi is rearing rabbits in his house.
-\dt 15/Jul/2016
-
 \lx adansɩɛ
 \ph adã́nsɪɛ(H)
 \ps n
@@ -4437,11 +4426,12 @@
 \sn
 \ge bush pig
 \is 1.6.1.1.3
-\de bush pig
+\de red river hog
+\sc Potamoccoerus porcus
 \na Northern dialect calls bush pig with black skin gyasɩɛpɛ, but the one with red skin is called batafɔ.
 \xv Abatafɔ bʋtɛhɩɛ yinta atɔ ndɔtɔ, titriu mankani pʋ agbodi.
 \xe Bush pigs destroys things on farm very much, especially cocoyam and cassava.
-\dt 15/Sep/2016
+\dt 06/Jan/2017
 
 \lx batɛ
 \ph batɛ(H)
@@ -6356,11 +6346,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge python
 \is 1.6.1.3.1
-\de python
+\de Rock python
 \sc Python sebae
 \xv Abʋtɩ bʋtetsia patɩtɔ.
 \xe Pythons live in swampy places.
-\dt 04/Feb/2016
+\dt 06/Jan/2017
 
 \lx bwa
 \ph bwa
@@ -6917,7 +6907,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \is 8.3.1.4.1
 \de to turn over
 \bb Stewart List:2752
-\ve Phrasal_Verb
+\ng Phrasal_Verb
 \se damli ɔnɔ
 \ps v
 \ge turn around
@@ -6927,7 +6917,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Yibi amʋ ansɩtɔ kɩ Kwame wulutɔ, tamɛ ladamli ɔnɔ kɩ Ahenkro.
 \xe The car was headed towards Kwamekrom but it has turned around toward Ahenkro.
 \bb Stewart List:2018
-\dt 19/Dec/2016
+\dt 05/Jan/2017
 
 \lx damli ɩklʋntɔ
 \ph dámlí ɪklʊ̃tɔ
@@ -6964,11 +6954,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge rabbit
 \is 1.6.1.1.4
 \de rabbit
+\sc Lepus togolensis
 \bw Akan fi:adanko LLH
 \rf Tape:1-1-125
 \xv Kofi dɛ adango yaɩ amʋ́ woyitɔ.
 \xe Kofi is raising rabbits at their house.
-\dt 15/Jul/2016
+\dt 06/Jan/2017
 
 \lx dantapu
 \ph dantápu
@@ -7096,13 +7087,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge monkey
 \is 1.6.1.1.1
-\de monkey
+\de monkey; probably Mona monkey
+\sc Cercopithecus mona
 \nt also kʋtɩ
 \rf Tape:2-1-279
 \xv Nɩ deyi dɛda oyitɔ, fʋlɩɩ fʋdɛkɩ a, ɩbʋ akɩlɛ.
 \xe If a monkey is in a tree and you stand and look it is good to look at.
 \bb Stewart List:0618
-\dt 15/Jul/2016
+\dt 07/Jan/2017
 
 \lx deyi asʋ
 \ph déi asʊ
@@ -7373,8 +7365,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge sleep through
 \de sleep through s.t.
 \is 5.7
-\ve Phrasal_Verb
-\dt 31/Oct/2016
+\ng Phrasal_Verb
+\dt 05/Jan/2017
 
 \lx dɩdɩ
 \hm 2
@@ -7937,13 +7929,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps INTJ
 \va iin
 \vaph ĩː(H)
+\va een
+\vaph ẽː(H)
 \sn
 \ge yes
 \is 9.4.6
 \de affirmative
-\va een
-\vaph ẽː(H)
-\dt 01/Oct/2016
+\dt 05/Jan/2017
 
 \lx ee
 \hm 2
@@ -9633,13 +9625,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge squirrel
 \is 1.6.1.1.4
-\de tree squirrel
+\de Green bush squirrel
+\sc Paraxerus poensis
 \cf ɔtɛ2
 \rf Tape:2-2-169
 \xv Gyabɛ tɛla sia.
 \xe Squirrels make nests (in trees).
 \bb Stewart List:0629
-\dt 15/Jul/2016
+\dt 06/Jan/2017
 
 \lx gyablɩ
 \ph ʤablɪ
@@ -9783,11 +9776,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge bush pig
 \is 1.6.1.1.3
 \de wild boar
+\sc Phacochoerus africanus
 \nt gyasɩɛpɛ is brown - batafɔ is black -FO
 \rf Tape:2-2-207
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bush pigs have eaten all of my cocoyam in the farm.
-\dt 01/Oct/2016
+\dt 06/Jan/2017
 
 \lx gyata
 \ph ʤatá
@@ -11898,8 +11892,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge puff adder
 \is 1.6.1.3.1
-\de puff adder
-\dt 18/Dec/2016
+\de African puff adder
+\sc Bitis arietans
+\dt 06/Jan/2017
 
 \lx ɩbɛ
 \hm 2
@@ -14524,7 +14519,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \pl akɛlɩ
 \plph akɛlɪ (H)
 \sn
-\ge kapok tree
+\ge kapok
 \is 1.5.1
 \is 6.2.5.4
 \de kapok/silk cotton tree; prototypical large tree
@@ -14541,7 +14536,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \rf Tape:3-1-505
 \bb Stewart List:0878
 \cf dantapu
-\dt 01/Dec/2016
+\dt 06/Jan/2017
 
 \lx kɛmɛ
 \ph kɛmɛ
@@ -15540,12 +15535,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \is 1.6.1.2
 \de woodpecker
 \vad ɔdakpokpo
-\ve Southern dialect
+\ve Southern
 \rf Tape:3-2-216
 \xv Klɛkpakpa gyon oyisʋ.
 \xe The woodpecker is perched on the tree.
 \bb Stewart List:0722
-\dt 21/Oct/2016
+\dt 05/Jan/2017
 
 \lx klɛmɛtɩ
 \ph klɛmɛtɪ́
@@ -15683,17 +15678,24 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xe Klɔtɩbʋodu is sweeter than rat.
 \dt 15/Jul/2016
 
+\lx kluklu
+\vaph klúklú
+\ps ADJ
+\sn
+\ge deep
+\is 8.2.6.5
+\de deep
+\cf klukluuklu
+\dt 05/Jan/2017
+
 \lx klukluuklu
 \ph klúklúːklú
 \ps ADJ
-\va kluklu
-\vaph klúklú
-\ve Non-emphatic form
 \sn
 \ge very deep
 \is 8.2.6.5
 \de very deep
-\dt 01/Oct/2016
+\dt 05/Jan/2017
 
 \lx klun
 \ph klũʔ
@@ -16797,12 +16799,13 @@ cf fonflo
 \sn 1
 \ge baboon
 \is 1.6.1.1.1
-\de baboon
+\de Olive baboon
+\sc Papio anubis
 \sn 2
 \ge ape
 \de large ape
 \nt There are no more apes in Nkonya, but kpantsa is used for any large ape.
-\dt 07/Sep/2016
+\dt 05/Jan/2017
 
 \lx kpantsapa
 \ph k͡pant͡sapa
@@ -16840,11 +16843,12 @@ cf fonflo
 \ge rat
 \is 1.6.1.1.4
 \de bush rat
+\sc Thryonomys swinderianus
 \rf Tape:3-2-475
 \xv Kpasi ɔkʋ dɛ mɩ gyo wɩ. Sʋ nafɩnɩ mʋ kɩta mʋ. Mʋ odu bʋ swɩ.
 \xe A certain bush rat is eating my yams, so I have trapped him. His tail is long.
 \bb Stewart List:0619
-\dt 15/Jul/2016
+\dt 06/Jan/2017
 
 \lx kpata
 \hm 1
@@ -17705,9 +17709,10 @@ cf fonflo
 \is 1.6.1.1.3
 \is 6.3.1.7
 \de camel
+\sc Camelus dromedarius
 \xv Kpɔsɔ tɔsʋra atɔ dwindwin.
 \xe A camel carries heavy loads.
-\dt 06/Dec/2016
+\dt 06/Jan/2017
 
 \lx kpɔtɩ
 \ph k͡pɔ́tɪ́(H)
@@ -17832,14 +17837,15 @@ cf fonflo
 \sn
 \ge buffalo
 \is 1.6.1.1.3
-\de buffalo
+\de African buffalo
+\sc Syncerus caffer
 \xv Kpʋkpʋ gyi pututɔ ɔnantswie. Ɔmʋa ɔlɛdan a, ɔbʋ ɔwʋnlɩn, mʋ nsiebi tɔwa ɩswɩ, sʋ aha bʋtenya mʋ́ ifu.
 \xe A buffalo is a bush cow. When it is grown it is strong, its horns are long so people are afraid of him.
 \rf Tape:4-1-027
 \xv Kpʋkpʋ bʋ nsiebi fɛ ɔnantswie. Otetsia pututɔ.
 \xe A buffalo has horns like a cow. It lives in the bush.
 \bb Stewart List:0622
-\dt 15/Jul/2016
+\dt 06/Jan/2017
 
 \lx kpʋɔkpʋɔkpʋɔ
 \ph k͡pʊɔk͡pʊɔk͡pʊɔ
@@ -19178,10 +19184,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge monitor lizard
 \is 1.6.1.3.2
-\de Nile monitor lizard
-\sc Varanus niloticus
+\de Savannah monitor lizard
+\sc Varanus exanthematicus
+\nq Which is the common type, Nile monitor or Savannah monitor?
 \bb Stewart List:0766
-\dt 07/Sep/2016
+\dt 06/Jan/2017
 
 \lx lata
 \hm 2
@@ -19218,7 +19225,8 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge turtle
 \is 1.6.1.3.3
-\de turtle
+\de African helmeted turtle
+\sc Pelomedusa subrufa
 \na Wurupong reveres this animal because legend has it that when the time came to cross the Volta, The animal came up to provide stepping stones to cross the river.
 \rf Tape:4-1-482
 \xv Lembu lɔpʋ Nkonya Wurupongfɔ fa Ɩlɩn.
@@ -19226,7 +19234,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-1-485
 \xv Wurupongfɔ bʋtekisi lembu.
 \xe Wurupong people abstain from turtle meat.
-\dt 15/Jul/2016
+\dt 05/Jan/2017
 
 \lx lɛ
 \ph lɛ́ʔ
@@ -31121,7 +31129,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge cow
 \is 1.6.1.1.3
 \is 6.3.1.1
-\de cow
+\de cattle
+\sc Bos taurus
 \bw Akan fi:nantwi
 \xv Bʋtenyimɛ ɔnantswie nyɔpʋ ntsu bwɛ mliki.
 \xe They milk cows to get milk. They express the fluid in cow udders and take it to make milk.
@@ -31129,7 +31138,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Mbwɩ fɛ́ɛ́ bʋsɩrɩ tamɛ ɔnantswie olakpa ɔsɩrɩ yi a, bɛɛ ɔdɛ gbede lɔ.
 \xe All animals ran but as soon as a cow runs, they say it is mad.
 \bb Stewart List:0614
-\dt 07/Dec/2016
+\dt 05/Jan/2017
 
 \lx ɔnantswiebi
 \ph ɔnant͡swɪebi
@@ -31698,13 +31707,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge pig
 \is 1.6.1.1.3
 \is 6.3.1.4
-\de pig
+\de domestic pig
+\sc Sus scrofa domesticus
 \bw Akan fi:prakʋ H!H
 \rf Tape:6-1-340
 \xv Febie ɔprakuo alɩa-gyi-alɩa a, obéyinki yɔ ɔdɩbatɔ.
 \xe No matter how you wash a pig, it will return to the muddy place.
 \bb Stewart List:0615
-\dt 09/Dec/2016
+\dt 06/Jan/2017
 
 \lx ɔprɩm
 \ph ɔprɪm
@@ -32365,13 +32375,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge ground squirrel
 \is 1.6.1.1.4
 \de ground squirrel
+\sc Xerus erythropus
 \nt ground squirrel bigger than gyabɛ, the tree squirrel
 \xv Ɔtɛ tokwi ɔbɔ. Olomoni dʋn gyabɛ.
 \xe A Ground squirrel digs a hole. It is bigger than a tree squirrel.
 \rf Tape:6-1-466
 \xv Ɔtɛ tɔwɩ kɩtɩba dʋbɩ.
 \xe Ground squirrel eats groundnut too much.
-\dt 15/Jul/2016
+\dt 06/Jan/2017
 
 \lx ɔtɛntɛ
 \ph ɔtɛ́ntɛ
@@ -35052,13 +35063,15 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cobra
 \is 1.6.1.3.1
-\de cobra
+\de spitting cobra; probably black-necked spitting cobra, perhaps Mali cobra
+\sc Naja nigricollis
+\sc Naja katiensis
 \xv Bɛɛ, "Bɛɛ" (ɩbɛ); "Sapa" mʋ́ tamaba.
 \xe They say, "viper", "Cobra" will never come.
 \xe They blame the innocent for the work of the guilty.
 \xv Sapa tɔwa aha atsʋnɔ.
 \xe Cobra's spit at people.
-\dt 24/Dec/2012
+\dt 06/Jan/2017
 
 \lx sapʋrada
 \ph sá!pʊ́rádá
@@ -35114,7 +35127,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge tortoise
 \is 1.6.1.3.3
 \de tortoise
-\sc Fam:Testudinidae
+\sc Stigmochelys pardalis
 \xv Kebi amʋ dɛwɔlɩ fɛ sawun.
 \xe The child is crawling like a tortoise.
 \xv Nyebi bʋtamabwie sawun. Obien bʋtobwie.
@@ -35122,7 +35135,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Sawun ɔbɛɛ, nɩ fʋ ma ntsu a, oli bʋtɔkɔsɩ yɔ.
 \xe Tortoise says, if you don't have tears, you quickly go to funeral.
 \nt This is an idiom for, If you have something you better start earlier before it becomes too late.
-\dt 07/Sep/2016
+\dt 05/Jan/2017
 
 \lx sawun fla
 \ph sawun fla
@@ -35938,13 +35951,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge elephant
 \is 1.6.1.1.3
 \de elephant
+\sc Loxodonta africana
 \xv Srʋfɔ topuli nyi.
 \xe An elephant pulls up trees.
 \nt Srʋfɔ ɔfɛɩ ɔkpa a, bʋtama da obetsu
 \nt When an elephant takes lead, you don't become wet with dews. (When an old man is with you, you don't suffer.
 \rf Tape:7-1-011
 \bb Stewart List:0617
-\dt 15/Jul/2016
+\dt 06/Jan/2017
 
 \lx srʋfɔbɩ
 \ph srʊ́fɔ́bɪ
