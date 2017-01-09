@@ -5,7 +5,7 @@
 <!-- Database: Nkolex in Unicode.txt -->
 <!-- Last Changed:  -->
 
-<lexiqueProConfig version="3.6" dateModified="2016-09-06T12:29:08">
+<lexiqueProConfig version="3.6" dateModified="2017-01-07T11:17:27">
 
  <encoding type="UTF-8"/>
 
@@ -1237,7 +1237,7 @@
   <fieldMarker type="Cross Reference" enabled="true">cf</fieldMarker>
   <fieldMarker type="Cross Reference Gloss" lang="English" enabled="true">ce</fieldMarker>
   <fieldMarker type="Main Entry Cross Reference" enabled="true">mn</fieldMarker>
-  <fieldMarker type="Variant Form" enabled="true">va</fieldMarker>
+  <fieldMarker type="Variant Form" enabled="true">va, vas, vaa, vad</fieldMarker>
   <fieldMarker type="Variant Comment" lang="English" enabled="true">ve</fieldMarker>
   <fieldMarker type="Borrowed Word" enabled="true">bw</fieldMarker>
   <fieldMarker type="Etymology" enabled="true">et</fieldMarker>
