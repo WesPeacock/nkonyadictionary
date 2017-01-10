@@ -12,7 +12,7 @@
 \xe If you go to town, buy me some groundnuts.
 \xv Ɔtsanɩ fɔyɔ wulutɔ a, hɔ kɩtɩba ba mɩ.
 \xe When you go to town, buy me some groundnuts.
-\dt 29/Aug/2016
+\dt 10/Jan/2017
 
 \lx a-
 \hm 1
@@ -37,13 +37,13 @@
 \sn
 \ge we
 \is 9.2.3
-\de we
+\de we; 1st person plural
 \rf Tape:1-1-008
 \xv Abɔ́yɔ ndɔ ndɛ.
 \xe We will go to farm today.
 \xv Mɩa Ataa nyɔ abɔ́flɔɩ kpoli.
 \xe Ataa and I both will husk maize.
-\dt 03/Jan/2017
+\dt 09/Jan/2017
 
 \lx a-
 \hm 3
@@ -66,7 +66,7 @@
 \sn
 \ge and
 \is 9.6.1.1
-\de and
+\de and; joins two subjects
 \nt attaches to pronoun to give meaning me+and you+and etc
 \xv Mɩa nyebi amʋ legyi.
 \xe I and the children ate.
@@ -94,9 +94,8 @@
 \xe Kofi, he and Kwame will go to the water source.
 \xv Nyankpʋ mʋ́a onyelulu totswie.
 \xe Rain and dew fall.
-\nt Any vowel following a nasal is nasalized so mɩa is pronounced mɩan. Mɩa mɩ ka nyɔ anɩ tse.
 \cf pʋ́
-\dt 03/Jan/2017
+\dt 09/Jan/2017
 
 \lx -a
 \hm 2
@@ -114,7 +113,7 @@
 \sn
 \ge say
 \is 3.5.1
-\de say
+\de to say something
 \ng continuous aspect
 \rf Tape:1-2-367
 \ng irregular form of bɛɛ used with 1P and 2P
@@ -133,7 +132,7 @@
 \xv Anɩaa abosum Bulu, mɛnɩ awu a, abénya nkpa ánɩ́ ɩtamata Bulu wa.
 \xe We say we worship God, that should we die, we will get life that never ends in heaven.
 \rf Tape:1-1-469
-\dt 20/Sep/2016
+\dt 09/Jan/2017
 
 \lx aba
 \ph aba(H)
@@ -238,13 +237,13 @@
 \ge maid
 \is 2.6.5.2
 \is 4.5.4.3
-\de maidservant
+\de maidservant; young serving girl
 \nt This is a Akan loan word. It comes from "Ɔbea" meaning girl or woman and the suffix wa meaning little or less in value.
 \bw Akan fi:abawa LLH - maid servant
 \xv Abawa akʋ bʋtowun asʋn amʋ́ awie wa, tsufɛ awie amʋ akʋ bʋbʋ owuntɔlɩ.
 \xe Some maidservants suffer under their mistress, because some of the mistress are cruel.
 \nt Nkonya equivalent is Ɔha wa otsiapʋ
-\dt 02/May/2016
+\dt 09/Jan/2017
 
 \lx Abena
 \ph abɪ́ná (H)
@@ -277,7 +276,7 @@
 \xe When you pound palm fruits you will take the kernels and the fibres out of it.
 \nt lɛ mʋ́ lɛ means to take something out of something
 \rf Tape:1-1-060
-\cf abɛtɛ
+\cf ɩbɛtɛ
 \cf atoli
 \cf ɔbɛ
 \cf kɛnkɛ2
@@ -286,7 +285,7 @@
 \cf ibian
 \cf lɛbɛ
 \cf ɔbɛkʋtʋ
-\dt 01/Dec/2016
+\dt 07/Jan/2017
 
 \lx abi
 \ph abi(H)
@@ -382,12 +381,12 @@
 \ge rib
 \is 2.1.2
 \is 2.1.6
-\de rib
+\de rib bone
 \lt side bone
 \bb SIL-AWL:0080
 \xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
 \xe If your rib breaks and you don't take care, you will die.
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx abɩntɔ
 \ph abɪ̃ntɔ(H)
@@ -535,7 +534,7 @@
 \sn
 \ge family
 \is 4.1.9.8
-\de family
+\de family group
 \ph mbusuan
 \ph mbusuã(H)
 \bw Akan fi:abusuan LLLH
@@ -545,7 +544,7 @@
 \cf abusuanfɔ
 \nt Not literally, but in terms of obligation. That's why people don't trade in town, because everyone claims they are family and should get a reduced price. So you end up with no profit.
 \nt Father (ɔsɩ/sɩ), Mother (oyin/yin), child (kebi), baby (kebi bɔbwɛ), daughter(obitsibi), girl (otsibi), boy (oyinbi),
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx abusuanfɔ
 \ph abusuãfɔ́
@@ -658,11 +657,11 @@
 \sn
 \ge bellows
 \is 6.6.2.3
-\de bellows
+\de blacksmith bellows
 \xv Nɩ gbede adɩn ɩtɩtɩ a, ɔmɛ́ɛtalɩ fwi mʋ ogya.
 \xe If a blacksmith's bellows tear, he cannot blow his fire.
 \bb Stewart List:1216
-\dt 10/Feb/2014
+\dt 10/Jan/2017
 
 \lx adɔbʋ
 \ph adɔbʊ̂ʔ
@@ -992,7 +991,7 @@
 \sn
 \ge lie
 \is 3.5.1.3.2
-\de lie
+\de a lie
 \xv Afunu wa ma alɛ. Tsufɛ, Bulu ɔbɛ́ɛ, afunupʋ bʋmɛ́ɛba mʋ iwie ogyikpa ɩnʋ.
 \xe Telling lies is bad, because God says, liars will not come to his kingdom (heaven) there.
 \rf Tape:1-1-166
@@ -1005,7 +1004,7 @@
 \ge lie
 \is 3.5.1.3.2
 \de to tell a lie
-\dt 21/Sep/2016
+\dt 10/Jan/2017
 
 \lx afutɔ
 \ph afútɔ́ʔ(L)
@@ -1092,11 +1091,11 @@
 \sn
 \ge trap
 \is 6.4.2
-\de trap
+\de trap; typically leg-hold trap
 \xv Agbla lakpa kɩta kpasi.
 \xe The trap has sprung and caught the bush rat.
 \bb Stewart List:1228
-\dt 15/Jul/2016
+\dt 10/Jan/2017
 
 \lx agbodi
 \ph ag͡bodiʔ
@@ -1271,7 +1270,7 @@
 \de charcoal burner
 \xv Agyawunu ɔtɔpʋ atadɩɛ tebi, tsufɛ agyawunu lebi.
 \xe charcoal burner's attire blackens, because charcoal is black.
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx agyilɛ
 \ph aʤílɛʔ
@@ -1281,11 +1280,11 @@
 \is 3.4.1.2
 \is 5.2.2
 \is 6.1.3.1
-\de edible
+\de edible; tasty
 \rf Tape:1-1-268
 \xv Atogyihɛ ánɩ́ nfɔlɩ ma mʋ́tɔ a, ɩma agyilɛ.
 \xe Food that does not have salt in it is not easy to eat.
-\dt 13/Dec/2016
+\dt 09/Jan/2017
 
 \lx agyɩm
 \ph aʤɪm
@@ -1304,16 +1303,16 @@
 \ph aʤɪna(H)
 \ps n
 \sn
-\ge whisper advice
+\ge whisper
 \is 3.5.1.1.2
-\de whisper
+\de to whisper
 \bw Akan fi:agyina LLH
 \xv Omedekle ánɩ́ ɔhaa onu amʋ́ asʋn amʋtɔ sʋ a, olotu mʋ agyɩna.
 \xe She isn't wanting that nobody he hears their matter, so she advised him in a whisper.
 \xe She didn't want anyone to hear so she whispered her advice.
 \rf Tape:1-1-254
 \cf nklobitɔ
-\dt 18/May/2016
+\dt 10/Jan/2017
 
 \lx agyɩndɩ
 \ph aʤɪndɪ(H)
@@ -1358,10 +1357,10 @@
 \sn
 \ge riddle
 \is 3.5.4.3
-\de riddle
+\de a riddle
 \xv wa agyoloo
 \xe tell a riddle
-\dt 22/Sep/2016
+\dt 10/Jan/2017
 
 \lx agyonwun
 \ph aʤonwũ(H)
@@ -1417,7 +1416,7 @@
 \is 6.1
 \is 6.1.2.3
 \de s.o. who is working
-\dt 29/Nov/2016
+\dt 09/Jan/2017
 
 \lx agywama
 \ph aʤwama(H)
@@ -1425,11 +1424,11 @@
 \sn
 \ge prostitute
 \is 2.6.2.3
-\de prostitute
+\de a prostitute
 \bw Akan fi:adwama LLH
 \xv Agywama ɔbɔpʋ ogyi.
 \xe She is a prostitute.
-\dt 22/Jul/2016
+\dt 10/Jan/2017
 
 \lx agywɩɩn
 \ph aʤwɪ̃ː(H)
@@ -1510,12 +1509,12 @@
 \is 2.3.1.7
 \is 5.1
 \is 5.4
-\de mirror
+\de a mirror
 \nt ansibi ahʋhwɛ is glasses
 \bw Akan fi:ahwɩhwɛ LLH
 \xv Ahʋhwɛ bʋtɔpʋ kɩ ansɩtɔ.
 \xe They use mirror to look at one's faces.
-\dt 18/May/2016
+\dt 10/Jan/2017
 
 \lx ahʋrotia
 \ph ahʊ́rotia(H)
@@ -1549,13 +1548,13 @@
 \is 5.4.3.5
 \is 6.6.1
 \is 6.7.1
-\de scissors
+\de a pair of scissors
 \bw Akan fi:akapɛ LLH
 \xv Anɩtɔpʋ akapɛ dɩnkɩ anɩ imi nɩ ɩbla.
 \xe We use scissors to cut our hair when it is long.
 \xe When our hair is too long we cut it with scissors.
 \rf Tape:1-1-306
-\dt 28/Nov/2016
+\dt 10/Jan/2017
 
 \lx akatsa
 \ph akat͡sa(H)
@@ -1679,13 +1678,15 @@
 \lx aklambi
 \ph aklambi
 \ps n
+\sg klambi
+\sgph klambiʔ
 \sn
 \ge marbles
 \is 4.2.6.1
 \de marbles
 \xv Aklambi tswɩ bʋ ansigyi wanklaan.
 \xe Throwing marbles is lots of fun.
-\dt 30/Sep/2015
+\dt 10/Jan/2017
 
 \lx aklantida
 \ph ɔklãntida
@@ -2201,13 +2202,13 @@
 \vas loo
 \vasph lóː
 \sn
-\ge or; instead of
+\ge or
 \is 9.6.1.2
-\de or
+\de or; instead of
 \bw Ewe fi:aloo LHH
 \cf anaasɛ
 \cf ntɛ
-\dt 05/Jan/2017
+\dt 10/Jan/2017
 
 \lx amandɩɛ
 \hm 1
@@ -2216,13 +2217,13 @@
 \sn
 \ge news
 \is 3.5.1.4.3
-\de tidings
+\de news; tidings
 \bw Akan fi:amanɩɛ LLHH
 \xv Ɔfɔɔ amʋ ɔbɛɛ, mʋ amandɩɛ mɛ?
 \xe The stranger he said, his news was what?
 \xe What was the stranger's news?
 \rf Tape:1-1-416
-\dt 18/May/2016
+\dt 10/Jan/2017
 
 \lx amandɩɛ
 \hm 2
@@ -2421,8 +2422,9 @@
 \ge termite queen
 \is 1.6.1.7
 \de termite queen
-\np Needs spelling, tone and glottal check
-\dt 30/Sep/2016
+\nq Needs spelling, tone and glottal check
+\cf baba
+\dt 10/Jan/2017
 
 \lx andobi
 \ph ándobi
@@ -2458,12 +2460,12 @@
 \sn
 \ge this
 \is 9.2.3.5
-\de this
+\de this one
 \xv Anɩ fɛ́ɛ́ anɩgyi afɔɔ ɔyɩ anfɩtɔ.
 \xe We all, (we) are strangers in this world.
 \xe We all are strangers in this world.
 \rf Tape:1-1-456
-\dt 17/May/2016
+\dt 10/Jan/2017
 
 \lx anɩ
 \ph anɪ(H)
@@ -2495,7 +2497,7 @@
 \sn
 \ge that
 \is 9.2.5.2
-\de that
+\de that; relative clause
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that is not flexible is easy to break.
 \xe A rigid or brittle stick is easy to break.
@@ -2507,7 +2509,7 @@
 \xv Nɛbla kebi amʋ ánɩ́ ɔkʋsʋ natɩ ba.
 \xe I told the child that he should get up and walk come.
 \bb Stewart List:1847
-\dt 05/Jan/2017
+\dt 10/Jan/2017
 
 \lx anɩmka
 \ph animka(H)
@@ -2593,7 +2595,7 @@
 \xe The man blind man staying at the top is dead.
 \cf bwie
 \cf ansibi
-\dt 17/Oct/2016
+\dt 09/Jan/2017
 
 \lx ansigyi
 \ph ansíʤí
@@ -2770,7 +2772,7 @@
 \is 3.2.5.4
 \is 3.5.1.4.3
 \is 3.5.1.5.1
-\de OK
+\de OK; affirmative
 \rf Tape:8-2-040
 \xv Aoo, nanu, sʋ nɛ́ba.
 \xe OK, I have heard so I will come.
@@ -2779,7 +2781,7 @@
 \xe OK, come and let us go.
 \cf yoo
 \na Aoo is more frequently heard than yoo in the Northern dialect but is declining in usage
-\dt 21/Sep/2016
+\dt 10/Jan/2017
 
 \lx apa
 \ph apá
@@ -3027,12 +3029,12 @@
 \sn
 \ge cross
 \is 4.9.7.2
-\de cross
+\de a cross
 \bw Akan fi:asendua LHLL
 \cf oyikpalihɛ
 \xv Bɛda mʋ sian asenduasʋ.
 \xe He was nailed on the cross.
-\dt 11/Jun/2014
+\dt 10/Jan/2017
 
 \lx asesegua
 \ph aséségúá
@@ -3110,14 +3112,14 @@
 \sn
 \ge cemetary
 \is 2.6.6.6
-\de cemetary
+\de a cemetary
 \nt S. Nkonya asie LLHʔ
 \bw Akan fi:amusie LLLHʔ
 \rf Tape:1-1-579
 \xv Wulugyiwulu bʋ asiɛɩ, nɩ ɔha owu a, bʋtopula mʋ nʋ.
 \xe Every town has a graveyard. When a person dies they bury him there.
 \cf ntsan
-\dt 14/Sep/2016
+\dt 10/Jan/2017
 
 \lx asiɛntɔ
 \ph asíɛntɔʔ
@@ -3182,7 +3184,7 @@
 \sn 1
 \ge around
 \is 8.5.1.2.1
-\de around
+\de around something
 \cf fi asɩ
 \ps POST
 \sn 2
@@ -3216,7 +3218,7 @@
 \xe She will have many descendants.
 \rf Tape:1-1-588
 \cf obi
-\dt 01/Nov/2016
+\dt 09/Jan/2017
 
 \lx asɩba
 \ph asɪbá
@@ -3490,6 +3492,7 @@
 \ge millet
 \is 6.2.1.1
 \de millet
+\sd Pennisetum glaucum
 \rf Tape:1-2-076
 \xv Bʋtɔkwɛ atɩkɔ nfuo pʋ wuli wʋdɩ. Bʋtɔpʋ bwɛ nta ánɩ́ igyi pitoo.
 \xe They grind millet flour and stir it into a porridge. They make a fermented drink called Pito from it.
@@ -3497,7 +3500,7 @@
 \xe The millet has become dry.
 \bw Akan fi:atɪkɔ
 \cf ayo
-\dt 29/Oct/2013
+\dt 10/Jan/2017
 
 \lx atogyihɛ
 \ph atoʤihɛ
@@ -3555,14 +3558,14 @@
 \ph atosunáhɛ́
 \ps n
 \sn
-\ge teachings
+\ge teaching
 \is 3.6.3
 \is 3.6.4
-\de teachings
+\de a teaching
 \xv Nɩ fégyi dɩnka anɩ wie Yesu Kristo atosunahɛsʋ a, ɩtɔwa alɛ ha fʋ nkpa anfɩtɔ.
 \xe If you abide by the teachings of our Lord Jesus Christ, it becomes well with you in this life.
 \cf suna
-\dt 16/Jul/2016
+\dt 10/Jan/2017
 
 \lx atɔ
 \ph atɔ́ʔ(H)
@@ -3596,7 +3599,7 @@
 \na Some people just see things in a vision, but some people use various methods such as looking in water.
 \xv Atɔ owunpʋ towun atɔ ánɩ́ bɛ́ba, bla aha mɛnɩ bɛ́da wɩsʋ.
 \xe A diviner sees the things that will come and tells people so that they can watch out.
-\dt 20/May/2016
+\dt 09/Jan/2017
 
 \lx atɔ ɔbɩnpʋ
 \ph atɔ́ ɔbɪ̃́mpʊ
@@ -3609,8 +3612,8 @@
 \de seamstress or tailor
 \xv Atɔ ɔbɩnpʋ amʋ dɛ mɩ atadɩɛ bɩn.
 \xe The seamstress/tailor is sewing my clothes.
-\nt see bɩn
-\dt 16/Jul/2016
+\cf bɩn
+\dt 09/Jan/2017
 
 \lx atɔ ɔfɛpʋ
 \ph atɔ́ ɔfɛpʊ́ʔ
@@ -4344,11 +4347,11 @@
 \sn
 \ge tear
 \is 7.8.4
-\de tear
+\de to tear something
 \xv Alabalɩ tatida wa ɔkandɩɛtɔ.
 \xe She has torn up a rag to make lamp wicks.
 \bb Stewart List:2775
-\dt 14/Jun/2016
+\dt 09/Jan/2017
 
 \lx bamba
 \hm 1
@@ -4478,8 +4481,8 @@
 \is 1.6.1.2
 \is 1.6.7
 \is 6.3.6.1
-\de hen
-\dt 06/Dec/2016
+\de a hen
+\dt 10/Jan/2017
 
 \lx beblebe
 \ph béblébé
@@ -4538,7 +4541,7 @@
 \sn
 \ge say
 \is 3.5.1
-\de say
+\de to say something
 \ng continuous aspect
 \cf -aa
 \rf Tape:1-2-367
@@ -4582,7 +4585,7 @@
 \xv Anɩaa abosum Bulu, mɛnɩ awu a, abénya nkpa ánɩ́ ɩtamata Bulu wa.
 \xe We say we worship God, that should we die, we will get life that never ends in heaven.
 \rf Tape:1-1-469
-\dt 20/Sep/2016
+\dt 09/Jan/2017
 
 \lx bɛɩn
 \ph bɛ́ɪ̃
@@ -4860,7 +4863,7 @@
 \sn 1
 \ge bathe
 \is 5.6.2
-\de bathe
+\de to bathe
 \xv Nɩ fotsu ndɔ ba, febie ntsu a, ipian amʋ tɔkʋsʋ fʋsʋ.
 \xe If you come from farm and you bathe, the fatigue leaves you.
 \xe When you bathe after coming from farm it refreshes you.
@@ -4879,7 +4882,7 @@
 \de to menstruate
 \xv Nɩ atsɩ bebie a, bʋtamatsia akpɩpʋ woyitɔ, tsufɛ bʋtekisi.
 \xe When women menstruate, they do not stay in fetish priests' house, because it is a taboo.
-\dt 19/Jul/2016
+\dt 09/Jan/2017
 
 \lx bie ɔkla
 \ph bie ɔkláʔ
@@ -4913,13 +4916,13 @@
 \sn
 \ge butcher
 \is 6.3.4
-\de butcher
+\de to butcher an animal
 \xv Bio batɛ amʋ afʋlɛ mʋ wɩtɔ atɔ tsitsa. Afʋkaka ayie amʋ wa ɔlankatɔ nɩna mʋ́.
 \xe Butcher the fowl and remove its inside things and throw them away. You should cut the meat in pieces into a cooking pot and cook it.
 \xe When you kill a chicken, gut it and throw the innards away. Then chop it up into a pot and cook it.
 \rf Tape:1-2-458
 \bb Stewart List:2875
-\dt 12/Jun/2014
+\dt 09/Jan/2017
 
 \lx bita
 \ps n
@@ -5043,7 +5046,7 @@
 \sn
 \ge sew
 \is 6.6.1
-\de sew
+\de to sew something
 \rf Tape:1-2-469
 \xv Nkɛtɔ a, aha bʋtɛbɩn atadɩɛ pɔpwɛ.
 \xe On festive days, people sew new clothes.
@@ -5051,7 +5054,7 @@
 \xe The seamstress/tailor is sewing my clothes.
 \bb Stewart List:2817
 \bb Stewart List:2885
-\dt 12/Jun/2014
+\dt 09/Jan/2017
 
 \lx bɩna
 \ph bɪnaʔ
@@ -5176,7 +5179,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge tell
 \is 3.5.1
-\de tell
+\de to tell someone something
 \rf Tape:1-2-485
 \xv Nkalɩ ɔdɛ fʋ bla?
 \xe What is he telling you?
@@ -5192,7 +5195,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:1-2-496
 \xv Mlɩbla mʋ mlɩaa, ɔkɛ mɛ́ɛba, sʋ ɔmakɩ mɩ ɔkpa.
 \xe You(pl.) tell him I won't come tomorrow so he shouldn't expect me.
-\dt 20/Sep/2016
+\dt 09/Jan/2017
 
 \lx blanwɛ
 \ph blanwɛ́
@@ -5245,7 +5248,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge speak
 \is 3.5.1
-\de say
+\de to speak
 \nt irregular verb see bɛɛ
 \rf Tape:4-2-267
 \xv Ɔlɛblɩ ánɩ́ ɔbɛ́ba, saa ɔdɛ mɩ mlɛ; sʋ ɔmɛba.
@@ -5255,7 +5258,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nɛblɩ mbɛɛ, nɔ́yɔ ndɔ.
 \xe I said, I say I will go to farm.
 \xe A person who gets angry often, says evil words.
-\dt 11/Sep/2016
+\dt 09/Jan/2017
 
 \lx blɩ
 \hm 2
@@ -5383,10 +5386,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge rinse
 \is 5.6.4
-\de rinse
+\de to rinse something
 \xv Ɔlɔfwɩ mʋ atɔ blɔpʋ mʋ́ fɩta.
 \xe He washed his things, rinsed and dried them.
-\dt 28/Nov/2016
+\dt 09/Jan/2017
 
 \lx blublublublu
 \ph blúblúblúblú
@@ -5404,14 +5407,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge urinate
 \is 2.2.7
-\de urinate
+\de to urinate
 \nt euphemisms: wa bɩ ɔtatibitɔ "put your hand in the inner cloth" wʋlɩ ntsu "pour water"
 \xv Foblufo wʋlɩ tsukʋlɛ a, mʋ́ ɩtɛlɩn afu.
 \xe If you urinate in one place it makes bubbles.
 \nt proverb
 \rf Tape:1-2-537
 \bb Stewart List:2049
-\dt 01/Jul/2014
+\dt 09/Jan/2017
 
 \lx bobun
 \ph bobũ
@@ -5510,11 +5513,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge stink
 \is 2.3.4
-\de stink
+\de to stink
 \rf Tape:1-2-547
 \xv Klɔtɩ ɔkʋ lawu wa obu anfɩtɔ, sʋ odebon. Fanu mʋ́ nka?
 \xe A mouse has died in this room so it stinks, have you heard (smelled) it.
-\dt 03/Jul/2014
+\dt 09/Jan/2017
 
 \lx botodua
 \ph botodua (H)
@@ -5538,14 +5541,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge join
 \is 4.2.1
-\de join
+\de to join together
 \bw Akan fi:bom HL
 \xv Baboun bwɛ kʋlɛ.
 \xe They have joined and become one.
 \xv kpa boun
 \xe gather together
 \bb Stewart List:2681
-\dt 18/Jul/2016
+\dt 09/Jan/2017
 
 \lx bɔ
 \ph bɔ́
@@ -6230,13 +6233,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge help
 \is 4.3.4.2
-\de help
+\de to help someone
 \rf Tape:2-1-134
 \xv Nobwii pa, bʋa mɩ ayɔ agyʋma kpalobi anfɩ sesei.
 \xe I beg you please help me that we should do this small work now.
 \bb Stewart List:3008
 \nt Nkonya is tsa
-\dt 18/Jul/2016
+\dt 09/Jan/2017
 
 \lx bʋa
 \hm 2
@@ -6267,7 +6270,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge fill
 \is 7.5.9.2
 \is 8.1.8
-\de fill
+\de to fill something
 \rf Tape:1-2-503
 \xv Sa ntsu bʋla ɔwɛ amʋ ha mɩ.
 \xe Bring water and fill the calabash for me.
@@ -6294,7 +6297,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe He should go today because his maize is full of weeds.
 \cf ɔbɔ2
 \bb Stewart List:2488
-\dt 03/Jan/2017
+\dt 09/Jan/2017
 
 \lx bʋmblaan
 \ph bʊ́mblã́ː
@@ -6936,9 +6939,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge repent
 \is 4.8.4.6
-\de repent
+\de to repent
 \lt turn in the heart
-\dt 22/Jul/2016
+\dt 09/Jan/2017
 
 \lx dan
 \ph dãʔ(L)
@@ -7794,12 +7797,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge search for
 \is 7.6.1
-\de search
+\de to search for someone or something
 \rf Tape:2-1-394
 \xv Nyebi amʋ bʋdɛ amʋ́ kɔba amʋʋ lafwɩ amʋ dunka.
 \xe The children are looking for their money that has been lost.
 \bb Stewart List:3322
-\dt 01/Nov/2016
+\dt 09/Jan/2017
 
 \lx dutɛ
 \ph dútɛ
@@ -7878,14 +7881,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge love
 \is 4.3.3
-\de love
+\de to love someone or something
 \rf Tape:2-1-413
 \xv Dwɛ fʋ ba fɛ fʋ wɩ.
 \xe Love your neighbour as yourself.
 \nt nominal form ɔdwɛ
 \cf ɔdwɛpʋ
 \bb Stewart List:3253
-\dt 04/Jul/2014
+\dt 09/Jan/2017
 
 \lx dwiin
 \ph dwĩ̌ː
@@ -8412,7 +8415,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge start
 \is 8.4.6.1.1
-\de start
+\de to start something
 \rf Tape:2-1-490
 \xv Néfi agyʋma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
@@ -8422,7 +8425,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Mʋ́ sʋ nɩ bɔkwɩɩ ɔkʋ ndɛ a, ɩlɛhian ánɩ́ abéfi wɩ bʋabʋa asɩ ha mʋ lowu.
 \xe Because of this if someone is born today, it is necessary to begin to prepare ourselves for his death.
 \bb Stewart List:2885
-\dt 16/Jul/2016
+\dt 09/Jan/2017
 
 \lx fia
 \hm 1
@@ -8692,7 +8695,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge dry
 \is 1.3.3.1
-\de dry
+\de to dry something
 \rf Tape:2-1-528
 \xv Igye nɛfɩta atɔ.
 \xe Yesterday, I dried something.
@@ -8704,7 +8707,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe Dry that cloth.
 \bb Stewart List:2260
 \bb Stewart List:2259
-\dt 14/Jun/2016
+\dt 09/Jan/2017
 
 \lx fɩtɛ
 \ph fɪ́tɛ́ (H)
@@ -8712,7 +8715,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge ask
 \is 3.5.1.5
-\de ask
+\de to ask someone something
 \rf Tape:2-1-537
 \xv Fɩtɛ mʋ fɛɛ alanu asʋn amʋʋ laba amʋ?
 \xe Ask him (you say) if he has heard the matter that has come.
@@ -8723,7 +8726,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \nt Perhaps someone has told you about some matter that concerns you but you didn't understand it all so later you go to him for a further explanation.
 \bb Stewart List:3001
 \bb Stewart List:3223
-\dt 01/Nov/2016
+\dt 09/Jan/2017
 
 \lx flawasɩ
 \ph fláwasɪʔ
@@ -8755,11 +8758,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge castrate
 \is 2.6.5.1
 \is 6.3.8.2
-\de castrate
+\de to castrate someone or something
 \xv Ndekle ánɩ́ mɩ okpokpo omoni sʋ a, naflo mʋ.
 \xe I want my ram to be big so I have castrated him.
 \bb Stewart List:2852
-\dt 01/Dec/2016
+\dt 09/Jan/2017
 
 \lx flɔɩ
 \ph flɔ́ɪ́
@@ -8912,14 +8915,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge mix
 \is 7.5.3
-\de mix
+\de to mix something
 \bw Akan fi:fra L
 \xv Pʋ ɩsɩ amʋ fra siminti amʋtɔ afʋtsɩa mʋ́.
 \xe Take the sand and mix it in the cement so that you can prepare it.
 \xv Ɔlɔpʋ ntsu fra afa amʋ, asa olonun.
 \xe He mixed the medicine with water before he drank it.
 \bb Stewart List:2763
-\dt 14/Jun/2016
+\dt 09/Jan/2017
 
 \lx fu
 \ph fú
@@ -8927,12 +8930,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge boil
 \is 5.2.1.1
-\de boil
+\de to boil
 \rf Tape:2-1-560
 \xv Ntsu amʋ defu? O-o, ntsu amʋ medefu.
 \xe The water is boiling? No, the water is not boiling.
 \bb Stewart List:2253
-\dt 17/Jun/2014
+\dt 09/Jan/2017
 
 \lx fufu
 \ph fufu (H)
@@ -8998,10 +9001,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge winnow
 \is 6.2.6.1
-\de winnow
+\de to winnow grain
 \xv Funi ɩmɔ amʋ lɛ mʋ́tɔ ntɛtɛ.
 \xe Winnow the rice and remove the chaff.
-\dt 28/Apr/2016
+\dt 09/Jan/2017
 
 \lx funya
 \ph fúɲá
@@ -9087,7 +9090,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge breathe
 \is 2.2.1
-\de breathe
+\de to breathe
 \rf Tape:2-2-025
 \xv Omɔkʋ wu. Ɔdɛ ɔŋɛ fʋ.
 \xe He's not yet dead. He's still breathing.
@@ -9105,7 +9108,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-293
 \xv Abɛ amʋ lafʋ, sʋ abɔ́gyɔɩ mʋ́ ndɛ.
 \xe The palm nuts have loosened so we will remove them today.
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx fʋa
 \hm 1
@@ -9160,11 +9163,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge blow
 \is 1.1.2.1
 \is 4.2.3.2
-\de blow
+\de to blow a noisy instrument
 \xv Owie dɛ igyo gyi. Ɔdɛ ɔkpɛ fʋlɩ.
 \xe The chief is having yam festival. They are blowing a trumpet.
 \bb Stewart List:2847
-\dt 07/Sep/2016
+\dt 09/Jan/2017
 
 \lx fʋlɩtɩ
 \ph fʊlɪtɪ́
@@ -9187,11 +9190,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge offend
 \is 3.4.2.3
-\de offend
+\de to offend someone
 \rf Tape:2-2-050
 \xv Nɩ nafʋm fʋ a, kokoli si kie mɩ.
 \xe If I have offended you please forgive me.
-\dt 28/Nov/2016
+\dt 09/Jan/2017
 
 \lx fʋn
 \ph fʊ̃ʔ
@@ -10138,12 +10141,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge perch
 \is 1.6.4.1
-\de perch
+\de to perch on somethin
 \nt stative verb
 \rf Tape:2-2-275
 \xv Akoo amʋ gyon oyitɔ.
 \xe The parrot is perching in the tree.
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx gyongyo
 \ph ʤonʤoʔ
@@ -10257,7 +10260,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 
 \lx gyɔwɩ
 \ph ʤɔwɪ(H)
-\ps v
+\ps n
 \sn
 \ge condolences
 \is 3.4.2.2
@@ -10266,7 +10269,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \rf Tape:2-2-310
 \xv Bɛɛ, ɔlɛplan Igye, sʋ alɛha mʋ gyɔwɩ aba.
 \xe They say he was wounded yesterday so we are going to offer him condolences and come.
-\dt 18/Sep/2016
+\dt 09/Jan/2017
 
 \lx gyumagyihɛ
 \ph ʤumaʤihɛ
@@ -10285,11 +10288,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge cleanse
 \is 4.9.5.6
-\de cleanse
+\de to cleanse someone or something
 \bw Akan fi:gyʋra
 \xv Owie amʋ lɛdɩda igye sʋa, ahandɛ bɔyɔ mʋ ogyʋrakpa.
 \xe The chief fell down yesterday so the elders are going to cleanse him.
-\dt 28/Nov/2016
+\dt 09/Jan/2017
 
 \lx gywɩɩn
 \ph ʤwɪ̃ː
@@ -10308,7 +10311,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge give
 \is 7.4.1
-\de give
+\de to give someone something
 \ph hã́
 \rf Tape:2-2-316
 \xv Ha mɩ fʋ atɔ amʋ kʋ.
@@ -10326,7 +10329,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge cause
 \is 9.6.2.5
 \de to cause or make to happen
-\dt 01/Oct/2016
+\dt 09/Jan/2017
 
 \lx haɩ
 \ph háɪ
@@ -10334,11 +10337,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge lease
 \is 6.8.5
-\de lease
+\de to lease something
 \bw English fi:hire
 \xv Ohian kʋkʋlɛ anfɩsʋ ayin fɛ́ɛ́ bamlɩ ɔsʋlʋ ahaɩpʋ.
 \xe Because of poverty all men have become land leasers.
-\dt 22/Jul/2016
+\dt 09/Jan/2017
 
 \lx hala
 \ph hala
@@ -10362,7 +10365,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge disturb
 \is 3.4.2.3.1
-\de disturb
+\de to disturb someone
 \xv Ɔma ha mʋ́ ɩhan mʋ.
 \xe He shouldn't let it disturb him.
 \xe He shouldn't let it worry him.
@@ -10370,7 +10373,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Fʋ dɛpʋ fʋ woyitɔ asʋn han mɩ dʋbɩ.
 \xe You are disturbing me with your family problems too much.
 \bb Stewart List:3233
-\dt 16/Jul/2016
+\dt 09/Jan/2017
 
 \lx hankɔpʋ
 \ph haŋkɔpʊ́
@@ -10457,7 +10460,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge need
 \is 6.8.1.3
 \is 8.1.7.2
-\de need
+\de to need someibe or something
 \rf Tape:2-2-324
 \xv Ndɛ tɔkʋ hian.
 \xe I need something.
@@ -10468,7 +10471,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xe What you want but you don't have.
 \cf ohiani
 \cf atohianhɛ
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx hɩ
 \ph hɪ́
@@ -10569,7 +10572,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 1
 \ge establish
 \is 8.4.6.1
-\de establish
+\de to establish something
 \bw Akan fi:nhyehyɛ
 \nt plural form of hɩɛ-
 \rf Tape:2-2-343
@@ -10579,7 +10582,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn 2
 \ge dress well
 \de to dress well
-\dt 17/Dec/2016
+\dt 09/Jan/2017
 
 \lx hogyi
 \ph hoʤi
@@ -10587,12 +10590,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge believe
 \is 3.2.5.1
-\de believe
+\de to believe something
 \xv Hogyi ánɩ́ Bulu bʋ nʋ.
 \xe Believe that God is there.
 \xv Nohogyi ánɩ́ ɔbɛ́ba ndɛ.
 \xe I believe that he will be back today.
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx hontro
 \ph hontro(H)
@@ -10649,12 +10652,12 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge burn
 \is 5.5.4
-\de burn
+\de to burn something or something
 \rf Tape:2-2-352
 \xv Bapʋ igyo dɩnka ogya. Bʋmɛdɛ mʋ́ kɩ sʋ, Ɩlahɔ.
 \xe They have put yam on the fire and they aren't watching it. It has burned.
 \bb Stewart List:2255
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx hɔ X sʋ gyi
 \ph hɔ sʊ ʤi
@@ -10662,7 +10665,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge trust
 \is 3.2.5.1.1
-\de trust
+\de to trust someone
 \xv Nahɔ mʋ/mʋ́ sʋ gyi.
 \xe I trust him/it.
 \xv Mmɔhɔ mʋ/mʋ́ sʋ gyi.
@@ -10673,7 +10676,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \xv Nahɔ mʋ sʋ gyi, tsufɛ ɔlɛblɩ ɔbɛɛ, ɔbɛ́ba, lɛlɛ a, alaba.
 \xe I trust him because he said he would be back and truly he has come.
 \bb Stewart List:3160
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx hɔn
 \ph hɔ̃ʔ
@@ -10760,10 +10763,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge bless
 \is 4.9.4.3
-\de bless
+\de to bless someone
 \bw Akan fi:hyira
 \cf yula
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx ibebi
 \ph ibébiʔ
@@ -12549,8 +12552,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge console; comfort
 \is 4.4.4.2
-\de comfort
-\dt 21/Aug/2016
+\de to comfort someone
+\dt 09/Jan/2017
 
 \lx ɩklʋn nya
 \ph ɪklʊ̃ɲá
@@ -12670,22 +12673,25 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ph ɪkʊlɛʔ
 \ps ADJ
 \vas kʋlɛ
+\vasph kʊlɛʔ
 \va ɔkʋlɛ
+\vaph kʊlɛʔ
+\vad ɛkʋlɛ
+\vadph ɛkʊlɛʔ
+\ve Southern
 \sn
 \ge one
 \is 8.1.1.1.1
 \is 8.1.5.7
 \de each; one; only
 \nt etymology - ɩkʋ wʋlɩ "certain one"
-\vad ɛkʋlɛ
-\ve Southern
 \nt has agreement ɔkʋlɛ animate singular ɩkʋlɛ inanimate
 \rf Tape:3-1-015
 \xv Atɔ amʋ fɛɛ mbwɛ amʋ a, nabwɛ mʋ́ fɛ́ɛ́, tamɛ napan kʋlɛsʋ.
 \xe The things you said I should do, I made, I made all but I missed one.
 \cf tsukʋlɛ
 \bb Stewart List:1801
-\dt 01/Oct/2016
+\dt 08/Jan/2017
 
 \lx ɩkʋtʋ
 \ph ɪkʊtʊ
@@ -12751,7 +12757,7 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge Volta Lake
 \is 1.3.1.3
-\is 9.7.2
+\is 9.7.2.9
 \de Volta River; Volta River
 \xv Bɛlɛ nkuku Lɩntɔ.
 \xe Nkuku are caught in the lake.
@@ -12759,9 +12765,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ps Propn
 \ge riverside
 \is 1.3.1.3
-\is 9.7.2
+\is 9.7.2.9
 \de beside the Volta river
-\dt 12/Dec/2016
+\dt 09/Jan/2017
 
 \lx ɩlɩn
 \hm 2
@@ -13492,9 +13498,10 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge possessions
 \is 6.8.1.1
+\de one's possessions
 \xv Ɩtonya pɛ sʋ olotu ɔkpa.
 \xe The only reason he travelled was to get riches.
-\dt 30/Jun/2014
+\dt 09/Jan/2017
 
 \lx ɩtɔ
 \ph ɪtɔ́ʔ(H)
@@ -13532,14 +13539,14 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge quarrel
 \is 3.5.1.6.2
-\de quarrel
+\de to quarrel
 \nt nominal form
 \xv Atsibi amʋ bʋdɛ aba ahinla bwɛ sʋ a, ɩtrɛ lafa nʋ.
 \xe The young girls were teasing each other so quarrel has broken out there.
 \rf Tape:3-1-211
 \xv Ɩtrɛ bʋ otsibi amʋ ɔdwɛ sʋa, aha bʋtɛda mʋ ɛkɛkɛgyiɛkɛ.
 \xe The young girl is fond of quarrelling, so much that people beat her everyday.
-\dt 28/Nov/2016
+\dt 09/Jan/2017
 
 \lx ɩtsa
 \ph ɪt͡sâʔ
@@ -14052,14 +14059,14 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge reduce
 \is 8.1.4.3
-\de reduce
+\de to reduce something
 \rf Tape:3-1-351
 \xv Kala fʋ ɩdɔ sʋ mɛnɩ fʋ mɔ́ɔwa ɔsa wu.
 \xe Reduce your farm work so that you won't die young.
 \rf Tape:3-1-359
 \xv Fakala bʋ, Fakala sɩsɩ.
 \xe You have lost weight.
-\dt 01/May/2016
+\dt 09/Jan/2017
 
 \lx kala bwɛ
 \ph kálá bwɛ́ʔ
@@ -14079,14 +14086,14 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge weigh
 \is 8.2.8
-\de weigh
+\de to weigh something
 \bb Stewart List:2827
 \rf Tape:3-1-363
 \xv Kali igyo anyɔ amʋ afʋkɩ mʋ́ ánɩ́ mʋ́tɔ bʋ odwin afʋtsu mʋ́.
 \xe Weigh the two yams so that you see which one is heavy, and take it.
 \bb Stewart List:2827
 \cf susu
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx kan
 \hm 1
@@ -14095,7 +14102,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn 1
 \ge force
 \is 3.3.3.5
-\de force
+\de to force someone to do something
 \rf Tape:3-1-369
 \xv Kan kebi amʋ ɔyɔ sukuu ndɛ.
 \xe Force the child to go to school today.
@@ -14116,7 +14123,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \rf Tape:5-2-532
 \xv Yibi ɔkanpʋ amʋ lɔfʋlɩ ɔkpɛ ha aha bɛtsɛ.
 \xe The car driver is blowing his horn in order to make people move out of his way.
-\dt 14/Sep/2016
+\dt 09/Jan/2017
 
 \lx kan
 \hm 2
@@ -14181,12 +14188,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge praise
 \is 3.5.1.7
-\de praise
+\de to praise someone or something
 \rf Tape:3-1-412
 \xv Anɩtɔpʋ anɩ ɔdandʋ kanfʋ anɩ sɩ pʋ́ anɩ wie Bulu.
 \xe We use our tongue to praise our father and owner God.
 \bb Stewart List:3242
-\dt 18/Jul/2016
+\dt 09/Jan/2017
 
 \lx kankaba
 \ph kaŋkaba
@@ -15091,13 +15098,13 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge divide
 \is 7.4.4
 \is 7.8
-\de divide
+\de to divide something
 \bw Akan fi:ɩkyɛ
 \bb Stewart List:2785
 \rf Tape:3-2-020
 \xv Kɩɛ atɔ amʋtɔ ha nyebi amʋ fʋ onuto, mɛnɩ bʋmɔ́ɔkɔ.
 \xe Divide the things among the children yourself so that they don't fight.
-\dt 07/Jan/2017
+\dt 09/Jan/2017
 
 \lx kɩɛnɩ
 \ph kɪɛnɪ
@@ -15115,12 +15122,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge groan
 \is 2.3.2.3
 \is 2.5.6.1
-\de groan
+\de to groan
 \rf Tape:3-2-038
 \xv Igye onye fɛ́ɛ́ ɔlɔpʋ ɔkʋ lɛkɩmɩ sʋ mmɛtalɩ dɩdɩ.
 \xe All of last night a certain sick man was groaning so I couldn't sleep.
 \bb Stewart List:2092
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx kɩta
 \ph kɪ́tá
@@ -15612,7 +15619,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn 1
 \ge tie
 \is 7.5.4
-\de tie
+\de to tie something
 \bb Stewart List:2060
 \rf Tape:3-2-236
 \xv Nkɛ amʋtɔ a, mʋ ayin ɔfansʋ aha bégyankpa, bɛ́klɩ mʋ aba.
@@ -15627,7 +15634,8 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps vt
 \sn 3
 \ge restrict
-\de to restrict 
+\is 7.3.6.3
+\de to restrict someone or something
 \se klɩ ɔnɔ
 \ps v
 \ge fast
@@ -15638,7 +15646,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \is 4.9.4.1
 \is 4.9.7.7
 \de to use magic to bind someone spiritually
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx klɩhɛ
 \ph klɪhɛ
@@ -15805,11 +15813,11 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge beg
 \is 6.8.3.4
-\de please
+\de to beg for something
 \rf Tape:3-2-266
 \xv Atɔ lakpa wie mɩ ansibitɔ sʋ kokoli fwi mʋ́ lɛ ha mɩ.
 \xe Something has gotten into my eye so please blow it out for me.
-\dt 01/Oct/2016
+\dt 09/Jan/2017
 
 \lx kokooko
 \ph kokoːko
@@ -16041,7 +16049,7 @@ cf fonflo
 \sn
 \ge defecate
 \is 2.2.8
-\de defecate
+\de to defecate
 \lf Euph = yɔ oyisʋ
 \le go on top of the tree
 \lf Euph = yɔ ɔkpatɔ
@@ -16061,7 +16069,7 @@ cf fonflo
 \xv Nɩ ɩkɔ dɛ fʋ a, natɩ yɔ oyisʋ.
 \xe If you need to defecate, then go to the toilet.
 \bb Stewart List:2050
-\dt 19/Jul/2016
+\dt 09/Jan/2017
 
 \lx kɔ
 \hm 2
@@ -16088,8 +16096,9 @@ cf fonflo
 \sn
 \ge pay
 \is 6.8.4.5
+\de to pay something
 \cf ɩkɔ
-\dt 19/Aug/2016
+\dt 09/Jan/2017
 
 \lx kɔba
 \ph kɔ́baʔ (L)
@@ -16198,12 +16207,12 @@ cf fonflo
 \sn
 \ge hurry
 \is 8.4.8.1
-\de hurry
+\de to hurry
 \sy wa ɔsa
 \xv Kɔsɩ ba oo.
 \xe Hurry back.
 \bb Stewart List:2088
-\dt 19/Jul/2016
+\dt 09/Jan/2017
 
 \lx kɔtɔkɔ
 \ph kɔ́tɔ́kɔ́
@@ -16637,11 +16646,11 @@ cf fonflo
 \sn
 \ge cross
 \is 7.2.3.5
-\de cross
+\de to cross one thing across another
 \rf Tape:3-2-438
 \xv Oyin amʋ letsia asɩ kpali mʋ ayabi.
 \xe The man sat down and crossed his legs.
-\dt 11/Sep/2016
+\dt 09/Jan/2017
 
 \lx kpali
 \hm 1
@@ -17141,7 +17150,7 @@ cf fonflo
 \ge burp
 \is 2.1.8.2
 \is 2.2.2
-\de burp
+\de to burp
 \rf Tape:3-2-533
 \xv Brɛ ánɩ́ olegyi atɔ mwɛ a, olekpie.
 \xe The time that he ate and was satisfied, he burped.
@@ -17151,7 +17160,7 @@ cf fonflo
 \cf nyankpʋkpie
 \bb Stewart List:2053
 \bb SIL-AWL:0113
-\dt 10/Sep/2016
+\dt 09/Jan/2017
 
 \lx kpie
 \hm 2
@@ -17320,13 +17329,13 @@ cf fonflo
 \is 2.1.1.4
 \is 5.2.2.7
 \is 7.3.2.7
-\de suck
+\de to suck on something
 \rf Tape:3-2-551
 \xv Ɔlɛkpɩkpɩ mango amʋ.
 \xe He sucked on a mango.
 \bb Stewart List:2034
 \cf kpɩ1 2
-\dt 16/Jul/2016
+\dt 09/Jan/2017
 
 \lx kpɩkpɩ
 \hm 2
@@ -17336,9 +17345,9 @@ cf fonflo
 \ge shrink
 \is 8.2.1
 \is 8.2.7.1
-\de shrink
+\de to shrink
 \cf kpɩ3
-\dt 15/Jun/2016
+\dt 09/Jan/2017
 
 \lx kpɩnkɩ
 \ph k͡pɪ̃́ŋkɪ́
@@ -17426,13 +17435,13 @@ cf fonflo
 \ge vomit
 \is 2.1.1.4
 \is 2.5.2.3
-\de vomit
+\de to vomit
 \xv Falu mɩ tamɛ fʋmɛ́ɛtalɩ kplaɩ mɩ.
 \xe You have hated / retched on (see sense 2) me but you will not be able to vomit me.
 \xe Free: You hate but you can't get rid of me.
 \rf Tape:4-1-546
 \bb Stewart List:2047
-\dt 12/Sep/2016
+\dt 09/Jan/2017
 
 \lx kplakitsi
 \ph k͡plakit͡si
@@ -17694,12 +17703,12 @@ cf fonflo
 \is 2.2.1
 \is 2.3.2.3
 \is 5.7.1
-\de snore
+\de to snore
 \rf Tape:4-1-083
 \xv Aladɩdɩ ɔdɛ kpɔlɩ "Hɔn, hɔn hɔn".
 \xe He has fallen asleep and is snoring "Zzzz. . . zzzz."
 \bb Stewart List:2048
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx kpɔn
 \ph k͡pɔ̃
@@ -18151,7 +18160,7 @@ cf fonflo
 \sn
 \ge fold
 \is 8.3.1.5.3
-\de fold
+\de to fold something
 \rf Tape:4-1-202
 \xv Kunta tswɛ.
 \xe Make a fist.
@@ -18169,7 +18178,7 @@ cf fonflo
 \xe Please fold your legs in and allow me to pass you.
 \bb Stewart List:2839
 \bb Stewart List:2843
-\dt 29/Aug/2016
+\dt 09/Jan/2017
 
 \lx kuntu
 \ph kuntú
@@ -18434,13 +18443,13 @@ cf fonflo
 \is 5.5.6
 \is 6.2.5.3
 \is 7.5.1
-\de pick
+\de to collect something
 \rf Tape:4-1-277
 \xv Bɔkʋla ngyatin.
 \xe They gathered firewood.
 \nt see tɔsɩ, kpa
 \ng kʋla
-\dt 15/Jun/2016
+\dt 09/Jan/2017
 
 \lx kʋlɩ
 \ph kʊ́lɪ́
@@ -18798,7 +18807,7 @@ cf fonflo
 \sn
 \ge grind
 \is 5.2.1.2.2
-\de grind
+\de to grind something
 \cf kpi
 \rf Tape:4-1-382
 \xv Nɔyɔ kwɛ mɩ kpoli.
@@ -18807,7 +18816,7 @@ cf fonflo
 \xv Nakwɛ tɔnsɩ amʋ.
 \xe I have ground the pepper.
 \bb Stewart List:2809
-\dt 03/Jan/2017
+\dt 09/Jan/2017
 
 \lx kwi
 \ph kwíʔ(H)
@@ -18815,7 +18824,7 @@ cf fonflo
 \sn 1
 \ge dig
 \is 7.8.6
-\de dig
+\de to dig a hole
 \rf Tape:4-1-390
 \xv Kwi ɔbɔ.
 \xe Dig the hole.
@@ -18828,7 +18837,7 @@ cf fonflo
 \de to harvest something underground
 \xv Kwi agbodi ha mɩ.
 \xe Harvest cassava for me.
-\dt 03/Jan/2017
+\dt 09/Jan/2017
 
 \lx kwɩɩ
 \ph kwɪ̌ː
@@ -19089,8 +19098,9 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge flat
 \is 8.3.1.4
+\de to lie flat
 \cf tswɩ lala
-\dt 19/Aug/2016
+\dt 09/Jan/2017
 
 \lx lalahɛ
 \ph lalahɛ
@@ -19156,14 +19166,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge scarce
 \is 8.1.7.2
-\de scarce
+\de to bescarce
 \rf Tape:4-1-466
 \xv Ntsu lalan sʋ abotua yɔ ntsutso ɔkɛ.
 \xe Water is scarce so we will get up early and go to the water source tomorrow.
 \bb Stewart List:1706
 \bb Stewart List:2513
 \an lɩn1 3
-\dt 18/Jul/2016
+\dt 09/Jan/2017
 
 \lx landubi
 \ph landúbi
@@ -19228,11 +19238,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge embrace
 \is 4.1.8
-\de embrace
+\de to embrace someone
 \nt see also puta
 \xv Igye ɔlɛlata kebi amʋ puta.
 \xe He embraced the child yesterday.
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx lekelekeleke
 \ph lekelekeleke
@@ -19403,10 +19413,10 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge criticize
 \is 3.5.1.8
-\de criticize
+\de to criticize
 \xv Mʋ́ sʋ mlɩmanya ɔblɔ abasʋ, lɛ aba la.
 \xe So don't get angry and criticize your neighbour.
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx lɛ mʋ́tɔ
 \ph lɛ mʊ́tɔ
@@ -19536,7 +19546,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn 1
 \ge stand
 \is 7.1.1
-\de stand
+\de to stand
 \xv Tsufɛ mʋ agywɩɩn igyi anyɔ, ɔmɛ lɩɩ tsukʋlɛ.
 \xe Because his mind is two (uncertain) he will not stand in one place.
 \ps v
@@ -19556,7 +19566,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de to wait
 \xv Lɩɩ kpalobi.
 \xe Wait a little while.
-\dt 01/Jun/2016
+\dt 09/Jan/2017
 
 \lx lɩlɩ
 \ph lɪlɪ
@@ -19790,14 +19800,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge cool
 \is 8.3.4.1
-\de cool
+\de to be cool
 \rf Tape:4-1-561
 \xv Oyin amʋ ɔlɛba nfɩ amʋ lolwii.
 \xe The man that came here is a cool man.
 \xv Tsu kebi amʋ pia, tsufɛsɛ nsaɩntɔ lalwii.
 \xe Pick up the child in your arms because the weather is cool.
 \bb Stewart List:2277
-\dt 24/Dec/2013
+\dt 09/Jan/2017
 
 \lx lwɩɩ
 \ph lwɪ̌ː
@@ -19979,14 +19989,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \is 2.1.1.4
 \is 2.4.4
 \is 5.7.1
-\de yawn
+\de to yawn
 \xv Dɩdɩ dɛ mʋ. Alamama.
 \xe He is sleepy. He has yawned.
 \rf Tape:4-1-586
 \xv Bʋtamamama ahatɔ.
 \xe They don't yawn in public.
 \bb Stewart List:2051
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx mama
 \hm 3
@@ -20307,7 +20317,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 
 \lx mbusuo
 \ph mbusuo
-\ps v
+\ps n
 \sn
 \ge blasphemy
 \is 4.9.9
@@ -20319,7 +20329,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe It is blasphemy for someone to die in the chief's house.
 \xv Ɔtsɩ amʋ lɔbwɛ mbusuo brɛa ɔlɛda owie amʋ oswe.
 \xe The woman blasphemed when she slapped the chief.
-\dt 18/Dec/2016
+\dt 09/Jan/2017
 
 \lx mbusuo lɛ
 \ph mbusuo lɛ(H)
@@ -20375,7 +20385,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn 1
 \ge swallow
 \is 5.2.2
-\de swallow
+\de to swallow something
 \cf ɔmɛ1
 \xv Ɔdɛlɔ mʋ́sʋ mʋ sɩ lɛha mʋ afa; ɔlɛmɛ.
 \xe He was sick so his father gave him medicine and he took it.
@@ -20392,7 +20402,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \is 7.2.4.2.3
 \de to sink out of sight
 \cf mɩm
-\dt 06/Dec/2016
+\dt 09/Jan/2017
 
 \lx mɛ
 \hm 2
@@ -20429,7 +20439,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge not
 \is 9.4.6.1
-\de negative
+\de negative; not
 \nt also me, mɔ, mo
 \rf Tape:4-2-174
 \xv Ntɔ kebi amʋ dɛ bwɛ woyitɔ. Ɔmɛ dɛ tɔtɔɔtɔ bwɛ.
@@ -20437,7 +20447,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-180
 \xv Mɩ kufa amʋ mɛdɛdan.
 \xe My sheep is not growing.
-\dt 15/Oct/2016
+\dt 09/Jan/2017
 
 \lx mɛɛ
 \ph mɛː
@@ -20539,13 +20549,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge roll
 \is 7.3.5
 \is 8.3.1.5.1
-\de roll
+\de to roll something
 \xv Oyemina ibwi kpɔnkpɔntɩ kʋ dɩnka mʋ́ ɔnɔ ɔkpa nsɩnɛ nʋ.
 \xe He rolled a big stone one on its mouth in the middle of the road there.
 \rf Tape:4-2-239
 \xv Mina barɩ amʋ ha mɩ.
 \xe Rolled the barrel for me.
-\dt 01/Jun/2016
+\dt 09/Jan/2017
 
 \lx mɩ
 \ph mɪ́
@@ -20633,7 +20643,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn 1
 \ge deceive
 \is 4.3.5.5
-\de deceive
+\de to deceive someone
 \rf Tape:4-2-267
 \xv Ɔlɛblɩ ánɩ́ ɔbɛ́ba sa ɔdɛ mɩ mlɛ sʋ ɔmɛba.
 \xe He said that he would come, unexpectedly he was deceiving me so he didn't come.
@@ -20651,7 +20661,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \de to coax
 \xv mlɛ tswɩ
 \xe put someone to sleep
-\dt 17/Sep/2016
+\dt 09/Jan/2017
 
 \lx mlɛɛn
 \ph mlɛ̃ː
@@ -20829,14 +20839,14 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge kill
 \is 2.6.6.1
-\de kill
+\de to kill
 \rf Tape:4-2-335
 \xv Yibi lamɔ batɛ amʋ.
 \xe A car has killed the chicken.
 \xv Ɔlɔmɔ kufa amʋ.
 \xe He killed the sheep.
 \bb Stewart List:2006
-\dt 18/Jul/2016
+\dt 09/Jan/2017
 
 \lx mɔ ɔnɔ
 \ph mɔ ɔnɔ́ʔ (H)
@@ -20908,7 +20918,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge laugh
 \is 3.5.6.4
-\de laugh
+\de to laugh
 \rf Tape:4-2-388
 \xv Oyin amʋ lɔbwɛ mɔsɩla, sʋ anɩlɔmɔsɩ mʋ.
 \xe The man did funny things so we laughed at him.
@@ -20921,7 +20931,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \is 3.5.6.4
 \is 4.2.7
 \de amusement
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx mpa
 \ph mpá (H)
@@ -21174,13 +21184,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ge hem
 \is 6.6.1
 \is 8.6.6
-\de hem
+\de to hem a cloth or garment
 \rf Tape:4-2-439
 \xv Bamumlu mɩ tati amʋ ɔnɔ ha ma. Ɩmɛtra lɛ ɔfɛ.
-\xe They have hemmed my cloth for me. It won't fray again (bring out rope).
+\xe They have hemmed my cloth for me. It won't fray again (Lit: bring out rope).
 \bb Stewart List:2859
 \cf ɔdanʋ
-\dt 07/Dec/2016
+\dt 09/Jan/2017
 
 \lx munsa
 \ph múnsá
@@ -21215,7 +21225,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge it
 \is 9.2.3
-\de it
+\de it; 3rd person inanimate
 \nt mʋ́sʋ -> therefore
 \rf Tape:3-1-062
 \xv Mʋ́ mbɛɛ futsu ba mɩ nɩ.
@@ -21224,7 +21234,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \rf Tape:4-2-446
 \xv Mʋ́ nɩ.
 \xe This is it.
-\dt 17/May/2016
+\dt 09/Jan/2017
 
 \lx mʋ́
 \hm 3
@@ -21374,7 +21384,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn 1
 \ge walk
 \is 7.2.1.1
-\de walk
+\de to walk
 \rf Tape:4-2-507
 \xv Atapʋ amʋ bʋ na amʋ́ ɔkpa sʋ.
 \xe The hunters are walking on this path. (Perhaps you see their light on the mountain at night).
@@ -21401,7 +21411,7 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \xe Cow boils have different symptoms than boils.
 \xv Ntsu amʋ ɩna ɩbʋ amʋ abɩntɔ.
 \xe The stream passes beside the hill.
-\dt 19/Jul/2016
+\dt 09/Jan/2017
 
 \lx naasɩ
 \ph náːsɪ́
@@ -22340,17 +22350,17 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \ps PropN
 \sn 1
 \ge Nkonya
-\is 9.7.1.4
+\is 9.7.2.2
 \de Nkonya land
 \ps PropN
 \sn 2
 \ge Nkonya language
-\is 9.7.2
+\is 9.7.1.5
 \de Nkonya language
 \rf Tape:5-1-276
 \xv Nkonyafɔ bʋtɛblɩ Nkonya ɔblɩ.
 \xe The Nkonyas speak the Nkonya language.
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx nkɔmbɔ
 \hm 1
@@ -22599,12 +22609,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge bend
 \is 8.3.1.5
-\de bend
+\de to bend or be bent
 \rf Tape:5-1-291
 \xv Ɔkpa amʋ motswii, ɩlɔnɔ.
 \xe The road isn't straight, it has a bend.
 \bb Stewart List:2305
-\dt 15/Jul/2016
+\dt 09/Jan/2017
 
 \lx -nsa
 \ph nsa
@@ -23305,7 +23315,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn 1
 \ge hear
 \is 2.3.2
-\de hear
+\de to hear someone or something
 \xv Kebi amʋ asʋ latin sʋ ɔtamanu asʋn.
 \xe The boy is deaf and therefore, he doesn't hear.
 \bb Stewart List:3305
@@ -23319,7 +23329,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe If a mouse should die, you will smell its stink.
 \xv nu ɔfan
 \xe to smell a pleasant odour
-\dt 03/Nov/2015
+\dt 09/Jan/2017
 
 \lx nu asʋn asɩ
 \ph nú asʊ̃́ asɪ
@@ -23327,11 +23337,11 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge understand
 \is 3.2.4
-\de understand
+\de to understand
 \cf nu
 \cf asʋn
 \cf asɩ1
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx numnyam
 \ph numɲam (H)
@@ -23537,12 +23547,12 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \sn
 \ge scrape
 \is 7.7.6
-\de scrape
+\de to scrape something
 \cf kpi
 \xv Alanwɔsɩ afa dada amʋ, ɔbɛ́kpa pɔpwɛ.
 \xe He has scraped off the old medicine. He will put on new.
 \bb Stewart List:2760
-\dt 01/Jun/2016
+\dt 09/Jan/2017
 
 \lx nwumbi
 \ph ŋʷumbi
@@ -24212,12 +24222,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge light
 \is 8.3.3
-\de light
+\de to light something
 \rf Tape:5-2-002
 \xv Alanywɛn ɔkandɩɛ yaɩ obuto.
 \xe He has lit the lantern and put it in the room.
 \bb Stewart List:2314
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx ŋa
 \ph ŋaʔ
@@ -24241,7 +24251,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge hide
 \is 7.6
-\de hide
+\de to hide
 \rf Tape:5-2-018
 \xv Kebi amʋ laŋain, tsufɛ bʋdɛ mʋ dunka.
 \xe The child has hidden because they are looking for him.
@@ -24250,7 +24260,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The matter he hid has come to light.
 \bb Stewart List:3326
 \bb Stewart List:3327
-\dt 01/Nov/2016
+\dt 09/Jan/2017
 
 \lx ŋɛsɩ
 \hm 1
@@ -24300,7 +24310,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge melt
 \is 1.2.3
 \is 8.3.4
-\de melt
+\de to melt
 \rf Tape:5-2-045
 \xv Bɔpʋ nfɔ dɩnka ogya a, ɩtɛŋlaɩn.
 \xe If they put grease on the fire, it melts.
@@ -24308,7 +24318,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Ogya ɩtɔ rɔba a, ɩtɛŋlaɩn.
 \xe If fire heats plastic it melts.
 \bb Stewart List:2257
-\dt 15/Jun/2016
+\dt 09/Jan/2017
 
 \lx ŋlanwun
 \ph ŋlanwũʔ
@@ -24478,11 +24488,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \pl mbien
 \plph mbĩ́ẽ́
 \vad ebien
+\ve Southern
 \sn
 \ge snail
 \is 1.6.1.9
 \de a large snail that is good for eating
-\ve Southern
 \sc Archachatina marginata
 \xv Obien mʋa ɔblatɩn bʋgyi apio.
 \xe Big snail and small snail are brothers.
@@ -24492,7 +24502,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Obien tamanatɩ si mʋ hontro.
 \xe A snail does not travel without its shell.
 \bb Stewart List:0768
-\dt 03/Oct/2016
+\dt 08/Jan/2017
 
 \lx obitebi
 \ph obitebíʔ
@@ -24831,13 +24841,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 
 \lx obuo
 \ph obúo
-\ps v
+\ps n
 \sn
 \ge respect
 \is 4.5.5
 \de respect
-\nt check if this is a variant of obu
-\dt 16/Jul/2016
+\nq Is this a variant of obu
+\dt 09/Jan/2017
 
 \lx obutɔ
 \ph obutɔ́
@@ -25681,7 +25691,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:6-2-554
 \xv Nenya wun mʋ pɛ, nɔsʋra okitikiti, tsufɛ nowun mʋ lawa ɔpá.
 \xe As soon as I saw him I shouted because I had not seen him for a long time.
-\dt 15/Sep/2016
+\dt 09/Jan/2017
 
 \lx okle
 \ph ókleʔ
@@ -25788,6 +25798,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge anus
 \is 2.1.8
 \is 2.2.8
+\de anus or rectum
 \xv Agyagya bʋma okokoni.
 \xe Bats don't have anuses.
 \rf Tape:6-2-576
@@ -25795,7 +25806,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The child's anus has a sore, so give him an enema.
 \bb SIL-AWL:0045
 \bb Stewart List:0063
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx okonkisʋ
 \ph okoŋkísʊ́
@@ -25950,12 +25961,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge Christian
 \is 4.9.7.2
-\de Christian
+\de a Christian
 \xv Ɩlehian ánɩ́ Okristoyin obétsia nkpa fɛ alɩ amʋʋ Kristo letsia amʋ.
 \xe It is necessary that a Christian should live as Christ lived.
 \xv Ha fʋ tsiatɔ ɩlɩan Kristo, mɛnɩ aha bʋmɛtɩ fʋ Okristoyin lalalahɛ.
 \xe Let your life be like Christ, so that people will not call you a bad Christian.
-\dt 01/Nov/2016
+\dt 09/Jan/2017
 
 \lx oku
 \ph okú
@@ -27802,8 +27813,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge bark
 \is 1.5.5
+\de bark of a tree
 \cf agya fwɩ
-\dt 23/Jun/2014
+\dt 09/Jan/2017
 
 \lx oyi yiahɛ
 \ph oyiːyahɛ
@@ -27843,14 +27855,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cross
 \is 4.9.7.2
-\de cross
+\de a cross
 \xv Bɛda Yesu manta oyikpalihɛsʋ, olowu pʋ hɔ aha fɛ́ɛ́ nkpa.
 \xe Jesus was nailed on to the cross, He died and saved all people.
 \cf asendua
 \cf oyi
 \cf kpali1
 \cf -hɛ
-\dt 18/Oct/2016
+\dt 10/Jan/2017
 
 \lx oyikplu
 \ph oyik͡plu(H)
@@ -28054,7 +28066,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps NOMR
 \sn
 \ge AGENT
-\is 9.1.2
+\is 9.2.9.3
 \de agent marker; means "one who does"
 \xv ɔdɔtɔpʋ
 \xe farmer
@@ -28094,7 +28106,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe seamstress
 \xv Nta abʋpʋ a, nɩ bʋ na bʋ dɛ ntinta bɔ.
 \xe Drinkers, if they are drunk, they stumble.
-\dt 30/Aug/2016
+\dt 09/Jan/2017
 
 \lx ɔ- -tɔ
 \ph ɔ- -tɔ
@@ -28103,6 +28115,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \plph a- -tɔ
 \sn
 \ge instrument
+\is 9.2.9.3
 \is 9.5.1.2
 \de an instrument used in doing something; ɔ-X-tɔ something that is used in doing X.
 \rf Tape:5-2-103
@@ -28153,7 +28166,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:5-2-129
 \xv apulatɔ
 \xe items buried with a corpse; ɔklan (mat); atati (cloths); daka (coffin); sika (money)
-\dt 30/Aug/2016
+\dt 09/Jan/2017
 
 \lx ɔba
 \ph ɔba(H)
@@ -28249,13 +28262,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge needle
 \is 6.6.1
+\is 9.2.9.3
 \de needle
 \rf Tape:5-2-156
 \xv Bʋtɔpʋ ɔbɩatɔ bɩn atɔ.
 \xe They use needle to sew things.
 \bb Stewart List:1271
 \nq check tone & glottal on opi
-\dt 07/Jan/2017
+\dt 09/Jan/2017
 
 \lx ɔbɩlɔ
 \ph ɔbɪlɔʔ(L)
@@ -28712,17 +28726,17 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps n
 \pl ndakpokpo
 \plph ndak͡pok͡po
+\vad klɛkpakpa
+\ve Northern
 \sn
 \ge woodpecker
 \is 1.6.1.2
 \de woodpecker
-\vad klɛkpakpa
-\ve Northern
 \rf Tape:3-2-216
 \xv Ɔdakpokpo gyon oyisʋ.
 \xe The woodpecker is perched on the tree.
 \bb Stewart List:0722
-\dt 18/Oct/2016
+\dt 08/Jan/2017
 
 \lx ɔdandʋ
 \ph ɔdandʊ
@@ -29250,11 +29264,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge telephone
 \is 3.5.9.2
-\de telephone
-\nt Made mostly obsolete with mobile phones.
+\de to telephone via landline
+\nt Made obsolete with mobile phones.
 \cf ɔfɛ
 \cf mobaɩl
-\dt 19/May/2016
+\dt 09/Jan/2017
 
 \lx ɔfɩtɛkpa
 \ph ɔfɪtɛ́k͡pá
@@ -30007,11 +30021,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge servant
 \is 4.5.4.4
+\de servant or slave
 \rf Tape:5-2-522
 \xv Lehian ánɩ́ ɔkpabi obobu mʋ wie.
 \xe It is necessary that a servant respect his master.
 \bb Stewart List:0502
-\dt 03/Oct/2016
+\dt 09/Jan/2017
 
 \lx ɔkpagyiɔkpa
 \ph ɔk͡paʤiɔk͡pa
@@ -30715,10 +30730,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge follow
 \is 7.2.5.2
-\de follow
+\de to follow someone
 \cf ɔma
 \cf gya
-\dt 07/Jan/2017
+\dt 09/Jan/2017
 
 \lx ɔman
 \ph ɔmã
@@ -33385,10 +33400,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge ferment
 \is 5.2.3.7
-\de fermented
+\de to ferment
 \xv Nta fututu amʋ lapaɩ dʋbɩ, sʋ fɔ́bʋ.
 \xe The palm wine has fermented a lot, you'll get drunk.
-\dt 23/Jun/2014
+\dt 09/Jan/2017
 
 \lx pali
 \ph páliʔ
@@ -33688,12 +33703,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge thicken
 \is 1.2.3.1
 \is 5.2.1.1
-\de thicken
+\de to thicken
 \xv Koko amʋ lapi dʋbɩ, sʋ wa ntsu kpalobi mʋ́tɔ.
 \xe The porridge has thickened too much so put a little water in it.
 \xv Oputsu pihɛ bʋ ampesie agyilɛ.
 \xe Thick soup is good for eating slice.
-\dt 19/Jul/2016
+\dt 09/Jan/2017
 
 \lx pia
 \ph píá
@@ -33720,13 +33735,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge tire
 \is 2.4.4
-\de tire
+\de to tire someone
 \xv Nɔyɔ agyʋma ndɔtɔ. Ɩlapian mɩ.
 \xe I went to work on the farm. It has made me tired.
 \bb Stewart List:2068
 \xv Bʋa fʋ aba mɛnɩ ɔkɛ méepian fʋ.
 \xe Help your neighbour so that tomorrow will not tire you.
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx pilan
 \ph pilã́ʔ
@@ -33764,7 +33779,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge pretend
 \is 3.5.1.3.5
 \is 4.3.5.5
-\de pretend
+\de to pretend
 \xv Nepina bwɛ fɛ mmɔkʋ wun mʋ, tsufɛ mmɛdekle ánɩ́ ɔbɩa nowun mʋ ɩnʋ.
 \xe I will pretend that I have not seen him because I don't want him to know that I saw him there.
 \xv Nepina yɔ yɛkɩ bɛɛ ɔdɛ ɩnʋ dɔ.
@@ -33772,7 +33787,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Neŋain yɛkɩ bɛɛ ɔdɛ ɩnʋ dɔ.
 \xe I will go secretly and see whether he is farming there.
 \cf apinabwɛbi
-\dt 18/Dec/2016
+\dt 09/Jan/2017
 
 \lx pinabwɛ
 \ph pinabwɛ
@@ -33781,10 +33796,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge pretend
 \is 3.5.1.3.5
 \is 4.3.5.5
-\de pretend
+\de to pretend; or be a hypocrite
 \xv Komla tepinabwɛ fɛ mʋgyi ɔhandɛ agyuma amʋtɔ nɩ.
 \xe Komla pretends to be the senior in the work place.
-\dt 18/Dec/2016
+\dt 09/Jan/2017
 
 \lx pio
 \ph pio
@@ -33955,7 +33970,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The mortar that has a hat, is easy to pound with. It makes fufu become smooth faster than a bald mortar.
 \xv Tsu sanu afʋkpʋkpʋ nfuo amʋtɔ asa fʋwuli mʋ́, tsufɛsɛ bʋmɔkwɛ mʋ́ pɩn.
 \xe Bring a sieve so that you cam sieve the flour before you stir it into porridge because they didn't grind it smooth.
-\dt 29/Nov/2016
+\dt 10/Jan/2017
 
 \lx pɩna
 \ph pɪná
@@ -33984,6 +33999,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 2
 \ge cut apart
 \is 7.8.3
+\de to cut something apart
 \xv Kokoli pɩtɩ blɔdɩ amʋ ha mɩ.
 \xe Please cut up the bunch of plantain for me.
 \bb Stewart List:2056
@@ -33993,8 +34009,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 4.7.7
 \is 7.7.1
 \de to whip someone
-\ge whip
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx pla
 \hm 1
@@ -34168,11 +34183,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge smooth
 \is 8.3.2
 \is 8.3.2.1
-\de smooth
+\de to be smooth
 \xv Oyi amʋ ɩwɩ laplɩ.
 \xe This wood is become smooth.
 \cf plɩplɩplɩ
-\dt 18/Dec/2016
+\dt 09/Jan/2017
 
 \lx plɩplɩplɩ
 \ph plɪ́plɪ́plɪ́
@@ -34387,8 +34402,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge soothe
 \is 2.6.4.1.1
 \is 3.4.1.2.2
-\de soothe
-\dt 21/Jul/2016
+\de to soothe someone
+\dt 09/Jan/2017
 
 \lx pɔpwɛ
 \ph pɔ́pwɛʔ(L)
@@ -34566,13 +34581,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge swell
 \is 2.5.6.3
-\de swell
+\de to swell
 \xv Owu lawɔ mʋ yabi, sʋ ɩlapunya.
 \xe He has a thorn in his foot/leg, so it has swollen up.
 \xv Awʋnsa basʋra mɩ ɩbɩ sʋ lapunya.
 \xe Bees have stung my arm so it has swollen up.
 \bb Stewart List:2263
-\dt 12/Sep/2016
+\dt 09/Jan/2017
 
 \lx pupu
 \ph pupu
@@ -34719,14 +34734,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge mix
 \is 7.5.3
-\de mix
+\de to mix something
 \nt Always used together with pʋ -> pʋ fra.
 \bw Akan fi:fra
 \xv Pʋ ɩsɩ amʋ fra siminti amʋtɔ afʋtsɩa mʋ́.
 \xe Take the sand and mix it in the cement so that you can mix it.
 \xv Pʋ nta pɔpwɛ amʋ mʋ́a dada amʋ fra mɛnɩ ɩbɔwa anunlɛ.
 \xe Take the new wine and the old one to mix so that it will be drinkable.
-\dt 15/Jun/2016
+\dt 09/Jan/2017
 
 \lx pʋ fuli
 \ph pʊ́ fúlí
@@ -34755,11 +34770,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge crackle
 \is 2.3.2.2
-\de crackle
+\de to crackle
 \xv Ndɛ kpoli tɔ, ɩdɛ pʋpʋtɩ, sʋ nɛyɛkɩ mʋ́ amba.
 \xe I am roasting maize, it is popping, so I am going to check it.
 \ng Reduplicated form of pʋtɩ "to pop".
-\dt 03/Jan/2017
+\dt 09/Jan/2017
 
 \lx pʋpʋtɩ
 \hm 2
@@ -34768,10 +34783,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge itch
 \is 2.5.6.1
-\de itch
+\de to itch
 \xv Mɩ ɩwɩ dɛ mɩ pʋpʋtɩ.
 \xe My skin is making me itch (no visible bumps).
-\dt 15/Dec/2016
+\dt 09/Jan/2017
 
 \lx pʋsa
 \ph pʊ́sa
@@ -35041,14 +35056,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge return
 \is 7.2.3.6
-\de return
+\de to return
 \nt good minimal pair with sankɩ
 \xv Bla ɔha amʋ fɛɛ ɔkpa mɛda ɩnʋ sʋ ɔsanki ba.
 \xe Tell the person that there is no road there so come back.
 \xv Fɔyɔ fasanki ba.
 \xe When you go come back.
 \bb Stewart List:2467
-\dt 18/Jul/2016
+\dt 09/Jan/2017
 
 \lx sankɩ
 \ph sáŋkɪ́
@@ -35058,7 +35073,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 7.2.6.4
 \is 7.5.4
 \is 8.2.7.2
-\de untie
+\de to untie something
 \xv Sankɩ ɔfɛ lɛ kufa amʋ ɔmɛtɔ.
 \xe Untie the rope from the sheep's neck and let the sheep go.
 \xv Sankɩ ɔfɛ amʋ lɛ batɛ amʋ ayabi tsufɛ ɔda ɔfɛtɔ lawa ɔpá.
@@ -35074,7 +35089,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He unrolled the mat.
 \bb Stewart List:2840
 \bb Stewart List:2844
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx sanu
 \ph sanú
@@ -35189,7 +35204,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge now
 \is 8.4.6.3.1
-\de now
+\de now; immediately
 \va sei
 \ve Southern
 \ph séi
@@ -35200,7 +35215,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt Southern dialect uses sei for now, sesei for immediately. Northern uses sesei for now, sesesei for immediately
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx sɛ
 \hm 1
@@ -35262,10 +35277,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge ringworm
 \is 2.5.2.2
-\de ringworm
+\de ringworm infection
 \xv Sɛsɛ labwɛ kebi amʋ nwuntɔ.
 \xe The child has ringworm on his head.
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx si
 \hm 1
@@ -35334,7 +35349,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge forgive
 \is 4.8.4.7
-\de forgive
+\de to forgive someone
 \xv Si asʋn kie fʋaba, mɛnɩ Bulu obési fʋklɛ kie fʋ.
 \xe Forgive your neighbour's case so that God will forgive yours.
 \xv Si mʋ́ kie mʋ.
@@ -35343,7 +35358,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe If I have offended you please forgive me.
 \cf si1
 \cf kie
-\dt 30/Sep/2016
+\dt 09/Jan/2017
 
 \lx Sia
 \hm 2
@@ -35414,12 +35429,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ps v
 \ge leftover
 \is 8.1.7.4
-\de remains
+\de to remain as a leftover
 \xv Oyin amʋ lagyi atɔ amʋ sian.
 \xe The man has eaten the leftovers.
 \xv Tsu atɔ sianhɛ amʋ afʋwa mʋ́ ogya.
 \xe Take the leftovers and burn them.
-\dt 29/Nov/2016
+\dt 09/Jan/2017
 
 \lx Sibriso
 \ph sibrísʊ
@@ -35450,12 +35465,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge slice
 \is 7.8.3
-\de slice
+\de to slice something
 \xv Alasie ndawun wa oputsu amʋtɔ.
 \xe She has sliced okra into the soup.
 \bb Stewart List:2886
 \cf kaka
-\dt 31/May/2016
+\dt 09/Jan/2017
 
 \lx sienɔ
 \ph sienɔ́
@@ -35674,12 +35689,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cheat
 \is 6.8.9.2
-\de cheat
+\de to cheat someone
 \xv Saa, aha amʋ mlɩlɔbɔ amʋ́ ɩpa bɔyɔ agyuma mlɩ ndɔtɔ amʋ a, mlɩlesisi amʋ́, mlɩmɛka amʋ́ ɩkɔ.
 \xe Opposite to what you said, you have hired people to work on your farm but you have cheated them and not paid.
 \xv Fʋ aba sisi ma alɛ.
 \xe Cheating your neighbours is not good.
-\dt 20/May/2016
+\dt 09/Jan/2017
 
 \lx -sɩ
 \ph -sɪ
@@ -35830,11 +35845,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge seal
 \is 7.3.6.2
-\de seal
+\de to seal something
 \xv Mɩ bɛnsɩ latii nɛ́ha asɔpʋ abʋsɔ mʋ́ ha mɩ.
 \xe My basin has developed a hole so I will take it to a sealer so that he should seal it for me.
 \bb Stewart List:2885
-\dt 10/Sep/2016
+\dt 09/Jan/2017
 
 \lx sɔ
 \hm 3
@@ -35868,8 +35883,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ph sɔ kɪʔ
 \ps vt
 \sn
+\ge test
 \cf ɩsɔkɩ
-\dt 18/Oct/2016
+\de to test someone or something
+\dt 09/Jan/2017
 
 \lx sɔɔn
 \ph sɔ̃́ː
@@ -35914,13 +35931,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge slip
 \is 7.2.1.5.1
-\de slip
+\de to slip
 \xv Anɩ obiekpa bʋ ɔplɩ sʋ igye nɛsrɛɩ dɩda nʋ.
 \xe Our bathing area is slippery, so yesterday I fell down there.
 \xv Ɔtɩna ɩnʋ bʋ ɔplɩ, sʋ nasrɛɩ dɩda.
 \xe The place there has slipperiness so I slipped and fell.
 \bb Stewart List:2497
-\dt 01/Jun/2016
+\dt 09/Jan/2017
 
 \lx sripe
 \ph srípe
@@ -35946,7 +35963,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge run
 \is 7.2.1.1.1
-\de run
+\de to run
 \cf ɔsrɩpʋ
 \cf ɔsrɩ
 \xv Bʋ dɛ sɩsɩrɩ kɩ bɛɛ ma obégyi ɩsʋ.
@@ -35956,7 +35973,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Sukuufɔ abi amʋ basrɩ dalɩ sukuu obuto tsufɛsɛ ba wun ɩwɔ.
 \xe The schoolchildren have run out of the school house because they have seen a snake.
 \bb Stewart List:2021
-\dt 15/Sep/2016
+\dt 09/Jan/2017
 
 \lx srɩgya
 \ph srɪ́ʤa
@@ -36037,7 +36054,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge learn
 \is 3.2.2
-\de learn
+\de to learn something
 \rf Tape:7-1-024
 \xv Nyebi amʋ bʋdɛ atɔ suan sukutɔ.
 \xe The children are learning things at school.
@@ -36048,7 +36065,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:2975
 \bb Stewart List:3267
 \bw Akan fi:suan
-\dt 14/Sep/2016
+\dt 09/Jan/2017
 
 \lx suan suna
 \ph suan suna
@@ -36082,7 +36099,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge worship
 \is 4.9.5
-\de worship
+\de to worship something
 \rf Tape:7-1-063
 \xv Bulu sum bʋ ansigyi dʋn ɔkpɛ, tsufɛsɛ iyula bʋ Bulu sumtɔ.
 \xe God worship has more happiness than witchcraft because praise is in God worship.
@@ -36093,7 +36110,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 4.5.4.3
 \de to serve
 \cf osumpʋ
-\dt 28/Nov/2016
+\dt 09/Jan/2017
 
 \lx suma
 \ph suma
@@ -36770,7 +36787,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge twin
 \is 4.1.9.1.3
 \is 4.1.9.1.9
-\de twin
+\de twin, human or animal
 \rf Tape:7-1-318
 \xv Kɩ, Lowu pʋ́ Nkpa bʋgyi atabi.
 \xe Look, Death and Life are twins.
@@ -36778,7 +36795,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe Rebecca birthed twins. They called the firstborn Esau. They called the second Jacob.
 \bb Stewart List:0210
 \bb Stewart List:0211
-\dt 20/May/2016
+\dt 10/Jan/2017
 
 \lx tafa
 \ph táfá
@@ -36786,14 +36803,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cheat
 \is 6.8.9.2
-\de cheat
+\de to cheat someone
 \xv Igye, nɛka atɔ amʋ fɛ́ɛ́ ɩkɔ. Mabɛtafa mɩ.
 \xe Yesterday I paid for everything that I bought. Don't come to cheat me.
 \xv Matafa mɩ abéyie mʋ́ kɛkɛ.
 \xe Don't cheat me, we will share it equally.
 \xv Anɩ aba tafasʋ anɩ tamayɔ nkpa nɩ.
 \xe Cheating each other, that is why we don't move forward (prosper).
-\dt 20/May/2016
+\dt 09/Jan/2017
 
 \lx takɩna
 \ph takɪná
@@ -37041,7 +37058,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge rag
 \is 6.6.1.1
 \is 8.1.7.4
-\de rag
+\de rag; old cloth
 \rf Tape:7-1-384
 \xv Mɩ atadɩɛ tatida nɩ.
 \xe This is my old shirt.
@@ -37050,7 +37067,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe The child has urinated on his diapers.
 \xv Nyebi tɛdɩ atatidasʋ.
 \xe Children sleep on diapers.
-\dt 19/Jul/2016
+\dt 09/Jan/2017
 
 \lx Tawia
 \ph táwia
@@ -37247,10 +37264,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge paedophilia
 \is 2.6.2.3
-\de paedophilia
+\de to have sex with a child
 \xv Oyin amʋ lɛtɛtɛ kebi.
 \xe The man had sex with the child.
-\dt 19/Jul/2016
+\dt 09/Jan/2017
 
 \lx tɛtrɛtɛɛ
 \ph tɛtrɛtɛː
@@ -37407,12 +37424,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge sneeze
 \is 2.2.2
-\de sneeze
+\de to sneeze
 \rf Tape:7-1-483
 \xv Alawa asɩra odetinsa.
 \xe He has taken snuff and is sneezing.
 \bb Stewart List:2052
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx tinti
 \ph tintí
@@ -37458,7 +37475,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge call
 \is 3.5.1.4.1
-\de call
+\de to call someone
 \rf Tape:7-1-510
 \xv Tɩ oyin amʋ ha mɩ.
 \xe Call the man for me.
@@ -37466,7 +37483,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Osunapʋ amʋ lɛtɩ sukuufɔ abi amʋ fɛ́ɛ́ ada kɩ amʋ́tɔ odua mɛba.
 \xe The teacher called all the school children's names to see who didn't come.
 \bb Stewart List:3224
-\dt 20/May/2016
+\dt 09/Jan/2017
 
 \lx tɩa
 \ph tɪ́á(H)
@@ -37498,10 +37515,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge immunization
 \is 2.5.7.2
-\de immunization
+\de immunization needle
 \xv Nyebi tɩkpɔtɩn ɩbʋ alɛ, tsufɛ ɩtetɩn ɩlɔ tsɔtsɔɔtsɔ ɔkpa.
 \xe Immunization for children is good, because it prevents a lot of diseases.
-\dt 13/Sep/2016
+\dt 09/Jan/2017
 
 \lx tɩn
 \hm 1
@@ -37840,7 +37857,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge in
 \is 8.5.1.4
-\de inside
+\de inside; into
 \nt in contrast with sʋ, seems to further in; e. g. biasʋ, is the ordinary word for market biatɔ implies deep in the market.
 \xv Aye bʋbʋ ntsu amʋtɔ.
 \xe Fish are in the water.
@@ -37848,7 +37865,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Kɩ ntsu amʋtɔ fówun lɛnkɛ amʋ da mʋ́tɔ.
 \xe Look inside the water you will see the crocodile lying in it..
 \bb Stewart List:0954
-\dt 17/May/2016
+\dt 09/Jan/2017
 
 \lx tɔá
 \ph tɔ́á
@@ -38039,7 +38056,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \rf Tape:4-1-564
 \xv Tɔtɔɔtɔ ma ɔbɔ amʋtɔ.
 \xe Nothing at all is in the hole.
-\dt 19/Jul/2016
+\dt 09/Jan/2017
 
 \lx tɔtɔɔtɔ
 \ph tɔtɔːtɔ
@@ -38175,12 +38192,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge dance
 \is 4.2.4
-\de dance
+\de to dance
 \rf Tape:7-1-149
 \xv Alatsa osripekpa ɩnʋ wanklaan, lawa akɩlɛ.
 \xe She has danced well at the wake, it was beautiful to see.
 \bb Stewart List:2023
-\dt 17/Apr/2016
+\dt 09/Jan/2017
 
 \lx tsa
 \hm 2
@@ -38446,9 +38463,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge trample
 \is 7.2.1.1
 \is 7.7.3
-\de trample
+\de to trample something
 \cf tsa4
-\dt 15/Jun/2016
+\dt 09/Jan/2017
 
 \lx tse
 \ph t͡se
@@ -38709,14 +38726,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge marry
 \is 2.6.1
-\de marry
+\de to marry
 \rf Tape:4-2-479
 \xv Kɔmla letsia mʋ ka lawa ɔpá.
 \xe Kwabena has been married to his wife a long time.
 \rf Tape:7-2-275
 \cf tsiaba
 \bb Stewart List:3230
-\dt 20/Jul/2016
+\dt 09/Jan/2017
 
 \lx tsiaba
 \ph t͡síabá
@@ -38914,7 +38931,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge wake
 \is 5.7.3
-\de wake
+\de to wake up
 \rf Tape:7-2-360
 \xv Nyankpʋ amʋ latsinki mʋ.
 \xe The rain has woken him up.
@@ -38924,7 +38941,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \bb Stewart List:2028
 \xv Kebi amʋ letsɩnkɩ lawa ɔpá.
 \xe The child woke up long ago.
-\dt 21/Jul/2016
+\dt 09/Jan/2017
 
 \lx tsintsiin bɔnɔ
 \ph t͡sint͡sĩː bɔnɔ
@@ -38994,7 +39011,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx tsitsi
 \hm 2
 \ph t͡sit͡si
-\ps vt
+\ps ADV
 \sn
 \ge under
 \is 8.5.1.3.2
@@ -39003,7 +39020,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Obien amʋ da oyi amʋ tsitsi.
 \xe The snail is lying under the tree.
 \cf asɩ2 3
-\dt 18/Dec/2016
+\dt 09/Jan/2017
 
 \lx tsitsi
 \hm 3
@@ -39076,7 +39093,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 
 \lx tsɩhɛ
 \ph t͡sɪ́hɛ́
-\ps n
+\ps ADJ
 \sn
 \ge female
 \is 1.6.7
@@ -39084,7 +39101,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \de female
 \xv opio tsɩhɛ
 \xe sister
-\dt 15/Jul/2016
+\dt 09/Jan/2017
 
 \lx tsɩɩn
 \ph t͡sɪ̃̂ː
@@ -39165,11 +39182,11 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge enough
 \is 8.1.7
-\de enough
+\de to be enough
 \rf Tape:7-2-432
 \xv Ɩtsɔ? Eee, ɩtsɔ.
 \xe Is that enough? Yes it's enough.
-\dt 22/Jul/2016
+\dt 09/Jan/2017
 
 \lx tsɔ
 \hm 2
@@ -39288,12 +39305,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge start
 \is 8.4.6.1
-\de start
+\de to start from somewhere
 \xv Olotsua mʋ́ asɩ tsu Wurupong ya Tɛpo.
 \xe He started from Wurupong and went to Tepo.
 \xv Olefitia mʋ́ asɩ tsu Wurupong ya Tɛpo.
 \xe He started from Wurupong and went to Tepo.
-\dt 21/Jun/2014
+\dt 09/Jan/2017
 
 \lx tsufɛ
 \ph t͡súfɛ́
@@ -39484,12 +39501,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge peck
 \is 1.6.4.2
-\de peck
+\de to peck at something
 \rf Tape:7-2-523??
 \xv Batɛ amʋ latswɛ kpoli.
 \xe The chicken has pecked the maize.
 \bb Stewart List:2783
-\dt 03/Jan/2017
+\dt 09/Jan/2017
 
 \lx tswɛ
 \hm 2
@@ -39498,12 +39515,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge worship
 \is 4.9
-\de worship
+\de to worship something
 \rf Tape:7-2-526
 \xv Bʋtekle kɔba, tamɛ bʋtamatswɛ mʋ́.
 \xe They want money but they never worship it.
 \na "sum" is the Akan equivalent. It is used in all the churches as it doesn't have the fetish connotations that tswɛ has.
-\dt 24/Dec/2013
+\dt 09/Jan/2017
 
 \lx tswɛtswɛ
 \ph t͡swɛt͡swɛʔ(L)
@@ -39980,10 +39997,10 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge greet
 \is 3.5.1.4.3
-\de greet
+\de to greet someone
 \nt Need further explanation of this, how it varies from ha itsia
 \cf tʋn2
-\dt 17/Oct/2016
+\dt 09/Jan/2017
 
 \lx vunvun
 \ph vũvũ̂ʔ
@@ -40225,9 +40242,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge wine
 \is 5.2.3.7
-\de wine
+\de wine; grape wine
 \bw English fi: wine
-\dt 12/Jul/2014
+\dt 09/Jan/2017
 
 \lx waɩnbi
 \ph waɪnbi(H)
@@ -40334,12 +40351,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge write
 \is 3.5.7.1
-\de write
+\de to write something
 \rf Tape:8-1-227
 \xv Alawanlɩn ɔwʋlʋ sɩsɩ mɩ.
 \xe He has written a letter and sent it to me.
 \bb Stewart List:3237
-\dt 23/Sep/2016
+\dt 09/Jan/2017
 
 \lx wanlɩn
 \hm 2
@@ -40367,13 +40384,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cough
 \is 2.2.2
-\de cough
+\de to cough
 \rf Tape:8-1-238
 \xv Alawata lɛ ɔwɛ.
 \xe He has coughed up phlegm.
 \bb Stewart List:1411
 \bb Stewart List:2041
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx wesee
 \ph wéséː
@@ -40435,12 +40452,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge steal
 \is 6.8.9.1
-\de steal
+\de to steal something
 \rf Tape:8-1-257
 \xv Owikplu amʋ lawi tɔkʋ ɔsɩrɩ.
 \xe The thief has stolen something and run.
 \bb Stewart List:3217
-\dt 22/Jul/2016
+\dt 09/Jan/2017
 
 \lx wie
 \ph wíé
@@ -40828,13 +40845,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge town
 \is 4.6.7.2
-\de town
+\de town; city
 \rf Tape:8-1-363
 \xv Wulugyiwulu mʋ́a mʋ́tɔ amandɩɛ.
 \xe Every town with it's own customs.
 \nt Apparently this expression is okay without a verb- EL
 \nt an alternative construction would be, "Wulugyiwulu bʋ mʋ́ amandɩɛ. " Every town has its own customs.
-\dt 01/May/2016
+\dt 09/Jan/2017
 
 \lx Wulubitɔ
 \ph wúlubitɔʔ (H)
@@ -40851,7 +40868,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge see
 \is 2.3.1
-\de see
+\de to see
 \rf Tape:8-1-367
 \xv Omedewun.
 \xe He doesn't see.
@@ -40864,7 +40881,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \nt We say "gyi ɔdwɛ" instead, but we say "wun asʋn" which means to suffer.
 \bb Stewart List:2118
 \bb Stewart List:3303
-\dt 30/Jun/2014
+\dt 09/Jan/2017
 
 \lx wuna
 \hm 1
@@ -40890,7 +40907,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \lx wuna
 \hm 2
 \ph wuna
-\ps v
+\ps ADV
 \sn
 \ge immediately
 \is 8.4.6.4.4
@@ -40901,7 +40918,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Wuna mɔ mɩ!
 \xe Kill me right now!
 \xe You might as well kill me!
-\dt 22/Jul/2016
+\dt 09/Jan/2017
 
 \lx wunasʋ
 \ph ŋwúná!sʊ́
@@ -40922,8 +40939,8 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge courtyard
 \is 6.5.1.4
-\de courtyard
-\dt 20/May/2016
+\de courtyard of a household
+\dt 09/Jan/2017
 
 \lx wunsɩnɛ
 \ph wunsɪnɛ́
@@ -41011,14 +41028,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge porridge
 \is 5.2.3.4
-\de porridge
+\de millet porridge
 \xv Bʋtɔpʋ atsɩ gyi wʋdɩ.
 \xe They eat beans with porridge.
 \xe Beans are eaten with porridge.
 \rf Tape:1-2-076
 \xv Bʋtɔkwɛ atɩkɔ nfuo pʋ wuli wʋdɩ, bʋtɔpʋ bwɛ nta igyi pitoo.
 \xe They grind millet flour and stir it into a porridge. They make a fermented drink called Pito from it.
-\dt 29/Nov/2016
+\dt 09/Jan/2017
 
 \lx wʋlɛ
 \ph wʊlɛ
@@ -41403,7 +41420,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge proverb
 \is 3.5.2.3
 \is 3.5.4.2
-\de proverb
+\de a proverb
 \xv Alaha yebi.
 \xe He told a proverb.
 \rf Tape:8-1-481
@@ -41411,7 +41428,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe He only gave deep proverbs so that no one could understand them.
 \bb Stewart List:1491
 \nt ɩbɛ is borrowed from Akan
-\dt 03/Oct/2016
+\dt 09/Jan/2017
 
 \lx yɛ
 \hm 1
@@ -41613,7 +41630,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge good
 \is 8.3.7.7
-\de good
+\de good; well
 \rf Tape:8-1-579
 \xv Fɛdɩ yile?
 \xe You slept well?
@@ -41640,7 +41657,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge good person
 \is 4.3.1
 \de a good person
-\dt 05/Jan/2017
+\dt 09/Jan/2017
 
 \lx yin
 \hm 1
@@ -41649,7 +41666,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge know
 \is 3.2.3
-\de know
+\de to know something
 \ng Continuous aspect only
 \rf Tape:8-1-588
 \xv Mʋ ɩtsatɔ bʋ akɩlɛ, tsufɛ oyin tsa.
@@ -41662,7 +41679,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe How things were before the world came only God knows.
 \bb Stewart List:3157
 \cf bɩ2
-\dt 14/Sep/2016
+\dt 09/Jan/2017
 
 \lx -yin
 \hm 2
@@ -41709,7 +41726,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn 1
 \ge return
 \is 7.2.3.6
-\de return
+\de to return to a previous state
 \xv Yibi kpa a, ɔma iteyinki.
 \xe When a trap sprung, it always goes back.
 \xe When the time comes things go back to where they have come from.
@@ -41726,7 +41743,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Nɛda mʋ. Oleyinki da mɩ mʋ ɛ.
 \xe I hit him. He also hit me back.
 \bb Stewart List:2467
-\dt 18/Jul/2016
+\dt 09/Jan/2017
 
 \lx yinkɩa
 \ph yíŋkɪ́a
@@ -41827,12 +41844,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge shadow
 \is 8.3.3.2.1
-\de shadow
+\de shadow of someone or something
 \rf Tape:8-1-570
 \xv Nyankɩ pʋ́ ntʋpwɛ a, anɩ yiyi tɔwa swɩ, ɔpa a, fówun labwɛ kutukulu.
 \xe In the morning and evening our shadows always become long, at noon you will see they have become short.
 \bb Stewart List:1041
-\dt 30/Jun/2014
+\dt 09/Jan/2017
 
 \lx yiyi
 \hm 2
@@ -41902,7 +41919,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge go
 \is 7.2.3.2
-\de go
+\de to go somewhere
 \nt to go do something, first verb in serial verb construction
 \rf Tape:8-1-488
 \xv Nɛyɛsa ntsu. Nɛyɛkɩ ánɩ́ alaba.
@@ -41967,7 +41984,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv yɔ mʋ́sʋ
 \xe resume
 \bb Stewart List:2960
-\dt 03/Jan/2017
+\dt 09/Jan/2017
 
 \lx yɔfʋn
 \ph yɔ́fʊ̃
@@ -42014,7 +42031,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge bless
 \is 4.9.4.3
-\de bless
+\de to bless someone
 \rf Tape:8-2-052
 \xv Nana Bulu toyula aha amʋ bʋtegyi mʋ asʋnsʋ amʋ fɛ́ɛ́.
 \xe God blesses all those who obey his word.
@@ -42023,4 +42040,4 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xe God should bless us all.
 \bb Stewart List:3243
 \cf hyira
-\dt 21/Jul/2016
+\dt 09/Jan/2017
