@@ -686,8 +686,8 @@
 \sn
 \is 1.6.1.9
 \ge clam
-\de clam
-\dt 19/Jul/2016
+\de freshwater clam
+\dt 10/Jan/2017
 
 \lx adɔmpɔ
 \ph adɔmpɔ (H)
@@ -913,12 +913,13 @@
 \ge donkey
 \is 6.3.1.7
 \de donkey
+\sc Equus africanus asinus
 \bw Akan fi:afrim LH!H
 \xv Afrimu tɔsʋra atɔ dʋn ɔpɔnkɔ.
 \xe A donkey carries things more than a horse.
 \bb Stewart List:0630
 \sy landuu
-\dt 29/Nov/2016
+\dt 10/Jan/2017
 
 \lx afu
 \hm 1
@@ -1068,12 +1069,13 @@
 \ge scorpion
 \is 1.6.1.8
 \de little brown scorpion
+\sc Order: Scorpiones
 \nt Southern dialect
 \vad nyankpʋkpie
 \ve Northern
 \xv Bamɔ aganɛ amʋʋ ɔlɔsʋra kebi amʋ.
 \xe They have killed the scorpion that stung the child.
-\dt 01/Nov/2016
+\dt 10/Jan/2017
 
 \lx Agbagya
 \ph ag͡baʤáʔ
@@ -1104,13 +1106,14 @@
 \is 5.2.3.1.5
 \is 6.2.1.2.2
 \de cassava
+\sc Manihot esculenta
 \bw Ewe fi:agbeli LLL
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi gari, konkonte pʋ́ agbodi mbɔdɩ.
 \xe They take cassava and make many foods. Some of these are, gari, konkonte, and cassava dough.
 \xe They use cassava to make many foods including gari, konkonte, and cassava dough.
 \rf Tape:1-1-190
 \bb Stewart List:0908
-\dt 29/Nov/2016
+\dt 10/Jan/2017
 
 \lx agbwi
 \ph ag͡bwí
@@ -1177,12 +1180,13 @@
 \is 5.2.3.1.5
 \is 6.2.1.2
 \de sweet potato
+\sc Ipomoea batatas
 \bw Ewe fi:agute
 \rf Tape:1-1-211
 \xv Agude fla bʋtɔpʋ swie akosisʋ. Ɩtɔwɩ tsra asa ɔma.
 \xe Sweet potato vine they plant in mounds. It matures after three months.
 \bb Stewart List:0909
-\dt 29/Nov/2016
+\dt 10/Jan/2017
 
 \lx agya
 \ph aʤa
@@ -1742,11 +1746,12 @@
 \ge parrot
 \is 1.6.1.2
 \de African Grey parrot
+\sc Psittacus erithacus
 \bw Akan fi:akoo HLH
 \xv Akoo otedu bʋ akɩlɛ.
 \xe Parrot's tail is beautiful.
 \bb Stewart List:0715
-\dt 29/Aug/2013
+\dt 10/Jan/2017
 
 \lx akoo
 \hm 2
@@ -3696,12 +3701,13 @@
 \ge beans
 \is 5.2.3.1.1
 \is 6.2.1.3
-\de beans
+\de common bean
+\sc Phaseolus vulgaris
 \xv Bʋtɔpʋ atse gyi wʋdɩ.
 \xe They eat beans with porridge.
 \xe Beans are eaten with porridge.
 \bb Stewart List:0916
-\dt 16/Jul/2016
+\dt 10/Jan/2017
 
 \lx atsialɛ
 \ph at͡siálɛ́
@@ -4258,6 +4264,7 @@
 \ge termite
 \is 1.6.1.7
 \de termite
+\sc Infraorder: Isoptera
 \rf Tape:1-1-054
 \xv Ababa bʋtɔwɩ atati.
 \xe Termites chew cloths.
@@ -4267,7 +4274,7 @@
 \cf ɔtɔntrɔbwɩ
 \nt See the entry for ɔtɔntrɔbwɩ for cross references to other ants.
 \bb Stewart List:0811
-\dt 15/Jul/2016
+\dt 10/Jan/2017
 
 \lx baflɛ
 \ph baflɛ́ʔ
@@ -4277,8 +4284,8 @@
 \sn
 \ge pawpaw
 \is 6.2.1.4
-\sc Carica papaya
 \de pawpaw
+\sc Carica papaya
 \rf Tape:1-2-306
 \xv Anyawie abasa amʋ bɔyɔtʋ baflɛ lapɛ bla oyi.
 \xe The three friends went and unexpectedly came upon a pawpaw tree full of ripe fruit.
@@ -4287,7 +4294,7 @@
 \nt proverb
 \rf Tape:1-2-312
 \bb Stewart List:0914
-\dt 30/Nov/2016
+\dt 10/Jan/2017
 
 \lx baɩ
 \ph báɪ́
@@ -4443,13 +4450,14 @@
 \is 1.6.1.2
 \is 6.3.6.1
 \de domestic chicken
+\sc Gallus gallus domesticus
 \nt Etymology: bʋ atɛ / has feathers
 \na names for domestic animals have undergone taboo deformation.
 \rf Tape:1-2-350
 \xv Mɩ batɛ dɛka.
 \xe My hen is laying.
 \bb Stewart List:0711
-\dt 30/Nov/2016
+\dt 10/Jan/2017
 
 \lx batɛkokoyin
 \ph batɛkokoyĩ
@@ -5635,8 +5643,9 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \sn
 \ge daubing wasp
 \is 1.6.1.7
-\de wasp that build mud nest
-\dt 08/Feb/2014
+\de awasp that builds a mud nest
+\sc Genus: Sceliphron
+\dt 10/Jan/2017
 
 \lx bɔnɔ
 \ph bɔnɔʔ (L)
@@ -5801,13 +5810,14 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge dove
 \is 1.6.1.2
 \is 6.3.6
-\de pigeon; dove; often used as a sign for peace
+\de pigeon; dove
+\sc Columba livia
 \bw Akan fi:abrɔnʋma LHHL
 \xv Brɔdʋma gyi obwibwi ɔkʋa mʋ́ iyietɔ bʋ ɔdwɛ.
 \xe Dove is a bird that its meat is sweet.
 \xv Oyin ɔkʋ dɛ abrɔdʋma yaɩ mʋ akuda asɩ.
 \xe A certain man is rearing doves in his village.
-\dt 01/Feb/2014
+\dt 10/Jan/2017
 
 \lx brɔnʋ
 \ph brɔnʊ(H)
@@ -6820,7 +6830,8 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge centipede
 \is 1.6.1.9
 \de centipede
-\dt 15/Jul/2016
+\sc Genus: Sceliphron
+\dt 10/Jan/2017
 
 \lx dakpikpi
 \ph dak͡pík͡pí
@@ -7300,14 +7311,15 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge bedbug
 \is 1.6.1.7
 \is 5.1.1.3
-\de bedbug
+\de bed bug
+\sc Family: Cimicidae
 \xv Igye onye adɩba bɛhan mɩ ɔklansʋ, sʋ mmɛdɩdɩ.
 \xe Last night my sleeping mat was infested with bedbugs so I didn't sleep.
 \xv Adɩba sɔɔn bʋ oyin anfɩ atadɩɛtɔ.
 \xe There are many bedbugs in this man's shirt.
 \cf dɩ
 \cf ɩba2
-\dt 13/Dec/2016
+\dt 10/Jan/2017
 
 \lx dɩda
 \hm 1
@@ -8188,10 +8200,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \is 5.2.3.1.5
 \is 6.2.1.2
 \de water yam
+\sc Dioscorea alata
 \rf Tape:2-1-448
 \xv Faasɩ tɔyɔpɔn dʋn igyo, sʋ megyi mʋ́ fɛ́ɛ́ bʋtɔpʋ wɔ fufu. Ɩbʋ alɛ ha nyɔmba.
 \xe Water yam is softer than yam so all of it isn't good for making fufu. It is good for nyɔmba.
-\dt 01/Dec/2016
+\dt 10/Jan/2017
 
 \lx Fada
 \ph fáda
@@ -8233,10 +8246,11 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge cricket
 \is 1.6.1.7
 \de cricket
+\sc Family: Gryllidae
 \rf Tape:2-1-445
 \xv Otsu lɛkɩta afantɩ. Abɔ́wɩ!
 \xe He has come from catching crickets. We will eat!
-\dt 15/Jul/2016
+\dt 10/Jan/2017
 
 \lx fata
 \ph fataʔ
@@ -9412,9 +9426,10 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \ge grasshopper
 \is 1.6.1.7
 \de green grasshopper
+\sc Suborder: Caelifera
 \cf tsantsankʋ
 \cf ɔkɛkɛ
-\dt 18/Oct/2016
+\dt 10/Jan/2017
 
 \lx gbede
 \hm 1
@@ -11073,12 +11088,13 @@ If the right hand is soiled or can't be used for some other reason, the person w
 \is 1.5.3
 \is 6.2.1.2
 \de yam
-\nt one yam is ogyo
+\sc Dioscorea cayennensis subsp. rotundata
+\ng one yam is ogyo but the citation form is atypically plural. It is cognate with other Guang words of the (relatively rare) ku-/i- noun class.
 \rf Tape:2-2-391
 \xv Ofienɩ igyo kpalobi pɛ nada.
 \xe This year I have only planted a few yams.
 \bb Stewart List:0910
-\dt 01/Dec/2016
+\dt 10/Jan/2017
 
 \lx igyopin
 \ph iʤopĩ
@@ -13727,11 +13743,12 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge snake
 \is 1.6.1.3.1
 \de snake
+\sc Suborder Serpentes
 \rf Tape:3-1-263
 \xv Ɩwɔ tɛbɩtɩ mʋ ipusʋ.
 \xe A snake always slithers on its stomach.
 \bb Stewart List:0761
-\dt 24/Dec/2012
+\dt 10/Jan/2017
 
 \lx ɩwɔlʋ
 \ph ɪwɔlʊ
@@ -15027,6 +15044,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \is 1.6.1.1.2
 \is 6.3.1.5
 \de dog
+\sc Canis familiaris
 \rf Tape:3-2-008
 \xv Kɩaɩ amʋ ladun Kebi amʋ.
 \xe The dog has bitten the child.
@@ -15035,7 +15053,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xe They whistle to call dogs.
 \ng pʋ tɩ take/call pʋ ɔfʋlɩ tɩ
 \bb Stewart List:0612
-\dt 06/Dec/2016
+\dt 10/Jan/2017
 
 \lx kɩaɩbi
 \ph kɪaɪbi
@@ -15186,7 +15204,7 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \xe The lizard climbed and got away from the cat.
 \ng dʋ/si (climb/leave) escaped by climbing
 \bb Stewart List:0765
-\dt 15/Jul/2016
+\dt 10/Jan/2017
 
 \lx kɩtɩba
 \ph kɪ́tɪ́bá
@@ -15215,7 +15233,8 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ge gecko
 \is 1.6.1.3.2
 \de gecko
-\dt 15/Jul/2016
+\sc Infraorder: Gekkota
+\dt 10/Jan/2017
 
 \lx kla
 \hm 1
@@ -15363,14 +15382,15 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \sn
 \ge raven
 \is 1.6.1.2
-\de piebald raven
+\de pied crow
+\sc Corvus albus
 \sy kwankwadabi
 \xv Klankpa ɔma igyi bibi tuun, mʋ kantɔ ɛ lofuli fututuutu.
 \xe A piebald raven's back is black, his chest also is white.
 \rf Tape:3-2-149
 \xv Kwankwadabi ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe The crow's back is black, it's chest is white.
-\dt 28/Dec/2012
+\dt 10/Jan/2017
 
 \lx klantida
 \ph klantidaʔ
@@ -15530,17 +15550,18 @@ In the Northern Dialect they are called "Ɩpwɛ, Ɩpwɛ Odekeyikɛ. Yinke, Kulih
 \ps n
 \pl aklɛkpakpa
 \plph aklɛ́k͡pak͡pa
+\vad ɔdakpokpo
+\ve Southern
 \sn
 \ge woodpecker
 \is 1.6.1.2
 \de woodpecker
-\vad ɔdakpokpo
-\ve Southern
+\sc Family Picidae
 \rf Tape:3-2-216
 \xv Klɛkpakpa gyon oyisʋ.
 \xe The woodpecker is perched on the tree.
 \bb Stewart List:0722
-\dt 05/Jan/2017
+\dt 10/Jan/2017
 
 \lx klɛmɛtɩ
 \ph klɛmɛtɪ́
@@ -16508,12 +16529,13 @@ cf fonflo
 \is 1.6.1.2
 \is 6.3.1
 \is 6.3.6
-\de duck
+\de domestic duck
+\sc Anas platyrhynchos domesticus
 \rf Tape:3-2-420
 \xv Kpakpahe oboi bʋ swɩ dʋn batɛ klɛ.
 \xe A duck's neck is longer than a chicken's.
 \bb Stewart List:0717
-\dt 06/Dec/2016
+\dt 10/Jan/2017
 
 \lx kpakpahɛ
 \ph k͡pak͡pahɛ
@@ -16582,7 +16604,8 @@ cf fonflo
 \ge goat
 \is 1.6.1.1.3
 \is 6.3.1.3
-\de goat
+\de goat, typically pygmy goat
+\sc Capra aegagrus hircus
 \lf Etym=kpa "gather" la "evil" (cf. lalahɛ)
 \xv Gya akpala amʋ lɛ ban amʋtɔ, tsufɛsɛ bʋdɛ agbodi atɛ amʋ wɩ.
 \xe Chase the goats out of the fenced area because they are eating the cassava leaves.
@@ -16590,7 +16613,7 @@ cf fonflo
 \xv Abanyɔ kpala a, ɔhaa tamagya mʋ wa bantɔ.
 \xe A goat owned by two people, no one puts it into the fence.
 \bb Stewart List:0613
-\dt 06/Dec/2016
+\dt 10/Jan/2017
 
 \lx kpalabi
 \ph k͡pálâbi
@@ -16904,11 +16927,13 @@ cf fonflo
 \sn
 \ge owl
 \is 1.6.1.2
-\de owl
+\de owl; probably African scops owl
+\sc Otus senegalensis
+\nq Find out what type(s) of owl are most common
 \rf Tape:3-2-492
 \xv Igye onye nowun kpawu mʋ ansibi lomoni. Mbɛɛ ankɩ mʋ wanklaan alɩ a, olofuli si mɩ.
 \xe Last night I saw an owl, his eyes were big. When I decided I would look at him well he flew away from me.
-\dt 28/Dec/2012
+\dt 10/Jan/2017
 
 \lx kpawunu
 \ph k͡pawunuʔ
@@ -17559,11 +17584,12 @@ cf fonflo
 \is 1.5.3
 \is 6.2.1.1.3
 \de maize
+\sc Zea mays subsp. mays
 \rf Tape:4-1-036
 \xv Bʋtɔpʋ kpoli nɩna dɔkʋnʋ.
 \xe They use maize to cook kenkey.
 \bb Stewart List:0919
-\dt 03/Jan/2017
+\dt 10/Jan/2017
 
 \lx kpoli
 \hm 2
@@ -17865,7 +17891,8 @@ cf fonflo
 \ge turkey
 \is 1.6.1.2
 \is 6.3.6
-\de turkey
+\de domesticated turkey
+\sc Meleagris gallopavo
 \rf Tape:4-1-143
 \xv Mɩ nyawie ɔkʋbʋ akrakun. Oyinhɛ tɛkɛklɛ.
 \xe A certain friend of mine has turkeys. A turkey cock always shows off.
@@ -17873,7 +17900,7 @@ cf fonflo
 \xv Mʋ krakun tsɩhɛ ɔkʋ dɛka.
 \xe A certain turkey hen of his is laying (eggs).
 \bb Stewart List:0718
-\dt 06/Dec/2016
+\dt 10/Jan/2017
 
 \lx krantɩɛ
 \ph krantɪ́ɛ́ (H)
@@ -17933,7 +17960,8 @@ cf fonflo
 \ge sheep
 \is 1.6.1.1.3
 \is 6.3.1.2
-\de sheep
+\de domestic sheep
+\sc Ovis aries
 \cf kufabi
 \nt ɔsantɩ (cognate with other Guang languages) is used for the name in fetish worship.
 \lf Etym=kun ɩfa
@@ -17943,7 +17971,7 @@ cf fonflo
 \xe When they come out from there they will slaughter a sheep under his feet.
 \bb Stewart List:0616
 \cf ɔsantɩ
-\dt 09/Dec/2016
+\dt 10/Jan/2017
 
 \lx kufabi
 \ph kufabi
@@ -18094,12 +18122,13 @@ cf fonflo
 \is 1.5.1
 \is 6.2.1.7
 \de fan palm
+\sc Borassus aethiopum
 \nt a tall tree (viewed as being next to God)
 \xv Ɩtʋ kunka a, ɩlatʋ Bulu.
 \xe It has reached fan palm, it has reached God.
 \nt proverb
 \rf Tape:4-1-191
-\dt 06/Dec/2016
+\dt 10/Jan/2017
 
 \lx kunkun
 \ph kũkũʔ (L)
@@ -18591,12 +18620,13 @@ cf fonflo
 \sn
 \ge crow
 \is 1.6.1.2
-\de piebald crow
+\de pied crow
+\sc Corvus albus
 \sy klankpa
 \rf Tape:4-1-349
 \xv Kwankwadabi ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe A crow's back is black, his chest is white.
-\dt 22/Dec/2013
+\dt 10/Jan/2017
 
 \lx Kwasi
 \ph kʷasí
@@ -19168,12 +19198,13 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \sn
 \ge vulture
 \is 1.6.1.2
-\de vulture
+\de hooded vulture
+\sc Necrosyrtes monachus
 \rf Tape:4-1-473
 \xv Lasa tegyi mbwɩ wuhɛ.
 \xe Vulture eats dead animals.
 \bb Stewart List:0713
-\dt 01/Feb/2014
+\dt 10/Jan/2017
 
 \lx lata
 \hm 1
@@ -19975,11 +20006,12 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \is 1.5.1
 \is 5.2.3.1.2
 \is 6.2.1.4
-\de fruit
+\de mango
+\sc Mangifera indica
 \bw English fi:mango
 \xv Mango amʋtɔ bʋ ɔdwɛ.
 \xe The mango is sweet.
-\dt 06/Dec/2016
+\dt 10/Jan/2017
 
 \lx mankani
 \ph maŋkaní
@@ -19992,10 +20024,11 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \is 5.2.3.1.5
 \is 6.2.1.2
 \de cocoyam; taro
+\sc Colocasia esculenta
 \rf Tape:4-2-002
 \xv Agyasɩɛpɛ bawɩ mɩ mankani fɛ́ɛ́ ndɔ amʋtɔ.
 \xe Bush pigs have eaten all of my cocoyam in the farm.
-\dt 07/Dec/2016
+\dt 10/Jan/2017
 
 \lx mankɩnsɩ
 \ph mãŋkɪ̃nsɪ
@@ -21475,16 +21508,16 @@ Akans have a seven day traditional week; Nkonyas have a six day traditional week
 \pl anani
 \plph anáníʔ
 \sn
-\ge antelope
+\ge duiker
 \is 1.6.1.1.3
-\de an antelope smaller than abrɛ
+\sc Sylvicapra grimmia
+\nq Check whether nani is grey duiker Sylvicapra grimmia, perhaps Maxwell's duiker Cepahlophus maxwelli
+\nq check which kind of duiker, either Maxwell's or common
 \rf Tape:4-2-539
 \xv Nanɩ bʋ ɔsrɩ. Ogyi pututɔ kpala. Nani wɩ gyi fɛ nsuo.
 \xe An antelope is fast / has speed. It is a bush goat. Nani is ash in colour.
-\sc Sylvicapra grimmia
-\nq Check whether nani is grey duiker Sylvicapra grimmia
 \bb Stewart List:0631
-\dt 15/Jul/2016
+\dt 10/Jan/2017
 
 \lx nantata
 \ph nantataʔ
@@ -23912,6 +23945,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \ge scorpion
 \is 1.6.1.8
 \de small brown scorpion
+\sc Order: Scorpiones
 \na The myth is that a scorpion bite will cause pain until the next time you hear thunder;
 \ee In the Northern dialect this is any scorpion, in the southern this is only the big black ones. The little brown ones are aganɛ, borrowed from Ewe. Nyankpʋ kpie is cognate with other Guang languages.
 \rf Tape:5-1-542
@@ -23919,7 +23953,7 @@ For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \xe If a scorpion stings you it is painful.
 \bb Stewart List:0802
 \cf aganɛ
-\dt 17/Oct/2016
+\dt 10/Jan/2017
 
 \lx nyankpʋsa
 \ph ɲaŋ͡mk͡pʊsaʔ
@@ -25386,11 +25420,12 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge firefly
 \is 1.6.1.7
 \de firefly
+\sc Family: Lampyridae
 \xv Ogyaŋɛ amʋ dɛ ogya kpa.
 \xe The firefly is flashing.
 \xv Nɩ aha akʋ bowun ogyaŋɛ amʋ dɛ ogya kpa a, bɛɛ bawun ɔkpɛpʋ.
 \xe When some people see firefly flashing, they think they have seen a witch.
-\dt 15/Jul/2016
+\dt 10/Jan/2017
 
 \lx ogyasi
 \ph oʤásîʔ(L)
@@ -36874,12 +36909,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 1.6.2.5
 \is 5.4.1
 \is 6.8.6
-\de cowry
+\de cowry shell
+\sc Fam: Cypraeidae
 \rf Tape:7-1-343
 \xv Atɩtɩfɔ betsia pʋ atanibi hɔ atɔ. Brɛ amʋtɔ tanibi tɛtalɩ hɔ atɔ tsɔtsɔɔtsɔ.
 \xe Early people used to use cowry shell to buy things. At that time a cowry could buy a lot.
 \bb Stewart List:0772
-\dt 29/Nov/2016
+\dt 09/Jan/2017
 
 \lx tanka
 \ph táŋká
@@ -37167,7 +37203,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge cockroach
 \is 1.6.1.7
-\de cockroach
+\de American cockroach
+\sc Periplaneta americana
+\ee Native to West Africa, the American cockroach got its name after being introduced to America.
 \xv Tɛplɛ onun nfɔ a, Ogbon lahɔ nwun pɛ.
 \xe Cockroach drinks the oil, but red headed lizard gets the red head.
 \nt the innocent get blamed for the work of the guilty.
@@ -37175,7 +37213,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \xv Igye nowun tɛplɛ ɔkʋ mɩ baagɩtɔ, sa atɛplɛ bʋdɛ mɩ atati wɩ.
 \xe Yesterday I saw a cockroach in my bag, unexpectedly, cockroaches are eating my clothes.
 \bb Stewart List:0816
-\dt 15/Jul/2016
+\dt 09/Jan/2017
 
 \lx tɛtɛ
 \hm 1
@@ -37253,12 +37291,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \pl atiapʋ
 \plph atíápʊ
 \sn
-\ge gazelle
+\ge antelope
 \is 1.6.1.1.3
-\de gazelle
+\de antelope; probably bushbuck
+\sc Tragelaphus scriptus
+\nq check whether bushbuck, reedbuck or waterbuck
 \xv Tiapʋ iyietɔ ma ɔdwɛ, sʋ aha bʋtamakle mʋ́ asʋn.
 \xe The meat of gazelle is not of a good taste, so people do not like it.
-\dt 15/Jul/2016
+\dt 09/Jan/2017
 
 \lx Tigari
 \ph tígarí
@@ -37735,13 +37775,14 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \is 1.5.3
 \is 5.2.3.1.2
 \is 5.2.3.1.3
-\de tomatoes
+\de tomato
+\sc Solanum lycopersicum
 \nt also ntose or tɔmantɔsɩ
 \bw English fi:tomato
 \rf Tape:7-1-581
 \xv Mbʋ tomantosi ndɔ kpɔnkpɔntɩ kʋ.
 \xe I have a large tomato farm.
-\dt 12/Dec/2016
+\dt 09/Jan/2017
 
 \lx tɔ
 \hm 1
@@ -38327,6 +38368,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge earthworm
 \is 1.6.1.9
 \de earthworm
+\sc Order Megadrilacea 
 \rf Tape:7-2-212
 \xv Tsankasɩ bʋ ɔsʋlʋtɔ ɔdɛkɔ, ɔbɛɛ ɔhaa mɛdɛ mʋ wun, tamɛ sa ɩdɛdalɩ.
 \xe An earthworm is in the ground, he is defecating, he says, no one is seeing him, unexpectedly it is coming out.
@@ -38345,7 +38387,7 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge black earthworm
 \is 1.6.1.9
 \de black earthworm
-\dt 31/Oct/2016
+\dt 09/Jan/2017
 
 \lx tsankɩ
 \ph t͡sã́ŋkɪ́
@@ -38384,8 +38426,9 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \ge locust
 \is 1.6.1.7
 \de locust
+\sc Family: Acrididae
 \cf gbablama
-\dt 25/Dec/2013
+\dt 10/Jan/2017
 
 \lx tsantsraku
 \ph t͡sant͡sraku
@@ -40305,18 +40348,18 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \pl awanlɩn
 \plph awanlɪ̃ʔ(H)
 \sn
-\ge guinea fowl
+\ge guineafowl
 \is 1.6.1.2
 \is 6.3.6
-\de guinea fowl
-\xv Mma wanlɩn.
-\xe I do not have a guinea fowl.
+\de Helmeted guineafowl
 \sc Numida meleagris
+\xv Mma wanlɩn.
+\xe I do not have any guinea fowl.
 \rf Tape:8-1-221
 \xv Mɩ wanlɩn dɛka, ɔflɔɩ a, nénya awanlɩn tsɔtsɔɔtsɔ.
 \xe My guinea fowl is laying, when she hatches them I will get plenty of guinea fowls.
 \bb Stewart List:0716
-\dt 12/Dec/2016
+\dt 10/Jan/2017
 
 \lx wata
 \ph wátá
@@ -41119,12 +41162,13 @@ E.g., nkɛ+-nyɔ becomes nkenyɔ.
 \sn
 \ge bee
 \is 1.6.1.7
-\de bee
+\de bee; honeybee
+\sc Apis mellifera scutellata
 \rf Tape:8-1-427
 \xv Awʋnsa bʋtɔbwɛ ɔkwɛn.
 \xe Bees make honey.
 \bb Stewart List:0808
-\dt 20/Jul/2016
+\dt 10/Jan/2017
 
 \lx wʋsʋ
 \ph wʊ́sʊ
