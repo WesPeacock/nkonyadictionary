@@ -115,9 +115,9 @@
 \is 3.5.1
 \de to say something
 \ng continuous aspect
-\rf Tape:1-2-367
 \ng irregular form of bɛɛ used with 1P and 2P
 \cf bɛɛ
+\rf Tape:1-2-367
 \xv Anɩaa abɔ́yɔ tarɩ.
 \xe We say we will go to the tarrying meeting.
 \rf Tape:1-2-374
@@ -132,7 +132,7 @@
 \xv Anɩaa abosum Bulu, mɛnɩ awu a, abénya nkpa ánɩ́ ɩtamata Bulu wa.
 \xe We say we worship God, that should we die, we will get life that never ends in heaven.
 \rf Tape:1-1-469
-\dt 09/Jan/2017
+\dt 11/Jan/2017
 
 \lx aba
 \ph aba(H)
@@ -433,7 +433,7 @@
 \ph ablímbo(H)
 \ps n
 \sn
-\ge grass, (k.o.)
+\ge grass
 \is 1.5.3
 \de a vine-like grass with thorns
 \xv Nɩ ɔha ɩwɩtɔ bwɛ ɔlɔ a, ɔtɔkwɛ ablimbo sa.
@@ -867,7 +867,7 @@
 \ph afoɱflo(H)
 \ps n
 \sn
-\ge k.o. vine
+\ge kind of vine
 \is 1.5.3
 \de forest vine named after a caterpillar
 \xv Afonflo fla igyi fla kʋa mʋ́ ntsu lofuli. Ɩma ɔlɩn ha atɔ klɩ.
@@ -1415,7 +1415,7 @@
 \ge worker
 \is 6.1
 \is 6.1.2.3
-\de s.o. who is working
+\de someone who is working
 \dt 09/Jan/2017
 
 \lx agywama
@@ -1520,7 +1520,7 @@
 \ph ahʊ́rotia(H)
 \ps n
 \sn
-\ge plantain, k.o.
+\ge plantain
 \is 6.2.1.4.2
 \de A variety of plantain. Ahʋrotia has short fingers that are similar to bananas.
 \cf blɔdɩ
@@ -1868,7 +1868,7 @@
 \sn
 \ge sack
 \is 6.7.7.1
-\de k.o. sack
+\de kind of sack
 \dt 29/Nov/2016
 
 \lx akpitalɛ
@@ -2859,7 +2859,7 @@
 \ph apɪmbáʔ
 \ps n
 \sn
-\ge plantain, k.o.
+\ge plantain
 \is 6.2.1.4.2
 \de A variety of plantain. Apɩmba has smaller fingers that have small black seeds. It is primarily used for ampesie. An apɩmba tree can have 50 to 79 fingers of plantain.
 \cf blɔdɩ
@@ -2870,7 +2870,7 @@
 \ph apɪ́pɪ̂ʔ
 \ps n
 \sn
-\ge k.o. snail
+\ge snail
 \is 1.6.1.9
 \de small black snail
 \dt 08/Sep/2016
@@ -2908,7 +2908,7 @@
 \sn
 \ge wasp
 \is 1.6.1.7
-\de k. o. wasp
+\de kind of wasp
 \np Needs tone and glottal check
 \dt 14/Jan/2014
 
@@ -2919,7 +2919,7 @@
 \ge spice
 \is 5.2.3.3.3
 \is 6.2.5.3
-\de a k.o. spice
+\de a kind of spice
 \xv Apʋsɛ toswie mʋ́ flasʋ wa oyitɔ. Bʋtɔkwɛ mʋ́ wa oputsutɔ. Ɩtɔhɔ ɔsɩn, ɩtɛha oputsu amʋ tɔwa ɔfan.
 \xe Spice grows on its vine, which climbs on a tree. They grind it and put it into the soup. It makes it hot and gives the soup a nice scent.
 \xe Spice grows on a climbing vine. It is ground and put in soup. It adds warmth and fragrance to the soup.
@@ -3437,7 +3437,7 @@
 \ph ataɲɔʔ(H)
 \ps n
 \sn
-\ge plantain, k.o.
+\ge plantain
 \is 6.2.1.4.2
 \de A variety of plantain. Ata anyɔ has only two bunches on a plant.
 \cf blɔdɩ
@@ -3812,7 +3812,7 @@
 \ph at͡sulîbibi
 \ps n
 \sn
-\ge mushroom, k.o.
+\ge mushroom
 \is 1.5.4
 \is 6.2.5.3
 \de black mushroom
@@ -4043,7 +4043,7 @@
 \is 8.2.6.3
 \is 8.5.1.3
 \is 8.6.2
-\de the top of s.t.; a high place; on top of s.t.
+\de the top of something; a high place; on top of something
 \xv Bulu lotsu Yesu ya awunsʋ.
 \xe God took Jesus up on top.
 \rf Tape:4-1-236
@@ -5863,7 +5863,7 @@
 \sn 2
 \ge obey
 \is 4.5.4.1
-\de to obey s.o.
+\de to obey someone
 \bb Stewart List:3266
 \dt 30/Oct/2016
 
@@ -5874,7 +5874,7 @@
 \sn 1
 \ge reckon
 \is 3.2.1.1
-\de to reckon or consider s.t.
+\de to reckon or consider something
 \rf Tape:2-1-028
 \xv Nobu ánɩ́ ɔbɛ́ba, tamɛ ɔmɛba.
 \xe I thought he would come but he didn't come.
@@ -5882,7 +5882,7 @@
 \sn 2
 \ge count
 \is 8.1.2
-\de to count s.t.
+\de to count something
 \cf akunta2
 \ps v
 \sn 3
@@ -5990,7 +5990,7 @@
 \ge nurse
 \is 2.6.4.1.1
 \is 6.3.6
-\de to nurse s.t.
+\de to nurse something
 \rf Tape:2-1-053
 \xv Batɛ labun mʋ abisʋ.
 \xe The hen has covered the chicks.
@@ -6433,7 +6433,7 @@
 \sn
 \ge break
 \is 7.9
-\de to break s.t.
+\de to break something
 \rf Tape:2-1-164
 \xv Kɩta ɔlɛpɛ amʋ wanklaan, mɛnɩ fʋmóobwie mʋ́.
 \xe Hold the dish carefully so that you won't break it.
@@ -7112,7 +7112,7 @@
 \ph déi asʊ
 \ps n
 \sn
-\ge mushroom, k.o.
+\ge mushroom
 \is 1.5.4
 \is 6.2.5.3
 \de monkey ear mushroom
@@ -7376,7 +7376,7 @@
 \se dɩdɩ tsʋn
 \ps v
 \ge sleep through
-\de sleep through s.t.
+\de sleep through something
 \is 5.7
 \ng Phrasal_Verb
 \dt 05/Jan/2017
@@ -7388,7 +7388,7 @@
 \sn
 \ge wear
 \is 5.3.7
-\de to wear s.t.
+\de to wear something
 \nt a stative verb
 \xv Ɔdɩdɩ tati asa anɩlɔyɔ mʋ wa nyankɩ amʋ.
 \xe He was wearing a cloth when we went to him in the morning.
@@ -7403,7 +7403,7 @@
 \sn 1
 \ge rest on
 \is 8.5.1.3
-\de to rest on s.t.
+\de to rest on something
 \ng inanimate object rests on an object. A corpse can dɩn but not a living person.
 \ng continuous aspect
 \rf Tape:2-2-535
@@ -7432,7 +7432,7 @@
 \ge persecute
 \is 4.7.9.2
 \is 4.8.2
-\de to persecute s.o.
+\de to persecute someone
 \xv Bʋ dɩn mlɩsʋ.
 \xe They persecute you.
 \dt 19/Dec/2016
@@ -7920,7 +7920,7 @@
 \sn 1
 \ge drain
 \is 5.2.1.3
-\de to drain s.t.
+\de to drain something
 \rf Tape:2-1-420
 \xv Wɔ abɛ amʋ afʋdwɩɩ mʋ́ ɔsasʋ, alɛ oputsu.
 \xe Pound the palm nuts so you can strain them quickly in order to make soup.
@@ -9341,7 +9341,7 @@
 \sn
 \ge wash
 \is 5.6
-\de to wash s.t.
+\de to wash something
 \rf Tape:2-2-102
 \xv Mɩ atɔ lakpɔɩ nɔ́yɔfwɩ mʋ́.
 \xe My things have become dirty so I will go wash them.
@@ -9596,7 +9596,7 @@
 \sn 2
 \ge follow
 \is 7.2.5.2
-\de to follow s.o.
+\de to follow someone
 \rf Tape:2-2-151
 \xv srɩ gya mʋ
 \xe chase him
@@ -9625,7 +9625,7 @@
 \is 6.4.1.1
 \is 7.2.6
 \is 7.6.1
-\de to trace s.o.
+\de to trace someone
 \rf Tape:2-2-148
 \rf Tape:2-2-153
 \xv Negya mʋ ɔkpa, tsufɛ alawa ɔpá ndɔtɔ.
@@ -9656,7 +9656,7 @@
 \sn
 \ge thorns
 \is 1.5.5
-\de k. o. thorn
+\de kind of thorn
 \xv Bɔlʋ gyablɩ bwɛ mʋ́ ɩpa bun mʋ nwun.
 \xe They wove thorns to make it a hat to put on his head.
 \dt 11/Jul/2014
@@ -11471,7 +11471,7 @@
 \ge stub foot
 \is 2.5.3
 \is 7.7.3
-\de to stub your foot against s.t.
+\de to stub your foot against something
 \xv Isutin ɩhɩɛ bʋ ɔsɩn.
 \xe To knock foot against a stone is very painful.
 \dt 18/Dec/2016
@@ -12430,7 +12430,7 @@
 \ph ɪka(H)
 \ps n
 \sn
-\ge grass, (k.o.)
+\ge elephant grass
 \is 1.5.3
 \de elephant grass
 \xv Ɩka igyi dimbisʋ ɩfa kʋ ánɩ́ tamakɔsɩ wu. Bʋtɛtalɩ pʋ sʋta ɩgyo. Mʋ́ bʋtɔpʋ da ekeyi nɩ.
@@ -12462,7 +12462,7 @@
 \ph ɪka pɛpɛʔ
 \ps n
 \sn
-\ge grass, (k.o.)
+\ge grass
 \is 1.5.3
 \de red grass
 \xv Bʋtɔpʋ ɩka pɛpɛ bwɛ afa.
@@ -13020,7 +13020,7 @@
 \ph ɪɲa
 \ps n
 \sn
-\ge tree, k.o.
+\ge tree
 \de 1.5.1
 \xv Ɩnya oyi tetsia dimbisʋ, bʋtɔpʋ yi mbu.
 \xe The tree is found in the grassland they use it to build houses.
@@ -13164,7 +13164,7 @@
 \ps n
 \sn 2
 \ge measure (n)
-\de a standard measure of s.t.
+\de a standard measure of something
 \xv ɔtatibi pʋ kʋlɛ
 \xe one length of loincloth
 \rf Tape:3-1-156
@@ -13284,7 +13284,7 @@
 \sn 2
 \ge tempt
 \is 3.4.1.4.4
-\de to tempt s.o.
+\de to tempt someone
 \rf Tape:3-1-172
 \xv Masɔ mɩ kɩ.
 \xe Don't tempt me.
@@ -13597,7 +13597,7 @@
 \ph ɪtʊ̃́ʔ
 \ps n
 \sn
-\ge grass, (k.o.)
+\ge grass
 \is 1.5.3
 \de spear grass
 \nt It is the new shoots that are sharp like spears and dangerous to step on.
@@ -13844,7 +13844,7 @@
 \sn
 \ge rebuke
 \is 4.8.4.1
-\de to rebuke s.o. for s.t.
+\de to rebuke someone for something
 \dt 18/Dec/2016
 
 \lx ka hʋn
@@ -13982,7 +13982,7 @@
 \sn 2
 \ge remind
 \is 3.2.6.4
-\de to remind s.o of s.t.
+\de to remind s.o of something
 \rf Tape:3-1-325
 \xv Nɩ ayɔ ɔkpa amʋ a, kaɩn mɩanhɔ mɩ atɔ amʋ.
 \xe When we travel, remind me so that I can buy my things.
@@ -13995,7 +13995,7 @@
 \ge miss
 \is 3.2.6
 \is 3.4.2.1.5
-\de to miss s.o.
+\de to miss someone
 \rf Tape:3-1-329
 \xv Nɩ mlɛnatɩ a, abɛ́kaɩn mlɩsʋ.
 \xe When you go we will miss you.
@@ -14421,7 +14421,7 @@
 \sn
 \ge sparrow
 \is 1.6.1.2
-\de k. o. small bird; a sparrow
+\de kind of small bird; a sparrow
 \dt 24/Feb/2014
 
 \lx keresin
@@ -14643,7 +14643,7 @@
 \pl akɛnkɛ
 \plph akɛŋkɛ(H)
 \sn
-\ge grass, (k.o.)
+\ge grass
 \is 1.5.3
 \de a kind of wild grass
 \xv Kɛnkɛ tɔkɔsɩ dan dʋn dimbisʋ ɩfa trahɛ fɛ́ɛ́. Tamɛ, ɩtɔkɔsɩ wu. Ɩbʋ imi, ɩtɔwɔlɩ wɩ fɛ tʋnkpa.
@@ -14832,7 +14832,7 @@
 \ps n
 \va kikiriki
 \sn
-\ge mushroom, k.o.
+\ge mushroom
 \is 1.5.4
 \is 6.2.5.3
 \de kind of mushroom
@@ -15013,7 +15013,7 @@
 \sn
 \ge expect
 \is 3.2.7
-\de to expect s.t.
+\de to expect something
 \rf Tape:3-1-580
 \xv Mlɩ ɛ, mlɩ nya ɩklʋn kɩ anɩ Wie ɔkpa.
 \xe You also, you be patient and expect our Lord.
@@ -15032,7 +15032,7 @@
 \ge care for
 \is 4.3.4.5.2
 \is 6.1.2.2.5
-\de to care for s.t.
+\de to care for something
 \rf Tape:3-1-580
 \xv Bɛlɛ owie pɔpwɛ amʋ obitɛpʋ odua ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
@@ -15360,7 +15360,7 @@
 \ph klamata(H)
 \ps n
 \sn
-\ge vine, k. o.
+\ge vine
 \is 1.5.3
 \de a straight vine, It is very strong
 \dt 19/Jul/2016
@@ -15867,7 +15867,7 @@
 \ph kóŋkólifí ŋkõnto(H)
 \ps n
 \sn
-\ge grass, k.o.
+\ge grass
 \is 1.5.3
 \de a type of grass which looks like thatch but not good for roofing
 \lt "praying mantis" "badly healed fracture on the shin"
@@ -16350,14 +16350,14 @@
 \is 7.2.2.5.1
 \is 7.3.2.4.1
 \cf sian
-\de to fall and hang from s.t.
+\de to fall and hang from something
 \se kpa wie
 \ps v
 \ge fall into
 \is 7.2.2.5.1
 \is 7.3.2.6
 \is 8.5.1.4
-\de to fall into s.t.
+\de to fall into something
 \cf wie
 \se kpakpa
 \ps v
@@ -16804,7 +16804,7 @@
 \ph k͡pãpulí
 \ps n
 \sn
-\ge grass, (k.o.)
+\ge grass
 \is 1.5.3
 \de short grass
 \xv Kpanpuli tamafʋa fʋn akpawunutɔ. Ɩtɛka aha. Bʋtɔpʋ lʋ itu.
@@ -17025,7 +17025,7 @@
 \cf mblɩkpɛ
 \rf Tape:3-2-515
 \xv Kebi amʋ lakpɛ mblɩ, sʋ bada mʋ. Mʋ́ sʋ aba mblɩkpɛ ma alɛ.
-\xe The child irritated s.o.so they have beaten him. So irritating others is bad.
+\xe The child irritated someone so they have beaten him. So irritating others is bad.
 \rf Tape:3-2-518
 \xv Makpɛ mɩ mblɩ, mɛnɩ mménya ɔblɔ wa fʋ.
 \xe Don't irritate me so that I won't get angry with you.
@@ -17506,7 +17506,7 @@
 \ph k͡plok͡plobi
 \ps n
 \sn
-\ge mushroom, k.o.
+\ge mushroom
 \is 1.5.4
 \is 6.2.5.3
 \de kind of mushroom
@@ -17676,7 +17676,7 @@
 \sn 1
 \ge dirty
 \is 5.6.1
-\de to make s.t. dirty
+\de to make something dirty
 \rf Tape:4-1-067
 \xv Makpɔɩ fʋ atadiɩɛ fututu amʋ. Fʋ ɩwɩ lakpɔɩ sʋ yɔ wɔɩ mʋ́ tswɩ.
 \xe Don't soil your white shirt. You are dirty so go take it (the shirt) off.
@@ -19315,7 +19315,7 @@
 \sn 3
 \ge rescue
 \is 4.4.4.4
-\de to rescue s.o. from s.t.
+\de to rescue someone from something
 \cf ɔlɛpʋ
 \sn 4
 \ge show
@@ -19336,7 +19336,7 @@
 \ps v
 \ge explain
 \is 3.5.1.2.3
-\de to explain s.t. to s.o.
+\de to explain something to someone
 \cf suna
 \cf asɩ1
 \dt 03/Jan/2017
@@ -19524,7 +19524,7 @@
 \sn
 \ge resemble
 \is 8.3.5.2.2
-\de to resemble s.o. or s.t.
+\de to resemble someone or something
 \ng nominal form is ɩlɩan
 \cf kɛkɛ1
 \xv Kebi amʋ lɛlɩan mʋ sɩ.
@@ -19860,7 +19860,7 @@
 \sn
 \ge prepare
 \is 6.1.2.6.1
-\de to arm s.t. e.g., a gun or a trap
+\de to arm something e.g., a gun or a trap
 \xv Ɔlɔfwɩ mʋ otuatɔ a, ma mʋ́ pʋ kpɩsa.
 \xe He washed his gun, loaded it and leaned it up against something.
 \dt 06/Dec/2016
@@ -19898,7 +19898,7 @@
 \sn
 \ge disrespect
 \is 4.5.5.2
-\de to disrepect s. o.
+\de to disrepect someone
 \dt 16/Jul/2016
 
 \lx ma nɩ mɩ nɩ
@@ -20107,7 +20107,7 @@
 \ph mã́ntɛpʊ
 \ps n
 \sn
-\ge mushroom, k.o.
+\ge mushroom
 \is 1.5.4
 \is 6.2.5.3
 \de mantepo mushroom
@@ -21143,7 +21143,7 @@
 \is 1.5.3
 \is 5.2.3.3.3
 \is 6.2.1.3
-\de k.o. herb
+\de kind of herb
 \dt 06/Dec/2016
 
 \lx mpʋsa
@@ -22094,7 +22094,7 @@
 \sn
 \ge cook
 \is 5.2.1.1
-\de to cook s.t.
+\de to cook something
 \rf Tape:5-1-136
 \xv Ogya Lɔtsʋn mɩ agbodi ndɔ amʋtɔ, sʋ mɩ agbodi amʋ lanina.
 \xe Fire passed through my cassava farm so my cassava has cooked.
@@ -23228,7 +23228,7 @@
 \ph ntũmbua
 \ps n
 \sn
-\ge fly, k. o.
+\ge fly
 \is 1.6.1.7
 \de tiny black fly that bites
 \np Needs spelling, tone and glottal check
@@ -23353,7 +23353,7 @@
 \sn 1
 \ge drink
 \is 5.2.2.7
-\de to drink s.t.
+\de to drink something
 \bb Stewart List:2033
 \rf Tape:5-1-451
 \xv Ɔtsɩ amʋ tonun nta dʋbɩ.
@@ -23606,7 +23606,7 @@
 \sn
 \ge smell
 \is 2.3.4
-\de to smell s.t.
+\de to smell something
 \rf Tape:5-1-478
 \xv Nwunfa ofobi amʋ kɩ bɛɛ ɩbʋ ɔfan.
 \xe Smell the pomade and see whether it has scent (you like the smell).
@@ -24260,7 +24260,7 @@
 \ge smoke (v)
 \is 5.5.5
 \is 8.3.7.8.4
-\de to smoke s.t. to preserve it
+\de to smoke something to preserve it
 \rf Tape:5-1-575
 \xv Ndɛ iye ŋɛsɩ.
 \xe I am smoking meat.
@@ -24281,7 +24281,7 @@
 \ge sand
 \is 1.2.2.2
 \is 5.2.1.1
-\de fine sand from a specific k.o. stone
+\de fine sand from a specific kind of stone
 \rf Tape:5-1-028
 \xv Bʋtɔpʋ ŋɛsɩ bwa atɔ.
 \xe They use fine sand for roasting things.
@@ -25597,7 +25597,7 @@
 \ph okekrebeʤe
 \ps n
 \sn
-\ge insect, k. o.
+\ge insect
 \is 1.6.1.7
 \de hopping insect that bites
 \np Needs spelling, tone and glottal check
@@ -25637,7 +25637,7 @@
 \sn
 \ge vine
 \is 1.5.3
-\de k.o. vine
+\de kind of vine
 \na also called agyɔ (perhaps Ewe) and okyimpaɩ (Akan)
 \xv Okikibwie igyi ɩfla, fékiki mʋ́ bwie a, fanya ɩfɛ́ tsɔtsɔɔtsɔ. Bʋtɔpʋ klɩ atɔ, bʋtɔpʋ mʋ́ ɛ ban igyo nɩ.
 \xe Okikibwie is a vine, when it is twisted it splits in order to get more ropes. It is used to bind things and its also used to bind yams.
@@ -25866,7 +25866,7 @@
 \ph ok͡plóto
 \ps n
 \sn
-\ge tree (k.o.)
+\ge tree
 \is 1.5.1
 \de a tree with an inedible fruit like an orange
 \dt 07/Dec/2016
@@ -26366,7 +26366,7 @@
 \ph oníaba(H)
 \ps n
 \sn
-\ge plantain, k.o.
+\ge plantain
 \is 1.5.3
 \is 5.2.3.1.2
 \de A variety of plantain. Oniaba is similar to apɩmba, but has no black seeds in the finger. It is good for ampesie.
@@ -26404,7 +26404,7 @@
 \ge harsh words
 \is 4.7.9.5
 \is 4.8.4.1
-\de to use harsh words to speak to s.o.
+\de to use harsh words to speak to someone
 \rf Tape:7-1-222
 \xv Mapʋ onopi sʋsʋpʋ bla mɩ asʋn.
 \xe Don't talk to me with harsh words.
@@ -26640,7 +26640,7 @@
 \is 6.2.5.4
 \is 6.5.2.2
 \is 6.5.3
-\de k.o. thatch
+\de thatch
 \nq Tone needs to be checked
 \vad pipi
 \ve Northern
@@ -31733,7 +31733,7 @@
 \xe When thunder strikes it destroys things. It can even split a big tree into two.
 \se ɔprada ibwi
 \ps n
-\ge stone, k.o.
+\ge stone
 \is 1.2.2.2
 \de a stone with a flat edge deemed to be thrown by thunder, used figuratively of onions
 \dt 31/Oct/2016
@@ -32935,7 +32935,7 @@
 \ge spice
 \is 5.2.3.3.3
 \is 6.2.5.4
-\de k.o. spice
+\de kind of spice
 \dt 31/May/2016
 
 \lx ɔtswapʋ
@@ -33006,7 +33006,7 @@
 \ps v
 \ge announce
 \is 3.5.1.2.1
-\de to announce s.t.
+\de to announce something
 \xv Balɛ owie amʋ ɔwan suna Ɔmanhene amʋ.
 \xe They have shown the chief to the Paramount Chief.
 \rf Tape:6-1-264
@@ -33079,7 +33079,7 @@
 \ph ɔwɪá
 \ps n
 \sn
-\ge k.o.rat
+\ge rat
 \is 1.6.1.1.4
 \de a type of rat that lives in hole in the ground
 \dt 15/Jul/2016
@@ -33417,7 +33417,7 @@
 \sn 1
 \ge borrow
 \is 6.8.5
-\de to borrow s.t.
+\de to borrow something
 \xv Mma atogyihɛ sʋ nayɛpan ɩkʋ mɩ nyawie ɔkʋ wa ánɩ́ nenya a, nɔ́pʋ ya mʋ.
 \xe I don't have food so I have borrowed some from a friend so that when I get some I will take it back.
 \xv Nɩ fɛ́pan ɔha kɔba a, fɔ́wa ɔsa ka a, ɩtra hian fʋa baha fʋ ɔkɛ.
@@ -33427,14 +33427,14 @@
 \sn 2
 \ge lend
 \is 6.8.5.1
-\de to lend s.t.
+\de to lend something
 \bb Stewart List:1437
 \bb Stewart List:3206
 \ps vt
 \sn 3
 \ge thank
 \is 3.5.1.7.1
-\de to thank s.o.
+\de to thank someone
 \dt 22/Jul/2016
 
 \lx pan
@@ -34133,7 +34133,7 @@
 \ps v
 \ge not take seriously
 \is 3.1.2.3
-\de to underestimate s.o. or s.t.
+\de to underestimate someone or something
 \xv Ɔtɔwa ɔsa nya ɔblɔ. Maplei mʋtɔ.
 \xe He gets angry quickly. Don't underestimate him.
 \dt 12/Dec/2016
@@ -34244,7 +34244,7 @@
 \sn
 \ge wasp
 \is 1.6.1.7
-\de k.o. wasp
+\de kind of wasp
 \dt 30/Sep/2013
 
 \lx potofi
@@ -34378,7 +34378,7 @@
 \ph pɔplɔtɪ(H)
 \ps n
 \sn
-\ge grass, (k.o.)
+\ge grass
 \is 1.5.3
 \de broad leafed grass that resembles millet
 \xv Pɔplɔtɩ igyi dimbisʋ ɩfa fʋahɛ, tamɛ ɩtamalɩɩ dʋn ofi. Mʋ́ atɛ lɛtɛɩ, ɩtɛhɩɛ hɔ obetsu.
@@ -34641,7 +34641,7 @@
 \sn 4
 \ge cram
 \is 4.2.1.7
-\de to crowd around s.o.
+\de to crowd around someone
 \dt 21/Jul/2016
 
 \lx putu
@@ -35412,7 +35412,7 @@
 \ps vi
 \ge hang(execute)
 \is 4.7.7.4
-\de to execute s.o. by hanging
+\de to execute someone by hanging
 \xv Fɔmɔ ɔha a, Aban obésian fʋ.
 \xe If you kill someone the government will hang you.
 \sn 3
@@ -35665,7 +35665,7 @@
 \ph sisãŋ͡mk͡pa
 \ps n
 \sn
-\ge fly, k. o.
+\ge fly
 \is 1.6.1.7
 \de housefly bigger than ordinary
 \cf sisa
@@ -36024,7 +36024,7 @@
 \sn 2
 \ge mourn
 \is 2.6.6.4
-\de to mourn s.o. at their funeral
+\de to mourn someone at their funeral
 \rf Tape:7-1-018
 \xv Aha bʋdesu olitɔ ɩnʋ dʋbɩ.
 \xe People are crying a lot at that funeral.
@@ -36331,7 +36331,7 @@
 \ps v
 \ge succeed
 \is 6.1.3.2
-\de to be succeeding at s.t.
+\de to be succeeding at something
 \ge succeed
 \dt 12/Dec/2016
 
@@ -36382,7 +36382,7 @@
 \ph sʊnswɛ
 \ps n
 \sn
-\ge vine, k.o.
+\ge vine
 \is 1.5.3
 \de a kind of vine with irritating leaves
 \xv Nɩ sʋnswɛ tɔ fʋ a, ɩtɔhɔ ɔsɩn, ɩtɔwɔlɩ.
@@ -36820,7 +36820,7 @@
 \ph takyí
 \ps n
 \sn
-\ge eggplant (k. o.)
+\ge eggplant
 \is 1.5.3
 \is 5.2.3.1.3
 \is 6.2.1.3
@@ -37719,10 +37719,10 @@
 \ph tɪtɪfobí
 \ps n
 \sn
-\ge grass, (k.o.)
+\ge grass
 \is 1.5.3
 \is 2.5.7.7
-\de it is a herb that cures many diseases
+\de a herb that cures many diseases
 \xv Nɩ ɩtɔ da fʋ a, kwɛ tɩtɩfobi manta mʋ́ ɩbɛ́fa, fʋ ɩwɩ bólwii fʋ.
 \xe If you have a boil, grind the herb on it and the boil will burst and you will feel fine.
 \dt 13/Sep/2016
@@ -38018,7 +38018,7 @@
 \pl atɔsɩ
 \plph atɔ́sɪ̂ʔ(L)
 \sn
-\ge caterpillar, k.o.
+\ge caterpillar
 \is 1.6.1.9
 \de a kind of caterpillar. It stings, and is green with long hairs. It live under leaves
 \rf Tape:7-2-031
@@ -38312,7 +38312,7 @@
 \sn
 \ge throw away
 \is 7.4.5.2
-\de to throw s. t. away
+\de to throw something away
 \dt 01/Jun/2016
 
 \lx tsamboyi
@@ -39035,7 +39035,7 @@
 \sn
 \ge fly
 \is 1.6.1.7
-\de k. o. fly
+\de kind of fly
 \np Needs spelling, tone and glottal check
 \dt 14/Jan/2014
 
@@ -39077,7 +39077,7 @@
 \ps v
 \ge add
 \is 7.5.2.3
-\de to take s.t. and add it to s.t.
+\de to take something and add it to something
 \bb Stewart List:2676
 \dt 15/Dec/2016
 
@@ -40000,7 +40000,7 @@
 \sn
 \ge wasp
 \is 1.6.1.7
-\de k.o. wasp
+\de kind of wasp
 \dt 30/Sep/2013
 
 \lx wa
@@ -40065,7 +40065,7 @@
 \ps v
 \ge frighten
 \is 3.4.2.4
-\de to frighten s.o.
+\de to frighten someone
 \bb Stewart List:3264
 \rf Tape:8-1-169
 \xv Negyi ɩban wa mɩ ndɔ.
@@ -41781,7 +41781,7 @@
 \is 2.1.1.4
 \is 2.3.3
 \is 5.2.2
-\de to lick s.t.
+\de to lick something
 \rf Tape:8-2-002
 \xv Alanun nta debidebi sʋ ɔdɛ ɔnɔ asɩ yinta.
 \xe He has drunk sweet wine so he's licking his lips.
