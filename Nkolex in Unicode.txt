@@ -1063,6 +1063,8 @@
 
 \lx aganɛ
 \ph agánɛ(H)
+\vad nyankpʋkpie
+\ve Northern
 \ps n
 \sn
 \ge scorpion
@@ -1071,11 +1073,9 @@
 \sc Order: Scorpiones
 \nt
 \ns Southern dialect
-\vad nyankpʋkpie
-\ve Northern
 \xv Bamɔ aganɛ amʋʋ ɔlɔsʋra kebi amʋ.
 \xe They have killed the scorpion that stung the child.
-\dt 12/Jan/2017
+\dt 13/Jan/2017
 
 \lx Agbagya
 \ph ag͡baʤáʔ
@@ -3108,20 +3108,20 @@
 
 \lx asiɛɩ
 \ph asiɛɪ́ʔ
+\vad asie
+\vadph asiéʔ
+\ve Southern
 \ps n
 \sn
 \ge cemetary
 \is 2.6.6.6
 \de a cemetary
-\vad asie
-\vadph asiéʔ
-\ve Southern
 \bw Akan fi:amusie LLLHʔ
 \rf Tape:1-1-579
 \xv Wulugyiwulu bʋ asiɛɩ, nɩ ɔha owu a, bʋtopula mʋ nʋ.
 \xe Every town has a graveyard. When a person dies they bury him there.
 \cf ntsan
-\dt 12/Jan/2017
+\dt 13/Jan/2017
 
 \lx asiɛntɔ
 \ph asíɛntɔʔ
@@ -7622,13 +7622,13 @@
 \ph dɔ̃ŋkɔtɪ
 \ps n
 \va dankɔntɩ
-\ph dãŋkɔntɪ
+\vaph dãŋkɔntɪ
 \sn
 \ge big wasp
 \is 1.6.1.7
 \de a big wasp
 \np Needs spelling, tone and glottal check
-\dt 01/Oct/2016
+\dt 13/Jan/2017
 
 \lx dɔɔ
 \ph dɔː
@@ -8017,9 +8017,6 @@
 \vad ɔfɛ
 \vadph ɔfɛ́
 \ve Northern
-\vad ɔfɛ bangya
-\vadph ɔfɛ́ banʤa
-\ve Northern
 \pl nfɛ
 \plph ɱfɛ́
 \sn
@@ -8032,7 +8029,7 @@
 \xe I have an axe, it is sharp.
 \cf limba
 \bb Stewart List:1201
-\dt 07/Jan/2017
+\dt 13/Jan/2017
 
 \lx ɛkɛ
 \ph ɛkɛ
@@ -9067,12 +9064,13 @@
 \ph fʊ
 \ps PRO
 \va fʋ-
+\vaph fʊ-
 \sn
 \ge 2S
 \is 9.2.3
 \de you (singular)
 \bb Stewart List:1837
-\dt 01/Oct/2016
+\dt 13/Jan/2017
 
 \lx fʋ
 \hm 2
@@ -10297,7 +10295,7 @@
 \lx ha
 \ph há
 \ps v
-\va han
+\vad han
 \ve Southern
 \sn 1
 \ge give
@@ -10320,7 +10318,7 @@
 \ge cause
 \is 9.6.2.5
 \de to cause or make to happen
-\dt 09/Jan/2017
+\dt 13/Jan/2017
 
 \lx haɩ
 \ph háɪ
@@ -10946,12 +10944,14 @@
 \ph idúsɪ́
 \ps NUM
 \va dusɩ
+\vaph dusɪ́
 \ge tenth
 \sn
 \is 8.1.1.2
 \de tenth
+\nq check tone on dusɩ variant
 \bb Stewart List:1810
-\dt 01/Oct/2016
+\dt 13/Jan/2017
 
 \lx ifin
 \ph ifĩ
@@ -11720,19 +11720,20 @@
 \ph ɪ-
 \ps NOMR
 \va i-
-\ph i
+\vaph i-
 \sn
 \ge NOMR
 \is 9.2.9.2
 \de nominalizer; changes a verb to a noun
 \xv Ɔlɛnatɩ. ɩnatɩ
 \xe He walked. way of walking
-\dt 01/Oct/2016
+\dt 13/Jan/2017
 
 \lx ɩ- -la
 \ph ɪ- -la
 \ps NOMR
 \va -la
+\vaph -la
 \sn
 \ge activity; things
 \is 9.4.2
@@ -11793,7 +11794,7 @@
 \rf Tape:2-2-503
 \xv Anwunsʋ atɔ kɩ wa ɔpá dʋbɩ a, oboyi ɔwula igyi.
 \xe Look up for a long time (as when picking mangos) is an activity that makes the neck sore.
-\dt 01/Oct/2016
+\dt 13/Jan/2017
 
 \lx ɩba
 \hm 1
@@ -12663,7 +12664,7 @@
 \vas kʋlɛ
 \vasph kʊlɛʔ
 \va ɔkʋlɛ
-\vaph kʊlɛʔ
+\vaph ɔkʊlɛʔ
 \vad ɛkʋlɛ
 \vadph ɛkʊlɛʔ
 \ve Southern
@@ -12673,6 +12674,7 @@
 \is 8.1.5.7
 \de each; one; only
 \ec ɩkʋ wʋlɩ "certain one"
+\nq check tone on variants
 \nt has agreement ɔkʋlɛ animate singular ɩkʋlɛ inanimate
 \rf Tape:3-1-015
 \xv Atɔ amʋ fɛɛ mbwɛ amʋ a, nabwɛ mʋ́ fɛ́ɛ́, tamɛ napan kʋlɛsʋ.
@@ -12853,7 +12855,7 @@
 \ph ɪmɛ
 \ps n
 \va mmɛ
-\vaph mmɛ(H)
+\vaph mːɛ(H)
 \sn
 \ge nasal mucous
 \is 2.2.4
@@ -12866,7 +12868,7 @@
 \xv Nɛyɛfɛn ɩmɛ amba.
 \xe I am going to blow my nose and come.
 \bb Stewart List:0085
-\dt 01/Oct/2016
+\dt 13/Jan/2017
 
 \lx ɩmɔ
 \ph ɪmɔʔ(H)
@@ -13239,12 +13241,13 @@
 \ps n
 \vad ɩsɛn
 \vadph ɪsɛ̃ʔ
+\ve Southern
 \sn
 \ge tusk
 \is 1.6.1.1.3
 \is 1.6.2
 \de the tusk of an elephant or boar
-\dt 07/Jan/2017
+\dt 13/Jan/2017
 
 \lx ɩsɩ
 \ph ɪsɪ (H)
@@ -14816,9 +14819,10 @@
 \dt 13/Sep/2016
 
 \lx kikidiki
-\ph kikiriki
+\ph kikidiki
 \ps n
 \va kikiriki
+\vaph kikiriki
 \sn
 \ge mushroom
 \is 1.5.4
@@ -14827,7 +14831,7 @@
 \rf Tape:1-2-200
 \xv Kikidiki tɔkwɛ ɔsʋlʋsʋ. Mʋ́ nwun lɛtɛɩ. Mʋ́ oyi bʋ swɩ. Ɩbʋ ɔlɩn, tamɛ afio oyi bʋ swɩ dʋn mʋ́. Bʋtɛkaka mʋ́ wa oputsutɔ.
 \xe Kikidiki grows in the ground. Its head is wide and its stalk is long. It has roots but afio stalk is longer than it. They cut them up for soup.
-\dt 01/Oct/2016
+\dt 13/Jan/2017
 
 \lx kim
 \ph kimʔ
@@ -15850,11 +15854,12 @@
 \plph akóŋkólifí
 \vad konklofi
 \vadph kóŋklófí
+\ve Southern
 \sn
 \ge praying mantis
 \is 1.6.1.7
 \de praying mantis
-\dt 07/Jan/2017
+\dt 13/Jan/2017
 
 \lx konkolifi nkonto
 \ph kóŋkólifí ŋkõnto(H)
@@ -20548,6 +20553,7 @@
 \ph mɪ́
 \ps PRO
 \va mɩ-
+\vaph mɪ́
 \sn
 \ge me
 \is 9.2.3
@@ -20560,7 +20566,7 @@
 \xv Malala mɩ.
 \xe Don't nag me.
 \bb Stewart List:1836
-\dt 01/Oct/2016
+\dt 13/Jan/2017
 
 \lx mɩm
 \ph mɪ́m(H)
@@ -20764,6 +20770,7 @@
 \ph mmuát͡se
 \ps n
 \vad mmua
+\ve Southern
 \sn
 \ge backyard
 \is 6.5.1.4
@@ -20773,7 +20780,7 @@
 \rf Tape:2-2-422
 \xv Nyankpʋ tswie brɛ a, aha mmuatse tɛbla ɔsasʋ.
 \xe In rainy season people's backyards quickly get full of weeds.
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx mobaɩl
 \ph mobaɪl
@@ -20862,6 +20869,7 @@
 \ph mɔkʊ́ʔ
 \ps TAM
 \va mɔkʋ-
+\vaph mɔkʊ́-
 \sn
 \ge not yet
 \is 9.4.1.2
@@ -20879,7 +20887,7 @@
 \rf Tape:4-2-378
 \xv Omɔkʋ wu. Ɔdɛ ɔŋɛ fʋ.
 \xe He's not yet dead. He's still breathing.
-\dt 18/Dec/2016
+\dt 13/Jan/2017
 
 \lx mɔmʋ
 \ph mɔmʊ
@@ -21194,6 +21202,7 @@
 \ph mʊ (L)
 \ps PRO
 \va mʋ-
+\vaph mʊ-
 \sn
 \ge his/her; him/her; he/she
 \is 9.2.3
@@ -21202,7 +21211,7 @@
 \xv Tsu atɔ amʋ ha mʋ.
 \xe Take the things to him.
 \bb Stewart List:1838
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx mʋ́
 \hm 2
@@ -22609,11 +22618,11 @@
 \ge three
 \is 8.1.1.1
 \de three, variant form
-\va asa2
+\cf asa2
 \ng The -nsa form of asa occurs with certain nouns with n- plural markers. For example, "nkɛnsa- three days". This form is an example of noun concord in noun adjective combinations. This concord is not common in Nkonya, but other Guang have it more extensively. It occurs only with numbers, and only with the numbers 2 through 7, i. e. -nyɔ, -nsa, -nna, -nnu, -nsie, -nsienɔ.
 \np The +ATR forms (nyɔ, -nnu, -nsie, -nsienɔ) cause the word to which they are attached to become +ATR. For example, nkɛ + nsie "days" + "six" becomes nkesie "six days".
 \bb Stewart List:1803
-\dt 19/Oct/2016
+\dt 13/Jan/2017
 
 \lx nsaɩntɔ
 \ph nsaɪntɔ(H)
@@ -22732,14 +22741,15 @@
 \lx -nsie
 \ph nsie (H)
 \ps NUM
+\va asie
+\vaph asie (H)
 \sn
 \ge six
 \is 8.1.1.1
 \de six
-\va asie
 \nt For more information on the asie/nsie variation see the note in the entry for nsa 'three'.
 \bb Stewart List:1806
-\dt 17/Sep/2013
+\dt 13/Jan/2017
 
 \lx -nsienɔ
 \ph nsienɔ́
@@ -22748,10 +22758,9 @@
 \ge seven
 \is 8.1.1.1
 \de seven
-\va sienɔ
 \nt For more information on the sienɔ/nsienɔ variation see the note in the entry for -nsa 'three'.
 \bb Stewart List:1807
-\dt 17/Sep/2013
+\dt 13/Jan/2017
 
 \lx nsɩka
 \ph nsɪ́káʔ
@@ -24114,13 +24123,14 @@
 \ph ɲɔ
 \ps ADJ
 \va -nyɔ
+\vaph -ɲɔ
 \sn
 \ge both
 \is 8.1.1.1
 \de both
 \xv Mɩa fʋ nyɔ abɔ́yɔ yɛkɩ anɩ ayibi.
 \xe You and I will go to inspect our traps.
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx -nyɔ
 \ph ɲːɔ(H)
@@ -24383,8 +24393,8 @@
 \ph obíáʔ(H)
 \ps n
 \vad ebia
+\vadph ebíáʔ(H)
 \ve Southern
-\ph ebíáʔ(H)
 \pl mbia
 \plph mbíáʔ(H)
 \sn
@@ -24403,7 +24413,7 @@
 \cf asesegua
 \cf kantankua
 \bb Stewart List:1179
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx obia
 \hm 2
@@ -26128,8 +26138,8 @@
 \ph olíʔ
 \ps n
 \vad eli
+\vadph elí
 \ve Southern
-\ph elí
 \sn
 \ge funeral
 \is 2.6.6.3
@@ -26139,7 +26149,7 @@
 \xv Oligyioli anfɩ ɩbɛ́ba anfɩ atsɩ bɛɛ bʋhɔ oli tati.
 \xe Every funeral that comes here, women say they should buy funeral cloths.
 \bb Stewart List:1442
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx olin
 \ph olîʔ
@@ -26964,7 +26974,7 @@
 \ph osrebi
 \ps n
 \vad esrebi
-\vadph osrebi
+\vadph esrebi
 \ve Southern
 \pl asirebi
 \plph asirebi
@@ -26975,7 +26985,7 @@
 \xv Osrebiyin lomoni dʋn asrebi trahɛ.
 \xe The thumb is bigger than the rest of the fingers.
 \bb Stewart List:0021
-\dt 07/Jan/2017
+\dt 14/Jan/2017
 
 \lx osrebiyin
 \ph osrebiyĩʔ
@@ -27167,7 +27177,7 @@
 \ph otebiʔ
 \ps n
 \vad etebi
-\ph etebiʔ
+\vadph etebiʔ
 \ve Southern
 \pl ntebi
 \plph ntebiʔ
@@ -27178,7 +27188,7 @@
 \xv Ɔlɔ dɩn oyin ɔkʋ otebisʋ, mʋ́sʋ ɔlɔwa ntʋkʋta a, omenya anatɩlɛ.
 \xe A certain man has a sore on his ankle, he put on shoes and could not walk well.
 \bb SIL-AWL:0069
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx otedu
 \ph oteduʔ
@@ -27893,7 +27903,7 @@
 \ph oyiɱflɛʔ
 \ps n
 \vad eyinflɛ
-\ph eyiɱflɛʔ
+\vadph eyiɱflɛʔ
 \ve Southern
 \pl nyinflɛ
 \plph ɲiɱflɛ
@@ -31127,7 +31137,7 @@
 \ph ɔnaŋkûʔ
 \ps n
 \vad ɛnanku
-\ph ɛnaŋkûʔ
+\vadph ɛnaŋkûʔ
 \ve Southern
 \pl nnanku
 \plph nnaŋkú
@@ -31138,7 +31148,7 @@
 \xv Ɔlɔ ɩdɩn mɩ ɔnakusʋ, sʋ mmɛtalɩ wa ntʋkʋta.
 \xe There's a sore on my heel, I can't wear shoes.
 \bb SIL-AWL:0071
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx ɔnantswie
 \ph ɔnant͡swie(H)
@@ -33634,8 +33644,8 @@
 \ph pɛ́tɛ́plɛ́
 \ps ADJ
 \vad pataplabi
+\vadph pátáplábi
 \ve Southern
-\ph pátáplábi
 \sn
 \ge flat
 \is 8.3.1.3.1
@@ -33644,7 +33654,7 @@
 \xe A Mudfish's head is flat.
 \xv Ibwi amʋ gyi pɛtɛplɛ.
 \xe The stone is flat.
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx pɛtɩ
 \ph pɛ́tɪ́
@@ -35174,6 +35184,7 @@
 \is 8.4.6.3.1
 \de now; immediately
 \va sei
+\vaph séi
 \ve Southern
 \ph séi
 \se sesesei
@@ -35183,7 +35194,7 @@
 \nt Southern dialect uses sei for now, sesei for immediately. Northern uses sesei for now, sesesei for immediately
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
-\dt 09/Jan/2017
+\dt 13/Jan/2017
 
 \lx sɛ
 \hm 1
@@ -35444,6 +35455,7 @@
 \ph sienɔ́
 \ps NUM
 \va nsienɔ
+\vaph nsienɔ́
 \sn
 \ge seven
 \is 8.1.1.1
@@ -35453,7 +35465,7 @@
 \xv Mɩ nfi sienɔsɩtɔ nawie.
 \xe I am now in my seventh year.
 \bb Stewart List:1807
-\dt 03/Oct/2016
+\dt 13/Jan/2017
 
 \lx sienɔsɩ
 \ph sienɔ́sɪ
@@ -37757,7 +37769,9 @@
 \ph tomántosi
 \ps n
 \va ntose
+\vaph ntose
 \va tɔmantɔsɩ
+\vaph tɔmántosi
 \sn
 \ge tomatoes
 \is 1.5.3
