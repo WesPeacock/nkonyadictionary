@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-20T11:25:23-07:00
+
+====== FLex Import Checklist ======
+Created Friday 20 January 2017
+
+checklist for FW import
+1. literal translations
+	a. mark them: perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' <infile >outfile
+2. Subentries
+	a. check sub-entry duplicates as main entries
+	b. promote sub-entries 
+	c. classify sub-entries
+		1. Compound e.g.blackboard 
+
+
+

@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-19T03:46:10-07:00
+
+====== Sample Modify LexEntryRefs ======
+
+<rt class="LexEntryRef" guid="43a33807-c552-407f-858c-3ca919c95d9a" ownerguid="7812eb5e-a686-44cc-ad5c-16b7714c3d8d">
+<ComponentLexemes>
+<objsur guid="89e0f394-277f-4b00-a969-a8cf4e76db97" t="r" />
+</ComponentLexemes>
+<HideMinorEntry val="0" />
+<RefType val="0" />
+</rt>

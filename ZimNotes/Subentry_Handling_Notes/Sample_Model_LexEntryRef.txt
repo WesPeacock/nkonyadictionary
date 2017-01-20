@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-19T14:33:39-07:00
+
+====== Sample Model LexEntryRef ======
+Created Saturday 19 November 2016
+__Highlighted Items__ will be used in the Rebuilt (output) LexEntryRef
+
+<rt class="LexEntryRef" guid="796934bc-d7d5-4e16-a6b8-4367d651ae2d" ownerguid="8a65d98e-7f37-4236-886f-39f35992882f">
+__<ComplexEntryTypes>__
+__<objsur guid="fec038ed-6a8c-4fa5-bc96-a4f515a98c50" t="r"/>__
+__</ComplexEntryTypes>__
+<ComponentLexemes>
+<objsur guid="35850fc2-db2a-4cea-9781-dbb53e9244e6" t="r"/>
+</ComponentLexemes>
+<HideMinorEntry val=__"0"__/>
+__<PrimaryLexemes>__
+<objsur guid="35850fc2-db2a-4cea-9781-dbb53e9244e6" t="r"/>
+__</PrimaryLexemes>__
+<RefType val=__"1"__/>
+__<ShowComplexFormsIn>__
+<objsur guid="35850fc2-db2a-4cea-9781-dbb53e9244e6" t="r"/>
+__</ShowComplexFormsIn>__
+</rt>

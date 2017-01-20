@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-19T11:02:10-07:00
+
+====== Sample INI file ======
+Created Thursday 19 January 2017
+
+[se2lx]
+; Todo change se2lx.pl to
+;     put the regexes that terminate the \se entries here
+;     also the default tags that hackFWvariants will look for e.g. \ve Complex_Form
+
+[hackFWvariants]
+modeltag=Model Unspecified Complex Entry
+modifytag=Complex_Form
+infilename=Nktest.fwdata
+outfilename=Nktest.new.fwdata
+
+[hackFWNonFreeTranslation]
+; don't use xml tags for start/end tags
+;   the xml parser will (of course) read the text as structure 
+NonFreeTranslationStarttag=xl:
+NonFreeTranslationEndtag=/xl:
+NonFreeTranslationType=Literal translation
+; NonFreeTranslationType=xyzzy
+; NonFreeTranslationType=each other
+FreeTranslationType=Free translation
+infilename=Nktest.fwdata
+outfilename=Nktest.new.fwdata

@@ -1,0 +1,66 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-01T07:46:51-06:00
+
+====== Subentries Under Senses ======
+Created Tuesday 01 November 2016
+
+===== Assumptions =====
+	all \se have only a single unmarked sense
+	all \se entries have a \ps marker
+		Well perhaps the se2lx script could import the \ps from head/sense
+			Mine won't because I entered the \ps markers
+			May not be worth the effort
+				many complex [[\]]se are head+nom/verb/adj-izer
+	all these belong to the \se not the head:
+		\xv/\xe example sentences
+		\bb bibliographic info
+		\sc scientific name
+		\n* various notes
+		
+	\se is terminated by \sn, \se, \dt or (\ps followed immediately by \sn)
+				'\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?##\\sn))'
+
+
+===== Preprocessing =====
+	all the assumtions should be true
+	To Toolbox view \se as full entries for checking in tmp/subent.sfm:
+		$ grep \\_sh in.sfm >tmp/subents.sfm && dos2unix <in.sfm |  perl -pe 's/\n*$/##/' |perl -pe 's/##\\lx/\n\\lx/g' | grep -oP '\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?##\\sn))' |perl -pe 's/\\se/\\lx/g; s/##/\n/g' | unix2dos >>tmp/subents.sfm
+		
+
+===== Script Notes =====
+Script se2lx promotes \se entries to \lx
+	adds a \mn marker
+		\mn "$head$homograph $sensenumber"
+	updates \dt under head and subentry
+	for all \lx entries & \_id line, call perl with -pf  options
+	for just newly promoted \lx entries, call perl with -nf options
+
+
+===== Tips =====
+grep needs -P (perl regex) option to get non-greedy matches and lookahead
+
+code is easier when each entry is on a separate line with lf rather than crlf
+	e.g. convert \n to ## except before \lx.
+			before:
+				dos2unix <in.sfm |  perl -pe 's/\n*$/##/' |perl -pe 's/##\\lx/\n\\lx/g' 
+			after:
+				perl -pe 's/##/\n/g' | unix2dos >out.sfm
+
+To get the \_sh from the input file put the above lines inside:
+	before:
+		head -n 1 <in.sfm >out.sfm &&
+	after:
+		change the >out.sfm to >>out.sfm
+		
+Sample command line for se entries that got promoted:
+	head -n 1 <da-din-org.sfm >da-din-se-promoted.sfm && dos2unix <da-din-org.sfm |  perl -pe 's/\n*$/##/' |perl -pe 's/##\\lx/\n\\lx/g' |perl -nf Scripts/se2lx.pl | perl -pe 's/##/\n/g' | unix2dos >>da-din-se-promoted.sfm
+	
+Sample command line for all entries:
+	dos2unix <da-din-org.sfm |  perl -pe 's/\n*$/##/' |perl -pe 's/##\\lx/\n\\lx/g' |perl -pf Scripts/se2lx.pl | perl -pe 's/##/\n/g' | unix2dos >>da-din-se-all.sfm
+
+
+===== Postprocessing =====
+Need a script to change the fwdata file properly
+This may use XMLStarlet
+

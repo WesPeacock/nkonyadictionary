@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-19T12:03:38-07:00
+
+====== Entry in FW after ======
+Created Thursday 19 January 2017
+
+Note that two guids for the /Translation/Type differ by a single digit in the 8th position. This is a co-incidence that should happen about once every 70,000 years.
+
+<rt class="LexExampleSentence" guid="19ad5b2a-86b0-4308-84a3-8c703ddcb83a" ownerguid="a3601e59-81b4-47f2-afe4-5fb3295e7136">
+<Example>
+<AStr ws="nko">
+<Run ws="nko">Anɩ atati bɛ́da aba.</Run>
+</AStr>
+</Example>
+<Translations>
+<objsur guid="651dd54e-33d0-43d6-9aab-8f3db8983e42" t="o" />
+<objsur guid="4b91edfc-3131-4ae1-b41c-60362c5febdf" t="o" />
+</Translations>
+</rt>
+
+
+<rt class="CmTranslation" guid="651dd54e-33d0-43d6-9aab-8f3db8983e42" ownerguid="19ad5b2a-86b0-4308-84a3-8c703ddcb83a">
+<Translation>
+<AStr ws="en">
+<Run ws="en">We will meet later.</Run>
+</AStr>
+</Translation>
+<Type>
+<objsur guid="d7f7164a-e8cf-11d3-9764-00c04f186933" t="r" />
+</Type>
+</rt>
+
+<rt class="CmTranslation" guid="4b91edfc-3131-4ae1-b41c-60362c5febdf" ownerguid="19ad5b2a-86b0-4308-84a3-8c703ddcb83a">
+<Translation>
+<AStr ws="en">
+<Run ws="en">Our cloths will touch each other.</Run>
+</AStr>
+</Translation>
+<Type>
+<objsur guid="d7f7164b-e8cf-11d3-9764-00c04f186933" t="r" />
+</Type>
+</rt>

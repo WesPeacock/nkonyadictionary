@@ -1,0 +1,77 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-18T12:18:27-07:00
+
+====== NonFree Translation Hack ======
+Created Wednesday 18 January 2017
+Using Zim v 0.65
+
+===== Pseudocode for hacking Translations other than Free translations in FW project =====
+
+=== Why? ===
+The current FieldWorks (v 8.3.1beta) SFM import assumes that all translations of an example sentence are Free translations and concatenates them separated by ';<space>' This hack will separate out NonFree (currently "Back translation" or "Literal translation" — See the Translation Types list in FLex) translation as a separate translation of the corresponding translation type.
+
+=== Preprocess ===
+In the SFM file before importing, mark the NonFree translation with a special beginning and end marker. Don't use XML markers because the FW database is an XML file and the parser will parse the text as records.
+	# in the examples I've used "xl:" and "/xl:" as markers for the literal translations in \xl
+	# Here's a perl one-liner to do that:
+	# perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' <infile >outfile
+Import the SFM file into Flex
+
+=== Inputs with examples (see the ini file) ===
+[hackFWNonFreeTranslation]
+# don't use XML tags for your start/end tags
+NonFreeTranslationStarttag=xl:
+NonFreeTranslationEndtag=/xl:
+NonFreeTranslationType=Literal translation
+FreeTranslationType=Free translation
+infilename=Nktest.fwdata
+outfilename=Nktest.new.fwdata
+
+=== The script: ===
+If InputProject + ".lock" exists:
+	exit with a error "Don't run this script while FW is running"
+Set the inputs from the ini file
+Read & Parse InputProject into an XML structure
+
+get freeguid = the guid for Free Translation Type
+	with appropriate checks (exists & is a CmPossibility)
+
+get nonfreeguid = the guid for the NonFree Translation Type
+	with appropriate checks (exists & is a CmPossibility)
+	# my ($transtypert) = $nktree->findnodes(q#//*[contains(., '# . $transtype . q#')]/ancestor::rt#);
+	# my $transtypeguid=$transtypert->getAttribute('guid');
+
+for each $transToModifyrt in list of all rt's that contain the starttag {
+	get the Run text
+	extract the the NonFreeText (delimited by start & end tags)
+	remove the NonFreeText + trailing or preceding ';<space>'
+	write back the remaining text into the Run text
+	
+	rtstring = stringify $transToModifyrt
+	in rtstring {
+		replace the freeguid with nonfreeguid
+		replace the rtguid with a new guid
+		# $newguid = lc Win32::GuidGen() =~ s/\{|\}//gr;
+		replace the Run text with the NonFreeText
+		# \>$runstring\</Run> is the search string — ignore any attributes
+		}
+	build a new rt node from rtstring
+	insert the new node after $transToModifyrt
+
+	ownerpointer=Find the rtguid in the Translations list of the owner Node
+	# findnodes('//Translations/objsur[@guid=$rtguid]')[0]
+	stringify the ownerpointer node
+	replace the $rtguid with $newguid in the string
+	create a new node from the string
+	insert the new node in the Translations list after ownerpointer 
+	}
+	
+Write the XML structure
+
+===== End of Pseudocode =====
+
+[[+Entry in FW before]]
+[[+Entry in FW after]]
+[[+Sample INI file]]
+

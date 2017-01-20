@@ -1,0 +1,155 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-15T15:08:42-07:00
+
+====== Subentry Handling notes ======
+Created Tuesday 15 November 2016
+Author: Wes Peacock
+Using Zim(v0.65) 
+
+===== Pseudocode for hacking Variants in FW project =====
+
+=== Why? ===
+The current FieldWorks (v 8.3.1beta) SFM import assumes that all refences to other entries are variants. This process allows you to change that.
+
+=== Preprocess ===
+In FLex make a FW entry that looks the way you want your subentries to look. This can be a dummy entry that's deleted when you've changed the subentries. 
+Somewhere in the Entry put some unique text.
+	E.g., "***Model Unspecified Complex Entry***" in the Import Residue field
+In the script this is called ModelTag. # It marks the lexical entry that has the model reference to another entry
+
+In FLex, or the imported SFM file, or perl script that builds it, put a text into each sub-entry that will be changed into the Model type of Reference
+	E.g. "**Complex_Form**" in the Import Residue field; \ve Complex_Form in the SFM file
+In the script this is called ModifyTag. It marks all the entries that should be changed to the model
+
+This script will find all the  Entries that contain the ModifyTag
+It will convert their references to their main entries so they are same type as the Model Entry.
+
+=== Inputs with examples (see the ini file) ===
+[hackFWvariants]
+modeltag="**Model Unspecified Complex Entry**"
+modifytag="**Complex_Form**"
+infilename=Nktest.fwdata
+outfilename=Nktest.new.fwdata
+
+=== The script: ===
+If InputProject + ".lock" exists:
+	exit with a error "Don't run this script while FW is running"
+Read & Parse InputProject into an XML structure
+
+Get the Owner of the ModelTag
+	# Owner is the end of the trail of ownerguids until you reach a LexEntry or no more ownerguids
+From the Owner 
+	Get the first guid  in the EntryRefs (xpath('./EntryRefs/objsur/@guid'))
+	# This is the guid of the rt that will be used as a model
+	That rt is the ModelLexEntryRef
+	from the ModelLexEntryRef
+		save string versions of:
+			val attribute of HideMinorEntry that is ('./HideMinorEntry/@val');
+			val attribute of RefType, that is: ('./RefType/@val');
+			ComplexEntryTypes node ("./ComplexEntryTypes");
+		set modelHasAPrimaryLexeme flag if there's a PrimaryLexeme node
+		set modelHasAShowComplexFormsIn flag if there's a ShowComplexFormsIn node
+		# Are there other nodes to track?
+
+ModifyList is a list of all the RTs that contain a ModifyTag
+	# xpath   '//*[contains(., "//ModifyTag")//]/ancestor::rt'
+foreach occurence in ModifyList:
+	get the Owner of the ModifyTag
+	the guid of EntryRef to modify is found at the xpath  './EntryRefs/objsur/@guid'
+		i.e. the first of the list EntryRef objsurs
+	If the EntryRef doesn't exist
+		print error message "This LexEnt doesn't refer to any other Lexents"
+		go to next List item
+	In the rt of that EntryRef xpath '*//rt[@guid="//EntryRefguid//"]'
+		change the val attribute of the HideMinorEntry node to the val from the Model version
+		change the val attribute of the RefType node to the val from the Model version
+		Create a ComplexEntryTypes node from the Model ComplexEntryTypes string
+		Get the guid from the ComponentLexemes/objsur node
+		If modelHasAPrimaryLexeme create a PrimaryLexeme node
+		If modelHasAShowComplexFormsIn create a ShowComplexFormsIn node
+		Delete the VariantEntryTypes node if it exists
+	Log the Owner as having been changed.
+	
+Write the XML structure
+
+===== End of Pseudocode =====
+
+
+===== Other Notes: =====
+
+You may need to install the Config::Tiny module if you get the error
+	Can't locate Config/Tiny.pm in @INC (you may need to install the Config::Tiny module)
+At the shell:
+	cpan install Config::Tiny
+
+The script can be run multiple times with different models and modify tags
+	E.g. a second run to fix up Phrasal Verbs:
+		[hackentrytypes]
+		ModelTag="***Model Phrasal Verb***"
+		ModifyTag="**Phrasal_Verb**"
+
+Don't use a quote character (single or double)  in either the model tag or the modifier tag
+
+Powershell doesn't like Unicode. If you don't don't redirect STDOUT:
+At the shell:
+	chcp 65001
+I doubt this will work for all complex alphabets YUMV: Your Unicode may vary.
+
+Location of FLex database:
+	C:\ProgramData\SIL\FieldWorks\Projects\Nktest\Nktest.fwdata
+
+
+=== Code Snippets: ===
+pythonic initial stuff (see below for installing lxml)
+from lxml import etree
+nktree = etree.parse('./Nktest.fwdata')
+def printrt( guid, tree = nktree):
+	print(etree.tostring(nktree.xpath("//rt[starts-with(@guid, '" + guid + "')]")[0], pretty_print=True, encoding='unicode'))
+
+perlish initial stuff — some of this stuff, particularly config stuff is expanded in the script
+	# LibXML already included in Strawberry perl
+	use 5.016;
+	use strict;
+	use warnings;
+	use utf8;
+	
+	use open qw/:std :utf8/;
+	use XML::LibXML; # already included in Strawberry perl
+	use Config::Tiny
+	my $filename = 'Nktest.fwdata';
+	my $nktree = XML::LibXML->load_xml(location => $filename);
+	
+
+Pythonic xpath of ownerguid:
+path = "//*[@guid='" + xguid + "']/@ownerguid"
+
+Pythonic print the XML of the path variable:
+print(etree.tostring(nktree.xpath(path)[0], pretty_print=True, encoding='unicode'))
+
+Pythonic path of guid for entry containing dzn by itself
+xguid = nktree.xpath("//rt[@class='MoStemAllomorph']/Form/AUni[text()='dzn']/../../@guid")[0]
+
+python installing lxml
+	from http://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml download: lxml‑3.6.4‑cp27‑cp27m‑win32.whl 
+	lxml‑3.6.4‑cp27‑cp27m‑win_amd64.whl   *** for py 2.7
+	lxml‑3.6.4‑cp34‑cp34m‑win32.whl
+	lxml‑3.6.4‑cp34‑cp34m‑win_amd64.whl
+	lxml‑3.6.4‑cp35‑cp35m‑win32.whl
+	lxml‑3.6.4‑cp35‑cp35m‑win_amd64.whl   *** for python 3.5
+	lxml‑3.6.4‑cp36‑cp36m‑win32.whl
+	lxml‑3.6.4‑cp36‑cp36m‑win_amd64.whl
+then run 
+	pip2 .../lxml‑3.6.4‑cp27‑cp27m‑win_amd64.whl
+	or
+	pip3 .../lxml‑3.6.4‑cp35‑cp35m‑win_amd64.whl
+
+
+===== Sample Files: =====
+[[+Sample INI File]]
+
+[[+Sample Model LexEntryRef]]
+
+[[+Sample Modify LexEntryRefs]]
+
+[[+Sample Rebuilt LexEntryRef]]

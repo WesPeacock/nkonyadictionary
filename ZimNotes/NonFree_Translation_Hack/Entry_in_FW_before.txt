@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-01-19T11:59:09-07:00
+
+====== Entry in FW before ======
+Created Thursday 19 January 2017
+
+<rt class="LexExampleSentence" guid="19ad5b2a-86b0-4308-84a3-8c703ddcb83a" ownerguid="a3601e59-81b4-47f2-afe4-5fb3295e7136">
+<Example>
+<AStr ws="nko">
+<Run ws="nko">Anɩ atati bɛ́da aba.</Run>
+</AStr>
+</Example>
+<Translations>
+<objsur guid="651dd54e-33d0-43d6-9aab-8f3db8983e42" t="o" />
+</Translations>
+</rt>
+
+<rt class="CmTranslation" guid="651dd54e-33d0-43d6-9aab-8f3db8983e42" ownerguid="19ad5b2a-86b0-4308-84a3-8c703ddcb83a">
+<Translation>
+<AStr ws="en">
+<Run ws="en">xl:Our cloths will touch each other./xl:; We will meet later.</Run>
+</AStr>
+</Translation>
+<Type>
+<objsur guid="d7f7164a-e8cf-11d3-9764-00c04f186933" t="r" />
+</Type>
+</rt>
