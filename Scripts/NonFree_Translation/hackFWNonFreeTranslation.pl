@@ -46,8 +46,10 @@ if ($freetypert->getAttribute('class') ne "CmPossibility") {
 	say "I found the string: '", $freetype, "' but it isn't in a Translation Type list";
 	exit;
 	}
+
 my $freetypeguid = $freetypert->getAttribute('guid');
 say "Free translation guid is $freetypeguid" ;
+#Todo instead of exiting if the first is not a  CmPossibility, keep looking and only exit if you don't find any; same below.
 
 my ($transtypert) = $nktree->findnodes(q#//*[contains(., '# . $transtype . q#')]/ancestor::rt#);
 if (!$transtypert) {
