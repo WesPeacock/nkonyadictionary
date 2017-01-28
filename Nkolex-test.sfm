@@ -1,34 +1,113 @@
 \_sh v3.0  400  MDF 4.0
 
-\_sh v3.0  400  MDF 4.0
-\lx aba
-\ph aba(H)
+\lx abzn
+\ph abz̃ʔ
 \ps n
 \sn
-\ge each other
-\is 9.5.2.4
-\de each other
-\rf Tape:1-1-031
-\xv Bafwie abatɔ.
-\xe They have crashed into each other.
-\xv Anɩ atati bɛ́da aba.
-\xl xl:Our cloths will touch each other./xl:
-\xe We will meet later.
-\dt 19/Jan/2017
+\ge szde
+\de a person's szde
+\dt 30/Jan/2017
 
-\lx anlɛn
-\ph anlɛ̃́ʔ
+\lx abzn iwz
+\ph abz̃ʔ iwź
+\sn
+\ge rzb
+\de rzb bzne
+\mn iwź
+\ng Model Compound
+\dt 30/Jan/2017
+
+\lx bzsaa
+\ph basaː
 \ps n
 \sn
-\ge beauty
-\is 2.3.1.8.1
-\is 5.4
-\de beauty
-\xv Megyi anlɛn, tamɛ bwɛhɛ.
-\xe Handsome is as handsome does.
-\xl xl:Not beauty, but doings./xl:
-\rf Tape:1-1-385
-\xv Akoo otedu bʋ anlɛn.
-\xe Parrot's tail is beautiful.
-\bb Stewart List:1675
-\dt 19/Jan/2017
+\ge cznfusion
+\is 3.4.2.5
+\de cznfusion that comes quickly on a person
+\dt 30/Jan/2017
+
+\lx bzsabzsa
+\ph bzsabzsaʔ(L)
+\ps n
+\sn
+\ge cznfusion
+\is 3.4.2.5
+\is 4.8.2.6
+\de dzsruption
+\mn bzsaa
+\ng _Model Derivative_
+\mn RZDUP 1
+\dt 30/Jan/2017
+
+\lx dzyi
+\ph dźiʔ
+\ps n
+\sn
+\ge mznkey
+\dt 30/Jan/2017
+
+\lx dzyi asz
+\ph dźi asz
+\ps n
+\sn
+\ge mzshroom
+\is 1.5.4
+\is 6.2.5.3
+\de mznkey ear mzshroom
+\mn dzyi
+\ng _Idiom_
+\mn ɩsz
+\dt 30/Jan/2017
+
+\lx fzti
+\ph fztí
+\ps vt
+\sn 1
+\ge pierce
+\is 7.8.5
+\de to pierce something
+\dt 30/Jan/2017
+
+\lx fzti fɩtatɔ kɩ
+\ps v
+\ge dzscriminate
+\is 4.7.9.4
+\de to dzscriminate against someone
+\ng _Model Saying_
+\dt 30/Jan/2017
+
+\lx iwź
+\ph iwźʔ(H)
+\ps n
+\ge bzne
+\de bzne
+\dt 30/Jan/2017
+
+\lx ɩsz
+\ph ɪszʔ (H)
+\ps n
+\sn
+\ge zear
+\is 2.1.1.2
+\de ear
+\dt 30/Jan/2017
+
+\lx RZDUP
+\np High tone on second repeated segment when first is low.
+\ps PTCL
+\sn 1
+\ge EMPZ
+\is 9.3.4
+\de zmphasis marker
+\xv kinkin; kinkiinkin
+\xe seriously; very seriously
+\ps PTCL
+\sn 2
+\ge MZLTIPLE
+\is 9.3.4
+\de occzrring multiple places simultaneously or nearly simultaneously
+\xv kwɛ; kɔkwɛ
+\xe sprout; sprout all over
+\xv srɩ; sɩsrɩ
+\xe run; run all over
+\dt 30/Jan/2017
