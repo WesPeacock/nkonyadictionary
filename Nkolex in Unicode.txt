@@ -54,10 +54,10 @@
 \is 9.4.3.2
 \de bound morpheme particle indicating a desired reaction
 \xv Nɩ mlɔyɔ a, amlɩkɩ asɩ.
-\xe When you(pl.) go, you(pl.) should take care. (Look down! Watch where you are walking!)
-\xe Go, and take care.
+\xl When you go, you should look down.
+\xe Go, and take care.  (Look down! Watch where you are walking!)
 \rf Tape:1-1-024
-\dt 29/Aug/2016
+\dt 28/Jan/2017
 
 \lx -a
 \hm 1
@@ -193,7 +193,6 @@
 \rf Tape:1-1-038
 \xv Abansʋrʋ tsɔ wulu yiletɔ.
 \xe There are many storied buildings in a big town.
-\xe A large town has many story buildings.
 \ps n
 \sn 2
 \ge upstairs
@@ -203,7 +202,7 @@
 \xv Nɔyɔ abansʋrʋtɔ.
 \xe I will go upstairs.
 \bw Akan fi:bansʋrʋ LHH
-\dt 20/May/2016
+\dt 28/Jan/2017
 
 \lx abanyɔ
 \ph abaɲɔ́
@@ -321,9 +320,8 @@
 \de easy to break
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that is not flexible is easy to break.
-\xe A rigid or brittle stick is easy to break.
 \rf Tape:1-1-083
-\dt 13/Dec/2016
+\dt 28/Jan/2017
 
 \lx abielɛ
 \ph abíelɛ (L)
@@ -337,9 +335,8 @@
 \xe easy to bathe
 \xv Okunkutɔ a, otsulu bʋ abielɛ.
 \xe When its hot, cold water is good for bathing.
-\xe When the weather is warm it is pleasant to bath in cold water.
 \rf Tape:1-1-095
-\dt 13/Dec/2016
+\dt 28/Jan/2017
 
 \lx abiolɛ
 \ph abíolɛ
@@ -350,10 +347,9 @@
 \is 6.3.4
 \de easy to butcher (open and gut – remove the intestines)
 \xv Ɔbwɩ ánɩ́ aladan a, ɔbʋ abiolɛ dʋn ɔmʋa ɔmɔkʋ dan.
-\xe An animal that has grown is easier to butcher (open and remove the intestines) than one that has not grown.
 \xe It's easier to butcher an adult animal than a young one.
 \rf Tape:1-1-088
-\dt 13/Dec/2016
+\dt 28/Jan/2017
 
 \lx abɩn
 \ph abɪ̃ʔ
@@ -622,9 +618,8 @@
 \bw Akan fi:adansɩ LHH
 \xv Asa fɔ́yɔ asʋn ogyikpa a, fódunka ɔha ánɩ́ obégyi fʋ adansɩɛ.
 \xe Before you go to arbitration, you will search for the person that will be your witness.
-\xe Before you take your case to arbitration you look for a witness on your behalf.
 \rf Tape:1-1-130
-\dt 28/Nov/2016
+\dt 28/Jan/2017
 
 \lx Adenkensu
 \ph adɪ̃ŋkɪ̃nsúʔ (H)
@@ -836,11 +831,11 @@
 \is 9.2.3.4
 \de how much; how many
 \xv Fʋ atɔ amʋ afɩnɩ, afɩnɩ?
-\xe Your things, how much?
+\xl Your things, how much, how much?
 \xe How much are your things?
 \rf Tape:1-1-153
 \bb Stewart List:1604
-\dt 05/Jan/2017
+\dt 28/Jan/2017
 
 \lx afɩta
 \ph afɪtâːʔ(L)
@@ -931,8 +926,8 @@
 \sg ifu
 \sgph ifu(H)
 \xv Oyi ánɩ́ mʋ́ wɩ bʋ afu a, bʋtamapʋ sre oplimbi.
-\xe A tree that has bumps, they never take and carve into a pestle.
-\xe They never carve a pestle out of a bumpy pole, sapling.
+\xl A tree that has bumps, they never take and carve into a pestle.
+\xe They never carve a pestle out of a bumpy sapling.
 \bb Stewart List:0973
 \sn 2
 \ge foam
@@ -941,7 +936,7 @@
 \de foam, from soap or bubbles
 \xv Ɔkwaɩ amʋ ma ogya, mʋ́ sʋ ɩtama lɩn afu.
 \xe The soap is not good and so it does not produce foam.
-\dt 30/Sep/2016
+\dt 28/Jan/2017
 
 \lx afu
 \hm 2
@@ -992,7 +987,7 @@
 \ge lie
 \is 3.5.1.3.2
 \de a lie
-\xe Afunu wa ma alɛ. Tsufɛ, Bulu ɔbɛ́ɛ, afunupʋ bʋmɛ́ɛba mʋ iwie ogyikpa ɩnʋ.
+\xv Afunu wa ma alɛ. Tsufɛ, Bulu ɔbɛ́ɛ, afunupʋ bʋmɛ́ɛba mʋ iwie ogyikpa ɩnʋ.
 \xe Telling lies is bad, because God says, liars will not come to his kingdom (heaven) there.
 \rf Tape:1-1-166
 \xv Ɔhaa tamawa afunu dʋn Afuakebi Wurupong wulu anfɩtɔ.
@@ -1004,7 +999,7 @@
 \ge lie
 \is 3.5.1.3.2
 \de to tell a lie
-\dt 16/Jan/2017
+\dt 28/Jan/2017
 
 \lx afutɔ
 \ph afútɔ́ʔ(L)
@@ -1101,6 +1096,8 @@
 \lx agbodi
 \ph ag͡bodiʔ
 \ps n
+\vad agbedi
+\vadph ag͡bediʔ
 \sn
 \ge cassava
 \is 5.2.3.1.5
@@ -1110,10 +1107,9 @@
 \bw Ewe fi:agbeli LLL
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi gari, konkonte pʋ́ agbodi mbɔdɩ.
 \xe They take cassava and make many foods. Some of these are, gari, konkonte, and cassava dough.
-\xe They use cassava to make many foods including gari, konkonte, and cassava dough.
 \rf Tape:1-1-190
 \bb Stewart List:0908
-\dt 10/Jan/2017
+\dt 28/Jan/2017
 
 \lx agbwi
 \ph ag͡bwí
@@ -1151,12 +1147,12 @@
 \de coconut
 \sc Cocos nucifera
 \ec Ewe "Agɔ de" - Agɔ palm Agɔ is near Kpalime in Togo
-\xv Agode toswie mʋ́ oyɩtɔ, ɔkpɩtsatɔ.
-\xe Coconut bears in its tree in a cluster.
-\xe A coconut tree bears its fruit in a cluster.
+\xv Agode toswie mʋ́ oyitɔ, ɔkpɩtsatɔ.
+\xl Coconut bears in its tree in a cluster.
+\xe A coconut bears its fruit in a cluster at the trunk.
 \rf Tape:1-1-205
 \bb Stewart List:0869
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx agoo
 \ph ágôː
@@ -1207,11 +1203,10 @@
 \de dried tree bark
 \xv Atɩtɩfɔ bʋtɔpʋ nyi agya fwɩ bua amʋ́ mbu.
 \xe Those who lived in the olden days, they took tree bark and roofed their houses.
-\xe Those who lived in olden times used tree bark to roof their houses.
 \nt It was used for walls rather than roof -FO
 \cf oyi ɔma
 \rf Tape:1-1-218
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx agyabi
 \ph aʤabi
@@ -1307,11 +1302,11 @@
 \de to whisper
 \bw Akan fi:agyina LLH
 \xv Omedekle ánɩ́ ɔhaa onu amʋ́ asʋn amʋtɔ sʋ a, olotu mʋ agyɩna.
-\xe She isn't wanting that nobody he hears their matter, so she advised him in a whisper.
+\xl She isn't wanting that nobody he hears their matter, so she advised him in a whisper.
 \xe She didn't want anyone to hear so she whispered her advice.
 \rf Tape:1-1-254
 \cf nklobitɔ
-\dt 10/Jan/2017
+\dt 28/Jan/2017
 
 \lx agyɩndɩ
 \ph aʤɪndɪ(H)
@@ -1320,15 +1315,15 @@
 \ge fog
 \is 1.1.3.2
 \is 1.1.3.3
-\de mist, fog
+\de mist; fog
 \xv Agyɩndɩ tɛdalɩ dɩnka bʋsʋ nyankɩ. Nɩ fʋbʋ bʋsʋ a, agyɩndɩ amʋ tɔbwɛ ntsubi fɛ nyankpʋ.
-\xe Mist appears on the mountain in the morning. If you are on the mountain, the fog makes water droplets like rain.
+\xl Mist appears on the mountain in the morning. If you are on the mountain, the fog makes water droplets like rain.
 \xe The mountain is misty in the mornings. If you go there the mist makes droplets like rain.
 \rf Tape:1-1-260
 \xv Agyɩndɩ detswie.
 \xe The mist is falling.
 \bb Stewart List:1046
-\dt 07/Sep/2016
+\dt 28/Jan/2017
 
 \lx Agyoa
 \ph aʤóá
@@ -1380,10 +1375,10 @@
 \is 5.2.1.2.1
 \de the peelings or skins from cassava, plantain, yam, also maize husks, peanut shells, mango skins
 \xv Fesre atogyihɛ ánɩ́ fɛ́nɩna mʋ́ a, fapʋ agyɔ fwɩ amʋ ha akufa mʋa akpala.
-\xe If you peel foodstuff that you will cook, you give the peelings to sheep and goats.
+\xl If you peel foodstuff that you will cook, you give the peelings to sheep and goats.
 \xe When you peel staples you cook them and give the peelings to the sheep and goats.
 \rf Tape:1-1-273
-\dt 03/Jan/2017
+\dt 28/Jan/2017
 
 \lx agyʋma
 \ph aʤʊ́má
@@ -1552,10 +1547,10 @@
 \de a pair of scissors
 \bw Akan fi:akapɛ LLH
 \xv Anɩtɔpʋ akapɛ dɩnkɩ anɩ imi nɩ ɩbla.
-\xe We use scissors to cut our hair when it is long.
+\xl We use scissors to cut our hair when it is long.
 \xe When our hair is too long we cut it with scissors.
 \rf Tape:1-1-306
-\dt 10/Jan/2017
+\dt 28/Jan/2017
 
 \lx akatsa
 \ph akat͡sa(H)
@@ -1961,7 +1956,7 @@
 \de house on the farm, out of town
 \bw Akan fi:akuda
 \xv Nda akuda, sʋ mɩ ndɔtɔ agyʋma tɔwa mɩ ɔsa.
-\xe I sleep at (my) village so my farm work always goes quickly for me.
+\xl I sleep at (my) village so my farm work always goes quickly for me.
 \xe Because I sleep at my village I can get my farm work done quickly.
 \rf Tape:1-1-358
 \xv Plei dɛsɔ a, owi dɛ nkudasɩfɔ ta.
@@ -1969,7 +1964,7 @@
 \nt A proverb used to imply that it is time to stop playing and get to work. The people living out on their farms should have stopped in time to walk home before darkness fell.
 \bb Stewart List:1152
 \cf ibu
-\dt 20/May/2016
+\dt 28/Jan/2017
 
 \lx akudasɩ
 \ph akudasɪ
@@ -1994,10 +1989,10 @@
 \de a magical object buried in the courtyard of a house to provide protection
 \na Unlike suma, akunta does not require ongoing sacrifices. The object may be the head of an animal or bones of a dead person. -FO
 \xv Aha ánɩ́ bɛblɩ a, nɩ bʋdɛ woyi yi a, bʋtegyankpa wa akunta woyi amʋtɔ, pʋ tin amʋ́ wɩ.
-\xe Those that are hot (involved in juju), if they are erecting a house, they always first put an akunta in the house to protect (as in putting in a stopper) themselves.
-\xe Juju practitioners first bury a magical object on the site for protection when they are building a house.
+\xl People that are hot, when they are erecting a house, they always first put an akunta in the house to protect (as in putting in a stopper) themselves.
+\xe Juju practitioners first bury a magical object on the building site for protection.
 \rf Tape:1-1-364
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx akunta
 \hm 2
@@ -2037,15 +2032,15 @@
 \is 5.2.2.5
 \de hunger
 \xv Akʋn dɛ mɩ.
+\xl Hunger holds me.
 \xe I am hungry.
-\xe Hunger holds me.
 \bb Stewart List:1414
 \sn 2
 \ps n
 \ge famine
 \is 6.2.5.2
 \de a time of famine
-\dt 28/Nov/2016
+\dt 28/Jan/2017
 
 \lx akʋnbɩ
 \ph akʊnbɪ
@@ -2133,7 +2128,7 @@
 \xe If someone says he has faith but his works don't show it, which profit does his faith have.
 \bb Stewart List:1558
 \xv Nɩ bosuna fʋ tɔkʋ bwɛ a, fʋ ɛ bwɛ mʋ́ alɩ kɛn.
-\xe When they teach you to do something, you also should do it the same way.
+\xl When they teach you to do something, you also should do it the same way.
 \xe You should emulate your teacher.
 \rf Tape:1-1-403
 \ps n
@@ -2144,7 +2139,7 @@
 \rf Tape:1-1-391
 \xv Alɩ gyi nɩ? Ee! Alɩ igyi nɩ.
 \xe Depending on intonation either a question, Is that how it is? or a response, yes that's how it is.
-\dt 17/May/2016
+\dt 28/Jan/2017
 
 \lx alɩa
 \ph alɪá(L)
@@ -2154,7 +2149,7 @@
 \is 9.5.1.4
 \de how it is; contraction of alɩ ánɩ́
 \xv Alɩa ɩlɔbwɛ asa ɔyɩ lɛba a, Bulu pɛ yin.
-\xe How it was before the world came, only God knows.
+\xl How it was before the world came, only God knows.
 \xe Only God knows how things were before the world was made.
 \rf Tape:1-1-407
 \rf Tape:4-1-166
@@ -2163,7 +2158,7 @@
 \cf alɩagyialɩa
 \cf alɩagyialɩa igyi
 \cf alɩ
-\dt 17/May/2016
+\dt 28/Jan/2017
 
 \lx alɩagyialɩa
 \ph alɪáʤialɪá
@@ -2221,10 +2216,10 @@
 \de news; tidings
 \bw Akan fi:amanɩɛ LLHH
 \xv Ɔfɔɔ amʋ ɔbɛɛ, mʋ amandɩɛ mɛ?
-\xe The stranger he said, his news was what?
+\xl The stranger he said, what about his news?
 \xe What was the stranger's news?
 \rf Tape:1-1-416
-\dt 10/Jan/2017
+\dt 28/Jan/2017
 
 \lx amandɩɛ
 \hm 2
@@ -2464,10 +2459,9 @@
 \is 9.2.3.5
 \de this one
 \xv Anɩ fɛ́ɛ́ anɩgyi afɔɔ ɔyɩ anfɩtɔ.
-\xe We all, (we) are strangers in this world.
 \xe We all are strangers in this world.
 \rf Tape:1-1-456
-\dt 10/Jan/2017
+\dt 28/Jan/2017
 
 \lx anɩ
 \ph anɪ(H)
@@ -2502,7 +2496,6 @@
 \de that; relative clause
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, ɩbʋ abialɛ.
 \xe A stick that is not flexible is easy to break.
-\xe A rigid or brittle stick is easy to break.
 \rf Tape:1-1-083
 \rf Tape:1-1-506
 \xv Ɔha ánɩ́ ɔlɛtɩn ansɩ a, ɔtɔwa ɔsa bɩ atɔ.
@@ -2511,7 +2504,7 @@
 \xv Nɛbla kebi amʋ ánɩ́ ɔkʋsʋ natɩ ba.
 \xe I told the child that he should get up and walk come.
 \bb Stewart List:1847
-\dt 10/Jan/2017
+\dt 28/Jan/2017
 
 \lx anɩmka
 \ph animka(H)
@@ -2545,7 +2538,9 @@
 \ge very real
 \is 3.5.1.3.5
 \de very particularly
-\dt 30/Oct/2016
+\mn REDUP 1
+\ng **Derivative**
+\dt 20/Jan/2017
 
 \lx anlɛn
 \ph anlɛ̃́ʔ
@@ -2885,10 +2880,10 @@
 \is 8.1.7.4
 \de day old fufu
 \xv Apondo gyi fufu ánɩ́ ɔyɩ lakɛ mʋ́sʋ. Aha tsɔtsɔɔtsɔ bʋtekle mʋ́ gyi, tsufɛ mʋ́a abɛ oputsu bʋ agyilɛ.
-\xe Apondo is fufu that the world has lightened on (the day has broken on). Many people like to eat it because it and palm nut soup have palatability.
-\xe Apondo is yesterday's fufu. Many people like it because it is good with palm nut soup.
+\xl Apondo is fufu that the world has lightened on. Many people like to eat it because it and palm nut soup have palatability.
+\xe Apondo is fufu from overnight. Many people like it because it is good with palm nut soup.
 \rf Tape:1-1-537
-\dt 28/Nov/2016
+\dt 28/Jan/2017
 
 \lx apopobibre
 \ph apopobíbre
@@ -2921,12 +2916,12 @@
 \is 6.2.5.3
 \de a kind of spice
 \xv Apʋsɛ toswie mʋ́ flasʋ wa oyitɔ. Bʋtɔkwɛ mʋ́ wa oputsutɔ. Ɩtɔhɔ ɔsɩn, ɩtɛha oputsu amʋ tɔwa ɔfan.
-\xe Spice grows on its vine, which climbs on a tree. They grind it and put it into the soup. It makes it hot and gives the soup a nice scent.
+\xl Spice grows on its vine, which climbs on a tree. They grind it and put it into the soup. It makes it hot and gives the soup a nice scent.
 \xe Spice grows on a climbing vine. It is ground and put in soup. It adds warmth and fragrance to the soup.
 \rf Tape:1-1-553
 \xv Apʋsɛ oputsu bʋ ɔdwɛ.
 \xe Spice soup is sweet.
-\dt 29/Nov/2016
+\dt 28/Jan/2017
 
 \lx asa
 \hm 1
@@ -3149,8 +3144,7 @@
 \bw Akan fi:asikre LHH
 \xv Agyawugya babla asikre daka amʋ.
 \xe The little red ants have filled the sugar box.
-\xe The sugar box is full of little red ants.
-\dt 31/May/2016
+\dt 28/Jan/2017
 
 \lx asimasi
 \ph asímasi(H)
@@ -3161,10 +3155,10 @@
 \de a certain person, but you don't want to say the person's name. The person you are talking to know the identity but you want to keep it from a third party
 \bw Akan fi:asimasi LHLH
 \xv Asimasi ɔbɛɛ, ɔbɛ́ba ndɛ, sʋ mayɔ ɔtɩnɛtɩnɛ.
-\xe That person we know about (but someone else doesn't) said he would come today so don't go anywhere.
-\xe Don't go anywhere because you know who is coming.
+\xl That person we know about (but someone else doesn't) said he would come today so don't go anywhere.
+\xe Don't go anywhere because "you know who" is coming.
 \rf Tape:1-1-583
-\dt 20/May/2016
+\dt 28/Jan/2017
 
 \lx asɩ
 \hm 1
@@ -3216,11 +3210,11 @@
 \is 4.1.9.1
 \de descendants
 \xv Mʋ asɩ bɛ́klɛɩ.
-\xe Her offspring will multiply.
+\xl Her offspring will multiply.
 \xe She will have many descendants.
 \rf Tape:1-1-588
 \cf obi
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx asɩba
 \ph asɪbá
@@ -3430,10 +3424,10 @@
 \de disobedience
 \lt asʋtɔ "in ear" ɔnlɩn "hard"
 \xv Kebi ánɩ́ ɔbʋ asʋtɔlɩn a, mʋ akwɩɩpʋ ansɩ tamagyi mʋ wɩ.
-\xe The child that is disobedience, his parents are never happy with him.
-\xe Parents of a disobedient child are never happy with him.
+\xl The child that has disobedience, his parents are never happy with him.
+\xe Parents are never happy with a disobedient child.
 \cf ma bu
-\dt 29/Sep/2016
+\dt 28/Jan/2017
 
 \lx ata anyɔ
 \ph ataɲɔʔ(H)
@@ -3514,8 +3508,7 @@
 \ec atɔ gyi hɛ - "eaten things"
 \xv Bʋtɔpʋ agbodi bwɛ atogyihɛ tsɔtsɔɔtsɔ. Ɩkʋ aná gyi; gari, konkonte pʋ́ agbodi mbɔdɩ.
 \xe They take cassava and make many foods. Some of these are, gari, konkonte, and cassava porridge.
-\xe They use cassava to make many foods including gari, konkonte, and cassava porridge.
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx atohianhɛ
 \ph atohiã́hɛʔ
@@ -3708,10 +3701,10 @@
 \de common bean
 \sc Phaseolus vulgaris
 \xv Bʋtɔpʋ atse gyi wʋdɩ.
-\xe They eat beans with porridge.
+\xl They eat beans with porridge.
 \xe Beans are eaten with porridge.
 \bb Stewart List:0916
-\dt 10/Jan/2017
+\dt 28/Jan/2017
 
 \lx atsialɛ
 \ph at͡siálɛ́
@@ -3720,9 +3713,9 @@
 \ge comfortable
 \is 2.3.5.1
 \de comfortable to sit on
-\xv woyi odua ansigyi bʋ mʋ́tɔ a, ɩbʋ atsialɛ.
-\xe The house that has happiness in it, it's has good sitting.
-\xe A loving household is pleasant to live in.
+\xv Woyi odua ansigyi bʋ mʋ́tɔ a, ɩbʋ atsialɛ.
+\xl The house that has happiness in it, it has good staying.
+\xe A happy household is pleasant to live in.
 \rf Tape:1-2-106
 \se nya atsialɛ
 \ps v
@@ -3732,7 +3725,7 @@
 \rf Tape:1-2-102
 \xv Olenya atsialɛ.
 \xe He was sitting pretty.
-\dt 30/Oct/2016
+\dt 28/Jan/2017
 
 \lx atsufolibi
 \ph at͡sufolibi (L)
@@ -3743,10 +3736,10 @@
 \de hail
 \lt ntsu "water" nfɔlɩ "salt" a- -bi "seeds"
 \xv Brɛ kʋtɔ a, nɩ nyankpʋ detswie a, atsufolibi tɛkpa.
-\xe Sometimes, when it is raining, hail falls.
+\xl Sometimes, when it is raining, hail falls.
 \xe It sometimes hails when it rains.
 \rf Tape:1-2-117
-\dt 29/Sep/2016
+\dt 28/Jan/2017
 
 \lx atsufu
 \ph at͡sufú
@@ -3846,13 +3839,14 @@
 \ge saliva
 \is 2.2.3
 \de saliva
+\nq The normal verb fro atsʋnɔ is tu, but how do you translate "to drool"
 \xv Nɩ atsɩ akʋ bʋdɛ ɔmɛ a, bʋtotu atsʋnɔ dʋbɩ.
-\xe When some women are pregnant they spit/toss saliva too much.
+\xl When some women are pregnant they spit saliva too much.
 \xe Some pregnant women salivate a lot.
 \rf Tape:1-2-112
 \bb Stewart List:0046
 \bb SIL-AWL:0093
-\dt 17/May/2016
+\dt 28/Jan/2017
 
 \lx atswɩrɛ
 \ph at͡swɪrɛ (H)
@@ -4203,7 +4197,7 @@
 \xv Nɛbla ɔtsɩ amʋ ánɩ́ nɛ́ba, tamɛ mmɛtalɩ yɔ.
 \xe I told the woman that I will (would) come but I wasn't able to go.
 \xv Mlɩ ɛ, mlɩnya klʋn amlɩkɩ Anɩ Wie ɔkpa. Mʋ ba lawie woyi.
-\xe You(pl.) also get your heart (be patient) and you should and watch Our Lord's road (expect him). His coming has reached the house (his return is imminent).
+\xl You(pl.) also get your heart (be patient) and you should and watch Our Lord's road (expect him). His coming has reached the house (his return is imminent).
 \xe You also should patiently expect Our Lord. His return is imminent.
 \bb Stewart List:2452
 \cf ɩba4
@@ -4214,7 +4208,7 @@
 \de to come to a time
 \xv Ɔhagyiɔha mʋ owukɛ bɛ́ba.
 \xe For everybody, the day of their death will come.
-\dt 30/Oct/2016
+\dt 28/Jan/2017
 
 \lx ba
 \hm 2
@@ -4230,10 +4224,10 @@
 \xe If you are splitting firewood, and you are not careful, you cut yourself with the axe.
 \bb Stewart List:2777
 \xv Ɔtɩnɛ ánɩ́ ntsu tɛtɩa a, nɩ lɩlɩ dɛlɩn a, ɔsʋlʋ amʋ tɛbaba.
-\xe The place that water stands, if harmattan comes the ground cracks.
-\xe Swampy ground cracks and dries out in the dry season.
+\xl The place that water stands, when harmattan comes the ground cracks.
+\xe Swampy ground cracks in the dry season.
 \rf Tape:1-2-293
-\dt 14/Jun/2016
+\dt 28/Jan/2017
 
 \lx baagɩ
 \ph baːgɪ
@@ -4393,12 +4387,12 @@
 \ge branch
 \is 1.5.5
 \de branch
-\xv Ka oyi wʋlɩhɛ bambi ha mɩanpʋ wa ogya.
-\xe Cut a dry tree's branch for me so that I will be able to/should put it on the fire.
+\xv Ka oyi wʋlɩhɛ bambi ha mɩ anpʋ wa ogya.
+\xl Cut a dry tree's branch for me so that I will be able to/should put it on the fire.
 \xe Cut a dry branch for me to put on the fire.
 \rf Tape:1-2-335
 \bb Stewart List:0852
-\dt 12/Jun/2014
+\dt 28/Jan/2017
 
 \lx basaa
 \ph basaː
@@ -4421,12 +4415,14 @@
 \is 3.4.2.5
 \is 4.8.2.6
 \de confusion; disruption
-\cf basaa
+\mn basaa
+\mn REDUP 1
+\ng **Derivative**
 \xv Ɔtɩnɛ ánɩ́ olu pʋ́ ɔnsɩpɛ bʋ a, basabasa sɔɔn tetsia nʋ.
-\xe The place that hatred and jealousy is, only confusion is there.
+\xl xl**The place that hatred and jealousy is, only confusion is there./xl**; Where there is hatred and jealousy there will be confusion.
 \xe Where there is hatred and jealousy there will be confusion.
 \rf Tape:1-2-344
-\dt 20/Jul/2016
+\dt 25/Jan/2017
 
 \lx batafɔ
 \ph batafɔʔ(H)
@@ -4626,9 +4622,9 @@
 \de to approach somewhere
 \cf bɛɩn
 \xv Atsu ndɔ aba, anɩlɛbɛnkɛ woyi a, anɩlonu okitikiti.
-\xe We were coming from farm. We were just approaching a house when we heard a lot of noise.
+\xl We were coming from farm. As we were just approaching the house when we heard a lot of noise.
 \xe As we were approaching town from farm we heard a lot of noise.
-\dt 05/Jan/2017
+\dt 28/Jan/2017
 
 \lx bɛnsɩ
 \ph bɛ́nsɪʔ
@@ -4656,13 +4652,12 @@
 \rf Tape:1-2-407cc
 \xv Nɩ fosutin, ɩmɛtɩn a, obugya tɛkpa tɩa nʋ. Ɔlɔ amʋ ta a, ɩnʋ tebi.
 \xe If you stub your toe and it isn't cut, the blood gathers and stands there. When the sore is finished it becomes black.
-\xe He has dyed her hair black.
 \rf Tape:6-2-514
 \xv Ogyasi amʋ labi gyadɩ amʋtɔ ɩnʋ tuun.
 \xe Smoke has completely blackened the kitchen there.
 \bb Stewart List:2271
 \cf bibi
-\dt 17/Dec/2016
+\dt 28/Jan/2017
 
 \lx -bi
 \ph -bi
@@ -4752,9 +4747,12 @@
 \is 7.8.1
 \is 8.4.6.6.3
 \de break repetitively
+\mn bia2
+\mn REDUP 2
+\ng **Derivative**
 \xv Olebiabia mʋ́tɔ ha aha amʋʋ bʋtsie ɩnʋ amʋ.
 \xe He broke it up for the people sitting there.
-\dt 17/Dec/2016
+\dt 20/Jan/2017
 
 \lx biagyi
 \ph biaʤi
@@ -4788,10 +4786,10 @@
 \is 6.2.5.3
 \de the fruit or the seeds of the egusi plant
 \xv Mɩ biam laswie bʋla oyi tɩntɩɩntɩn kʋ. Mmeyin alɩa nɔ́bwɛ asa nɔ́kpɔtɩ mʋ́.
-\xe My egusi has born many fruit in a tall tree. I don't know how that I will make before I harvest it. (I don't know how I will pick them).
-\xe My egusi grew up into a tall tree, I don't know how I will be able to pick them.
+\xl My egusi has born many fruit in a tall tree. I don't know how that I will make before I harvest it. (I don't know how I will pick them).
+\xe My egusi have grown up in a tall tree, I don't know how I will be able to pick them.
 \rf Tape:1-2-429
-\dt 30/Nov/2016
+\dt 28/Jan/2017
 
 \lx bian
 \ph biãʔ
@@ -4844,14 +4842,16 @@
 \ge black
 \is 8.3.3.3.2
 \de black
-\cf bi
+\mn bi
+\mn REDUP 1
+\ng **Derivative**
 \rf Tape:1-2-439
 \xv Kwankwadabi ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe The crow's back is black, it's chest is white.
 \xv Klankpa ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe The crow's back is black, it's chest is white.
 \bb Stewart List:1682
-\dt 17/Dec/2016
+\dt 20/Jan/2017
 
 \lx bie
 \ph bieʔ(L)
@@ -4861,7 +4861,7 @@
 \is 5.6.2
 \de to bathe
 \xv Nɩ fotsu ndɔ ba, febie ntsu a, ipian amʋ tɔkʋsʋ fʋsʋ.
-\xe If you come from farm and you bathe, the fatigue leaves you.
+\xl When you come from farm and you bathe, the fatigue leaves you.
 \xe When you bathe after coming from farm it refreshes you.
 \rf Tape:1-2-443
 \rf Tape:1-2-448
@@ -4878,7 +4878,7 @@
 \de to menstruate
 \xv Nɩ atsɩ bebie a, bʋtamatsia akpɩpʋ woyitɔ, tsufɛ bʋtekisi.
 \xe When women menstruate, they do not stay in fetish priests' house, because it is a taboo.
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx bie ɔkla
 \ph bie ɔkláʔ
@@ -4914,11 +4914,11 @@
 \is 6.3.4
 \de to butcher an animal
 \xv Bio batɛ amʋ afʋlɛ mʋ wɩtɔ atɔ tsitsa. Afʋkaka ayie amʋ wa ɔlankatɔ nɩna mʋ́.
-\xe Butcher the fowl and remove its inside things and throw them away. You should cut the meat in pieces into a cooking pot and cook it.
-\xe When you kill a chicken, gut it and throw the innards away. Then chop it up into a pot and cook it.
+\xl Butcher the fowl and remove its inside things and throw them away. You should cut the meat in pieces into a cooking pot and cook it.
+\xe When you kill a chicken, gut it and throw the entrails away. Then chop it up into a pot and cook it.
 \rf Tape:1-2-458
 \bb Stewart List:2875
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx bita
 \ps n
@@ -5246,11 +5246,11 @@
 \xv Ɔlɛblɩ ánɩ́ ɔbɛ́ba, saa ɔdɛ mɩ mlɛ; sʋ ɔmɛba.
 \xe He said that he would come, unexpectedly he was deceiving me so he didn't come.
 \xv Ɔha ánɩ́ ɔblɔ tɔkɔsɩ kɩta mʋ a, tɛblɩ asʋnkpan.
+\xe A person who gets angry often, says evil words.
 \rf Tape:1-2-378
 \xv Nɛblɩ mbɛɛ, nɔ́yɔ ndɔ.
 \xe I said, I say I will go to farm.
-\xe A person who gets angry often, says evil words.
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx blɩ
 \hm 2
@@ -5267,7 +5267,7 @@
 \is 8.3.4
 \de to be cooked
 \xv Nɩ atɔ amʋ blɩ a, swɩɩ mʋ́ yaɩ.
-\xe If the thing is cooked remove it (from fire) and put it down.
+\xl When the thing is cooked remove it (from the fire) and put it down.
 \xe When the thing is cooked take it off the fire.
 \bb Stewart List:2252
 \rf Tape:1-2-518
@@ -5282,7 +5282,7 @@
 \xe If you play with juju it will destroy you.
 \rf Tape:1-2-515
 \bb Stewart List:2252
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx blɩ ogya
 \ph blɪ oʤáʔ (H)
@@ -5363,8 +5363,8 @@
 \de plantain
 \bw Akan fi:brɔdɩ LH
 \xv Blɔdɩ pɛpɛ tɔhɛ mʋ́a kɩtɩba bwahɛ bʋ agyilɛ.
-\xe Baked (over coals) ripe plantain and dry fried peanuts are good to eat.
-\xe Roast plantain and peanuts are good to eat.
+\xl Baked (over coals) ripe plantain and dry fried peanuts are good to eat.
+\xe Roasted plantain and peanuts are good to eat.
 \rf Tape:1-2-527
 \bb Stewart List:0906
 \cf ahʋrotia
@@ -5372,7 +5372,7 @@
 \cf apɩmba
 \cf ata anyɔ
 \cf oniaba
-\dt 30/Sep/2016
+\dt 28/Jan/2017
 
 \lx blɔpʋ
 \ph blɔpʊ́
@@ -5496,10 +5496,9 @@
 \de to surround something
 \xv Ntsu lobomli wulu amʋ. Sʋ, ɔklʋntɔ bʋtetsia yɔ wulu amʋtɔ.
 \xe Water surrounds the town. So they use boats to get there.
-\xe The town is surrounded by water so they use boats to go there.
 \bb Stewart List:2469
 \bb Stewart List:2470
-\dt 28/Nov/2016
+\dt 28/Jan/2017
 
 \lx bon
 \ph bõʔ(L)
@@ -5743,7 +5742,7 @@
 \is 8.4.6.6.2
 \de sometimes
 \xv Brɛ kʋtɔ a, nɩ nyankpʋ detswie a, atsufolibi tɔkpa.
-\xe Sometimes, if it rains, hail falls.
+\xl Sometimes, when it rains, hail falls.
 \xe It sometimes hails when it rains.
 \rf Tape:1-2-435
 \lt brɛ ɩkʋ
@@ -5751,7 +5750,7 @@
 \ps TIME
 \ge some time
 \de a certain (but unspecified) time
-\dt 29/Sep/2016
+\dt 28/Jan/2017
 
 \lx brɛkʋtɔ
 \ph brɛ́kʊtɔ
@@ -5770,7 +5769,9 @@
 \is 7.2.2.8
 \is 8.1.3.1
 \de shaking very much
-\dt 13/Dec/2016
+\mn REDUP 1
+\ng **Derivative**
+\dt 20/Jan/2017
 
 \lx brigyi
 \ph briʤi
@@ -5852,8 +5853,8 @@
 \is 4.5.5
 \de to be a respectful person
 \xv Kebi anfɩ tobu atɔ.
-\xe This child here respects things.
-\xe Free: This is a respectful child.
+\xl This child here respects things.
+\xe This is a respectful child.
 \rf Tape:2-1-024
 \ps vt
 \sn 2
@@ -5861,7 +5862,7 @@
 \is 4.5.4.1
 \de to obey someone
 \bb Stewart List:3266
-\dt 30/Oct/2016
+\dt 28/Jan/2017
 
 \lx bu
 \hm 2
@@ -5948,11 +5949,11 @@
 \is 4.9.1
 \de creator god; sky god
 \xv Bulu tɔdwɛ ɔhagyiɔha, ɔtɛha nyankpʋ totswie wʋlɩ aha lalahɛ pʋ́ aha wanklaan atɔsʋ.
-\xe God loves everyone. He makes rain fall and water evil people and good peoples things.
+\xl God loves everyone. He makes rain fall and water evil people and good people's things.
 \xe God loves everyone and sends rain to the to the evil and the good.
 \rf Tape:1-2-532
 \bb Stewart List:0273
-\dt 22/Jul/2016
+\dt 28/Jan/2017
 
 \lx Bumbula
 \ph bumbula
@@ -6256,7 +6257,9 @@
 \ge prepare multiple
 \is 6.1.2.6
 \de prepare multiple things
-\dt 12/Dec/2016
+\mn REDUP 2
+\ng **Derivative**
+\dt 20/Jan/2017
 
 \lx bʋla
 \ph bʊ́lá
@@ -6826,8 +6829,10 @@
 \ge centipede
 \is 1.6.1.9
 \de centipede
+\mn REDUP 2
+\ng **Derivative**
 \sc Genus: Sceliphron
-\dt 10/Jan/2017
+\dt 20/Jan/2017
 
 \lx dakpikpi
 \ph dak͡pík͡pí
@@ -7137,8 +7142,9 @@
 \xe The case concerns me too.
 \bb Stewart List:2664
 \xv Fʋdɛ aye asʋn a, aye tɛba.
-\xe Lit: If you hold a meat case, meat will come.
-\xe If you talk about a case, a similar case will occur. (You should not speak about bad news lest it happen to you.)
+\xl If you hold a meat case, meat will come.
+\xe If you talk about a case, a similar case will occur
+\na You should not speak about bad news lest it happen to you.
 \ps v
 \sn 3
 \ge trouble
@@ -7146,7 +7152,7 @@
 \de to be ill in a certain place
 \xv Q: Fʋ nkʋnʋ dɛ fʋ? A: Mɩ ɔmɛ́ɛtɔ dɛ mɩ. Ɩdɛ mɩ ki.
 \xe Where is it troubling you? My stomach. It is making me nauseated.
-\dt 10/Sep/2016
+\dt 28/Jan/2017
 
 \lx dɛ
 \hm 2
@@ -7469,7 +7475,13 @@
 \rf Tape:2-1-343
 \xv Dɩnka ansɩ wɩsʋ.
 \xe Beware of yourself.
-\dt 19/Dec/2016
+\sn 3
+\ge according to
+\de according to 
+\xv Fabwɛ dɩnka mɩ ɔmɛsʋ.
+\xl You have done what I said.
+\xe You have respected me.
+\dt 28/Jan/2017
 
 \lx dɩnkɩ
 \ph dɪ́ŋkɪ́
@@ -7529,11 +7541,13 @@
 \is 8.4.5.2
 \is 9.4.4
 \de already; emphatic
+\mn dodo
+\mn REDUP 1
+\ng **Derivative**
 \rf Tape:1-2-435
 \xv Nɔwa fʋ sumbi dodoodo amʋ a, biansʋ faba nɩ?
 \xe I sent you on an errand a long time ago and just now you have come? (That is, what took you so long?)
-\cf dodo
-\dt 06/Oct/2016
+\dt 20/Jan/2017
 
 \lx dɔ
 \hm 1
@@ -7680,12 +7694,15 @@
 \sn
 \ge daub
 \is 5.4.2
-\de reduplication of dua – daub repetitively
+\de daub repetitively
+\mn dua
+\mn REDUP 2
+\ng **Derivative**
 \xv Akɔmfɔ amʋ bapʋ ofuli duadua atabi amʋ wɩ.
 \xe Priestesses have taken white and daubed it on the twins.
 \na They use the mouth of a bottle to put the clay on in white circles.
 \rf Tape:2-1-371
-\dt 12/Jan/2017
+\dt 20/Jan/2017
 
 \lx duana
 \ph dúana
@@ -7907,7 +7924,9 @@
 \ge very heavy
 \is 8.2.9.1
 \de very heavy
-\dt 01/May/2016
+\mn REDUP 1
+\ng **Derivative**
+\dt 20/Jan/2017
 
 \lx dwɩɩ
 \ph dwɪːʔ
@@ -9210,15 +9229,16 @@
 \is 8.4.6.1
 \de to begin
 \rf Tape:2-2-061
-\xv Bɔpʋ amʋ agyʋma amʋ fʋn ɔkpatɔ, bɛɛ ndɛ bɔ́yɔ mʋ sʋ.
-\xe They have begun the work (Lit:They have taken their work reached the path) They say today they will continue working on it.
+\xv Bɔpʋ amʋ agyʋma amʋ fʋn ɔkpatɔ, bɛɛ ndɛ bɔ́yɔ mʋ́ sʋ.
+\xl They took their work reached a place. They say today they will go on it.
+\xe They have begun the work.They say today they will continue working on it.
 \cf fi asɩ
 \se yɔ fʋn
 \ps v
 \ge until
 \is 8.4.6.1.4
 \de until
-\dt 31/Oct/2016
+\dt 28/Jan/2017
 
 \lx fʋnaa
 \ph fʊ́naː
@@ -9320,10 +9340,10 @@
 \de to be mad (euphemism)
 \lt key has been lost
 \xv Mʋ saafɩ lafwɩ.
+\xl His key is lost.
 \xe He is mad.
-\xe Lit: His key is lost.
 \rf Tape:2-2-097
-\dt 01/Nov/2016
+\dt 28/Jan/2017
 
 \lx fwɩ
 \hm 2
@@ -9706,8 +9726,8 @@
 \ps n
 \ge eyeglasses
 \is 2.3.1.9
-\ee lit. 'eye traps' from the shape of the fish trap
-\dt 29/Nov/2016
+\ee 'eye traps' from the shape of the fish trap
+\dt 28/Jan/2017
 
 \lx gyampi
 \ph ʤampí
@@ -10357,12 +10377,11 @@
 \de to disturb someone
 \xv Ɔma ha mʋ́ ɩhan mʋ.
 \xe He shouldn't let it disturb him.
-\xe He shouldn't let it worry him.
 \rf Tape:2-2-321
 \xv Fʋ dɛpʋ fʋ woyitɔ asʋn han mɩ dʋbɩ.
 \xe You are disturbing me with your family problems too much.
 \bb Stewart List:3233
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx hankɔpʋ
 \ph haŋkɔpʊ́
@@ -10769,16 +10788,15 @@
 \is 6.2.1.7
 \de palm kernel
 \rf Tape:1-1-070
-\xv Bebi dɩ ɔsʋlʋtɔ wa ɔpá a, ɩtɔkwɛ mlin ɔbɛ.
+\xv Bebi dɩ ɔsʋlʋtɔ wa ɔpá a, ɩtɔkwɛ mli ɔbɛ.
 \xe If a palm nut stays in the ground a long time it will germinate, turn into a palm tree.
 \rf Tape:1-2-357
-\xv Abebi dɩ ɔsʋlʋtɔ wa ɔpá a, ɩtɔkɔkwɛ mlin mbɛ.
-\xe If palm nuts stay in the ground they germinate, turn into palm trees.
-\xe When palm nuts stay in the ground they germinate and produce palm trees.
+\xv Abebi dɩ ɔsʋlʋtɔ wa ɔpá a, ɩtɔkɔkwɛ mli mbɛ.
+\xe When palm nuts stay in the ground a long time, they germinate, turn into palm trees.
 \rf Tape:1-1-077
 \rf Tape:1-2-362
 \cf abɛ
-\dt 01/Dec/2016
+\dt 28/Jan/2017
 
 \lx ibi
 \ph ibí (H)
@@ -11214,11 +11232,10 @@
 \de beard
 \xv Oyin dɛhɛn amʋ ikwi lafuli fututu.
 \xe The old man's beard has turned white.
-\xe The old man's beard has become gray.
 \rf Tape:2-2-405
 \bb Stewart List:0030
 \bb SIL-AWL:0028
-\dt 07/Sep/2016
+\dt 28/Jan/2017
 
 \lx ikwitɔ
 \ph ikwitɔ(H)
@@ -11345,11 +11362,11 @@
 \is 2.1.8
 \de abdomen
 \xv Atsɩ benya ɔmɛ a, amʋ́ apu tomoni.
-\xe Women who are pregnant, their abdomen's are always large.
+\xl Women who get pregnant, their abdomen's are always large.
 \xe Pregnant women have big stomachs.
 \rf Tape:1-1-550
 \bb Stewart List:0041
-\dt 01/Oct/2016
+\dt 28/Jan/2017
 
 \lx ipubi
 \ph ipubí
@@ -11660,11 +11677,11 @@
 \is 5.2.3.2.1
 \de meat
 \xv Fʋdɛ aye asʋn a, aye tɛba.
-\xe If you hold a meat case, meat will come.
+\xl If you hold a meat case, meat will come.
 \xe If you talk about a case, a similar case will occur
-\nt You should not speak about bad news lest it happen to you.
+\na You should not speak about bad news lest it happen to you.
 \nt proverb
-\dt 06/Dec/2016
+\dt 28/Jan/2017
 
 \lx iye
 \hm 2
@@ -11769,7 +11786,8 @@
 \xe activity that will hurt you
 \rf Tape:2-2-487
 \xv Aprɛntʋa pʋ si nwuntɔ bwie a, aplanla igyi.
-\xe Breaking a bottle against your head is an activity that can wound you. to protect themselves against a wound, but sometimes they also wound themselves doing it.
+\xe Breaking a bottle against your head is an activity that can wound you.
+\na To exercise magic to protect themselves against a wound young men will break a bottle over their heads. Sometimes they wound themselves doing it.
 \xv ɩsʋbɩtɩla
 \xe activity that will be punishable.
 \rf Tape:2-2-490
@@ -11787,14 +11805,14 @@
 \xe A funeral brings things that drinkers like because they will get wine to drink, but this is an activity that Christians hate.
 \xv ɔdala
 \xe activity that will bring on a beating
-\xe Children that pick fights, are doing things that bring beatings.
+\na Children that pick fights, are doing things that bring beatings.
 \rf Tape:2-2-500
 \xv oboyi ɔwula
 \xe activity that makes the neck die (makes it sore)
 \rf Tape:2-2-503
 \xv Anwunsʋ atɔ kɩ wa ɔpá dʋbɩ a, oboyi ɔwula igyi.
 \xe Look up for a long time (as when picking mangos) is an activity that makes the neck sore.
-\dt 13/Jan/2017
+\dt 28/Jan/2017
 
 \lx ɩba
 \hm 1
@@ -11842,10 +11860,9 @@
 \de slap repetitively; co-occurs with sɛ
 \ng single slap is ɩba
 \xv Nɩ atsɩ bʋdɛkɔ a, bʋtɛsɛ aba aba.
-\xe If women they are fighting (When women fight) they slap each other.
-\xe Women slap each other when they fight.
+\xe When women fight they slap each other.
 \rf Tape:1-1-050
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx ɩba
 \hm 4
@@ -11856,10 +11873,10 @@
 \is 7.2.3.3.1
 \de arrival, coming
 \xv Mlɩ ɛ, mlɩnya klʋn amlɩkɩ anɩ Wie ɔkpa. Mʋ ɩbá lawie woyi.
-\xe You(pl.) also get your heart (be patient) and you should and watch Our Lord's road (expect him). His coming has reached the house (his return is imminent).
+\xl You(pl.) also get your heart (be patient) and you should and watch Our Lord's road (expect him). His coming has reached the house (his return is imminent).
 \xe You also should patiently expect Our Lord. His return is imminent.
 \cf ba1
-\dt 29/Aug/2016
+\dt 28/Jan/2017
 
 \lx ɩban
 \ph ɪbã (H)
@@ -11899,12 +11916,17 @@
 \ps n
 \pl abɛ
 \plph abɛʔ(H)
+\va bɛ
+\vaph bɛʔ(H)
 \sn
 \ge puff adder
 \is 1.6.1.3.1
 \de African puff adder
 \sc Bitis arietans
-\dt 06/Jan/2017
+\xv Bɛɛ, "Bɛ"; "Sapa" mʋ́ tamaba.
+\xl They say, "Viper", but "Cobra" will never come.
+\xe They blame the innocent for the work of the guilty.
+\dt 28/Jan/2017
 
 \lx ɩbɛ
 \hm 2
@@ -11941,11 +11963,11 @@
 \xv Nɩ fʋdɛ abɛ gyɔɩ a, kɩ wanklan, tsufɛ mbɛtɛ amʋ tɔwɔ aha.
 \xe If you are removing the palm nuts from the palm heart be careful because the mbɛtɛ pierces people.
 \xv Brɛ ánɩ́ ndɛ abɛ amʋ gyɔɩ a, bɛ́tɛ lɔwɔ mɩ bɩ.
-\xe The time that I am removing palm nuts from the stalk, bɛtɛ will pierce my hand.
-\xe When I was shucking palm nuts the thorny bits pricked me.
+\xl The time that I was removing palm nuts from the stalk, the palm thorn pierced my hand.
+\xe When I was shucking palm nuts the thorny bits pricked my hand.
 \rf Tape:5-2-150
 \cf abɛ
-\dt 07/Jan/2017
+\dt 28/Jan/2017
 
 \lx ɩbɩ
 \ph ɪbɪʔ
@@ -12115,8 +12137,8 @@
 \is 9.7
 \de name
 \xv Fɛtɩ ɔha da, fatsu obia yaɩ.
-\xe If you called someone's name you have put a chair out for him.
-\xe Free: "Speak of the devil"
+\xl If you called someone's name you have put a chair out for him.
+\xe "Speak of the devil."
 \rf Tape:2-2-530
 \rf Tape:2-2-533
 \xv Mʋ da gyi Kwame.
@@ -12130,7 +12152,7 @@
 \lt receive a name
 \bb Stewart List:3232
 \bb Stewart List:0072
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx ɩdan
 \hm 1
@@ -12402,11 +12424,11 @@
 \is 6.4.5
 \de scale of fish
 \xv Aye ánɩ́ bʋbʋ afwɩ a, bʋtɔwɔnsɩ amʋ́ asa bʋtɛnɩna amʋ́.
-\xe Fish that have scales, they scrape them before cooking them.
+\xl Fish that have scales, they scrape them before cooking them.
 \xe If fish have scales, they scale them before cooking them.
 \rf Tape:1-1-183
 \bb Stewart List:0858
-\dt 28/Nov/2016
+\dt 28/Jan/2017
 
 \lx ɩhandɛ
 \ph ɪhandɛ
@@ -12429,12 +12451,12 @@
 \xe Elephant grass is a type of grass that does not die quickly. They can use it to stake yams. It is also used as a staff for questioning a corpse.
 \rf Tape:2-2-567
 \xv Nɩ natɩ bʋ katɔ a, bʋtamagyi mʋ bia.
-\xe If spider is hiding in the grass you can't bargain on his price
+\xl If spider is hiding in the grass they can't bargain on his price
 \xe Don't buy a pig in a poke.
 \xv Bʋtamagya obubwi ɩbansʋ tra yegya mʋ ɩkasʋ.
 \xe They don't chase a bird from the fence and then again from the grass.
 \bb Stewart List:0873
-\dt 19/Jul/2016
+\dt 28/Jan/2017
 
 \lx ɩka
 \hm 2
@@ -14543,13 +14565,13 @@
 \na You can't replace a great man. Those who try are always lesser. Silk cotton trees are massive and strong. Papaya trees are smaller and weak.
 \rf Tape:3-1-501
 \xv Brɛ ánɩ́ kɛlɩ lopuli a, ahandɛn bɛɛ bódunka pɔntɔ ka beyi. Ndɛ a, banya pɔntɔ pɔpwɛ ka.
-\xe The time that a large tree uprooted the elders said to look for a shade tree to plant. Today we have got a new shade tree.
-\xe Free: When the former chief died, the elders looked for a replacement. Today they have enstooled a new one.
+\xl The time that a large tree uprooted the elders said to look for a shade tree to plant. Today we have got a new shade tree.
+\xe When the former chief died, the elders looked for a replacement. Today they have enstooled a new one.
 \nt idiom
 \rf Tape:3-1-505
 \bb Stewart List:0878
 \cf dantapu
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx kɛmɛ
 \ph kɛmɛ
@@ -15285,8 +15307,8 @@
 \is 3.5.2.1
 \de to notify
 \xv Ɩlɔ tamakla
-\xe Sickness never notifies.
-\xe Free: You don't know when you will be sick.
+\xl Sickness doesn't notify.
+\xe You don't know when you will be sick.
 \rf Tape:3-2-111
 \rf Tape:3-2-114
 \xv Ɔkɛ amʋ a, amʋ́tɔ ɔtrahɛ ogyi ɔtsɩ bʋtɛtɩ mʋ Ipu a, ɔlɛkla mʋ sɩ ɔbɛɛ mégya mʋ apio ɔkpa.
@@ -15296,7 +15318,7 @@
 \xe I will travel, so I am going to notify my friend. Perhaps he will give me a message to take to his brothers.
 \bb Stewart List:3211
 \bb Stewart List:3257
-\dt 19/May/2016
+\dt 28/Jan/2017
 
 \lx klaɛ
 \ph kláɛʔ (L)
@@ -15342,11 +15364,13 @@
 \is 6.6.2.3
 \is 8.3.2.3
 \de very sharp
+\mn REDUP 1
+\ng **Derivative**
 \rf Tape:3-2-143
 \xv Krantɩɛ amʋ ɔnɔ lawa ogya klaklakla.
 \xe The cutlass is very sharp.
 \bb Stewart List:1713
-\dt 10/Dec/2016
+\dt 20/Jan/2017
 
 \lx klamata
 \ph klamata(H)
@@ -15993,9 +16017,9 @@
 \xv Oyin amʋ ndɔtɔ bʋ tsutsu, mɩ klɛ bʋ kotikoti.
 \xe The man's farm is far, mine is nearby.
 \xv Makɩ mɩ ansɩtɔ kotikoti.
-\xe Don't look in my face nearby.
-\xe Free: Don't discount/disregard me.
-\dt 15/Jul/2016
+\xl Don't look in my face nearby.
+\xe Don't discount/disregard me.
+\dt 28/Jan/2017
 
 \lx kotokuo
 \ph kotokuo
@@ -16246,7 +16270,7 @@
 \de to spring a trap
 \rf Tape:3-2-363
 \xv Yibi amʋ lakpa. Ɔma iteyinki
-\xe The trap has sprung. It returns back.
+\xl The trap has sprung. It returns back.
 \xe Things return to what they were before.
 \ps vt
 \sn 4
@@ -16255,8 +16279,8 @@
 \is 7.2.5.3
 \de to lead
 \xv Kpa mʋ ya!
-\xe Lead him there!
-\xe Accompany him!
+\xl Lead him there.
+\xe Take him away!
 \rf Tape:3-2-367
 \xv akufa ɔkpapʋ
 \xe shepherd
@@ -16309,19 +16333,18 @@
 \is 8.5.3.1
 \de to remove something; flay skin
 \xv Fʋ bi ɔkɔ dinka fʋ obiansʋ a, bʋtamapʋ ɔdayi ka mʋ́. Mpʋsa bʋtɔpʋ kpa mʋ́.
-\xe If your child defecates on your thigh, don't cut it off with a knife. A sponge is what you use to remove it.
-\xe Free: Don't be harsh with / over-react to someone under your care.
-\xe Free: Don't make a mountain out of a molehill.
+\xl If your child defecates on your thigh, don't cut it off with a knife. A sponge is what you use to remove it.
+\xe Don't be harsh with / over-react to someone under your care; Don't make a mountain out of a molehill.
 \se kpa nwun
 \ps v
 \ge shave head
 \is 5.4.3.6
 \de to shave the hair off one's head
-\na People shave their heads when they recover from a serious illness or are not injured in a serious accident.
+\na People shave their heads when they recover from a serious illness or avoid injury in a serious accident.
 \rf Tape:3-2-372
 \xv Ɔlɔpʋ amʋ lakpa mʋ nwun pʋ́ mʋ ikwi sʋ alawa akɩlɛ.
 \xe The sick person has shaved his head and his beard so he has become good to look at.
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx kpa
 \hm 2
@@ -16363,7 +16386,9 @@
 \ps v
 \ge fall (multiple)
 \de multiple similar things falling
-\dt 03/Jan/2017
+\mn REDUP 2
+\ng **Derivative**
+\dt 20/Jan/2017
 
 \lx kpa tɩa
 \ph k͡pá tɪ́á
@@ -16430,7 +16455,9 @@
 \ps v
 \ge drop (muliple)
 \de multiple similar things falling and lying prone
-\dt 12/Jan/2017
+\mn REDUP 2
+\ng **Derivative**
+\dt 20/Jan/2017
 
 \lx kpafʋtɩ
 \ph k͡pafʊ́tɪ̂ː
@@ -17433,11 +17460,11 @@
 \is 2.5.2.3
 \de to vomit
 \xv Falu mɩ tamɛ fʋmɛ́ɛtalɩ kplaɩ mɩ.
-\xe You have hated / retched on (see sense 2) me but you will not be able to vomit me.
-\xe Free: You hate but you can't get rid of me.
+\xl You have hated (retched on) me but you will not be able to vomit me.
+\xe You hate me but you can't get rid of me.
 \rf Tape:4-1-546
 \bb Stewart List:2047
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx kplakitsi
 \ph k͡plakit͡si
@@ -17917,11 +17944,12 @@
 \is 4.8.3.7
 \is 6.2.4.1
 \de a cutlass; a machete
+\ee A machete is normally called a cutlass in Ghanaian English.
 \rf Tape:4-1-154
 \xv Krantɩɛ amʋ ɔnɔ lawa ogya klaklakla.
 \xe The cutlass is very sharp.
 \bb Stewart List:1197
-\dt 06/Dec/2016
+\dt 28/Jan/2017
 
 \lx kua kʋlɛ
 \ph kua kʊlɛ
@@ -18462,7 +18490,7 @@
 \lx kʋraa
 \ph kʊ́ráː
 \ps ADV
-\sn
+\sn 1
 \ge not at all
 \is 8.1.5.2
 \de not at all
@@ -18470,11 +18498,15 @@
 \rf Tape:4-1-295
 \xv Nyankpʋ amʋ metepi tswie nfɩ kʋraa.
 \xe The rain didn't fall here at all.
+\sn 2
+\ge even
+\de even though
+\ng concessive marker when used with nɩ
 \xv Nɩ ɔmɛba kʋraa a, abɔ́yɔ.
-\xe If he doesn't come at all, we will go.
+\xl If he doesn't come at all, we will go.
 \xe Even if he didn't come, we will go.
 \rf Tape:4-1-299
-\dt 25/Jul/2016
+\dt 28/Jan/2017
 
 \lx kʋsʋ
 \ph kʊ́sʊ́
@@ -18790,8 +18822,10 @@
 \ge sprout
 \is 1.5.5
 \is 1.5.6
-\de sprout all over
-\dt 03/Jan/2017
+\de to sprout all over
+\mn REDUP 2
+\ng **Derivative**
+\dt 20/Jan/2017
 
 \lx kwɛ
 \hm 2
@@ -19012,15 +19046,14 @@
 \ge clip
 \is 5.2.1.2
 \is 5.4.7
-\de to cut away (finger nails, a bad part of a yam)
+\de to cut away; e.g. finger nails, a bad part of a yam
 \xv Ɔdɛ ɔwɔlʋ laɩ.
 \xe He is clipping his fingernails.
-\xe He is cutting his fingernails.
 \rf Tape:4-1-433
 \rf Tape:4-1-436
 \xv Laɩ igyo plɔhɛ amʋ tsitsa.
 \xe Cut the rotten part of the yam out and throw it away.
-\dt 29/Nov/2016
+\dt 28/Jan/2017
 
 \lx lakpa
 \ph lak͡pá
@@ -19077,10 +19110,10 @@
 \xv Malala mɩ, nɛ́ba.
 \xe Don't hound me, I'm coming.
 \xv Malala mɩ anwu si mɩ abi.
-\xe Don't hound me so that I should die and leave my children.
+\xl Don't hound me so that I should die and leave my children.
 \xe Stop hounding me to death!
 \rf Tape:4-1-461
-\dt 28/Nov/2016
+\dt 28/Jan/2017
 
 \lx lala
 \hm 2
@@ -19473,10 +19506,10 @@
 \xv Alɛnkɛ sɔɔn bʋ Wɩawɩa ntsutso.
 \xe There are many crocodiles in river Wiawia.
 \xv Ntsu ánɩ́ lɛnkɛ bʋ mʋ́tɔ a, mʋ́ towie bʋ ifu, tsufɛsɛ lɛnkɛ tɔwɩ aha.
-\xe Water that has a crocodile in it, entering it has fear, because a crocodile always eats people.
+\xl Water that has a crocodile in it, entering it has fear, because a crocodile chews people.
 \xe Going into crocodile infested water is dangerous because they eat people.
 \na crocodile bile lɛnkɛ ɔlɩnkatɩ is a commonly used poison
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx lɛnkɛkpan
 \ph lɛŋkɛk͡pã́
@@ -19721,12 +19754,12 @@
 \is 4.3.3.1
 \de to hate someone or something
 \xv Falu mɩ tamɛ fʋmɛ́ɛtalɩ kplaɩ mɩ.
-\xe You have hated / retched on (see homonym 2) me but you will not be able to vomit me.
-\xe Free: You hate but you can't get rid of me.
+\xl You have hated (retched on) me but you will not be able to vomit me.
+\xe You hate me but you can't get rid of me.
 \rf Tape:4-1-546
 \cf olupʋ
 \bb Stewart List:3254
-\dt 04/Feb/2016
+\dt 28/Jan/2017
 
 \lx lu
 \hm 2
@@ -20686,10 +20719,9 @@
 \xv Ɔbɛ́dan mli ɔnantswie.
 \xe It (a calf) will grow up to be a cow.
 \xv Abebi dɩ ɔsʋlʋtɔ wa ɔpá a, ɩtɔkɔkwɛ mli mbɛ.
-\xe If palm nuts stay in the ground they germinate, turn into palm trees.
-\xe When palm nuts stay in the ground they germinate and become palm trees.
+\xe When palm nuts stay in the ground a long time, they germinate, turn into palm trees.
 \rf Tape:1-1-077
-\dt 12/Jan/2017
+\dt 28/Jan/2017
 
 \lx mlibun
 \ph mlibũʔ
@@ -21183,11 +21215,11 @@
 \is 8.6.6
 \de to hem a cloth or garment
 \rf Tape:4-2-439
-\xv Bamumlu mɩ tati amʋ ɔnɔ ha ma. Ɩmɛtra lɛ ɔfɛ.
+\xv Bamumlun mɩ tati amʋ ɔnɔ ha ma. Ɩmɛtra lɛ ɔfɛ.
 \xe They have hemmed my cloth for me. It won't fray again (Lit: bring out rope).
 \bb Stewart List:2859
 \cf ɔdanʋ
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx munsa
 \ph múnsá
@@ -21964,12 +21996,8 @@
 \is 4.3.6.4
 \de mistake
 \xv Nɩ fatɔɩ a, nfʋmsʋ bʋ mʋ́tɔ a, nɛ́bla fʋmegyi alɩ fówun nala tswii fʋ.
-\xe If you have talked, and mistakes are in it, I will tell you it isn't like that so that I will correct you (literally straighten you).
-\xv Nɩ fɔ́tɔɩ Nkonya amʋ, nɩ nfʋmsʋ bʋ mʋ́tɔa, nɛ́la tswii fʋ.
-\xe If you speak Nkonya, if a mistake is in it, I will correct you.
-\xv Nɩ fʋ tɔɩ ɩma alɛ, nfumsʋ bʋ mʋ́tɔ a, nɛ́la tswii fʋ.
-\xe If you speak badly, with mistakes in it, I will correct you.
-\dt 12/Jan/2017
+\xe If you have talked, and mistakes are in it, I will tell you it isn't like that so that I will correct you (Lit: straighten you).
+\dt 28/Jan/2017
 
 \lx ngya
 \hm 1
@@ -22582,12 +22610,12 @@
 \de duplicitous speech
 \xv Ɔbʋ nnonyɔ.
 \xe He is a liar.
-\xe Lit: He has two mouths.
+\xl He has two mouths.
 \rf Tape:6-1-204
 \cf afunu
 \cf ɔnɔ
 \cf -nyɔ
-\dt 18/Oct/2016
+\dt 28/Jan/2017
 
 \lx -nnu
 \ph nːu(H)
@@ -22831,11 +22859,12 @@
 \de humiliation
 \bw Akan fi:nsʋpa
 \xv Nsʋpa igyi ɩtɔ lalahɛ, tsufɛ ɩtɔwa ɔha pɛlɩtɔ.
-\xe Humiliation is thing bad because it habitually puts person shame in.
-\xe Free: Humiliation is a bad thing because it shames people.
+\xl Humiliation is thing bad because it habitually puts person shame in.
+\xe Humiliation is a bad thing because it shames people.
 \xv Basʋpa oyin amʋ mʋ abatɔ tsufɛ ototsu wɩ dʋbɩ.
 \xe The man has been disgraced before his neighbour because he bluffs too much.
-\dt 12/Sep/2016
+\cf sʋpa
+\dt 28/Jan/2017
 
 \lx nsʋsʋnɛ
 \ph nsʊsʊnɛ́
@@ -22960,17 +22989,17 @@
 
 \lx ntinta
 \ph ntĩnta(H)
-\ps n
+\ps ADJ
 \sn
 \ge stumbling
 \is 7.2.1.5
-\de stumbling
+\de to walk stumbling
+\ng co-occurs with bɔ
 \bw Akan fi:ntintaɩn
 \xv Nɩ nta abʋpʋ bʋna a, bʋtɔbɔ ntinta.
 \xe When drunkards are walking, they stumble.
-\xe Drunkards stumble when they walk.
 \rf Tape:1-2-541
-\dt 18/Dec/2016
+\dt 28/Jan/2017
 
 \lx ntobi
 \ph ntobí
@@ -23660,12 +23689,12 @@
 \ge be wicked
 \is 8.3.7.1
 \de to be wicked
-\xl head has darkness
+\lt have darkness in the head
 \xv Oyin amʋ nwuntɔ bʋ oklun, mʋ́ sʋ kɩ fʋ ɩwɩ mʋ sʋ.
-\xe There is darkness in the man's head, therefore be careful of him.
+\xl There is darkness in the man's head, therefore be careful of him.
 \xe The man is wicked, therefore be careful of him.
 \rf Tape:6-2-433
-\dt 16/Jun/2014
+\dt 28/Jan/2017
 
 \lx nwuntɔbɔ
 \ph ŋʷũtɔbɔʔ
@@ -23678,11 +23707,11 @@
 \xv Kufa nwuntɔbɔ ɩtsɔ dʋn dei klɛ.
 \xe Sheep brains are bigger than monkey brains.
 \xv Kuku nwuntɔbɔ mɛdɛ agyuma yɔ.
-\xe Kuku's brain is not working.
-\xe Free: Kuku is mad.
+\xl Kuku's brain is not working.
+\xe Kuku is mad.
 \bb Stewart List:0007
 \bb SIL-AWL:0081
-\dt 19/Jul/2016
+\dt 28/Jan/2017
 
 \lx nwʋlʋta
 \ph ŋʷʊlʊ́tâʔ
@@ -23834,10 +23863,12 @@
 \ps v
 \ge mince
 \de to walk in a mincing manner
+\mn REDUP 1
+\ng **Derivative**
 \rf Tape:5-1-520
 \xv Ɔha amʋ na ɔdɛ ɩbɩ nyanyanka.
 \xe She walks, she is setting her hands in a mincing manner.
-\dt 14/Dec/2016
+\dt 20/Jan/2017
 
 \lx nyanka
 \hm 2
@@ -24949,11 +24980,11 @@
 \xv Atɔ odua ɩbʋ akɩlɛ.
 \xe The kind of things that are beautiful.
 \xv Woyi odua ɔdwɛ bʋ mʋ́tɔ a, ɩbʋ atsialɛ.
-\xe The house that has love in it, it's has good sitting.
-\xe A loving household is pleasant to live in.
+\xl The house that has happiness in it, it has good staying.
+\xe A happy household is pleasant to live in.
 \rf Tape:1-2-106
 \rf Tape:6-2-406
-\dt 05/Jan/2017
+\dt 28/Jan/2017
 
 \lx odudu
 \ph odudu
@@ -25237,12 +25268,12 @@
 \xv Ofupʋ ogyi.
 \xe He is a coward.
 \xv Ɔha ánɩ́ atɔ tɔwa mʋ ifu a, ofupʋ ogyi.
-\xe The person that is frightened by things, is a coward.
+\xl The person that things frighten him, is a coward.
 \xe Someone who is easily frightened by things is a cowardly person.
 \rf Tape:6-2-473
 \xv Anɩ tosusu ánɩ́ Takyi bʋ klʋn, sa ofupʋ ogyi.
 \xe We think Takyi is brave man not knowing he is a coward.
-\dt 16/Jul/2016
+\dt 28/Jan/2017
 
 \lx ofutikokoni
 \ph ofutikókóníʔ(H)
@@ -25267,11 +25298,12 @@
 \ge quail
 \is 1.6.1.2
 \de quail with brown beak and legs in the grasslands
+\sc Peliperdix albogularis ??
 \rf Tape:6-2-481
 \xv Ofwi gyi pututɔ batɛ. Oteyinta kpoli ndɔtɔ.
 \xe An Ofwi is a bush chicken. It spoils maize in the farms.
-\xe A Quail is a wild bird that somehow resembles a chicken (because it is around the same size and lays its eggs on the ground.) It ruins maize farms.
-\dt 03/Jan/2017
+\ee A Quail is a wild bird that somehow resembles a chicken (because it is around the same size and lays its eggs on the ground.) It ruins maize farms.
+\dt 28/Jan/2017
 
 \lx ogbangba
 \ph og͡bã́ŋ͡mg͡baʔ
@@ -25287,8 +25319,8 @@
 \rf Tape:6-2-487
 \xv Megyi aha fɛ́ɛ́ tekle ogbangba gyi.
 \xe Not all people like to eat ogbangba.
-\xe An ogbangba is a lake fish that is good for eating when it matures.
-\dt 12/Jan/2017
+\ee An ogbangba is a lake fish that is good for eating when it matures.
+\dt 28/Jan/2017
 
 \lx ogbloo
 \ph og͡blôːʔ
@@ -25298,12 +25330,12 @@
 \is 3.5.4.6
 \de ritual opening to a fairy tale
 \xv Nɩ fɔ́wa ɔtɛ a, "ogbloo" bʋtɔpʋ fi mʋ́ asɩ. Fówun batsula mʋ́sʋ bɛɛ, "Ɔmɩɔ"
-\xe If you will tell a story, you start it with "Ogblo". Then they reply to it saying "Ɔmɩo"
+\xl When you will tell a story, you start it with "Ogblo". Then they reply to it saying "Ɔmɩo"
 \xe You begin telling a story by saying "Ogblo". Then people respond by saying "Ɔmɩɔ".
 \rf Tape:6-2-490
 \vad okploo
 \ve Southern
-\dt 19/Oct/2016
+\dt 28/Jan/2017
 
 \lx ogbodoo
 \ph og͡bodôː
@@ -25742,12 +25774,8 @@
 \xe When the moon enters the mountains darkness comes.
 \xv Nna okluntɔ onye, nɔpʋ mɩ ofin kun ibwi pɩɛɩ.
 \xe I walked in the dark at night, I bumped my shin on a stone and scraped it.
-\xv Oyin amʋ nwuntɔ bʋ oklun, mʋ́ sʋ kɩ fʋ ɩwɩ mʋ sʋ.
-\xe There is darkness in the man's head, therefore be careful of him.
-\xe The man is wicked, therefore be careful of him.
-\rf Tape:6-2-433
 \bb Stewart List:1039
-\dt 18/Dec/2016
+\dt 28/Jan/2017
 
 \lx okluntɔ
 \ph oklúntɔ
@@ -25855,9 +25883,9 @@
 \vad ogbloo
 \ve Northern
 \xv Nɩ fɔ́wa ɔtɛ a, "Okploo" bʋtɔpʋ fi mʋ́ asɩ. Fówun batsula mʋ́sʋ bɛɛ, "Ɔmɩɔ!"
-\xe When you will tell a story, you start it with "Okplo". Then they reply to it saying "Ɔmɩo!"
+\xl When you will tell a story, you start it with "Okplo". Then they reply to it saying "Ɔmɩo!"
 \xe You begin telling a story by saying "Okplo". Then people respond by saying "Ɔmɩɔ!".
-\dt 19/Oct/2016
+\dt 28/Jan/2017
 
 \lx okploto
 \ph ok͡plóto
@@ -27775,8 +27803,11 @@
 \ge body
 \is 2.1
 \de the main part of something
+\xv Agode toswie mʋ́ oyitɔ, ɔkpɩtsatɔ.
+\xl Coconut bears in its tree in a cluster.
+\xe A coconut bears its fruit in a cluster at the trunk.
 \cf nyankpʋsa oyi
-\dt 05/Jan/2017
+\dt 28/Jan/2017
 
 \lx oyi ibi
 \ph oyí ibí
@@ -29214,10 +29245,10 @@
 \xv Tsu ɔfɛ amʋ ba, anpʋ wa ɔbwɩ amʋ.
 \xe Bring the rope so that I can tether the animal (tether is implied, but may just mean put a rope on the animal).
 \xv Bʋtama kiki ɔfɛ ɔbwɩ amʋ ansɩtɔ.
-\xe They don't twist the rope in front of the animal.
-\xe Proverb: Don't give advance of intentions to harm.
+\xl They don't twist the rope in front of the animal.
+\xe Don't give advance of intentions to harm.
 \bb Stewart List:1205
-\dt 15/Sep/2016
+\dt 28/Jan/2017
 
 \lx ɔfɛsɩ
 \ph ɔfɛsɪ́
@@ -30020,11 +30051,11 @@
 \is 8.1.5
 \de every way
 \xv Ɔkpagyiɔkpa sʋ a, fʋ klɛ ma nʋ.
-\xe Lit:In every way yours is not there.
+\xl In every way yours is not there.
 \xe You are completely wrong.
 \xv It's completely your fault.
 \rf Tape:5-2-499
-\dt 30/Aug/2016
+\dt 28/Jan/2017
 
 \lx ɔkpakɩ
 \ph ɔk͡pakɪ̂ːʔ
@@ -30205,11 +30236,11 @@
 \is 8.1.3.3
 \de cluster
 \xv Agode toswie ɔkpɩtsatɔ wa mʋ́ oyitɔ.
-\xe Coconut bears in its tree in a cluster.
-\xe A coconut tree bears its fruit in a cluster.
+\xl Coconut bears in a cluster in its tree.
+\xe A coconut bears its fruit in a cluster at the trunk.
 \rf Tape:1-1-205
 \cf imu
-\dt 19/Jul/2016
+\dt 28/Jan/2017
 
 \lx ɔkpɔtɩpʋ
 \ph ɔk͡pɔtɪ́pʊ́
@@ -30285,11 +30316,10 @@
 \xv Ɔkʋ laba nfɩ; ɔkʋ ɛ ɔba.
 \xe Some one has come here, some one is also coming.
 \xv Akʋ baba nfɩ; ɔkʋ ɛ ɔbɛ́tra ba.
-\xe Some people have come here. Some one will also come.
 \xe Some people have come, but one more will come.
 \rf Tape:5-2-574
 \nt see ɩkʋ
-\dt 20/May/2016
+\dt 28/Jan/2017
 
 \lx ɔkʋabi
 \ph ɔkʊ́abíʔ
@@ -30325,11 +30355,11 @@
 \cf ɩkʋlɛ
 \cf tsukʋlɛ
 \xv Nɩ fɛ́kla atɔ a, féfi mʋ́ asɩ tsu ɔkʋn.
-\xe If you will count things, you will begin from one.
+\xl When you will count things, you will begin from one.
 \xe You start counting with one.
 \rf Tape:5-2-460
 \bb Stewart List:1802
-\dt 07/Jan/2017
+\dt 28/Jan/2017
 
 \lx ɔkʋsʋ
 \ph ɔkʊsʊ
@@ -30365,10 +30395,9 @@
 \de soap
 \bw Ewe fi:ekwɛn
 \xv Ɔkwaɩ ánɩ́ bʋ ogya a, ɩtɛlɩn afu.
-\xe Soap that is effective always makes lather.
 \xe Soap that is effective always makes foam.
 \rf Tape:5-2-578
-\dt 31/May/2016
+\dt 28/Jan/2017
 
 \lx ɔkwɛn
 \ph ɔkʷɛ̃́ʔ
@@ -30804,12 +30833,15 @@
 \is 3.6.3
 \de the things one habitually says
 \xv Kebi fónu fʋ akwɩɩpʋ ɔmɛ a, ɩbʋ alɛ ɩtamapian fʋ.
-\xe If a child hears the voice of his parents it is good, you don't suffer.
+\xl If a child hears the voice of his parents it is good, you don't suffer.
 \xe If a child respects his parents it is good, you don't suffer.
 \rf Tape:6-1-101
 \bb Stewart List:0061
 \bb SIL-AWL:0025
-\dt 01/Nov/2016
+\xv Fabwɛ dɩnka mɩ ɔmɛsʋ.
+\xl You have done what I said.
+\xe You have respected me.
+\dt 28/Jan/2017
 
 \lx ɔmɛ́
 \ph ɔmɛ́
@@ -30895,10 +30927,7 @@
 \de inside throat
 \xv Mɩ ɔmɛtɔ dɛ mɩ ɔsɩn, sʋ nɔyɔhɔ afa bonun.
 \xe My throat is paining me, I'm going to get some medicine and take.
-\xv Fabwɛ dɩnka mɩ ɔmɛsʋ.
-\xe You have done what I said.
-\xe You have respected me.
-\dt 18/Oct/2016
+\dt 28/Jan/2017
 
 \lx ɔmɛ́tɔ
 \ph ɔmɛ́tɔ
@@ -31011,17 +31040,17 @@
 \ge one who
 \is 9.2.3.2
 \de the one who
-\nt This is used as a general reference, as in proverbs. For a specific unknown person use ɔha amʋ.
+\ng Used as a general reference, as in proverbs. For a specific unknown person use ɔha amʋ.
 \rf Tape:6-1-132
 \xv Ɔmʋ́a ɔyɔ Nkran amʋ obówun ɔpʋ nɩ.
 \xe The one who goes to Accra will see the sea.
 \xv Ɔbwɩ ánɩ́ aladan a, ɔbʋ abiolɛ dʋn ɔmʋ́a ɔmɔkʋ dan.
-\xe An animal that has grown is easier to butcher (open and remove the intestines) than one that has not grown.
+\xl An animal that has grown is easier to butcher (open and remove the entrails) than one that has not grown.
 \xe It's easier to butcher an adult animal than a young one.
 \rf Tape:1-1-088
 \xv Ɔmʋ́a amʋʋ ɔna ɔkpatɔ ɩnʋ amʋ ndɛ nɩ.
 \xe The one who is walking over there is the one I mean.
-\dt 01/Nov/2016
+\dt 28/Jan/2017
 
 \lx ɔmʋamʋʋ
 \ph ɔmʊamʊ́ː
@@ -31297,13 +31326,14 @@
 \xe The machete is sharp. The machete's mouth has fire.
 \rf Tape:6-1-208
 \xv Krantɩɛ amʋ ɔnɔ lawu.
-\xe The machete is dull. LIT: Machete's mouth has died.
+\xe The machete is dull.
+\xl The machete's mouth has died.
 \ps n
 \sn 6
 \ge effect
 \is 9.6.2.6
 \de effects or results of something
-\dt 19/Jan/2017
+\dt 28/Jan/2017
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
@@ -31474,12 +31504,12 @@
 \is 8.4.6.2
 \de beginning of the world
 \xv Lowu lɛba tsu ɔyɩ ɔpa, mʋ́sʋ lowu bʋ ɩnʋ nɩ.
-\xe Death came from the world's beginning, because of this death is there.
+\xl Death came from the world's beginning, because of this death is there.
 \xe There has always been death and so there is death now.
 \rf Tape:6-1-283
 \xv Ɔyɩ ɔpa amʋʋ nɔwa fʋ sumbi amʋ a, bɩansʋ fɛba nɩ?
 \xe I sent you on the errand long ago, are you now coming?
-\dt 01/Nov/2016
+\dt 28/Jan/2017
 
 \lx ɔpablɩsʋ
 \ph ɔpablɪ́sʊ́
@@ -31812,25 +31842,17 @@
 \is 8.4.8.1
 \de speed
 \rf Tape:6-1-355
-\xv Ɔna ɔsasʋ.
-\xe He is walking quickly.
-\xv Kebi ánɩ́ otobu atɔ a, ɔtɛbɩ atɔ ɔsasʋ.
-\xe A child that is respectful comes to know things quickly.
-\xe A respectful child will learn quickly.
-\xe A respectful child becomes clever quickly.
-\rf Tape:1-2-464
-\rf Tape:1-1-506
 \xv Ɔha ánɩ́ ɔlɛtɩn ansɩ a, ɔtɔwa ɔsa bɩ atɔ.
 \xe The one that (he) is clever learns quickly.
 \xv Nda akudasʋ mɩ ndɔtɔ agyʋma tɔwa mɩ ɔsa.
-\xe I sleep at (my) akuda so my farm work always goes quickly for me.
+\xl I sleep at (my) akuda so my farm work always goes quickly for me.
 \xe Because I sleep at my field hut I can get my farm work done quickly.
 \rf Tape:1-1-358
 \rf Tape:2-2-543
 \xv Nyankpʋ tswie brɛ a, ɩfa tɔwa ɔsa kɔkwɛ dʋbɩ.
 \xe In Rainy season weeds grow too quickly.
 \bb Stewart List:1429
-\dt 30/Aug/2016
+\dt 28/Jan/2017
 
 \lx ɔsan
 \ph ɔsã(H)
@@ -31911,7 +31933,14 @@
 \ge quickly
 \is 8.4.8.1
 \de quickly
-\dt 19/Jul/2016
+\xv Ɔna ɔsasʋ.
+\xe He is walking quickly.
+\xv Kebi ánɩ́ otobu atɔ a, ɔtɛbɩ atɔ ɔsasʋ.
+\xl A child that is respectful comes to know things quickly.
+\xe A respectful child will learn quickly.
+\rf Tape:1-2-464
+\rf Tape:1-1-506
+\dt 28/Jan/2017
 
 \lx ɔsɛmpa
 \ph ɔsɛ́mpá
@@ -33156,11 +33185,11 @@
 \xv Anɩdɛ ɔwʋlʋ wanlɩn.
 \xe We are writing a letter (or book).
 \xv Otsibi anfɩ yin ɔwʋlʋ wanklaan.
+\xl This girl knows books well.
 \xe This girl is very clever.
-\xe This girl knows books.
 \bb Stewart List:0029
 \bb Stewart List:1176
-\dt 28/Nov/2016
+\dt 28/Jan/2017
 
 \lx ɔwʋlʋ kpakpa
 \ph ɔwʊlʊ k͡pak͡pa
@@ -34390,13 +34419,13 @@
 \is 8.4.6.5.3
 \de new
 \xv Fenya pɔpwɛ a, dada labwɛ fʋ nwunasʋ okpokployi.
-\xe If you get new, you use the old for toilet maize cob.
-\xe Free: When you get a second wife you don't value the first.
+\xl If you get new, you use the old for toilet maize cob.
+\xe When you get a second wife you don't value the first.
 \nt proverb
 \xv Atɔ pɔpwɛ bʋ akɩlɛ.
 \xe New things are good to look at.
 \bb Stewart List:1665
-\dt 03/Jan/2017
+\dt 28/Jan/2017
 
 \lx pɔsɩɩ
 \ph pɔsɪː
@@ -34612,7 +34641,7 @@
 \is 7.1.6
 \de to rely on someone
 \xv Otoputa mɩ, bʋtoputa mɩ.
-\xe He always leans on me, they always lean on me.
+\xl He always leans on me, they always lean on me.
 \xe He always comes to me for what he needs.
 \ps v
 \sn 3
@@ -34627,7 +34656,7 @@
 \ge cram
 \is 4.2.1.7
 \de to crowd around someone
-\dt 21/Jul/2016
+\dt 28/Jan/2017
 
 \lx putu
 \ph putuʔ
@@ -35092,11 +35121,11 @@
 \sc Naja nigricollis
 \sc Naja katiensis
 \xv Bɛɛ, "Bɛɛ" (ɩbɛ); "Sapa" mʋ́ tamaba.
-\xe They say, "viper", "Cobra" will never come.
+\xl They say, "Viper", "Cobra" will never come.
 \xe They blame the innocent for the work of the guilty.
 \xv Sapa tɔwa aha atsʋnɔ.
 \xe Cobra's spit at people.
-\dt 06/Jan/2017
+\dt 28/Jan/2017
 
 \lx sapʋrada
 \ph sá!pʊ́rádá
@@ -35852,9 +35881,9 @@
 \xv Ɔtɛ ɔwakpa ɩnʋ lasɔ. Anɩlamɔsɩ dʋbɩ.
 \xe The story telling place there was fun. We have laughed too much.
 \xv Plei dɛsɔ a, owí dɛ nkudasɩfɔ ta.
-\xe Because playing is fun, the sun has set on the people from the farms.
-\xe Free: Time flies when you're having fun.
-\dt 18/Jul/2016
+\xl Because playing is fun, the sun has set on the people from the farms.
+\xe Time flies when you're having fun.
+\dt 28/Jan/2017
 
 \lx sɔ kɩ
 \ph sɔ kɪʔ
@@ -36386,11 +36415,11 @@
 \de to disgrace
 \bw Akan fi:sʋpa
 \xv Mɩ sɩ lanun nta bʋ ɔdɛ mɩ sɩa aha ansɩtɔ sʋpa mɩ.
-\xe My father has drunk wine become drunk, he is me insulting people's face disgracing me.
+\xl My father has drunk wine become drunk, he is insulting me in people's face disgracing me.
 \xe My father has become drunk and he is insulting me in front of people, disgracing me.
 \xv Mɩ sɩ lanun nta bʋ. Mʋ bwɛhɛ lasʋpa mɩ tsufɛ ntamakle nta onunpʋ.
 \xe My father has become drunk. His behaviour has disgraced me because I don't like one who drinks.
-\dt 12/Sep/2016
+\dt 28/Jan/2017
 
 \lx sʋra
 \hm 1
@@ -36413,11 +36442,13 @@
 \ph sʊrásʊrá
 \ge really stings
 \is 2.5.6.1
-\de stings very much
+\de to sting very much
+\mn REDUP 1
+\ng **Derivative**
 \rf Tape:6-1-383
 \xv Ɔkpan odun fʋ a, ɩtɔhɔ ɔsɩn; ɩtɔ sʋrasʋra wa.
 \xe If an ɔkpan ant bites you it brings pain, it stings a lot.
-\dt 01/Nov/2016
+\dt 20/Jan/2017
 
 \lx sʋra
 \hm 2
@@ -37218,9 +37249,9 @@
 \ge scratch
 \is 1.6.4.2
 \is 7.6.1
-\de search by scratching; as a fowl
+\de to search by scratching; as a fowl
 \xv Ɔbatebi ɔtɛtɛ nwunasʋ dʋbɩ a, ɔtɔtʋ mʋ yín awú.
-\xe When a chick scratches the trash heap too much, it will meet its mother's bones.
+\xl When a chick scratches the trash heap too much, it will meet its mother's bones.
 \xe When you are too inquisitive, you will find out things you don't want to know.
 \rf Tape:7-1-430
 \ps vt
@@ -37229,11 +37260,11 @@
 \is 4.7.5.1
 \de to investigate
 \xv Ndɛ mʋ ɔnɔtɔ asʋn tɛtɛ nu.
-\xe I am pecking at his mouth for words (I am milking him for information).
-\xe I am investigating him.
+\xl I am pecking at his mouth for words.
+\xe I am investigating him (I am milking him for information).
 \rf Tape:7-1-441
 \bb Stewart List:2211
-\dt 12/Dec/2016
+\dt 28/Jan/2017
 
 \lx tɛtɛ
 \hm 2
@@ -37969,11 +38000,11 @@
 \is 3.5.1.8.4
 \de to gossip about someone
 \xv Atsɩ amʋ bʋdɛ tɔnsɩ gyɔɩ.
-\xe The women are harvesting tɔnsɩ.
-\xe Free: The women are gossiping.
+\xl The women are harvesting peppers.
+\xe The women are gossiping.
 \rf Tape:7-1-023
 \nt used as an idiom for gossiping
-\dt 05/Jan/2017
+\dt 28/Jan/2017
 
 \lx tɔnsɩ kwɛbwi
 \ph tɔnsɪ́ kwɛ́bwí
@@ -38934,9 +38965,9 @@
 \de ruse, ploy, deception; mythical object
 \nt It is not a real object; somewhat akin to unicorn's horn. It is used especially when talking to children, but not exclusively, as an incentive to run an errand or execute a bidding promptly and discreetly. It is this sense a 'false' reward or the object of a promise which is in reality not delivered.
 \xv Nɩ fɔwa ɔsa ba a, nɛ́ha fʋ tsintsiin bɔnɔ.
-\xe If you put quick come I would give you a tsintsiin egg.
+\xl If you come quickly I will give you a tsintsiin egg.
 \xe I will give you (as a reward) a tsintsiin egg if you're quick about it.
-\dt 23/Sep/2016
+\dt 28/Jan/2017
 
 \lx tsitsa
 \hm 1
@@ -39317,8 +39348,8 @@
 \is 7.5.1
 \de in one place
 \xv Foblufo wʋlɩ tsukʋlɛ a, mʋ́ ɩtɛlɩn afu.
-\xe If you urinate in one place it makes bubbles.
-\xe Free: If you concentrate your efforts, you will get results.
+\xl If you urinate in one place it makes bubbles.
+\xe If you concentrate your efforts, you will get results.
 \rf Tape:7-2-496
 \xv Pʋ atɔ amʋ fɛ́ɛ́ yaɩ tsukʋlɛ.
 \xe Put all the things in one place.
@@ -39342,7 +39373,7 @@
 \rf Tape:3-1-235
 \xv Tsufɛ mʋ agywɩɩn igyi anyɔ, ɔmɛlɩɩ tsukʋlɛ.
 \xe Because his mind is two he doesn't stand in one place; he is not consistent.
-\dt 28/Nov/2016
+\dt 28/Jan/2017
 
 \lx tsukʋlɛ osinpʋ
 \ph t͡sukʊlɛ osínpʊ
@@ -39406,12 +39437,15 @@
 \rf Tape:7-2-502
 \xv Oyin amʋ ndɔtɔ bʋ tsutsu, mɩ klɛ bʋ kotikoti.
 \xe The man's farm is far, mine is nearby.
+\cf fɔ2
 \se tsutsuutsu
 \ps ADV
 \ge very far
 \is 8.2.6.1
-\cf fɔ2
-\dt 31/Oct/2016
+\de very far away
+\mn REDUP 1
+\ng **Derivative**
+\dt 20/Jan/2017
 
 \lx tsutsua
 \ph t͡sut͡súaʔ(L)
@@ -40128,8 +40162,8 @@
 \xv Bɔwa mʋ afa.
 \xe They embalmed him.
 \xv Bʋtamakiki ɔfɛ ɔbwɩ amʋ ansɩtɔ. Nɩ megyi alɩa ɔmɔ́ɔpʋ nwun wa mʋ́tɔ.
-\xe They don't twist the rope (make a halter) in the animal' s face. If you do that he won't put his head in it.
-\xe Free: Don't signal your intentions.
+\xl They don't twist the rope (make a halter) in the animal' s face. If not like that he won't put his head in it.
+\xe Don't signal your intentions.
 \nt proverb
 \rf Tape:3-1-543
 \rf Tape:8-1-555
@@ -40145,7 +40179,7 @@
 \rf Tape:8-1-174
 \xv Anɩ lɔwa aba ɩbɩ.
 \xe We shook each other's hands.
-\dt 03/Jan/2017
+\dt 28/Jan/2017
 
 \lx wa bɩ
 \ph wá bɪ
@@ -40395,12 +40429,14 @@
 \ge very dry
 \is 1.3.3.1
 \de to be very dry
+\mn REDUP 1
+\ng **Derivative**
 \ps ADJ
 \sn 2
 \ge astringent
 \xv Bɩsɩ amʋtɔ gyi wesee.
 \xe The cola nut is astringent.
-\dt 03/Jan/2017
+\dt 20/Jan/2017
 
 \lx wɛ
 \ph wɛ
@@ -40613,6 +40649,9 @@
 \xv Fufu wɔ bʋ ɔnlɩn, tamɛ ɩbʋ agyilɛ.
 \xe It is hard to pound fufu but it is good to eat.
 \bb Stewart List:2810
+\sn 3
+\ge wound
+\de to injure someone
 \xv Wɔ mʋ tswɛ.
 \xe Punch him.
 \se wɔwɔ
@@ -40620,6 +40659,8 @@
 \ge throb
 \is 2.5.6.1
 \de to throb
+\mn REDUP 2
+\ng **Derivative**
 \rf Tape:8-1-320
 \xv Mʋ ansibi, mʋ́tɔ dɛ mʋ wɔwɔ.
 \xe His eyes are throbbing.
@@ -40633,7 +40674,7 @@
 \de to say something hurtful with words
 \xv Nɛblɩ oblikpini wɔ mɩ kulu.
 \xe I spoke indirectly and hurt my husband.
-\dt 29/Nov/2016
+\dt 20/Jan/2017
 
 \lx wɔfa
 \ph wɔfa
@@ -40897,9 +40938,9 @@
 \xv Wuna wanlɩn fʋ ɩda ha mɩ asa fʋ nati.
 \xe Why not write your name for me right now before you go.
 \xv Wuna mɔ mɩ!
-\xe Kill me right now!
+\xl Kill me right now!
 \xe You might as well kill me!
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx wunasʋ
 \ph ŋwúná!sʊ́
@@ -41010,13 +41051,13 @@
 \ge porridge
 \is 5.2.3.4
 \de millet porridge
-\xv Bʋtɔpʋ atsɩ gyi wʋdɩ.
-\xe They eat beans with porridge.
+\xv Bʋtɔpʋ atse gyi wʋdɩ.
+\xl They eat beans with porridge.
 \xe Beans are eaten with porridge.
 \rf Tape:1-2-076
 \xv Bʋtɔkwɛ atɩkɔ nfuo pʋ wuli wʋdɩ, bʋtɔpʋ bwɛ nta igyi pitoo.
 \xe They grind millet flour and stir it into a porridge. They make a fermented drink called Pito from it.
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx wʋlɛ
 \ph wʊlɛ
@@ -41592,7 +41633,7 @@
 \is 6.4.2
 \de trap
 \xv Yibi kpa a, ɔma iteyinki.
-\xe When a trap sprung, it always goes back.
+\xl When a trap sprung, it always goes back.
 \xe When the time comes things go back to where they have come from.
 \nt proverb
 \rf Tape:8-1-558
@@ -41600,7 +41641,7 @@
 \xv Yibi lakpa kɩta kpasi amʋ.
 \xe A trap has sprung and caught the bush rat.
 \bb Stewart List:1228
-\dt 07/Jan/2017
+\dt 28/Jan/2017
 
 \lx yie
 \ph yíéʔ
@@ -41719,7 +41760,7 @@
 \is 7.2.3.6
 \de to return to a previous state
 \xv Yibi kpa a, ɔma iteyinki.
-\xe When a trap sprung, it always goes back.
+\xl When a trap sprung, it always goes back.
 \xe When the time comes things go back to where they have come from.
 \nt proverb
 \rf Tape:8-1-558
@@ -41734,7 +41775,7 @@
 \xv Nɛda mʋ. Oleyinki da mɩ mʋ ɛ.
 \xe I hit him. He also hit me back.
 \bb Stewart List:2467
-\dt 09/Jan/2017
+\dt 28/Jan/2017
 
 \lx yinkɩa
 \ph yíŋkɪ́a
