@@ -1522,8 +1522,10 @@
 \xe They use mirror to look at one's faces.
 \se ansibi ahʋhwɛ
 \ge glasses
-\de eyeglasses (Obsolete?)
-\dt 12/Jan/2017
+\de eyeglasses
+\ue Obsolete?
+\ng _Compound_
+\dt 10/Feb/2017
 
 \lx ahʋrotia
 \ph ahʊ́rotia(H)
@@ -2189,7 +2191,8 @@
 \is 9.2.3.2
 \is 9.5.1.4
 \de by all means
-\dt 19/Dec/2016
+\ng _Compound_
+\dt 10/Feb/2017
 
 \lx alɩɩ
 \ph alɪː(H)
@@ -6933,9 +6936,10 @@
 \ps v
 \ge sunrise
 \is 8.4.1.2.3
+\de sunrise
 \xv Nɩ owi ɔdalɩ tsu owi okplɩwiekpa a, igyi isuna kpɔnkpɔɔnkpɔntɩ, tsufɛ owi ɔdalɩkpa owi tɛdalɩ tsu.
 \xe When the sun rises from the west, it is a big sign, because the sun rises from the east.
-\dt 19/Dec/2016
+\dt 10/Feb/2017
 
 \lx dalɩ tsu
 \ph dálɪ́ t͡súʔ
@@ -9809,9 +9813,11 @@
 \se ansibi gyakuo
 \ps n
 \ge eyeglasses
+\ng _Compound_
 \is 2.3.1.9
+\de eyeglasses
 \ee 'eye traps' from the shape of the fish trap
-\dt 28/Jan/2017
+\dt 10/Feb/2017
 
 \lx gyampi
 \ph ʤampí
@@ -11149,9 +11155,10 @@
 \is 1.4.1
 \is 2.6.6.8
 \de the place where the recent dead reside
+\ng Complex_Form
 \xv Afulitɔ gyi ɔtɩnɛ ánɩ́ afuli bʋteyetsia nɩ bopula amʋ́ ɔma.
 \xe Among the dead is the place that dead people go to live after they are buried.
-\dt 07/Jan/2017
+\dt 10/Feb/2017
 
 \lx ifwie
 \ph ifwíeʔ
@@ -11284,9 +11291,12 @@
 \ps ADJ
 \ge arranged piles
 \is 7.5
+\de to be in arranged pile
+\ng _Derivative_
+\mn REDUP 2
 \xv Nɔyɔ a, bɔbʋa mankani amʋ akuaku. Mʋ́ʋ́ nɛkpa iku kʋlɛ.
 \xe When I went they had set the mankani in piles. And then I collected one pile.
-\dt 12/Dec/2016
+\dt 10/Feb/2017
 
 \lx ikwe
 \ph ikwe
@@ -19291,10 +19301,11 @@
 \ps n
 \ge evil doer
 \is 8.3.7.1
+\de one who does great evil
 \xv Lalahɛ ogyipʋ gyi ɔha ánɩ́ ɔtɔmɔ aha ntɛ mʋ bwɛhɛ sʋ a aha bʋtenya mʋ ifu, tamɛ lakpan ɔbwɛpʋ mʋ́ a, fɛ atɔ wi ana gyi mʋ agyʋma.
 \xe An evil doer is a person that murders people or because of his doings people are afraid of him. but sinners, it is like stealing is their work.
 \bb Stewart List:1652
-\dt 31/Oct/2016
+\dt 10/Feb/2017
 
 \lx Lamba
 \ph Lamba
@@ -19864,9 +19875,10 @@
 \is 2.6.6
 \is 4.8.2.8
 \ge bad death
+\de ritually bad death
 \lt death in blood
 \na Bad deaths include death in childbirth, by car accident, by falling from a tree, killed with a knife.
-\dt 12/Jan/2017
+\dt 10/Feb/2017
 
 \lx lɔ
 \ph lɔ́
@@ -33787,6 +33799,7 @@
 \ps v
 \ge trouble
 \is 4.4.2
+\de to be in trouble
 \xv Mɩ ansɩ lapɛ.
 \xl My eyes have reddened.
 \xe I am in trouble.
@@ -33799,7 +33812,7 @@
 \xv Blɔdɩ amʋ lapɛ. Tɩn mʋ́ ha mɩ.
 \xe The plantain is ripe. Cut it (the entire stalk) for me.
 \bb Stewart List:2251
-\dt 01/Nov/2016
+\dt 10/Feb/2017
 
 \lx pɛlɩ
 \ph pɛ́lɪʔ
@@ -35398,10 +35411,11 @@
 \ps TIME
 \ge immediately
 \is 8.4.6.3.1
+\de immediately
 \nt Southern dialect uses sei for now, sesei for immediately. Northern uses sesei for now, sesesei for immediately
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
-\dt 13/Jan/2017
+\dt 10/Feb/2017
 
 \lx sɛ
 \hm 1
