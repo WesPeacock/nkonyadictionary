@@ -4940,8 +4940,8 @@
 \lt bie "bathe" ɔkla "soul"
 \mn bie
 \ng Compound_Form
-\cf ɔkla
-\dt 29/Jan/2017
+\mn ɔkla
+\dt 30/Jan/2017
 
 \lx bila
 \ph bílá (H)
@@ -5403,6 +5403,20 @@
 \xe Okonko's pineapple is sweeter than his brother's.
 \bb Stewart List:0913
 \dt 19/Aug/2016
+
+\lx blɩbi
+\ph blɪbi
+\ps n
+\sn
+\ge joke
+\de a joke
+\mn blɩ1
+\mn -bi
+\xv Nemli blɩbi dɩnka amʋ́ ɔnɔsʋ.
+\xl I have changed into a joke on their mouths
+\xe People make sport of me.
+\nq check this
+\dt 09/Feb/2017
 
 \lx blɔdɩ
 \ph blɔdɪ(H)
@@ -10100,6 +10114,15 @@
 \is 4.2.2.2
 \de to celebrate, particularly a festival
 \dt 13/Jul/2014
+
+\lx gyi nkla
+\ph ʤi ŋkla
+\ps v
+\sn
+\ge take leave
+\is 3.5.1.4.4
+\de to take leave of someone
+\dt 31/Jan/2017
 
 \lx gyibi
 \ph ʤibi
@@ -15399,14 +15422,17 @@
 \hm 2
 \ph klá
 \ps v
-\sn
+\sn 1
 \ge notify
-\is 3.5.1.4.4
 \is 3.5.2.1
 \de to notify
 \xv Ɩlɔ tamakla
 \xl Sickness doesn't notify.
 \xe You don't know when you will be sick.
+\sn 2
+\is 3.5.1.4.4
+\ge take leave
+\de to say farewell
 \rf Tape:3-2-111
 \rf Tape:3-2-114
 \xv Ɔkɛ amʋ a, amʋ́tɔ ɔtrahɛ ogyi ɔtsɩ bʋtɛtɩ mʋ Ipu a, ɔlɛkla mʋ sɩ ɔbɛɛ mégya mʋ apio ɔkpa.
@@ -15416,7 +15442,7 @@
 \xe I will travel, so I am going to notify my friend. Perhaps he will give me a message to take to his brothers.
 \bb Stewart List:3211
 \bb Stewart List:3257
-\dt 28/Jan/2017
+\dt 31/Jan/2017
 
 \lx klaɛ
 \ph kláɛʔ (L)
@@ -17324,7 +17350,13 @@
 \de profound
 \xv Ɔlɛha ayebi akpikpli, sʋ ɔhaa mónu mʋ́ asɩ.
 \xe He gave profound proverbs so no one could understand its meaning.
-\dt 20/Jul/2016
+\sn 3
+\ge safe
+\de to be safe
+\nq check this
+\xv oŋainkpa kpikpli
+\xe fortress
+\dt 10/Feb/2017
 
 \lx kpikplibi
 \ph k͡pik͡plibi(H)
@@ -21342,6 +21374,15 @@
 \cf ɔdanʋ
 \dt 28/Jan/2017
 
+\lx muna
+\ph múná
+\ps v
+\sn
+\ge engulf
+\de to eengulf or overwhelm
+\nq check this
+\dt 09/Feb/2017
+
 \lx munsa
 \ph múnsá
 \ps v
@@ -21947,6 +21988,14 @@
 \cf ɔdɔtɔpʋ
 \bb Stewart List:1242
 \dt 06/Dec/2016
+
+\lx nɛ
+\ph nɛ́
+\ps v
+\sn
+\ge part(v)
+\de to part something
+\dt 07/Feb/2017
 
 \lx nfa
 \ph ɱfa
@@ -29472,6 +29521,15 @@
 \xv Ɔdɛ asafʋ ɔfranka amʋ wʋna.
 \xe He is waving the war group's flag.
 \dt 28/Nov/2016
+
+\lx ɔfrɔdɔ
+\ph ɔfrɔ́dɔ
+\ps n
+\sn
+\ge water
+\de deep place
+\nq from Psalm 69 'miry place' what's the difference between this and adɩba?
+\dt 09/Feb/2017
 
 \lx ɔfʋ
 \ph ɔfʊ
