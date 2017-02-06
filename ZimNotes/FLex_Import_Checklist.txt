@@ -10,9 +10,17 @@ checklist for FW import
 	a. mark them: perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' <infile >outfile
 2. Subentries
 	a. check sub-entry duplicates as main entries
-	b. promote sub-entries 
-	c. classify sub-entries
-		1. Compound e.g.blackboard 
-
-
+	b. classify sub-entries
+		1. Compound e.g.blackboard
+		2. Contraction
+		3. Derivative
+		4. Idiom
+		5. Phrasal Verb
+		6. Saying
+		7. Unspecified Complex Form
+	c. promote sub-entries 
+3. Borrowed Words
+	a. change  \bw Akan fi:nda awɔtwɛ LH LLL
+	b. to \bwl Akan<CRLF>\bws nda awɔtwɛ LH LLL
+	c. perl -pe 's#\\bw ([^ ]*) fi:(.*)#\\bwl $1\n\\bwf $2#' <infile >outfile
 
