@@ -182,6 +182,13 @@
 \CharStyle
 \-mkr
 
+\+mkr ctyp
+\nam Complex Form type
+\lng vernacular
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
 \+mkr de
 \nam Definition (E)
 \desc Used to fully express the semantic domains of each sense of a lexeme in English. May be verbose. Other fields (\ee, \ue, and \oe) provide for expanded information. Should contain 1) the bundle of semantic distinctive features necessary and sufficient to describe its core meaning, and 2) the range of denotation of the lexeme. Generally, no initial capital is used.
@@ -225,7 +232,7 @@
 \+mkr ec
 \nam Etymology comment
 \desc Any comments the researcher needs to add concerning the etymology of the lexeme can be given here. Not intended for printing.
-\lng English
+\lng vernacular
 \mkrOverThis et
 \CharStyle
 \-mkr
@@ -454,7 +461,7 @@
 \+mkr nq
 \nam Notes (questions)
 \desc For any question or note for further study, pertinent to the lexeme, that you want separate from general notes. Capitalization and punctuation should be used as needed.
-\lng English
+\lng vernacular
 \mkrOverThis sn
 \CharStyle
 \-mkr
@@ -470,6 +477,12 @@
 \+mkr nt
 \nam Notes (general)
 \desc A generic dump for all personal notes about an entry, subentry, or sense. More specific note fields provide a finer differentiation to one's notes: \np (phonology), \ng (grammar), \nd (discourse), \na (anthropology), \ns (sociolinguistics), and \nq (questions). All "note fields" should use capitalization and punctuation as needed.
+\lng vernacular
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
+\+mkr nx
 \lng vernacular
 \mkrOverThis sn
 \CharStyle
@@ -827,6 +840,14 @@
 \CharStyle
 \-mkr
 
+\+mkr vadph
+\nam Dialect Variant Phonetic
+\desc Phonetic transcription of Allophone vaiant. This is necessary because FieldWorks import will attach \vaph to the variant additional entry. The allophone entry is under the lexeme.
+\lng phonetic
+\mkrOverThis vad
+\CharStyle
+\-mkr
+
 \+mkr vaph
 \nam Variant phonetic form
 \desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
@@ -840,6 +861,14 @@
 \desc Variant spelling
 \lng vernacular
 \mkrOverThis lx
+\CharStyle
+\-mkr
+
+\+mkr vasph
+\nam Variant spelling phonetic form
+\desc Used as needed to retain the phonetic information that is lost when an orthographic spelling is used for an entry. Can follow \lx or \se.  Details on how to interpret symbols in this field should be included in pronunciation guide.
+\lng phonetic
+\mkrOverThis vas
 \CharStyle
 \-mkr
 
@@ -932,6 +961,19 @@
 \CharStyle
 \-mkr
 
+\+mkr xx
+\nam test marker
+\lng vernacular
+\mkrOverThis sn
+\CharStyle
+\-mkr
+
+\+mkr zzzAlphDiv
+\nam Alphabetic Divider
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
 \-mkrset
 
 \iInterlinCharWd 10
@@ -946,19 +988,21 @@
 \match_char i
 \-fil
 
-\+fil InitialString
+\+fil FinalString
 \mkr lx
-\txt [#]gyagya
+\txt pʋ[#]
 \match_char c
 \-fil
 
 \+fil Marker2Present
-\mkr le
+\mkr se
 \match_char c
 \-fil
 
-\+fil MarkercfPresent
-\mkr cf
+\+fil MultiMarkerPresent
+\mkr vaph
+\fel And
+\mkr vas
 \match_char c
 \-fil
 
@@ -1000,14 +1044,19 @@
 \match_char c
 \-fil
 
+\+fil multiword
+\mkr lx
+\match_char c
+\-fil
+
 \+fil nonuniq
 \fel NonUnique
 \match_char c
 \-fil
 
 \+fil search
-\mkr lx
-\txt bi[#]
+\fel Not
+\mkr de
 \match_char c
 \-fil
 
@@ -1087,9 +1136,9 @@
 \copyright Copyright © 2014 GILLBT
 \EnglishGlossIndex
 \titleEnglishDiglot Nkonya English Dictionary
-\titleGlossIndexEE English to Nkonya index
+\titleGlossIndexEE Nkonya Dictionary
 \exportedEnglishDiglot C:\My Toolbox Projects\Nkonya\tmp\BeforeFix\nkolex-all.rtf
-\exportedGlossIndexEE C:\My Toolbox Projects\Nkonya\tmp\BeforeFix\nkolex-all-finderlist.rtf
+\exportedGlossIndexEE C:\My Toolbox Projects\Nkonya\tmp\BeforeFix\nkolex-all.rtf
 \cctEnglishLabels mdf_eng.cct
 \dotEnglish mdf_e.dot
 \cctNationalLabels mdf_inz.cct
@@ -1129,8 +1178,9 @@
 
 \+expRTF Rich Text Format
 \dotFile C:\My Toolbox Projects\Nkonya\Settings\MDF_e.dot
-\exportedFile C:\My Toolbox Projects\Nkonya\tmp\BeforeFix\nkolex-g.rtf
+\exportedFile C:\My Toolbox Projects\Nkonya\tmp\BeforeFix\nkolex-all.rtf
 \CheckConsistency
+\AddAlphDiv
 \+rtfPageSetup 
 \paperSize letter
 \topMargin 1
@@ -1151,7 +1201,7 @@
 
 \+expXML XML
 \UTF8
-\exportedFile C:\My Toolbox Projects\Nkonya\Nkolex-test,xnl.xml
+\exportedFile C:\My Toolbox Projects\Nkonya\tmp\Nkolex.xml
 \-expXML
 
 \expDefault XML
