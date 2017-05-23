@@ -150,6 +150,25 @@
 \CharStyle
 \-mkr
 
+\+mkr bwc
+\nam Borrowed Word Comment
+\lng vernacular
+\mkrOverThis lx
+\CharStyle
+\-mkr
+
+\+mkr bwf
+\nam Bor. Word Frm
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
+\+mkr bwl
+\nam Bor. Word Lng
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
 \+mkr ce
 \nam Cross-ref. gloss (E)
 \desc Gives the English gloss(es) for the vernacular lexeme referenced by the preceding \cf field.
