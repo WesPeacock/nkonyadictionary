@@ -22,6 +22,7 @@ my $modeltag = $config->{hackFWvariants}->{modeltag};
 my $modifytag = $config->{hackFWvariants}->{modifytag};
 my $infilename = $config->{hackFWvariants}->{infilename};
 my $outfilename = $config->{hackFWvariants}->{outfilename};
+# ToDo? check that parameters exist
 
 if ( (index($modeltag, $modifytag) != -1) or  (index($modifytag, $modeltag) != -1)) {
 # Xpath doesn't use regex and we use Xpath to query the FW project
@@ -39,7 +40,7 @@ I'm quitting" if -f $lockfile ;
 
 my $nktree = XML::LibXML->load_xml(location => $infilename);
 
-#ToMaybeDo -- if the script were used over and over:
+#ToDo? -- if the script were used over and over:
 #  build a hash of all rt's indexed by guid 
 # But:
 # "Premature optimization is the root of all evil."
