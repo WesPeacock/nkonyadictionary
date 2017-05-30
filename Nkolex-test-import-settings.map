@@ -1,6 +1,6 @@
 
 <!--=====================================================================
-Created via the Lexical Import process: 1/19/2017 11:16:23 AM
+Created via the Lexical Import process: 1/30/2017 11:57:42 AM
 ===================================================================== -->
 <sfmMapping version="6.1">
 
@@ -33,16 +33,16 @@ Language Definitions
 Level Hierarchy
 ===================================================================== -->
 <hierarchy>
-<level name="Entry" partOf="records" beginFields="lx" additionalFields="ph dt" multiFields="ph"/>
+<level name="Entry" partOf="records" beginFields="lx" additionalFields="mn dt ph" multiFields="ph mn"/>
 <level name="Etymology" partOf="Entry Subentry" beginFields="ignore"/>
-<level name="Example" partOf="Sense" beginFields="rf xv"/>
-<level name="ExampleTranslation" partOf="Example" beginFields="xe" additionalFields="xl" multiFields="xl"/>
+<level name="Example" partOf="Sense" beginFields="xv"/>
+<level name="ExampleTranslation" partOf="Example" beginFields="xe"/>
 <level name="Function" partOf="Subentry Sense Entry" beginFields="ignore"/>
 <level name="Picture" partOf="Sense" beginFields="ignore"/>
 <level name="Pronunciation" partOf="Entry Subentry" beginFields="ignore"/>
 <level name="SemanticDomain" partOf="Sense" beginFields="is"/>
-<level name="Sense" partOf="Entry Subentry" beginFields="ps ge sn" additionalFields="de bb" multiFields="de bb"/>
-<level name="Subentry" partOf="Entry" beginFields="ignore"/>
+<level name="Sense" partOf="Entry Subentry" beginFields="ps ge sn" additionalFields="de np ng" multiFields="de np ng"/>
+<level name="Subentry" partOf="Entry" beginFields="ignore" additionalFields="cmc" multiFields="cmc" uniqueFields="cmc"/>
 <level name="Variant" partOf="Subentry Sense Entry" beginFields="ignore"/>
 </hierarchy>
 
@@ -65,29 +65,32 @@ Field Descriptions
 <field sfm="ge" name="Gloss" type="string" lang="English" >
 <meaning app="fw.sil.org" id="glos"/>
 </field>
-<field sfm="is" name="Semantic Domain" type="string" lang="English" abbr="True" >
-<meaning app="fw.sil.org" id="sem"/>
-</field>
 <field sfm="de" name="Definition" type="string" lang="English" >
 <meaning app="fw.sil.org" id="def"/>
 </field>
-<field sfm="rf" name="Reference" type="string" lang="English" >
-<meaning app="fw.sil.org" id="ref"/>
+<field sfm="dt" name="Date Modified" type="date" lang="English" >
+<meaning app="fw.sil.org" id="mod"/>
+</field>
+<field sfm="mn" name="Main Entry/Sense Reference" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="meref"/>
+</field>
+<field sfm="cmc" name="Subentry/Complex Form" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Compound"/>
+</field>
+<field sfm="is" name="Semantic Domain" type="string" lang="English" abbr="True" >
+<meaning app="fw.sil.org" id="sem"/>
+</field>
+<field sfm="ng" name="Grammar Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="grnote"/>
+</field>
+<field sfm="np" name="Phonology Note" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="pnote"/>
 </field>
 <field sfm="xv" name="Example" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="sent"/>
 </field>
 <field sfm="xe" name="Example Translation" type="string" lang="English" >
 <meaning app="fw.sil.org" id="trans"/>
-</field>
-<field sfm="xl" name="Example Translation" type="string" lang="English" >
-<meaning app="fw.sil.org" id="trans"/>
-</field>
-<field sfm="dt" name="Date Modified" type="date" lang="English" >
-<meaning app="fw.sil.org" id="mod"/>
-</field>
-<field sfm="bb" name="Bibliography (Sense)" type="string" lang="English" >
-<meaning app="fw.sil.org" id="sbib"/>
 </field>
 </fieldDescriptions>
 
