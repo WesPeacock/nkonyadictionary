@@ -99,6 +99,24 @@
 \mkrOverThis id
 \-mkr
 
+\+mkr xe
+\nam *
+\lng vernacular
+\mkrOverThis id
+\-mkr
+
+\+mkr xl
+\nam *
+\lng vernacular
+\mkrOverThis id
+\-mkr
+
+\+mkr xv
+\nam *
+\lng vernacular
+\mkrOverThis id
+\-mkr
+
 \-mkrset
 
 \iInterlinCharWd 8

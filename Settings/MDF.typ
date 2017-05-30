@@ -185,6 +185,11 @@
 \CharStyle
 \-mkr
 
+\+mkr cmc
+\lng vernacular
+\mkrOverThis lx
+\-mkr
+
 \+mkr cn
 \nam Cross-ref. gloss (n)
 \desc Gives the national language gloss(es) for the vernacular lexeme referenced by the preceding \cf field.
