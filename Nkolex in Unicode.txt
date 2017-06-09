@@ -38512,7 +38512,7 @@
 \lx -tɔ
 \ph -tɔ
 \ps POST
-\sn
+\sn 1
 \ge in
 \is 8.5.1.4
 \de inside; into
@@ -38523,7 +38523,13 @@
 \xv Kɩ ntsu amʋtɔ fówun lɛnkɛ amʋ da mʋ́tɔ.
 \xe Look inside the water you will see the crocodile lying in it..
 \bb Stewart List:0954
-\dt 09/Jan/2017
+\sn 2
+\ge LOC
+\de location marker, with greater specificity
+\xv Nɔyɔ woyi. Nɔyɔ woyitɔ.
+\xe I am going home (hometown). I am going home (to my house).
+\ng The difference between sense 1 and sense 2 is illustrated in the following two sentences. "Nɛba woyitɔ anfɩ" -- I came to this house. "Nɛba woyi anfɩtɔ." -- I came into this house
+\dt 07/Jun/2017
 
 \lx tɔá
 \ph tɔ́á
