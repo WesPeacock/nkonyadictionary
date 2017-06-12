@@ -11,7 +11,33 @@ Creation-Date: 2016-11-24T13:27:40-07:00
 ;     put the regexes that terminate the \se entries here
 ;     also the default tags that hackFWvariants will look for e.g. \ve Complex_Form
 [hackFWvariants]
+;modeltag=Model Compound
+;modifytag=Compound_Form
+;modeltag=Model Contraction
+;modifytag=_Contraction_
+;modeltag=Model Derivative
+;modifytag=_Derivative_
+;modeltag=Model Idiom
+;modifytag=_Idiom_
+;modeltag=Model Phrasal Verb
+;modifytag=Phrasal_Verb
+;modeltag=Model Saying
+;modifytag=_Saying_
 modeltag=Model Unspecified Complex Entry
 modifytag=Complex_Form
 infilename=Nktest.fwdata
 outfilename=Nktest.new.fwdata
+
+
+[hackFWNonFreeTranslation]
+; don't use xml tags for start/end tags
+;   the xml parser will (of course) read the text as structure 
+NonFreeTranslationStarttag=xl:
+NonFreeTranslationEndtag=/xl:
+NonFreeTranslationType=Literal translation
+; NonFreeTranslationType=xyzzy
+; NonFreeTranslationType=each other
+FreeTranslationType=Free translation
+infilename=Nktest.fwdata
+outfilename=Nktest.new.fwdata
+
