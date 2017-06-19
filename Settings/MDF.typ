@@ -722,6 +722,48 @@
 \mkrOverThis sn
 \-mkr
 
+\+mkr secmpd
+\nam Compound Subentry
+\desc This field is created by a script from a \se field when the \se contains a \ctyp _Compound_. See: se2setype.pl
+\lng vernacular
+\mkrOverThis sn
+\-mkr
+
+\+mkr secmpx
+\nam Complex Form Subentry
+\desc This field is created by a script from a \se field when the \se contains a \ctyp Complex_Form. See: se2setype.pl
+\lng vernacular
+\mkrOverThis sn
+\-mkr
+
+\+mkr seder
+\nam Derivative Subentry
+\desc This field is created by a script from a \se field when the \se contains a \ctyp _Derivative_. See: se2setype.pl
+\lng vernacular
+\mkrOverThis sn
+\-mkr
+
+\+mkr seid
+\nam Idiom Subentry
+\desc This field is created by a script from a \se field when the \se contains a \ctyp _Idiom_. See: se2setype.pl
+\lng vernacular
+\mkrOverThis sn
+\-mkr
+
+\+mkr sephv
+\nam Phrasal Verb Subentry
+\desc This field is created by a script from a \se field when the \se contains a \ctyp Phrasal_Verb. See: se2setype.pl
+\lng vernacular
+\mkrOverThis sn
+\-mkr
+
+\+mkr seundef
+\nam Subentry Undefined
+\desc This field is created by a script from a \se field when the \se contains an unknown or missing \ctyp. See: se2setype.pl
+\lng vernacular
+\mkrOverThis sn
+\-mkr
+
 \+mkr sg
 \nam Singular form
 \desc This is a special paradigm field used to give the singular form of the lexeme. (It is better to use the \pdl field set for this.)
