@@ -6,9 +6,7 @@ Creation-Date: 2017-01-20T11:25:23-07:00
 Created Friday 20 January 2017
 
 checklist for FW import
-1. literal translations
-	a. mark them: perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' <infile >outfile
-2. Subentries
+1. Edit Subentries
 	a. check sub-entry duplicates as main entries
 	b. classify sub-entries
 		1. Compound e.g.blackboard
@@ -18,5 +16,30 @@ checklist for FW import
 		5. Phrasal Verb
 		6. Saying
 		7. Unspecified Complex Form
-	c. convert sub-entries 
+
+Other gotchas:
+	FLEx 8.3 can't import circumfixes (e.g. ɔ- -pʋ — "da ɩkwɛ" drum(v)  "ɩkwɛ ɔdapʋ" drummer.
+		Convert to ɔXXpʋ- before import
+		In FLEx filter on XX and change the prefixes to circumfixes
+		Change XX to "- -'
+
+2. Run Scripts —
+	   - In general these can be chained for the conversion:
+2.1. literal translations — run before one lx per line code
+	a. mark them:
+		perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' <infile >outfile
+	1. The above command changes "\xl Mine is not there." to "\xl xl:Mine is not there./xl:"
+2.2. convert circumfixes —run before one lx per line code
+	a. mark them:
+			 perl -pe 's#[\-]\ [\-](.*)#XX$1\-#'
+		The above line changes "\lx ɩ- -la" to "\lx ɩXXla-"
+		assumes XX doesn't occur elsewhere
+2.3. above  can be piped in the stream
+2.4.  convert sub-entries after one lx per line
+		see run documentation in the //se2setype.pl// script
+
+3. Literal translationsHack
+4. Initial Bulk edits in FLEx
+	4.1.  filter XX change prefix to circumfix and XX to "- -"
+	4.2 Literal translationsHack
 
