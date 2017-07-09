@@ -14,7 +14,7 @@
 
 # input should be preprocessed to change all CRLFs to # except before \lx
 #     Run it like:
-#        dos2unix <inputfile.sfm | perl -pe 's/#/__hash__/g' | perl -pe 's/\n*$/#/' | perl -pe 's/#\\lx/\n\\lx/g' |\
+#        dos2unix <inputfile.sfm | perl -pe 's/#/__hash__/g' | perl -pe 'chomp; print "\n" if /\\lx /; $_ .= "#"' | perl -pe 's/##/#/g; s/#$//' |\
 #        perl -pf Scripts/se2setype.pl |\
 #        perl -pe 's/#/\n/g' | perl -pe 's/__hash__/#/g' | unix2dos >ouputfile.sfm
 

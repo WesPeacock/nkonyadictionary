@@ -7,13 +7,13 @@
 # \vad ... (\vadph)... (\ve)
 # Reads a one per line record E.g.:
 # \lx ɔdaɩ#\ph ɔdáɪ#\ps ADJ#\sn#\ge sour#\is 2.3.3#\de sour#\dt 01/Jul/2014#
-# input should be preprocessed to change all CRLFs to # except before \lx
+# input should be preprocessed to change all CRLF sequences to # except before \lx
 #     Run it like:
 #        dos2unix <da-din-org.sfm |\
 #        perl -pe 's/#/__hash__/g' |\
-#        perl -pe 's/\n*$/#/' |\
-#        perl -pe 's/#\\lx/\n\\lx/g' |\
-#        perl -pf Scripts/cfcreations.pl|\
+#        perl -pe 'chomp; print "\n" if /\\lx /; $_ .= "#"' |\
+#        perl -pe 's/##/#/g; s/#$//' |\
+#        perl -pf Scripts/cfcreatios.pl|\
 #        unix2dos >da-din-se-promoted.sfm
 
 # dos2unix <Nkolex\ in\ Unicode.txt | perl -pe 's/#/__hash__/g' | perl -pe 's/\n*$/#/' | perl -pe 's/#\\lx/\n\\lx/g' >/tmp/y.bak &&  perl -pe 's/##/#/g' </tmp/y.bak >/tmp/y.tmp 

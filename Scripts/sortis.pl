@@ -5,8 +5,8 @@
 #        cp Nkolex\ in\ Unicode.txt Nkolex\ in\ Unicode.bkp
 #        dos2unix <Nkolex\ in\ Unicode.bkp |\
 #        perl -pe 's/#/__hash__/g' |\
-#        perl -pe 's/\n*$/#/' |\
-#        perl -pe 's/#\\lx/\n\\lx/g' |\
+#        perl -pe 'chomp; print "\n" if /\\lx /; $_ .= "#"' |\
+#        perl -pe 's/##/#/g; s/#$//' |\
 #        perl -nf Scripts/sortis.pl |\
 #        perl -pe 's/#/\n/g' |\
 #        perl -pe 's/__hash__/#/g' |\
