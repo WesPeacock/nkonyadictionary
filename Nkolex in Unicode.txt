@@ -1095,6 +1095,7 @@
 \lx aganɛ
 \ph agánɛ(H)
 \vad nyankpʋkpie
+\vadph ɲaŋ͡mk͡pʊ́k͡píeʔ(L)
 \ve Northern
 \ps n
 \sn
@@ -1103,10 +1104,9 @@
 \de little brown scorpion
 \sc Order: Scorpiones
 \nt
-\ns Southern dialect
 \xv Bamɔ aganɛ amʋʋ ɔlɔsʋra kebi amʋ.
 \xe They have killed the scorpion that stung the child.
-\dt 13/Jan/2017
+\dt 09/Jul/2017
 
 \lx Agbagya
 \ph ag͡baʤáʔ
@@ -1764,7 +1764,7 @@
 \lx Aklɩfɔ
 \ph aklɪ́fɔ́ (H)
 \sg Ɔklɩfɔ
-\ph ɔklɪ́fɔ (H)
+\sgph ɔklɪ́fɔ (H)
 \ps Propn
 \sn
 \ge Alavanyo
@@ -1776,7 +1776,7 @@
 \de Alavanyo – the Ewe speaking people to the east of Southern Nkonya
 \ee For nearly the last century there has been periodic war between the Nkonyas and the Alavanyos.
 \cf klɩ
-\dt 18/Dec/2016
+\dt 09/Jul/2017
 
 \lx Akloba
 \ps PropN
@@ -1833,8 +1833,8 @@
 
 \lx Akosua
 \ph akosua
-\vas Akwasua
-\vas Akos
+\va Akos
+\vaph akos
 \ps PropN
 \sn
 \ge Akosua
@@ -1848,7 +1848,7 @@
 \cf kwɩɩda
 \cf Kwasieda
 \cf Kwasi
-\dt 06/Oct/2016
+\dt 09/Jul/2017
 
 \lx akɔklɔ
 \ph akɔklɔ(L)
@@ -2559,6 +2559,7 @@
 \ph anɪ(H)
 \ps PRO
 \vas anɩ-
+\vasph anɪ
 \sn 1
 \ge we/us
 \is 9.2.3
@@ -2575,7 +2576,7 @@
 \rf Tape:1-1-462
 \xv Nɩ awu a, anɩ bwɛhɛ bobuo anɩ.
 \xe When we die, our deeds will come to follow us.
-\dt 06/Oct/2016
+\dt 09/Jul/2017
 
 \lx ánɩ́
 \ph ánɪ́
@@ -8256,9 +8257,10 @@
 \dt 10/Sep/2016
 
 \lx ekekegyiɛkɛ
-\ph ekekeʤíɔ́kɛ
+\ph ekekeʤíɛ́kɛ
 \ps ADV
 \vad okekegyiɔkɛ
+\vadph okekeʤíɔ́kɛ
 \ve Northern
 \sn
 \ge every day
@@ -8269,11 +8271,12 @@
 \xv Ekekegyiɛkɛ kebi anfɩ desu.
 \xe Every day this child is crying.
 \cf ɛkɛ
-\dt 06/Oct/2016
+\dt 09/Jul/2017
 
 \lx elin
 \ph elĩ́ʔ
 \vad olin
+\vadph olĩ́ʔ
 \ve Northern
 \ps n
 \sn
@@ -8283,7 +8286,7 @@
 \xv Ɩwɔ ladun mʋ, sʋ ɩwɔ amʋ olin dɛ mʋ dʋ.
 \xe A snake has bitten him so the snake's poison is climbing up him (rising higher in the body).
 \bb Stewart List:1266
-\dt 06/Oct/2016
+\dt 09/Jul/2017
 
 \lx ɛ
 \ph ɛ
@@ -8336,6 +8339,7 @@
 \pl nkɛ
 \plph ŋkɛ
 \vad ɔkɛ
+\vadph ɔkɛ
 \ve Northern
 \sn
 \ge day
@@ -8352,7 +8356,7 @@
 \xv Ekekegyiɛkɛ bakɛ a, abatɛ bʋtɔbɔn.
 \xe Every early morning, roosters crow.
 \bb Stewart List:1102
-\dt 15/Jun/2017
+\dt 09/Jul/2017
 
 \lx ɛkɛkɛɛkɛ
 \ph ɛkɛkɛːkɛ (H)
@@ -8379,6 +8383,7 @@
 \ph ɛwɛ (H)
 \ps n
 \vad ɔwɛ
+\vadph ɔwɛ (H)
 \ve Northern
 \pl nwɛ
 \plph nwɛ(H)
@@ -8396,7 +8401,7 @@
 \xe Bring the calabash so that I can fetch water.
 \cf onuwe
 \bb Stewart List:1210
-\dt 01/Dec/2016
+\dt 09/Jul/2017
 
 \lx fa
 \hm 1
@@ -10651,6 +10656,7 @@
 \ph há
 \ps v
 \vad han
+\vadph hã́
 \ve Southern
 \sn 1
 \ge give
@@ -10673,7 +10679,7 @@
 \ge cause
 \is 9.6.2.5
 \de to cause or make to happen
-\dt 13/Jan/2017
+\dt 09/Jul/2017
 
 \lx haɩ
 \ph háɪ
@@ -13611,6 +13617,7 @@
 \ph ɪpʷɛ ɔdɛkɛtrákɛ
 \ps TIME
 \vad Yinke
+\vadph yiŋké
 \ve Northern
 \sn
 \ge Third day
@@ -13620,7 +13627,7 @@
 \na See Ɩpwɛ for a list of the Nkonya days.
 \ns The Southern dialect has two days called Ɔdɛkɛtrakɛ, Ɩpwɛ Ɔdɛkɛtrakɛ, two days following Ɩpwɛ and Kulihɛ Ɔdɛkɛtrakɛ, two days following Kulihɛ.
 \cf Ɩpwɛ
-\dt 12/Dec/2016
+\dt 09/Jul/2017
 
 \lx ɩsa
 \ph ɪsáʔ
@@ -15971,6 +15978,7 @@
 \pl aklɛkpakpa
 \plph aklɛ́k͡pak͡pa
 \vad ɔdakpokpo
+\vadph ɔdak͡pok͡po
 \ve Southern
 \sn
 \ge woodpecker
@@ -15981,7 +15989,7 @@
 \xv Klɛkpakpa gyon oyisʋ.
 \xe The woodpecker is perched on the tree.
 \bb Stewart List:0722
-\dt 10/Jan/2017
+\dt 09/Jul/2017
 
 \lx klɛmɛtɩ
 \ph klɛmɛtɪ́
@@ -21255,7 +21263,7 @@
 \dt 21/Jul/2016
 
 \lx mmɛ
-\ph mmɛ(H)
+\ph mːɛ(H)
 \ps n
 \sn
 \ge mucus
@@ -21268,12 +21276,13 @@
 \xv Nɛyɛfɛn mmɛ amba.
 \xe I am going to blow my nose and come.
 \bb Stewart List:0085
-\dt 17/May/2016
+\dt 09/Jul/2017
 
 \lx mmuatse
-\ph mmuát͡se
+\ph mːuát͡se
 \ps n
 \vad mmua
+\vadph mːua
 \ve Southern
 \sn
 \ge backyard
@@ -21284,7 +21293,7 @@
 \rf Tape:2-2-422
 \xv Nyankpʋ tswie brɛ a, aha mmuatse tɛbla ɔsasʋ.
 \xe In rainy season people's backyards quickly get full of weeds.
-\dt 13/Jan/2017
+\dt 09/Jul/2017
 
 \lx mobaɩl
 \ph mobaɪl
@@ -21622,6 +21631,7 @@
 \ps n
 \sn
 \sg opuni
+\sgph opúniʔ
 \ge intestine
 \is 2.1.8
 \de intestine
@@ -21632,7 +21642,7 @@
 \xe I heard the matter and my intestine uprooted me.
 \bb Stewart List:0042
 \bb SIL-AWL:0086
-\dt 12/Jan/2017
+\dt 09/Jul/2017
 
 \lx mpupubi
 \ph mpupubi
@@ -22727,6 +22737,7 @@
 \ph ŋkanʊ
 \ps n
 \vad nkandʋ
+\vadph ŋkandʊ
 \ve Northern
 \sn
 \ge rust
@@ -22735,7 +22746,7 @@
 \rf Tape:5-1-172
 \xv Ganu amʋtɔ lawɩ nkandʋ.
 \xe The inside of the can has rusted.
-\dt 03/Oct/2016
+\dt 09/Jul/2017
 
 \lx nkɛ
 \ph ŋkɛ
@@ -23116,6 +23127,7 @@
 \dt 29/Aug/2016
 
 \lx nnonyɔ
+\ph nːoɲɔ
 \ps n
 \sn
 \ge falsehood
@@ -23129,7 +23141,7 @@
 \mn ɔnɔ
 \ctyp _Derivative_
 \mn -nyɔ
-\dt 29/Jan/2017
+\dt 09/Jul/2017
 
 \lx -nnu
 \ph nːu(H)
@@ -23742,9 +23754,9 @@
 \de dragonfly
 \sc Anisoptera
 \pl ntsusʋ aklanklan
-\ph nt͡susʊ aklãŋklã
+\plph nt͡susʊ aklãŋklã
 \cf ɔwantɩntsu
-\dt 19/Oct/2016
+\dt 09/Jul/2017
 
 \lx ntsutso
 \ph nt͡sut͡so(H)
@@ -24012,9 +24024,10 @@
 \dt 16/Jul/2016
 
 \lx nwɛ
-\ph ɪ̃wɛ̃(H)
+\ph ŋwɛ̃(H)
 \ps n
 \vad ɩwɛ
+\vadph ɪ̃wɛ̃(H)
 \ve Southern
 \sn
 \ge mercy
@@ -24032,7 +24045,7 @@
 \is 4.4.4.1
 \de one who is merciful
 \ctyp _Compound_
-\dt 10/Feb/2017
+\dt 09/Jul/2017
 
 \lx nwɛn
 \hm 1
@@ -25048,6 +25061,7 @@
 \pl mbien
 \plph mbĩ́ẽ́
 \vad ebien
+\vadph ebĩ́ẽ́ʔ
 \ve Southern
 \sn
 \ge snail
@@ -25062,7 +25076,7 @@
 \xv Obien tamanatɩ si mʋ hontro.
 \xe A snail does not travel without its shell.
 \bb Stewart List:0768
-\dt 08/Jan/2017
+\dt 09/Jul/2017
 
 \lx obitebi
 \ph obitebíʔ
@@ -25166,6 +25180,7 @@
 \ph obṍʔ
 \ps n
 \vad ebon
+\vadph ebṍʔ
 \ve Southern
 \sn
 \ge clay
@@ -25179,7 +25194,7 @@
 \xv Nɩ bɔpwɛ ta a, bʋtɔtɔ mʋ́, tamɛ ɩtamabwiebwie.
 \xe If they finish sculpting, they fire them but they never break into pieces.
 \bb Stewart List:1055
-\dt 03/Oct/2016
+\dt 09/Jul/2017
 
 \lx oboyi
 \ph obóyiʔ
@@ -25271,6 +25286,7 @@
 \ph obubwi
 \ps n
 \vad ebubwi
+\vadph ebubwi
 \ve Southern
 \pl mbubwi
 \plph mbubwi
@@ -25286,7 +25302,7 @@
 \xe His head lice are big.
 \bb Stewart List:0701
 \bb Stewart List:0805
-\dt 05/Jan/2017
+\dt 09/Jul/2017
 
 \lx obubwi
 \hm 2
@@ -25586,6 +25602,7 @@
 \pl nfi
 \plph ɱfí
 \vad efi
+\vadph ofíʔ
 \ve Southern
 \sn
 \ge year
@@ -25603,7 +25620,7 @@
 \xv Asa ofi anfɩ bɔ́mɔ ɔnɔ a, abotu yɔ anɩ agyuma ɔyɔkpa pɔpwɛ amʋtɔ.
 \xe Before the year ends, we shall move to our new office.
 \bb Stewart List:1112
-\dt 18/Dec/2016
+\dt 09/Jul/2017
 
 \lx ofiakpa
 \ph ofíak͡pa
@@ -25618,6 +25635,7 @@
 \ph ofíébáʔ
 \ps n
 \vad efieba
+\vadph efíébáʔ
 \ve Southern
 \sn
 \ge next year
@@ -25631,7 +25649,7 @@
 \xe Nobody knows what will happen next year.
 \xv Ofieba nɩ Bulu obotsula a, néfi mɩ obu yi asɩ.
 \xe Next year if God will permit, I will start to build my house.
-\dt 18/Dec/2016
+\dt 09/Jul/2017
 
 \lx ofienɩ
 \ph ofienɪ(H)
@@ -25875,8 +25893,9 @@
 \xe You begin telling a story by saying "Ogblo". Then people respond by saying "Ɔmɩɔ".
 \rf Tape:6-2-490
 \vad okploo
+\vadph ok͡plôːʔ
 \ve Southern
-\dt 28/Jan/2017
+\dt 09/Jul/2017
 
 \lx ogbodoo
 \ph og͡bodôː
@@ -26196,6 +26215,7 @@
 \ph okeyíʔ
 \ps n
 \vad ekeyi
+\vadph ekeyíʔ
 \ve Southern
 \sn
 \ge questioning corpse
@@ -26205,7 +26225,7 @@
 \de the act of questioning a corpse in order to know the cause of his/her death
 \xv Ɔhagyiɔha tsiatɔ bʋtɔpʋ da mʋ okeyi nɩ owu.
 \xe Everyone's behaviour is used to question him when he/she dies.
-\dt 03/Oct/2016
+\dt 09/Jul/2017
 
 \lx okikibwie
 \ph okikíbwie(H)
@@ -26222,7 +26242,8 @@
 \lx okikie
 \ph okíkíéʔ
 \ps n
-\vad ntsitsie
+\vad otsitsie
+\vadph ot͡ʃít͡ʃíéʔ
 \ve Southern
 \pl nkikie
 \plph ŋkíkíé
@@ -26236,7 +26257,7 @@
 \rf Tape:6-2-544
 \xv Okikie gyi ntsutso iye ánɩ́ ɔbʋ ɔdwɛ, tamɛ mʋ nwun gyi awú-awú.
 \xe Okikie is a lake fish that is good to eat, but its head is bony.
-\dt 29/May/2017
+\dt 09/Jul/2017
 
 \lx okitikiti
 \ph okitikítîʔ
@@ -26246,6 +26267,7 @@
 \is 2.3.2.4
 \de loud noise
 \vad olu
+\vadph olu
 \ve Southern
 \rf Tape:6-2-548
 \xv Nyebi amʋ bʋdɛ okitikiti sʋra dʋbɩ.
@@ -26256,7 +26278,7 @@
 \rf Tape:6-2-554
 \xv Nenya wun mʋ pɛ, nɔsʋra okitikiti, tsufɛ nowun mʋ lawa ɔpá.
 \xe As soon as I saw him I shouted because I had not seen him for a long time.
-\dt 09/Jan/2017
+\dt 09/Jul/2017
 
 \lx okle
 \ph ókleʔ
@@ -26426,11 +26448,12 @@
 \is 3.5.4.6
 \de ritual opening to a folk tale
 \vad ogbloo
+\vadph og͡blôːʔ
 \ve Northern
 \xv Nɩ fɔ́wa ɔtɛ a, "Okploo" bʋtɔpʋ fi mʋ́ asɩ. Fówun batsula mʋ́sʋ bɛɛ, "Ɔmɩɔ!"
 \xl When you will tell a story, you start it with "Okplo". Then they reply to it saying "Ɔmɩo!"
 \xe You begin telling a story by saying "Okplo". Then people respond by saying "Ɔmɩɔ!".
-\dt 28/Jan/2017
+\dt 09/Jul/2017
 
 \lx okploto
 \ph ok͡plóto
@@ -26604,6 +26627,7 @@
 \pl nkukubii
 \plph ŋkukúbǐː
 \vad ekukubii
+\vadph ekukúbǐː
 \ve Southern
 \sn
 \ge dwarf
@@ -26612,7 +26636,7 @@
 \de mythical dwarf
 \xv Nkukubii baŋa mɩ kɔba.
 \xe Dwarfs have made my money disappear.
-\dt 03/Oct/2016
+\dt 09/Jul/2017
 
 \lx okulu
 \hm 1
@@ -26748,6 +26772,7 @@
 \ph oliŋkantɪ
 \ps n
 \vad elikantɩ
+\vadph eliŋkantɪ
 \ve Southern
 \pl nlinkantɩ
 \plph nliŋkantɪ
@@ -26763,7 +26788,7 @@
 \xe The bile has burst in the liver so it has become bitter.
 \bb Stewart List:0047
 \bb SIL-AWL:0099
-\dt 29/May/2017
+\dt 09/Jul/2017
 
 \lx olobi
 \ph olobi
@@ -26781,8 +26806,9 @@
 \ge chameleon
 \de chameleon
 \vad ɔkɔmfɔbowuo
+\vadph ɔkɔɱfɔbowuo(H)
 \ve Northern
-\dt 19/Oct/2016
+\dt 09/Jul/2017
 
 \lx olomple
 \ph olomple
@@ -26810,13 +26836,15 @@
 \xv Oloo ɔnɔ bʋswɩ. Ɔtɔpʋ kɩta aklɛmɛtɩ ntsutso, sʋ mawie ntsu amʋtɔ.
 \xe A crocodile has a long mouth that it uses to catch fish in the lake so don't enter the water.
 \vad lɛnkɛ
+\vadph lɛŋkɛ
 \ve Northern
-\dt 23/May/2017
+\dt 09/Jul/2017
 
 \lx olu
 \hm 1
 \ph oluʔ(H)
 \vad elu
+\vadph eluʔ(H)
 \ve Southern
 \ps n
 \sn
@@ -26827,7 +26855,7 @@
 \xe We should stop hating, people are nothing.
 \xv Olu bʋ amʋ́ woyitɔ ɩnʋ wanklaan, mʋ́ sʋ tɔtɔ tamawa alɛ ɩnʋ.
 \xe There is too much hatred in their house, and so nothing is good there.
-\dt 03/Oct/2016
+\dt 09/Jul/2017
 
 \lx olu
 \hm 2
@@ -26877,13 +26905,15 @@
 \lx omenyapʋ
 \ph omeɲapʊ́
 \ps n
+\pl amenyapʋ
+\plph ameɲapʊ́
 \sn
 \ge pregnant woman
 \is 2.6.3.1
 \is 2.6.5.2
 \de pregnant woman
 \cf nya ɔmɛ
-\dt 20/May/2016
+\dt 09/Jul/2017
 
 \lx omeyi
 \ph omeyiʔ
@@ -26902,8 +26932,9 @@
 \ph omlewuʔ
 \ps n
 \pl mmlewu
-\plph mmlewu
+\plph mːlewu
 \vad emlewu
+\vadph emlewuʔ
 \ve Southern
 \sn
 \ge elbow
@@ -26915,7 +26946,7 @@
 \xe As a sore on the elbow is painful, so a sore on the knee is also painful.
 \nt Proverb about retaliation
 \bb SIL-AWL:0053
-\dt 12/Jan/2017
+\dt 09/Jul/2017
 
 \lx omumu
 \ph omúmuʔ(H)
@@ -26950,8 +26981,9 @@
 \ph onopiʔ
 \ps n
 \pl nnopi
-\plph nnopi
+\plph nːopi
 \vad enopi
+\vadph enopiʔ
 \ve Southern
 \sn
 \ge lip
@@ -26963,7 +26995,7 @@
 \xl Don't use your upper lip to advise me.
 \xe Don't talk to me harshly.
 \bb SIL-AWL:0016
-\dt 03/Oct/2016
+\dt 09/Jul/2017
 
 \lx onopi sʋsʋpʋ
 \ph onopi sʊsʊ́pʊ
@@ -27039,7 +27071,7 @@
 \ph onuwé
 \ps n
 \pl nnuwe
-\plph nnuwé
+\plph nːuwé
 \sn
 \ge large drinking calabash
 \is 1.5.3
@@ -27047,13 +27079,13 @@
 \is 5.2.2.8
 \is 6.7.7
 \de large drinking calabash
-\dt 07/Dec/2016
+\dt 09/Jul/2017
 
 \lx onwunfi
 \ph onwuɱfíʔ
 \ps n
 \pl nwunfi
-\plph nwuɱfí
+\plph ŋwuɱfí
 \sn
 \ge forehead
 \is 2.1.1
@@ -27063,7 +27095,7 @@
 \xv Okongo onwunfi lomoni dʋbɩ.
 \xe Okongo's forehead is too big.
 \cf ɔsʋkpɩ
-\dt 03/Oct/2016
+\dt 09/Jul/2017
 
 \lx onyansapʋ
 \ph oɲã́nsapʊ
@@ -27215,8 +27247,9 @@
 \de thatch
 \nq Tone needs to be checked
 \vad pipi
+\vadph pípi
 \ve Northern
-\dt 07/Dec/2016
+\dt 09/Jul/2017
 
 \lx opini
 \ph opínîʔ
@@ -27273,6 +27306,7 @@
 \ph oplimbi(H)
 \ps n
 \vad eplimbi
+\vadph eplimbi(H)
 \ve Southern
 \pl mplimbi
 \plph mplimbi(H)
@@ -27285,7 +27319,7 @@
 \xv Amponsa letsia sre oplimbi brɛ ánɩ́ ɔbʋ nkpa.
 \xe Amponsah used to carve mortar when he was alive.
 \bb Stewart List:1213
-\dt 12/Jan/2017
+\dt 09/Jul/2017
 
 \lx oplímbi
 \ph oplímbiʔ
@@ -27417,16 +27451,17 @@
 \dt 19/Jul/2016
 
 \lx opuni
-\ph opúni
+\ph opúniʔ
 \ps n
 \vas puni
 \sn
 \pl mpuni
+\plph mpúniʔ
 \ge womb; intestines
 \is 2.1.2
 \is 2.1.8
 \de womb, intestines
-\dt 17/Oct/2016
+\dt 09/Jul/2017
 
 \lx opuntu
 \ph opuntu
@@ -29297,6 +29332,7 @@
 \pl ndakpokpo
 \plph ndak͡pok͡po
 \vad klɛkpakpa
+\vadph klɛ́k͡pak͡paʔ (L)
 \ve Northern
 \sn
 \ge woodpecker
@@ -29306,7 +29342,7 @@
 \xv Ɔdakpokpo gyon oyisʋ.
 \xe The woodpecker is perched on the tree.
 \bb Stewart List:0722
-\dt 08/Jan/2017
+\dt 09/Jul/2017
 
 \lx ɔdandʋ
 \ph ɔdandʊ
@@ -29514,13 +29550,14 @@
 \is 8.4.1.3.1
 \de in the Northern dialect, the second day following Kulihɛ (ancestral day); the sixth and final day of the traditional Nkonya week
 \vad Kulihɛ Ɔdɛkɛtrakɛ
+\vadph kulihɛ́ odekeyikɛ
 \ve Southern
 \sn 2
 \ps TIME
 \ge Third day
 \is 4.9.7.7
 \is 8.4.1.3.1
-\dt 18/Dec/2016
+\dt 09/Jul/2017
 
 \lx ɔdɩ
 \ph ɔdɪ́
@@ -30470,6 +30507,7 @@
 \de chameleon
 \nt Used only in Northern dialect is "fetish priest says he will die" in Akan (perhaps the name is lost due to taboo deformation, as the chameleon is used in magic).
 \vad ologyo
+\vadph oloʤo
 \ve Southern
 \ee probably Senegal chameleon
 \na Feared, the dried body is used for magical preparations.
@@ -30479,7 +30517,7 @@
 \xv Ɔkɔmfɔbowuo tɛnatɩ pʋtɔɔ fɛ owie.
 \xe Chameleon walks slowly like a chief.
 \bb Stewart List:0767
-\dt 13/Jan/2017
+\dt 09/Jul/2017
 
 \lx ɔkɔntɩ
 \ph ɔkɔntɪ
@@ -30598,6 +30636,7 @@
 \pl nkpabi
 \plph ŋ͡mk͡pábi
 \vad ɛkpabi
+\vadph ɛk͡pábiʔ(L)
 \ve Southern
 \sn
 \ge servant
@@ -30607,7 +30646,7 @@
 \xv Lehian ánɩ́ ɔkpabi obobu mʋ wie.
 \xe It is necessary that a servant respect his master.
 \bb Stewart List:0502
-\dt 09/Jan/2017
+\dt 09/Jul/2017
 
 \lx ɔkpagyiɔkpa
 \ph ɔk͡paʤiɔk͡pa
@@ -31338,7 +31377,7 @@
 \lx ɔmanti
 \ph ɔmanti(H)
 \ps n
-\pl mmanti
+\pl m:anti
 \plph mːanti(H)
 \sn
 \ge neighbourhood
@@ -31347,7 +31386,7 @@
 \na The Southern part of Nkonya call sections in their towns"mmanti". The Northern part call theirs "ntin" but there is a section in Wurupong called "ɔmanti"
 \xv Ɔmanti-gyi-ɔmanti ánɩ́ bʋ wulutɔ mʋ́a mʋ́tɔ asʋn.
 \xe Every section in a town has its problem.
-\dt 20/Jul/2016
+\dt 09/Jul/2017
 
 \lx ɔmasin
 \ph ɔmasĩ́ʔ
@@ -31713,7 +31752,7 @@
 \ph ɔnambá
 \ps n
 \pl nnamba
-\plph nnambá
+\plph nːambá
 \sn
 \ge sore
 \is 2.5.2.2
@@ -31721,20 +31760,20 @@
 \rf Tape:6-1-147
 \xv Ɔnamba labwɛ mɩ ɔnanku, ɩdɛ mɩ dwiin.
 \xe There is a sore on my heel, so it is paining me.
-\dt 05/Jan/2017
+\dt 09/Jul/2017
 
 \lx ɔnamplɔɩ
 \ph ɔnamplɔɪʔ(H)
 \ps n
 \pl nnamplɔɩ
-\plph nnamplɔɪʔ(H)
+\plph nːamplɔɪʔ(H)
 \sn
 \ge sore
 \is 2.5.2.2
 \de cracks between the toes, it mostly happens in the raining season
 \xv Ɔnamplɔɩ labwɛ mɩ anambitɔ, sʋ mmɛtalɩ natɩ wanklaan.
 \xe I have developed cracks between my toes so I can't walk well.
-\dt 05/Jan/2017
+\dt 09/Jul/2017
 
 \lx ɔnanku
 \ph ɔnaŋkûʔ
@@ -31743,7 +31782,7 @@
 \vadph ɛnaŋkûʔ
 \ve Southern
 \pl nnanku
-\plph nnaŋkú
+\plph nːaŋkú
 \sn
 \ge heel
 \is 2.1.3.2
@@ -31751,13 +31790,13 @@
 \xv Ɔlɔ ɩdɩn mɩ ɔnakusʋ, sʋ mmɛtalɩ wa ntʋkʋta.
 \xe There's a sore on my heel, I can't wear shoes.
 \bb SIL-AWL:0071
-\dt 13/Jan/2017
+\dt 09/Jul/2017
 
 \lx ɔnantswie
 \ph ɔnant͡swie(H)
 \ps n
 \pl nnantwie
-\plph nnantwie(H)
+\plph nːantwie(H)
 \sn
 \ge cow
 \is 1.6.1.1.3
@@ -31772,7 +31811,7 @@
 \xv Mbwɩ fɛ́ɛ́ bʋsɩrɩ tamɛ ɔnantswie olakpa ɔsɩrɩ yi a, bɛɛ ɔdɛ gbede lɔ.
 \xe All animals ran but as soon as a cow runs, they say it is mad.
 \bb Stewart List:0614
-\dt 05/Jan/2017
+\dt 09/Jul/2017
 
 \lx ɔnantswiebi
 \ph ɔnant͡swɪebi
@@ -34432,8 +34471,9 @@
 \xv Ogya plɛnplɛn amʋ lɔtswɩ kɩta pipi amʋ hɔ mʋ́.
 \xe The flame spread and caught the thatch and burned it.
 \vad opiki
+\vadph opiki
 \ve Southern
-\dt 10/Dec/2016
+\dt 09/Jul/2017
 
 \lx pisii
 \ph pisiː
@@ -37017,6 +37057,7 @@
 \ph sʊ̃
 \ps v
 \vad sʋ
+\vadph sʊ
 \ve Northern
 \sn
 \ge carry
@@ -37026,7 +37067,7 @@
 \xv Sawun ɔbɛɛ ɔma ɔha ánɩ́ owu obopula mʋ, sʋ ɔna ɔsʋn mʋ daka.
 \xe Tortoise says he doesn't have a person that if he dies he will bury him, so he walks, carrying his coffin.
 \bb Stewart List:2673
-\dt 03/Oct/2016
+\dt 09/Jul/2017
 
 \lx sʋnswɛ
 \hm 1
@@ -42388,11 +42429,12 @@
 \ps v
 \sn
 \vad kɩɛ
+\vadph kíéʔ
 \ve Southern
 \ge divide
 \is 7.8
 \de to divide for people to get their share
-\dt 17/Oct/2016
+\dt 09/Jul/2017
 
 \lx yile
 \ph yilé(H)
@@ -42483,6 +42525,7 @@
 \ph yiŋké
 \ps TIME
 \vad Ɩpwɛ Ɔdɛkɛtrakɛ
+\vadph ɪpʷɛ odekeyikɛ
 \ve Southern
 \sn
 \ge Third day
@@ -42491,7 +42534,7 @@
 \de the second day following Ɩpwɛ; the third day of the Nkonya week
 \nt More information is available under the entry for Ɩpwɛ.
 \cf Ɩpwɛ
-\dt 17/Oct/2016
+\dt 09/Jul/2017
 
 \lx yinki
 \ph yíŋkí
