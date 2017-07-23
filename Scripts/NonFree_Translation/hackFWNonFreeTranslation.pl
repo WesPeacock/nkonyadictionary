@@ -12,6 +12,7 @@ use Win32;
 use Config::Tiny;
 # ; INI file section looks like:
 # [hackFWNonFreeTranslation]
+# FreeTranslationType=Free translation
 # NonFreeTranslationStarttag=xl:
 # NonFreeTranslationEndtag=/xl:
 # NonFreeTranslationType=Literal translation
