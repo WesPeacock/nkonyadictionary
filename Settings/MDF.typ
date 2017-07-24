@@ -507,8 +507,9 @@
 \-mkr
 
 \+mkr nx
+\nam Example Note
 \lng vernacular
-\mkrOverThis sn
+\mkrOverThis xv
 \CharStyle
 \-mkr
 
@@ -1061,7 +1062,7 @@
 \-fil
 
 \+fil Marker2Present
-\mkr se
+\mkr nt
 \match_char c
 \-fil
 
