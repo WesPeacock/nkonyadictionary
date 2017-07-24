@@ -7,7 +7,15 @@ use utf8;
 
 use open qw/:std :utf8/;
 use XML::LibXML;
-use Win32;
+
+# Different modules and calls for GUIDs under Windows and Linux.
+use if $^O eq q(MSWin32), q(Win32);
+use if $^O ne q(MSWin32), q(Data::GUID);
+my $uidcall =  $^O eq q(MSWin32) ? q[lc Win32::GuidGen() =~ s/\{|\}//gr;] : q[lc Data::GUID->new->as_string] ;
+# Win32::GuidGen() is like "{12345678-90AB-CDEF-1234-567890ABCDEF}", i.e., with uc with curly brackets
+# Data::GUID->new->as_string is like "12345678-90AB-CDEF-1234-567890ABCDEF", i.e. uc
+# FLEx needs like  "12345678-90ab-cdef-1234-567890abcdef"
+
 
 use Config::Tiny;
 # ; INI file section looks like:
@@ -78,8 +86,7 @@ foreach my $transToModifyrt ($nktree->findnodes(q#//*[contains(., '# . $starttag
 	my $rtstring = $transToModifyrt->toString;
 	$rtstring =~ s/$freetypeguid/$transtypeguid/;
 	my $rtguid = $transToModifyrt->findvalue('./@guid');
-	my $newguid = lc Win32::GuidGen() =~ s/\{|\}//gr;
-	# Win32::GuidGen() is like "{12345678-90AB-CDEF-1234-567890ABCDEF}"
+	my $newguid = eval $uidcall;
 	# say "rtguid $rtguid";
 	# say "newguid $newguid";
 	$rtstring =~ s/$rtguid/$newguid/;
