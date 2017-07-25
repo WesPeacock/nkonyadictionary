@@ -22,13 +22,18 @@ Other gotchas:
 		Convert to ɔXXpʋ- before import
 		In FLEx filter on XX and change the prefixes to circumfixes
 		Change XX to "- -'
+	\ps should be under \sn
+
 
 2. Run Scripts —
 	   - In general these can be chained for the conversion:
-2.1. literal translations — run before one lx per line code
+2.1. literal translations  &  translations notes— run before one lx per line code
 	a. mark them:
 		perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' <infile >outfile
 	1. The above command changes "\xl Mine is not there." to "\xl xl:Mine is not there./xl:"
+	2. Do similar for \nx:
+			 perl -pe 's#\\nx (.*)#\\nx nx\:$1/nx\:#' <infile >outfile
+
 2.2. convert circumfixes —run before one lx per line code
 	a. mark them:
 			 perl -pe 's#[\-]\ [\-](.*)#XX$1\-#'
@@ -38,8 +43,32 @@ Other gotchas:
 2.4.  convert sub-entries after one lx per line
 		see run documentation in the //se2setype.pl// script
 
+The command line to for all of the above looks like (Run it in the Nkonya dictionary directory):
+dos2unix <Nkolex\ in\ Unicode.txt | \
+ perl -pe 's#[\-]\ [\-](.*)#XX$1\-#' |\
+ perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' | \
+ perl -pe 's#\\nx (.*)#\\nx nx\:$1/nx\:#' | \
+ perl -pe 's/#/\_\_hash\_\_/g' |\
+ perl -pe 'chomp; print "\n" if /\\lx /; $_ .= "#"'  | \
+ perl -pe 's/##/#/g' |\
+ tee tmp/nklex1perline.txt |\
+ perl -pf Scripts/se2setype.pl |\
+perl -pe 's/#/\n/g' |\
+ perl -pe 's/\_\_hash\_\_/#/g' | unix2dos >FLExImport/nklexse2setype.sfm
+
+The line with the perl chomp command converts multiline SFM records to single line ones
+The line with s/#/\n/g is the inverse
+
 3. Literal translationsHack
+	a. for xl: ... [[/xl:]] Sample INI file is as is
+	b. for nx: ... [[/nx:]] Sample INI file remove semicolons on nx lines and Explanation add them to xl / Literal translation
+
 4. Initial Bulk edits in FLEx
-	4.1.  filter XX change prefix to circumfix and XX to "- -"
-	4.2 Literal translationsHack
+	4.1.  filter XX in Lexeme form
+	a. List choice suffix to circumfix
+		b,  Bulk replace XX to "- -"
+	4.2. filter import residue Entry for \.*ph
+		a, bulk copy to Lexeme Form phonetic
+	b. Bulk replace '\.*ph\ ' -> nul
+	c. Bulk delete all import residue Entry
 
