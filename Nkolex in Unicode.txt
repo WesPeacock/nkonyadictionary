@@ -305,21 +305,6 @@
 \xe I will crack my palm kernels, in order to take(them) and make palm kernel oil, because I want that I will fry fish.
 \dt 29/May/2017
 
-\lx abi atsulii
-\ph abi at͡sulîː
-\sn
-\ps n
-\ge seed mushroom
-\is 1.5.4
-\is 6.2.5.3
-\de seed mushroom
-\mn atsulii
-\ctyp _Compound_
-\rf Tape:1-2-210
-\xv Abi atsulii tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
-\xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
-\dt 10/Feb/2017
-
 \lx abialɛ
 \ph abialɛ́(H)
 \sn
@@ -375,26 +360,6 @@
 \xe Your side goes from your armpit to your abdomen.
 \bb Stewart List:0036
 \dt 13/Jun/2017
-
-\lx abɩn iwu
-\ph abɪ̃ʔ iwú
-\ps n
-\vas abɩnwu
-\vasph abɪ̃wú
-\pl abɩn awu
-\plph abɪ̃ awú
-\sn
-\ge rib
-\is 2.1.2
-\is 2.1.6
-\de rib bone
-\mn iwu
-\ctyp _Compound_
-\lt side bone
-\bb SIL-AWL:0080
-\xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
-\xe If your rib breaks and you don't take care, you will die.
-\dt 09/Jun/2017
 
 \lx abɩntɔ
 \ph abɪ̃ntɔ(H)
@@ -1293,24 +1258,19 @@
 \rf Tape:1-1-236
 \xv Agyawunu atɔpʋ bʋtokwi ɔbɔ kʋla nyi wa mʋ́tɔ, fówun bawa ogya mʋ́tɔ yinki kpa sɩ bun mʋ́sʋ. Ɩhɔ ta a, balɛ agyawunu amʋ.
 \xe Charcoal burners dig a hole, and put trees in it, so you will see that they have set fire in it and returned gathered sand and covered it. When it finishes burning they remove the charcoal.
-\cf agyawunu ɔtɔpʋ
 \bb Stewart List:1212
-\dt 12/Jan/2017
-
-\lx agyawunu ɔtɔpʋ
+\se agyawunu ɔtɔpʋ
 \ph aʤawunu ɔtɔpʊ́
-\sn
 \ps n
 \ge charcoal maker
 \is 5.5.6
 \is 6.2.5.4
 \de one who makes charcoal
-\mn agyawunu
 \ctyp _Compound_
 \cf tɔ1
 \xv Agyawunu ɔtɔpʋ atadɩɛ tebi, tsufɛ agyawunu lebi.
 \xe charcoal burner's attire blackens, because charcoal is black.
-\dt 03/Mar/2017
+\dt 27/Jul/2017
 
 \lx agyilɛ
 \ph aʤílɛʔ
@@ -1455,19 +1415,14 @@
 \xv Ɔma gyumagyihɛ. Mʋ́ sʋ ɔtɛnatɩ ki ahasʋ.
 \xe He has no work. That's why he always roams from person to person.
 \bb Stewart List:1403
-\dt 23/May/2017
-
-\lx agyʋma ɔyɔpʋ
+\se agyʋma ɔyɔpʋ
 \ph aʤʊ́má ɔyɔpʊ́
-\sn
 \ps n
 \ge worker
 \is 6.1
 \is 6.1.2.3
 \de someone who is working
-\mn agyʋma
-\ctyp Phrasal_Verb
-\dt 03/Mar/2017
+\dt 27/Jul/2017
 
 \lx agywama
 \ph aʤwama(H)
@@ -2638,9 +2593,8 @@
 \ge very real
 \is 3.5.1.3.5
 \de very particularly
-\mn REDUP 1
 \ctyp _Derivative_
-\dt 13/Jun/2017
+\dt 27/Jul/2017
 
 \lx anlɛn
 \ph anlɛ̃́ʔ
@@ -2667,20 +2621,13 @@
 \is 2.1.1.1
 \de eyes
 \cf nsibi
-\dt 15/Jul/2016
-
-\lx ansibi klambi
+\se ansibi klambi
 \ph ansibi klambi
-\sn
 \ps n
 \ge eyeball
 \de eyeball
-\mn ansibi
 \ctyp _Compound_
-\mn  klambi
-\dt 10/Feb/2017
-
-\lx ansibi obwiepʋ
+\se ansibi obwiepʋ
 \ph ansibi obwiepʊ́
 \ps n
 \pl ansibi abwiepʋ
@@ -2689,14 +2636,12 @@
 \ge blind person
 \is 2.5.4.1
 \de person that cannot see
-\mn ansibi
 \ctyp _Compound_
 \cf bwie
 \xv Ansibi obwiepʋ amʋ otse ɔsʋsʋ amʋ lawu.
 \xe The man blind man staying at the top is dead.
 \cf bwie
-\cf ansibi
-\dt 03/Mar/2017
+\dt 27/Jul/2017
 
 \lx ansigyi
 \ph ansíʤí
@@ -2732,21 +2677,6 @@
 \is 2.1.1.1
 \de general term for eye/face
 \dt 16/Jul/2016
-
-\lx ansɩkukusʋ imi
-\ph ansɪ́kukusʊ imi
-\sn
-\ps n
-\ge eyebrow
-\is 2.1.1.1
-\de eyebrow
-\mn imi
-\ctyp _Compound_
-\xv Kebi bɔbwɛ amʋ ansɩkukusʋ imi amʋ labʋla dʋbi.
-\xe The eyebrow of the baby is too bushy.
-\bb SIL-AWL:0007
-\nq check this vs ɔsɩkunkun
-\dt 10/Feb/2017
 
 \lx ansɩpɛpɛ
 \ph ansɪpɛpɛ(H)
@@ -3517,22 +3447,17 @@
 \is 4.9.3.1
 \de The Bible, Christian Scriptures
 \ctyp _Compound_
-\dt 10/Feb/2017
-
-\lx asʋn blɩhɛ
-\ph asʊn blɪ́hɛ́ (L)
-\sn
+\se asʋn blɩhɛ
 \ps n
 \ge spoken word
 \is 3.5.3.1.1
 \de a sentence or utterance
-\mn asʋn
 \ctyp _Compound_
 \cf blɩ1
 \rf Tape:1-2-055
 \xv Pʋwa asʋn blɩhɛtɔ ha mɩ.
 \xe Put it in a sentence for me.
-\dt 03/Mar/2017
+\dt 27/Jul/2017
 
 \lx asʋnkpan
 \ph asʊŋ͡mk͡pã (H)
@@ -3578,12 +3503,10 @@
 \ge plantain
 \is 6.2.1.4.2
 \de A variety of plantain.
-\ctyp _Compound_
-\mn anyɔ
 \ee Ata anyɔ has only two bunches on a plant.
 \cf blɔdɩ
 \nt see blɔdɩ entry for other kinds of plantain
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx atadɩɛ
 \ph atadɪɛ (H)
@@ -3727,72 +3650,6 @@
 \xv Bulu lɔbwɛ atɔ ánɩ́ bʋ ɔyɩtɔ fɛ́ɛ́ ha nyankpʋsa.
 \xe God made all the things that are in this world for mankind.
 \dt 12/Jan/2017
-
-\lx atɔ owunpʋ
-\ph atɔ owũ̂mpʊʔ
-\ps n
-\pl atɔ awunpʋ
-\plph atɔ awũ̂mpʊ
-\sn
-\ge diviner
-\is 4.9.4.7
-\is 4.9.7.7
-\de one who sees the future
-\mn wun
-\ctyp _Compound_
-\na Some people just see things in a vision, but some people use various methods such as looking in water.
-\xv Atɔ owunpʋ towun atɔ ánɩ́ bɛ́ba, bla aha mɛnɩ bɛ́da wɩsʋ.
-\xe A diviner sees the things that will come and tells people so that they can watch out.
-\dt 10/Feb/2017
-
-\lx atɔ ɔbɩnpʋ
-\ph atɔ́ ɔbɪ̃́mpʊ
-\ps n
-\pl atɔ abɩnpʋ
-\plph atɔ́ abɪ́npʊ
-\sn
-\ge seamstress/tailor
-\is 6.6.1
-\de seamstress or tailor
-\mn bɩn
-\ctyp _Compound_
-\xv Atɔ ɔbɩnpʋ amʋ dɛ mɩ atadɩɛ bɩn.
-\xe The seamstress/tailor is sewing my clothes.
-\cf bɩn
-\dt 10/Feb/2017
-
-\lx atɔ ɔfɛpʋ
-\ph atɔ́ ɔfɛpʊ́ʔ
-\ps n
-\pl atɔ afɛpʋ
-\plph atɔ́ afɛpʊ́
-\sn
-\ge trader
-\is 6.8.4.2
-\de petty trader
-\mn fɛ1
-\ctyp _Compound_
-\xv Atɔ ɔfɛpʋ amʋ ɔlɔhɔ atɔ ba bɛfɛ.
-\xe The petty trader bought things in order to come and sell.
-\cf bia ogyipʋ
-\cf fɛ1
-\dt 10/Feb/2017
-
-\lx atɔ ɔlapʋ
-\ph atɔ́ ɔlapʊ́
-\ps n
-\pl atɔ alapʋ
-\plph atɔ́ alapʊ́
-\sn
-\ge soothsayer
-\is 4.9.4.7
-\de a person who practice soothsaying
-\mn la2 2
-\ctyp _Compound_
-\xv Oyin ɔkʋ lawun isuna ánɩ́ omonu mʋ́ asɩ, sʋ ɔyɔ atɔ ɔlapʋ woyi yɛfɩtɛ atɔ.
-\xe A certain man has seen a sign which he did not understand, so he is going to a soothsayer's house to consult him.
-\cf atɔ owunpʋ
-\dt 10/Feb/2017
 
 \lx atɔkiehɛ
 \ph atɔkiéhɛ
@@ -3956,24 +3813,29 @@
 \cf mantɛpʋ
 \cf mpionkɛntɛ
 \bb Stewart List:0872
-\dt 12/Jan/2017
-
-\lx atsulii bibi
-\ph at͡sulîbibi
-\sn
+\se abi atsulii
+\ph abi at͡sulîː
+\ps n
+\ge seed mushroom
+\is 1.5.4
+\is 6.2.5.3
+\de seed mushroom
+\ctyp _Compound_
+\rf Tape:1-2-210
+\xv Abi atsulii tɔkwɛ ɔsʋlʋsʋ. Nɩ fɔwa ndɔ ogya a, ɩtɔkɔkwɛ nʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Mʋ́ oputsu bʋ ɔdwɛ.
+\xe seed mushrooms grow in the ground. If you set fire to the farm it sprouts. You can grind them and put them in soup. Its soup is good.
+\se atsulii bibi
 \ps n
 \ge mushroom
 \is 1.5.4
 \is 6.2.5.3
 \de black mushroom
-\mn atsulii
-\ctyp _Compound_
-\cf bibi
+\ng _Compound_
 \xv Atsulii bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe Black mushrooms grow in rotting trees, They are black. You can grind them and put them in soup. Their soup is sweet.
-\nx roots not in the tree but around it. -FO
+\nt roots not in the tree but around it. -FO
 \rf Tape:1-2-186
-\dt 24/Jul/2017
+\dt 27/Jul/2017
 
 \lx atsʋnlɛ
 \ph at͡sʊ́nlɛ
@@ -4218,37 +4080,6 @@
 \xv Dɩnkɩ atɔ amʋ ɩdɩn obu awunsʋ amʋsʋ ha mɩ.
 \xe Remove the thing on top of the house for me.
 \dt 17/Dec/2016
-
-\lx awutɔ
-\ph awútɔ́
-\sn 1
-\ps n
-\ge bones
-\is 2.1.6
-\sn 2
-\ps n
-\ge health
-\is 2.4
-\de the condition of inner health
-\mn iwu
-\cf -tɔ 2
-\ctyp _Compound_
-\bb SIL-AWL:0075
-\dt 16/Jul/2017
-
-\lx awutɔ nfɔ
-\ph awútɔ́ ɱfɔ
-\sn
-\ps n
-\ge marrow
-\is 2.1.6
-\is 6.3.4
-\de bone marrow
-\mn iwu
-\ctyp _Compound_
-\cf nfɔ
-\bb SIL-AWL:0075
-\dt 09/Jun/2017
 
 \lx awʋlɛ
 \ph awʊ́lɛ́ʔ
@@ -4604,24 +4435,19 @@
 \rf Tape:1-2-339
 \xv Nonu mɩ sɩ lowu a, nɔbwɛ basaa.
 \xe When I heard of my father's death, I was confused.
-\dt 23/Feb/2017
-
-\lx basabasa
-\ph basabasaʔ(L)
-\sn
+\se basabasa
 \ps n
 \ge confusion
 \is 3.4.2.5
 \is 4.8.2.6
 \de confusion; disruption
-\mn basaa
 \cf REDUP 1
 \ctyp _Derivative_
 \xv Ɔtɩnɛ ánɩ́ olu pʋ́ ɔnsɩpɛ bʋ a, basabasa sɔɔn tetsia nʋ.
 \xl The place that hatred and jealousy is, only confusion stays there.
 \xe Where there is hatred and jealousy there will be only confusion.
 \rf Tape:1-2-344
-\dt 23/May/2017
+\dt 27/Jul/2017
 
 \lx batafɔ
 \ph batafɔʔ(H)
@@ -4888,7 +4714,27 @@
 \xv Tati amʋ Akua lɔhɔ amʋ bʋ bia.
 \xe The cloth that Akua bought is expensive.
 \bb Stewart List:1706
-\dt 12/Jan/2017
+\sn 3
+\ps n
+\ge price
+\de the price of something
+\se bia ogyipʋ
+\ps n
+\ge merchant
+\is 6.6
+\is 6.8.4.2
+\de merchant
+\ctyp _Compound_
+\cf gyi1
+\nt atɔ ɔfɛpʋ (petty trader), bia ogyipʋ (merchant)
+\xv Papa Asiedu gyi bia ogyipʋ.
+\xe Papa Asiedu is a merchant.
+\bb Stewart List:0411
+\xv Atɔ ɔfɛpʋ amʋ ɔlɔhɔ atɔ ba bɛfɛ.
+\xe The petty trader bought things in order to come and sell.
+\cf atɔ ɔfɛpʋ
+\cf gyi bia
+\dt 27/Jul/2017
 
 \lx bia
 \hm 2
@@ -4911,7 +4757,17 @@
 \xv Mɩ kpoli lafuli, kokoli bia mʋ́ ha mɩ.
 \xe My maize is ripe, please harvest it for me.
 \bb Stewart List:2802
-\dt 29/Jan/2017
+\se biabia
+\ps vt
+\ge break
+\is 7.8.1
+\is 8.4.6.6.3
+\de break repetitively
+\cf REDUP 2
+\ctyp _Derivative_
+\xv Olebiabia mʋ́tɔ ha aha amʋʋ bʋtsie ɩnʋ amʋ.
+\xe He broke it up for the people sitting there.
+\dt 27/Jul/2017
 
 \lx bia
 \hm 3
@@ -4922,44 +4778,6 @@
 \is 5.2.3.7
 \de beer
 \dt 28/Nov/2016
-
-\lx bia ogyipʋ
-\ph bíá óʤípʊ́ʔ
-\ps n
-\pl bia agyipʋ
-\plph bíá áʤípʊ́
-\sn
-\ge merchant
-\is 6.6
-\is 6.8.4.2
-\de merchant
-\mn bia1
-\ctyp _Compound_
-\cf gyi1
-\nt atɔ ɔfɛpʋ (petty trader), bia ogyipʋ (merchant)
-\xv Papa Asiedu gyi bia ogyipʋ.
-\xe Papa Asiedu is a merchant.
-\bb Stewart List:0411
-\xv Atɔ ɔfɛpʋ amʋ ɔlɔhɔ atɔ ba bɛfɛ.
-\xe The petty trader bought things in order to come and sell.
-\cf atɔ ɔfɛpʋ
-\cf gyi bia
-\dt 03/Mar/2017
-
-\lx biabia
-\ph bíábíáʔ(H)
-\sn
-\ps vt
-\ge break
-\is 7.8.1
-\is 8.4.6.6.3
-\de break repetitively
-\mn bia2
-\cf REDUP 2
-\ctyp _Derivative_
-\xv Olebiabia mʋ́tɔ ha aha amʋʋ bʋtsie ɩnʋ amʋ.
-\xe He broke it up for the people sitting there.
-\dt 03/Mar/2017
 
 \lx biagyi
 \ph biaʤi
@@ -5024,8 +4842,9 @@
 \de after a an overly long time
 \rf Tape:1-2-435
 \xv Nɔwa fʋ sumbi dodoodo amʋ a, biansʋ faba nɩ?
-\xe I sent you on an errand a long time ago and just now you have come? (That is, what took you so long?)
-\dt 05/Jan/2017
+\xe I sent you on an errand a long time ago,  what took you so long?
+\xl I sent you on an errand a long time ago and just now you have come?
+\dt 27/Jul/2017
 
 \lx biasʋ
 \ph bíásʊ́
@@ -5049,7 +4868,7 @@
 \ge black
 \is 8.3.3.3.2
 \de black
-\mn bi
+\cf bi
 \cf REDUP 1
 \ctyp _Derivative_
 \rf Tape:1-2-439
@@ -5058,7 +4877,7 @@
 \xv Klankpa ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe The crow's back is black, it's chest is white.
 \bb Stewart List:1682
-\dt 03/Mar/2017
+\dt 27/Jul/2017
 
 \lx bie
 \ph bieʔ(L)
@@ -5078,6 +4897,15 @@
 \xe They put on white cloths on the day that they wash their souls.
 \bb Stewart List:2787
 \cf bie ɔkla
+\se bie ɔkla
+\ps v
+\ge purify
+\is 4.9
+\is 8.3.7.8.2
+\de perform a ritual for purification
+\lt bie "bathe" ɔkla "soul"
+\cf ɔkla
+\ctyp _Compound_
 \sn 2
 \ps v
 \ge menstruate
@@ -5085,21 +4913,7 @@
 \de to menstruate
 \xv Nɩ atsɩ bebie a, bʋtamatsia akpɩpʋ woyitɔ, tsufɛ bʋtekisi.
 \xe When women menstruate, they do not stay in fetish priests' house, because it is a taboo.
-\dt 28/Jan/2017
-
-\lx bie ɔkla
-\ph bie ɔkláʔ
-\sn
-\ps v
-\ge purify
-\is 4.9
-\is 8.3.7.8.2
-\de perform a ritual for purification
-\lt bie "bathe" ɔkla "soul"
-\mn bie
-\cf ɔkla
-\ctyp _Compound_
-\dt 03/Mar/2017
+\dt 27/Jul/2017
 
 \lx bila
 \ph bílá (H)
@@ -5258,7 +5072,15 @@
 \xe The seamstress/tailor is sewing my clothes.
 \bb Stewart List:2817
 \bb Stewart List:2885
-\dt 09/Jan/2017
+\se atɔ ɔbɩnpʋ
+\ps n
+\ge seamstress/tailor
+\is 6.6.1
+\de seamstress or tailor
+\ctyp _Compound_
+\xv Atɔ ɔbɩnpʋ amʋ dɛ mɩ atadɩɛ bɩn.
+\xe The seamstress/tailor is sewing my clothes.
+\dt 27/Jul/2017
 
 \lx bɩna
 \ph bɪnaʔ
@@ -5461,7 +5283,18 @@
 \rf Tape:1-2-378
 \xv Nɛblɩ mbɛɛ, nɔ́yɔ ndɔ.
 \xe I said, I say I will go to farm.
-\dt 28/Jan/2017
+\se blɩbi
+\ph blɪbi
+\sn
+\ps n
+\ge joke
+\de a joke
+\cf -bi
+\xv Nemli blɩbi dɩnka amʋ́ ɔnɔsʋ.
+\xl I have changed into a joke on their mouths
+\xe People make sport of me.
+\nq check this
+\dt 27/Jul/2017
 
 \lx blɩ
 \hm 2
@@ -5471,6 +5304,25 @@
 \ge hot
 \is 8.3.4
 \de to be hot
+\se blɩ ogya
+\ps n
+\ge heat
+\is 8.3.4
+\de to be hot
+\ctyp _Compound_
+\cf ogya
+\cf pɩmpɩn
+\cf okunku
+\xv Atɔ amʋʋ bʋ ogya amʋ lablɩ ogya dʋbɩ.
+\xe Things that are in a fire have become very hot.
+\rf Tape:6-2-497
+\xv Owí ɔnɔ bʋ ɔnlɩn dʋbɩ mʋ́ sʋ obu amʋtɔ lablɩ ogya dʋbɩ.
+\xe The sun is very hot, therefore the room have become very hot.
+\rf Tape:1-2-521
+\xv Fʋ wɩ lablɩ ogya, sʋ owisʋ lakɩta fʋ.
+\xe You have become hot. You have a fever.
+\bb Stewart List:2289
+\bb Stewart List:2822
 \sn 2
 \ps vi
 \ge cooked
@@ -5493,31 +5345,7 @@
 \xe If you play with juju it will destroy you.
 \rf Tape:1-2-515
 \bb Stewart List:2252
-\dt 28/Jan/2017
-
-\lx blɩ ogya
-\ph blɪ oʤáʔ (H)
-\sn
-\ps n
-\ge heat
-\is 8.3.4
-\de to be hot
-\mn blɩ2
-\ctyp _Compound_
-\cf ogya
-\cf pɩmpɩn
-\cf okunku
-\xv Atɔ amʋʋ bʋ ogya amʋ lablɩ ogya dʋbɩ.
-\xe Things that are in a fire have become very hot.
-\rf Tape:6-2-497
-\xv Owí ɔnɔ bʋ ɔnlɩn dʋbɩ mʋ́ sʋ obu amʋtɔ lablɩ ogya dʋbɩ.
-\xe The sun is very hot, therefore the room have become very hot.
-\rf Tape:1-2-521
-\xv Fʋ wɩ lablɩ ogya, sʋ owisʋ lakɩta fʋ.
-\xe You have become hot. You have a fever.
-\bb Stewart List:2289
-\bb Stewart List:2822
-\dt 03/Mar/2017
+\dt 27/Jul/2017
 
 \lx blɩba
 \hm 1
@@ -5566,20 +5394,6 @@
 \xe Okonko's pineapple is sweeter than his brother's.
 \bb Stewart List:0913
 \dt 23/May/2017
-
-\lx blɩbi
-\ph blɪbi
-\sn
-\ps n
-\ge joke
-\de a joke
-\mn blɩ1
-\cf -bi
-\xv Nemli blɩbi dɩnka amʋ́ ɔnɔsʋ.
-\xl I have changed into a joke on their mouths
-\xe People make sport of me.
-\nq check this
-\dt 03/Mar/2017
 
 \lx blɔdɩ
 \ph blɔdɪ(H)
@@ -5664,19 +5478,15 @@
 \rf Tape:6-2-381
 \xv Bʋdɛ bodobodo amʋtɔ obuntɔ.
 \xe They are baking bread in an oven.
-\dt 12/Jan/2017
-
-\lx bodobodo maɩnhɛ
-\sn
+\se bodobodo maɩnhɛ
 \ps n
 \ge buns
 \is 5.2.3.4
 \de buns
-\mn bodobodo
 \ctyp _Compound_
 \cf maɩn
 \lt detached bread
-\dt 03/Mar/2017
+\dt 27/Jul/2017
 
 \lx bokiti
 \ph bókitiʔ
@@ -5806,18 +5616,6 @@
 \xe cook dablun soup
 \xv bɔ ampesie
 \xe cook yam slices
-\dt 29/Jan/2017
-
-\lx bɔ mpaɩ
-\sn
-\ps v
-\ge pray
-\mn bɔ
-\mn mpaɩ
-\is 4.9.5.2
-\de to pray
-\ue used of Christian, Muslim and traditional prayers
-\ctyp Phrasal_Verb
 \dt 29/Jan/2017
 
 \lx bɔbwɛ
@@ -5984,8 +5782,6 @@
 \ge sometimes
 \is 8.4.6.6.2
 \de sometimes
-\mn brɛ
-\ctyp _Compound_
 \xv Brɛ kʋtɔ a, nɩ nyankpʋ detswie a, atsufolibi tɔkpa.
 \xl Sometimes, when it rains, hail falls.
 \xe It sometimes hails when it rains.
@@ -5995,7 +5791,7 @@
 \ps TIME
 \ge some time
 \de a certain (but unspecified) time
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx brɛkʋtɔ
 \ph brɛ́kʊtɔ
@@ -6014,9 +5810,9 @@
 \is 7.2.2.8
 \is 8.1.3.1
 \de shaking very much
-\mn REDUP 1
+\cf REDUP1
 \ctyp _Derivative_
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx brigyi
 \ph briʤi
@@ -6461,9 +6257,9 @@
 \ge good
 \is 8.3.7
 \de be good
-\mn alɛ1
+\cf alɛ
 \ctyp Complex_Form
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx bʋa
 \hm 1
@@ -6502,9 +6298,9 @@
 \ge prepare multiple
 \is 6.1.2.6
 \de prepare multiple things
-\mn REDUP 2
+\cf REDUP2
 \ctyp _Derivative_
-\dt 13/Jun/2017
+\dt 27/Jul/2017
 
 \lx bʋla
 \ph bʊ́lá
@@ -6573,14 +6369,14 @@
 \is 2.6.2.3
 \is 4.8.2.8
 \de to force a small girl to have sex
-\mn tswɩ
+\cf tswɩ
 \ctyp Phrasal_Verb
 \nq does bʋnda have meaning?
 \xv Oyin amʋ lɔtswɩ kebi amʋ bʋnda nɩ.
 \xe That man raped the child.
 \xv Nɩ fʋ meyin fɔ́tswɩ ɔkʋ mʋ bi bʋnda a, aban ɔbɔwa fʋ obu nfi du.
 \xe If you don't know and you rape somebody's child, the government will jail you for ten years.
-\dt 30/Jan/2017
+\dt 27/Jul/2017
 
 \lx bʋnkpa
 \ph bʊŋ͡mk͡pa(H)
@@ -6883,6 +6679,19 @@
 \is 2.4.5
 \de to rest
 \ctyp Phrasal_Verb
+\se da wa
+\ps vt
+\ge call fetish
+\is 4.7.6
+\is 4.9.4.4
+\is 4.9.7.7
+\de to "call fetish"; curse
+\ctyp Phrasal_Verb
+\na a combination of asking one of the gods for judgment and placing a curse
+\rf Tape:2-1-183
+\xv Nada mʋ wa, ha ɔkpɩ ogyi mʋ. Ogyi mʋ́ ha anɩ.
+\xe I have called fetish on him; having the fetish judge him. He (the fetish) should judge it for us.
+\bb Stewart List:3244
 \sn 2
 \ps vt
 \ge plant (v)
@@ -6935,26 +6744,7 @@
 \rf Tape:2-2-378
 \xv Nada ibu mɩ ndɔtɔ.
 \xe I put up a hut on my farm.
-\dt 10/Feb/2017
-
-\lx da wa
-\ph dá wá
-\sn
-\ps vt
-\ge call fetish
-\is 4.7.6
-\is 4.9.4.4
-\is 4.9.7.7
-\de to "call fetish"; curse
-\mn da3 1
-\ctyp Phrasal_Verb
-\mn wa2 1
-\na a combination of asking one of the gods for judgment and placing a curse
-\rf Tape:2-1-183
-\xv Nada mʋ wa, ha ɔkpɩ ogyi mʋ. Ogyi mʋ́ ha anɩ.
-\xe I have called fetish on him; having the fetish judge him. He (the fetish) should judge it for us.
-\bb Stewart List:3244
-\dt 30/Jan/2017
+\dt 27/Jul/2017
 
 \lx dablun
 \ph dablũ(H)
@@ -7096,10 +6886,9 @@
 \ge centipede
 \is 1.6.1.9
 \de centipede
-\mn REDUP 2
-\ctyp _Derivative_
+\cf REDUP2
 \sc Genus: Sceliphron
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx dakpikpi
 \ph dak͡pík͡pí
@@ -7378,23 +7167,17 @@
 \xv Nɩ deyi dɛda oyitɔ, fʋlɩɩ fʋdɛkɩ a, ɩbʋ akɩlɛ.
 \xe If a monkey is in a tree and you stand and look it is good to look at.
 \bb Stewart List:0618
-\dt 12/Jan/2017
-
-\lx deyi asʋ
+\se deyi asʋ
 \ph déi asʊ
-\sn
 \ps n
 \ge mushroom
 \is 1.5.4
 \is 6.2.5.3
 \de monkey ear mushroom
-\mn deyi
-\ctyp _Idiom_
-\mn ɩsʋ
 \rf Tape:1-2-178
 \xv Deyi asʋ tɔkwɛ oyi plɔhɛsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Igyi putuputu, ɩlofuli. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
 \xe Monkey ears grows in rotten trees. You can grind it and put it in soup. It is small and white. It is sweet in palm nut soup.
-\dt 06/Mar/2017
+\dt 27/Jul/2017
 
 \lx dɛ
 \hm 1
@@ -7640,9 +7423,9 @@
 \ge sleep
 \is 5.7.1
 \de to sleep
-\mn dɩ
+\cf dɩ
 \ctyp _Derivative_
-\mn REDUP 1
+\cf REDUP 1
 \rf Tape:2-1-327
 \xv Alamwɛ, sʋ aladɩdɩ.
 \xe He has been sated so he has gone to sleep.
@@ -7658,7 +7441,7 @@
 \de sleep through something
 \is 5.7
 \ctyp Phrasal_Verb
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx dɩdɩ
 \hm 2
@@ -7813,23 +7596,17 @@
 \is 8.4.5.2
 \is 9.4.4
 \de already
-\dt 01/Oct/2016
-
-\lx dodoodo
-\ph dodoːdo
-\sn
+\se dodoodo
 \ps ADV
 \ge already(Emph.)
 \is 8.4.5.2
 \is 9.4.4
-\de already; emphatic
-\mn dodo
-\mn REDUP 1
+\de far too long ago
 \ctyp _Derivative_
 \rf Tape:1-2-435
 \xv Nɔwa fʋ sumbi dodoodo amʋ a, biansʋ faba nɩ?
 \xe I sent you on an errand a long time ago and just now you have come? (That is, what took you so long?)
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx dɔ
 \hm 1
@@ -7962,6 +7739,16 @@
 \ge daub
 \is 5.4.2
 \de to daub powder on a person for ritual purposes
+\se duadua
+\ps v
+\ge daub
+\is 5.4.2
+\de daub repetitively
+\ctyp _Derivative_
+\na They use the mouth of a bottle to put the clay on in white circles.
+\xv Akɔmfɔ amʋ bapʋ ofuli duadua atabi amʋ wɩ.
+\xe Priestesses have taken white and daubed it on the twins.
+\rf Tape:2-1-371
 \sn 2
 \ps v
 \ge place on
@@ -7970,23 +7757,7 @@
 \rf Tape:2-1-366
 \xv Dua fʋ aklambi nana, mɩ ɛ andua mɩ klɛ nfɩ atswɩ.
 \xe Place your playing seeds over there and I also will place mine over here, so that we will play.
-\dt 28/Nov/2016
-
-\lx duadua
-\ph dú!ádú!á
-\sn
-\ps v
-\ge daub
-\is 5.4.2
-\de daub repetitively
-\mn dua
-\mn REDUP 2
-\ctyp _Derivative_
-\xv Akɔmfɔ amʋ bapʋ ofuli duadua atabi amʋ wɩ.
-\xe Priestesses have taken white and daubed it on the twins.
-\na They use the mouth of a bottle to put the clay on in white circles.
-\rf Tape:2-1-371
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx duana
 \ph dúana
@@ -8210,9 +7981,8 @@
 \ge very heavy
 \is 8.2.9.1
 \de very heavy
-\mn REDUP 1
 \ctyp _Derivative_
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx dwɩɩ
 \ph dwɪːʔ
@@ -8583,7 +8353,16 @@
 \rf Tape:2-1-464
 \xv Ndɛ atɔ fɛ biasʋ.
 \xe I am selling things at the market.
-\dt 01/Dec/2016
+\se atɔ ɔfɛpʋ
+\ps n
+\ge trader
+\is 6.8.4.2
+\de petty trader
+\ctyp _Compound_
+\xv Atɔ ɔfɛpʋ amʋ ɔlɔhɔ atɔ ba bɛfɛ.
+\xe The petty trader bought things in order to come and sell.
+\cf bia ogyipʋ
+\dt 27/Jul/2017
 
 \lx fɛ
 \hm 2
@@ -10158,10 +9937,7 @@
 \is 1.6.1.1.2
 \is 1.6.5
 \de the hiding place of a lion
-\mn gyata
-\ctyp _Compound_
-\mn ɔbɔ1
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx gyawugya
 \ph ʤawuʤá
@@ -10200,6 +9976,7 @@
 \is 5.2.2
 \de to eat;
 \sn 2
+\ps v
 \ge interact
 \is 9.1.2.2
 \de to engage in an interpersonal activity that involves give and take.
@@ -10305,7 +10082,7 @@
 \xe Nkonyas inherit fathers' possessions, but Ashantis inherit their maternal uncle's.
 \xv Ɔtsɩ tegyi mʋ yín ofumbi, fɛ́kɩ oyin ɛ lagyi mʋ sɩ atɔ.
 \xe A woman that inherit her mother's bag, so that a man will inherit his father's things.
-\dt 24/Jul/2017
+\dt 25/Jul/2017
 
 \lx gyi
 \hm 2
@@ -11280,11 +11057,10 @@
 \ge cave
 \is 1.2.1.5
 \de cave
-\mn ibwi
 \ctyp _Compound_
 \xv Abrɛ amʋ bʋ ibwi alatɔ ɩnʋ.
 \xe The antelope is in the cave.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx ibwi ɔbɔtɔ
 \ph ibwi ɔbɔtɔ
@@ -11293,9 +11069,8 @@
 \ge cave
 \is 1.2.1.5
 \de cave
-\mn ibwi
 \ctyp _Compound_
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx idu
 \ph idúʔ
@@ -11551,10 +11326,9 @@
 \is 7.5
 \de to be in arranged pile
 \ctyp _Derivative_
-\mn REDUP 2
 \xv Nɔyɔ a, bɔbʋa mankani amʋ akuaku. Mʋ́ʋ́ nɛkpa iku kʋlɛ.
 \xe When I went they had set the mankani in piles. And then I collected one pile.
-\dt 16/Jul/2017
+\dt 27/Jul/2017
 
 \lx ikwe
 \ph ikwe
@@ -11636,7 +11410,18 @@
 \xe A cat's fur is pleasant to touch because it is smooth.
 \bb Stewart List:0025
 \bb SIL-AWL:0027
-\dt 16/Jul/2016
+\se ansɩkukusʋ imi
+\ph ansɪ́kukusʊ imi
+\ps n
+\ge eyebrow
+\is 2.1.1.1
+\de eyebrow
+\ctyp _Compound_
+\xv Kebi bɔbwɛ amʋ ansɩkukusʋ imi amʋ labʋla dʋbi.
+\xe The eyebrow of the baby is too bushy.
+\bb SIL-AWL:0007
+\nq check this vs ɔsɩkunkun
+\dt 27/Jul/2017
 
 \lx imu
 \ph imuʔ (L)
@@ -11997,7 +11782,29 @@
 \xe Bones are white and very strong.
 \bb Stewart List:0026
 \bb SIL-AWL:0074
-\dt 09/Jun/2017
+\se abɩn iwu
+\ge rib
+\is 2.1.2
+\is 2.1.6
+\de rib bone
+\ctyp _Compound_
+\lt side bone
+\bb SIL-AWL:0080
+\xv Nɩ fʋ abɩnwu ibia a, fʋmɛkɩ wanklaan fówu.
+\xe If your rib breaks and you don't take care, you will die.
+\se awutɔ
+\ps n
+\ge bones
+\is 2.1.6
+\sn 2
+\ps n
+\ge health
+\is 2.4
+\de the condition of inner health
+\cf -tɔ 2
+\ctyp _Compound_
+\bb SIL-AWL:0075
+\dt 27/Jul/2017
 
 \lx iyabwi
 \ph iyabwi (H)
@@ -12060,10 +11867,8 @@
 \ge fisherman
 \is 6.4.5.1
 \de fisherman
-\mn iye1
 \ctyp _Compound_
-\mn lɛ 1
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx iyin
 \ph iɲĩ́ʔ
@@ -12258,9 +12063,6 @@
 \sn 1
 \ps n
 \ge bathroom plant
-\mn ɩban
-\ctyp _Compound_
-\mn ɩfa2
 \is 2.5.7.3
 \is 5.6.2
 \is 6.5.1.4
@@ -12273,7 +12075,7 @@
 \is 4.1.9.2.1
 \de a wife that is given from the family
 \na One must take care of such a wife very well because to spoil such a marriage brings enmity between family members. Just as if you destroy a plant carefully tended in the wash area. It would not be available when needed for a sick person.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx ɩbɛ
 \hm 1
@@ -12460,12 +12262,10 @@
 \ge vine
 \is 1.5.3
 \de forest vine that grows on the mountain
-\mn ɩbʋ
 \ctyp _Compound_
-\mn ɩfla
 \xv Ɩbʋsʋ fla, Ɩbʋsʋ itekle tsia. Ɩbʋ ɔlɩn ha atɔ klɩ.
 \xe It is mainly on the mountains. It is very strong for tying things.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx ɩbʋta
 \ph ɪbʊtá
@@ -12654,12 +12454,10 @@
 \ge vine
 \is 1.5.3
 \de kind of vine that grows in the forest
-\mn ɩfla
 \ctyp _Compound_
-\mn pɛpɛ
 \xv Ɩfla pɛpɛ a, mʋ́ wɩ lɛpɛ. Ɩbʋ alɛ ha atɔ klɩ.
 \xe Red vines are red. They are good for tying things.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx ɩflɛ
 \ph ɪflɛ́ʔ
@@ -12762,9 +12560,8 @@
 \is 8.1.1.6
 \is 8.1.6.1
 \de quarter
-\mn ɩfʋn
 \ctyp _Compound_
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx ɩfwɩ
 \ph ɪfwɪ (H)
@@ -12856,12 +12653,10 @@
 \ge grass
 \is 1.5.3
 \de red grass
-\mn ɩka1
 \ctyp _Compound_
-\mn pɛpɛ
 \xv Bʋtɔpʋ ɩka pɛpɛ bwɛ afa.
 \xe The red grass is used for medicine.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx ɩka wɩhɛ
 \ph ɪka wɪhɛ́ʔ
@@ -12870,9 +12665,7 @@
 \ge sugar cane
 \is 6.2.1.5.1
 \de sugar cane
-\mn ɩka
 \ctyp _Compound_
-\mn wɩ1
 \rf Tape:2-2-571
 \xv Ka fʋ kawɩhɛ amʋ ɩkʋ ha mɩ anwɩ.
 \xe Cut some of your sugar cane for me to chew.
@@ -12881,7 +12674,7 @@
 \rf Tape:2-2-573
 \xv Ɩka wɩhɛ bʋtɔpʋ bwɛ asikre.
 \xe We used sugar cane to make sugar.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx ɩkan
 \ph ɪkã
@@ -13312,12 +13105,11 @@
 \ge because
 \is 9.6.2.5
 \de because
-\mn na1 3
 \ctyp _Compound_
 \rf Tape:3-1-069
 \xv Ɩna mbwɩ aye amʋʋ alawɩ amʋ sʋ a, alamwɛ.
 \xe Because of the animal meat he has eaten, he has become satisfied.
-\dt 29/May/2017
+\dt 27/Jul/2017
 
 \lx ɩnɩ
 \ph ɪ́!nɪ́
@@ -13727,9 +13519,7 @@
 \ge punishment
 \is 4.7.7
 \de to use, or treat badly for doing something wrong
-\mn bɩtɩ
 \ctyp _Compound_
-\mn ɩsʋ
 \xv Kwasi lɛsin ɔma yɔ sukuu sʋ, alanya ɩsʋbɩtɩ.
 \xe Kwasi was late to school so, he has received a punishment.
 \xv Nɩ fɔ́bwɛ lakpan a, fʋtenya sʋbɩtɩ.
@@ -13737,7 +13527,7 @@
 \rf Tape:3-1-182
 \xv Ɩsʋbɩtɩ dɩn fʋsʋ.
 \xe The punishment is on you; it's your own fault.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx ɩsʋgyi
 \ph ɪsʊʤíʔ
@@ -15423,14 +15213,12 @@
 \ge see whether
 \is 9.4.5
 \de to see whether
-\mn kɩ1
 \ctyp Phrasal_Verb
-\mn bɛɛ
 \lt look and say
 \xv Kɩ bɛɛ iye bʋ biasʋ, afʋ bɛbla mɩ.
 \xe See whether there is fish in the market so that you should tell me.
 \rf Tape:3-2-001
-\dt 30/Jan/2017
+\dt 27/Jul/2017
 
 \lx kɩ ɔkpa
 \ph kɪ ɔk͡pa(H)
@@ -15458,12 +15246,11 @@
 \is 4.3.4.5.2
 \is 6.1.2.2.5
 \de to care for something
-\mn kɩ
 \ctyp Phrasal_Verb
 \rf Tape:3-1-580
 \xv Bɛlɛ owie pɔpwɛ amʋ obitɛpʋ odua ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx kɩaɩ
 \ph kɪaɪʔ
@@ -15783,13 +15570,11 @@
 \is 8.3.2.3
 \de very sharp
 \ctyp _Derivative_
-\mn REDUP 1
-\ctyp _Derivative_
 \rf Tape:3-2-143
 \xv Krantɩɛ amʋ ɔnɔ lawa ogya klaklakla.
 \xe The cutlass is very sharp.
 \bb Stewart List:1713
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx klamata
 \ph klamata(H)
@@ -16866,7 +16651,6 @@
 \de fall through the air and lie prone
 \cf dɩda
 \cf sunki
-\cf kpa2
 \cf kpayi
 \rf Tape:3-2-380
 \xv Oyi ánɩ́ mʋ́tɔ mɔsɔ a, fɔ́dʋ mʋ a, fɛ́kpada. Nɩ fɔdʋ yɔ anwunsʋ a, fɛ́kpada.
@@ -16876,9 +16660,8 @@
 \ps v
 \ge drop (muliple)
 \de multiple similar things falling and lying prone
-\mn REDUP 2
 \ctyp _Derivative_
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx kpafʋtɩ
 \ph k͡pafʊ́tɪ̂ː
@@ -16962,9 +16745,8 @@
 \ge fall (multiple)
 \de multiple similar things falling
 \nq check tone
-\mn REDUP 2
 \ctyp _Derivative_
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx kpakpaakpa
 \ph k͡pák͡páːk͡pá
@@ -18404,10 +18186,9 @@
 \is 8.1.1.1.1
 \de just one
 \ctyp _Compound_
-\mn ɩkʋlɛ
 \xv Fɩtɛ asʋn kua kʋlɛ.
 \xe Ask just one question.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx Kudjo
 \ph kuʤó
@@ -18579,21 +18360,6 @@
 \bb Stewart List:2854
 \dt 14/Dec/2016
 
-\lx kun okude
-\ph kũ okudeʔ
-\sn
-\ps vi
-\ge dream
-\is 5.7.2
-\de to dream
-\mn okude
-\ctyp Phrasal_Verb
-\na Dreams are believed to be caused by Natɩ (spider).
-\xv Igye onye nokun okude nowun fuli.
-\xe Last night I dreamed I saw a ghost.
-\bb Stewart List:2046
-\dt 29/Jan/2017
-
 \lx kunka
 \ph kũŋkaʔ
 \sn
@@ -18747,8 +18513,7 @@
 \is 8.1.6.2
 \de take off repetitively
 \ctyp _Compound_
-\mn REDUP 2
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx kutibi
 \ph kutibí (H)
@@ -19200,21 +18965,13 @@
 \ge leper
 \is 2.5.2.2
 \de leper
-\sy kwata ɔlɔpʋ
-\dt 10/Feb/2017
-
-\lx kwata ɔlɔpʋ
-\ph kwata ɔlɔpʊ́
-\sn
+\se kwata ɔlɔpʋ
 \ps n
 \ge leper
 \is 2.5.2.2
 \de leper
-\ctyp _Compound_
-\mn kwata
-\mn ɔlɔpʋ
-\cf ɔkwatayin
-\dt 10/Feb/2017
+\ctyp _Compound
+\dt 27/Jul/2017
 
 \lx kwatabi
 \ph kwatabi
@@ -19288,9 +19045,8 @@
 \is 1.5.5
 \is 1.5.6
 \de to sprout all over
-\mn REDUP 2
 \ctyp _Derivative_
-\dt 15/Jun/2017
+\dt 27/Jul/2017
 
 \lx kwɛ
 \hm 2
@@ -19431,7 +19187,16 @@
 \ctyp Phrasal_Verb
 \xv Mbubwi bʋtɛla isia, tamɛ agyagya mʋ́ a, bʋtamala isia.
 \xe Birds make nests but bats never make nests.
-\dt 10/Feb/2017
+\se atɔ ɔlapʋ
+\ps n
+\ge soothsayer
+\is 4.9.4.7
+\de a person who practice soothsaying
+\ng _Compound_
+\xv Oyin ɔkʋ lawun isuna ánɩ́ omonu mʋ́ asɩ, sʋ ɔyɔ atɔ ɔlapʋ woyi yɛfɩtɛ atɔ.
+\xe A certain man has seen a sign which he did not understand, so he is going to a soothsayer's house to consult him.
+\cf atɔ owunpʋ
+\dt 27/Jul/2017
 
 \lx la-
 \hm 3
@@ -19848,9 +19613,7 @@
 \is 3.5.1.2.3
 \de to explain something to someone
 \ctyp Phrasal_Verb
-\mn suna
-\mn asɩ1
-\dt 16/Jul/2017
+\dt 27/Jul/2017
 
 \lx lɛ-
 \ph lɛ-/lɛ́-
@@ -20425,17 +20188,6 @@
 \cf nyankɩ1
 \nt see nyankɩ for other words for time of day
 \dt 20/Jul/2016
-
-\lx ma ɔdwɛ
-\ph ma ɔdwɛ
-\sn
-\ps ADJ
-\ge tasteless
-\is 2.3.3
-\de tasteless
-\ctyp _Compound_
-\mn ɔdwɛ
-\dt 10/Feb/2017
 
 \lx maɩlɩ
 \ph máɪlɪ
@@ -22462,13 +22214,22 @@
 \xv Ɔprakuo bʋ nfɔ dʋbɩ.
 \xe A pig has much fat.
 \bb Stewart List:1243
+\se awutɔ nfɔ
+\ps n
+\ge marrow
+\is 2.1.6
+\is 6.3.4
+\de bone marrow
+\ctyp _Compound_
+\cf nfɔ
+\bb SIL-AWL:0075
 \sn 3
 \ge gasoline
 \ps n
 \is 5.5.6
 \is 7.2.4.1.1
 \de gasoline or oil for a vehicle
-\dt 16/Jul/2017
+\dt 27/Jul/2017
 
 \lx nfɔlɩ
 \ph ɱfɔ́lɪʔ
@@ -23158,10 +22919,8 @@
 \xl He has two mouths.
 \rf Tape:6-1-204
 \cf afunu
-\mn ɔnɔ
 \ctyp _Derivative_
-\mn -nyɔ
-\dt 09/Jul/2017
+\dt 27/Jul/2017
 
 \lx -nnu
 \ph nːu(H)
@@ -24118,7 +23877,6 @@
 \is 4.7.7
 \is 7.7.1
 \de to beat someone with a stick
-\mn nwɛn1
 \ctyp Phrasal_Verb
 \rf Tape:8-1-253
 \xv Banwɛn mʋ atɔ dʋbɩ sʋ mʋ ɔyʋlʋ labwɛ titiriti.
@@ -24126,7 +23884,7 @@
 \rf Tape:8-1-391
 \xv Ɔtsawʋlɛ pɛ ɔlɔnwɛn mʋ atɔ.
 \xe He whipped him only once.
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx nwɔsɩ
 \ph ŋʷɔ́sɪ́
@@ -24192,11 +23950,10 @@
 \ge lucky
 \is 4.4.5.1
 \de lucky
-\mn nwun
 \ctyp _Compound_
 \xv Nwun lawa fʋ olu.
 \xe You have been lucky.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx nwunfa
 \ph ŋʷṹɱfá
@@ -24436,12 +24193,11 @@
 \ps v
 \ge mince
 \de to walk in a mincing manner
-\mn REDUP 1
 \ctyp _Derivative_
 \rf Tape:5-1-520
 \xv Ɔha amʋ na ɔdɛ ɩbɩ nyanyanka.
 \xe She walks, she is setting her hands in a mincing manner.
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx nyanka
 \hm 2
@@ -26600,8 +26356,17 @@
 \na Proverb: The cause of a phemenon hasn't stopped, so the effects continue.
 \na Spider is considered to cause dreams
 \bb Stewart List:1407
-\cf kun okude
-\dt 29/Aug/2016
+\se kun okude
+\ps vi
+\ge dream
+\is 5.7.2
+\de to dream
+\ctyp Phrasal_Verb
+\na Dreams are believed to be caused by Natɩ (spider).
+\xv Igye onye nokun okude nowun fuli.
+\xe Last night I dreamed I saw a ghost.
+\bb Stewart List:2046
+\dt 27/Jul/2017
 
 \lx okugyiɔkʋ
 \ph okuʤiɔkʊ
@@ -29765,8 +29530,15 @@
 \xe Kploklobi (a type of mushroom) grows in rotting trees, It is very good with palm nut soup.
 \rf Tape:1-2-178
 \xv Dei asʋ tɔkwɛ ɔbɛ plɔhɛsʋ. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
-\xe Monkey ears (a type of mushroom) grows in rotten palm trees. It is sweet in palm nut soup.
-\dt 18/Oct/2016
+\xe Monkey ears (a type of mushroom) grows in rotten palm trees. It is sweet in palm nut soupma ɔdwɛ
+\ph ma ɔdwɛ
+\ps ADJ
+\ge tasteless
+\is 2.3.3
+\de tasteless
+\ctyp _Compound_
+\se .
+\dt 27/Jul/2017
 
 \lx ɔdwɛla
 \ph ɔdʷɛlá
@@ -30995,10 +30767,10 @@
 
 \lx ɔkʋsʋ
 \ph ɔkʊsʊ
-\ps ADJ
 \vas kʋsʋ
 \vasph kʊsʊ
 \sn
+\ps ADJ
 \ge younger
 \sn
 \is 4.1.9.1.3
@@ -31013,7 +30785,7 @@
 \xe Jacob is the younger.
 \cf ogyama
 \an ɔdɛhɛn
-\dt 07/Jan/2017
+\dt 25/Jul/2017
 
 \lx ɔkwaɩ
 \ph ɔkʷaɪ(H)
@@ -35543,15 +35315,18 @@
 \dt 12/Dec/2016
 
 \lx REDUP
-\np High tone on second repeated segment when first is low.
-\sn 1
+\hm 1
+\sn
 \ps PTCL
 \ge EMPH
 \is 9.3.4
 \de emphasis marker
 \xv kinkin; kinkiinkin
 \xe seriously; very seriously
-\sn 2
+\dt 27/Jul/2017
+
+\lx REDUP
+\hm 2
 \ps PTCL
 \ge MULTIPLE
 \is 9.3.4
@@ -35560,7 +35335,7 @@
 \xe sprout; sprout all over
 \xv srɩ; sɩsrɩ
 \xe run; run all over
-\dt 17/May/2016
+\dt 27/Jul/2017
 
 \lx sa
 \hm 1
@@ -35779,10 +35554,10 @@
 
 \lx sapa
 \ph sapaʔ(L)
-\ps n
 \pl asapa
 \plph asápá(L)
 \sn
+\ps n
 \ge cobra
 \is 1.6.1.3.1
 \de spitting cobra; probably black-necked spitting cobra, perhaps Mali cobra
@@ -35793,7 +35568,7 @@
 \xe They blame the innocent for the work of the guilty.
 \xv Sapa tɔwa aha atsʋnɔ.
 \xe Cobra's spit at people.
-\dt 28/Jan/2017
+\dt 25/Jul/2017
 
 \lx sapʋrada
 \ph sá!pʊ́rádá
@@ -35902,11 +35677,11 @@
 \is 8.4.6.3.1
 \de immediately
 \ctyp _Derivative_
-\mn REDUP 1
+\cf REDUP1
 \nt Southern dialect uses sei for now, sesei for immediately. Northern uses sesei for now, sesesei for immediately
 \xv Nefi agyuma amʋ yɔ asɩ tsu sesei.
 \xe I will start the work now.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx sɛ
 \hm 1
@@ -36050,8 +35825,6 @@
 \ge forgive
 \is 4.8.4.7
 \de to forgive someone
-\mn si1
-\mn kie
 \ctyp Phrasal_Verb
 \xv Si asʋn kie fʋaba, mɛnɩ Bulu obési fʋklɛ kie fʋ.
 \xe Forgive your neighbour's case so that God will forgive yours.
@@ -36061,7 +35834,7 @@
 \xe If I have offended you please forgive me.
 \cf si1
 \cf kie
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx Sia
 \hm 2
@@ -36597,9 +36370,8 @@
 \ge test
 \cf ɩsɔkɩ
 \de to test someone or something
-\mn kɩ1
 \ctyp Phrasal_Verb
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx sɔɔn
 \ph sɔ̃́ː
@@ -37159,12 +36931,11 @@
 \ge really stings
 \is 2.5.6.1
 \de to sting very much
-\mn REDUP 1
 \ctyp _Derivative_
 \rf Tape:6-1-383
 \xv Ɔkpan odun fʋ a, ɩtɔhɔ ɔsɩn; ɩtɔ sʋrasʋra wa.
 \xe If an ɔkpan ant bites you it brings pain, it stings a lot.
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx sʋra
 \hm 2
@@ -38348,14 +38119,13 @@
 \is 7.1.1
 \is 7.3.4.6
 \de stand without support, stand alone
-\mn tɩn1
 \ctyp Phrasal_Verb
 \nt always collocates with tɩn (and cognates) to convey ideas of learning to stand (child development), and not falling (bottles, head basins etc.).
 \xv Kwame dɛ adɛndɛ tɩn.
 \xe Kwame is standing alone.
 \xv Fatɩn adɛndɛ.
 \xe You are carrying without holding your load.
-\dt 30/Jan/2017
+\dt 27/Jul/2017
 
 \lx tɩnbɩ
 \ph tɪnbɪ
@@ -39601,7 +39371,6 @@
 \is 7.3.2.7
 \de to pluck multiple items
 \ctyp _Derivative_
-\mn REDUP 2
 \xv Batɛ amʋ otedu labla dʋbɩ sʋ tsitsii mʋ́, mɛnɩ ɔbɔ́wa akɩlɛ.
 \xe The chickens tail is thick so pull some of it out so that it will become good to look at.
 \bb Stewart List:2356
@@ -39624,7 +39393,7 @@
 \rf Tape:7-2-350
 \xv Ogya amʋ detsii ɔswɩtɔ.
 \xe The fire is burning on the hearth.
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx tsii
 \hm 2
@@ -40199,9 +39968,8 @@
 \ge very far
 \is 8.2.6.1
 \de very far away
-\mn REDUP 1
 \ctyp _Derivative_
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx tsutsua
 \ph t͡sut͡súaʔ(L)
@@ -41212,14 +40980,13 @@
 \ge very dry
 \is 1.3.3.1
 \de to be very dry
-\mn REDUP 1
 \ctyp _Derivative_
 \sn 2
 \ps ADJ
 \ge astringent
 \xv Bɩsɩ amʋtɔ gyi wesee.
 \xe The cola nut is astringent.
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx wɛ
 \ph wɛ
@@ -41331,7 +41098,6 @@
 \is 8.3.7.8.1
 \de to rust
 \ctyp Phrasal_Verb
-\mn nkanʋ
 \rf Tape:5-1-172
 \xv Ganu amʋtɔ lawɩ nkanʋ.
 \xe The inside of the can has rusted.
@@ -41344,7 +41110,7 @@
 \xv Brɛ amʋʋ nyebi amʋ bɔbwɛ amʋ́ ɔsɔhwɩɛ amʋ a, Kofi lɔwɩ.
 \xe When the children did their exams, Kofi was the last.
 \bb Stewart List:2097
-\dt 10/Feb/2017
+\dt 27/Jul/2017
 
 \lx wɩ
 \hm 2
@@ -41437,6 +41203,7 @@
 \xe It is hard to pound fufu but it is good to eat.
 \bb Stewart List:2810
 \sn 3
+\ps v
 \ge wound
 \de to injure someone
 \xv Wɔ mʋ tswɛ.
@@ -41446,13 +41213,12 @@
 \ge throb
 \is 2.5.6.1
 \de to throb
-\mn REDUP 2
 \ctyp _Derivative_
 \rf Tape:8-1-320
 \xv Mʋ ansibi, mʋ́tɔ dɛ mʋ wɔwɔ.
 \xe His eyes are throbbing.
 \bb Stewart List:3321
-\sn 3
+\sn 4
 \ps v
 \ge hurt with words
 \is 3.5.1.8
@@ -41461,7 +41227,7 @@
 \de to say something hurtful with words
 \xv Nɛblɩ oblikpini wɔ mɩ kulu.
 \xe I spoke indirectly and hurt my husband.
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx wɔfa
 \ph wɔfa
@@ -41691,7 +41457,17 @@
 \nx We say "gyi ɔdwɛ" instead, but we say "wun asʋn" which means to suffer.
 \bb Stewart List:2118
 \bb Stewart List:3303
-\dt 24/Jul/2017
+\se atɔ owunpʋ
+\ps n
+\ge diviner
+\is 4.9.4.7
+\is 4.9.7.7
+\de one who sees the future
+\ctyp _Compound_
+\na Some people just see things in a vision, but some people use various methods such as looking in water.
+\xv Atɔ owunpʋ towun atɔ ánɩ́ bɛ́ba, bla aha mɛnɩ bɛ́da wɩsʋ.
+\xe A diviner sees the things that will come and tells people so that they can watch out.
+\dt 27/Jul/2017
 
 \lx wuna
 \hm 1
@@ -42365,7 +42141,6 @@
 \ge praise
 \is 3.5.1.7
 \de to praise someone, particularly God
-\mn ayɛ
 \ctyp Phrasal_Verb
 \bb Stewart List:3242
 \bwl Akan
@@ -42373,7 +42148,7 @@
 \rf Tape:8-1-540
 \xv Nɩ ansɩ dɛ ɔkʋ gyi a, ɔha amʋ ɔpʋ ɩlʋ wa yi Bulu ayɛ.
 \xe If someone is happy. That person should sing and praise God.
-\dt 29/Jan/2017
+\dt 27/Jul/2017
 
 \lx yia
 \ph yíâʔ
