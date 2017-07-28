@@ -32,7 +32,11 @@ my $config = Config::Tiny->read( 'PromoteSubentries.ini' );
 #ToDo: get the pathname of the INI file from $0 so that the two go together
 die "Couldn't find the INI file\nQuitting" if !$config;
 my $starttag = $config->{hackFWNonFreeTranslation}->{NonFreeTranslationStarttag};
+say "starttag: $starttag";
+
 my $endtag = $config->{hackFWNonFreeTranslation}->{NonFreeTranslationEndtag};
+say "endtag: $endtag";
+
 my $transtype = $config->{hackFWNonFreeTranslation}->{NonFreeTranslationType};
 my $freetype = $config->{hackFWNonFreeTranslation}->{FreeTranslationType};
 my $infilename = $config->{hackFWNonFreeTranslation}->{infilename};
@@ -79,8 +83,8 @@ foreach my $transToModifyrt ($nktree->findnodes(q#//*[contains(., '# . $starttag
         my $nftext = $1;
 	# say "nftext: $nftext";
 	# remove the nonFree text from the <Run>...</Run> whether it's first or second
-	$runstring =~ s/$starttag$nftext$endtag\;\ //;
-	$runstring =~ s/\;\ $starttag$nftext$endtag//;
+	$runstring =~ s/$starttag(.*?)$endtag\;\ //;
+	$runstring =~ s/\;\ $starttag(.*?)$endtag//;
 	$run->setData($runstring);
 	
 	my $rtstring = $transToModifyrt->toString;
@@ -90,7 +94,7 @@ foreach my $transToModifyrt ($nktree->findnodes(q#//*[contains(., '# . $starttag
 	# say "rtguid $rtguid";
 	# say "newguid $newguid";
 	$rtstring =~ s/$rtguid/$newguid/;
-	$rtstring =~ s#\>$runstring\</Run>#\>$nftext\</Run>#;
+	$rtstring =~ s#\>(.*?)\</Run>#\>$nftext\</Run>#;
 	# say $rtstring;
 	my $newnode = XML::LibXML->load_xml(string => $rtstring)->findnodes('//*')->[0];
 	$transToModifyrt->parentNode->insertAfter($newnode, $transToModifyrt);
