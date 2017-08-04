@@ -1,6 +1,6 @@
 
 <!--=====================================================================
-Created via the Lexical Import process: 7/27/2017 5:41:08 PM
+Created via the Lexical Import process: 8/4/2017 11:35:45 AM
 ===================================================================== -->
 <sfmMapping version="6.1">
 
@@ -22,108 +22,93 @@ Import Options
 Language Definitions
 ===================================================================== -->
 <languages>
+<langDef id="National" xml:lang="ignore"/>
 <langDef id="English" xml:lang="en"/>
 <langDef id="Vernacular" xml:lang="nko"/>
-<langDef id="Regional" xml:lang="ignore"/>
-<langDef id="National" xml:lang="ignore"/>
 <langDef id="NkonyaPhonetic" xml:lang="nko-Qaaa-x-NkoP"/>
+<langDef id="Regional" xml:lang="ignore"/>
 </languages>
 
 <!--=====================================================================
 Level Hierarchy
 ===================================================================== -->
 <hierarchy>
-<level name="Entry" partOf="records" beginFields="lx" additionalFields="hm ph nq dt lt" multiFields="ph nq lt"/>
-<level name="Etymology" partOf="Subentry Entry" beginFields="bwl" additionalFields="bwc bwf ec" multiFields="bwc bwf ec"/>
+<level name="Entry" partOf="records" beginFields="lx" additionalFields="hm dt ph nq lt" multiFields="lt nq ph"/>
+<level name="Etymology" partOf="Entry Subentry" beginFields="bwl" additionalFields="bwf ec bwc" multiFields="bwf ec bwc"/>
 <level name="Example" partOf="Sense" beginFields="xv" additionalFields="rf"/>
-<level name="ExampleTranslation" partOf="Example" beginFields="xe" additionalFields="xl nx" multiFields="xl nx"/>
+<level name="ExampleTranslation" partOf="Example" beginFields="xe" additionalFields="nx xl" multiFields="nx xl"/>
 <level name="Function" partOf="Subentry Sense Entry" beginFields="ignore"/>
 <level name="Picture" partOf="Sense" beginFields="ignore"/>
-<level name="Pronunciation" partOf="Subentry Entry" beginFields="ignore"/>
+<level name="Pronunciation" partOf="Entry Subentry" beginFields="ignore"/>
 <level name="SemanticDomain" partOf="Sense" beginFields="is"/>
-<level name="Sense" partOf="Subentry Entry" beginFields="sn" additionalFields="ge ps np an lf nt ctyp ee ns sc de ue sy cf bb na ng" multiFields="ge np an lf nt ctyp ee ns de ue sy cf bb na ng"/>
-<level name="Subentry" partOf="Entry" beginFields="ignore" additionalFields="seundef seid seder secmpx sephv secmpd" multiFields="seundef seid seder secmpx sephv secmpd" uniqueFields="seundef seid seder secmpx sephv secmpd"/>
-<level name="Variant" partOf="Subentry Sense Entry" beginFields="vaa va pl vad vas" additionalFields="vasph ve sg vadph sgph vaph vaaph plph" multiFields="vasph ve sg vadph sgph vaph vaaph plph" uniqueFields="sg vaa va pl vad vas"/>
+<level name="Sense" partOf="Entry Subentry" beginFields="sn" additionalFields="na an de ee sc ps cf bb ng lf ge ns ctyp ue sy nt np" multiFields="na an de sy ctyp ge cf bb ng lf ee ns ue nt np"/>
+<level name="Subentry" partOf="Entry" beginFields="sephv seid seundef secmpx seder secmpd" uniqueFields="sephv seid seundef secmpx seder secmpd"/>
+<level name="Variant" partOf="Subentry Sense Entry" beginFields="vas vad pl vaa va" additionalFields="vaph vasph sgph sg ve plph vaaph vadph" multiFields="vaph vasph sgph sg ve plph vaaph vadph" uniqueFields="va sg vad vaa pl vas"/>
 </hierarchy>
 
 <!--=====================================================================
 Field Descriptions
 ===================================================================== -->
 <fieldDescriptions>
-<field sfm="an" name="Lexical Relation" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="lxrel" funcWS="en" func="Antonym"/>
+<field sfm="lx" name="Lexeme Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lex"/>
 </field>
-<field sfm="bb" name="Bibliography (Sense)" type="string" lang="English" >
-<meaning app="fw.sil.org" id="sbib"/>
+<field sfm="ph" name="Lexeme Form" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="lex"/>
 </field>
-<field sfm="bwc" name="Etymology Note" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="etc"/>
+<field sfm="sn" name="Sense Number" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sn"/>
 </field>
-<field sfm="bwf" name="Etymology Source Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="etf"/>
-</field>
-<field sfm="bwl" name="Etymology Source Language" type="string" lang="English" abbr="False" >
-<meaning app="fw.sil.org" id="etsl"/>
-</field>
-<field sfm="cf" name="Lexical Relation" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="lxrel" funcWS="en" func="Compare (sense)"/>
-</field>
-<field sfm="ctyp" name="Import Residue (Sense)" type="string" lang="English" >
-<meaning app="fw.sil.org" id="sires"/>
-</field>
-<field sfm="de" name="Definition" type="string" lang="English" >
-<meaning app="fw.sil.org" id="def"/>
-</field>
-<field sfm="dt" name="Date Modified" type="date" lang="English" >
-<meaning app="fw.sil.org" id="mod"/>
-</field>
-<field sfm="ec" name="Etymology Note" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="etc"/>
-</field>
-<field sfm="ee" name="Encyclopedic Info" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="enc"/>
+<field sfm="ps" name="Category (Part Of Speech)" type="string" lang="English" abbr="True" >
+<meaning app="fw.sil.org" id="pos"/>
 </field>
 <field sfm="ge" name="Gloss" type="string" lang="English" >
 <meaning app="fw.sil.org" id="glos"/>
 </field>
-<field sfm="hm" name="Homograph Number" type="string" lang="English" >
-<meaning app="fw.sil.org" id="hom"/>
-</field>
 <field sfm="is" name="Semantic Domain" type="string" lang="English" abbr="True" >
 <meaning app="fw.sil.org" id="sem"/>
 </field>
-<field sfm="lf" name="Import Residue (Sense)" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="sires"/>
+<field sfm="de" name="Definition" type="string" lang="English" >
+<meaning app="fw.sil.org" id="def"/>
 </field>
-<field sfm="lt" name="Literal Meaning" type="string" lang="English" >
-<meaning app="fw.sil.org" id="litm"/>
+<field sfm="rf" name="Reference" type="string" lang="English" >
+<meaning app="fw.sil.org" id="ref"/>
 </field>
-<field sfm="lx" name="Lexeme Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="lex"/>
+<field sfm="xv" name="Example" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sent"/>
 </field>
-<field sfm="na" name="Anthro Note" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="anote"/>
+<field sfm="xe" name="Example Translation" type="string" lang="English" >
+<meaning app="fw.sil.org" id="trans"/>
 </field>
-<field sfm="ng" name="Grammar Note" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="grnote"/>
+<field sfm="dt" name="Date Modified" type="date" lang="English" >
+<meaning app="fw.sil.org" id="mod"/>
+</field>
+<field sfm="hm" name="Homograph Number" type="string" lang="English" >
+<meaning app="fw.sil.org" id="hom"/>
 </field>
 <field sfm="np" name="Phonology Note" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="pnote"/>
 </field>
-<field sfm="nq" name="Note" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="com"/>
-</field>
-<field sfm="ns" name="Sociolinguistics Note" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="slnote"/>
-</field>
-<field sfm="nt" name="General Note" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="gnote"/>
-</field>
-<field sfm="nx" name="Example Translation" type="string" lang="English" >
+<field sfm="xl" name="Example Translation" type="string" lang="English" >
 <meaning app="fw.sil.org" id="trans"/>
 </field>
-<field sfm="ph" name="Lexeme Form" type="string" lang="NkonyaPhonetic" >
-<meaning app="fw.sil.org" id="lex"/>
+<field sfm="ng" name="Grammar Note" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="grnote"/>
+</field>
+<field sfm="cf" name="Lexical Relation" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lxrel" funcWS="en" func="Compare (sense)"/>
+</field>
+<field sfm="na" name="Anthro Note" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="anote"/>
+</field>
+<field sfm="bwl" name="Etymology Source Language" type="string" lang="English" abbr="False" >
+<meaning app="fw.sil.org" id="etsl"/>
+</field>
+<field sfm="bwf" name="Etymology Source Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="etf"/>
+</field>
+<field sfm="bwc" name="Etymology Note" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="etc"/>
 </field>
 <field sfm="pl" name="Variant Form" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="var" funcWS="en" func="Plural"/>
@@ -131,32 +116,23 @@ Field Descriptions
 <field sfm="plph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
 <meaning app="fw.sil.org" id="veires"/>
 </field>
-<field sfm="ps" name="Category (Part Of Speech)" type="string" lang="English" abbr="True" >
-<meaning app="fw.sil.org" id="pos"/>
+<field sfm="nt" name="General Note" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="gnote"/>
 </field>
-<field sfm="rf" name="Reference" type="string" lang="English" >
-<meaning app="fw.sil.org" id="ref"/>
+<field sfm="ns" name="Sociolinguistics Note" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="slnote"/>
+</field>
+<field sfm="bb" name="Bibliography (Sense)" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sbib"/>
 </field>
 <field sfm="sc" name="Scientific Name" type="string" lang="English" >
 <meaning app="fw.sil.org" id="sci"/>
 </field>
-<field sfm="secmpd" name="Subentry/Complex Form" type="string" lang="English" >
-<meaning app="fw.sil.org" id="sub" funcWS="en" func="Compound"/>
+<field sfm="nq" name="Note" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="com"/>
 </field>
-<field sfm="secmpx" name="Subentry/Complex Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="sub" funcWS="en" func="Unspecified Complex Form"/>
-</field>
-<field sfm="seder" name="Subentry/Complex Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="sub" funcWS="en" func="Derivative"/>
-</field>
-<field sfm="seid" name="Subentry/Complex Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="sub" funcWS="en" func="Idiom"/>
-</field>
-<field sfm="sephv" name="Subentry/Complex Form" type="string" lang="NkonyaPhonetic" >
-<meaning app="fw.sil.org" id="sub" funcWS="en" func="Phrasal Verb"/>
-</field>
-<field sfm="seundef" name="Subentry/Complex Form" type="string" lang="English" >
-<meaning app="fw.sil.org" id="sub" funcWS="en" func="Unspecified Complex Form"/>
+<field sfm="ee" name="Encyclopedic Info" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="enc"/>
 </field>
 <field sfm="sg" name="Variant Form" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="var" funcWS="en" func="Singular"/>
@@ -164,32 +140,8 @@ Field Descriptions
 <field sfm="sgph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
 <meaning app="fw.sil.org" id="veires"/>
 </field>
-<field sfm="sn" name="Sense Number" type="string" lang="English" >
-<meaning app="fw.sil.org" id="sn"/>
-</field>
 <field sfm="sy" name="Lexical Relation" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="lxrel" funcWS="en" func="Synonyms"/>
-</field>
-<field sfm="ue" name="Usages" type="string" lang="English" abbr="False" >
-<meaning app="fw.sil.org" id="utyp"/>
-</field>
-<field sfm="va" name="Variant Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="var" funcWS="en" func="Unspecified Variant"/>
-</field>
-<field sfm="vaa" name="Variant Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="var" funcWS="en" func="Allophonic Variant"/>
-</field>
-<field sfm="vaaph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
-<meaning app="fw.sil.org" id="veires"/>
-</field>
-<field sfm="vad" name="Variant Form" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="var" funcWS="en" func="Dialectal Variant"/>
-</field>
-<field sfm="vadph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
-<meaning app="fw.sil.org" id="veires"/>
-</field>
-<field sfm="vaph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
-<meaning app="fw.sil.org" id="veires"/>
 </field>
 <field sfm="vas" name="Variant Form" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="var" funcWS="en" func="Spelling Variant"/>
@@ -197,17 +149,65 @@ Field Descriptions
 <field sfm="vasph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
 <meaning app="fw.sil.org" id="veires"/>
 </field>
+<field sfm="sephv" name="Subentry/Complex Form" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Phrasal Verb"/>
+</field>
+<field sfm="vad" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Dialectal Variant"/>
+</field>
+<field sfm="vadph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="veires"/>
+</field>
 <field sfm="ve" name="Comment (Variant)" type="string" lang="English" >
 <meaning app="fw.sil.org" id="varc"/>
 </field>
-<field sfm="xe" name="Example Translation" type="string" lang="English" >
+<field sfm="ec" name="Etymology Note" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="etc"/>
+</field>
+<field sfm="secmpd" name="Subentry/Complex Form" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Compound"/>
+</field>
+<field sfm="seundef" name="Subentry/Complex Form" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Unspecified Complex Form"/>
+</field>
+<field sfm="ue" name="Usages" type="string" lang="English" abbr="False" >
+<meaning app="fw.sil.org" id="utyp"/>
+</field>
+<field sfm="va" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Unspecified Variant"/>
+</field>
+<field sfm="vaph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="veires"/>
+</field>
+<field sfm="nx" name="Example Translation" type="string" lang="English" >
 <meaning app="fw.sil.org" id="trans"/>
 </field>
-<field sfm="xl" name="Example Translation" type="string" lang="English" >
-<meaning app="fw.sil.org" id="trans"/>
+<field sfm="seder" name="Subentry/Complex Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Derivative"/>
 </field>
-<field sfm="xv" name="Example" type="string" lang="Vernacular" >
-<meaning app="fw.sil.org" id="sent"/>
+<field sfm="lt" name="Literal Meaning" type="string" lang="English" >
+<meaning app="fw.sil.org" id="litm"/>
+</field>
+<field sfm="secmpx" name="Subentry/Complex Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Unspecified Complex Form"/>
+</field>
+<field sfm="vaa" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Allophonic Variant"/>
+</field>
+<field sfm="vaaph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
+<meaning app="fw.sil.org" id="veires"/>
+</field>
+<field sfm="ctyp" name="Import Residue (Sense)" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+<field sfm="an" name="Lexical Relation" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lxrel" funcWS="en" func="Antonym"/>
+</field>
+<field sfm="seid" name="Subentry/Complex Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sub" funcWS="en" func="Idiom"/>
+</field>
+<field sfm="lf" name="Import Residue (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sires"/>
 </field>
 </fieldDescriptions>
 
