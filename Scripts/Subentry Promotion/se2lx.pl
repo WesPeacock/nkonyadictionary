@@ -7,11 +7,14 @@
 # adds \mn markers that refer to the original head and sense
 # call it with -p  option to print all the records, with the -n to print just the promoted subentries
 # input should be preprocessed to change all CRLFs to # except before \lx
-#     Run it like:
+#     Run it like (code also includes flags to circumfixes and non-free translations:
 #        dos2unix <da-din-org.sfm |\
-#        perl -pe 's/#/__hash__/g' |\
-#        perl -pe 's/\n*$/#/' |\
-#        perl -pe 's/#\\lx/\n\\lx/g' |\
+#        perl -pe 's#[\-]\ [\-](.*)#XX$1\-#' |\
+#        perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' | \
+#        perl -pe 's#\\nx (.*)#\\nx nx\:$1/nx\:#' | \
+#        perl -pe 's/#/\_\_hash\_\_/g' |\
+#        perl -pe 's/##/#/g' |\
+#        perl -pe 'chomp; print "\n" if /\\lx /; $_ .= "#"'  | \
 #        perl -pf Scripts/se2lx.pl |\
 #        perl -pe 's/#/\n/g' |\
 #        perl -pe 's/__hash__/#/g' |\
@@ -55,7 +58,6 @@ while (/\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?#\\sn))/)  {
 		}
 
 	$subentry =~ s/\\se ([^#]*?)#/\\lx $1#\\mn $lxfield$hmno$snno#$ps/;
-	$subentry  = "$subentry\\ve Complex_Form#";
 	print "$subentry$dt\n" ;
 
 	# delete subentry from master record and change date
