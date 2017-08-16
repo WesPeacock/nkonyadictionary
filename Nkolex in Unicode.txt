@@ -6256,8 +6256,7 @@
 \is 8.3.7
 \de be good
 \cf alɛ
-\ctyp Complex_Form
-\dt 27/Jul/2017
+\dt 15/Aug/2017
 
 \lx bʋa
 \hm 1
@@ -9124,13 +9123,13 @@
 \lt to pierce a leaf and look
 \sn 2
 \ps vt
-\ge injection
+\ge inject
 \is 2.5.7
 \de to give a medical injection
 \rf Tape:2-2-007
 \xv Futi bʋ ɔsɩn sʋ nyebi bʋtamakle futi.
 \xe An injection is painful so children never like injections.
-\dt 25/May/2017
+\dt 18/Aug/2017
 
 \lx fututu
 \ph futútú
@@ -18968,8 +18967,8 @@
 \ge leper
 \is 2.5.2.2
 \de leper
-\ctyp _Compound
-\dt 27/Jul/2017
+\ctyp _Compound_
+\dt 15/Aug/2017
 
 \lx kwatabi
 \ph kwatabi
@@ -21805,6 +21804,7 @@
 \plph anáníʔ
 \sn
 \ge duiker
+\de duiker
 \is 1.6.1.1.3
 \sc Sylvicapra grimmia
 \nq Check whether nani is grey duiker Sylvicapra grimmia, perhaps Maxwell's duiker Cepahlophus maxwelli
@@ -21813,7 +21813,7 @@
 \xv Nanɩ bʋ ɔsrɩ. Ogyi pututɔ kpala. Nani wɩ gyi fɛ nsuo.
 \xe An antelope is fast / has speed. It is a bush goat. Nani is ash in colour.
 \bb Stewart List:0631
-\dt 10/Jan/2017
+\dt 14/Aug/2017
 
 \lx nantata
 \ph nantataʔ
@@ -23445,7 +23445,7 @@
 \ps n
 \ge tear
 \is 3.5.6.5
-\de tear
+\de tears (eye)
 \xv Odesu, tamɛ ɔmɛdɛ ntsú lɩn.
 \xe He is crying but there are no tears.
 \nx Can be said to mock someone who is making a big show of weeping but doesn't really care.
@@ -23459,7 +23459,7 @@
 \is 3.5.6.5
 \de tears gathered in the eyes
 \ctyp Complex_Form
-\dt 24/Jul/2017
+\dt 15/Aug/2017
 
 \lx ntsu ɔbɩn
 \ph nt͡su ɔbɪ̃ʔ(L)
@@ -24815,7 +24815,7 @@
 \bb Stewart List:0044
 \bb Stewart List:0067
 \bb SIL-AWL:0065
-\dt 12/Jan/2017
+\dt 15/Aug/2017
 
 \lx obiantɔ
 \ph obíã́ntɔ́ʔ
@@ -28345,9 +28345,9 @@
 \is 6.6.1.1
 \is 8.3.3.3.6
 \de cloth dyed with tree bark
-\ctyp Complex_Form
+\ctyp _Compound_
 \na oyipɛ tati – a cloth that has been dyed with tree bark, at one point, our grandmother's time they would sew flour sacking and use it, That's how the tie and dye started.
-\dt 10/Feb/2017
+\dt 15/Aug/2017
 
 \lx oyitsu
 \ph oyit͡suʔ
@@ -34551,13 +34551,13 @@
 
 \lx plei
 \ph pléí
-\sn
+\sn 1
 \ps v
 \ge play
 \is 3.4.1.1.1
 \is 4.2.2.3
 \is 4.2.7
-\de play
+\de to play
 \xv Nyebi amʋ bʋdeplei mmua nʋ.
 \xe The children are playing behind the house there.
 \xv Apleipʋ amʋ bʋdeplei olitɔ nʋ.
@@ -34573,11 +34573,15 @@
 \is 4.2.7
 \de playmate
 \ctyp _Derivative_
+\sn 2
+\ge be flippant
+\de to not be serious
+\is 3.1.2.3
 \se plei X sʋ
 \ps v
 \ge be rude
 \is 4.3.7.1
-\de To be rude to someone
+\de to be rude to someone
 \ctyp Phrasal_Verb
 \rf Tape:2-1-251
 \xv Kofi ladan dʋn fʋ, sʋ maplei mʋ sʋ.
@@ -34590,7 +34594,7 @@
 \ctyp _Idiom_
 \xv Ɔtɔwa ɔsa nya ɔblɔ. Maplei mʋtɔ.
 \xe He gets angry quickly. Don't underestimate him.
-\dt 10/Feb/2017
+\dt 14/Aug/2017
 
 \lx pleia
 \ph pléíáʔ(L)
