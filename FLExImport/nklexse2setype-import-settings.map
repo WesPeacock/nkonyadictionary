@@ -1,6 +1,6 @@
 
 <!--=====================================================================
-Created via the Lexical Import process: 8/4/2017 11:35:45 AM
+Created via the Lexical Import process: 8/4/2017 7:21:41 PM
 ===================================================================== -->
 <sfmMapping version="6.1">
 
@@ -22,28 +22,28 @@ Import Options
 Language Definitions
 ===================================================================== -->
 <languages>
-<langDef id="National" xml:lang="ignore"/>
 <langDef id="English" xml:lang="en"/>
 <langDef id="Vernacular" xml:lang="nko"/>
-<langDef id="NkonyaPhonetic" xml:lang="nko-Qaaa-x-NkoP"/>
 <langDef id="Regional" xml:lang="ignore"/>
+<langDef id="National" xml:lang="ignore"/>
+<langDef id="NkonyaPhonetic" xml:lang="nko-Qaaa-x-NkoP"/>
 </languages>
 
 <!--=====================================================================
 Level Hierarchy
 ===================================================================== -->
 <hierarchy>
-<level name="Entry" partOf="records" beginFields="lx" additionalFields="hm dt ph nq lt" multiFields="lt nq ph"/>
-<level name="Etymology" partOf="Entry Subentry" beginFields="bwl" additionalFields="bwf ec bwc" multiFields="bwf ec bwc"/>
+<level name="Entry" partOf="records" beginFields="lx" additionalFields="hm ph nq dt lt" multiFields="ph nq lt"/>
+<level name="Etymology" partOf="Subentry Entry" beginFields="bwl" additionalFields="bwc bwf ec" multiFields="bwc bwf ec"/>
 <level name="Example" partOf="Sense" beginFields="xv" additionalFields="rf"/>
-<level name="ExampleTranslation" partOf="Example" beginFields="xe" additionalFields="nx xl" multiFields="nx xl"/>
+<level name="ExampleTranslation" partOf="Example" beginFields="xe" additionalFields="xl nx" multiFields="xl nx"/>
 <level name="Function" partOf="Subentry Sense Entry" beginFields="ignore"/>
 <level name="Picture" partOf="Sense" beginFields="ignore"/>
-<level name="Pronunciation" partOf="Entry Subentry" beginFields="ignore"/>
+<level name="Pronunciation" partOf="Subentry Entry" beginFields="ignore"/>
 <level name="SemanticDomain" partOf="Sense" beginFields="is"/>
-<level name="Sense" partOf="Entry Subentry" beginFields="sn" additionalFields="na an de ee sc ps cf bb ng lf ge ns ctyp ue sy nt np" multiFields="na an de sy ctyp ge cf bb ng lf ee ns ue nt np"/>
-<level name="Subentry" partOf="Entry" beginFields="sephv seid seundef secmpx seder secmpd" uniqueFields="sephv seid seundef secmpx seder secmpd"/>
-<level name="Variant" partOf="Subentry Sense Entry" beginFields="vas vad pl vaa va" additionalFields="vaph vasph sgph sg ve plph vaaph vadph" multiFields="vaph vasph sgph sg ve plph vaaph vadph" uniqueFields="va sg vad vaa pl vas"/>
+<level name="Sense" partOf="Subentry Entry" beginFields="sn" additionalFields="ng np sc ns nt ctyp ee lf de ue sy cf bb na ge ps an" multiFields="ge np an ns nt ctyp ee lf de ue sy cf bb na ng"/>
+<level name="Subentry" partOf="Entry" beginFields="seundef seid seder sephv secmpd secmpx" uniqueFields="seundef seid seder sephv secmpd secmpx"/>
+<level name="Variant" partOf="Subentry Sense Entry" beginFields="vaa va vad pl vas" additionalFields="vasph vaaph sg vadph sgph ve vaph plph" multiFields="vasph vaaph sg vadph sgph ve vaph plph" uniqueFields="sg vaa va vad pl vas"/>
 </hierarchy>
 
 <!--=====================================================================
@@ -149,7 +149,7 @@ Field Descriptions
 <field sfm="vasph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
 <meaning app="fw.sil.org" id="veires"/>
 </field>
-<field sfm="sephv" name="Subentry/Complex Form" type="string" lang="NkonyaPhonetic" >
+<field sfm="sephv" name="Subentry/Complex Form" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="sub" funcWS="en" func="Phrasal Verb"/>
 </field>
 <field sfm="vad" name="Variant Form" type="string" lang="Vernacular" >
@@ -164,10 +164,10 @@ Field Descriptions
 <field sfm="ec" name="Etymology Note" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="etc"/>
 </field>
-<field sfm="secmpd" name="Subentry/Complex Form" type="string" lang="English" >
+<field sfm="secmpd" name="Subentry/Complex Form" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="sub" funcWS="en" func="Compound"/>
 </field>
-<field sfm="seundef" name="Subentry/Complex Form" type="string" lang="English" >
+<field sfm="seundef" name="Subentry/Complex Form" type="string" lang="Vernacular" >
 <meaning app="fw.sil.org" id="sub" funcWS="en" func="Unspecified Complex Form"/>
 </field>
 <field sfm="ue" name="Usages" type="string" lang="English" abbr="False" >
