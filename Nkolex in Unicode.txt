@@ -2629,9 +2629,9 @@
 \ctyp _Compound_
 \se ansibi obwiepʋ
 \ph ansibi obwiepʊ́
-\ps n
 \pl ansibi abwiepʋ
 \plph ansibi abwiepʊ́
+\ps n
 \ge blind person
 \is 2.5.4.1
 \de person that cannot see
@@ -2640,7 +2640,7 @@
 \xv Ansibi obwiepʋ amʋ otse ɔsʋsʋ amʋ lawu.
 \xe The man blind man staying at the top is dead.
 \cf bwie
-\dt 31/Jul/2017
+\dt 28/Aug/2017
 
 \lx ansigyi
 \ph ansíʤí
@@ -26554,25 +26554,29 @@
 
 \lx olinkantɩ
 \ph oliŋkantɪ
-\ps n
-\vad elikantɩ
+\vad elinkantɩ
 \vadph eliŋkantɪ
 \ve Southern
-\pl nlinkantɩ
-\plph nliŋkantɪ
-\sn
+\ps n
+\sn 1
 \ge bile
 \is 2.2
 \is 2.3.3
 \de bile
-\rf Tape:6-1-011
+\bb Stewart List:0047
+\bb SIL-AWL:0099
 \xv Olinkantɩ bʋ ɔkɩta. Ɩfa wa iyetɔ a, fʋmɛ́ɛtalɩ wɩ.
 \xe Bile is bitter. If it should burst and get in the meat you will not be able to eat it.
 \xv Olinkantɩ lafa wa akpʋn amʋtɔ, sʋ lawa ɔkɩta.
 \xe The bile has burst in the liver so it has become bitter.
-\bb Stewart List:0047
-\bb SIL-AWL:0099
-\dt 09/Jul/2017
+\rf Tape:6-1-011
+\sn 2
+\ge gallbladder
+\is 1.6.2
+\is 2.1.8
+\de gallbladder
+\nq check this sense
+\dt 28/Aug/2017
 
 \lx olobi
 \ph olobi
@@ -38440,13 +38444,13 @@
 \xv Owie ɔnɔsʋ ɔtɔɩpʋ gyi mʋ ɔtsɩamɩ.
 \xe The one that speaks the chief's words is his linguist.
 \se Bulu ɔnɔsʋ ɔtɔɩpʋ
-\ps n
 \pl Bulu ɔnɔsʋ atɔɩpʋ
+\ps n
 \ge prophet
 \is 4.9.4.6
 \de prophet
 \ctyp Complex_Form
-\dt 10/Feb/2017
+\dt 28/Aug/2017
 
 \lx tɔɩ kpla
 \ph tɔ́ɪ́ k͡plá(H)
@@ -42231,15 +42235,15 @@
 
 \lx yie
 \ph yíéʔ
-\sn
-\ps v
 \vad kɩɛ
 \vadph kíéʔ
+\sn
+\ps v
 \ve Southern
 \ge divide
 \is 7.8
 \de to divide for people to get their share
-\dt 09/Jul/2017
+\dt 28/Aug/2017
 
 \lx yile
 \ph yilé(H)
