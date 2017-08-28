@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-28T01:26:01-06:00
+
+====== Sample Incorrect Entry ======
+Created Monday 28 August 2017
+
+olinkantɩ (partial
+\lx olinkantɩ
+\ps n
+\vad elinkantɩ
+\pl nlinkantɩ
+\sn 1
+\ge bile
+
+olnkantɩ LexEntry:bc71f063-
+<rt class="LexEntry" guid="bc71f063-59ca-4d35-9b62-a26d752c844a">
+...
+<Senses>
+<objsur guid="bfd9b383-89b3-4567-af4d-f343b4183e88" t="o"/>
+<objsur guid="fde9bc38-b593-4377-b58c-9b4e2b265b3b" t="o"/>
+</Senses>
+</rt>
+
+olinkantɩ sense 1 (bile) bfd9b383
+<rt class="LexSense" guid="bfd9b383-89b3-4567-af4d-f343b4183e88" ownerguid="bc71f063-59ca-4d35-9b62-a26d752c844a">
+...
+<Gloss><AUni ws="en">bile</AUni></Gloss>
+
+elinkantɩ LexEntry 6d15b380 has an EntryRef 85991127-
+<rt class="LexEntry" guid="6d15b380-aabb-42bb-9160-761e596f8f00">
+...
+<EntryRefs><objsur guid="85991127-edec-4129-b709-8544b38920c8" t="o"/></EntryRefs>
+...
+
+== Problem: ==
+Reference to olinkantɩ
+It's ownerguid is elinkantɩ But it points to bile sense of olinkantɩ bfd9b383 instead of olinkantɩ entry bc71f063
+<rt class="LexEntryRef" guid="85991127-edec-4129-b709-8544b38920c8" ownerguid="6d15b380-aabb-42bb-9160-761e596f8f00">
+<ComponentLexemes>
+<objsur guid="bfd9b383-89b3-4567-af4d-f343b4183e88" t="r"/>
+</ComponentLexemes>
+...

@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-08-27T23:51:04-06:00
+
+====== Variant Under Entry ======
+Created Sunday 27 August 2017
+
+===== Pseudocode for setting Variants to be under Entries in a FW project =====
+
+=== Why? ===
+When the FLEx SFM import process imports a variant (dialect/plural/spelliing) it creates a new entry with a reference link back to the first sense of the main entry. That link should point to the main entry.
+
+=== Preprocess ===
+The INI file contains a list of guids of the reference types. These should match the desired references.
+
+=== The script: ===
+Read the InputProject name(input/output) & variant guids from the INI file.
+If InputProject + ".lock" exists:
+	exit with a error "Don't run this script while FW is running"
+Read & Parse InputProject into an XML structure
+for each entry in a list of all the RefEntry's with Variant Entries (XPath  "//VariantEntryTypes/..")
+	The guid of the target ($targetguid) is the first  XPath './ComponentLexemes/objsur/@guid'
+	Skip this entry if it doesn't have a target
+	The guid of the reference type is the first './VariantEntryTypes/objsur/@guid'
+	  Skip this entry if its guid isn't in the list of valid reference types
+	look up the target, the first XPath (//rt[@guid='$targetguid'])
+	Skip this entry if the target has no owner. (already fixed or something's wrong)
+	 — LexSense's have owners LexEntry's don't 
+Set the value of the targetguid to the ownerguid of the targetguid
+
+Write the XML structure
+
+
+[[+Sample INI file]]
+
+[[+Sample Incorrect Entry]]
