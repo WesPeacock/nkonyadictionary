@@ -233,9 +233,9 @@
 
 \lx abawa
 \ph abawá
-\ps n
 \pl abawafɔ
 \plph abawáfɔ
+\ps n
 \sn
 \ge maid
 \is 2.6.5.2
@@ -483,9 +483,9 @@
 
 \lx abrɩwa
 \ph abrɪwa(H)
-\ps n
 \pl mbrɩwa
 \plph mbrɪwa(H)
+\ps n
 \sn
 \ge old woman
 \is 2.6.4.5
@@ -895,9 +895,9 @@
 
 \lx afrimu
 \ph afrímú
-\ps n
 \pl mfrimu
 \plph ɱfrímú
+\ps n
 \sn
 \ge donkey
 \is 6.3.1.7
@@ -1097,9 +1097,9 @@
 
 \lx agbodi
 \ph ag͡bodiʔ
-\ps n
 \vad agbedi
 \vadph ag͡bediʔ
+\ps n
 \sn
 \ge cassava
 \is 5.2.3.1.5
@@ -1245,9 +1245,9 @@
 
 \lx agyawunu
 \ph aʤawunu(H)
-\ps n
 \sg gyawunu
 \sgph ʤawunu
+\ps n
 \sn
 \ge charcoal
 \is 5.5.6
@@ -1337,9 +1337,9 @@
 
 \lx Agyoa
 \ph aʤóá
-\ps PropN
 \vas Agyua
 \vas Adwoa
+\ps PropN
 \sn
 \ge Adjua
 \is 8.4.1.3.1
@@ -1698,9 +1698,9 @@
 
 \lx aklambi
 \ph aklambi
-\ps n
 \sg klambi
 \sgph klambiʔ
+\ps n
 \sn
 \ge marbles
 \is 4.2.6.1
@@ -1980,9 +1980,9 @@
 
 \lx akuda
 \ph akuda(H)
-\ps n
 \pl nkuda
 \plph ŋkuda
+\ps n
 \sn
 \ge village
 \is 6.5.1.2
@@ -2044,9 +2044,9 @@
 
 \lx akʋkrʋwa
 \ph akʊkrʊwa(H)
-\ps n
 \pl nkʋkrʋwa
 \plph ŋkʊkrʊwa
+\ps n
 \sn
 \ge old man
 \is 2.6.4.5
@@ -2233,9 +2233,9 @@
 
 \lx aloo
 \ph alóː
-\ps ADV
 \vas loo
 \vasph lóː
+\ps ADV
 \sn
 \ge or
 \is 9.6.1.2
@@ -2329,8 +2329,8 @@
 
 \lx Amma
 \ph ámːa
-\ps PropN
 \vas Amba
+\ps PropN
 \sn
 \ge Amma
 \is 8.4.1.3.1
@@ -2400,9 +2400,9 @@
 
 \lx ana
 \ph ana(H)
-\ps NUM
 \va nna
 \vaph nːa
+\ps NUM
 \sn
 \vas na
 \vasph na
@@ -2462,9 +2462,9 @@
 
 \lx anantʋprɛdɛ
 \ph anantʊprɛdɛ
-\ps n
 \va anansɩatɛ
 \vaph anansɪatɛ
+\ps n
 \sn
 \ge termite queen
 \is 1.6.1.7
@@ -2538,9 +2538,9 @@
 
 \lx ánɩ́
 \ph ánɪ́
-\ps CNJ
 \va -á
 \vaph -á
+\ps CNJ
 \sn
 \ge that
 \is 9.2.5.2
@@ -2731,9 +2731,9 @@
 
 \lx anu
 \ph anu(H)
-\ps NUM
 \va nnu
 \vaph nːu
+\ps NUM
 \sn
 \ge five
 \is 8.1.1.1
@@ -2770,9 +2770,9 @@
 
 \lx anyɩnapɛpɛ
 \ph aɲɪnapɛpɛʔ(L)
-\ps n
 \sg nyɩnapɛpɛ
 \sgph ɲɪnapɛpɛ
+\ps n
 \sn
 \ge very tiny red ant
 \is 1.6.1.7
@@ -2970,10 +2970,10 @@
 \lx asa
 \hm 1
 \ph asa(H)
-\ps ADV
 \vad asan
 \vadph asã(H)
 \ve Southern
+\ps ADV
 \sn
 \ge before
 \is 8.4.5.2
@@ -2986,11 +2986,11 @@
 \lx asa
 \hm 2
 \ph asa(H)
-\ps NUM
 \vas sa
 \vasph sa
 \vas nsa
 \vasph nsa
+\ps NUM
 \sn
 \ge three
 \is 8.1.1.1
@@ -3125,9 +3125,9 @@
 
 \lx asie
 \ph asie (H)
-\ps NUM
 \vas nsie
 \vasph nsie (H)
+\ps NUM
 \sn
 \ge six
 \is 8.1.1.1
@@ -3509,9 +3509,9 @@
 
 \lx atadɩɛ
 \ph atadɪɛ (H)
-\ps n
 \pl ntadɩɛ
 \plph ntadɪɛ
+\ps n
 \sn
 \ge dress
 \is 5.3
@@ -3634,13 +3634,13 @@
 
 \lx atɔ
 \ph atɔ́ʔ(H)
-\ps n
 \sg ɩtɔ
 \sgph ɪtɔ́ʔ(H)
 \vas atɔ-
 \vasph atɔ-
 \vaa ato-
 \vaaph ato-
+\ps n
 \sn
 \ge things
 \is 9.1.3
@@ -3900,10 +3900,10 @@
 
 \lx atukeke
 \ph atukéke
-\ps n
 \vad atuhehe
 \vadph atuhéhe
 \ve Southern
+\ps n
 \sn
 \ge jubilation
 \is 3.4.1.2
@@ -4282,9 +4282,9 @@
 
 \lx baba
 \ph babaʔ
-\ps n
 \pl ababa
 \plph abábaʔ
+\ps n
 \sn
 \ge termite
 \is 1.6.1.7
@@ -4303,9 +4303,9 @@
 
 \lx baflɛ
 \ph baflɛ́ʔ
-\ps n
 \pl abaflɛ
 \plph abaflɛ́
+\ps n
 \sn
 \ge pawpaw
 \is 6.2.1.4
@@ -4391,9 +4391,9 @@
 \lx bamba
 \hm 2
 \ph bámbaʔ (L)
-\ps n
 \pl abamba
 \plph abámbaʔ (L)
+\ps n
 \sn
 \ge wing
 \is 1.6.2.1
@@ -4408,9 +4408,9 @@
 
 \lx bambi
 \ph bámbiʔ
-\ps n
 \pl abambi
 \plph abámbiʔ
+\ps n
 \sn
 \ge branch
 \is 1.5.5
@@ -4450,9 +4450,9 @@
 
 \lx batafɔ
 \ph batafɔʔ(H)
-\ps n
 \pl abatafɔ
 \plph abatafɔ(H)
+\ps n
 \sn
 \ge bush pig
 \is 1.6.1.1.3
@@ -4465,9 +4465,9 @@
 
 \lx batɛ
 \ph batɛ(H)
-\ps n
 \pl abatɛ
 \plph abatɛ(H)
+\ps n
 \sn
 \ge fowl
 \is 1.6.1.2
@@ -4520,9 +4520,9 @@
 
 \lx bɛ-
 \ph bɛ-
-\ps AUX
 \vaa be-
 \vaaph be-
+\ps AUX
 \sn
 \ge come to
 \is 3.3.1.1
@@ -4537,13 +4537,13 @@
 
 \lx bɛ́-
 \ph bɛ́-
-\ps TAM
 \vaa bé-
 \vaaph bé-
 \vaa bɔ́-
 \vaaph bɔ́-
 \vaa bó-
 \vaaph bó-
+\ps TAM
 \sn
 \ge FUT
 \is 8.4.6.4
@@ -4626,9 +4626,9 @@
 
 \lx bɛlɛtɩ
 \ph bɛ́lɛtɪʔ
-\ps n
 \pl abɛlɛtɩ
 \plph abɛ́lɛtɪ
+\ps n
 \sn
 \ge belt
 \is 5.3.1
@@ -4655,9 +4655,9 @@
 
 \lx bɛnsɩ
 \ph bɛ́nsɪʔ
-\ps n
 \pl abɛnsɩ
 \plph abɛ́nsɪ
+\ps n
 \sn
 \ge basin
 \is 6.7.3
@@ -4860,9 +4860,9 @@
 
 \lx bibi
 \ph bíbiʔ
-\ps ADJ
 \pl abibi
 \plph abíbi
+\ps ADJ
 \sn
 \ge black
 \is 8.3.3.3.2
@@ -5037,9 +5037,9 @@
 \lx bɩ
 \hm 3
 \ph bɪ
-\ps NOMR
 \vas -bɩ
 \vasph -bɪ
+\ps NOMR
 \sn
 \ge time
 \is 8.4.1
@@ -5118,9 +5118,9 @@
 
 \lx bɩsɩ
 \ph bɪsɪ(H)
-\ps n
 \pl abɩsɩ
 \plph abɪsɪ(H)
+\ps n
 \sn
 \ge cola nut
 \is 2.6.6.4
@@ -5223,9 +5223,9 @@
 
 \lx blanwɛ
 \ph blanwɛ́
-\ps n
 \pl ablanwɛ
 \plph ablanwɛ́
+\ps n
 \sn
 \ge pan
 \is 6.7.7
@@ -5238,9 +5238,9 @@
 
 \lx blanwɛbi
 \ph blanwébi
-\ps n
 \pl ablanwébi
 \plph ablanwɛbi
+\ps n
 \sn
 \ge small pan
 \is 6.7.7
@@ -5250,9 +5250,9 @@
 
 \lx blawunu
 \ph blawunuʔ
-\ps n
 \pl ablawunu
 \plph ablawunu
+\ps n
 \sn
 \ge basket
 \is 6.7.3
@@ -5348,9 +5348,9 @@
 \lx blɩba
 \hm 1
 \ph blɪba(H)
-\ps n
 \pl ablɩba
 \plph ablɪba(H)
+\ps n
 \sn
 \ge million
 \is 8.1.1.1
@@ -5362,9 +5362,9 @@
 \lx blɩba
 \hm 2
 \ph blɪba
-\ps n
 \pl ablɩba
 \plph ablɪba
+\ps n
 \sn
 \ge pincer
 \is 1.6.2.5
@@ -5375,9 +5375,9 @@
 
 \lx blɩbɛ
 \ph blɪbɛ(H)
-\ps n
 \pl ablɩbɛ
 \plph ablɪbɛ(H)
+\ps n
 \sn
 \is 6.2.1.4
 \ge pineapple
@@ -5395,9 +5395,9 @@
 
 \lx blɔdɩ
 \ph blɔdɪ(H)
-\ps n
 \va brɔdɩ
 \vaph brɔdɪ(H)
+\ps n
 \sn
 \ge plantain
 \is 6.2.1.4.2
@@ -5488,9 +5488,9 @@
 
 \lx bokiti
 \ph bókitiʔ
-\ps n
 \pl abokiti
 \plph abókitiʔ (L)
+\ps n
 \sn
 \ge bucket
 \is 1.5.3
@@ -5505,9 +5505,9 @@
 
 \lx bombolintsu
 \ph bómbólint͡sú (H)
-\ps n
 \pl bombolintsu nyi
 \plph bómbólint͡sú nyí
+\ps n
 \sn
 \ge Tulip tree
 \is 1.5.1
@@ -5555,9 +5555,9 @@
 
 \lx botodua
 \ph botodua (H)
-\ps n
 \pl abotodua
 \plph abotodua (H)
+\ps n
 \sn
 \ge bamboo
 \is 6.2.5.4
@@ -5668,9 +5668,9 @@
 
 \lx bɔnbɔntɩ
 \ph bɔnbɔntɪ́
-\ps n
 \pl abɔnbɔntɩ
 \plph abɔnbɔntɪ́
+\ps n
 \sn
 \ge daubing wasp
 \is 1.6.1.7
@@ -5680,9 +5680,9 @@
 
 \lx bɔnɔ
 \ph bɔnɔʔ (L)
-\ps n
 \pl abɔnɔ
 \plph abɔ́nɔʔ (L)
+\ps n
 \sn
 \ge egg
 \is 1.6.2.1
@@ -5814,9 +5814,9 @@
 
 \lx brigyi
 \ph briʤi
-\ps n
 \pl abrigyi
 \plph abríʤi
+\ps n
 \sn
 \ge bridge
 \is 6.5.4.1
@@ -5841,9 +5841,9 @@
 
 \lx brɔdʋma
 \ph brɔ́dʊma(H)
-\ps n
 \pl abrɔdʋma
 \plph abrɔ́dʊma
+\ps n
 \sn
 \ge dove
 \is 1.6.1.2
@@ -5861,9 +5861,9 @@
 
 \lx brɔnʋ
 \ph brɔnʊ(H)
-\ps n
 \pl abrɔnʋ
 \plph abrɔnʊ
+\ps n
 \sn
 \ge street
 \is 4.6.7.2
@@ -6059,9 +6059,9 @@
 
 \lx bunti
 \ph buntîʔ
-\ps n
 \pl abunti
 \plph abuntíʔ
+\ps n
 \sn
 \ge wall
 \is 6.5.2.1
@@ -6104,9 +6104,9 @@
 
 \lx buto
 \ph butó
-\ps n
 \pl abuto
 \plph abutó
+\ps n
 \sn
 \ge bead
 \is 5.4.1
@@ -6121,9 +6121,9 @@
 
 \lx butobi
 \ph butóbí
-\ps n
 \pl abutobi
 \plph abutóbí
+\ps n
 \sn
 \ge small bead
 \is 5.4.1
@@ -6377,9 +6377,9 @@
 
 \lx bʋnkpa
 \ph bʊŋ͡mk͡pa(H)
-\ps n
 \pl abʋnkpa
 \plph abʊŋ͡mk͡pa(H)
+\ps n
 \sn
 \ge riverbed
 \is 1.3.1.3
@@ -6391,9 +6391,9 @@
 
 \lx bʋtɩ
 \ph bʊ́tɪ́
-\ps n
 \pl abʋtɩ
 \plph abʊ́tɪ́
+\ps n
 \sn
 \ge python
 \is 1.6.1.3.1
@@ -6761,9 +6761,9 @@
 
 \lx dada
 \ph dáda
-\ps n
 \pl adada
 \plph adáda
+\ps n
 \sn
 \ge old
 \is 8.4.6.5.2
@@ -6781,9 +6781,9 @@
 
 \lx dadɩsɛɩn
 \ph dadɪsɛ́ɪ̃́
-\ps n
 \pl adadɩsɛɩn
 \plph adadɪsɛ́ɪ̃́
+\ps n
 \sn
 \ge cooking pot
 \is 5.2.1.3
@@ -6889,9 +6889,9 @@
 
 \lx dakpikpi
 \ph dak͡pík͡pí
-\ps n
 \pl adakpikpi
 \plph adak͡pík͡pí
+\ps n
 \sn
 \ge wild cat
 \is 1.6.1.1.2
@@ -6941,11 +6941,11 @@
 
 \lx damantsu
 \ph damant͡sú
-\ps n
 \va damantu
 \vaph damantú
 \pl adamantsu
 \plph adamant͡sú
+\ps n
 \sn
 \ge red ant
 \is 1.6.1.7
@@ -7015,9 +7015,9 @@
 
 \lx dango
 \ph daŋgó
-\ps n
 \pl adango
 \plph adaŋgó
+\ps n
 \sn
 \ge rabbit
 \is 1.6.1.1.4
@@ -7086,9 +7086,9 @@
 
 \lx datɔ
 \ph dátɔ (L)
-\ps n
 \pl adatɔ
 \plph adátɔ (L)
+\ps n
 \sn
 \ge metal
 \is 1.2.2.3
@@ -7151,9 +7151,9 @@
 
 \lx deyi
 \ph déiʔ
-\ps n
 \pl adeyi
 \plph adéiʔ
+\ps n
 \sn
 \ge monkey
 \is 1.6.1.1.1
@@ -7212,9 +7212,9 @@
 \lx dɛ
 \hm 2
 \ph dɛ
-\ps TAM
 \vaa de-
 \vaaph de-
+\ps TAM
 \sn
 \ge CONT
 \is 9.4.1.2
@@ -7361,9 +7361,9 @@
 
 \lx dɩba
 \ph dɪbaʔ (L)
-\ps n
 \pl adɩba
 \plph adɪ́ba
+\ps n
 \sn
 \ge bedbug
 \is 1.6.1.7
@@ -7648,9 +7648,9 @@
 
 \lx dɔkɩta
 \ph dɔkɪ́ta
-\ps n
 \pl adɔkɩtafɔ
 \plph adɔkɪ́tafɔ
+\ps n
 \sn
 \ge doctor
 \is 2.5.7.1
@@ -7692,9 +7692,9 @@
 
 \lx dɔnkɔntɩ
 \ph dɔ̃ŋkɔtɪ
-\ps n
 \va dankɔntɩ
 \vaph dãŋkɔntɪ
+\ps n
 \sn
 \ge big wasp
 \is 1.6.1.7
@@ -7790,9 +7790,9 @@
 
 \lx duku
 \ph dúkuʔ
-\ps n
 \pl aduku
 \plph adúkuʔ
+\ps n
 \sn
 \ge scarf
 \is 5.3.2
@@ -7841,9 +7841,9 @@
 
 \lx dundu
 \ph dunduʔ
-\ps n
 \pl adundu
 \plph adúnduʔ
+\ps n
 \sn
 \ge leopard
 \is 1.6.1.1.2
@@ -8007,11 +8007,11 @@
 \lx ee
 \hm 1
 \ph eː (H)
-\ps INTJ
 \va iin
 \vaph ĩː(H)
 \va een
 \vaph ẽː(H)
+\ps INTJ
 \sn
 \ge yes
 \is 9.4.6
@@ -8031,10 +8031,10 @@
 
 \lx ekekegyiɛkɛ
 \ph ekekeʤíɛ́kɛ
-\ps ADV
 \vad okekegyiɔkɛ
 \vadph okekeʤíɔ́kɛ
 \ve Northern
+\ps ADV
 \sn
 \ge every day
 \is 8.1.5
@@ -8074,10 +8074,10 @@
 
 \lx ɛdɔɔ
 \ph ɛdɔː
-\ps INTJ
 \vad dɔɔ
 \vadph dɔː
 \ve Northern
+\ps INTJ
 \sn
 \ge morning response
 \is 3.5.1.4.3
@@ -8088,12 +8088,12 @@
 
 \lx ɛfɛ
 \ph ɛfɛ́(H)
-\ps n
 \vad ɔfɛ
 \vadph ɔfɛ́
 \ve Northern
 \pl nfɛ
 \plph ɱfɛ́
+\ps n
 \sn
 \ge axe
 \is 6.2.8
@@ -8108,12 +8108,12 @@
 
 \lx ɛkɛ
 \ph ɛkɛ
-\ps n
 \pl nkɛ
 \plph ŋkɛ
 \vad ɔkɛ
 \vadph ɔkɛ
 \ve Northern
+\ps n
 \sn
 \ge day
 \is 8.4.1.2
@@ -8154,12 +8154,12 @@
 
 \lx ɛwɛ
 \ph ɛwɛ (H)
-\ps n
 \vad ɔwɛ
 \vadph ɔwɛ (H)
 \ve Northern
 \pl nwɛ
 \plph nwɛ(H)
+\ps n
 \sn
 \ge calabash
 \is 1.5.3
@@ -8261,9 +8261,9 @@
 
 \lx faasɩ
 \ph faːsɪ (H)
-\ps n
 \pl afaasɩ
 \plph afaːsɪ (H)
+\ps n
 \sn
 \ge water yam
 \is 1.5.3
@@ -8309,9 +8309,9 @@
 
 \lx fantɩ
 \ph fãntɪʔ
-\ps n
 \pl afantɩ
 \plph afã́ntɪʔ
+\ps n
 \sn
 \ge cricket
 \is 1.6.1.7
@@ -8622,9 +8622,9 @@
 
 \lx finfi
 \ph fiɱfiʔ(L)
-\ps n
 \pl afinfi
 \plph afíɱfiʔ(L)
+\ps n
 \sn
 \ge ant
 \is 1.6.1.7
@@ -8808,9 +8808,9 @@
 
 \lx flawasɩ
 \ph fláwasɪʔ
-\ps n
 \pl aflawasɩ
 \plph afláwasɪʔ
+\ps n
 \sn
 \ge flower
 \is 1.5.5
@@ -8871,9 +8871,9 @@
 
 \lx fonflo
 \ph foɱfloʔ
-\ps n
 \pl afonflo
 \plph afoɱfloʔ
+\ps n
 \sn
 \ge caterpillar
 \is 1.6.1.7
@@ -9159,9 +9159,9 @@
 \lx fʋ
 \hm 1
 \ph fʊ
-\ps PRO
 \va fʋ-
 \vaph fʊ-
+\ps PRO
 \sn
 \ge 2S
 \is 9.2.3
@@ -9260,9 +9260,9 @@
 
 \lx fʋlɩtɩ
 \ph fʊlɪtɪ́
-\ps n
 \pl afʋlɩtɩ
 \plph afʊlɪtɪ́
+\ps n
 \sn
 \ge deer
 \is 1.6.1.1.3
@@ -9446,9 +9446,9 @@
 
 \lx gali
 \ph galí
-\ps n
 \va gari
 \vaph garí
+\ps n
 \sn
 \ge gari
 \is 5.2.1.2.2
@@ -9472,9 +9472,9 @@
 
 \lx galɔn
 \ph gálɔ̃ʔ
-\ps n
 \pl agalɔn
 \plph agálɔ̃ʔ
+\ps n
 \sn
 \ge gallon
 \is 6.7.7
@@ -9486,9 +9486,9 @@
 
 \lx ganu
 \ph ganú
-\ps n
 \pl aganu
 \plph aganú
+\ps n
 \sn
 \ge can
 \is 6.7.7
@@ -9507,9 +9507,9 @@
 
 \lx gate
 \ph gaté
-\ps n
 \pl agate
 \plph agaté
+\ps n
 \sn
 \ge grinding mill
 \is 5.2.1.2.3
@@ -9564,9 +9564,9 @@
 
 \lx gbengbe
 \ph g͡bẽŋ͡mg͡bé
-\ps n
 \pl agbengbe
 \plph ag͡bẽŋ͡mg͡bé
+\ps n
 \sn
 \ge shore
 \is 1.3.1.1
@@ -9609,9 +9609,9 @@
 
 \lx gbɔngblɛn
 \ph g͡bɔ́ŋ͡mg͡blɛ̃́
-\ps n
 \pl agbɔnblɛn
 \plph ag͡bɔ́ŋ͡mg͡blɛ̃́
+\ps n
 \sn
 \ge dustpan
 \is 5.1
@@ -9684,7 +9684,6 @@
 \lx gya
 \ph ʤaʔ (L)
 \sn 1
-\ps vt
 \ge chase
 \is 7.3.3.4
 \de to expel
@@ -9703,6 +9702,7 @@
 \rf Tape:2-2-151
 \xv srɩ gya mʋ
 \xe chase him
+\ps vt
 \sn 1
 \ps vt
 \ge follow closely
@@ -9739,9 +9739,9 @@
 
 \lx gyabɛ
 \ph ʤabɛʔ
-\ps n
 \pl agyabɛ
 \plph aʤábɛ̂ʔ
+\ps n
 \sn
 \ge squirrel
 \is 1.6.1.1.4
@@ -9779,9 +9779,9 @@
 
 \lx gyagya
 \ph ʤaʤaʔ
-\ps n
 \pl agyagya
 \plph aʤáʤaʔ
+\ps n
 \sn
 \ge bat
 \is 1.6.1.1.8
@@ -9877,9 +9877,9 @@
 
 \lx gyantra
 \ph ʤantra
-\ps n
 \pl agyantra
 \plph aʤantra
+\ps n
 \sn
 \ge prostitute
 \is 2.6.2.3
@@ -9892,9 +9892,9 @@
 
 \lx gyasɩɛpɛ
 \ph ʤasɪɛpɛʔ
-\ps n
 \pl agyasɩɛpɛ
 \plph aʤásɪ́ɛ́pɛʔ
+\ps n
 \sn
 \ge bush pig
 \is 1.6.1.1.3
@@ -9908,9 +9908,9 @@
 
 \lx gyata
 \ph ʤatá
-\ps n
 \pl agyata
 \plph aʤatá
+\ps n
 \sn
 \ge lion
 \is 1.6.1.1.2
@@ -9938,9 +9938,9 @@
 
 \lx gyawugya
 \ph ʤawuʤá
-\ps n
 \pl agyawugya
 \plph aʤawuʤá
+\ps n
 \sn
 \ge red ant
 \is 1.6.1.7
@@ -10279,9 +10279,9 @@
 
 \lx gyongyo
 \ph ʤonʤoʔ
-\ps n
 \pl agyongyo
 \plph aʤónʤóʔ
+\ps n
 \sn
 \ge toad
 \is 1.6.1.4
@@ -10735,9 +10735,9 @@
 
 \lx hontro
 \ph hontro(H)
-\ps n
 \pl ahontro
 \plph ahontro
+\ps n
 \sn
 \ge shell
 \is 1.6.2.5
@@ -10909,9 +10909,9 @@
 
 \lx ibebi
 \ph ibébiʔ
-\ps n
 \pl abebi
 \plph abébi
+\ps n
 \sn
 \ge palm kernel
 \is 1.5.1
@@ -10992,8 +10992,8 @@
 
 \lx ibu
 \ph ibúʔ
-\ps n
 \vas bu
+\ps n
 \sn
 \ge hut
 \is 1.5.3
@@ -11008,9 +11008,9 @@
 
 \lx ibun
 \ph ibṹʔ
-\ps n
 \pl abun
 \plph abṹ
+\ps n
 \sn
 \ge well
 \is 1.3.1.4
@@ -11047,9 +11047,9 @@
 
 \lx ibwi alatɔ
 \ph ibwi alatɔ(H)
-\ps n
 \pl abwi alatɔ
 \plph abwi alatɔ(H)
+\ps n
 \sn
 \ge cave
 \is 1.2.1.5
@@ -11071,11 +11071,11 @@
 
 \lx idu
 \ph idúʔ
-\ps NUM
 \va du
 \vaph dú
 \pl adu
 \plph adu
+\ps NUM
 \sn
 \ge ten
 \is 8.1.1.1
@@ -11094,10 +11094,10 @@
 
 \lx idusɩ
 \ph idúsɪ́
-\ps NUM
 \va dusɩ
 \vaph dusɪ́
 \ge tenth
+\ps NUM
 \sn
 \is 8.1.1.2
 \de tenth
@@ -11154,11 +11154,11 @@
 
 \lx ifuli
 \ph ifúliʔ
-\ps n
 \vas fuli
 \vasph fúliʔ
 \pl afuli
 \plph afúliʔ
+\ps n
 \sn
 \ge corpse
 \is 1.4.1
@@ -11285,9 +11285,9 @@
 
 \lx ikpin
 \ph ik͡pĩʔ (L)
-\ps n
 \pl akpin
 \plph ak͡pĩʔ
+\ps n
 \sn
 \ge garden egg
 \is 5.2.3.1.3
@@ -11422,9 +11422,9 @@
 
 \lx imu
 \ph imuʔ (L)
-\ps n
 \pl amu
 \plph amuʔ (L)
+\ps n
 \sn
 \ge cluster
 \is 8.1.3.3
@@ -11520,9 +11520,9 @@
 
 \lx ipubi
 \ph ipubí
-\ps n
 \pl apubi
 \plph apubí
+\ps n
 \sn
 \ge small stomach
 \is 2.1.8
@@ -11534,9 +11534,9 @@
 
 \lx isia
 \ph isia
-\ps n
 \pl asia
 \plph asiaʔ
+\ps n
 \sn
 \ge nest
 \is 1.6.1.2
@@ -11550,9 +11550,9 @@
 
 \lx isiabi
 \ph isiabí (H)
-\ps n
 \pl asiabi
 \plph asiabí (H)
+\ps n
 \sn
 \ge insult
 \is 3.5.1.8.2
@@ -11637,9 +11637,9 @@
 
 \lx itin
 \ph itĩ(H)
-\ps ADJ
 \va tin
 \vaph tĩ(H)
+\ps ADJ
 \sn
 \ge short
 \is 8.2.2.1
@@ -11656,9 +11656,9 @@
 
 \lx itsia
 \ph it͡siáʔ
-\ps n
 \va tsia
 \vaph t͡siáʔ
+\ps n
 \sn
 \ge greetings
 \is 3.5.1.4.3
@@ -11681,9 +11681,9 @@
 
 \lx itsu
 \ph it͡sú
-\ps n
 \pl atsu
 \plph at͡sú
+\ps n
 \sn
 \ge pile
 \is 8.1.3.3
@@ -11757,9 +11757,9 @@
 
 \lx iwu
 \ph iwúʔ(H)
-\ps n
 \pl awu
 \plph awú
+\ps n
 \sn
 \ge bone
 \is 2.1.6
@@ -11805,9 +11805,9 @@
 
 \lx iyabwi
 \ph iyabwi (H)
-\ps n
 \pl ayabwi
 \plph ayabwi (H)
+\ps n
 \sn
 \ge grinding stone
 \is 5.2.1.2.2
@@ -11869,9 +11869,9 @@
 
 \lx iyin
 \ph iɲĩ́ʔ
-\ps n
 \pl anyin
 \plph aɲĩ́ʔ
+\ps n
 \sn
 \ge tooth
 \is 2.1.1.5
@@ -11887,9 +11887,9 @@
 \lx ɩ-
 \hm 1
 \ph ɪ-
-\ps PRO
 \va i-
 \vaph i-
+\ps PRO
 \sn
 \ge it
 \is 9.2.3
@@ -11899,9 +11899,9 @@
 \lx ɩ-
 \hm 2
 \ph ɪ-
-\ps NOMR
 \va i-
 \vaph i-
+\ps NOMR
 \sn
 \ge NOMR
 \is 9.2.9.2
@@ -11912,9 +11912,9 @@
 
 \lx ɩ- -la
 \ph ɪ- -la
-\ps NOMR
 \va -la
 \vaph -la
+\ps NOMR
 \sn
 \ge activity; things
 \is 9.4.2
@@ -11981,9 +11981,9 @@
 \lx ɩba
 \hm 1
 \ph ɪba(H)
-\ps n
 \pl aba
 \plph aba(H)
+\ps n
 \sn
 \ge shoulder
 \is 2.1.2
@@ -11998,9 +11998,9 @@
 \lx ɩba
 \hm 2
 \ph ɪba(H)
-\ps n
 \pl aba
 \plph aba(H)
+\ps n
 \sn
 \ge tick
 \is 1.6.1.7
@@ -12014,9 +12014,9 @@
 \lx ɩba
 \hm 3
 \ph ɪbá
-\ps n
 \pl aba
 \plph abá
+\ps n
 \sn
 \ge slap
 \is 2.5.3
@@ -12077,11 +12077,11 @@
 \lx ɩbɛ
 \hm 1
 \ph ɪbɛʔ(H)
-\ps n
 \pl abɛ
 \plph abɛʔ(H)
 \va bɛ
 \vaph bɛʔ(H)
+\ps n
 \sn
 \ge puff adder
 \is 1.6.1.3.1
@@ -12109,11 +12109,11 @@
 
 \lx ɩbɛtɛ
 \ph ɪbɛ́tɛʔ
-\ps n
 \vas bɛtɛ
 \vasph bɛ́tɛʔ
 \pl mbɛtɛ
 \plph mbɛ́tɛʔ
+\ps n
 \sn
 \ge palm thorn
 \is 1.5.1
@@ -12136,9 +12136,9 @@
 
 \lx ɩbɩ
 \ph ɪbɪʔ
-\ps n
 \vas bɩ
 \vasph bɪʔ
+\ps n
 \sn
 \ge hand; arm
 \is 2.1.3.1
@@ -12223,10 +12223,10 @@
 \lx ɩbɔ
 \hm 2
 \ph ɪbɔ́ʔ(H)
-\ps n
 \vas bɔ
 \pl abɔ
 \plph abɔ
+\ps n
 \sn
 \ge neck
 \is 2.1.1
@@ -12238,9 +12238,9 @@
 
 \lx ɩbʋ
 \ph ɪbʊʔ(H)
-\ps n
 \pl abʋ
 \plph abʊʔ(H)
+\ps n
 \sn
 \ge mountain
 \is 1.2.1.1
@@ -12266,11 +12266,11 @@
 
 \lx ɩbʋta
 \ph ɪbʊtá
-\ps n
 \vas bʋta
 \vasph bʊtá
 \pl abʋta
 \plph abʊtã́
+\ps n
 \sn
 \ge boulder
 \is 1.2.2.2
@@ -12294,10 +12294,10 @@
 
 \lx ɩda
 \ph ɪdáʔ (H)
-\ps n
 \vas da
 \pl ada
 \plph adá (H)
+\ps n
 \sn
 \ge name
 \is 9.7
@@ -12324,9 +12324,9 @@
 \lx ɩdan
 \hm 1
 \ph ɪdã̂(L)
-\ps n
 \pl ndan
 \plph ndã
+\ps n
 \sn
 \ge storage
 \is 6.2.6.4
@@ -12355,10 +12355,10 @@
 \dt 12/Jan/2017
 
 \lx ɩdɩ
-\ps n
 \ge sleep (n)
 \is 5.7
 \ph ɪdɪ
+\ps n
 \sn
 \ps n
 \ge sleep (n)
@@ -12368,9 +12368,9 @@
 
 \lx ɩdɩn
 \ph ɪdɪ̃ʔ
-\ps n
 \pl adɩn
 \plph adɪ̃ʔ
+\ps n
 \sn
 \ge mat
 \is 1.3.3.1
@@ -12414,10 +12414,10 @@
 
 \lx ɩfɛ
 \ph ɪfɛʔ
-\ps n
 \vas fɛ
 \pl afɛ
 \plph afɛʔ
+\ps n
 \sn
 \ge hip
 \is 2.1.3.2
@@ -12431,10 +12431,10 @@
 
 \lx ɩfla
 \ph ɪfla(H)
-\ps n
 \pl afla
 \plph afla(H)
 \vas fla
+\ps n
 \sn
 \ge vine
 \is 1.5.3
@@ -12534,9 +12534,9 @@
 
 \lx ɩfʋnka
 \ph ɪ
-\ps n
 \pl afʋnka
 \plph afʊ́ŋkâʔ
+\ps n
 \sn
 \ge side
 \is 8.1.1.6
@@ -12688,10 +12688,10 @@
 \lx ɩklʋn
 \hm 1
 \ph ɪklʊ̃ʔ(L)
-\ps n
 \vas klʋn
 \pl aklʋn
 \plph aklʊ̃ʔ
+\ps n
 \sn
 \ge door
 \is 6.5.2.4
@@ -12758,10 +12758,10 @@
 
 \lx ɩkɔ
 \ph ɪkɔ (H)
-\ps n
 \vas kɔ
 \pl akɔ
 \plph akɔ
+\ps n
 \sn
 \ge debt
 \is 6.8.5.3
@@ -12777,9 +12777,9 @@
 
 \lx ɩkpɩ
 \ph ɪk͡pɪ(H)
-\ps n
 \pl nkpɩ
 \plph ŋ͡mk͡pɪ(H)
+\ps n
 \sn
 \ge fetish
 \is 4.9.7.7
@@ -12824,10 +12824,10 @@
 
 \lx ɩkʋ
 \ph ɪkʊ
-\ps ART
 \vas kʋ
 \pl akʋ
 \plph akʊ
+\ps ART
 \sn
 \ge some; certain
 \is 8.1.5.1
@@ -12858,7 +12858,6 @@
 
 \lx ɩkʋlɛ
 \ph ɪkʊlɛʔ
-\ps ADJ
 \vas kʋlɛ
 \vasph kʊlɛʔ
 \va ɔkʋlɛ
@@ -12866,6 +12865,7 @@
 \vad ɛkʋlɛ
 \vadph ɛkʊlɛʔ
 \ve Southern
+\ps ADJ
 \sn
 \ge one
 \is 8.1.1.1.1
@@ -12892,9 +12892,9 @@
 
 \lx ɩkwɛ
 \ph ɪkwɛʔ(L)
-\ps n
 \pl akwɛ
 \plph akwɛʔ
+\ps n
 \sn
 \ge drum
 \is 4.2.3.5
@@ -12911,8 +12911,8 @@
 
 \lx ɩla
 \ph ɪlaʔ(H)
-\ps n
 \vas la
+\ps n
 \sn
 \ge behaviour
 \is 4.3
@@ -12940,8 +12940,8 @@
 \lx Ɩlɩn
 \hm 1
 \ph ɪlɪ̃ʔ
-\ps PropN
 \vas Lɩn
+\ps PropN
 \sn
 \ge Volta Lake
 \is 1.3.1.3
@@ -13052,9 +13052,9 @@
 
 \lx ɩmɛ
 \ph ɪmɛ
-\ps n
 \va mmɛ
 \vaph mːɛ(H)
+\ps n
 \sn
 \ge nasal mucous
 \is 2.2.4
@@ -13147,8 +13147,8 @@
 
 \lx ɩnʋ
 \ph ɪnʊ
-\ps DEIC
 \vas nʋ
+\ps DEIC
 \sn
 \ge there
 \is 9.2.3.5
@@ -13413,10 +13413,10 @@
 
 \lx Ɩpwɛ Ɔdɛkɛtrakɛ
 \ph ɪpʷɛ ɔdɛkɛtrákɛ
-\ps TIME
 \vad Yinke
 \vadph yiŋké
 \ve Northern
+\ps TIME
 \sn
 \ge Third day
 \is 4.9.7.7
@@ -13439,10 +13439,10 @@
 
 \lx ɩsɛ
 \ph ɪsɛ
-\ps n
 \vad ɩsɛn
 \vadph ɪsɛ̃ʔ
 \ve Southern
+\ps n
 \sn
 \ge tusk
 \is 1.6.1.1.3
@@ -13489,12 +13489,12 @@
 
 \lx ɩsʋ
 \ph ɪsʊʔ (H)
-\ps n
 \vad ɩsʋn
 \vadph ɪsʊ̃
 \ve Southern
 \pl asʋ
 \plph asʊ
+\ps n
 \sn
 \ge ear
 \is 2.1.1.2
@@ -13676,9 +13676,9 @@
 
 \lx ɩtokiehɛ
 \ph ɪtokiehɛ́ (H)
-\ps n
 \pl atokiehɛ
 \plph atokiehɛ́
+\ps n
 \sn
 \ge gift
 \is 6.8.3.1
@@ -13698,10 +13698,10 @@
 
 \lx ɩtɔ
 \ph ɪtɔ́ʔ(H)
-\ps n
 \vas tɔ
 \pl atɔ
 \plph atɔ́
+\ps n
 \sn
 \ge thing
 \is 9.1.3
@@ -13717,9 +13717,9 @@
 
 \lx ɩtɔsʋrahɛ
 \ph ɪtɔsʊráhɛ̂ʔ
-\ps n
 \pl atɔsʋrahɛ
 \plph atɔsʊráhɛ́
+\ps n
 \sn
 \ge load
 \is 7.3.1
@@ -13770,10 +13770,10 @@
 
 \lx ɩtswɛ
 \ph ɪt͡swɛʔ
-\ps n
 \vas tswɛ
 \pl atswɛ
 \plph at͡swɛ
+\ps n
 \sn
 \ge fist
 \is 2.1.3.1
@@ -13803,10 +13803,10 @@
 
 \lx ɩwankɩ
 \ph ɪwaŋkɪ́ʔ
-\ps n
 \vad ɛwankɩ
 \vadph ɛwaŋkɪ́ʔ
 \ve Southern
+\ps n
 \sn
 \ge light
 \is 8.3.3.1
@@ -13818,9 +13818,9 @@
 
 \lx ɩwatɛ
 \ph ɪwatɛʔ
-\ps n
 \pl awatɛ
 \plph awatɛʔ
+\ps n
 \sn
 \ge hoof
 \is 1.6.2
@@ -13936,9 +13936,9 @@
 
 \lx ɩwɔ
 \ph ɪwɔʔ(H)
-\ps n
 \pl awɔ
 \plph awɔʔ(H)
+\ps n
 \sn
 \ge snake
 \is 1.6.1.3.1
@@ -13952,11 +13952,11 @@
 
 \lx ɩwɔlʋ
 \ph ɪwɔlʊ
-\ps n
 \vas wɔlʋ
 \vasph wɔlʊ
 \pl awɔlʋ
 \plph awɔlʊ
+\ps n
 \sn
 \ge nail
 \is 2.1.3.3
@@ -14369,9 +14369,9 @@
 
 \lx kanahɛ
 \ph kanáhɛʔ
-\ps n
 \pl akanahɛ
 \plph akanáhɛʔ
+\ps n
 \sn
 \ge medium
 \is 8.2.7
@@ -14396,9 +14396,9 @@
 
 \lx kankaba
 \ph kaŋkaba
-\ps n
 \pl akankaba
 \plph akaŋkaba
+\ps n
 \sn
 \ge orange
 \is 1.5.1
@@ -14432,9 +14432,9 @@
 
 \lx kantankua
 \ph kantaŋkua
-\ps n
 \pl nkantankua
 \plph ŋkantaŋkua
+\ps n
 \sn
 \ge chair
 \is 5.1.1.2
@@ -14570,9 +14570,9 @@
 
 \lx kebi
 \ph kebi
-\ps n
 \pl nyebi
 \plph ɲebí
+\ps n
 \sn
 \ge child
 \is 2.6.4.2
@@ -14606,9 +14606,9 @@
 
 \lx keke
 \ph keké
-\ps n
 \pl akeke
 \plph akeké
+\ps n
 \sn
 \ge wagon; trailer
 \is 7.2.4.1.1
@@ -14729,9 +14729,9 @@
 \lx kɛklɛ
 \hm 2
 \ph kɛklɛ(H)
-\ps n
 \pl akɛklɛ
 \plph akɛklɛ (H)
+\ps n
 \sn
 \ge boil (n)
 \is 2.5.2.2
@@ -14743,9 +14743,9 @@
 
 \lx kɛlɩ
 \ph kɛlɪ (H)
-\ps n
 \pl akɛlɩ
 \plph akɛlɪ (H)
+\ps n
 \sn
 \ge kapok
 \is 1.5.1
@@ -14778,10 +14778,10 @@
 \lx kɛn
 \hm 1
 \ph kɛ̃́(H)
-\ps ADJ
 \vad gyein
 \vadph ʤẽ́ĩ́(H)
 \ve Southern
+\ps ADJ
 \sn
 \ge same
 \is 8.3.5.2.1
@@ -14846,9 +14846,9 @@
 \lx kɛnkɛ
 \hm 1
 \ph kɛŋkɛ(H)
-\ps n
 \pl akɛnkɛ
 \plph akɛŋkɛ(H)
+\ps n
 \sn
 \ge grass
 \is 1.5.3
@@ -14872,9 +14872,9 @@
 
 \lx kɛntɛ
 \ph kɛntɛʔ
-\ps n
 \pl akɛntɛ
 \plph akɛntɛ
+\ps n
 \sn
 \ge bag
 \is 6.7.7.1
@@ -14957,9 +14957,9 @@
 
 \lx kian
 \ph kiãʔ
-\ps n
 \pl akian
 \plph akíã
+\ps n
 \sn
 \ge larvae
 \is 1.6.1.7
@@ -15017,9 +15017,9 @@
 \lx kiki
 \hm 2
 \ph kîːki
-\ps n
 \pl akiiki
 \plph akîːki
+\ps n
 \sn
 \ge spectacles
 \is 2.3.1.9
@@ -15037,9 +15037,9 @@
 
 \lx kikidiki
 \ph kikidiki
-\ps n
 \va kikiriki
 \vaph kikiriki
+\ps n
 \sn
 \ge mushroom
 \is 1.5.4
@@ -15251,9 +15251,9 @@
 
 \lx kɩaɩ
 \ph kɪaɪʔ
-\ps n
 \pl akɩaɩ
 \plph akɪ́aɪʔ
+\ps n
 \sn
 \ge dog
 \is 1.6.1.1.2
@@ -15298,10 +15298,10 @@
 
 \lx kɩɛ
 \ph kɪ́ɛ́ʔ
-\ps v
 \vad yie
 \vadph yíéʔ
 \ve Northern
+\ps v
 \sn
 \ge divide
 \is 7.4.4
@@ -15390,9 +15390,9 @@
 
 \lx kɩtakɩta
 \ph kɪ́tákɪ́tá
-\ps ADJ
 \pl akɩtakɩta
 \plph akɪ́tákɪ́tá
+\ps ADJ
 \sn
 \ge bitter
 \is 2.3.3
@@ -15408,9 +15408,9 @@
 
 \lx kɩtɩ
 \ph kɪtɪʔ
-\ps n
 \pl akɩtɩ
 \plph akɪ́tɪʔ
+\ps n
 \sn
 \ge lizard
 \is 1.6.1.3.2
@@ -15442,9 +15442,9 @@
 
 \lx kɩtɩblʋn
 \ph kɪtɪblʊ̃
-\ps n
 \pl akɩtɩblʋn
 \plph akɪ́tɪblʊ̃
+\ps n
 \sn
 \ge gecko
 \is 1.6.1.3.2
@@ -15597,9 +15597,9 @@
 
 \lx klankpa
 \ph klaŋ͡mk͡pa(H)
-\ps n
 \pl aklankpa
 \plph aklaŋ͡mk͡pa(H)
+\ps n
 \sn
 \ge raven
 \is 1.6.1.2
@@ -15615,9 +15615,9 @@
 
 \lx klantida
 \ph klantidaʔ
-\ps n
 \pl aklantida
 \plph aklantidaʔ
+\ps n
 \sn
 \ge rag
 \is 6.6.1.1
@@ -15632,9 +15632,9 @@
 
 \lx klatɩ
 \ph klatɪ (H)
-\ps n
 \pl aklatɩ
 \plph aklatɪ (H)
+\ps n
 \sn
 \ge grass-cutter
 \is 1.6.1.1.4
@@ -15768,12 +15768,12 @@
 
 \lx klɛkpakpa
 \ph klɛ́k͡pak͡paʔ (L)
-\ps n
 \pl aklɛkpakpa
 \plph aklɛ́k͡pak͡pa
 \vad ɔdakpokpo
 \vadph ɔdak͡pok͡po
 \ve Southern
+\ps n
 \sn
 \ge woodpecker
 \is 1.6.1.2
@@ -15787,9 +15787,9 @@
 
 \lx klɛmɛtɩ
 \ph klɛmɛtɪ́
-\ps n
 \pl aklɛmɛtɩ
 \plph aklɛmɛtɪ́ (H)
+\ps n
 \sn
 \ge fish
 \is 1.6.1.5
@@ -15902,9 +15902,9 @@
 
 \lx klɔtɩ
 \ph klɔtɪ́
-\ps n
 \pl aklɔtɩ
 \plph aklɔtɪ́
+\ps n
 \sn
 \ge rat
 \is 1.6.1.1.4
@@ -15918,9 +15918,9 @@
 
 \lx klɔtɩbʋodu
 \ph klɔtɪ́bʊódu(H)
-\ps n
 \pl aklɔtɩbʋodu
 \plph aklɔtɪ́bʊódu(H)
+\ps n
 \sn
 \ge type of mouse
 \is 1.6.1.1.4
@@ -16067,9 +16067,9 @@
 
 \lx konkolibatɛ
 \ph kõkolibatɛ
-\ps n
 \pl akonkolɩbatɛ
 \plph akoŋkolɪbatɛ
+\ps n
 \sn
 \ge butterfly; moth
 \is 1.6.1.7
@@ -16081,12 +16081,12 @@
 
 \lx konkolifi
 \ph kóŋkólifí
-\ps n
 \pl akonkolifi
 \plph akóŋkólifí
 \vad konklofi
 \vadph kóŋklófí
 \ve Southern
+\ps n
 \sn
 \ge praying mantis
 \is 1.6.1.7
@@ -16165,9 +16165,9 @@
 
 \lx konya
 \ph koɲaʔ
-\ps n
 \pl akonya
 \plph akoɲaʔ
+\ps n
 \sn
 \ge ant
 \is 1.6.1.7
@@ -16201,9 +16201,9 @@
 
 \lx kosi
 \ph kósíʔ
-\ps n
 \pl akosi
 \plph akósíʔ
+\ps n
 \sn
 \ge yam mound
 \is 6.2.1.2
@@ -16230,9 +16230,9 @@
 
 \lx kotokuo
 \ph kotokuo
-\ps n
 \pl akotokuo
 \plph akotokuo
+\ps n
 \sn
 \ge bag
 \is 6.7.7.1
@@ -16335,9 +16335,9 @@
 
 \lx kɔklɔ
 \ph kɔklɔ
-\ps n
 \pl akɔklɔ
 \plph akɔklɔ
+\ps n
 \sn
 \ge ant
 \is 1.6.1.7
@@ -16626,9 +16626,9 @@
 
 \lx kpabi
 \ph k͡pabiʔ
-\ps n
 \pl akpabi
 \plph ak͡pabi
+\ps n
 \sn
 \ge testicle
 \is 2.1.8.3
@@ -16705,9 +16705,9 @@
 
 \lx kpakokwe
 \ph k͡pakókwé
-\ps n
 \pl akpakokwe
 \plph ak͡pakókwé
+\ps n
 \sn
 \ge dried fish
 \is 1.6.1.5
@@ -16766,9 +16766,9 @@
 
 \lx kpakpahe
 \ph k͡pák͡pá!hé
-\ps n
 \pl akpakpahe
 \plph ak͡pak͡pahe
+\ps n
 \sn
 \ge duck
 \is 1.6.1.2
@@ -16842,9 +16842,9 @@
 
 \lx kpala
 \ph k͡pálâʔ
-\ps n
 \pl akpala
 \plph ak͡pálâʔ
+\ps n
 \sn
 \ge goat
 \is 1.6.1.1.3
@@ -16862,9 +16862,9 @@
 
 \lx kpalabi
 \ph k͡pálâbi
-\ps n
 \pl akpalabi
 \plph ak͡pálâbi
+\ps n
 \sn
 \ge kid
 \is 1.6.1.1.3
@@ -17008,9 +17008,9 @@
 
 \lx Kpankpanmafɔ
 \ph k͡pãk͡pãŋ͡mafɔ
-\ps PropN
 \sg Kpankpanmayin
 \sgph k͡pãk͡pãŋ͡mayîʔ
+\ps PropN
 \sn
 \ge Konkombas
 \is 9.7.1.4
@@ -17028,9 +17028,9 @@
 
 \lx kpankʋ
 \ph k͡pãŋkʊ(H)
-\ps n
 \pl akpankʋ
 \plph ak͡paŋkʊ(H)
+\ps n
 \sn
 \ge bachelor
 \is 2.6.1.3
@@ -17105,9 +17105,9 @@
 
 \lx kpasi
 \ph k͡pasiʔ(L)
-\ps n
 \pl akpasi
 \plph ak͡pasiʔ(L)
+\ps n
 \sn
 \ge rat
 \is 1.6.1.1.4
@@ -17168,9 +17168,9 @@
 
 \lx kpawu
 \ph k͡pawu (H)
-\ps n
 \pl akpawu
 \plph ak͡pawu (H)
+\ps n
 \sn
 \ge owl
 \is 1.6.1.2
@@ -17184,9 +17184,9 @@
 
 \lx kpawunu
 \ph k͡pawunuʔ
-\ps n
 \pl akpawunu
 \plph ak͡pawunuʔ
+\ps n
 \sn
 \ge knee
 \is 2.1.3.2
@@ -17441,9 +17441,9 @@
 
 \lx kpikplibi
 \ph k͡pik͡plibi(H)
-\ps n
 \pl nkpikplibi
 \plph ŋ͡mk͡pik͡plibi(H)
+\ps n
 \sn
 \ge black fly
 \is 1.6.1.7
@@ -17872,9 +17872,9 @@
 
 \lx kponkpoli
 \ph k͡pṍk͡póli(H)
-\ps n
 \pl akponkpoli
 \plph ak͡pṍk͡póli(H)
+\ps n
 \sn
 \ge beetle
 \is 1.6.1.7
@@ -17967,9 +17967,9 @@
 
 \lx kpɔnkpɔntɩ
 \ph k͡pɔŋ͡mk͡pɔntɪ (H)
-\ps ADJ
 \pl akpɔnkpɔntɩ
 \plph ak͡pɔŋ͡mk͡pɔntɪ (H)
+\ps ADJ
 \sn
 \ge big
 \is 8.2
@@ -17982,9 +17982,9 @@
 
 \lx kpɔsɔ
 \ph k͡pɔ́sɔ́
-\ps n
 \pl akpɔsɔ
 \plph ak͡pɔ́sɔ́
+\ps n
 \sn
 \ge camel
 \is 1.6.1.1.3
@@ -18113,9 +18113,9 @@
 \lx kpʋkpʋ
 \hm 2
 \ph k͡pʊk͡pʊ(L)
-\ps n
 \pl akpʋkpʋ
 \plph ak͡pʊ́k͡pʊ
+\ps n
 \sn
 \ge buffalo
 \is 1.6.1.1.3
@@ -18140,9 +18140,9 @@
 
 \lx krakun
 \ph krakũ̂ʔ (L)
-\ps n
 \pl akrakun
 \plph akrakũ̂ʔ(L)
+\ps n
 \sn
 \ge turkey
 \is 1.6.1.2
@@ -18160,9 +18160,9 @@
 
 \lx krantɩɛ
 \ph krantɪ́ɛ́ (H)
-\ps n
 \pl akrantɩɛ
 \plph akrantɪɛ
+\ps n
 \sn
 \ge cutlass
 \is 4.8.3.7
@@ -18189,13 +18189,13 @@
 
 \lx Kudjo
 \ph kuʤó
-\ps PropN
 \vas Kwadjo
 \vasph kʷaʤó
 \vas Kwadwo
 \vasph kʷaʤó
 \vas Kujo
 \vasph kuʤó
+\ps PropN
 \sn
 \ge Kudjo
 \is 8.4.1.3.1
@@ -18211,9 +18211,9 @@
 
 \lx kufa
 \ph kufa
-\ps n
 \pl akufa
 \plph akúfa
+\ps n
 \sn
 \ge sheep
 \is 1.6.1.1.3
@@ -18232,9 +18232,9 @@
 
 \lx kufabi
 \ph kufabi
-\ps n
 \pl akufabi
 \plph akúfabi
+\ps n
 \sn
 \ge lamb
 \is 1.6.1.1.3
@@ -18416,9 +18416,9 @@
 
 \lx kuntu
 \ph kuntú
-\ps n
 \pl akuntu
 \plph akuntú
+\ps n
 \sn
 \ge blanket
 \is 5.1.1.3
@@ -18455,9 +18455,9 @@
 
 \lx kusubi
 \ph kusubi
-\ps ADJ
 \pl nkusubi
 \plph ŋkusubi
+\ps ADJ
 \sn
 \ge small
 \is 8.2.1
@@ -18474,9 +18474,9 @@
 \lx kuti
 \hm 1
 \ph kuti(H)
-\ps n
 \pl akuti
 \plph akuti(H)
+\ps n
 \sn
 \ge claw
 \is 1.6.2.1
@@ -18775,9 +18775,9 @@
 
 \lx Kwabena
 \ph kʷabɪná
-\ps PropN
 \vas Kɔmla
 \vasph kɔmlá
+\ps PropN
 \sn
 \ge Kwabena
 \is 8.4.1.3.1
@@ -18796,9 +18796,9 @@
 
 \lx kwadu
 \ph kwadú
-\ps n
 \pl akwadu
 \plph akwadú
+\ps n
 \sn
 \ge banana
 \is 1.5.3
@@ -18826,9 +18826,9 @@
 
 \lx Kwaku
 \ph kʷaku
-\ps PropN
 \vas Kweku
 \vasph kʷeku
+\ps PropN
 \sn
 \ge Kwaku
 \is 8.4.1.3.1
@@ -18943,9 +18943,9 @@
 
 \lx kwata
 \ph kwataʔ(L)
-\ps n
 \pl akwatafɔ
 \plph akwatafɔ (H)
+\ps n
 \sn
 \ge leprosy
 \is 2.5.2.2
@@ -19198,10 +19198,10 @@
 \lx la-
 \hm 3
 \ph la-
-\ps TAM
 \vad ya-
 \vadph ya-
 \ve Northern
+\ps TAM
 \sn
 \ge PRF
 \is 9.4.1.2
@@ -19252,9 +19252,9 @@
 
 \lx lafa
 \ph lafa
-\ps NUM
 \pl alafa
 \plph alafa
+\ps NUM
 \sn
 \ge hundred
 \is 8.1.1.1
@@ -19285,9 +19285,9 @@
 
 \lx lakpa
 \ph lak͡pá
-\ps n
 \pl alakpa
 \plph alak͡pá
+\ps n
 \sn
 \ge basket
 \is 6.6.4.2
@@ -19357,9 +19357,9 @@
 
 \lx lalahɛ
 \ph lalahɛ
-\ps ADJ
 \pl alalahɛ
 \plph alalahɛ
+\ps ADJ
 \sn
 \ge evil
 \is 8.3.7.1
@@ -19458,9 +19458,9 @@
 
 \lx lasa
 \ph lasaʔ
-\ps n
 \pl alasa
 \plph alásâʔ
+\ps n
 \sn
 \ge vulture
 \is 1.6.1.2
@@ -19475,9 +19475,9 @@
 \lx lata
 \hm 1
 \ph lata(L)
-\ps n
 \pl alata
 \plph alátá(L)
+\ps n
 \sn
 \ge monitor lizard
 \is 1.6.1.3.2
@@ -19516,9 +19516,9 @@
 
 \lx lembu
 \ph lembuʔ
-\ps n
 \pl alembu
 \plph alémbuʔ
+\ps n
 \sn
 \ge turtle
 \is 1.6.1.3.3
@@ -19614,7 +19614,6 @@
 
 \lx lɛ-
 \ph lɛ-/lɛ́-
-\ps TAM
 \vaa le-
 \vaaph le-/lé-
 \vaa lɔ-
@@ -19636,6 +19635,7 @@
 \vad yɛ-
 \vadph yɛ-/yɛ́-
 \ve Northern
+\ps TAM
 \sn
 \ge PAST
 \is 9.4.1.1
@@ -19646,13 +19646,13 @@
 \lx -lɛ-
 \hm 3
 \ph -lɛ-
-\ps TAM
 \vaa -le-
 \vaaph -le-
 \vaa -lɔ-
 \vaaph -lɔ-
 \vaa -lo-
 \vaaph -lo-
+\ps TAM
 \sn
 \ge COND
 \is 9.4.1
@@ -19731,10 +19731,10 @@
 
 \lx lɛnkɛ
 \ph lɛŋkɛ
-\ps n
 \vad oloo
 \vadph oloː
 \ve Southern
+\ps n
 \sn
 \ge crocodile
 \is 1.6.1.3.4
@@ -19750,9 +19750,9 @@
 
 \lx lɛnkɛkpan
 \ph lɛŋkɛk͡pã́
-\ps n
 \pl alɛnkɛkpan
 \plph alɛŋkɛk͡pã́
+\ps n
 \sn
 \ge crocodile
 \is 1.6.1.3.4
@@ -19775,9 +19775,9 @@
 
 \lx limba
 \ph limbá
-\ps n
 \pl none
 \plph none
+\ps n
 \sn
 \ge axe
 \is 6.2.8
@@ -19902,9 +19902,9 @@
 
 \lx lɩnlɩnlɩn
 \ph lɪ̃lɪ̃lɪ̃ʔ
-\ps ADJ
 \pl alɩnlɩnlɩn
 \plph alɪ̃nlɪ̃nlɪ̃
+\ps ADJ
 \sn
 \ge hard
 \is 8.3.6.2
@@ -20113,9 +20113,9 @@
 \lx ma
 \hm 2
 \ph ma
-\ps v
 \va má-
 \vaph má-
+\ps v
 \sn
 \ge not
 \is 9.4.6.1
@@ -20286,9 +20286,9 @@
 
 \lx mankani
 \ph maŋkaní
-\ps n
 \pl amankani
 \plph amaŋkani
+\ps n
 \sn
 \ge cocoyam
 \is 1.5.3
@@ -20554,9 +20554,9 @@
 
 \lx mbrɛtɩ
 \ph mbrɛtɪ(H)
-\ps n
 \pl mbrɛtɩ
 \plph mbrɛtɪ
+\ps n
 \sn
 \ge board
 \is 6.5.3
@@ -20698,13 +20698,13 @@
 
 \lx mɛ-
 \ph mɛ-
-\ps TAM
 \vaa me-
 \vaaph me-
 \vaa mɔ-
 \vaaph mɔ-
 \vaa mo-
 \vaaph mo-
+\ps TAM
 \sn
 \ge not
 \is 9.4.6.1
@@ -20728,13 +20728,13 @@
 
 \lx mɛ́ɛ-
 \ph mɛ̂ː-
-\ps TAM
 \vaa mée-
 \vaaph mêː-
 \vaa mɔ́ɔ-
 \vaaph mɔ̂ː-
 \vaa móo-
 \vaaph môː-
+\ps TAM
 \sn
 \ge will not
 \is 8.4.6.4
@@ -20828,9 +20828,9 @@
 
 \lx mɩ
 \ph mɪ́
-\ps PRO
 \va mɩ-
 \vaph mɪ́
+\ps PRO
 \sn
 \ge me
 \is 9.2.3
@@ -20866,9 +20866,9 @@
 
 \lx Mɩmɩnɩda
 \ph mɪmɪnɪda
-\ps TIME
 \va Mimlɩda
 \vaph mɪmlɪda
+\ps TIME
 \sn
 \ge Saturday
 \is 8.4.1.3.1
@@ -21046,10 +21046,10 @@
 
 \lx mmuatse
 \ph mːuát͡se
-\ps n
 \vad mmua
 \vadph mːua
 \ve Southern
+\ps n
 \sn
 \ge backyard
 \is 6.5.1.4
@@ -21149,9 +21149,9 @@
 
 \lx mɔkʋ
 \ph mɔkʊ́ʔ
-\ps TAM
 \va mɔkʋ-
 \vaph mɔkʊ́-
+\ps TAM
 \sn
 \ge not yet
 \is 9.4.1.2
@@ -21266,9 +21266,9 @@
 
 \lx mpesie
 \ph mpesie
-\ps n
 \pl ampesie
 \plph ampesie
+\ps n
 \sn
 \ge yam slice
 \is 5.2.3.1.5
@@ -21339,9 +21339,9 @@
 
 \lx mpɩna
 \ph mpɪna
-\ps n
 \pl mpɩnafɔ
 \plph mpɪnafɔ (H)
+\ps n
 \sn
 \ge love
 \is 4.3.3
@@ -21499,9 +21499,9 @@
 \lx mʋ
 \hm 1
 \ph mʊ (L)
-\ps PRO
 \va mʋ-
 \vaph mʊ-
+\ps PRO
 \sn
 \ge his/her; him/her; he/she
 \is 9.2.3
@@ -21657,9 +21657,9 @@
 \lx n-
 \hm 2
 \ph n-
-\ps PRO
 \vaa m-
 \vaaph m-
+\ps PRO
 \sn
 \ge I
 \is 9.2.3
@@ -21709,9 +21709,9 @@
 
 \lx nakuma
 \ph nakuma
-\ps n
 \pl anakuma
 \plph anakuma
+\ps n
 \sn
 \ge aunt
 \is 4.1.9.1.6
@@ -21723,9 +21723,9 @@
 
 \lx nambi
 \ph nambí
-\ps n
 \pl anambi
 \plph anambí
+\ps n
 \sn
 \ge toe
 \is 2.1.3.3
@@ -21799,9 +21799,9 @@
 
 \lx nani
 \ph naniʔ
-\ps n
 \pl anani
 \plph anáníʔ
+\ps n
 \sn
 \ge duiker
 \de duiker
@@ -21859,9 +21859,9 @@
 
 \lx napani
 \ph napani
-\ps n
 \pl anapani
 \plph anapani
+\ps n
 \sn
 \ge aunt
 \is 4.1.9.1.6
@@ -21972,9 +21972,9 @@
 
 \lx natɩna
 \ph natɪna
-\ps n
 \pl anatɩna
 \plph anatɪna
+\ps n
 \sn
 \ge great-great-grandparent
 \is 4.1.9.1.1
@@ -22084,9 +22084,9 @@
 
 \lx ndɔ
 \ph ndɔ
-\ps n
 \va ndɔtɔ
 \vaph ndɔtɔʔ (H)
+\ps n
 \sn
 \ge farm
 \is 6.2.9
@@ -22126,9 +22126,9 @@
 
 \lx nfansrɩ
 \ph ɱfánsrɪ́
-\ps n
 \pl afansrɩ
 \plph afánsrɪ́
+\ps n
 \sn
 \ge window
 \is 6.5.2.5
@@ -22513,10 +22513,10 @@
 
 \lx nkanʋ
 \ph ŋkanʊ
-\ps n
 \vad nkandʋ
 \vadph ŋkandʊ
 \ve Northern
+\ps n
 \sn
 \ge rust
 \is 8.3.7.8.1
@@ -22805,9 +22805,9 @@
 
 \lx nkramboyin
 \ph ŋkramboyĩʔ
-\ps n
 \pl nkrambofɔ
 \plph ŋkrambofɔ
+\ps n
 \sn
 \ge Muslim
 \is 4.9.7.3
@@ -23079,9 +23079,9 @@
 
 \lx -nsie
 \ph nsie (H)
-\ps NUM
 \va asie
 \vaph asie (H)
+\ps NUM
 \sn
 \ge six
 \is 8.1.1.1
@@ -23118,9 +23118,9 @@
 
 \lx nsɩnɛ
 \ph nsɪnɛ́
-\ps ADJ
 \pl ansɩnɛpʋ
 \plph ansɪnɛ́pʊ́
+\ps ADJ
 \sn
 \ge middle
 \is 8.6.5
@@ -23234,9 +23234,9 @@
 
 \lx nta ɔbʋpʋ
 \ph ntá ɔbʊpʊ́
-\ps n
 \pl nta abʋpʋ
 \plph ntá abʊpʊ́
+\ps n
 \sn
 \ge drunkard
 \is 5.2.3.7.2
@@ -23505,9 +23505,9 @@
 
 \lx Ntsumuru
 \ph ntsumúru
-\ps PropN
 \va Ntsumulu
 \vaph ntsumúlu
+\ps PropN
 \sn
 \ge Ntsumuru
 \is 9.7.2.3
@@ -23804,10 +23804,10 @@
 
 \lx nwɛ
 \ph ŋwɛ̃(H)
-\ps n
 \vad ɩwɛ
 \vadph ɪ̃wɛ̃(H)
 \ve Southern
+\ps n
 \sn
 \ge mercy
 \is 4.4.4.1
@@ -23912,9 +23912,9 @@
 
 \lx nwun
 \ph ŋʷũ (H)
-\ps n
 \pl anwun
 \plph ãwũ
+\ps n
 \sn
 \ge head
 \is 2.1.1
@@ -24138,9 +24138,9 @@
 \lx nyambi
 \hm 1
 \ph ɲambi(H)
-\ps n
 \pl anyambi
 \plph aɲambi
+\ps n
 \sn
 \ge maggot
 \is 1.6.1.7
@@ -24316,9 +24316,9 @@
 
 \lx nyankpʋsa
 \ph ɲaŋ͡mk͡pʊsaʔ
-\ps n
 \pl anyankpʋsa
 \plph aɲáŋ͡mk͡pʊsaʔ
+\ps n
 \sn
 \ge human being
 \is 2
@@ -24394,11 +24394,11 @@
 
 \lx nyawie
 \ph ɲawíe
-\ps n
 \vas onyawie
 \vasph oɲawíe
 \pl anyawie
 \plph aɲawíe
+\ps n
 \sn
 \ge friend
 \is 4.1.1
@@ -24429,9 +24429,9 @@
 
 \lx nyewu
 \ph ɲewú
-\ps n
 \pl anyewutɔ
 \plph aɲewútɔ
+\ps n
 \sn
 \ge cheek
 \is 2.1.1
@@ -24481,9 +24481,9 @@
 
 \lx nyɔ
 \ph ɲɔ
-\ps ADJ
 \va -nyɔ
 \vaph -ɲɔ
+\ps ADJ
 \sn
 \ge both
 \is 8.1.1.1
@@ -24523,9 +24523,9 @@
 \lx nyɔpʋ
 \hm 1
 \ph ɲɔ́pʊʔ(L)
-\ps n
 \pl anyɔpʋ
 \plph aɲɔ́pʊ
+\ps n
 \sn
 \ge breast
 \is 2.1.2
@@ -24671,9 +24671,9 @@
 
 \lx ŋlanwun
 \ph ŋlanwũʔ
-\ps n
 \pl aŋlanwun
 \plph aŋlã́nwũ̂ʔ
+\ps n
 \sn
 \ge millipede
 \is 1.6.1.9
@@ -24697,9 +24697,9 @@
 
 \lx obebuni
 \ph obebuniʔ
-\ps n
 \pl mbebuni
 \plph mbebuniʔ
+\ps n
 \sn
 \ge dead palm tree
 \is 1.5.1
@@ -24731,10 +24731,10 @@
 
 \lx obi
 \ph obíʔ
-\ps n
 \vas bi
 \pl abi
 \plph abíʔ
+\ps n
 \sn
 \ge child
 \is 1.6.3
@@ -24751,12 +24751,12 @@
 \lx obia
 \hm 1
 \ph obíáʔ(H)
-\ps n
 \vad ebia
 \vadph ebíáʔ(H)
 \ve Southern
 \pl mbia
 \plph mbíáʔ(H)
+\ps n
 \sn
 \ge stool
 \is 4.6.1
@@ -24778,9 +24778,9 @@
 \lx obia
 \hm 2
 \ph obia(H)
-\ps n
 \pl mbia
 \plph mbia(H)
+\ps n
 \sn
 \ge torch
 \is 8.3.3.1.1
@@ -24797,9 +24797,9 @@
 
 \lx obian
 \ph obíã́ʔ
-\ps n
 \pl mbian
 \plph mbíã́ʔ
+\ps n
 \sn
 \ge thigh
 \is 2.1.3.2
@@ -24819,9 +24819,9 @@
 
 \lx obiantɔ
 \ph obíã́ntɔ́ʔ
-\ps n
 \pl mbiantɔ
 \plph mbíã́ntɔ́
+\ps n
 \sn
 \ge hip
 \is 2.1.3.2
@@ -24832,12 +24832,12 @@
 
 \lx obien
 \ph obĩ́ẽ́ʔ
-\ps n
 \pl mbien
 \plph mbĩ́ẽ́
 \vad ebien
 \vadph ebĩ́ẽ́ʔ
 \ve Southern
+\ps n
 \sn
 \ge snail
 \is 1.6.1.9
@@ -24855,9 +24855,9 @@
 
 \lx obitebi
 \ph obitebíʔ
-\ps n
 \pl mbitebi
 \plph mbitebíʔ
+\ps n
 \sn
 \ge young woman
 \is 2.6.4.3
@@ -24953,10 +24953,10 @@
 
 \lx obon
 \ph obṍʔ
-\ps n
 \vad ebon
 \vadph ebṍʔ
 \ve Southern
+\ps n
 \sn
 \ge clay
 \is 1.2.2.1
@@ -24973,9 +24973,9 @@
 
 \lx oboyi
 \ph obóyiʔ
-\ps n
 \pl mboyi
 \plph mbóyi
+\ps n
 \sn
 \ge neck (nape of neck)
 \is 2.1.1
@@ -24991,9 +24991,9 @@
 
 \lx obroni
 \ph obroni(H)
-\ps n
 \pl abrɔfɔ
 \plph abrɔfɔ́
+\ps n
 \sn
 \ge white man
 \is 4.6.2.1
@@ -25011,9 +25011,9 @@
 \lx obu
 \hm 1
 \ph obu (H)
-\ps n
 \pl mbu
 \plph mbu
+\ps n
 \sn
 \ge building
 \is 6.5.1
@@ -25059,12 +25059,12 @@
 \lx obubwi
 \hm 1
 \ph obubwi
-\ps n
 \vad ebubwi
 \vadph ebubwi
 \ve Southern
 \pl mbubwi
 \plph mbubwi
+\ps n
 \sn
 \ge bird
 \is 1.6.1.2
@@ -25082,9 +25082,9 @@
 \lx obubwi
 \hm 2
 \ph obubwí(H)
-\ps n
 \pl mbubwi
 \plph mbubwí(H)
+\ps n
 \sn
 \ge knoll
 \is 1.2.1.1
@@ -25235,9 +25235,9 @@
 
 \lx odoun
 \ph odoũʔ
-\ps n
 \pl ndoun
 \plph ndoũʔ
+\ps n
 \sn
 \ge captive
 \is 4.5.4.4
@@ -25320,9 +25320,9 @@
 
 \lx odudu
 \ph odudu
-\ps n
 \pl ndudu
 \plph ndudu
+\ps n
 \sn
 \ge rice silo
 \is 6.2.1.1.1
@@ -25337,9 +25337,9 @@
 
 \lx odum
 \ph odum
-\ps n
 \pl ndum
 \plph ndum
+\ps n
 \sn
 \ge hard wood
 \is 1.5.1
@@ -25373,12 +25373,12 @@
 
 \lx ofi
 \ph ofíʔ
-\ps n
 \pl nfi
 \plph ɱfí
 \vad efi
 \vadph ofíʔ
 \ve Southern
+\ps n
 \sn
 \ge year
 \is 8.4.1.6
@@ -25408,10 +25408,10 @@
 
 \lx ofieba
 \ph ofíébáʔ
-\ps n
 \vad efieba
 \vadph efíébáʔ
 \ve Southern
+\ps n
 \sn
 \ge next year
 \is 8.4.1.6
@@ -25460,9 +25460,9 @@
 
 \lx ofin
 \ph ofĩ́ʔ
-\ps n
 \pl nfin
 \plph ɱfĩ́ʔ
+\ps n
 \sn
 \ge shin
 \is 2.1.3.2
@@ -25481,9 +25481,9 @@
 
 \lx ofobi
 \ph ofobí
-\ps n
 \pl nfobi
 \plph ɱfobí
+\ps n
 \sn
 \ge pomade
 \is 5.4.5
@@ -25526,9 +25526,9 @@
 
 \lx ofulifuli
 \ph ofúlífuliʔ
-\ps n
 \pl nfulifuli
 \plph ɱfúlífuli
+\ps n
 \sn
 \ge egret
 \is 1.6.1.2
@@ -25544,9 +25544,9 @@
 
 \lx ofumbi
 \ph ofumbi(H)
-\ps n
 \pl nfumbi
 \plph ɱfumbi
+\ps n
 \sn
 \ge bag
 \is 6.7.7.1
@@ -25559,9 +25559,9 @@
 
 \lx ofunupʋ
 \ph ofunupʊʔ
-\ps n
 \pl afunupʋ
 \plph afunupʊʔ
+\ps n
 \sn
 \ge liar
 \is 3.5.1.3.2
@@ -25575,9 +25575,9 @@
 
 \lx ofunya
 \ph ofuɲa(H)
-\ps n
 \pl nfunya
 \plph ɱfuɲa(H)
+\ps n
 \sn
 \ge comb
 \is 5.4.3.1
@@ -25591,9 +25591,9 @@
 
 \lx ofupʋ
 \ph ofúpʊ́ʔ
-\ps n
 \pl afupʋ
 \plph afúpʊ́
+\ps n
 \sn
 \ge coward
 \is 3.4.2.4
@@ -25611,9 +25611,9 @@
 
 \lx ofutikokoni
 \ph ofutikókóníʔ(H)
-\ps n
 \pl nfutikokoni
 \plph ɱfutikokoni
+\ps n
 \sn
 \ge ant lion
 \is 1.6.1.7
@@ -25625,9 +25625,9 @@
 
 \lx ofwi
 \ph ofwi(H)
-\ps n
 \pl nfwi
 \plph ɱfwi(H)
+\ps n
 \sn
 \ge quail
 \is 1.6.1.2
@@ -25641,9 +25641,9 @@
 
 \lx ogbangba
 \ph og͡bã́ŋ͡mg͡baʔ
-\ps n
 \pl ngbangba
 \plph ŋ͡mg͡bã́ŋ͡mg͡baʔ
+\ps n
 \sn
 \ge lake fish
 \is 1.6.1.5
@@ -25684,9 +25684,9 @@
 
 \lx ogbon
 \ph og͡bõʔ
-\ps n
 \pl ngbon
 \plph ŋ͡mg͡bõʔ
+\ps n
 \sn
 \ge red head lizard
 \is 1.6.1.3.2
@@ -25761,10 +25761,10 @@
 
 \lx ogyama
 \ph oʤamaʔ(H)
-\ps n
 \vas gyama
 \pl agyama
 \plph aʤama
+\ps n
 \sn
 \ge junior
 \is 4.1.9.1.3
@@ -25811,9 +25811,9 @@
 
 \lx ogyatin
 \ph oʤatĩʔ
-\ps n
 \pl ngyatin / ngya
 \plph nʤatĩʔ / nʤá
+\ps n
 \sn
 \ge firewood
 \is 1.5.1
@@ -25836,9 +25836,9 @@
 
 \lx ogyikpa
 \ph oʤík͡pâʔ
-\ps n
 \pl ngyikpa
 \plph nʤík͡pâʔ
+\ps n
 \sn
 \ge eating place
 \is 5.2.2
@@ -25927,9 +25927,9 @@
 
 \lx ohogyipʋ
 \ph ohóʤipʊ
-\ps n
 \pl ahogyipʋ
 \plph ahóʤipʊ
+\ps n
 \sn
 \ge believer
 \is 3.2.5.1
@@ -25988,10 +25988,10 @@
 
 \lx okeyi
 \ph okeyíʔ
-\ps n
 \vad ekeyi
 \vadph ekeyíʔ
 \ve Southern
+\ps n
 \sn
 \ge questioning corpse
 \is 2.6.6.2
@@ -26016,12 +26016,12 @@
 
 \lx okikie
 \ph okíkíéʔ
-\ps n
 \vad otsitsie
 \vadph ot͡ʃít͡ʃíéʔ
 \ve Southern
 \pl nkikie
 \plph ŋkíkíé
+\ps n
 \sn
 \ge lake fish
 \is 1.6.1.5
@@ -26057,9 +26057,9 @@
 
 \lx okle
 \ph ókleʔ
-\ps n
 \pl nkle
 \plph ŋ́kléʔ
+\ps n
 \sn
 \ge frog
 \is 1.6.1.4
@@ -26074,9 +26074,9 @@
 
 \lx oklemgbe
 \ph oklemg͡beʔ
-\ps n
 \pl nklemgbe
 \plph ŋkleŋ͡mg͡be
+\ps n
 \sn
 \ge shrew
 \is 1.6.1.1.4
@@ -26130,9 +26130,9 @@
 
 \lx okoklobitɔ
 \ph okoklobitɔ
-\ps n
 \pl nkoklobitɔ
 \plph ŋkoklobitɔ
+\ps n
 \sn
 \ge corner
 \is 6.5.2
@@ -26178,9 +26178,9 @@
 
 \lx Okonyayin
 \ph okuɲáyĩ̂ʔ
-\ps n
 \pl Nkonyafɔ
 \plph ŋkuɲáfɔ
+\ps n
 \sn
 \ge Nkonya
 \is 9.7.1.5
@@ -26191,9 +26191,9 @@
 
 \lx okpebetsu
 \ph ok͡pebet͡suʔ
-\ps n
 \pl nkpebetsu
 \plph ŋ͡mk͡pebet͡su
+\ps n
 \sn
 \ge strainer
 \is 5.2.1.3
@@ -26241,9 +26241,9 @@
 
 \lx okpokployi
 \ph ok͡pók͡plóyiʔ
-\ps n
 \pl nkpokployi
 \plph ŋ͡mk͡pók͡plóyi
+\ps n
 \sn
 \ge maize cob
 \is 1.5.3
@@ -26259,9 +26259,9 @@
 
 \lx okpokpo
 \ph ok͡pók͡po(H)
-\ps n
 \pl nkpokpo
 \plph ŋ͡mk͡pók͡po(H)
+\ps n
 \sn
 \ge ram
 \is 1.6.1.1.3
@@ -26275,9 +26275,9 @@
 
 \lx okponkpo
 \ph ok͡poŋ͡mk͡póʔ
-\ps n
 \pl nkponkpo
 \plph ŋ͡mk͡poŋ͡mk͡pó
+\ps n
 \sn
 \ge buttocks
 \is 2.2.8
@@ -26313,9 +26313,9 @@
 
 \lx Okristoyin
 \ph okrístoyĩʔ
-\ps PropN
 \pl Akristofɔ
 \plph akrístofɔ
+\ps PropN
 \sn
 \ge Christian
 \is 4.9.7.2
@@ -26337,9 +26337,9 @@
 
 \lx okude
 \ph okudeʔ
-\ps n
 \pl nkude
 \plph ŋkude
+\ps n
 \sn
 \ge dream
 \is 5.7.2
@@ -26380,9 +26380,9 @@
 \lx okuku
 \hm 1
 \ph okúkuʔ
-\ps n
 \pl nkuku
 \plph ŋkúku
+\ps n
 \sn
 \ge hill
 \is 1.2.1.1
@@ -26392,9 +26392,9 @@
 \lx okuku
 \hm 2
 \ph okúkuʔ(L)
-\ps n
 \pl nkuku
 \plph ŋkúku
+\ps n
 \sn
 \ge tilapia
 \is 1.6.1.5
@@ -26407,12 +26407,12 @@
 
 \lx okukubii
 \ph okukúbǐː
-\ps n
 \pl nkukubii
 \plph ŋkukúbǐː
 \vad ekukubii
 \vadph ekukúbǐː
 \ve Southern
+\ps n
 \sn
 \ge dwarf
 \is 4.9.2
@@ -26426,9 +26426,9 @@
 \hm 1
 \ph okúlu
 \vas kulu
-\ps n
 \pl akulu
 \plph akúlu
+\ps n
 \sn
 \ge husband
 \is 4.1.9.2.1
@@ -26494,9 +26494,9 @@
 
 \lx okun
 \ph okṹʔ
-\ps n
 \pl nkun
 \plph ŋkṹʔ
+\ps n
 \sn
 \ge handle
 \is 6.7.8
@@ -26520,10 +26520,10 @@
 
 \lx oli
 \ph olíʔ
-\ps n
 \vad eli
 \vadph elí
 \ve Southern
+\ps n
 \sn
 \ge funeral
 \is 2.6.6.3
@@ -26537,9 +26537,9 @@
 
 \lx olin
 \ph olîʔ
-\ps n
 \pl nlin
 \plph nlîʔ
+\ps n
 \sn
 \ge root
 \is 1.5.5
@@ -26611,9 +26611,9 @@
 
 \lx oloo
 \ph ólǒːʔ
-\ps n
 \pl nloo
 \plph nlǒː
+\ps n
 \sn
 \ge crocodile
 \is 1.6.1.3.4
@@ -26681,9 +26681,9 @@
 
 \lx olupʋ
 \ph olupʊ́
-\ps n
 \pl alupʋ
 \plph alupʊ́
+\ps n
 \sn
 \ge enemy
 \is 4.3.3.1
@@ -26692,9 +26692,9 @@
 
 \lx omenyapʋ
 \ph omeɲapʊ́
-\ps n
 \pl amenyapʋ
 \plph ameɲapʊ́
+\ps n
 \sn
 \ge pregnant woman
 \is 2.6.3.1
@@ -26718,12 +26718,12 @@
 
 \lx omlewu
 \ph omlewuʔ
-\ps n
 \pl mmlewu
 \plph mːlewu
 \vad emlewu
 \vadph emlewuʔ
 \ve Southern
+\ps n
 \sn
 \ge elbow
 \is 2.1.3.1
@@ -26738,9 +26738,9 @@
 
 \lx omumu
 \ph omúmuʔ(H)
-\ps n
 \pl amumu
 \plph amúmu
+\ps n
 \sn
 \ge mute
 \is 2.5.4.4
@@ -26806,9 +26806,9 @@
 
 \lx onunpʋ
 \ph onúpʊ
-\ps n
 \pl anunpʋ
 \plph anúpʊ
+\ps n
 \sn
 \ge drinker
 \is 5.2.2.7
@@ -26858,9 +26858,9 @@
 
 \lx onuwe
 \ph onuwé
-\ps n
 \pl nnuwe
 \plph nːuwé
+\ps n
 \sn
 \ge large drinking calabash
 \is 1.5.3
@@ -26872,9 +26872,9 @@
 
 \lx onwunfi
 \ph onwuɱfíʔ
-\ps n
 \pl nwunfi
 \plph ŋwuɱfí
+\ps n
 \sn
 \ge forehead
 \is 2.1.1
@@ -26888,9 +26888,9 @@
 
 \lx onyansapʋ
 \ph oɲã́nsapʊ
-\ps n
 \pl anyansapʋ
 \plph aɲã́nsapʊ
+\ps n
 \sn
 \ge wise person
 \is 3.2.1.3
@@ -26902,10 +26902,10 @@
 
 \lx onye
 \ph oɲéʔ
-\ps n
 \vad enye
 \vadph eɲeʔ́
 \ve Southern
+\ps n
 \sn
 \ge night
 \is 8.4.1.2.1
@@ -26923,10 +26923,10 @@
 
 \lx onyelulu
 \ph oɲelulúʔ
-\ps n
 \vad enyelulu
 \vadph eɲelulúʔ
 \ve Southern
+\ps n
 \sn
 \ge dew
 \is 1.1.3.3
@@ -27023,9 +27023,9 @@
 
 \lx opiki
 \ph opiki
-\ps n
 \pl mpiki
 \plph mpiki
+\ps n
 \sn
 \ge thatch
 \is 1.5.3
@@ -27042,12 +27042,12 @@
 
 \lx opini
 \ph opínîʔ
-\ps n
 \vad epini
 \ve Southern
 \vadph epíniʔ
 \pl mpini
 \plph mpínîʔ
+\ps n
 \sn
 \ge ring
 \is 5.4.1
@@ -27061,10 +27061,10 @@
 
 \lx opio
 \ph opíó
-\ps n
 \vas pio
 \pl apio
 \plph apíó
+\ps n
 \sn
 \ge brother/sister
 \is 4.1.9.1.3
@@ -27077,9 +27077,9 @@
 
 \lx opitre
 \ph opitre(H)
-\ps n
 \pl mpitre
 \plph mpitre
+\ps n
 \sn
 \ge mudfish
 \is 1.6.1.5
@@ -27093,12 +27093,12 @@
 
 \lx oplimbi
 \ph oplimbi(H)
-\ps n
 \vad eplimbi
 \vadph eplimbi(H)
 \ve Southern
 \pl mplimbi
 \plph mplimbi(H)
+\ps n
 \sn
 \ge mortar
 \is 5.2.1.2.2
@@ -27112,9 +27112,9 @@
 
 \lx oplímbi
 \ph oplímbiʔ
-\ps n
 \pl mplimbi
 \plph mplímbi
+\ps n
 \sn
 \ge pestle
 \is 5.2.1.2.2
@@ -27139,9 +27139,9 @@
 
 \lx opotsua
 \ph opot͡sua(H)
-\ps n
 \pl apotuafɔ
 \plph apotuafɔ
+\ps n
 \sn
 \ge gluttony
 \is 4.3.6.1
@@ -27168,9 +27168,9 @@
 
 \lx opulapʋ
 \ph opulápʊ̂ʔ
-\ps n
 \pl apulapʋ
 \plph apulápʊ̂ʔ
+\ps n
 \sn
 \ge burier
 \is 2.6.6.3
@@ -27212,9 +27212,9 @@
 
 \lx opulu
 \ph opulu(H)
-\ps n
 \pl mpulu
 \plph mpulu(H)
+\ps n
 \sn
 \ge navel
 \is 2.1.2
@@ -27241,8 +27241,8 @@
 
 \lx opuni
 \ph opúniʔ
-\ps n
 \vas puni
+\ps n
 \sn
 \pl mpuni
 \plph mpúniʔ
@@ -27254,9 +27254,9 @@
 
 \lx opuntu
 \ph opuntu
-\ps n
 \pl mpuntu
 \plph mpuntu
+\ps n
 \sn
 \ge bag
 \is 6.7.7.1
@@ -27334,12 +27334,12 @@
 
 \lx osiebi
 \ph osiebíʔ (H)
-\ps n
 \vad esiebi
 \vadph esiebíʔ (H)
 \ve Southern
 \pl nsiebi
 \plph nsiebíʔ (H)
+\ps n
 \sn
 \ge horn
 \is 1.6.2
@@ -27376,12 +27376,12 @@
 
 \lx osrebi
 \ph osrebi
-\ps n
 \vad esrebi
 \vadph esrebi
 \ve Southern
 \pl asirebi
 \plph asirebi
+\ps n
 \sn
 \ge finger
 \is 2.1.3.3
@@ -27393,9 +27393,9 @@
 
 \lx osrebiyin
 \ph osrebiyĩʔ
-\ps n
 \pl asrebiyin
 \plph asrebiyĩʔ
+\ps n
 \sn
 \ge thumb
 \is 2.1.3.3
@@ -27421,9 +27421,9 @@
 
 \lx osuanpʋ
 \ph osuã́mpʊʔ
-\ps n
 \pl asuanpʋ
 \plph asuã́mpʊʔ
+\ps n
 \sn
 \ge student
 \is 3.2.2
@@ -27468,9 +27468,9 @@
 
 \lx osumpʋ
 \ph osúmpʊ̂ʔ
-\ps n
 \pl asumpʋ
 \plph asúmpʊ́ʔ
+\ps n
 \sn
 \ge servant
 \is 4.5.4.3
@@ -27482,9 +27482,9 @@
 
 \lx osun
 \ph osṹ
-\ps n
 \pl nsun
 \plph nsṹ
+\ps n
 \sn
 \ge clan
 \is 4.1.9.8
@@ -27496,9 +27496,9 @@
 
 \lx osun ɔhandɛ
 \ph osṹ ɔhandɛʔ
-\ps n
 \pl osun ahandɛ
 \plph osṹ ɔhandɛʔ
+\ps n
 \sn
 \ge clan head
 \is 2.6.4.5
@@ -27522,9 +27522,9 @@
 
 \lx osunapʋ
 \ph osunápʊ́ʔ
-\ps n
 \pl asunapʋ
 \plph asunápʊ́
+\ps n
 \sn
 \ge teacher
 \is 3.6.2
@@ -27568,9 +27568,9 @@
 \lx oswie
 \hm 2
 \ph oswie(H)
-\ps n
 \pl nswie
 \plph nswie
+\ps n
 \sn
 \ge anteater
 \is 1.6.1.1.6
@@ -27582,12 +27582,12 @@
 
 \lx otebi
 \ph otebiʔ
-\ps n
 \vad etebi
 \vadph etebiʔ
 \ve Southern
 \pl ntebi
 \plph ntebiʔ
+\ps n
 \sn
 \ge ankle
 \is 2.1.3.2
@@ -27614,9 +27614,9 @@
 
 \lx otintɔ
 \ph otĩntɔ(H)
-\ps n
 \pl ntin
 \plph ntĩ
+\ps n
 \sn
 \ge clan
 \is 4.1.9.8
@@ -27640,9 +27640,9 @@
 
 \lx otonklo
 \ph otóŋkló
-\ps n
 \pl ntonklo
 \plph ntóŋkló
+\ps n
 \sn
 \ge tobacco
 \is 5.2.4
@@ -27667,9 +27667,9 @@
 
 \lx otse
 \ph ot͡sé
-\ps n
 \pl ntse
 \plph nt͡sé
+\ps n
 \sn
 \ge cocoyam bulb
 \is 1.5.3
@@ -27682,9 +27682,9 @@
 
 \lx otsi
 \ph ot͡siʔ
-\ps n
 \pl ntsi
 \plph nt͡si
+\ps n
 \sn
 \ge vine
 \is 1.5.3
@@ -27717,9 +27717,9 @@
 
 \lx otsibi
 \ph ot͡sibi
-\ps n
 \pl atsibi
 \plph at͡sibi
+\ps n
 \sn
 \is 2.6.4.3
 \is 2.6.5.2
@@ -27731,9 +27731,9 @@
 
 \lx otsin
 \ph ot͡sĩ́ʔ
-\ps n
 \pl ntsin
 \plph nt͡sĩ́ʔ
+\ps n
 \sn
 \ge vein
 \is 2.1.8.1
@@ -27747,9 +27747,9 @@
 
 \lx otsobi
 \ph ot͡sobíʔ
-\ps n
 \pl ntsobi
 \plph nt͡sobíʔ
+\ps n
 \sn
 \ge mattock
 \is 6.2.8
@@ -27786,9 +27786,9 @@
 
 \lx otsubunɔ
 \ph ot͡subúnɔ
-\ps n
 \pl ntsubunɔ
 \plph nt͡subúnɔ
+\ps n
 \sn
 \ge beach
 \is 1.3.1.3
@@ -27833,9 +27833,9 @@
 
 \lx otua
 \ph otua(L)
-\ps n
 \pl ntua
 \plph ntua
+\ps n
 \sn
 \ge gun
 \is 4.8.3.7
@@ -27857,9 +27857,9 @@
 
 \lx otubi
 \ph otubíʔ
-\ps n
 \pl ntubi
 \plph ntubíʔ
+\ps n
 \sn
 \ge spoon
 \is 5.2.2.8
@@ -27884,9 +27884,9 @@
 
 \lx otuntu
 \ph otuntuʔ
-\ps n
 \pl ntuntu
 \plph ntuntuʔ
+\ps n
 \sn
 \ge gourd
 \is 1.5.3
@@ -27898,9 +27898,9 @@
 
 \lx otuntubi
 \ph otuntubi(H)
-\ps n
 \pl ntuntubi
 \plph ntuntubi(H)
+\ps n
 \sn
 \ge gourd
 \is 1.5.3
@@ -28057,9 +28057,9 @@
 \va oyikplu
 \vaph oyik͡plu(H)
 \ve Elders
-\ps n
 \pl awikplu
 \plph awik͡plu(H)
+\ps n
 \sn
 \ge thief
 \is 6.8.9.1
@@ -28099,9 +28099,9 @@
 
 \lx owu
 \ph owu(H)
-\ps n
 \pl awu
 \plph awu
+\ps n
 \sn
 \ge thorn
 \is 1.5.5
@@ -28133,9 +28133,9 @@
 
 \lx owupʋ
 \ph owupʊ́ʔ
-\ps n
 \pl awupʋ
 \plph awupʊʔ
+\ps n
 \sn
 \ge dead person
 \is 1.4.1
@@ -28189,9 +28189,9 @@
 
 \lx oyi ibi
 \ph oyí ibí
-\ps n
 \pl oyi abi
 \plph oyí abí
+\ps n
 \sn
 \ge fruit
 \is 1.5.1
@@ -28224,9 +28224,9 @@
 
 \lx oyibibi
 \ph oyibibíʔ
-\ps n
 \pl nyibibi
 \plph ɲibibíʔ
+\ps n
 \sn
 \ge stick
 \is 1.5.5
@@ -28242,9 +28242,9 @@
 
 \lx oyikpalihɛ
 \ph oyik͡palíhɛ
-\ps n
 \pl nyikpalihɛ
 \plph ɲik͡palíhɛ
+\ps n
 \sn
 \ge cross
 \is 4.9.7.2
@@ -28259,12 +28259,12 @@
 
 \lx oyikplu
 \ph oyik͡plu(H)
-\ps n
 \va owikplu
 \vaph owik͡plu(H)
 \ve Youth
 \pl ayikplu
 \plph ayik͡plu(H)
+\ps n
 \sn
 \ge thief
 \is 6.8.9.1
@@ -28273,11 +28273,11 @@
 
 \lx oyin
 \ph oyĩ(H)
-\ps n
 \vas yin
 \vasph yĩ(H)
 \pl ayin
 \plph ayĩ(H)
+\ps n
 \sn
 \ge man
 \is 2.6.4.4
@@ -28295,11 +28295,11 @@
 
 \lx oyín
 \ph oyĩ́
-\ps n
 \vas yin
 \vasph yĩ́
 \pl ayín
 \plph ayĩ́
+\ps n
 \sn
 \ge mother
 \is 2.6.5.2
@@ -28355,9 +28355,9 @@
 
 \lx oyitsu
 \ph oyit͡suʔ
-\ps n
 \pl ayitsu
 \plph ayit͡suʔ
+\ps n
 \sn
 \ge eagle
 \is 1.6.1.2
@@ -28403,9 +28403,9 @@
 
 \lx ɔ- -ba
 \ph ɔ- -bá
-\ps NOMR
 \vaa o- -ba
 \vaaph o- -bá
+\ps NOMR
 \sn
 \ge mate
 \is 7.2.5
@@ -28418,12 +28418,12 @@
 
 \lx ɔ- -kɛ
 \ph ɔ- -kɛ
-\ps NOMR
 \vas -kɛ
 \vasph -kɛ
 \vad ɛ- -kɛ
 \vadph ɛ- -kɛ
 \ve Southern
+\ps NOMR
 \sn
 \ge day
 \is 8.4.1.2
@@ -28438,9 +28438,9 @@
 
 \lx ɔ- -kpa
 \ph ɔ- -k͡pa
-\ps NOMR
 \vas -kpa
 \vasph -kpa
+\ps NOMR
 \sn
 \ge place
 \is 8.5.3
@@ -28504,9 +28504,9 @@
 
 \lx ɔ- -tɔ
 \ph ɔ- -tɔ
-\ps NOMR
 \pl a- -tɔ
 \plph a- -tɔ
+\ps NOMR
 \sn
 \ge instrument
 \is 9.2.9.3
@@ -28564,10 +28564,10 @@
 
 \lx ɔba
 \ph ɔba(H)
-\ps n
 \vas ba
 \pl aba
 \plph aba(H)
+\ps n
 \sn
 \ge companion
 \is 4.1.1
@@ -28581,9 +28581,9 @@
 
 \lx ɔbaan
 \ph ɔbã̂ːʔ
-\ps n
 \pl mbaan
 \plph mbã̂ː
+\ps n
 \sn
 \ge sprout
 \is 1.5.5
@@ -28616,9 +28616,9 @@
 
 \lx ɔbɛ
 \ph ɔbɛ́ʔ
-\ps n
 \pl mbɛ
 \plph mbɛ́ʔ
+\ps n
 \sn
 \ge palm tree
 \is 1.5.1
@@ -28647,12 +28647,12 @@
 
 \lx ɔbɩatɔ
 \ph ɔbɪatɔʔ
-\ps n
 \vad opi
 \vadph opi
 \ve Southern
 \pl mbɩatɔ
 \plph mbɪatɔ
+\ps n
 \sn
 \ge needle
 \is 6.6.1
@@ -28682,9 +28682,9 @@
 
 \lx ɔbɩma
 \ph ɔbɪmâʔ
-\ps n
 \pl mbɩma
 \plph mbɪmáʔ
+\ps n
 \sn
 \ge back of hand
 \is 2.1.3.1
@@ -28710,9 +28710,9 @@
 \lx ɔbɩn
 \hm 2
 \ph ɔbɪ̃ʔ
-\ps n
 \pl mbɩn
 \plph mbɪ̃ʔ
+\ps n
 \sn
 \ge arrow
 \is 4.8.3.7
@@ -28728,9 +28728,9 @@
 
 \lx ɔbɩwɛtɔ
 \ph ɔbɪwɛtɔ(H)
-\ps n
 \pl mbɩwɛtɔ
 \plph mbɪwɛtɔ
+\ps n
 \sn
 \ge wrist
 \is 2.1.3.1
@@ -28754,9 +28754,9 @@
 
 \lx ɔblakɩtɩ
 \ph ɔblákɪtɪ
-\ps n
 \pl mblakɩtɩ
 \plph mblákɪtɪ
+\ps n
 \sn
 \ge gecko
 \is 1.6.1.3.2
@@ -28768,9 +28768,9 @@
 
 \lx ɔblakwɛ
 \ph ɔblakwɛʔ
-\ps n
 \pl mblakwɛ
 \plph mblakwɛ
+\ps n
 \sn
 \ge central palm
 \is 1.5.1
@@ -28790,9 +28790,9 @@
 
 \lx ɔblapʋ
 \ph ɔblapʊ(H)
-\ps n
 \pl ablapʋ
 \plph ablapʊ
+\ps n
 \sn
 \ge menstruating woman
 \is 2.1.8.4
@@ -28803,9 +28803,9 @@
 
 \lx ɔblatɩɩ
 \ph ɔblatɪ̂ːʔ
-\ps n
 \pl mblatɩɩ
 \plph mblatɪ̂ːʔ
+\ps n
 \sn
 \ge small snail
 \is 1.6.1.9
@@ -28818,10 +28818,10 @@
 \lx ɔblɩ
 \hm 1
 \ph ɔblɪ̂ʔ(L)
-\ps n
 \vad ɛblɩ
 \vadph ɛblɪ̂ʔ(L)
 \ve Southern
+\ps n
 \sn
 \ge language
 \is 3.5.3
@@ -28835,9 +28835,9 @@
 \lx ɔblɩ
 \hm 2
 \ph ɔblɪ
-\ps n
 \pl mblɩ
 \plph mblɪ
+\ps n
 \sn
 \ge tube
 \is 1.5.5
@@ -28894,9 +28894,9 @@
 \lx ɔbɔ
 \hm 1
 \ph ɔbɔ́
-\ps n
 \pl mbɔ
 \plph mbɔ́
+\ps n
 \sn
 \ge hole
 \is 1.6.5
@@ -28929,9 +28929,9 @@
 
 \lx ɔbɔpʋ
 \ph ɔbɔpʊ(L)
-\ps n
 \pl abɔpʋ
 \plph abɔpʊ
+\ps n
 \sn
 \ge messenger
 \is 3.5.2.2
@@ -28997,9 +28997,9 @@
 \lx ɔbʋn
 \hm 2
 \ph ɔbʊ̃́ʔ(H)
-\ps n
 \pl abʋn
 \plph abʊ̃́ʔ
+\ps n
 \sn
 \ge stream
 \is 1.3.1.3
@@ -29010,9 +29010,9 @@
 
 \lx ɔbʋnkpabi
 \ph ɔbʊŋ͡mk͡pabi
-\ps n
 \pl abʋnkpabi
 \plph abʊŋ͡mk͡pabi
+\ps n
 \sn
 \ge brook
 \is 1.3.1.3
@@ -29023,9 +29023,9 @@
 
 \lx ɔbʋnsam
 \ph ɔbʊnsám
-\ps n
 \pl abʋnsam
 \plph abʊnsám
+\ps n
 \sn
 \ge evil spirit
 \is 4.9.2
@@ -29043,9 +29043,9 @@
 
 \lx ɔbwata
 \ph ɔbʷata(H)
-\ps n
 \pl mbwata
 \plph mbʷata(H)
+\ps n
 \sn
 \ge shuttle
 \is 6.6.1.4
@@ -29057,12 +29057,12 @@
 
 \lx ɔbwɩ
 \ph ɔbʷɪ(H)
-\ps n
 \vad ɛbwɩ
 \vadph ɛbʷɪ(H)
 \ve Southern
 \pl mbʷɩ
 \plph mbwɪ
+\ps n
 \sn
 \ge animal
 \is 1.6
@@ -29075,9 +29075,9 @@
 
 \lx ɔda
 \ph ɔdaʔ
-\ps n
 \pl nda
 \plph ndaʔ
+\ps n
 \sn
 \ge jaw
 \is 2.1.1
@@ -29091,9 +29091,9 @@
 
 \lx ɔdadʋwa
 \ph ɔdadʊwa(H)
-\ps n
 \pl ndadʋwa
 \plph ndadʊwa
+\ps n
 \sn
 \ge fish hook
 \is 6.4.5.3
@@ -29118,12 +29118,12 @@
 
 \lx ɔdakpokpo
 \ph ɔdak͡pok͡po
-\ps n
 \pl ndakpokpo
 \plph ndak͡pok͡po
 \vad klɛkpakpa
 \vadph klɛ́k͡pak͡paʔ (L)
 \ve Northern
+\ps n
 \sn
 \ge woodpecker
 \is 1.6.1.2
@@ -29136,9 +29136,9 @@
 
 \lx ɔdandʋ
 \ph ɔdandʊ
-\ps n
 \pl ndandʋ
 \plph ndandʊ
+\ps n
 \sn
 \ge tongue
 \is 2.1.1.4
@@ -29167,9 +29167,9 @@
 
 \lx ɔdansɩyin
 \ph ɔdãnsɪyĩʔ
-\ps n
 \pl adansɩfɔ
 \plph adãnsɪfɔ
+\ps n
 \sn
 \ge witness
 \is 4.7.5.5
@@ -29179,9 +29179,9 @@
 \lx ɔdanta
 \hm 1
 \ph ɔdántá
-\ps n
 \pl ndanta
 \plph ndántá
+\ps n
 \sn
 \ge loincloth
 \is 5.3.3
@@ -29195,9 +29195,9 @@
 \lx ɔdanta
 \hm 2
 \ph ɔdanta(H)
-\ps n
 \pl ndanta
 \plph ndanta(H)
+\ps n
 \sn
 \ge pistol
 \is 4.8.3.7
@@ -29213,9 +29213,9 @@
 
 \lx ɔdantrʋba
 \ph ɔdantrʊ́ba(H)
-\ps n
 \pl ndantrʋba
 \plph ndantrʊ́ba(H)
+\ps n
 \sn
 \ge clamshell
 \is 1.6.2.5
@@ -29226,9 +29226,9 @@
 
 \lx ɔdanʋ
 \ph ɔdanʊ́
-\ps n
 \pl ndanʋ
 \plph ndanʊ́
+\ps n
 \sn
 \ge edge
 \is 6.6.1.1
@@ -29241,9 +29241,9 @@
 
 \lx ɔdatobi
 \ph ɔdatobi(H)
-\ps n
 \pl ndatobi
 \plph ndatobi(H)
+\ps n
 \sn
 \ge nail
 \is 6.5.3
@@ -29259,9 +29259,9 @@
 
 \lx ɔdawu
 \ph ɔdawuʔ
-\ps n
 \pl ndawu
 \plph ndawuʔ
+\ps n
 \sn
 \ge chin
 \is 2.1.1
@@ -29276,9 +29276,9 @@
 
 \lx ɔdayi
 \ph ɔdayí
-\ps n
 \pl ndayi
 \plph ndayí
+\ps n
 \sn
 \ge knife
 \is 4.8.3.7
@@ -29352,9 +29352,9 @@
 
 \lx ɔdɩ
 \ph ɔdɪ́
-\ps n
 \pl ndɩ
 \plph ndɪ́
+\ps n
 \sn
 \ge another town
 \is 9.5.1.6.4
@@ -29430,11 +29430,11 @@
 
 \lx ɔdɔn
 \ph ɔdɔ̃́ʔ
-\ps n
 \pl ndɔn
 \plph ndɔ̃́ʔ
 \vaa do
 \vaaph do
+\ps n
 \sn
 \ge bell
 \is 4.2.3.5
@@ -29451,9 +29451,9 @@
 
 \lx ɔdɔpʋ
 \ph ɔdɔ́pʊ
-\ps n
 \pl adɔpʋ
 \plph adɔ́pʊ
+\ps n
 \sn
 \ge farm worker
 \is 6.2.7
@@ -29464,9 +29464,9 @@
 
 \lx ɔdɔtɔpʋ
 \ph ɔdɔtɔpʊ
-\ps n
 \pl adɔtɔpʋ
 \plph adɔtɔpʊ
+\ps n
 \sn
 \ge farmer
 \is 6.2.1
@@ -29604,9 +29604,9 @@
 
 \lx ɔfapʋ
 \ph ɔfápʊ́
-\ps n
 \pl afapʋ
 \plph afápʊ́
+\ps n
 \sn
 \ge herbalist
 \is 2.5.7.5
@@ -29617,9 +29617,9 @@
 
 \lx ɔfɛ
 \ph ɔfɛ́
-\ps n
 \pl ɩfɛ́
 \plph ɪfɛ́
+\ps n
 \sn
 \ge rope
 \is 7.5.4.1
@@ -29684,9 +29684,9 @@
 
 \lx ɔflɛ
 \ph ɔflɛʔ
-\ps n
 \pl nflɛ
 \plph ɱflɛʔ
+\ps n
 \sn
 \ge sheath
 \is 4.8.3.7
@@ -29699,9 +29699,9 @@
 
 \lx ɔfɔɔ
 \ph ɔfɔ̌ː
-\ps n
 \pl afɔɔ
 \plph afɔ̌ː
+\ps n
 \sn
 \ge stranger
 \is 4.6.2.1
@@ -29719,9 +29719,9 @@
 
 \lx ɔfranka
 \ph ɔfráŋka(H)
-\ps n
 \pl nfranka
 \plph ɱfráŋka(H)
+\ps n
 \sn
 \ge flag
 \de flag
@@ -29831,9 +29831,9 @@
 
 \lx ɔha
 \ph ɔhá
-\ps n
 \pl aha
 \plph ahá
+\ps n
 \sn
 \ge person
 \is 2
@@ -29883,12 +29883,12 @@
 
 \lx ɔhandɛ
 \ph ɔhandɛʔ
-\ps n
 \pl ahandɛ
 \plph ahandɛ
 \vad ɔhandɛn
 \vadph ɔhandɛ̃ʔ
 \ve Southern
+\ps n
 \sn
 \ge elder
 \is 4.5.1
@@ -29929,11 +29929,11 @@
 \lx ɔka
 \hm 1
 \ph ɔká
-\ps n
 \vas ka
 \vasph ka
 \pl aka
 \plph aká
+\ps n
 \sn
 \ge wife
 \is 4.1.9.2.1
@@ -29974,9 +29974,9 @@
 
 \lx ɔkaba
 \ph ɔkabá
-\ps n
 \pl akaba
 \plph akabá
+\ps n
 \sn
 \ge rival
 \is 4.1.9.2
@@ -30001,9 +30001,9 @@
 
 \lx ɔkan
 \ph ɔkãʔ
-\ps n
 \pl nkan
 \plph ŋkãʔ
+\ps n
 \sn
 \ge gong-gong
 \is 3.5.1.2.1
@@ -30089,9 +30089,9 @@
 
 \lx ɔkasɩpʋ
 \ph ɔkasɪ́pʊ́
-\ps n
 \pl akasɩpʋ
 \plph akasɪ́pʊ́
+\ps n
 \sn
 \ge disciple
 \is 3.2.2
@@ -30141,9 +30141,9 @@
 
 \lx ɔkɛkɛ
 \ph ɔkɛkɛ́
-\ps n
 \pl nkɛkɛ
 \plph ŋkɛkɛ́
+\ps n
 \sn
 \ge grasshopper
 \is 1.6.1.7
@@ -30180,9 +30180,9 @@
 
 \lx ɔkɩankpatɔ
 \ph ɔkɪaŋ͡mk͡patɔ
-\ps n
 \pl akɩankpatɔ
 \plph akɪaŋ͡mk͡patɔ
+\ps n
 \sn
 \ge living
 \is 1.4
@@ -30207,9 +30207,9 @@
 
 \lx ɔkla
 \ph ɔkláʔ (L)
-\ps n
 \pl akla
 \plph aklá
+\ps n
 \sn
 \ge soul
 \is 3.1
@@ -30223,9 +30223,9 @@
 
 \lx ɔklan
 \ph ɔklãʔ
-\ps n
 \pl nklan
 \plph ŋklãʔ
+\ps n
 \sn
 \ge mat
 \is 5.1.1.3
@@ -30238,9 +30238,9 @@
 
 \lx ɔklantida
 \ph ɔklãntida
-\ps n
 \pl aklantida
 \plph aklantida
+\ps n
 \sn
 \ge old mat
 \is 5.1.1.3
@@ -30253,9 +30253,9 @@
 
 \lx ɔklɛbɔ
 \ph ɔklɛbɔ
-\ps n
 \pl nklɛbɔ
 \plph ŋklɛbɔ
+\ps n
 \sn
 \ge turtle
 \is 1.6.1.3.3
@@ -30268,9 +30268,9 @@
 
 \lx ɔklʋn
 \ph ɔklʊ̃ʔ
-\ps n
 \pl nklʋn
 \plph ŋklʊ̃
+\ps n
 \sn
 \ge boat
 \is 6.4.5
@@ -30296,9 +30296,9 @@
 
 \lx ɔkɔmfɔbowuo
 \ph ɔkɔɱfɔbowuo(H)
-\ps n
 \pl nkɔmfɔbowuo
 \plph ŋkɔɱfɔbowuo(H)
+\ps n
 \sn
 \ge chameleon
 \is 1.6.1.3.2
@@ -30319,9 +30319,9 @@
 
 \lx ɔkɔntɩ
 \ph ɔkɔntɪ
-\ps n
 \pl nkɔntɩ
 \plph ŋkɔntɪ
+\ps n
 \sn
 \ge crook
 \is 6.2.8
@@ -30333,9 +30333,9 @@
 
 \lx ɔkɔtɔ
 \ph ɔkɔ́tɔ(H)
-\ps n
 \pl nkɔtɔ
 \plph ŋkɔ́tɔ(H)
+\ps n
 \sn
 \ge crab
 \is 1.6.1.9
@@ -30352,9 +30352,9 @@
 
 \lx ɔkpa
 \ph ɔk͡pa(H)
-\ps n
 \pl nkpa
 \plph ŋ͡mk͡pa
+\ps n
 \sn 1
 \ge path
 \is 6.5.4.1
@@ -30400,9 +30400,9 @@
 
 \lx ɔkpabaɩ
 \ph ɔk͡pabaɪ́ʔ
-\ps n
 \pl ɩkpabaɩ
 \plph ɪk͡pabáɪ
+\ps n
 \sn
 \ge junction
 \is 6.5.4.1
@@ -30415,9 +30415,9 @@
 \lx ɔkpabi
 \hm 1
 \ph ɔk͡pabí(H)
-\ps n
 \pl nkpabi
 \plph ŋ͡mk͡pabí
+\ps n
 \sn
 \ge forked stick
 \is 6.2.8
@@ -30430,12 +30430,12 @@
 \lx ɔkpabi
 \hm 2
 \ph ɔk͡pábiʔ(L)
-\ps n
 \pl nkpabi
 \plph ŋ͡mk͡pábi
 \vad ɛkpabi
 \vadph ɛk͡pábiʔ(L)
 \ve Southern
+\ps n
 \sn
 \ge servant
 \is 4.5.4.4
@@ -30474,9 +30474,9 @@
 
 \lx ɔkpakwebi
 \ph ɔk͡pakwebí
-\ps n
 \pl nkpakwebi
 \plph ŋ͡mk͡pakwebí
+\ps n
 \sn
 \ge clothes
 \is 5.3.4
@@ -30497,9 +30497,9 @@
 
 \lx ɔkpamba
 \ph ɔk͡pambaʔ
-\ps n
 \pl akpamba
 \plph ak͡pambaʔ
+\ps n
 \sn
 \ge boy/girlfriend
 \is 4.1.1.1
@@ -30510,9 +30510,9 @@
 
 \lx ɔkpan
 \ph ɔk͡pã́ʔ
-\ps n
 \pl akpan
 \plph ak͡pã́ʔ
+\ps n
 \sn
 \ge ant
 \is 1.6.1.7
@@ -30541,9 +30541,9 @@
 
 \lx ɔkpataku
 \ph ɔk͡pataku(H)
-\ps n
 \pl nkpataku
 \plph ŋ͡mk͡pataku(H)
+\ps n
 \sn
 \ge hyena
 \is 1.6.1.1.2
@@ -30558,9 +30558,9 @@
 \lx ɔkpɛ
 \hm 1
 \ph ɔk͡pɛ(H)
-\ps n
 \pl nkpɛ
 \plph ŋ͡mk͡pɛ
+\ps n
 \sn 1
 \ge trumpet
 \is 4.2.3.5
@@ -30603,9 +30603,9 @@
 
 \lx ɔkpɛpʋ
 \ph ɔk͡pɛ́pʊ́
-\ps n
 \pl akpɛpʋ
 \plph ak͡pɛ́pʊ́
+\ps n
 \sn
 \ge witch / wizard
 \is 4.9.4.1
@@ -30618,9 +30618,9 @@
 
 \lx ɔkpɩpʋ
 \ph ɔk͡pɪpʊ́
-\ps n
 \pl akpɩpʋ
 \plph ak͡pɪpʊ́
+\ps n
 \sn
 \ge fetish priest
 \is 4.9.7.1
@@ -30634,9 +30634,9 @@
 
 \lx ɔkpɩtsa
 \ph ɔk͡pɪt͡saʔ
-\ps n
 \pl nkpɩtsa
 \plph ŋ͡mk͡pɪt͡sa
+\ps n
 \sn
 \ge cluster
 \is 8.1.3.3
@@ -30661,9 +30661,9 @@
 
 \lx ɔkpʋn
 \ph ɔk͡pʊ̃
-\ps n
 \pl nkpʋn
 \plph ŋ͡mk͡pʊ̃
+\ps n
 \sn
 \ge toilet
 \is 2.2.7
@@ -30689,10 +30689,10 @@
 
 \lx ɔkpʋnʋ
 \ph ɔk͡pʊ́nʊ́
-\ps n
 \vad ɛkpʋnʋ
 \vadph ɛk͡pʊ́nʊ́
 \ve Southern
+\ps n
 \sn
 \ge rest
 \is 2.4.5
@@ -30729,9 +30729,9 @@
 
 \lx ɔkʋabi
 \ph ɔkʊ́abíʔ
-\ps n
 \pl akʋabi
 \plph akʊ́abí
+\ps n
 \sn
 \ge lake fish
 \is 1.6.1.5
@@ -30748,10 +30748,10 @@
 
 \lx ɔkʋn
 \ph ɔkʊ̃ʔ
-\ps NUM
 \vad ɛkʋn
 \vadph ɛkʊ̃ʔ
 \ve Southern
+\ps NUM
 \sn
 \ge one
 \is 8.1.1.1
@@ -30772,8 +30772,8 @@
 \vas kʋsʋ
 \vasph kʊsʊ
 \sn
-\ps ADJ
 \ge younger
+\ps ADJ
 \sn
 \is 4.1.9.1.3
 \is 4.1.9.1.9
@@ -30791,9 +30791,9 @@
 
 \lx ɔkwaɩ
 \ph ɔkʷaɪ(H)
-\ps n
 \pl nkwaɩ
 \plph ŋkwaɪ(H)
+\ps n
 \sn
 \ge soap
 \is 5.6.2
@@ -30823,10 +30823,10 @@
 
 \lx ɔkwɩɩkɛ
 \ph ɔkwɪ̌ːkɛ
-\ps n
 \vad ɛkwɩɩkɛ
 \vadph ɛkwɪ̌ːkɛ
 \ve Southern
+\ps n
 \sn
 \ge birthday
 \is 2.6.3
@@ -30856,9 +30856,9 @@
 
 \lx ɔkwɩɩpʋ
 \ph ɔkwɪ̌ːpʊ́
-\ps n
 \pl akwɩɩpʋ
 \plph akwɪ̌ːpʊ́
+\ps n
 \sn
 \ge parent
 \is 4.1.9.1.2
@@ -30924,9 +30924,9 @@
 
 \lx ɔlanka
 \ph ɔlaŋka(H)
-\ps n
 \pl nlanka
 \plph nlaŋka
+\ps n
 \sn
 \ge pot
 \is 5.2.1.3
@@ -30977,9 +30977,9 @@
 
 \lx ɔlɔ
 \ph ɔlɔ(H)
-\ps n
 \pl nlɔ
 \plph nlɔ(H)
+\ps n
 \sn
 \ge sore
 \is 2.5.2.2
@@ -30994,9 +30994,9 @@
 
 \lx ɔlɔ́
 \ph ɔlɔ́
-\ps n
 \pl nlɔ
 \plph nlɔ
+\ps n
 \sn
 \ge pot
 \is 6.6.2.4
@@ -31024,9 +31024,9 @@
 
 \lx ɔlɔpʋ
 \ph ɔlɔpʊ́
-\ps n
 \pl alɔpʋ
 \plph alɔpʊ́
+\ps n
 \sn
 \ge sick person
 \is 2.5.1
@@ -31038,9 +31038,9 @@
 
 \lx ɔlʋpʋ
 \ph ɔlʊpʊ́
-\ps n
 \pl alʋpʋ
 \plph alʊpʊ́
+\ps n
 \sn
 \ge weaver
 \is 6.6.1.4
@@ -31083,9 +31083,9 @@
 
 \lx ɔmá
 \ph ɔmá
-\ps n
 \pl ɔma-ɔma
 \plph ɔmá ɔmá
+\ps n
 \sn
 \ge nation
 \is 4.1.9
@@ -31111,9 +31111,9 @@
 
 \lx ɔma ɔlɩɩpʋ
 \ph ɔma ɔlɪ̌ːpʊ́
-\ps n
 \pl ɔma alɩɩpʋ
 \plph ɔma alɪ̌ːpʊ́
+\ps n
 \sn
 \ge supporter
 \is 4.3.4.5.1
@@ -31143,10 +31143,10 @@
 
 \lx ɔmagya
 \ph ɔmaʤâʔ
-\ps v
 \vad ɛmagya
 \vadph ɛmaʤâʔ
 \ve Southern
+\ps v
 \sn
 \ge follow
 \is 7.2.5.2
@@ -31174,9 +31174,9 @@
 
 \lx ɔmanti
 \ph ɔmanti(H)
-\ps n
 \pl m:anti
 \plph mːanti(H)
+\ps n
 \sn
 \ge neighbourhood
 \is 4.1.4
@@ -31197,9 +31197,9 @@
 
 \lx ɔmatoyin
 \ph ɔmátṍyĩ́ʔ
-\ps n
 \pl ɔmatɔfɔ
 \plph ɔmátɔ́fɔ
+\ps n
 \sn
 \ge pagan
 \is 4.9.7.7
@@ -31379,9 +31379,9 @@
 
 \lx ɔmlawɩ
 \ph ɔmláwɪ
-\ps n
 \pl mmlawɩ
 \plph mːláwɪ
+\ps n
 \sn
 \ge cloth
 \is 6.6.1.1
@@ -31548,9 +31548,9 @@
 
 \lx ɔnamba
 \ph ɔnambá
-\ps n
 \pl nnamba
 \plph nːambá
+\ps n
 \sn
 \ge sore
 \is 2.5.2.2
@@ -31562,9 +31562,9 @@
 
 \lx ɔnamplɔɩ
 \ph ɔnamplɔɪʔ(H)
-\ps n
 \pl nnamplɔɩ
 \plph nːamplɔɪʔ(H)
+\ps n
 \sn
 \ge sore
 \is 2.5.2.2
@@ -31575,12 +31575,12 @@
 
 \lx ɔnanku
 \ph ɔnaŋkûʔ
-\ps n
 \vad ɛnanku
 \vadph ɛnaŋkûʔ
 \ve Southern
 \pl nnanku
 \plph nːaŋkú
+\ps n
 \sn
 \ge heel
 \is 2.1.3.2
@@ -31592,9 +31592,9 @@
 
 \lx ɔnantswie
 \ph ɔnant͡swie(H)
-\ps n
 \pl nnantwie
 \plph nːantwie(H)
+\ps n
 \sn
 \ge cow
 \is 1.6.1.1.3
@@ -31634,9 +31634,9 @@
 
 \lx ɔnɩ
 \ph ɔ́nɪ
-\ps n
 \pl anɩ
 \plph ánɪ
+\ps n
 \sn
 \ge this person
 \is 9.2.3.5
@@ -31748,9 +31748,9 @@
 
 \lx ɔnɔ ɔlɩɩpʋ
 \ph ɔnɔ́ ɔlɪ̌ːpʊ́
-\ps n
 \pl ɔnɔ alɩɩpʋ
 \plph ɔnɔ́ alɪ̌ːpʊ́
+\ps n
 \sn
 \ge leader
 \is 4.5.1
@@ -31779,9 +31779,9 @@
 
 \lx ɔnɔkwalɩpʋ
 \ph ɔnɔkwalɪpʊ
-\ps n
 \pl anɔkwalɩpʋ
 \plph anɔkwalɪpʊ
+\ps n
 \sn
 \ge faithful person
 \is 4.3.5.2
@@ -31927,10 +31927,10 @@
 
 \lx ɔpablɩsʋ
 \ph ɔpablɪ́sʊ́
-\ps n
 \vad ɛpablɩsʋ
 \vadph ɛpablɪ́sʊ́
 \ve Southern
+\ps n
 \sn
 \ge noon
 \is 8.3.4
@@ -31983,9 +31983,9 @@
 \vad ɛpasua
 \vadph ɛpasua(H)
 \ve Southern
-\ps n
 \pl mpasua
 \plph mpasua(H)
+\ps n
 \sn
 \ge group
 \is 8.3.1.3
@@ -31996,10 +31996,10 @@
 
 \lx ɔpawisʋ
 \ph ɔpawísʊ́
-\ps n
 \vad ɛpawisʋ
 \vadph ɛpawísʊ́
 \ve Southern
+\ps n
 \sn
 \ge noon
 \is 8.4.1.2.3
@@ -32015,9 +32015,9 @@
 
 \lx ɔpayin
 \ph ɔpayĩʔ
-\ps n
 \pl apafɔ
 \plph apafɔ
+\ps n
 \sn
 \ge labourer
 \is 6.1.1
@@ -32032,9 +32032,9 @@
 
 \lx ɔpɛwa
 \ph ɔpɛwa(H)
-\ps n
 \pl mpɛwa
 \plph mpɛwa(H)
+\ps n
 \sn
 \ge chisel
 \is 6.6.3
@@ -32060,9 +32060,9 @@
 
 \lx ɔpɩm
 \ph ɔpɪ́m
-\ps NUM
 \pl mpɩm
 \plph mpɪ́m
+\ps NUM
 \sn
 \ge thousand
 \is 8.1.1.1
@@ -32138,9 +32138,9 @@
 
 \lx ɔpɔnkɔ
 \ph ɔpɔŋkɔ(H)
-\ps n
 \pl mpɔnkɔ
 \plph mpɔŋkɔ(H)
+\ps n
 \sn
 \ge horse
 \is 1.6.1.1.7
@@ -32176,9 +32176,9 @@
 
 \lx ɔprakuo
 \ph ɔprákuo(H)
-\ps n
 \pl mprakuo
 \plph mprákuo(H)
+\ps n
 \sn
 \ge pig
 \is 1.6.1.1.3
@@ -32196,9 +32196,9 @@
 
 \lx ɔprɩm
 \ph ɔprɪm
-\ps n
 \pl mprɩm
 \plph mprɪm
+\ps n
 \sn
 \ge cannon
 \is 4.8.3.7
@@ -32243,9 +32243,9 @@
 
 \lx ɔpʋnʋ
 \ph ɔpʊ́nʊ́
-\ps n
 \pl mpʋnʋ
 \plph mpʊ́nʊ́
+\ps n
 \sn
 \ge table
 \is 5.1.1.1
@@ -32278,9 +32278,9 @@
 
 \lx ɔsan
 \ph ɔsã(H)
-\ps n
 \pl nsan
 \plph nsãʔ(H)
+\ps n
 \sn
 \ge towel
 \is 5.6.2
@@ -32317,9 +32317,9 @@
 
 \lx ɔsapɔ
 \ph ɔsapɔ
-\ps n
 \pl nsapɔ
 \plph nsapɔ
+\ps n
 \sn
 \ge sponge
 \is 1.5.3
@@ -32381,11 +32381,11 @@
 
 \lx ɔsɩ
 \ph ɔsɪ́
-\ps n
 \vas sɩ
 \vasph sɪ
 \pl asɩ
 \plph asɪ́
+\ps n
 \sn
 \ge father
 \is 4.1.9.1.2
@@ -32399,9 +32399,9 @@
 
 \lx ɔsɩkɛtɛ
 \ph ɔsɪ́kɛ́tɛ
-\ps n
 \pl ansɩkɛtɛ
 \plph ansɪ́kɛ́tɛ
+\ps n
 \sn
 \ge eyelash
 \is 2.1.1.1
@@ -32414,9 +32414,9 @@
 
 \lx ɔsɩkunkun
 \ph ɔsɪ́kũŋkũ
-\ps n
 \pl ansɩkunkun
 \plph ansɪ́kũŋkũʔ
+\ps n
 \sn
 \ge eyebrow
 \is 2.1.1.1
@@ -32475,9 +32475,9 @@
 
 \lx ɔsɔfɔ
 \ph ɔsɔ́fɔ(H)
-\ps n
 \pl asɔfɔ
 \plph asɔ́fɔ(H)
+\ps n
 \sn
 \ge priest
 \is 4.9.7.1
@@ -32494,9 +32494,9 @@
 
 \lx ɔsɔhwɩɛ
 \ph ɔsɔ́hʷɪ́ɛ́
-\ps n
 \pl nsɔhwɩɛ
 \plph nsɔ́hwɪ́ɛ́
+\ps n
 \sn
 \ge trial
 \is 3.6.2
@@ -32522,9 +32522,9 @@
 
 \lx ɔsrɩpʋ
 \ph ɔsrɪ́pʊ́
-\ps n
 \pl asrɩpʋ
 \plph asrɪ́pʊ́
+\ps n
 \sn
 \ge runner
 \is 7.2.1.1.1
@@ -32599,9 +32599,9 @@
 
 \lx ɔsʋrapʋ
 \ph ɔsʊrapʊ
-\ps n
 \pl asʋrapʋ
 \plph asʊrapʊ
+\ps n
 \sn
 \ge widow
 \is 4.1.9.3
@@ -32614,9 +32614,9 @@
 
 \lx ɔsʋrapʋka
 \ph ɔsʊrapʊká
-\ps n
 \pl asʋrapʋka
 \plph asʊrapʊká
+\ps n
 \sn
 \ge widow's husband
 \is 4.1.9.3
@@ -32658,9 +32658,9 @@
 
 \lx ɔswɩ
 \ph ɔswɪ
-\ps n
 \pl nswɩ
 \plph nswɪ
+\ps n
 \sn
 \ge hearth
 \is 5.5.7
@@ -32675,9 +32675,9 @@
 
 \lx ɔtabʋ
 \ph ɔtabʊ(H)
-\ps n
 \pl ntabʋ
 \plph ntabʊ(H)
+\ps n
 \sn
 \ge oar
 \is 6.4.5.3
@@ -32692,9 +32692,9 @@
 \lx ɔtan
 \hm 1
 \ph ɔtãʔ(H)
-\ps n
 \pl ntan
 \plph ntãʔ
+\ps n
 \sn
 \ge cloth
 \is 5.3.4
@@ -32790,9 +32790,9 @@
 
 \lx ɔtapʋ
 \ph ɔtapʊ́
-\ps n
 \pl atapʋ
 \plph atapʊ́
+\ps n
 \sn
 \ge hunter
 \is 6.4.1
@@ -32808,9 +32808,9 @@
 
 \lx ɔtapʋ nyambi
 \ph ɔtapʊ́ ɲámbi
-\ps n
 \pl atapʋ nyambi
 \plph atapʊ́ ɲámbi
+\ps n
 \sn
 \ge hunter's servant
 \is 6.4.1
@@ -32821,9 +32821,9 @@
 
 \lx ɔtatibi
 \ph ɔtatibíʔ
-\ps n
 \pl ntatibi
 \plph ntatibíʔ
+\ps n
 \sn
 \ge loincloth
 \is 5.3.2
@@ -32851,9 +32851,9 @@
 \lx ɔtɛ
 \hm 2
 \ph ɔ́tɛ(L)
-\ps n
 \pl ntɛ
 \plph ntɛ
+\ps n
 \sn
 \ge ground squirrel
 \is 1.6.1.1.4
@@ -32902,12 +32902,12 @@
 
 \lx ɔtɩ
 \ph ɔtɪ(H)
-\ps n
 \vad ɛtɩ
 \vadph ɛtɪ(H)
 \ve Southern
 \pl ntɩ
 \plph ntɪ(H)
+\ps n
 \sn
 \ge hoe
 \is 6.2.8
@@ -32932,12 +32932,12 @@
 
 \lx ɔtɩnɛ
 \ph ɔtɪ́nɛ́
-\ps n
 \vad ɛtɩnɛ
 \vadph ɛtɪ́nɛ́
 \ve Southern
 \pl ntɩnɛ
 \plph ntɪ́nɛ́
+\ps n
 \sn
 \ge place
 \is 8.5
@@ -32962,9 +32962,9 @@
 
 \lx ɔtɔfɔ
 \ph ɔtɔ́fɔ
-\ps n
 \pl atɔfɔ
 \plph atɔ́fɔ
+\ps n
 \sn
 \ge accidental death
 \is 2.6.6
@@ -32976,9 +32976,9 @@
 
 \lx ɔtɔɩkplapʋ
 \ph ɔtɔɪ́k͡plápʊ́
-\ps n
 \pl atɔɩkplapʋ
 \plph atɔɪ́k͡plápʊ́
+\ps n
 \sn
 \ge Counsellor/ adviser
 \is 3.3.3.2
@@ -32989,9 +32989,9 @@
 
 \lx ɔtɔntrɔbwɩ
 \ph ɔtɔntrɔbwɪ(H)
-\ps n
 \pl ntɔntrɔbwɩ
 \plph ntɔntrɔbwɪ(H)
+\ps n
 \sn
 \ge ant
 \is 1.6.1.7
@@ -33042,9 +33042,9 @@
 
 \lx ɔtrapʋ
 \ph ɔtrá!pʊ́
-\ps n
 \pl atrapʋ
 \plph atrá!pʊ́
+\ps n
 \sn
 \ge Newly delivered woman
 \is 2.6.5.2
@@ -33070,9 +33070,9 @@
 \lx ɔtsabi
 \hm 1
 \ph ɔt͡sabi(L)
-\ps n
 \pl ntsabi
 \plph nt͡sabi
+\ps n
 \sn
 \ge small fish
 \is 1.6.1.5
@@ -33091,9 +33091,9 @@
 \lx ɔtsabi
 \hm 2
 \ph ɔt͡sabí(H)
-\ps n
 \pl ntsabi
 \plph nt͡sabí
+\ps n
 \sn
 \ge shelf
 \is 5.1.1.4
@@ -33107,9 +33107,9 @@
 
 \lx ɔtsakpa
 \ph ɔt͡sak͡pa
-\ps n
 \pl ntsakpa
 \plph nt͡sak͡pa
+\ps n
 \sn
 \ge brush-tailed porcupine
 \is 1.6.1.1.4
@@ -33219,9 +33219,9 @@
 
 \lx ɔtsɩ
 \ph ɔt͡sɪʔ(H)
-\ps n
 \pl atsɩ
 \plph at͡sɪʔ(H)
+\ps n
 \sn
 \ge woman
 \is 2.6.4.4
@@ -33236,9 +33236,9 @@
 
 \lx ɔtsɩamɩ
 \ph ɔt͡ʃɪámɪ(H)
-\ps n
 \pl ntsɩamɩ
 \plph nt͡ʃɪámɪ(H)
+\ps n
 \sn
 \ge linguist
 \is 4.6.1.2
@@ -33253,9 +33253,9 @@
 
 \lx ɔtsɩrɩbɩ
 \ph ɔt͡sɪrɪ́bɪ́ʔ
-\ps n
 \pl ntsɩrɩbɩ
 \plph nt͡sɪrɪ́bɪ́
+\ps n
 \sn
 \ge mamba
 \is 1.6.1.3.1
@@ -33279,9 +33279,9 @@
 
 \lx ɔtsɔpɩ
 \ph ɔt͡sɔpɪ́
-\ps n
 \pl ntsɔpɩ
 \plph nt͡sɔpɪ́
+\ps n
 \sn
 \ge idol
 \is 4.9.8.1
@@ -33329,9 +33329,9 @@
 
 \lx ɔtsrakpabi
 \ph ɔt͡srak͡pabiʔ
-\ps n
 \pl ntsrakpabi
 \plph nt͡srak͡pabiʔ
+\ps n
 \sn
 \ge star
 \is 1.1.1.2
@@ -33359,9 +33359,9 @@
 
 \lx ɔtsʋnkɩ
 \ph ɔt͡sʊ́ŋkɪ́
-\ps n
 \pl ntsʋnkɩ
 \plph nt͡sʊ́ŋkɪ́
+\ps n
 \sn
 \ge mosquito
 \is 1.6.1.7
@@ -33394,9 +33394,9 @@
 
 \lx ɔtswɩtswɩ
 \ph ɔt͡swɪ́t͡swɪ
-\ps n
 \pl ntswɩtswɩ
 \plph nt͡swɪ́t͡swɪ
+\ps n
 \sn
 \ge small bird
 \is 1.6.1.2
@@ -33407,9 +33407,9 @@
 
 \lx ɔtʋ
 \ph ɔtʊ(H)
-\ps n
 \pl ntʋ
 \plph ntʊ(H)
+\ps n
 \sn
 \ge ladle
 \is 5.2.1.3
@@ -33461,9 +33461,9 @@
 
 \lx ɔwankɩtɩ
 \ph ɔwãŋkɪtɪʔ
-\ps n
 \pl awankɩtɩ
 \plph awaŋkɪtɪ
+\ps n
 \sn
 \ge hawk
 \is 1.6.1.2
@@ -33478,9 +33478,9 @@
 
 \lx ɔwanpʋ
 \ph ɔwãmpʊ
-\ps n
 \pl nwanpʋ
 \plph ŋwãmpʊ
+\ps n
 \sn
 \ge hawk
 \is 1.6.1.2
@@ -33493,9 +33493,9 @@
 
 \lx ɔwantɩntsu
 \ph ɔwantɪnt͡sú
-\ps n
 \pl awantɩntsu
 \plph awantɪnt͡sú
+\ps n
 \sn
 \ge dragonfly
 \is 1.6.1.7
@@ -33658,9 +33658,9 @@
 
 \lx ɔwʋnlɩnpʋ
 \ph ɔwʊ̃nlɪ̃́pʊ́
-\ps n
 \pl awʋnlɩnpʋ
 \plph awʊnlɪ́npʊ́
+\ps n
 \sn
 \ge strong person
 \is 2.4.1
@@ -33674,9 +33674,9 @@
 
 \lx ɔyaa
 \ph ɔyǎː
-\ps INTJ
 \pl mlɩyaa
 \plph mlɪyǎː
+\ps INTJ
 \sn
 \ge greet AM
 \is 3.5.1.4.3
@@ -33688,9 +33688,9 @@
 
 \lx ɔyasubi
 \ph ɔyasubi(H)
-\ps n
 \pl nyasubi
 \plph ɲasubi(H)
+\ps n
 \sn
 \ge young man
 \is 2.6.4.3
@@ -33720,10 +33720,10 @@
 
 \lx ɔyɩ
 \ph ɔyɪ́
-\ps n
 \vad ɛyɩ
 \vadph ɛyɪ́
 \ve Southern
+\ps n
 \sn
 \ge world
 \is 1
@@ -33778,10 +33778,10 @@
 
 \lx ɔyɔɩ
 \ph ɔyɔ́ɪ
-\ps n
 \vad nkɔmbɔ
 \vadph ŋkɔmbɔ
 \ve Northern
+\ps n
 \sn
 \ge snare
 \is 6.4.2
@@ -33933,9 +33933,9 @@
 \lx papa
 \hm 2
 \ph pápá
-\ps n
 \pl apapa
 \plph apapa
+\ps n
 \sn
 \ge fan
 \is 1.1.2.1
@@ -33959,9 +33959,9 @@
 
 \lx pata
 \ph patá
-\ps n
 \pl apata
 \plph apatá
+\ps n
 \sn
 \ge shed
 \is 6.5.1.2
@@ -33976,9 +33976,9 @@
 
 \lx patɩ
 \ph paːtɪ(H)
-\ps n
 \pl apatɩ
 \plph apaːtɪ(H)
+\ps n
 \sn
 \ge pond
 \is 1.3.1.2
@@ -33990,9 +33990,9 @@
 
 \lx paya
 \ph páya
-\ps n
 \pl apaya
 \plph apáya
+\ps n
 \sn
 \ge avocado
 \is 1.5.1
@@ -34105,10 +34105,10 @@
 
 \lx pɛtɛplɛ
 \ph pɛ́tɛ́plɛ́
-\ps ADJ
 \vad pataplabi
 \vadph pátáplábi
 \ve Southern
+\ps ADJ
 \sn
 \ge flat
 \is 8.3.1.3.1
@@ -34186,9 +34186,9 @@
 
 \lx pilan
 \ph pilã́ʔ
-\ps v
 \vas plan
 \vasph plã́ʔ
+\ps v
 \sn
 \ge wound; hurt
 \is 2.5.3
@@ -34316,9 +34316,9 @@
 
 \lx pɩa
 \ph pɪ́a(H)
-\ps n
 \pl apɩa
 \plph apɪ́a
+\ps n
 \sn
 \ge spear
 \is 4.8.3.7
@@ -34701,9 +34701,9 @@
 
 \lx posoglo
 \ph posoglo(L)
-\ps n
 \pl aposoglo
 \plph aposoglo(L)
+\ps n
 \sn
 \ge wasp
 \is 1.6.1.7
@@ -34712,9 +34712,9 @@
 
 \lx potofi
 \ph potofi(H)
-\ps n
 \pl apotofi
 \plph apotofi
+\ps n
 \sn
 \ge quail
 \is 1.6.1.2
@@ -34864,9 +34864,9 @@
 
 \lx pɔpwɛ
 \ph pɔ́pwɛʔ(L)
-\ps ADJ
 \pl apɔpwɛ
 \plph apɔ́pwɛʔ(L)
+\ps ADJ
 \sn
 \ge new
 \is 8.4.6.5.3
@@ -34894,9 +34894,9 @@
 
 \lx prɛntʋa
 \ph prɛntʊa(H)
-\ps n
 \pl aprɛntʋa
 \plph aprɛntʊa(H)
+\ps n
 \sn
 \ge bottle
 \is 6.6.2.5
@@ -35394,10 +35394,10 @@
 
 \lx saa
 \ph sâːʔ
-\ps CNJ
 \vad sanya
 \vadph saɲa
 \ve Southern
+\ps CNJ
 \sn
 \ge unexpectedly
 \is 3.4.1.3
@@ -35432,9 +35432,9 @@
 
 \lx saɩklɩ
 \ph sáɪklɪʔ
-\ps n
 \pl asaɩklɩ
 \plph asáɪklɪ
+\ps n
 \sn
 \ge bicycle
 \is 7.2.4.1.1
@@ -35578,9 +35578,9 @@
 
 \lx sapʋrada
 \ph sá!pʊ́rádá
-\ps n
 \pl asapʋrada
 \plph asapʊrada
+\ps n
 \sn
 \ge onion
 \is 1.5.3
@@ -35638,9 +35638,9 @@
 
 \lx sawun
 \ph sawũʔ
-\ps n
 \pl asawun
 \plph asáwũ̂ʔ
+\ps n
 \sn
 \ge tortoise
 \is 1.6.1.3.3
@@ -35720,9 +35720,9 @@
 
 \lx sɛbɛ
 \ph sɛ́bɛ
-\ps n
 \pl asɛbɛ
 \plph asɛ́bɛ
+\ps n
 \sn
 \ge amulet
 \is 4.9.7.3
@@ -35958,9 +35958,9 @@
 
 \lx sienɔ
 \ph sienɔ́
-\ps NUM
 \va nsienɔ
 \vaph nsienɔ́
+\ps NUM
 \sn
 \ge seven
 \is 8.1.1.1
@@ -36145,9 +36145,9 @@
 
 \lx sisa
 \ph sisaʔ
-\ps n
 \pl asisa
 \plph asísa
+\ps n
 \sn
 \ge housefly
 \is 1.6.1.7
@@ -36236,9 +36236,9 @@
 
 \lx sɩmpʋa
 \ph sɪmpʊa
-\ps n
 \va ɔnantswie sɩmpʋa
 \vaph ɔnant͡swie sɪmpʊa
+\ps n
 \sn
 \ge boil
 \is 2.5.2.2
@@ -36304,9 +36304,9 @@
 
 \lx sogyayin
 \ph soʤayĩʔ
-\ps n
 \pl asogyafɔ
 \plph asoʤafɔ
+\ps n
 \sn
 \ge soldier
 \is 4.8.3.6.4
@@ -36488,9 +36488,9 @@
 
 \lx srʋfɔ
 \ph srʊ́fɔ́
-\ps n
 \pl asrʋfɔ
 \plph asrʊ́fɔ́
+\ps n
 \sn
 \ge elephant
 \is 1.6.1.1.3
@@ -36609,9 +36609,9 @@
 
 \lx suma
 \ph suma
-\ps n
 \pl asuma
 \plph asuma
+\ps n
 \sn
 \ge juju
 \is 4.9.7.7
@@ -36624,9 +36624,9 @@
 
 \lx sumbi
 \ph sumbí
-\ps n
 \pl asumbi
 \plph asumbí
+\ps n
 \sn
 \ge errand
 \is 4.5.4.3
@@ -36643,9 +36643,9 @@
 
 \lx sumbi ɔyɔpʋ
 \ph sumbí ɔyɔpʊ́
-\ps n
 \pl sumbi ayɔpʋ
 \plph sumbí ayɔpʊ́
+\ps n
 \sn
 \ge errand runner
 \is 4.5.4.3
@@ -36860,10 +36860,10 @@
 
 \lx sʋn
 \ph sʊ̃
-\ps v
 \vad sʋ
 \vadph sʊ
 \ve Northern
+\ps v
 \sn
 \ge carry
 \is 7.3.1
@@ -37004,9 +37004,9 @@
 
 \lx sʋrama
 \ph sʊramá
-\ps n
 \pl asʋrama
 \plph asʊramá
+\ps n
 \sn
 \ge wasp
 \is 1.6.1.7
@@ -37018,9 +37018,9 @@
 \lx sʋsʋpʋ
 \hm 1
 \ph sʊsʊ́pʊ
-\ps ADJ
 \pl asʋsʋpʋ
 \plph asʊsʊ́pʊ
+\ps ADJ
 \sn
 \ge upper
 \is 8.5.2.4
@@ -37289,9 +37289,9 @@
 
 \lx tabi
 \ph tabíʔ
-\ps n
 \pl atabi
 \plph atabíʔ
+\ps n
 \sn
 \ge twin
 \is 4.1.9.1.3
@@ -37427,9 +37427,9 @@
 
 \lx tanibi
 \ph tanibiʔ
-\ps n
 \pl atanibi
 \plph atanibiʔ
+\ps n
 \sn
 \ge cowry
 \is 1.6.2.5
@@ -37522,9 +37522,9 @@
 
 \lx tasii
 \ph tásǐː
-\ps n
 \pl atasii
 \plph atásǐː
+\ps n
 \sn
 \ge aunt
 \is 2.6.5.2
@@ -37537,9 +37537,9 @@
 
 \lx tati
 \ph tati(H)
-\ps n
 \pl atati
 \plph atati(H)
+\ps n
 \sn
 \ge cloth
 \is 5.3.1
@@ -37561,9 +37561,9 @@
 
 \lx tatida
 \ph tatida
-\ps n
 \pl atatida
 \plph atatida
+\ps n
 \sn
 \ge rag
 \is 6.6.1.1
@@ -37647,13 +37647,13 @@
 
 \lx tɛ-
 \ph tɛ-
-\ps TAM
 \vaa te-
 \vaaph te-
 \vaa tɔ-
 \vaaph tɔ-
 \vaa to-
 \vaaph to-
+\ps TAM
 \sn
 \ge HAB
 \is 9.4.1.2
@@ -37725,9 +37725,9 @@
 
 \lx tɛplɛ
 \ph tɛ̂plɛ̌ʔ
-\ps n
 \pl atɛplɛ
 \plph atɛ̂plɛ̌ʔ
+\ps n
 \sn
 \ge cockroach
 \is 1.6.1.7
@@ -37817,9 +37817,9 @@
 
 \lx tiapʋ
 \ph tiapʊ
-\ps n
 \pl atiapʋ
 \plph atíápʊ
+\ps n
 \sn
 \ge antelope
 \is 1.6.1.1.3
@@ -37901,9 +37901,9 @@
 
 \lx timbi
 \ph tímbi
-\ps n
 \pl atimbi
 \plph atímbi
+\ps n
 \sn
 \ge tribal mark
 \is 5.4.6
@@ -38306,11 +38306,11 @@
 
 \lx tomantosi
 \ph tomántosi
-\ps n
 \va ntose
 \vaph ntose
 \va tɔmantɔsɩ
 \vaph tɔmántosi
+\ps n
 \sn
 \ge tomatoes
 \is 1.5.3
@@ -38560,9 +38560,9 @@
 \lx tɔsɩ
 \hm 2
 \ph tɔsɪʔ(L)
-\ps n
 \pl atɔsɩ
 \plph atɔ́sɪ̂ʔ(L)
+\ps n
 \sn
 \ge caterpillar
 \is 1.6.1.9
@@ -38707,9 +38707,9 @@
 
 \lx trʋkpa
 \ph trʊk͡pa(H)
-\ps n
 \pl atrʋkpa
 \plph atrʊk͡pa(H)
+\ps n
 \sn
 \ge billy goat
 \is 1.6.1.1.3
@@ -38802,9 +38802,9 @@
 
 \lx tsakoto
 \ph t͡sákoto
-\ps n
 \pl atsakoto
 \plph at͡sákoto
+\ps n
 \sn
 \ge underwear
 \is 5.3
@@ -38817,9 +38817,9 @@
 \lx tsala
 \hm 1
 \ph t͡salaʔ(L)
-\ps n
 \pl atsala
 \plph at͡sala
+\ps n
 \sn
 \ge old farm
 \is 6.2.9
@@ -38864,9 +38864,9 @@
 
 \lx tsamboyi
 \ph t͡sámboyí
-\ps n
 \pl atsamboyi
 \plph at͡sámboyí
+\ps n
 \sn
 \ge civet cat
 \is 1.6.1.1.2
@@ -38974,9 +38974,9 @@
 
 \lx tsantsankʋ
 \ph t͡sant͡saŋkʊ
-\ps n
 \pl atsantsankʋ
 \plph at͡sant͡saŋkʊ
+\ps n
 \sn
 \ge locust
 \is 1.6.1.7
@@ -39057,9 +39057,9 @@
 
 \lx tsebi
 \ph t͡sébi(L)
-\ps n
 \pl atsebi
 \plph at͡sébi(L)
+\ps n
 \sn
 \ge kidney
 \is 2.1.8
@@ -39303,9 +39303,9 @@
 
 \lx tsianɩ
 \ph tsianɪ̌ʔ
-\ps INTJ
 \pl tsiamlɩnɩ
 \plph tsiamlɪnɪ̌ʔ
+\ps INTJ
 \sn
 \ge greet PM
 \is 3.5.1.4.3
@@ -39314,9 +39314,9 @@
 
 \lx tsiatɔ
 \ph t͡siátɔ́ʔ(L)
-\ps n
 \vas itsiatɔ
 \vasph it͡siátɔ́ʔ(L)
+\ps n
 \sn
 \ge behaviour
 \is 9.1.2
@@ -39450,9 +39450,9 @@
 
 \lx tsingbini
 \ph t͡siŋ͡mg͡bini
-\ps n
 \pl atsingbini
 \plph at͡siŋ͡mg͡bini
+\ps n
 \sn
 \ge snake
 \is 1.6.1.3.1
@@ -39566,9 +39566,9 @@
 \lx tsitsi
 \hm 3
 \ph t͡sit͡siʔ
-\ps n
 \pl atsitsi
 \plph at͡sit͡si
+\ps n
 \sn
 \ge source
 \is 9.5.1.6.1
@@ -39855,9 +39855,9 @@
 
 \lx tsufɛ
 \ph t͡súfɛ́
-\ps CNJ
 \vas tsufɛsɛ
 \vasph t͡súfɛ́sɛ̂ʔ
+\ps CNJ
 \sn
 \ge because
 \is 9.6.2.5
@@ -39908,9 +39908,9 @@
 
 \lx tsukʋlɛ osinpʋ
 \ph t͡sukʊlɛ osínpʊ
-\ps n
 \pl tsukʋlɛ asinpʋ
 \plph t͡sukʊlɛ asínpʊ
+\ps n
 \sn
 \ge invalid
 \is 2.5.4
@@ -40345,9 +40345,9 @@
 
 \lx tukuriibi
 \ph túkúríːbi
-\ps ADJ
 \pl atukuribi
 \plph atúkúríbi
+\ps ADJ
 \sn
 \ge tiny
 \is 8.2.1
@@ -40375,9 +40375,9 @@
 
 \lx tuntu
 \ph tuntu
-\ps n
 \pl atuntu
 \plph atuntu
+\ps n
 \sn
 \ge round fruit
 \is 5.2.3.1.2
@@ -40532,9 +40532,9 @@
 
 \lx tʋnkpa
 \ph tʊŋ͡mk͡pa(H)
-\ps n
 \pl atʋnkpa
 \plph atʊŋ͡mk͡pa(H)
+\ps n
 \sn
 \ge itchy vine
 \is 1.5.3
@@ -40557,9 +40557,9 @@
 
 \lx vunvun
 \ph vũvũ̂ʔ
-\ps n
 \pl avunvun
 \plph avṹvũ̂ʔ
+\ps n
 \sn
 \ge wasp
 \is 1.6.1.7
@@ -40819,9 +40819,9 @@
 
 \lx waɩnbi
 \ph waɪnbi(H)
-\ps n
 \pl awaɩnbi
 \plph awaɪnbi
+\ps n
 \sn
 \ge palm branch
 \is 1.5.1
@@ -40898,9 +40898,9 @@
 
 \lx wanklaan
 \ph wãŋklã́ː
-\ps ADJ
 \pl awanklaan
 \plph awãŋklã́ː
+\ps ADJ
 \sn
 \ge fine
 \is 8.3.7
@@ -40933,9 +40933,9 @@
 \lx wanlɩn
 \hm 2
 \ph wanlɪ̃ʔ(H)
-\ps n
 \pl awanlɩn
 \plph awanlɪ̃ʔ(H)
+\ps n
 \sn
 \ge guineafowl
 \is 1.6.1.2
@@ -41421,9 +41421,9 @@
 
 \lx wulu
 \ph wúluʔ
-\ps n
 \pl awulu
 \plph awúluʔ
+\ps n
 \sn
 \ge town
 \is 4.6.7.2
@@ -41732,9 +41732,9 @@
 
 \lx wʋlʋ
 \ph wʊlʊʔ
-\ps n
 \pl awʋlʋ
 \plph awʊ́lʊʔ
+\ps n
 \sn
 \ge tsetse fly
 \is 1.6.1.7
@@ -41769,9 +41769,9 @@
 
 \lx wʋnsa
 \ph wʊnsaʔ
-\ps n
 \pl awʋnsa
 \plph awʊ́nsâʔ
+\ps n
 \sn
 \ge bee
 \is 1.6.1.7
@@ -41892,9 +41892,9 @@
 
 \lx yabi
 \ph yabi(H)
-\ps n
 \pl ayabi
 \plph ayabi
+\ps n
 \sn
 \ge foot; leg
 \is 2.1.3.2
@@ -41940,8 +41940,8 @@
 
 \lx Yao
 \ph yao
-\ps PropN
 \vas Yaw
+\ps PropN
 \sn
 \ge Yao
 \is 8.4.1.3.1
@@ -42012,9 +42012,9 @@
 
 \lx yebi
 \ph yébíʔ(L)
-\ps n
 \pl ayebi
 \plph ayébi
+\ps n
 \sn
 \ge proverb
 \is 3.5.2.3
@@ -42056,13 +42056,13 @@
 \lx yɛ-
 \hm 2
 \ph yɛ́-
-\ps AUX
 \vaa ye-
 \vaaph ye-
 \vaa yɔ-
 \vaaph yɔ-
 \vaa yo-
 \vaaph yo-
+\ps AUX
 \sn
 \ge go to
 \is 3.3.1.1
@@ -42308,9 +42308,9 @@
 \lx -yin
 \hm 2
 \ph -yĩʔ
-\ps NOMR
 \pl -fɔ
 \plph -fɔ
+\ps NOMR
 \sn
 \ge Xer
 \is 4.6.2
@@ -42332,10 +42332,10 @@
 
 \lx Yinke
 \ph yiŋké
-\ps TIME
 \vad Ɩpwɛ Ɔdɛkɛtrakɛ
 \vadph ɪpʷɛ odekeyikɛ
 \ve Southern
+\ps TIME
 \sn
 \ge Third day
 \is 4.9.7.7
@@ -42426,9 +42426,9 @@
 
 \lx yinti
 \ph yinti(H)
-\ps n
 \pl ayinti
 \plph ayinti(H)
+\ps n
 \sn
 \ge stump
 \is 1.5.1
@@ -42464,9 +42464,9 @@
 \lx yiyi
 \hm 1
 \ph yiyí(H)
-\ps n
 \pl ayiyi
 \plph ayiyí(H)
+\ps n
 \sn
 \ge shadow
 \is 8.3.3.2.1
