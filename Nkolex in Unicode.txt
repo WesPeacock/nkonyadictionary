@@ -1422,7 +1422,8 @@
 \is 6.1
 \is 6.1.2.3
 \de someone who is working
-\dt 27/Jul/2017
+\ctyp _Compound_
+\dt 01/Sep/2017
 
 \lx agywama
 \ph aʤwama(H)
@@ -3829,12 +3830,12 @@
 \is 1.5.4
 \is 6.2.5.3
 \de black mushroom
-\ng _Compound_
+\ctyp _Compound_
 \xv Atsulii bibi tɔkwɛ oyi plɔhɛsʋ. Ɩlebi. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ, tsufɛ igyi putuputu. Mʋ́ oputsu bʋ ɔdwɛ.
 \xe Black mushrooms grow in rotting trees, They are black. You can grind them and put them in soup. Their soup is sweet.
 \nt roots not in the tree but around it. -FO
 \rf Tape:1-2-186
-\dt 27/Jul/2017
+\dt 01/Sep/2017
 
 \lx atsʋnlɛ
 \ph at͡sʊ́nlɛ
@@ -5287,12 +5288,13 @@
 \ps n
 \ge joke
 \de a joke
+\ctyp _Derivative_
 \cf -bi
 \xv Nemli blɩbi dɩnka amʋ́ ɔnɔsʋ.
 \xl I have changed into a joke on their mouths
 \xe People make sport of me.
 \nq check this
-\dt 31/Jul/2017
+\dt 04/Sep/2017
 
 \lx blɩ
 \hm 2
@@ -7171,10 +7173,11 @@
 \is 1.5.4
 \is 6.2.5.3
 \de monkey ear mushroom
+\ctyp _Compound_
 \rf Tape:1-2-178
 \xv Deyi asʋ tɔkwɛ oyi plɔhɛsʋ. Fɛtalɩ kwɛ mʋ́ wa oputsutɔ. Igyi putuputu, ɩlofuli. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
 \xe Monkey ears grows in rotten trees. You can grind it and put it in soup. It is small and white. It is sweet in palm nut soup.
-\dt 27/Jul/2017
+\dt 01/Sep/2017
 
 \lx dɛ
 \hm 1
@@ -9321,7 +9324,7 @@
 \is 8.4.6.1.4
 \de until
 \ctyp Phrasal_Verb
-\dt 12/Jun/2017
+\dt 01/Sep/2017
 
 \lx fʋnaa
 \ph fʊ́naː
@@ -11791,17 +11794,14 @@
 \xe If your rib breaks and you don't take care, you will die.
 \se awutɔ
 \ps n
-\ge bones
-\is 2.1.6
-\sn 2
-\ps n
 \ge health
 \is 2.4
 \de the condition of inner health
 \cf -tɔ 2
 \ctyp _Compound_
+\nt Add sense of ́boneś after import into FLEx
 \bb SIL-AWL:0075
-\dt 27/Jul/2017
+\dt 01/Sep/2017
 
 \lx iyabwi
 \ph iyabwi (H)
@@ -15862,14 +15862,13 @@
 \is 5.2.2.9
 \de to fast; go without food
 \ctyp Phrasal_Verb
-\ctyp _Compound_
 \sn 4
 \ps vt
 \ge bind spiritually
 \is 4.9.4.1
 \is 4.9.7.7
 \de to use magic to bind someone spiritually
-\dt 16/Jul/2017
+\dt 01/Sep/2017
 
 \lx klɩhɛ
 \ph klɪhɛ
@@ -19189,11 +19188,11 @@
 \ge soothsayer
 \is 4.9.4.7
 \de a person who practice soothsaying
-\ng _Compound_
+\ctyp _Compound_
 \xv Oyin ɔkʋ lawun isuna ánɩ́ omonu mʋ́ asɩ, sʋ ɔyɔ atɔ ɔlapʋ woyi yɛfɩtɛ atɔ.
 \xe A certain man has seen a sign which he did not understand, so he is going to a soothsayer's house to consult him.
 \cf atɔ owunpʋ
-\dt 27/Jul/2017
+\dt 01/Sep/2017
 
 \lx la-
 \hm 3
@@ -24091,6 +24090,7 @@
 \is 7.3.6.1
 \is 8.1.5.6
 \de partially close the door
+\ctyp Complex_Form
 \rf Tape:5-1-497
 \se nya ɔblɔ
 \ctyp Phrasal_Verb
@@ -24112,7 +24112,7 @@
 \de to start; used as the first verb in a serial verb construction to start doing
 \xv Benya wun mʋ alɩ, ...
 \xe When they noticed him doing that, ...
-\dt 10/Feb/2017
+\dt 01/Sep/2017
 
 \lx nya ɩwɩ
 \ph ɲá ɪwɪ
@@ -29539,8 +29539,7 @@
 \is 2.3.3
 \de tasteless
 \ctyp _Compound_
-\se .
-\dt 27/Jul/2017
+\dt 01/Sep/2017
 
 \lx ɔdwɛla
 \ph ɔdʷɛlá
@@ -31391,8 +31390,8 @@
 \cf mla
 \cf ɩwɩ
 \cf tati
-\cf oyipɛɛ tati
-\dt 07/Dec/2016
+\cf oyipɛ tati
+\dt 30/Aug/2017
 
 \lx ɔmlɛn
 \ph ɔmlɛ̃
@@ -32274,7 +32273,13 @@
 \xv Nyankpʋ tswie brɛ a, ɩfa tɔwa ɔsa kɔkwɛ dʋbɩ.
 \xe In Rainy season weeds grow too quickly.
 \bb Stewart List:1429
-\dt 28/Jan/2017
+\se wa ɔsa
+\ps v
+\ge hurrry
+\is 8.4.8.1
+\de to hurry
+\ctyp Phrasal_Verb
+\dt 30/Aug/2017
 
 \lx ɔsan
 \ph ɔsã(H)
@@ -35567,14 +35572,13 @@
 \ge cobra
 \is 1.6.1.3.1
 \de spitting cobra; probably black-necked spitting cobra, perhaps Mali cobra
-\sc Naja nigricollis
-\sc Naja katiensis
+\sc Naja nigricollis or Naja katiensis
 \xv Bɛɛ, "Bɛɛ" (ɩbɛ); "Sapa" mʋ́ tamaba.
 \xl They say, "Viper", "Cobra" will never come.
 \xe They blame the innocent for the work of the guilty.
 \xv Sapa tɔwa aha atsʋnɔ.
 \xe Cobra's spit at people.
-\dt 25/Jul/2017
+\dt 30/Aug/2017
 
 \lx sapʋrada
 \ph sá!pʊ́rádá
