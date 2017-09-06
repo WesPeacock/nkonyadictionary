@@ -1,7 +1,7 @@
 [se2lx]
 ; Todo change se2lx.pl to
 ;     put the regexes that terminate the \se entries here
-[hackFWvariants]
+[hackFWvariants1]
 infilename=NkTest.fwdata
 outfilename=NkTest.1.fwdata
 modeltag=Model Compound
