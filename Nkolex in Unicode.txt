@@ -4870,14 +4870,14 @@
 \de black
 \cf bi
 \cf REDUP 1
-\ctyp _Derivative_
+\ctyp Derivative
 \rf Tape:1-2-439
 \xv Kwankwadabi ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe The crow's back is black, it's chest is white.
 \xv Klankpa ɔma igyi bibi, mʋ kantɔ igyi fututu.
 \xe The crow's back is black, it's chest is white.
 \bb Stewart List:1682
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx bie
 \ph bieʔ(L)
@@ -5811,8 +5811,8 @@
 \is 8.1.3.1
 \de shaking very much
 \cf REDUP1
-\ctyp _Derivative_
-\dt 27/Jul/2017
+\ctyp Derivative
+\dt 05/Sep/2017
 
 \lx brigyi
 \ph briʤi
@@ -6369,13 +6369,13 @@
 \is 4.8.2.8
 \de to force a small girl to have sex
 \cf tswɩ
-\ctyp Phrasal_Verb
+\ctyp Phrasal Verb
 \nq does bʋnda have meaning?
 \xv Oyin amʋ lɔtswɩ kebi amʋ bʋnda nɩ.
 \xe That man raped the child.
 \xv Nɩ fʋ meyin fɔ́tswɩ ɔkʋ mʋ bi bʋnda a, aban ɔbɔwa fʋ obu nfi du.
 \xe If you don't know and you rape somebody's child, the government will jail you for ten years.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx bʋnkpa
 \ph bʊŋ͡mk͡pa(H)
@@ -7424,7 +7424,7 @@
 \is 5.7.1
 \de to sleep
 \cf dɩ
-\ctyp _Derivative_
+\ctyp Derivative
 \cf REDUP 1
 \rf Tape:2-1-327
 \xv Alamwɛ, sʋ aladɩdɩ.
@@ -7441,7 +7441,7 @@
 \de sleep through something
 \is 5.7
 \ctyp Phrasal_Verb
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx dɩdɩ
 \hm 2
@@ -11057,10 +11057,10 @@
 \ge cave
 \is 1.2.1.5
 \de cave
-\ctyp _Compound_
+\ctyp Compound
 \xv Abrɛ amʋ bʋ ibwi alatɔ ɩnʋ.
 \xe The antelope is in the cave.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx ibwi ɔbɔtɔ
 \ph ibwi ɔbɔtɔ
@@ -11069,8 +11069,8 @@
 \ge cave
 \is 1.2.1.5
 \de cave
-\ctyp _Compound_
-\dt 27/Jul/2017
+\ctyp Compound
+\dt 05/Sep/2017
 
 \lx idu
 \ph idúʔ
@@ -11833,6 +11833,13 @@
 \cf iye ɔlɛpʋ
 \bb Stewart List:0028
 \bb SIL-AWL:0089
+\se iye ɔlɛpʋ
+\ph iye ɔlɛpʊ́
+\ps n
+\ge fisherman
+\is 6.4.5.1
+\de fisherman
+\ctyp _Compound_
 \sn 2
 \ps n
 \ge meat
@@ -11844,7 +11851,7 @@
 \xe If you talk about a case, a similar case will occur
 \na You should not speak about bad news lest it happen to you.
 \nt proverb
-\dt 16/Jul/2017
+\dt 05/Sep/2017
 
 \lx iye
 \hm 2
@@ -11856,16 +11863,6 @@
 \is 3.5.1.1.1
 \de exclamation of surprise
 \dt 20/Sep/2016
-
-\lx iye ɔlɛpʋ
-\ph iye ɔlɛpʊ́
-\sn
-\ps n
-\ge fisherman
-\is 6.4.5.1
-\de fisherman
-\ctyp _Compound_
-\dt 27/Jul/2017
 
 \lx iyin
 \ph iɲĩ́ʔ
@@ -12252,18 +12249,6 @@
 \bb Stewart List:1010
 \dt 15/Sep/2016
 
-\lx ɩbʋsʋ fla
-\ph ɪbʊsʊ fla(H)
-\sn
-\ps n
-\ge vine
-\is 1.5.3
-\de forest vine that grows on the mountain
-\ctyp _Compound_
-\xv Ɩbʋsʋ fla, Ɩbʋsʋ itekle tsia. Ɩbʋ ɔlɩn ha atɔ klɩ.
-\xe It is mainly on the mountains. It is very strong for tying things.
-\dt 27/Jul/2017
-
 \lx ɩbʋta
 \ph ɪbʊtá
 \vas bʋta
@@ -12442,11 +12427,17 @@
 \rf Tape:2-2-546
 \xv Lɛ ifla ba mɩampʋ klɩ mɩ ngya amʋ ya bu asɩ.
 \xe Remove a vine and bring it to me so I can tie up my firewood and bring it to my farm hut.
-\dt 04/Jan/2017
-
-\lx ɩfla pɛpɛ
+\se ɩbʋsʋ fla
+\ph ɪbʊsʊ fla(H)
+\ps n
+\ge vine
+\is 1.5.3
+\de forest vine that grows on the mountain
+\ctyp _Compound_
+\xv Ɩbʋsʋ fla, Ɩbʋsʋ itekle tsia. Ɩbʋ ɔlɩn ha atɔ klɩ.
+\xe It is mainly on the mountains. It is very strong for tying things.
+\se ɩfla pɛpɛ
 \ph ɪfla pɛpɛʔ
-\sn
 \ps n
 \ge vine
 \is 1.5.3
@@ -12454,7 +12445,7 @@
 \ctyp _Compound_
 \xv Ɩfla pɛpɛ a, mʋ́ wɩ lɛpɛ. Ɩbʋ alɛ ha atɔ klɩ.
 \xe Red vines are red. They are good for tying things.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx ɩflɛ
 \ph ɪflɛ́ʔ
@@ -12512,6 +12503,14 @@
 \is 8.1.1.6
 \is 8.1.6.1
 \de half
+\se ɩfʋntɔ fʋn
+\ph ɪfʊ̃ntɔfʊ̃
+\ps n
+\ge quarter
+\is 8.1.1.6
+\is 8.1.6.1
+\de quarter
+\ctyp _Compound_
 \sn 3
 \ps n
 \ge side
@@ -12530,7 +12529,7 @@
 \ge direction
 \is 8.5.2
 \de a certain direction
-\dt 10/Feb/2017
+\dt 05/Sep/2017
 
 \lx ɩfʋnka
 \ph ɪ
@@ -12548,17 +12547,6 @@
 \xv Ɩfʋnka lɛpɛ, ɩfʋnka ɛ lebi.
 \xe One side is red and the other is black.
 \dt 14/Jun/2017
-
-\lx ɩfʋntɔ fʋn
-\ph ɪfʊ̃ntɔfʊ̃
-\sn
-\ps n
-\ge quarter
-\is 8.1.1.6
-\is 8.1.6.1
-\de quarter
-\ctyp _Compound_
-\dt 27/Jul/2017
 
 \lx ɩfwɩ
 \ph ɪfwɪ (H)
@@ -12650,10 +12638,10 @@
 \ge grass
 \is 1.5.3
 \de red grass
-\ctyp _Compound_
+\ctyp Compound
 \xv Bʋtɔpʋ ɩka pɛpɛ bwɛ afa.
 \xe The red grass is used for medicine.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx ɩka wɩhɛ
 \ph ɪka wɪhɛ́ʔ
@@ -12662,7 +12650,7 @@
 \ge sugar cane
 \is 6.2.1.5.1
 \de sugar cane
-\ctyp _Compound_
+\ctyp Compound
 \rf Tape:2-2-571
 \xv Ka fʋ kawɩhɛ amʋ ɩkʋ ha mɩ anwɩ.
 \xe Cut some of your sugar cane for me to chew.
@@ -12671,7 +12659,7 @@
 \rf Tape:2-2-573
 \xv Ɩka wɩhɛ bʋtɔpʋ bwɛ asikre.
 \xe We used sugar cane to make sugar.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx ɩkan
 \ph ɪkã
@@ -12879,7 +12867,16 @@
 \xe The things you said I should do, I made, I made all but I missed one.
 \cf tsukʋlɛ
 \bb Stewart List:1801
-\dt 24/Jul/2017
+\se kua kʋlɛ
+\ph kua kʊlɛ
+\ps ADJ
+\ge single
+\is 8.1.1.1.1
+\de just one
+\ctyp _Compound_
+\xv Fɩtɛ asʋn kua kʋlɛ.
+\xe Ask just one question.
+\dt 05/Sep/2017
 
 \lx ɩkʋtʋ
 \ph ɪkʊtʊ
@@ -12956,7 +12953,7 @@
 \is 9.7.2.9
 \de beside the Volta river
 \ctyp _Compound_
-\dt 10/Feb/2017
+\dt 05/Sep/2017
 
 \lx ɩlɩn
 \hm 2
@@ -13102,11 +13099,11 @@
 \ge because
 \is 9.6.2.5
 \de because
-\ctyp _Compound_
+\ctyp Compound
 \rf Tape:3-1-069
 \xv Ɩna mbwɩ aye amʋʋ alawɩ amʋ sʋ a, alamwɛ.
 \xe Because of the animal meat he has eaten, he has become satisfied.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx ɩnɩ
 \ph ɪ́!nɪ́
@@ -13516,7 +13513,7 @@
 \ge punishment
 \is 4.7.7
 \de to use, or treat badly for doing something wrong
-\ctyp _Compound_
+\ctyp Compound
 \xv Kwasi lɛsin ɔma yɔ sukuu sʋ, alanya ɩsʋbɩtɩ.
 \xe Kwasi was late to school so, he has received a punishment.
 \xv Nɩ fɔ́bwɛ lakpan a, fʋtenya sʋbɩtɩ.
@@ -13524,7 +13521,7 @@
 \rf Tape:3-1-182
 \xv Ɩsʋbɩtɩ dɩn fʋsʋ.
 \xe The punishment is on you; it's your own fault.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx ɩsʋgyi
 \ph ɪsʊʤíʔ
@@ -15210,12 +15207,12 @@
 \ge see whether
 \is 9.4.5
 \de to see whether
-\ctyp Phrasal_Verb
+\ctyp Phrasal Verb
 \lt look and say
 \xv Kɩ bɛɛ iye bʋ biasʋ, afʋ bɛbla mɩ.
 \xe See whether there is fish in the market so that you should tell me.
 \rf Tape:3-2-001
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx kɩ ɔkpa
 \ph kɪ ɔk͡pa(H)
@@ -15243,11 +15240,11 @@
 \is 4.3.4.5.2
 \is 6.1.2.2.5
 \de to care for something
-\ctyp Phrasal_Verb
+\ctyp Phrasal Verb
 \rf Tape:3-1-580
 \xv Bɛlɛ owie pɔpwɛ amʋ obitɛpʋ odua ɔbɛ́kɩ mʋsʋ.
 \xe They will take the new chief to his mother's brother that will look after him.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx kɩaɩ
 \ph kɪaɪʔ
@@ -16287,7 +16284,51 @@
 \xv Nɩ ɩkɔ dɛ fʋ a, natɩ yɔ oyisʋ.
 \xe If you need to defecate, then go to the toilet.
 \bb Stewart List:2050
-\dt 24/May/2017
+\se yɔtswɩ oyi bibi tsitsa
+\ph yɔtswɪ oyí bíbi tsitsá
+\ps v
+\ge defecate
+\is 2.2.8
+\de to go to defecate
+\lt go throw a black stick
+\ue Euphemism
+\ctyp _Idiom_
+\se yɔ owie woyi
+\ph yɔ́ʔ owíêʔ wóyí
+\ps v
+\ge defecate
+\is 2.2.8
+\de to go to defecate
+\lt go to the chief's house
+\ue Euphemism
+\ctyp _Idiom_yɔ oyisʋ
+\ph yɔ́ʔ oyísʊ
+\ps v
+\ge defecate
+\is 2.2.8
+\de to go to defecate
+\lt go on top of a log
+\ue Euphemism
+\ctyp _Idiom_
+\se yesi ayabi ɔkpa
+\ph yesi ayabi ɔkpa
+\ps v
+\ge defecate
+\is 2.2.8
+\de to go to defecate
+\lt go to see the legs off
+\ue Euphemism
+\ctyp _Idiom_
+\se yɔ ɔkpatɔ
+\ph yɔ́ʔ ɔkpatɔ
+\ps v
+\ge defecate
+\is 2.2.8
+\de to go to defecate
+\lt go on the path
+\ue Euphemism
+\ctyp _Idiom_
+\dt 05/Sep/2017
 
 \lx kɔ
 \hm 2
@@ -16519,12 +16560,11 @@
 \cf ogya
 \sn 8
 \ps v
-\ge undress (cloth
+\ge undress (cloth)
 \is 5.3.7
 \de to take off (cloth)
 \xv Kpa tati.
-\de Take off a (man's) cloth.
-\ctyp Phrasal_Verb
+\de to take off a (man's) cloth.
 \bb Stewart List:2794
 \sn 2
 \ps vt
@@ -16546,7 +16586,7 @@
 \rf Tape:3-2-372
 \xv Ɔlɔpʋ amʋ lakpa mʋ nwun pʋ́ mʋ ikwi sʋ alawa akɩlɛ.
 \xe The sick person has shaved his head and his beard so he has become good to look at.
-\dt 10/Feb/2017
+\dt 05/Sep/2017
 
 \lx kpa
 \hm 2
@@ -16741,8 +16781,8 @@
 \ge fall (multiple)
 \de multiple similar things falling
 \nq check tone
-\ctyp _Derivative_
-\dt 27/Jul/2017
+\ctyp Derivative
+\dt 05/Sep/2017
 
 \lx kpakpaakpa
 \ph k͡pák͡páːk͡pá
@@ -18173,18 +18213,6 @@
 \xe The cutlass is very sharp.
 \bb Stewart List:1197
 \dt 28/Jan/2017
-
-\lx kua kʋlɛ
-\ph kua kʊlɛ
-\sn
-\ps ADJ
-\ge single
-\is 8.1.1.1.1
-\de just one
-\ctyp _Compound_
-\xv Fɩtɛ asʋn kua kʋlɛ.
-\xe Ask just one question.
-\dt 27/Jul/2017
 
 \lx Kudjo
 \ph kuʤó
@@ -22916,8 +22944,8 @@
 \xl He has two mouths.
 \rf Tape:6-1-204
 \cf afunu
-\ctyp _Derivative_
-\dt 27/Jul/2017
+\ctyp Derivative
+\dt 05/Sep/2017
 
 \lx -nnu
 \ph nːu(H)
@@ -23874,14 +23902,14 @@
 \is 4.7.7
 \is 7.7.1
 \de to beat someone with a stick
-\ctyp Phrasal_Verb
+\ctyp Phrasal Verb
 \rf Tape:8-1-253
 \xv Banwɛn mʋ atɔ dʋbɩ sʋ mʋ ɔyʋlʋ labwɛ titiriti.
 \xe They beat him too much so his skin has become numb.
 \rf Tape:8-1-391
 \xv Ɔtsawʋlɛ pɛ ɔlɔnwɛn mʋ atɔ.
 \xe He whipped him only once.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx nwɔsɩ
 \ph ŋʷɔ́sɪ́
@@ -23947,10 +23975,10 @@
 \ge lucky
 \is 4.4.5.1
 \de lucky
-\ctyp _Compound_
+\ctyp Compound
 \xv Nwun lawa fʋ olu.
 \xe You have been lucky.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx nwunfa
 \ph ŋʷṹɱfá
@@ -29532,14 +29560,15 @@
 \xe Kploklobi (a type of mushroom) grows in rotting trees, It is very good with palm nut soup.
 \rf Tape:1-2-178
 \xv Dei asʋ tɔkwɛ ɔbɛ plɔhɛsʋ. Ɩbʋ ɔdwɛ abɛ oputsutɔ.
-\xe Monkey ears (a type of mushroom) grows in rotten palm trees. It is sweet in palm nut soupma ɔdwɛ
+\xe Monkey ears (a type of mushroom) grows in rotten palm trees. It is sweet in palm nut soup
+\se ma ɔdwɛ
 \ph ma ɔdwɛ
 \ps ADJ
 \ge tasteless
 \is 2.3.3
 \de tasteless
 \ctyp _Compound_
-\dt 01/Sep/2017
+\dt 05/Sep/2017
 
 \lx ɔdwɛla
 \ph ɔdʷɛlá
@@ -35835,7 +35864,7 @@
 \ge forgive
 \is 4.8.4.7
 \de to forgive someone
-\ctyp Phrasal_Verb
+\ctyp Phrasal Verb
 \xv Si asʋn kie fʋaba, mɛnɩ Bulu obési fʋklɛ kie fʋ.
 \xe Forgive your neighbour's case so that God will forgive yours.
 \xv Si mʋ́ kie mʋ.
@@ -35844,7 +35873,7 @@
 \xe If I have offended you please forgive me.
 \cf si1
 \cf kie
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx Sia
 \hm 2
@@ -36380,8 +36409,8 @@
 \ge test
 \cf ɩsɔkɩ
 \de to test someone or something
-\ctyp Phrasal_Verb
-\dt 27/Jul/2017
+\ctyp Phrasal Verb
+\dt 05/Sep/2017
 
 \lx sɔɔn
 \ph sɔ̃́ː
@@ -36721,7 +36750,6 @@
 \ge teach
 \is 3.6
 \de to teach someone something
-\ctyp Phrasal_Verb
 \rf Tape:7-1-104
 \xv Alasuna mɩ nyansa. Nɛpan mʋ sika. Ɩlɔfʋn mbrɛ a, ɔbɛ́ka kɔ a, ɔbɛɛ ɔma.
 \xe He has taught me sense. I loaned him money. When it came time to pay it he said he didn't have it.
@@ -36731,7 +36759,7 @@
 \cf atosunahɛ
 \bb Stewart List:3111
 \bb Stewart List:3228
-\dt 15/Jun/2017
+\dt 05/Sep/2017
 
 \lx sunki
 \ph suŋkí
@@ -38129,13 +38157,13 @@
 \is 7.1.1
 \is 7.3.4.6
 \de stand without support, stand alone
-\ctyp Phrasal_Verb
+\ctyp Phrasal Verb
 \nt always collocates with tɩn (and cognates) to convey ideas of learning to stand (child development), and not falling (bottles, head basins etc.).
 \xv Kwame dɛ adɛndɛ tɩn.
 \xe Kwame is standing alone.
 \xv Fatɩn adɛndɛ.
 \xe You are carrying without holding your load.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx tɩnbɩ
 \ph tɪnbɪ
@@ -42033,18 +42061,6 @@
 \nt ɩbɛ is borrowed from Akan
 \dt 09/Jan/2017
 
-\lx yesi ayabi ɔkpa
-\ph yesi ayabi ɔkpa
-\sn
-\ps v
-\ge defecate
-\is 2.2.8
-\de to go to defecate
-\lt go to see the legs off
-\ue Euphemism
-\ctyp _Idiom_
-\dt 25/May/2017
-
 \lx yɛ
 \hm 1
 \ph yɛ́ʔ(H)
@@ -42151,14 +42167,14 @@
 \ge praise
 \is 3.5.1.7
 \de to praise someone, particularly God
-\ctyp Phrasal_Verb
 \bb Stewart List:3242
 \bwl Akan
+\ctyp Phrasal Verb
 \bwf yi ayɛ
 \rf Tape:8-1-540
 \xv Nɩ ansɩ dɛ ɔkʋ gyi a, ɔha amʋ ɔpʋ ɩlʋ wa yi Bulu ayɛ.
 \xe If someone is happy. That person should sing and praise God.
-\dt 27/Jul/2017
+\dt 05/Sep/2017
 
 \lx yia
 \ph yíâʔ
@@ -42608,42 +42624,6 @@
 \bb Stewart List:2960
 \dt 20/Jan/2017
 
-\lx yɔ owie woyi
-\ph yɔ́ʔ owíêʔ wóyí
-\sn
-\ps v
-\ge defecate
-\is 2.2.8
-\de to go to defecate
-\lt go to the chief's house
-\ue Euphemism
-\ctyp _Idiom_
-\dt 25/May/2017
-
-\lx yɔ oyisʋ
-\ph yɔ́ʔ oyísʊ
-\sn
-\ps v
-\ge defecate
-\is 2.2.8
-\de to go to defecate
-\lt go on top of a log
-\ue Euphemism
-\ctyp _Idiom_
-\dt 25/May/2017
-
-\lx yɔ ɔkpatɔ
-\ph yɔ́ʔ ɔkpatɔ
-\sn
-\ps v
-\ge defecate
-\is 2.2.8
-\de to go to defecate
-\lt go on the path
-\ue Euphemism
-\ctyp _Idiom_
-\dt 25/May/2017
-
 \lx yɔfʋn
 \ph yɔ́fʊ̃
 \sn
@@ -42673,18 +42653,6 @@
 \xv Nɩ fegyi atɔ nyankɩ a, owí botsutsua dan atogyihɛ amʋ bɔ́yɔɩ fʋ, fówun akʋn lala dɛ fʋ.
 \xe When you eat in the morning, before noon the food will digest then you will be hungry again.
 \dt 13/Sep/2016
-
-\lx yɔtswɩ oyi bibi tsitsa
-\ph yɔtswɪ oyí bíbi tsitsá
-\sn
-\ps v
-\ge defecate
-\is 2.2.8
-\de to go to defecate
-\lt go throw a black stick
-\ue Euphemism
-\ctyp _Idiom_
-\dt 25/May/2017
 
 \lx yɔyɔɔyɔ
 \ph yɔ́yɔ́ːyɔ́
