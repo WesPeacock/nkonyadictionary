@@ -1,0 +1,2 @@
+cd '/media/wes/42366E05366DFA75/My Toolbox Projects/Nkonya'
+dos2unix <Nkolex\ in\ Unicode.txt |perl -pe 's#[\-]\ [\-](.*)#XX$1\-#' |perl -pe 's#\\xl (.*)#\\xl xl\:$1/xl\:#' | perl -pe 's#\\nx (.*)#\\nx nx\:$1/nx\:#' | perl -pe 's/#/\_\_hash\_\_/g' |perl -pe 's/##/#/g' |perl -pe 'chomp; print "\n" if /\\lx /; $_ .= "#"'  | tee tmp/nklex1perline.txt | perl -pf Scripts/Subentry\ Promotion/se2lx.pl | tee tmp/nklexpromo1perline.txt | perl -pe 's/#/\n/g' |perl -pe 's/__hash__/#/g' |unix2dos >FLExImport/nklexsepromo.sfm 
