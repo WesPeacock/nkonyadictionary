@@ -9,33 +9,34 @@ modifytag=_Compound_
 [hackFWvariants2]
 infilename=NkTest.1.fwdata
 outfilename=NkTest.2.fwdata
-modeltag=Model Contraction
-modifytag=_Contraction_
+modeltag=Model Derivative
+modifytag=_Derivative_
 [hackFWvariants3]
 infilename=NkTest.2.fwdata
 outfilename=NkTest.3.fwdata
-modeltag=Model Derivative
-modifytag=_Derivative_
+modeltag=Model Idiom
+modifytag=_Idiom_
 [hackFWvariants4]
 infilename=NkTest.3.fwdata
 outfilename=NkTest.4.fwdata
-modeltag=Model Idiom
-modifytag=_Idiom_
+modeltag=Model Phrasal Verb
+modifytag=Phrasal_Verb
 [hackFWvariants5]
 infilename=NkTest.4.fwdata
 outfilename=NkTest.5.fwdata
-modeltag=Model Phrasal Verb
-modifytag=Phrasal_Verb
-[hackFWvariants6]
-infilename=NkTest.5.fwdata
-outfilename=NkTest.6.fwdata
-modeltag=Model Saying
-modifytag=_Saying_
-[hackFWvariants7]
-infilename=NkTest.6.fwdata
-outfilename=NkTest.7.fwdata
 modeltag=Model Unspecified Complex Entry
 modifytag=Complex_Form
+;[hackFWvariants6]
+;infilename=NkTest.5.fwdata
+;outfilename=NkTest.6.fwdata
+;modeltag=Model Saying
+;modifytag=_Saying_
+;[hackFWvariants7]
+;infilename=NkTest.6.fwdata
+;outfilename=NkTest.7.fwdata
+;modeltag=Model Contraction
+;modifytag=_Contraction_
+
 
 
 [hackFWNonFreeTranslation]
