@@ -1,3 +1,0 @@
-# build a /tmp/nklex.txt that adds the Semantic domain title to the number and numbers \is markers
-perl -a -F\\t -lne 'print "s/is $F[0]\$/is $F[0]\\t$F[1]/;";' <SemanticDomains/SDTN.txt >/tmp/x.pl
-fromdos <Nkolex\ in\ Unicode.txt |perl -p /tmp/x.pl |sed  's/MDF 4.0/MDF 4.0x/' | perl -pe 'if (/\\lx/) {$iscount=0} ; s/\\is /"\\is".++$iscount." "/ge;' |todos >/tmp/nklex.txt
