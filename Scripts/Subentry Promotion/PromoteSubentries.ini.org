@@ -1,36 +1,44 @@
 [se2lx]
 ; Todo change se2lx.pl to
 ;     put the regexes that terminate the \se entries here
+
+
 [hackFWvariants1]
 infilename=NkTest.fwdata
 outfilename=NkTest.1.fwdata
 modeltag=Model Compound
 modifytag=_Compound_
+
 [hackFWvariants2]
 infilename=NkTest.1.fwdata
 outfilename=NkTest.2.fwdata
 modeltag=Model Derivative
 modifytag=_Derivative_
+
 [hackFWvariants3]
 infilename=NkTest.2.fwdata
 outfilename=NkTest.3.fwdata
 modeltag=Model Idiom
 modifytag=_Idiom_
+
 [hackFWvariants4]
 infilename=NkTest.3.fwdata
 outfilename=NkTest.4.fwdata
 modeltag=Model Phrasal Verb
 modifytag=Phrasal_Verb
+
 [hackFWvariants5]
 infilename=NkTest.4.fwdata
 outfilename=NkTest.5.fwdata
 modeltag=Model Unspecified Complex Entry
 modifytag=Complex_Form
+
 ;[hackFWvariants6]
 ;infilename=NkTest.5.fwdata
 ;outfilename=NkTest.6.fwdata
 ;modeltag=Model Saying
 ;modifytag=_Saying_
+
 ;[hackFWvariants7]
 ;infilename=NkTest.6.fwdata
 ;outfilename=NkTest.7.fwdata
@@ -39,14 +47,20 @@ modifytag=Complex_Form
 
 
 
-[hackFWNonFreeTranslation]
 ; don't use xml tags for start/end tags
 ;   the xml parser will (of course) read the text as structure 
+[hackFWNonFreeTranslation1]
 NonFreeTranslationStarttag=xl:
 NonFreeTranslationEndtag=/xl:
 NonFreeTranslationType=Literal translation
-; NonFreeTranslationType=xyzzy
-; NonFreeTranslationType=each other
 FreeTranslationType=Free translation
-infilename=Nktest.fwdata
-outfilename=Nktest.new.fwdata
+infilename=NkTest.fwdata
+outfilename=NkTest.nf1.fwdata
+
+[hackFWNonFreeTranslation2]
+NonFreeTranslationStarttag=nx:
+NonFreeTranslationEndtag=/nx:
+NonFreeTranslationType=Explanation
+FreeTranslationType=Free translation
+infilename=NkTest.nf1.fwdata
+outfilename=NkTest.nf2.fwdata

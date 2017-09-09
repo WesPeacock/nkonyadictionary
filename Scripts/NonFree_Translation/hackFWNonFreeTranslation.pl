@@ -28,6 +28,7 @@ use Config::Tiny;
 # outfilename=Nktest.new.fwdata
 
 # Todo: Look up the NonFreeTranslationRTguid by searching for "Literal translation" and returning the rt's guid
+`dos2unix PromoteSubentries.ini` ;  # handle Windows CRLF nonsense 
 my $config = Config::Tiny->read( 'PromoteSubentries.ini' );
 #ToDo: get the pathname of the INI file from $0 so that the two go together
 die "Couldn't find the INI file\nQuitting" if !$config;
@@ -76,6 +77,7 @@ if ($transtypert->getAttribute('class') ne "CmPossibility") {
 my $transtypeguid = $transtypert->getAttribute('guid');
 say "$transtype guid is $transtypeguid" ;
 
+# Todo: log output of each modified entry
 foreach my $transToModifyrt ($nktree->findnodes(q#//*[contains(., '# . $starttag . q#')]/ancestor::rt#)) {
 	my ($run) = $transToModifyrt->findnodes('./Translation/AStr/Run/text()') ;
 	my $runstring = $run->toString;
