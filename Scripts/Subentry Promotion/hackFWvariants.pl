@@ -57,19 +57,20 @@ if (!$modelTextrt) {
 my ($modelOwnerrt) = traverseuptoclass($modelTextrt, 'LexEntry');
 say  'For the model entry, using:', displaylexentstring($modelOwnerrt);
 
-my ($modelentryref) = $nktree->findnodes(
+my ($modelentryref) = ($nktree->findnodes(
 		q#//rt[@guid= '#  . 
 		$modelOwnerrt->findvalue('./EntryRefs/objsur/@guid')
 		. q#']#
-		);
+		));
+my $modelEntryTypeName;
 if ($modelentryref) {
 	# Fetch the name of the ComplexEntryType that the model uses
-	say 'It has a "', ($nktree->findnodes(
+	$modelEntryTypeName = ($nktree->findnodes(
 		q#//rt[@guid= '#  . 
 		$modelentryref->findvalue('./ComplexEntryTypes/objsur/@guid')
 		. q#']/Name/AUni/text()#
-		))[0],
-		'" EntryType';
+		))[0] ; 
+	say "It has a $modelEntryTypeName EntryType";
 	}
 else {
 	die "The model entry doesn't refer to another entry\nQuitting";
@@ -92,7 +93,7 @@ say 'End of the model stuff:';
 
 foreach my $seToModifyTextrt ($nktree->findnodes(q#//*[contains(., '# . $modifytag . q#')]/ancestor::rt#)) {
 	my ($seModifyOwnerrt) = traverseuptoclass($seToModifyTextrt, 'LexEntry'); 
-	say  'Modifying Reference for:', displaylexentstring($seModifyOwnerrt) ;	
+	say  "Modifying Reference to a $modelEntryTypeName for:", displaylexentstring($seModifyOwnerrt) ;	
 	my ($entryreftomodify) = $nktree->findnodes(
 			q#//rt[@guid= '#  . 
 			$seModifyOwnerrt->findvalue('./EntryRefs/objsur/@guid')
