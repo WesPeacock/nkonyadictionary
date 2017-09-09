@@ -6,6 +6,14 @@ Creation-Date: 2017-01-18T12:18:27-07:00
 Created Wednesday 18 January 2017
 Using Zim v 0.65
 
+===== Multiple Run of hackFWNonFreeTranslation =====
+The hack script is run multiple times swapping out the active ini section.
+The [hackFWNonFreeTranslation] section has been duplicated with appropriate markers for each run.
+The infilename and outfilename are modified so that each run feeds the next run.
+Then the hack is run multiple times with different sections
+i.e. change [hackFWNonFreeTranslation1] -> [hackFWNonFreeTranslation] and run hack
+	   change [hackFWNonFreeTranslation2] -> [hackFWNonFreeTranslation] and run hack
+
 ===== Pseudocode for hacking Translations other than Free translations in FW project =====
 
 === Why? ===

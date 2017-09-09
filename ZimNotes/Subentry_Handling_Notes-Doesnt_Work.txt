@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-15T15:08:42-07:00
+
+====== Subentry Handling notes -- doesn't work for me ======
+
+The problem with the 
+
+Author: Wes Peacock
+Using Zim(v0.65) 
+FW 8.3 allows you to change the sub-entry type by modifying the sub-entry SFM marker
+Once the \se entries are tagged the //se2setype.pl// script will convert the \se markers:
+	# changes \se to a corresponding \se<TYPE> where <TYPE> is dependent on the presence of \ctyp entry
+	#    \secmpd for \ctyp _Compound_
+	#    \seder for \ctyp _Derivative_
+	#    \seid for \ctyp _Idiom_
+	#    \secmpx for \ctyp Complex_Form
+	#    \sephv for \ctyp Phrasal_Verb
+	#    \seundef for \ctyp not present or some other value
+	#  the \ctyp entry gets deleted

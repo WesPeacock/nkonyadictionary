@@ -59,9 +59,11 @@ perl -pe 's/#/\n/g' |\
 The line with the perl chomp command converts multiline SFM records to single line ones
 The line with s/#/\n/g is the inverse
 
-3. Literal translationsHack
-	a. for xl: ... [[/xl:]] Sample INI file is as is
-	b. for nx: ... [[/nx:]] Sample INI file remove semicolons on nx lines and Explanation add them to xl / Literal translation
+3. Literal translationsHack & Sub-entry Promotion hack
+		b. for xl: ... [[/xl:]] Sample INI file is as is
+		c. for nx: ... [[/nx:]] Sample INI file remove semicolons on nx lines and Explanation add them to xl / Literal translation
+	b. For multiple subentry types hack the fwdata file
+		1. See allhacksubentries.sh
 
 4. Initial Bulk edits in FLEx
 	4.1.  filter XX in Lexeme form
@@ -70,5 +72,11 @@ The line with s/#/\n/g is the inverse
 	4.2. filter import residue Entry for \.*ph
 		a, bulk copy to Lexeme Form phonetic
 	b. Bulk replace '\.*ph\ ' -> nul
-	c. Bulk delete all import residue Entry
-
+			c. Bulk removee leading/trail hyphen in 
+			d. Bulk delete all import residue Entry
+	4.3. Verify the Subentries have been hacked correctly and delete the tags with undescore characters
+	4.4 . Where you have Toolbox Entries that are non-subentries but have ctyp markers
+	a. Show non-blank ComplexTypeTag,
+	b. select all the records -- e.g. Compound
+	c. Do List Choice Bulk Edit to corresponding Complex Form Type
+5. Go through various Complex Form Types and add components
