@@ -5598,8 +5598,14 @@
 \de render
 \bwl Akan
 \bwf bɔ
-\cf bɔ mpaɩ
+\se bɔ mpaɩ
+\ps v
 \ge pray
+\is 4.9.5.2
+\is 4.9.7.2
+\is 4.9.7.3
+\is 4.9.7.7
+\de to pray
 \se bɔ mbɔdɩ
 \ps v
 \ge try
@@ -5616,7 +5622,7 @@
 \xe cook dablun soup
 \xv bɔ ampesie
 \xe cook yam slices
-\dt 29/Jan/2017
+\dt 13/Sep/2017
 
 \lx bɔbwɛ
 \ph bɔbwɛʔ(L)
@@ -7353,14 +7359,14 @@
 \ps v
 \ge copulate
 \is 2.6.2
-\de to copulate with each other
+\de to copulate
 \ctyp _Compound_
 \sn 2
 \ps vi
 \ge sleep
 \is 5.7
 \de to sleep
-\dt 24/Jul/2017
+\dt 08/Sep/2017
 
 \lx dɩba
 \ph dɪbaʔ (L)
@@ -11320,11 +11326,11 @@
 \ps ADJ
 \ge arranged piles
 \is 7.5
-\de to be in arranged pile
+\de to be arranged in piles
 \ctyp _Derivative_
 \xv Nɔyɔ a, bɔbʋa mankani amʋ akuaku. Mʋ́ʋ́ nɛkpa iku kʋlɛ.
 \xe When I went they had set the mankani in piles. And then I collected one pile.
-\dt 27/Jul/2017
+\dt 08/Sep/2017
 
 \lx ikwe
 \ph ikwe
@@ -16297,7 +16303,8 @@
 \de to go to defecate
 \lt go to the chief's house
 \ue Euphemism
-\ctyp _Idiom_yɔ oyisʋ
+\ctyp _Idiom_
+\se yɔ oyisʋ
 \ph yɔ́ʔ oyísʊ
 \ps v
 \ge defecate
@@ -16324,7 +16331,7 @@
 \lt go on the path
 \ue Euphemism
 \ctyp _Idiom_
-\dt 05/Sep/2017
+\dt 08/Sep/2017
 
 \lx kɔ
 \hm 2
@@ -39407,7 +39414,7 @@
 \de to pluck multiple items
 \ctyp _Derivative_
 \xv Batɛ amʋ otedu labla dʋbɩ sʋ tsitsii mʋ́, mɛnɩ ɔbɔ́wa akɩlɛ.
-\xe The chickens tail is thick so pull some of it out so that it will become good to look at.
+\xe The chicken's tail is thick so pull some of it out so that it will become good to look at.
 \bb Stewart List:2356
 \sn 2
 \ps vi
@@ -39428,7 +39435,7 @@
 \rf Tape:7-2-350
 \xv Ogya amʋ detsii ɔswɩtɔ.
 \xe The fire is burning on the hearth.
-\dt 27/Jul/2017
+\dt 08/Sep/2017
 
 \lx tsii
 \hm 2
@@ -40214,6 +40221,21 @@
 \rf Tape:7-2-547
 \xv Ɔnwankɩtɩ amʋ lɔtswɩ kɩta batebi amʋ.
 \xe The hawk dived and caught the chicken.
+\se mʋ́sʋ tswɩ
+\ps v
+\ge iron
+\is 5.6.3
+\de to iron something
+\ctyp Phrasal_Verb
+\xv Mɩ atadɩɛ amʋ lakpʋkpʋ. Ilehian mʋ́sʋ tswɩ.
+\xe My shirt is wrinkled. It needs ironing.
+\sn 5
+\ge dash
+\ps v
+\de to give a small gift
+\is 6.8.3.1
+\is 6.8.4.4
+\is 6.8.4.8
 \se ɩtswɩ
 \ps n
 \ge dash (n)
@@ -40228,20 +40250,12 @@
 \xv Mɩ ɩtswɩ mɛ? Ɩtswɩ ma nʋ?
 \xe Where is my dash? Aren't you going to dash me?
 \cf nfasʋɔ
-\se mʋ́sʋ tswɩ
-\ps v
-\ge iron
-\is 5.6.3
-\de to iron something
-\ctyp Phrasal_Verb
-\xv Mɩ atadɩɛ amʋ lakpʋkpʋ. Ilehian mʋ́sʋ tswɩ.
-\xe My shirt is wrinkled. It needs ironing.
-\sn 5
+\sn 6
 \ps vt
 \ge dive
 \is 7.2.4.2.3
 \de to dive into something
-\dt 10/Feb/2017
+\dt 08/Sep/2017
 
 \lx tswɩ lala
 \ph t͡swɪ lala
