@@ -1,6 +1,6 @@
 
 <!--=====================================================================
-Created via the Lexical Import process: 9/8/2017 10:02:02 AM
+Created via the Lexical Import process: 9/13/2017 12:00:02 PM
 ===================================================================== -->
 <sfmMapping version="6.1">
 
@@ -35,8 +35,8 @@ Level Hierarchy
 <hierarchy>
 <level name="Entry" partOf="records" beginFields="lx" additionalFields="hm ph mn nq dt ctyp lt" multiFields="ph mn nq ctyp lt"/>
 <level name="Etymology" partOf="Subentry Entry" beginFields="bwl" additionalFields="bwc bwf ec" multiFields="bwc bwf ec"/>
-<level name="Example" partOf="Sense" beginFields="xv" additionalFields="rf"/>
-<level name="ExampleTranslation" partOf="Example" beginFields="xe" additionalFields="xl nx" multiFields="xl nx"/>
+<level name="Example" partOf="Sense" beginFields="xv" additionalFields="rf nx" multiFields="nx"/>
+<level name="ExampleTranslation" partOf="Example" beginFields="xe" additionalFields="xl" multiFields="xl"/>
 <level name="Function" partOf="Subentry Sense Entry" beginFields="ignore"/>
 <level name="Picture" partOf="Sense" beginFields="ignore"/>
 <level name="Pronunciation" partOf="Subentry Entry" beginFields="ignore"/>
@@ -173,9 +173,6 @@ Field Descriptions
 <field sfm="vaph" name="Import Residue (Variant)" type="string" lang="NkonyaPhonetic" >
 <meaning app="fw.sil.org" id="veires"/>
 </field>
-<field sfm="nx" name="Example Translation" type="string" lang="English" >
-<meaning app="fw.sil.org" id="trans"/>
-</field>
 <field sfm="lt" name="Literal Meaning" type="string" lang="English" >
 <meaning app="fw.sil.org" id="litm"/>
 </field>
@@ -206,6 +203,11 @@ Custom Field Descriptions
 <CustomField wsSelector="-1" big="False" flid="5002500" class="LexEntry" uiclass="Entry" >
 <field sfm="ctyp" name="ComplexTypeTag" type="string" lang="English" >
 <meaning app="fw.sil.org" id="ComplexTypeTag"/>
+</field>
+</CustomField>
+<CustomField wsSelector="-1" big="False" flid="5004500" class="UnknownClass" uiclass="Example" >
+<field sfm="nx" name="Example Note" type="string" lang="English" >
+<meaning app="fw.sil.org" id="Example Note"/>
 </field>
 </CustomField>
 </CustomFieldDescriptions>
