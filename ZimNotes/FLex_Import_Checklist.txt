@@ -61,7 +61,6 @@ The line with s/#/\n/g is the inverse
 
 3. Literal translationsHack & Sub-entry Promotion hack
 		b. for xl: ... [[/xl:]] Sample INI file is as is
-		c. for nx: ... [[/nx:]] Sample INI file remove semicolons on nx lines and Explanation add them to xl / Literal translation
 	b. For multiple subentry types hack the fwdata file
 		1. See allhacksubentries.sh
 
@@ -72,11 +71,19 @@ The line with s/#/\n/g is the inverse
 	4.2. filter import residue Entry for \.*ph
 		a, bulk copy to Lexeme Form phonetic
 	b. Bulk replace '\.*ph\ ' -> nul
-			c. Bulk removee leading/trail hyphen in 
+			c. Bulk remove leading/trail hyphen in phonetic version
 			d. Bulk delete all import residue Entry
 	4.3. Verify the Subentries have been hacked correctly and delete the tags with undescore characters
 	4.4 . Where you have Toolbox Entries that are non-subentries but have ctyp markers
 	a. Show non-blank ComplexTypeTag,
 	b. select all the records -- e.g. Compound
 	c. Do List Choice Bulk Edit to corresponding Complex Form Type
+
 5. Go through various Complex Form Types and add components
+
+6. There are issues with cross-references confusion to sub-entries that have been promoted. This causes senses with no Gloss:
+	a. copy the fwdata file and find the entries that have senses with no Gloss (see Scripts/SenseNoGloss.sh):
+		cp ~/.local/share/fieldworks/Projects/NkTest/NkTest.fwdata .
+		xmlstarlet sel -t -c "//rt[@class=\"LexSense\" and not(Gloss)]"  -n NkTest.fwdata |grep -o ownerguid.................. |sort
+	b. lftg script on the ownerguids will tell you what entries those are. You can find them, deal with the info in the sense (usually cross references for the wrong homograph) and delete the (mostly) empty sense.
+
