@@ -18,7 +18,8 @@ checklist for FW import
 		7. Unspecified Complex Form
 
 Other gotchas:
-	FLEx 8.3 can't import circumfixes (e.g. ɔ- -pʋ — "da ɩkwɛ" drum(v)  "ɩkwɛ ɔdapʋ" drummer.
+	FLEx 8.3 can't import circumfixes. E.g. "ɔ- -pʋ" Agent circumfix
+			  "da ɩkwɛ" drum(v) Lit: "beat drum" becomes "ɩkwɛ ɔdapʋ" drummer Lit: drum beater.
 		Convert to ɔXXpʋ- before import
 		In FLEx filter on XX and change the prefixes to circumfixes
 		Change XX to "- -'

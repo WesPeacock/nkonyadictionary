@@ -8,7 +8,7 @@ Created Sunday 27 August 2017
 ===== Pseudocode for setting Variants to be under Entries in a FW project =====
 
 === Why? ===
-When the FLEx SFM import process imports a variant (dialect/plural/spelliing) it creates a new entry with a reference link back to the first sense of the main entry. That link should point to the main entry.
+When the FLEx SFM import process imports a variant (dialect/plural/spelling) it creates a new entry with a reference link back to the first sense of the main entry. That link should point to the main entry.
 
 === Preprocess ===
 The INI file contains a list of guids of the reference types. These should match the desired references.
