@@ -30,7 +30,12 @@ while (<>) {
 			}
 		else {
 			 ($name) = $istree->findnodes(q#//abbr[text()="# . $x . q#"]/../name/text()#);
-			$namehash{$x}=$name;
+			 if ($name) {
+				$namehash{$x}=$name;
+				}
+			else {
+				$name = "*** Not Found ***"
+				}
 			}
 		say "$x:$name";
 		}
