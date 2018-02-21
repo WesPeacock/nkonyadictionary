@@ -5,16 +5,19 @@
 #  ToDo: run on SFM file inserting fields (but what?) after the \is code
 # ToDo?: add this to the Subentry Promotion Suite with an ini file
 
+use File::HomeDir;
+my $isfilename = File::HomeDir->my_home . '/Documents/work/LexicalTraining/FLExLists.xml';
+
 use 5.016;
 use strict;
 use warnings;
 use utf8;
 use XML::LibXML;
-use File::HomeDir;
 use open qw/:std :utf8/;
 
-my $isfilename = File::HomeDir->my_home . '/Documents/work/LexicalTraining/SemanticDomainList.list';
-my $istree = XML::LibXML->load_xml(location => $isfilename);
+my $listname ="Semantic Domains" ;
+my $wholetree = XML::LibXML->load_xml(location => $isfilename);
+my ($istree) =  $wholetree->findnodes(q#//list/name[text()="# . $listname. q#"]#);
 my %namehash;
 my $name;
 while (<>) {
@@ -26,11 +29,9 @@ while (<>) {
 			$name=$namehash{$x};
 			}
 		else {
-			 ($name) = $istree->findnodes(q#//AUni[text()="# . $x . q#"]/../../Name/AUni/text()#);
+			 ($name) = $istree->findnodes(q#//abbr[text()="# . $x . q#"]/../name/text()#);
 			$namehash{$x}=$name;
 			}
-		say " $x:$name";
+		say "$x:$name";
 		}
 	}
-=cut
-	
