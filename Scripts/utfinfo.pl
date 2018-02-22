@@ -6,6 +6,8 @@
 # http://www.commandlinefu.com/commands/view/7535/look-up-a-unicode-character-by-name
 # http://stackoverflow.com/questions/627661/how-can-i-output-utf-8-from-perl
 # http://stackoverflow.com/questions/2725893/how-do-i-split-chinese-characters-one-by-one
+# prefix the line with the line number and character position -- WLP 2018
+
 
 use 5.10.1;
 use warnings;
