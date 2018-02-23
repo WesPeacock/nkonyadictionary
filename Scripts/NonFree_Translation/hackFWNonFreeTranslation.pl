@@ -27,9 +27,14 @@ use Config::Tiny;
 # infilename=Nktest.fwdata
 # outfilename=Nktest.new.fwdata
 
-# Todo: Look up the NonFreeTranslationRTguid by searching for "Literal translation" and returning the rt's guid
-`dos2unix PromoteSubentries.ini` ;  # handle Windows CRLF nonsense 
-my $config = Config::Tiny->read( 'PromoteSubentries.ini' );
+my $configfile = 'PromoteSubentries.ini';
+# Windows CRLF nonsense
+if ( $^O =~ /linux/)  {
+	`dos2unix < $configfile  >/tmp/$configfile ` ;
+	$configfile = '/tmp/'.$configfile;
+	}
+my $config = Config::Tiny->read($configfile);
+
 #ToDo: get the pathname of the INI file from $0 so that the two go together
 die "Couldn't find the INI file\nQuitting" if !$config;
 my $starttag = $config->{hackFWNonFreeTranslation}->{NonFreeTranslationStarttag};
