@@ -15,7 +15,7 @@ use Config::Tiny;
  # modifytag=Complex_Form
  # infilename=Nktest.fwdata
  # outfilename=Nktest.new.fwdata
-my $configfile = 'setFWVariantUnderEntry.ini';
+my $configfile = 'PromoteSubentries.ini';
 # Windows CRLF nonsense
 if ( $^O =~ /linux/)  {
 	`dos2unix < $configfile  >/tmp/$configfile ` ;
