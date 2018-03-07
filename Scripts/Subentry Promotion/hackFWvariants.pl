@@ -44,6 +44,8 @@ Don't run $0 when FW is running.\
 Run it on a copy of the project, not the original!\
 I'm quitting" if -f $lockfile ;
 
+say "Processing fwdata file: $infilename";
+
 my $nktree = XML::LibXML->load_xml(location => $infilename);
 
 #ToDo? -- if the script were used over and over:
@@ -148,6 +150,7 @@ my $xmlstring = $nktree->toString;
 $xmlstring =~ s#><#>\n<#g;
 $xmlstring =~ s#(<Run.*?)/\>#$1\>\</Run\>#g;
 $xmlstring =~ s#/># />#g;
+say "Finished processing, writing modified  $outfilename" ;
 open my $out_fh, '>:raw', $outfilename;
 print {$out_fh} $xmlstring;
 
