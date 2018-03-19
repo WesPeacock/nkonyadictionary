@@ -3,7 +3,7 @@
 # Find all objsur where the guid doesn't exist
 # Find all rts where ownerguid doesn't exist
 # Note in linux shebang only works if you run
-#   dos2unix chaekrts.pl
+#   dos2unix checkrts.pl
 
 
 use 5.016;
