@@ -1,7 +1,7 @@
 #!/usr/bin/perl
-# perl -n -f se2lx.pl
+# perl -pf opl.pl <in.sfm | perl -nf se2lx.pl | perl -pf de_opl.pl >justpromos.sfm
 # or
-# perl -p -f se2lx.pl
+# perl -pf opl.pl <in.sfm | perl -pf se2lx.pl | perl -pf de_opl.pl >out.sfm
 #
 # removes \se fields from an SFM Lexical file and promotes them to \lx entries
 # adds \mn markers that refer to the original head and sense
@@ -25,9 +25,10 @@
 use strict;
 use warnings;
 use English;
-
-my $dt = sprintf ("\\dt %02d/%s/%s#", (localtime)[3], (substr localtime(), 4, 3), (localtime)[5]+1900);# new dt line -- trailing #
-
+my $dt = "";
+if (/\\dt /) {
+	$dt = sprintf ("\\dt %02d/%s/%s#", (localtime)[3], (substr localtime(), 4, 3), (localtime)[5]+1900);# new dt line -- trailing #
+	}
 my $lxfield =""; # key of master record -- no #
 my $subentry = ""; # text of subentry record -- trailing #
 my $hmno = ""; # text of homograph number if any -- no #
@@ -41,7 +42,8 @@ my @psfields = "";
 m/\\lx ([^#]*?)#/;  $lxfield=$1;
 $hmno=""; $hmno= $1 if m/\\hm ([^#]*?)#/;
 
-while (/\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?#\\sn))/)  {
+while ((/\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?#\\sn))/) # various terminators for a subentry
+	|| (/\\se.*/)) { # or a subentry that ends the entry.
 	$beforestuff = $PREMATCH;
 	$afterstuff = $POSTMATCH;
 	$subentry = $MATCH;
@@ -61,6 +63,7 @@ while (/\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?#\\sn))/)  {
 	print "$subentry$dt\n" ;
 
 	# delete subentry from master record and change date
-	s/\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?#\\sn))//;
+	(s/\\se.*?(?=(\\sn|\\se|\\dt|\\ps[^#]*?#\\sn))//)  # for a subentry not at the end
+	  || (s/\\se.*//);   # subentry at the end
 	s/\\dt[^#]*?#/$dt/;
 	}
