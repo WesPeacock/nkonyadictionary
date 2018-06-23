@@ -7,7 +7,6 @@ Creation-Date: 2017-06-23T14:49:20-06:00
 Created Tuesday 15 November 2016
 Author: Wes Peacock
 Using Zim(v0.65) 
-FLEx 8.3 has made this process to be replaced by the //se2setype.pl// script 
 
 
 
@@ -24,9 +23,28 @@ i.e. change [hackFWvariants1] -> [hackFWvariants] and run hack
 ===== Pseudocode for hacking Variants in FW project =====
 
 === Why? ===
-The current FieldWorks (v 8.3.1beta) SFM import assumes that all refences to other entries are variants. This process allows you to change that.
+The current FieldWorks (v 8.3.x) SFM import assumes that all references at the sense level to other entries, are to variants, not to complex forms (subentries). This process allows you to make some of them refer to complex forms.
+
+=== Recommended process ===
+* Apply the "Preprocess" steps in your FW database.
+* Locate the FLEx database (.fwdata file).
+* Copy it to a temporary working directory, where these scripts are.
+* Edit the .ini file to contain the needed values for the various complex form types needed.
+* PromoteSubentries.ini.org contains snippets that can be used for each of the different complex form types that you have. Edit as many of these as you need and delete the rest. The shell script (next step) will create individual .ini files that can be used for iterative runs of the promotion script.
+* Edit the script allhacksubentries.sh to remove any of the gawk statements that are not needed--there should be one for each complex form type you have a snippet for in PromoteSubentries.ini.org.
+* Run the script allhacksubentries.sh in a Unix shell.
+* This will create a new version of the FLEx database (a new .fwdata file) with the specified variants converted to subentries.
+* (Alternatively, you could have just one PromoteSubentries.ini file, and edit it each time you run hackFWvariants.pl, modifying the .ini file for each different complex form type, and re-run the script. Repeat for as many different complex form types as you are dealing with.
+* Copy the result back into the location where it belongs. (Keep a copy of the original version, in case something got really messed up in creating the new one.)
+
 
 === Preprocess ===
+
+== Mark the records that need to be converted. ==
+In FLex, or the imported SFM file, or perl script that builds it, put a text into each sub-entry that will be changed into the Model type of Reference
+E.g. "**Complex_Form**" in the Import Residue field;  o \ve Complex_Form in the SFM file
+In the script this is called **ModifyTag**. It marks all the entries that should be changed to the model
+
 In FLex make a FW entry that looks the way you want your subentries to look. This can be a dummy entry that's deleted when you've changed the subentries. 
 Somewhere in the Entry put some unique text.
 	E.g., "***Model Unspecified Complex Entry***" in the Import Residue field
