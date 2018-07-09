@@ -62,7 +62,7 @@
 \command echo hipl | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \command echo until | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \-rundosMarkers
-\placementMain normal -1 -1 -1 -1 1752 141 3247 978
+\placementMain normal -1 -1 -1 -1 12 37 1507 874
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
@@ -88,7 +88,7 @@
 \-brf
 \+brf 
 \mkr ge
-\width 782
+\width 784
 \-brf
 \-brflst
 \+ind 
@@ -138,7 +138,7 @@
 \-brf
 \+brf 
 \mkr mr
-\width 392
+\width 394
 \-brf
 \-brflst
 \+ind 
@@ -170,7 +170,7 @@
 \+wndlst 
 \+wnd 
 \placement normal -1 -1 -1 -1 44 -12 1409 454
-\z 8
+\z 6
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -221,7 +221,7 @@
 \-brf
 \+brf 
 \mkr dt
-\width 96
+\width 119
 \-brf
 \-brflst
 \+ind 
@@ -230,8 +230,8 @@
 \mkrSecKey dt
 \-ind
 \+rec 
-\fldPriKey iwú
-\fldSecKey 30/May/2017
+\fldPriKey a
+\fldSecKey 10/Jan/2017
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -275,7 +275,7 @@
 \-brf
 \+brf 
 \mkr is
-\width 531
+\width 533
 \-brf
 \-brflst
 \+ind 
@@ -284,8 +284,8 @@
 \mkrSecKey ge
 \-ind
 \+rec 
-\fldPriKey kwata ɔlɔpʋ
-\fldSecKey leper
+\fldPriKey a
+\fldSecKey SCLS
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -329,7 +329,7 @@
 \-brf
 \+brf 
 \mkr nt
-\width 681
+\width 683
 \-brf
 \-brflst
 \+ind 
@@ -352,7 +352,7 @@
 \-keyInsert
 \CaretLine 9
 \CaretLineScroll 9
-\CaretChar 65
+\CaretChar 0
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 32 32 1281 511
@@ -403,7 +403,7 @@
 \-brf
 \+brf 
 \mkr xl
-\width 33
+\width 35
 \-brf
 \-brflst
 \+ind 
@@ -429,10 +429,10 @@
 \-wndlst
 \-db
 
-\+db C:\My Toolbox Projects\Nkonya\tmp\nklex-test-toimport-lxtagged.sfm
+\+db C:\My Toolbox Projects\Nkonya\tmp\outmodel.sfm
 \+wndlst 
 \+wnd 
-\placement normal -1 -1 -1 -1 0 0 1431 479
+\placement normal -1 -1 -1 -1 0 0 1249 479
 \z 5
 \ViewMarkers
 \widthMarkerArea 50
@@ -443,83 +443,6 @@
 \NoFieldEntry *no field*
 \+brf 
 \mkr lx
-\width 131
-\-brf
-\+brf 
-\mkr hm
-\width 131
-\-brf
-\+brf 
-\mkr ps
-\width 131
-\-brf
-\+brf 
-\mkr ge
-\width 131
-\-brf
-\+brf 
-\mkr se
-\width 131
-\-brf
-\+brf 
-\mkr ctyp
-\width 131
-\-brf
-\+brf 
-\mkr is
-\width 131
-\-brf
-\+brf 
-\mkr bwc
-\width 131
-\-brf
-\+brf 
-\mkr ng
-\width 131
-\-brf
-\+brf 
-\mkr nt
-\width 161
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey hm
-\-ind
-\+rec 
-\fldPriKey iwú
-\fldSecKey
-\-rec
-\+keySearch 
-\fldPri iwú
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
-\-wnd
-\-wndlst
-\-db
-
-\+db C:\My Toolbox Projects\Nkonya\tmp\outmodel.sfm
-\+wndlst 
-\+wnd 
-\placement normal -1 -1 -1 -1 0 0 1249 479
-\z 6
-\ViewMarkers
-\widthMarkerArea 50
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
 \width 147
 \-brf
 \+brf 
@@ -552,81 +475,7 @@
 \-brf
 \+brf 
 \mkr nt
-\width 21
-\-brf
-\-brflst
-\+ind 
-\mkrPriKey lx
-\srtPriKey NkonyaU
-\mkrSecKey hm
-\-ind
-\+rec 
-\fldPriKey iwú
-\fldSecKey
-\-rec
-\+keySearch 
-\fldPri iwú
-\match_char p
-\-keySearch
-\+keyInsert 
-\MatchWhole
-\match_char p
-\-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
-\-wnd
-\-wndlst
-\-db
-
-\+db C:\My Toolbox Projects\Nkonya\tmp\out.sfm
-\+wndlst 
-\+wnd 
-\placement normal -1 -1 -1 -1 0 0 1249 479
-\z 7
-\ViewMarkers
-\ViewFieldNames
-\widthMarkerArea 150
-\JumpTarget
-\FocusTarget
-\+brflst 
-\FieldEmptyEntry *empty*
-\NoFieldEntry *no field*
-\+brf 
-\mkr lx
-\width 147
-\-brf
-\+brf 
-\mkr hm
-\width 147
-\-brf
-\+brf 
-\mkr ps
-\width 147
-\-brf
-\+brf 
-\mkr ge
-\width 147
-\-brf
-\+brf 
-\mkr se
-\width 147
-\-brf
-\+brf 
-\mkr is
-\width 147
-\-brf
-\+brf 
-\mkr bwc
-\width 147
-\-brf
-\+brf 
-\mkr ng
-\width 115
-\-brf
-\+brf 
-\mkr nt
-\width 21
+\width 23
 \-brf
 \-brflst
 \+ind 
