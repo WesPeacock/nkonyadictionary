@@ -46,36 +46,47 @@ I'm quitting" if -f $lockfile ;
 my $languageEncoding =  $config->{FWExampleExtract}->{Examplews};
 my $ExampleTextXpath = q#./Example/AStr[@ws="# . $languageEncoding . q#"]#;
 say STDERR "ExampleTextXpath:$ExampleTextXpath";
+#my $FormTextXpath = q#./Form/AUni[@ws="# . $languageEncoding . q#"]/text()#;
+my $FormTextXpath = q#./Form/AUni[@ws="# . $languageEncoding . q#"]#;
+
+say STDERR "FormTextXpath:$FormTextXpath";
 say STDERR "Reading fwdata file: $infilename";
 say '<?xml version="1.0" encoding="utf-8"?><LexExamplePatchSet>';
 my $fwdatatree = XML::LibXML->load_xml(location => $infilename);
 
-#ToDo? -- if the script were used over and over:
-#  build a hash of all rt's indexed by guid 
-# But:
-# "Premature optimization is the root of all evil."
-#       - Sir Tony Hoare (popularized by Donald Knuth)
-
+my %rthash;
+foreach my $rt ($fwdatatree->findnodes(q#//rt#)) {
+	my $guid = $rt->getAttribute('guid');
+	$rthash{$guid} = $rt;
+	}
+=pod
+my $size = keys %rthash;
+say $size;
+exit;
+=cut
 my $reccount = 0;
 foreach my $seExamplert ($fwdatatree->findnodes(q#//rt[@class='LexExampleSentence']#)) {
 	# say "Example:", $seExamplert;
-
 	my $exampleguid = $seExamplert->getAttribute('guid');
 	my $exampletext = "";
 	if ($seExamplert->findnodes($ExampleTextXpath)) {
 		$exampletext =($seExamplert->findnodes($ExampleTextXpath))[0]->toString;
 		$exampletext =~ s/\n//g;
-		#say "ExampleAStr:", $exampletext;
-		#say "Examplert:", $seExamplert;
-		}
+=pod
+		 say "ExampleAStr:", $exampletext;
+		 say "Examplert:", $seExamplert;
+		 say ""; say "";
+=cut
+		 }
 
 	my ($seOwnerrt) = traverseuptoclass($seExamplert, 'LexEntry');
+
 	my ($lexentform, $lexentguid)=lexentFormAndGuid($seOwnerrt) ;
 
 	say  "<LexExamplePatch exampleguid=\"$exampleguid\"><LexEntText>$lexentform</LexEntText><ExampleText>$exampletext</ExampleText></LexExamplePatch>" ;
 
 	$reccount++;
-	#if ($reccount >= 5) {last};
+	#if ($reccount >= 1) {last};
 }
 
 say '</LexExamplePatchSet>';
@@ -98,11 +109,7 @@ my ($rt, $rtclass) = @_;
 #		say ' At ', rtheader($rt);
 		if ( !$rt->hasAttribute('ownerguid') ) {last} ;
 		# find node whose @guid = $rt's @ownerguid
-		($rt) = $fwdatatree->findnodes(
-			q#//rt[@guid= '#  . 
-			$rt->getAttribute('ownerguid') 
-			. q#']#
-			);
+		$rt = $rthash{$rt->getAttribute('ownerguid')};
 	}
 #	say 'Found ', rtheader($rt);
 	return $rt;
@@ -110,12 +117,7 @@ my ($rt, $rtclass) = @_;
 sub lexentFormAndGuid {
 my ($lexentrt) = @_;
 my ($formguid) = $lexentrt->findvalue('./LexemeForm/objsur/@guid');
-my ($formstring) = ($fwdatatree->findnodes(
-		q#//rt[@guid='#  . 
-		$lexentrt->findvalue('./LexemeForm/objsur/@guid')
-		. q#']/Form/AUni[@ws="# . $languageEncoding  . q#"]#
-		))[0]->toString;
-
+my $formstring =($rthash{$formguid}->findnodes($FormTextXpath))[0]->toString;
 my $guid = $lexentrt->getAttribute('guid');
 return ($formstring, $guid);
 }
