@@ -63,8 +63,8 @@ foreach my $rt ($fwdatatree->findnodes(q#//rt#)) {
 
 	if (($rt->getAttribute('class') eq "LexEntryRef") 
 	   && ( ($rt->findnodes('./RefType/@val')) eq "0") )  { # variants have <RefType val="0" />
-			(my $refguid) = $rt->findvalue('./ComponentLexemes/objsur/@guid');
-			push(@{ $varefhash{$refguid} }, $rt); # add this $rt to list of rt's for the target Lexentry 
+			(my $mainguid) = $rt->findvalue('./ComponentLexemes/objsur/@guid');
+			push(@{ $varefhash{$mainguid} }, $rt->getAttribute('guid')); # add this guid for the target Lexentry 
 			}
 	}
 
@@ -106,9 +106,9 @@ foreach my $seExamplert ($fwdatatree->findnodes(q#//rt[@class='LexExampleSentenc
 	my ($lexentform, $lexentguid)=lexentFormAndGuid($seOwnerrt) ;
 	
 	my $VarTexts ="";
-	foreach my $VarRefrt (@{$varefhash{$lexentguid} }) {
-		my ($Varrt) = traverseuptoclass($VarRefrt, 'LexEntry');
-		my ($varform, $varguid)=lexentFormAndGuid($Varrt) ;
+	foreach my $VarRefguid (@{$varefhash{$lexentguid} }) {
+		my ($VarEntrt) = traverseuptoclass( $rthash{$VarRefguid}, 'LexEntry');
+		my ($varform, $varguid)=lexentFormAndGuid($VarEntrt) ;
 		$VarTexts .= "<LexEntVarText>$varform</LexEntVarText>";
 		}
 	say  "<LexExamplePatch exampleguid=\"$exampleguid\"><LexEntText>$lexentform</LexEntText>$VarTexts<ExampleText>$exampletext</ExampleText></LexExamplePatch>" ;
