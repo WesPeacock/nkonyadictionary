@@ -48,21 +48,43 @@ my $ExampleTextXpath = q#./Example/AStr[@ws="# . $languageEncoding . q#"]#;
 say STDERR "ExampleTextXpath:$ExampleTextXpath";
 #my $FormTextXpath = q#./Form/AUni[@ws="# . $languageEncoding . q#"]/text()#;
 my $FormTextXpath = q#./Form/AUni[@ws="# . $languageEncoding . q#"]#;
-
 say STDERR "FormTextXpath:$FormTextXpath";
+
 say STDERR "Reading fwdata file: $infilename";
 say '<?xml version="1.0" encoding="utf-8"?><LexExamplePatchSet>';
 my $fwdatatree = XML::LibXML->load_xml(location => $infilename);
 
+my %varefhash;
+# The index is main entry guid, Each item is an array of variant references that point to the main entry.
 my %rthash;
 foreach my $rt ($fwdatatree->findnodes(q#//rt#)) {
 	my $guid = $rt->getAttribute('guid');
 	$rthash{$guid} = $rt;
+
+	if (($rt->getAttribute('class') eq "LexEntryRef") 
+	   && ( ($rt->findnodes('./RefType/@val')) eq "0") )  { # variants have <RefType val="0" />
+			(my $refguid) = $rt->findvalue('./ComponentLexemes/objsur/@guid');
+			push(@{ $varefhash{$refguid} }, $rt); # add this $rt to list of rt's for the target Lexentry 
+			}
 	}
+
 =pod
-my $size = keys %rthash;
-say $size;
-exit;
+my $size = keys %varefhash;
+say STDERR "$size entries with variants";
+
+my ($lexentguid) ="dcc581be-5494-4856-b18f-8a280d32e093"; # anyɔ "two" test
+my $VarTexts ="";
+foreach my $VarRefrt (@{$varefhash{$lexentguid} }) {
+#	my $x = ($VarRefrt->findnodes('.'))[0]->toString;
+#	say $x;
+	my ($Varrt) = traverseuptoclass($VarRefrt, 'LexEntry');
+	my ($varform, $varguid)=lexentFormAndGuid($Varrt) ;
+	$VarTexts .= "<LexEntVarText>$varform</LexEntVarText>";
+	}
+say $VarTexts;
+
+
+die;
 =cut
 my $reccount = 0;
 foreach my $seExamplert ($fwdatatree->findnodes(q#//rt[@class='LexExampleSentence']#)) {
@@ -82,11 +104,17 @@ foreach my $seExamplert ($fwdatatree->findnodes(q#//rt[@class='LexExampleSentenc
 	my ($seOwnerrt) = traverseuptoclass($seExamplert, 'LexEntry');
 
 	my ($lexentform, $lexentguid)=lexentFormAndGuid($seOwnerrt) ;
-
-	say  "<LexExamplePatch exampleguid=\"$exampleguid\"><LexEntText>$lexentform</LexEntText><ExampleText>$exampletext</ExampleText></LexExamplePatch>" ;
+	
+	my $VarTexts ="";
+	foreach my $VarRefrt (@{$varefhash{$lexentguid} }) {
+		my ($Varrt) = traverseuptoclass($VarRefrt, 'LexEntry');
+		my ($varform, $varguid)=lexentFormAndGuid($Varrt) ;
+		$VarTexts .= "<LexEntVarText>$varform</LexEntVarText>";
+		}
+	say  "<LexExamplePatch exampleguid=\"$exampleguid\"><LexEntText>$lexentform</LexEntText>$VarTexts<ExampleText>$exampletext</ExampleText></LexExamplePatch>" ;
 
 	$reccount++;
-	#if ($reccount >= 1) {last};
+	#if ($reccount >= 100) {last};
 }
 
 say '</LexExamplePatchSet>';
