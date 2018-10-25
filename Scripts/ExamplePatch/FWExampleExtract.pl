@@ -25,12 +25,7 @@ use Config::Tiny;
  my $configfile = 'FWExamples.ini';
 
 say STDERR "read config from:$configfile";
-# Windows CRLF nonsense
-if ( $^O =~ /linux/)  {
-	`dos2unix < $configfile  >/tmp/$configfile ` ;
-	$configfile = '/tmp/'.$configfile;
-	}
-my $config = Config::Tiny->read($configfile);
+my $config = Config::Tiny->read($configfile, 'crlf');
 #ToDo: get the pathname of the INI file from $0 so that the two go together
 die "Couldn't find the INI file\nQuitting" if !$config;
 

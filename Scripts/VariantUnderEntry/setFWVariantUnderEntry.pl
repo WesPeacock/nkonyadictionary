@@ -21,12 +21,7 @@ use Config::Tiny;
 # ; Unspecified Variant,Dialectal Variant,Free Variant,Irregularly Inflected Form,Spelling Variant,Contraction,Allophonic Variant,Plural,Singular,Past
 
 my $configfile = 'setFWVariantUnderEntry.ini';
-# Windows CRLF nonsense
-if ( $^O =~ /linux/)  {
-	`dos2unix < $configfile  >/tmp/$configfile ` ;
-	$configfile = '/tmp/'.$configfile;
-	}
-my $config = Config::Tiny->read($configfile);
+my $config = Config::Tiny->read($configfile, 'crlf');
 die "Couldn't find the INI file\nQuitting" if !$config;
 my $infilename = $config->{setFWVariantUnderEntry}->{infilename};
 my $outfilename = $config->{setFWVariantUnderEntry}->{outfilename};
