@@ -1,8 +1,11 @@
-#! /bin/perl opl-bsl.pl -p
+#! /bin/perl opl-bsl.pl
 # concatenate all lines that don't start with a \ character
 # replacing the newline with an octothorpe
 # replace pre-existing octothorpes with "__hash__"
-chomp;
-print "\n" if /^\\/;
-s/#/\_\_hash\_\_/g;
-$_ .= "#"
+my $str = do {
+    local $/;
+    <STDIN>
+};
+$str =~ s/#/__hash__/g;
+$str =~ s/\n(?!\\)/#/g;
+print $str;
