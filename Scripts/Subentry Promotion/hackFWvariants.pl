@@ -43,11 +43,6 @@ say "Processing fwdata file: $infilename";
 
 my $fwdatatree = XML::LibXML->load_xml(location => $infilename);
 
-#ToDo? -- if the script were used over and over:
-#  build a hash of all rt's indexed by guid 
-# But:
-# "Premature optimization is the root of all evil."
-#       - Sir Tony Hoare (popularized by Donald Knuth)
 my %rthash;
 foreach my $rt ($fwdatatree->findnodes(q#//rt#)) {
 	my $guid = $rt->getAttribute('guid');
