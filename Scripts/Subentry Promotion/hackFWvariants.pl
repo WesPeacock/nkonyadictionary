@@ -41,15 +41,20 @@ I'm quitting" if -f $lockfile ;
 
 say "Processing fwdata file: $infilename";
 
-my $nktree = XML::LibXML->load_xml(location => $infilename);
+my $fwdatatree = XML::LibXML->load_xml(location => $infilename);
 
 #ToDo? -- if the script were used over and over:
 #  build a hash of all rt's indexed by guid 
 # But:
 # "Premature optimization is the root of all evil."
 #       - Sir Tony Hoare (popularized by Donald Knuth)
+my %rthash;
+foreach my $rt ($fwdatatree->findnodes(q#//rt#)) {
+	my $guid = $rt->getAttribute('guid');
+	$rthash{$guid} = $rt;
+	}
 
-my ($modelTextrt) = $nktree->findnodes(q#//*[contains(., '# . $modeltag . q#')]/ancestor::rt#);
+my ($modelTextrt) = $fwdatatree->findnodes(q#//*[contains(., '# . $modeltag . q#')]/ancestor::rt#);
 if (!$modelTextrt) {
 	say "The model, '", $modeltag, "' isn't in any records";
 	exit;
@@ -59,19 +64,12 @@ if (!$modelTextrt) {
 my ($modelOwnerrt) = traverseuptoclass($modelTextrt, 'LexEntry');
 say  'For the model entry, using:', displaylexentstring($modelOwnerrt);
 
-my ($modelentryref) = ($nktree->findnodes(
-		q#//rt[@guid= '#  . 
-		$modelOwnerrt->findvalue('./EntryRefs/objsur/@guid')
-		. q#']#
-		));
+my $modelentryref = $rthash{$modelOwnerrt->findvalue('./EntryRefs/objsur/@guid')};
 my $modelEntryTypeName;
 if ($modelentryref) {
 	# Fetch the name of the ComplexEntryType that the model uses
-	$modelEntryTypeName = ($nktree->findnodes(
-		q#//rt[@guid= '#  . 
-		$modelentryref->findvalue('./ComplexEntryTypes/objsur/@guid')
-		. q#']/Name/AUni/text()#
-		))[0] ; 
+	my $modelEntryTypert = $rthash{$modelentryref->findvalue('./ComplexEntryTypes/objsur/@guid')};
+	$modelEntryTypeName =$modelEntryTypert->findvalue('./Name/AUni'); 
 	say "It has a $modelEntryTypeName EntryType";
 	}
 else {
@@ -93,14 +91,10 @@ say 'Has a ShowComplexFormsIn' if $modelHasAShowComplexFormsIn;
 say 'End of the model stuff:';
 =cut
 
-foreach my $seToModifyTextrt ($nktree->findnodes(q#//*[contains(., '# . $modifytag . q#')]/ancestor::rt#)) {
+foreach my $seToModifyTextrt ($fwdatatree->findnodes(q#//*[contains(., '# . $modifytag . q#')]/ancestor::rt#)) {
 	my ($seModifyOwnerrt) = traverseuptoclass($seToModifyTextrt, 'LexEntry'); 
 	say  "Modifying Reference to a $modelEntryTypeName for:", displaylexentstring($seModifyOwnerrt) ;	
-	my ($entryreftomodify) = $nktree->findnodes(
-			q#//rt[@guid= '#  . 
-			$seModifyOwnerrt->findvalue('./EntryRefs/objsur/@guid')
-			. q#']#
-			);
+	my $entryreftomodify = $rthash{$seModifyOwnerrt->findvalue('./EntryRefs/objsur/@guid')};
 	# say 'EntryRefToModify Before: ', $entryreftomodify;
 	# Attribute values are done in place
 	(my $attr) = $entryreftomodify->findnodes('./HideMinorEntry/@val');
@@ -133,14 +127,14 @@ foreach my $seToModifyTextrt ($nktree->findnodes(q#//*[contains(., '# . $modifyt
 		$VETnode->parentNode->removeChild($VETnode) if $VETnode ;
 =pod
 	say "";
-	say "EntryRef After: ", $entryreftomodify ;
+	say "EntryRefToModify  After: ", $entryreftomodify ;
 	say "";
 	say "";
 =cut
 }
 
 
-my $xmlstring = $nktree->toString;
+my $xmlstring = $fwdatatree->toString;
 # Some miscellaneous Tidying differences
 $xmlstring =~ s#><#>\n<#g;
 $xmlstring =~ s#(<Run.*?)/\>#$1\>\</Run\>#g;
@@ -168,23 +162,17 @@ my ($rt, $rtclass) = @_;
 #		say ' At ', rtheader($rt);
 		if ( !$rt->hasAttribute('ownerguid') ) {last} ;
 		# find node whose @guid = $rt's @ownerguid
-		($rt) = $nktree->findnodes(
-			q#//rt[@guid= '#  . 
-			$rt->getAttribute('ownerguid') 
-			. q#']#
-			);
+		$rt = $rthash{$rt->getAttribute('ownerguid')};
 	}
 #	say 'Found ', rtheader($rt);
 	return $rt;
 }
+
 sub displaylexentstring {
 my ($lexentrt) = @_;
 my ($formguid) = $lexentrt->findvalue('./LexemeForm/objsur/@guid');
-my ($formstring) = $nktree->findnodes(
-		q#//rt[@guid= '#  . 
-		$lexentrt->findvalue('./LexemeForm/objsur/@guid')
-		. q#']/Form/AUni/text()#
-		);
+my $formrt =  $rthash{$formguid};
+my ($formstring) =($rthash{$formguid}->findnodes('./Form/AUni/text()'))[0]->toString;
 # If there's more than one encoding, you only get the first
 
 my $guid = $lexentrt->getAttribute('guid');
