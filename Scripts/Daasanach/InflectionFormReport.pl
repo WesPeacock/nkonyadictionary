@@ -1,4 +1,4 @@
-# usage: perl -f InflectionFormReport.pl --varmark \\variantmarker file.sfm
+my $USAGE = "Usage: $0 --varmark \\variantmarker [--recmark lx] [--hmmark hm] [--glossmark ge] [--debug] file.sfm";
 # other options:
 # --recmark (default \lx)
 # --hmmark (default \hm)
@@ -17,20 +17,16 @@ use warnings;
 use utf8;
 use English;
 use open qw/:std :utf8/;
+use Data::Dumper qw(Dumper);
 
 use Getopt::Long;
-use Data::Dumper qw(Dumper);
-my $recmark = "\\lx"; # record mark
-my $hmmark = "\\hm"; # homograph number
-my $glossmark = "\\ge";# gloss/definition field marker
-my $varmark = ""; # variant marker
-my $debug;
-GetOptions ('recmark:s'   => \$recmark,
-	'hmmark:s'   => \$hmmark,
-	'glossmark:s'   => \$glossmark,
-	'varmark=s' => \$varmark,
-	'debug' => \$debug)
-	or die("Error in command line arguments\n");
+GetOptions (
+	'recmark:s'   => \(my $recmark = "lx"), # record mark
+	'hmmark:s'    => \(my $hmmark = "hm"), # homograph number
+	'glossmark:s' => \(my $glossmark = "ge"), # gloss/definition field marker
+	'varmark=s'   => \my $varmark, # variant marker
+	'debug'       => \my $debug,
+	) or die $USAGE;
 $recmark = '\\' . $recmark if ( $recmark !~ /^\\/);
 $recmark .= ' '; $recmark =~ s/\\/\\\\/;
 $hmmark = '\\' . $hmmark if ( $hmmark !~ /^\\/);
@@ -47,7 +43,8 @@ $variant =~ s/ //g;
 
 my $hmmax = 0;
 my $infile = pop @ARGV;
-say "debug:$debug";
+die "InfReport needs an input file\nUsage:InfReport --varmark xx filename\n" if !$infile;
+
 if ($debug) {
 	say "rm=$recmark=";
 	say "hm=$hmmark=";
@@ -60,7 +57,6 @@ my @varfields = ("hm", "ps", "mn",  "rt", "dc", "ic", "Cs");  # variable fields 
 
 my %oplhash; # hash of opl'd file keyed by \lx(\hm)
 
-die "InfReport needs an input file\nUsage:InfReport --varmark xx filename\n" if !$infile;
 open(my $fhinfile, '<:encoding(UTF-8)', $infile)
   or die "Could not open file '$infile' $!";
 
