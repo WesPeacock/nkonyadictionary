@@ -18,7 +18,7 @@ use Config::Tiny;
  # outfilename=Nkonya.1.fwdata
  # patchfilename=Nkonyafwdata.patch
 
- my $configfile = 'FWExamples.ini';
+my $configfile = 'FWExamples.ini';
 my $config = Config::Tiny->read($configfile, 'crlf');
 #ToDo: get the pathname of the INI file from $0 so that the two go together
 die "Couldn't find the INI file\nQuitting" if !$config;
