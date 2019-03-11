@@ -102,6 +102,6 @@ my $xmlstring = $fwdatatree->toString;
 $xmlstring =~ s#><#>\n<#g;
 $xmlstring =~ s#(<Run.*?)/\>#$1\>\</Run\>#g;
 $xmlstring =~ s#/># />#g;
-say "Finished processing, writing modified  $outfilename" ;
+say STDERR "Finished processing, writing modified  $outfilename" ;
 open my $out_fh, '>:raw', $outfilename;
 print {$out_fh} $xmlstring;
