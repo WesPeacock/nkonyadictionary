@@ -2,7 +2,7 @@
 my $USAGE = "Usage: $0 [--inifile inifile.ini] [--section section] [--debug] [file.sfm]";
 # perl ./FWTranslationExtract.pl
 #reads a Fieldworks database. For each Translation:
-#    finds the GUID & Text of the the Translation
+#    finds the GUID & Text of the Translation
 #    Finds the GUID and Form of the LexEntry that owns (or owns the owner) of that Translation
 use 5.020;
 use strict;
