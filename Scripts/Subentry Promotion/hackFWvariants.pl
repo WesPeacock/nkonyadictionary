@@ -26,7 +26,7 @@ my $outfilename = $config->{hackFWvariants}->{outfilename};
 # ToDo? check that parameters exist
 
 if ( (index($modeltag, $modifytag) != -1) or  (index($modifytag, $modeltag) != -1)) {
-# Xpath doesn't use regex and we use Xpath to query the FW project
+# use index because Xpath doesn't use regex and we use Xpath to query the FW project
 	say 'Use different tags for modeltag and modifytag. One contains the other:';
 	say 'modeltag=', $modeltag;
 	say 'modifytag=', $modifytag;
