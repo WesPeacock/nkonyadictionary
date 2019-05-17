@@ -91,6 +91,10 @@ foreach my $seToModifyTextrt ($fwdatatree->findnodes(q#//*[contains(., '# . $mod
 	say  "Modifying Reference to a $modelEntryTypeName for:", displaylexentstring($seModifyOwnerrt) ;	
 	my $entryreftomodify = $rthash{$seModifyOwnerrt->findvalue('./EntryRefs/objsur/@guid')};
 	# say 'EntryRefToModify Before: ', $entryreftomodify;
+	if (!$entryreftomodify->findnodes('./ComponentLexemes')) {
+		say STDERR "No Component Lexemes for: ", displaylexentstring($seModifyOwnerrt);
+		next;
+		}
 	# Attribute values are done in place
 	(my $attr) = $entryreftomodify->findnodes('./HideMinorEntry/@val');
 	$attr->setValue($modelHideMinorEntryval) if $attr; 
