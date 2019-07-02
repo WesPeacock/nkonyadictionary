@@ -68,12 +68,13 @@ push @opledfile_in, $line;
 for my $oplline (@opledfile_in) {
 # insert code here to perform on each opl'ed line.	
 
+
+say STDERR "oplline:", Dumper($oplline) if $debug;
 #de_opl this line
 	for ($oplline) {
 		s/#/\n/g;
 		s/\_\_hash\_\_/#/g;
 		print;
-		say STDERR "oplline:", Dumper($oplline) if $debug;
 		}
 	}
 
