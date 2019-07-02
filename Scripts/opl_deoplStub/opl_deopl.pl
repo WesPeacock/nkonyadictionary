@@ -1,11 +1,11 @@
 #!/usr/bin/perl
-my $USAGE = "Usage: $0 [--inifile inifile.ini] [--section section] [--debug] [file.sfm]";
-=pod	
+my $USAGE = "Usage: $0 [--inifile inifile.ini] [--section section] [--recmark lx] [--debug] [file.sfm]";
+=pod
 This script is a stub that provides the code for opl'ing and de_opl'ing an input file
 It also includes code to:
 	- use an ini file
 	- process command line options including debugging
-	- 
+
 The ini file should have sections with syntax like this:
 [section]
 Param1=Value1
@@ -31,10 +31,12 @@ GetOptions (
 #	'section:s'   => \(my $inisection = "section"), # section of ini file to use
 # additional options go here.
 # 'sampleoption:s' => \(my $sampleoption = "optiondefault"),
+	'recmark:s' => \(my $recmark = "lx"), # record marker, default lx
 	'debug'       => \my $debug,
 	) or die $USAGE;
 
 # check your options and assign their information to variables here
+$recmark =~ s/[\\ ]//g; # no backslashes or spaces in record marker
 
 # if you need  a config file uncomment the following and modify it for the initialization you need.
 # if you have set the $inifilename & $inisection in the options, you only need to set the parameter variables according to the parameter names
@@ -48,15 +50,15 @@ my $param2 = $config->{"$inisection"}->{Param2};
 say STDERR "Param2:$param2" if $debug;
 =cut
 
-# generate array of the input file with one SFM record per line (opl) 
+# generate array of the input file with one SFM record per line (opl)
 my @opledfile_in;
-my $line = ""; # accumulated SFM record 
+my $line = ""; # accumulated SFM record
 while (<>) {
 	s/\R//g; # chomp that doesn't care about Linux & Windows
 	#perhaps s/\R*$//; if we want to leave in \r characters in the middle of a line 
 	s/#/\_\_hash\_\_/g;
 	$_ .= "#";
-	if (/^\\lx /) {
+	if (/^\\$recmark /) {
 		$line =~ s/#$/\n/;
 		push @opledfile_in, $line;
 		$line = $_;
@@ -66,7 +68,7 @@ while (<>) {
 push @opledfile_in, $line;
 
 for my $oplline (@opledfile_in) {
-# insert code here to perform on each opl'ed line.	
+# insert code here to perform on each opl'ed line.
 
 
 say STDERR "oplline:", Dumper($oplline) if $debug;
