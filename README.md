@@ -9,7 +9,6 @@ The control files assume that this directory is C:\My Toolbox Projects\Nkonya.
 
 The following program files are used but not included in the repository:
 
-* Scripts\busybox.exe is available from the link on https://github.com/pclouds/busybox-w32
 * Settings\toolbox.exe is available from links on http://sil.org/computing/toolbox/downloads.htm.
 * Lexique Pro is available from http://www.lexiquepro.com/download.htm
 
