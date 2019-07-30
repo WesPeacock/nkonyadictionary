@@ -1,0 +1,1 @@
+This folder contains notes reagrding changes made for publication of Scripture
