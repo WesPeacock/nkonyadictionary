@@ -1,6 +1,6 @@
 \+ShProjectSettings 
 \ver 5.0
-\ProgramVersion 1.6.2 Jul 2015
+\ProgramVersion 1.6.3 Jan 2018
 \ProjectPath C:\My Toolbox Projects\Nkonya\Settings\Toolbox Project.prj
 \LockProject 0
 \AutomaticKeyboardSwitching
@@ -32,7 +32,6 @@
 \-Corpus
 \-CorpusSet
 \WarnDocClose
-\NoAutoWrap
 \LangCtrlHeight 24
 \DontValidateOnEdit
 \DontAskChangeMarker
@@ -62,17 +61,17 @@
 \command echo hipl | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \command echo until | bash -c "cd ../tmp ; cp searchthes.txt result.txt ;  echo \"$(grep $(cat) ths-singleline)\" >>result.txt"
 \-rundosMarkers
-\placementMain normal -1 -1 -1 -1 12 37 1507 874
+\placementMain normal -1 -1 -1 -1 282 79 1429 812
 \+dblst 
 
 \+db C:\My Toolbox Projects\Nkonya\Scripture Names.txt
 \+wndlst 
 \+wnd 
-\placement min 21 622 0 25 0 0 1186 446
-\z 0
+\placement normal 21 622 0 25 0 0 1186 446
+\z 4
 \ViewMarkers
 \ViewFieldNames
-\widthMarkerArea 150
+\widthMarkerArea 193
 \JumpTarget
 \FocusTarget
 \+brflst 
@@ -101,16 +100,16 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri iwú
+\fldPri aganɛ
 \match_char p
 \-keySearch
 \+keyInsert 
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 2
+\CaretLineScroll 2
+\CaretChar 1
 \-wnd
 \-wndlst
 \-db
@@ -119,7 +118,7 @@
 \+wndlst 
 \+wnd 
 \placement min 21 673 0 25 30 30 1216 476
-\z 1
+\z 0
 \ViewMarkers
 \ViewFieldNames
 \widthMarkerArea 156
@@ -151,7 +150,7 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri iwú
+\fldPri aganɛ
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -169,8 +168,8 @@
 \+db C:\My Toolbox Projects\Nkonya\Nkolex in Unicode.txt
 \+wndlst 
 \+wnd 
-\placement normal -1 -1 -1 -1 44 -12 1409 454
-\z 6
+\placement normal -1 -1 -1 -1 7 17 1372 483
+\z 1
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -228,10 +227,11 @@
 \mkrPriKey lx
 \srtPriKey NkonyaU
 \mkrSecKey dt
+\fil Variants
 \-ind
 \+rec 
-\fldPriKey a
-\fldSecKey 10/Jan/2017
+\fldPriKey aganɛ
+\fldSecKey 24/Jul/2017
 \-rec
 \+keySearch 
 \fldPri 1CO.10:21
@@ -242,13 +242,13 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 2
+\CaretLineScroll 2
+\CaretChar 12
 \-wnd
 \+wnd 
-\placement normal -1 -1 -1 -1 160 160 1531 626
-\z 2
+\placement normal -1 -1 -1 -1 87 165 1458 631
+\z 5
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -296,9 +296,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 8
-\CaretLineScroll 8
-\CaretChar 5
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 65 111 1436 577
@@ -350,13 +350,13 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 9
-\CaretLineScroll 9
-\CaretChar 0
+\CaretLine 14
+\CaretLineScroll 13
+\CaretChar 10
 \-wnd
 \+wnd 
 \placement normal -1 -1 -1 -1 32 32 1281 511
-\z 4
+\z 2
 \ViewMarkers
 \ViewMarkerHierarchy
 \ViewFieldNames
@@ -422,9 +422,9 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 3
-\CaretLineScroll 3
-\CaretChar 0
+\CaretLine 15
+\CaretLineScroll 14
+\CaretChar 1
 \-wnd
 \-wndlst
 \-db
@@ -432,8 +432,8 @@
 \+db C:\My Toolbox Projects\Nkonya\tmp\outmodel.sfm
 \+wndlst 
 \+wnd 
-\placement normal -1 -1 -1 -1 0 0 1249 479
-\z 5
+\placement normal -1 -1 -1 -1 15 64 1015 543
+\z 6
 \ViewMarkers
 \widthMarkerArea 50
 \JumpTarget
@@ -467,15 +467,15 @@
 \-brf
 \+brf 
 \mkr bwc
-\width 147
+\width 36
 \-brf
 \+brf 
 \mkr ng
-\width 115
+\width 0
 \-brf
 \+brf 
 \mkr nt
-\width 23
+\width 0
 \-brf
 \-brflst
 \+ind 
@@ -488,23 +488,24 @@
 \fldSecKey
 \-rec
 \+keySearch 
-\fldPri iwú
+\fldPri aganɛ
 \match_char p
 \-keySearch
 \+keyInsert 
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 18
+\CaretLineScroll 6
+\CaretChar 483
 \-wnd
 \-wndlst
 \-db
 
 \-dblst
 \+Find 
-\Field ctyp
+\SingleField
+\Field wn
 \match_char c
 \+ftxlst 
 \+ftx 
@@ -584,7 +585,7 @@
 \-ftx
 \+ftx 
 \text iye
-\lng vernacular
+\lng national
 \-ftx
 \-ftxlst
 \Replace _Compound_
