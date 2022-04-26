@@ -1,13 +1,14 @@
+## This Version of the Nkonya Dictionary is Outdated
+In 2017, the Nkonya dictionary was converted from Toolbox to the SIL Fieldworks Language Explorer (FLEx).
+The Toolbox version of the dictionary was frozen in September 2017.
+All future work on the dictionary will be done using FLEx.
+Updates to the FLEx version are posted to https://webonary.org/nkonya
+
 ### Introduction
 This repository is for the Toolbox version of the Nkonya Dictionary.
 Nkonya is a language spoken in the Volta Region of Eastern Ghana.
 General information about the Nkonya language are available on the Nkonya dictionary website:
- https://nkonya.webonary.org/
-
-In 2017, the Nkonya dictionary was converted from Toolbox to the SIL Fieldworks Language Explorer (FLEx).
-The Toolbox version of the dictionary was frozen in September 2017.
-All future work on the dictionary will be done using FLEx.
-Updates to the FLEx version are posted to https://nkonya.webonary.org/
+ https://webonary.org/nkonya
 
 ### About the Dictionary
 The main lexical file is Nkolex in Unicode.txt in this directory.
